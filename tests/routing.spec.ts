@@ -73,7 +73,7 @@ test('when native share is unavailable, share and copy produce the article perma
 
 test('old Pages article paths redirect to custom-domain root with history intact',async({page})=>{
     await page.goto('/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
-    await expect(page).toHaveURL(/\\/article\\/world\\/2026-10-24\\/oleshky-humanitarian-ceasefire\\/$/);
+    await expect.poll(()=>new URL(page.url()).pathname).toBe(articleUrl);
     await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
   });
   
