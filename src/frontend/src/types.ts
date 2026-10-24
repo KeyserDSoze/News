@@ -1,3 +1,4 @@
+import { articleHref } from './routes';
 export type Locale = 'it' | 'en';
 export type Section = 'world' | 'italy' | 'technology' | 'science';
 export type Category = 'world' | 'politics' | 'economy' | 'technology' | 'climate' | 'society';
@@ -19,5 +20,5 @@ export interface NewsIndex { version: number; revision?: string; dates: string[]
 export interface StoryPreview extends StoryRef { title: string; dek: string; summary: string; category: Category; threadId?: string; threadRecap?: string; related?: StoryRef[]; }
 export interface StoryIndex { version: number; language: Locale; stories: StoryPreview[]; }
 export function storyKey(ref: StoryRef) { return `${ref.date}/${ref.section}/${ref.id}`; }
-export function storyHref(ref: StoryRef) { return `#/article/${ref.section}/${ref.date}/${encodeURIComponent(ref.id)}`; }
+export function storyHref(ref: StoryRef) { return articleHref(ref); }
 export function editionPath(date: string, section: Section) { return section==='world' ? `news/${date}/world` : `news/${date}/${section}`; }

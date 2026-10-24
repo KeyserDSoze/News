@@ -2,11 +2,12 @@ import { useEffect, useMemo, useState } from 'react';
 import type { FormEvent } from 'react';
 import { ArrowRight, CalendarDays, Check, Database, Search as SearchIcon, SlidersHorizontal, Tag, X } from 'lucide-react';
 import { formatDate, messages, sectionName } from './i18n';
+import { searchHref } from './routes';
 import { sections, storyHref } from './types';
 import type { Locale, Section } from './types';
 import { searchArchive } from './search';
 import type { SearchFilters, SearchHit, SearchProgress } from './search';
-export function tagHref(tag:string){return '#/search/tag/'+encodeURIComponent(tag);}
+export function tagHref(tag:string){return searchHref(tag);}
 const empty:SearchFilters={text:'',tag:'',from:'',to:'',section:'all'};
 export default function SearchPage({locale,presetTag}:{locale:Locale;presetTag:string}){
  const t=messages[locale], [draft,setDraft]=useState<SearchFilters>({...empty,tag:presetTag});

@@ -1,21 +1,12 @@
 import { useEffect, useRef, useState } from 'react';
-import { ArrowLeft, ArrowRight, BookOpen, Check, ChevronRight, Copy, ExternalLink, Globe2, Moon, Sun, Clock3, Link2, Search as SearchIcon, Tag } from 'lucide-react';
+import { ArrowLeft, ArrowRight, BookOpen, Check, ChevronRight, Copy, Share2, ExternalLink, Globe2, Moon, Sun, Clock3, Link2, Search as SearchIcon, Tag } from 'lucide-react';
 import SearchPage, { tagHref } from './SearchPage';
 import { useArchive, useStoryIndex, getJSON, editionUrl, mediaUrl } from './data';
 import { formatDate, messages, sectionName } from './i18n';
 import { sections, sectionSize, storyHref, storyKey } from './types';
 import type { Article, Edition, Locale, Section, StoryIndex, StoryPreview, StoryRef } from './types';
-type Route = {kind:'section';section:Section} | {kind:'search';tag:string} | {kind:'article';section:Section;date:string;id:string};
-function routeFromHash(): Route {
-  const parts=window.location.hash.replace(/^#\/?/,'').split('/').map(decodeURIComponent);
-  if(parts[0]==='search')return {kind:'search',tag:parts[1]==='tag'?(parts[2]||''):''};
-  const section=sections.find(s=>s===parts[0]);
-  if(section)return {kind:'section',section};
-  if(parts[0]==='article' && sections.includes(parts[1] as Section) && /^\d{4}-\d{2}-\d{2}$/.test(parts[2]||'') && /^[a-z0-9-]+$/.test(parts[3]||'')){
-    return {kind:'article',section:parts[1] as Section,date:parts[2],id:parts[3]};
-  }
-  return {kind:'section',section:'world'};
-}
+import { APP_BASE, currentPath, isAppRoute, normalizeLegacyRoute, routeFromPath, sectionHref, searchHref } from './routes';
+import type { Route } from './routes';
 function initialLocale():Locale {
   try {const stored=localStorage.getItem('og-language');if(stored==='it'||stored==='en')return stored;}catch{}
   return navigator.language.toLowerCase().startsWith('it')?'it':'en';
@@ -132,12 +123,41 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
     return()=>{alive=false;};
   },[route.date,route.section,locale]);
   const article=edition?.articles.find(x=>x.id===route.id),t=messages[locale];
-  const copyLink=async()=>{try{await navigator.clipboard.writeText(window.location.href);setCopied(true);}catch{setCopied(false);}};
+  const [shareError,setShareError]=useState(false);
+  const canonicalUrl = () => new URL(storyHref(route),window.location.origin).href;
+  const copyLink=async()=>{
+    const url=canonicalUrl();
+    try{
+      if(navigator.clipboard?.writeText) await navigator.clipboard.writeText(url);
+      else {
+        const input=document.createElement('textarea');
+        input.value=url;input.style.position='fixed';input.style.opacity='0';
+        document.body.appendChild(input);input.select();
+        const didCopy=document.execCommand('copy');input.remove();
+        if(!didCopy)throw new Error('Clipboard unavailable');
+      }
+      setCopied(true);setShareError(false);
+    }catch{setShareError(true);}
+  };
+  const share=async()=>{
+    const details={title:article?.title||'O',text:article?.dek||'',url:canonicalUrl()};
+    if(navigator.share){
+      try{await navigator.share(details);return;}
+      catch(e){if(e instanceof DOMException&&e.name==='AbortError')return;}
+    }
+    await copyLink();
+  };
   if(!article)return <main className="container article-loading"><a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a><p role="status">{error?t.error:t.loading}</p></main>;
   const paragraphs=article.body?.length?article.body:[article.facts.join(' '),article.perspectives.join(' ')];
   const questions=article.questions?.length?article.questions:article.unknowns.map(s=>({question:t.unknowns,answer:s}));
   return <main className="article-view container" id="content">
-    <div className="article-toolbar"><a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a><button onClick={copyLink} className="share-button"><Copy size={16}/>{copied?t.copied:t.share}</button></div>
+    <div className="article-toolbar"><a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a>
+      <div className="article-share-actions">
+        <button type="button" onClick={share} className="share-button"><Share2 size={16}/>{t.share}</button>
+        <button type="button" onClick={copyLink} className="share-button copy-share"><Copy size={16}/>{copied?t.copied:t.copyLink}</button>
+      </div>
+    </div>
+    {shareError&&<p className="share-error" role="alert">{locale==='it'?'Non è stato possibile copiare il link.':'Could not copy the link.'}</p>}
     <div className="article-hero"><div className="detail-kicker"><span className="red-square"/>{sectionName(route.section,locale)} <span className="separator">/</span> {formatDate(route.date,locale)} <span className="separator">/</span> {String(article.rank).padStart(2,'0')}</div>
       <h1>{article.title}</h1><p className="article-dek">{article.dek}</p>
       <Impact article={article} section={route.section} locale={locale}/><Tags article={article} locale={locale}/><div className="article-source-meta"><Check size={15}/>{article.sources.length} {t.sources.toLowerCase()} <span>·</span> O / {t.name}</div>
@@ -185,7 +205,7 @@ function SectionPage({section,locale,index}:{section:Section;locale:Locale;index
     <div className="container publication" id="editions">
       {loading&&<div className="load-state" role="status"><span className="loader"/>{t.loading}</div>}
       {error&&!loading&&active.length===0&&<div className="load-state" role="alert">{t.error} <button onClick={()=>location.reload()}>{t.retry}</button></div>}
-      {!loading&&dates.length===0&&!error&&<div className="pending-edition"><span className="pending-index">{String(sections.indexOf(section)+1).padStart(2,'0')} / 04</span><div className="eyebrow"><span className="red-square"/>{t.pendingTag}</div><h2>{t.pendingTitle}</h2><p>{t.pendingText}</p><a className="back-link" href="#/world">{sectionName('world',locale)} <ArrowRight size={17}/></a></div>}
+      {!loading&&dates.length===0&&!error&&<div className="pending-edition"><span className="pending-index">{String(sections.indexOf(section)+1).padStart(2,'0')} / 04</span><div className="eyebrow"><span className="red-square"/>{t.pendingTag}</div><h2>{t.pendingTitle}</h2><p>{t.pendingText}</p><a className="back-link" href={sectionHref("world")}>{sectionName('world',locale)} <ArrowRight size={17}/></a></div>}
       {active.map((edition,i)=><Day key={edition.date} edition={edition} locale={locale} section={section} first={i===0} index={index}/>)}
       {hasMore&&!loading&&<div className="archive-marker" ref={marker} role="status">{t.more} <span className="loader"/></div>}
       {!hasMore&&!loading&&dates.length>0&&<div className="archive-end"><span>✳</span>{t.end}</div>}
@@ -194,34 +214,66 @@ function SectionPage({section,locale,index}:{section:Section;locale:Locale;index
 }
 export default function App(){
   const [locale,setLocale]=useState<Locale>(initialLocale),[theme,setTheme]=useState<'light'|'dark'>(initialTheme);
-  const [route,setRoute]=useState<Route>(routeFromHash);
+  const [route,setRoute]=useState<Route>(()=>{
+    normalizeLegacyRoute();
+    return routeFromPath();
+  });
   const [visited,setVisited]=useState<Section[]>(()=>route.kind==='section'?[route.section]:[]);
   const [searchSeen,setSearchSeen]=useState(route.kind==='search');
   const [searchTag,setSearchTag]=useState(route.kind==='search'?route.tag:'');
-  const [returnTo,setReturnTo]=useState<string>(route.kind==='article'?'#/'+route.section:'#/world');
+  const [returnTo,setReturnTo]=useState<string>(route.kind==='article'?sectionHref(route.section):sectionHref('world'));
   const scrollRef=useRef<Record<string,number>>((()=>{
     try{return JSON.parse(sessionStorage.getItem('o-scroll-positions')||'{}') as Record<string,number>;}catch{return {};}
   })());
-  const current=useRef<Route>(route);
+  const current=useRef<{route:Route;path:string}>({route,path:currentPath()});
   const index=useStoryIndex(locale),t=messages[locale],selected=route.kind==='search'?'world':route.section;
   useEffect(()=>{
     if('scrollRestoration' in history)history.scrollRestoration='manual';
-    const onHash=(event:HashChangeEvent)=>{
-      const oldHash=new URL(event.oldURL).hash||'#/world',incoming=routeFromHash();
-      scrollRef.current[oldHash]=window.scrollY;
+    const record=(path:string)=>{
+      scrollRef.current[path]=window.scrollY;
       try{sessionStorage.setItem('o-scroll-positions',JSON.stringify(scrollRef.current));}catch{}
-      if((current.current.kind==='section'||current.current.kind==='search')&&incoming.kind==='article')setReturnTo(oldHash);
-      current.current=incoming;
+    };
+    const activate=(previous:string)=>{
+      const incoming=routeFromPath();
+      if((current.current.route.kind==='section'||current.current.route.kind==='search')&&incoming.kind==='article')
+        setReturnTo(previous);
+      current.current={route:incoming,path:currentPath()};
       setRoute(incoming);
       if(incoming.kind==='section')setVisited(old=>old.includes(incoming.section)?old:[...old,incoming.section]);
       if(incoming.kind==='search'){setSearchSeen(true);setSearchTag(incoming.tag);}
       requestAnimationFrame(()=>requestAnimationFrame(()=>{
-        const hash=window.location.hash||'#/world';
-        window.scrollTo({top:scrollRef.current[hash]??0,left:0,behavior:'instant'});
+        window.scrollTo({top:scrollRef.current[currentPath()]??0,left:0,behavior:'instant'});
       }));
     };
-    window.addEventListener('hashchange',onHash);
-    return()=>window.removeEventListener('hashchange',onHash);
+    const onClick=(event:MouseEvent)=>{
+      if(event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+      if(!(event.target instanceof Element))return;
+      const anchor=event.target.closest('a[href]');
+      if(!anchor||anchor.hasAttribute('download')||(anchor.target&&anchor.target!=='_self'))return;
+      const url=new URL(anchor.href,window.location.href);
+      if(url.origin!==window.location.origin||!isAppRoute(url.pathname)||url.hash)return;
+      event.preventDefault();
+      const target=url.pathname+url.search;
+      if(target===currentPath()){window.scrollTo({top:0,left:0,behavior:'instant'});return;}
+      const previous=current.current.path;
+      record(previous);
+      history.pushState(null,'',target);
+      activate(previous);
+    };
+    const onPopState=()=>{
+      const previous=current.current.path;
+      record(previous);
+      activate(previous);
+    };
+    const onPageHide=()=>record(current.current.path);
+    document.addEventListener('click',onClick);
+    window.addEventListener('popstate',onPopState);
+    window.addEventListener('pagehide',onPageHide);
+    return()=>{
+      document.removeEventListener('click',onClick);
+      window.removeEventListener('popstate',onPopState);
+      window.removeEventListener('pagehide',onPageHide);
+    };
   },[]);
   useEffect(()=>{
     document.documentElement.dataset.theme=theme;document.documentElement.lang=locale;
@@ -232,14 +284,14 @@ export default function App(){
   return <div className="site-shell">
     <div className="topline"><div className="container topline-inner"><span>O / {t.name.toUpperCase()}</span><span>{t.tagline}</span></div></div>
     <header className="masthead container">
-      <a className="wordmark o-brand" href="#/world" aria-label="O — home"><span className="wordmark-symbol">O<span>.</span></span><span className="brand-definition"><small>{t.name}</small><small>{locale==='it'?'0 pubblicità · 0 sensazionalismi':'0 ads · 0 clickbait'}</small></span></a>
+      <a className="wordmark o-brand" href={sectionHref("world")} aria-label="O — home"><span className="wordmark-symbol">O<span>.</span></span><span className="brand-definition"><small>{t.name}</small><small>{locale==='it'?'0 pubblicità · 0 sensazionalismi':'0 ads · 0 clickbait'}</small></span></a>
       <div className="header-actions">
-        <a className={'header-search '+(route.kind==='search'?'active':'')} href="#/search" aria-label={t.searchOpen}><SearchIcon size={18}/><span>{t.search}</span></a>
+        <a className={'header-search '+(route.kind==='search'?'active':'')} href={searchHref()} aria-label={t.searchOpen}><SearchIcon size={18}/><span>{t.search}</span></a>
         <button type="button" className="lang-btn" onClick={()=>changeLocale(locale==='it'?'en':'it')} aria-label={locale==='it'?t.english:t.italian}><Globe2 size={17}/><span>{locale.toUpperCase()}</span><span className="lang-arrow">↔</span></button>
         <button type="button" className="icon-btn" aria-label={theme==='dark'?t.light:t.dark} onClick={()=>setTheme(theme==='dark'?'light':'dark')}>{theme==='dark'?<Sun size={20}/>:<Moon size={20}/>}</button>
       </div>
     </header>
-    <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={'#/'+s} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong><span>{String(sectionSize[s]).padStart(2,'0')}</span></a>)}</nav></div>
+    <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={sectionHref(s)} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong><span>{String(sectionSize[s]).padStart(2,'0')}</span></a>)}</nav></div>
     {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index}/></div>)}
     {searchSeen&&<div data-search-root hidden={route.kind!=='search'}><SearchPage locale={locale} presetTag={searchTag}/></div>}
     {route.kind==='article'&&<ArticleView route={route} locale={locale} index={index} returnTo={returnTo}/>}
