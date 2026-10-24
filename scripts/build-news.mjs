@@ -42,7 +42,7 @@ for(const day of dates) {
     for(const k of ['title','dek','summary','impactReason'])requireText(a[k],where+' '+k);
     if(typeof a.impact!=='number'||!Number.isInteger(a.impact*2)||a.impact<0.5||a.impact>5)fail(where+' impact must be 0.5..5 in half-star increments');
     if(!Array.isArray(a.tags)||a.tags.length!==3||new Set(a.tags.map(t=>t.toLocaleLowerCase('en'))).size!==3)fail(where+' must have exactly 3 unique tags');
-    a.tags.forEach(t=>{if(typeof t!=='string'||!/^[\\p{L}\\p{N}-]{2,30}$/u.test(t))fail(where+' invalid tag '+t);});
+    a.tags.forEach(t=>{if(typeof t!=='string'||!/^[A-Za-zÀ-ÖØ-öø-ÿ0-9-]{2,30}$/.test(t))fail(where+' invalid tag '+t);});
     if(!['world','politics','economy','technology','climate','society'].includes(a.category))fail(where+' invalid category');
     for(const k of ['facts','perspectives','unknowns']){
       if(!Array.isArray(a[k])||!a[k].length)fail(where+' '+k+' missing');
