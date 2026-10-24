@@ -6,7 +6,7 @@ const dist=path.join(root,'src/frontend/dist');
 const frontend=JSON.parse(await readFile(path.join(root,'src/frontend/package.json'),'utf8'));
 const version=frontend.version;
 const revision=process.env.GITHUB_SHA||version;
-const base=(process.env.VITE_BASE_PATH||'/News/').replace(/\/?$/,'/');
+const base=(process.env.VITE_BASE_PATH||'/').replace(/\/?$/,'/');
 const manifest={
  id:base,name:'O',short_name:'O',description:'Oggettivizzatore / Objectivizer. I fatti, senza pubblicità e senza titoli sensazionalistici.',
  start_url:base,scope:base,display:'standalone',display_override:['standalone','minimal-ui'],

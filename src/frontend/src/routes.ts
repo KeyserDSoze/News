@@ -50,13 +50,17 @@ export function isAppRoute(pathname:string) {
 }
 /** Preserve links published with the old hash router, without a page refresh. */
 export function normalizeLegacyRoute() {
-  if(window.location.hash.startsWith('#/')) {
-    const legacy=window.location.hash.slice(2);
-    const url=APP_BASE+legacy.replace(/^\/+/, '').replace(/\/$/,'')+'/';
-    if(isAppRoute(new URL(url,window.location.origin).pathname)){
-      history.replaceState(history.state,'',url+window.location.search);
+  const legacyPath=window.location.pathname.startsWith('/News/')
+    ? window.location.pathname.slice('/News/'.length) : null;
+  const hashRoute=window.location.hash.startsWith('#/')
+    ? window.location.hash.slice(2) : null;
+  if(legacyPath!==null || hashRoute!==null){
+    const suffix=(hashRoute??legacyPath??'').replace(/^\\/+|\\/+$/g,'');
+    const canonical=APP_BASE+suffix+(suffix?'/':'');
+    if(isAppRoute(new URL(canonical,window.location.origin).pathname)){
+      history.replaceState(history.state,'',canonical+window.location.search);
     }
-  } else if(window.location.pathname===APP_BASE.slice(0,-1)){
+  } else if(window.location.pathname===APP_BASE.slice(0,-1)&&APP_BASE!=='/'){
     history.replaceState(history.state,'',APP_BASE+window.location.search);
   }
 }

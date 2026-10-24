@@ -5,18 +5,41 @@ import { fileURLToPath } from 'node:url';
 const repo=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const dist=path.join(repo,'src/frontend/dist');
 const news=path.join(repo,'news');
-const base=(process.env.VITE_BASE_PATH||'/News/').replace(/\/?$/,'/');
-const origin=(process.env.PUBLIC_SITE_ORIGIN||'https://keyserdsoze.github.io').replace(/\/$/,'');
+const base=(process.env.VITE_BASE_PATH||'/').replace(/\/?$/,'/');
+const origin=(process.env.PUBLIC_SITE_ORIGIN||'https://onews.app').replace(/\/$/,'');
 const html=await readFile(path.join(dist,'index.html'),'utf8');
 const sections=['world','italy','technology','science'];
 const escapeHtml=(value)=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeSegment=(value)=>/^[a-z0-9-]+$/.test(value);
 const absolute=(pathPart)=>origin+base+pathPart;
 
+
+// Old Pages project paths such as /News/article/... are redirected to
+// the new canonical root on onews.app, including old hash-router links.
+function legacyRedirect(){
+ const js = `(function(){
+  var u = new URL(location.href);
+  var route = u.hash.indexOf('#/') === 0 ? u.hash.slice(2) : u.pathname.replace(/^\\/News\\/?/, '');
+  u.pathname = '/' + route.replace(/^\\/+/, '');
+  if (!u.pathname.endsWith('/')) u.pathname += '/';
+  u.hash = '';
+  location.replace(u.toString());
+ })();`;
+ return '<!doctype html><html lang="it"><head><meta charset="utf-8">'
+  + '<title>O — Redirect</title><meta name="robots" content="noindex">'
+  + '<meta http-equiv="refresh" content="0;url=/">'
+  + '</head><body><script>'+js+'</script><a href="/">O</a></body></html>';
+}
+
 async function page(subpath,rendered){
   const folder=path.join(dist,subpath);
   await mkdir(folder,{recursive:true});
   await writeFile(path.join(folder,'index.html'),rendered);
+  if(base==='/') {
+    const legacyFolder=path.join(dist,'News',subpath);
+    await mkdir(legacyFolder,{recursive:true});
+    await writeFile(path.join(legacyFolder,'index.html'),legacyRedirect());
+  }
 }
 function withMetadata(title,description,relativeUrl,imageRelative,type='website'){
   const safeTitle=escapeHtml(title);
@@ -79,6 +102,10 @@ for(const tag of tagSet){
   await page('search/tag/'+encodeURIComponent(tag)+'/',withMetadata('O — #'+tag,
     'Le notizie di O sul tema '+tag,'search/tag/'+encodeURIComponent(tag)+'/',
     'fallback/world.svg'));
+}
+if(base==='/') {
+ await mkdir(path.join(dist,'News'),{recursive:true});
+ await writeFile(path.join(dist,'News/index.html'),legacyRedirect());
 }
 // GitHub Pages does not rewrite unknown routes to index.html.
 // A copy of the compiled shell handles non-prerendered future paths without a server.
