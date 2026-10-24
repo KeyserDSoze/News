@@ -191,13 +191,13 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
     <div className="article-mobile-controls">{fullTools}</div>
     {reader.error&&<p className="reader-error" role="alert">{reader.error}</p>}
     {shareError&&<p className="share-error" role="alert">{locale==='it'?'Non è stato possibile copiare il link.':'Could not copy the link.'}</p>}
+    <div className="article-layout">
+      <div className="article-main">
     <div className="article-hero"><div className="detail-kicker"><span className="red-square"/>{sectionName(route.section,locale)} <span className="separator">/</span> {formatDate(route.date,locale)} <span className="separator">/</span> {String(article.rank).padStart(2,'0')}</div>
       <h1>{article.title}</h1><p className="article-dek">{article.dek}</p>
       <Impact article={article} section={route.section} locale={locale}/><Tags article={article} locale={locale}/><div className="article-source-meta"><Check size={15}/>{article.sources.length} {t.sources.toLowerCase()} <span>·</span> O / {t.name}</div>
     </div>
     <section className="article-summary" aria-label={t.summary}><div className="article-summary-heading"><span className="summary-bullet">O.</span><h2>{t.summary}</h2></div><p>{article.summary}</p></section>
-    <div className="article-layout">
-      <div className="article-main">
         <Picture article={article} locale={locale} section={route.section}/>
         <section className="article-body"><div className="detail-kicker"><BookOpen size={17}/>{t.fullStory}</div>
           <h2>{t.fullStory}</h2>
@@ -351,7 +351,7 @@ export default function App(){
     <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={sectionHref(s)} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong><span>{String(sectionSize[s]).padStart(2,'0')}</span></a>)}</nav></div>
     {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index}/></div>)}
     {searchSeen&&<div data-search-root hidden={route.kind!=='search'}><SearchPage locale={locale} presetTag={searchTag}/></div>}
-    {route.kind==='article'&&<ArticleView route={route} locale={locale} index={index} returnTo={returnTo}/>}
+    {route.kind==='article'&&<ArticleView key={locale+'/'+route.section+'/'+route.date+'/'+route.id} route={route} locale={locale} index={index} returnTo={returnTo}/>}
     {route.kind==='releases'&&<ReleasePage locale={locale}/>}
     <footer id="method"><div className="container footer-grid"><div><div className="footer-logo">O<span>.</span></div><h2>{t.definition}</h2><p>{t.about} {t.mediaNotice}</p><p className="zero-footer">{t.zero1} <span>/</span> {t.zero2}</p><a className="footer-link" href="https://github.com/KeyserDSoze/News/blob/main/docs/EDITORIAL_POLICY.md" target="_blank" rel="noopener noreferrer">{t.methodologyLink} <ArrowRight size={16}/></a></div>
       <div className="footer-side"><div className="footer-rule">01 / {t.methodology.toUpperCase()}</div><p>{t.footnote}</p><div className="footer-rule">02 / OPEN SOURCE</div><a href="https://github.com/KeyserDSoze/News" target="_blank" rel="noopener noreferrer">{t.openSource} <ExternalLink size={14}/></a></div></div>
