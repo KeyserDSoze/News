@@ -19,6 +19,7 @@ import { useArticleSpeech } from './readerSpeech';
 import { useBriefingSpeech } from './briefingSpeech';
 import type { BriefingSpeech } from './briefingSpeech';
 import BriefingPlayer from './BriefingPlayer';
+import GlobalAudioBar from './GlobalAudioBar';
 function initialLocale():Locale {
   try {const stored=localStorage.getItem('og-language');if(stored==='it'||stored==='en')return stored;}catch{}
   return navigator.language.toLowerCase().startsWith('it')?'it':'en';
@@ -151,7 +152,7 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
   },[route.date,route.section,locale,retry]);
   const article=edition?.articles.find(x=>x.id===route.id),t=messages[locale];
   const [shareError,setShareError]=useState(false);
-  const reader=useArticleSpeech(locale,route.section+'/'+route.date+'/'+route.id);
+  const reader=useArticleSpeech(locale,route.section+'/'+route.date+'/'+route.id,article?.title,storyHref(route));
   const canonicalUrl = () => new URL(storyHref(route),window.location.origin).href;
   const copyLink=async()=>{
     const url=canonicalUrl();
@@ -227,10 +228,10 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
     <a href={returnTo} className="article-return"><ArrowLeft size={17}/>{t.back}</a>
   </main>;
 }
-function SectionPage({section,locale,index,enabled}:{section:Section;locale:Locale;index:StoryIndex|null;enabled:boolean}){
+function SectionPage({section,locale,index}:{section:Section;locale:Locale;index:StoryIndex|null}){
   const {active,dates,visible,loading,error,showNext,nextReady,hasMore}=useArchive(locale,section);
   const marker=useRef<HTMLDivElement>(null),t=messages[locale];
-  const reader=useBriefingSpeech(active[0]||null,section,locale,enabled);
+  const reader=useBriefingSpeech(active[0]||null,section,locale);
   useEffect(()=>{
     if(!hasMore||!nextReady||loading||!marker.current)return;
     const observer=new IntersectionObserver(entries=>{if(entries[0]?.isIntersecting)showNext();},{rootMargin:'650px'});
@@ -407,10 +408,11 @@ export default function App(){
       </div>
     </header>
     <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={sectionHref(s)} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong></a>)}</nav></div>
-    {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index} enabled={route.kind==='section'&&route.section===s}/></div>)}
+    {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index}/></div>)}
     {searchSeen&&<div data-search-root hidden={route.kind!=='search'}><SearchPage locale={locale} presetTag={searchTag}/></div>}
     {route.kind==='article'&&<ArticleView key={locale+'/'+route.section+'/'+route.date+'/'+route.id} route={route} locale={locale} index={index} returnTo={returnTo}/>}
     {route.kind==='releases'&&<ReleasePage locale={locale}/>}
+    <GlobalAudioBar locale={locale}/>
     <footer id="method"><div className="container footer-grid"><div><div className="footer-logo">O<span>.</span></div><h2>{t.definition}</h2><p>{t.about} {t.mediaNotice}</p><p className="zero-footer">{t.zero1} <span>/</span> {t.zero2}</p><a className="footer-link" href="https://github.com/KeyserDSoze/News/blob/main/docs/EDITORIAL_POLICY.md" target="_blank" rel="noopener noreferrer">{t.methodologyLink} <ArrowRight size={16}/></a></div>
       <div className="footer-side"><div className="footer-rule">01 / {t.methodology.toUpperCase()}</div><p>{t.footnote}</p><div className="footer-rule">02 / OPEN SOURCE</div><a href="https://github.com/KeyserDSoze/News" target="_blank" rel="noopener noreferrer">{t.openSource} <ExternalLink size={14}/></a></div></div>
       <div className="footer-bottom container"><span>© {new Date().getFullYear()} O — {t.name.toUpperCase()}</span><span>ZERO ADS. FACTS FIRST.</span></div>

@@ -35,7 +35,7 @@ export function ArticleActions({id,label,markdown,speechText,locale,reader,full=
    </button>}
    {reader.supported&&(!active?
     <button type="button" title={it?'Ascolta con la voce del dispositivo':'Listen using device voice'}
-      aria-label={(it?'Ascolta: ':'Listen: ')+label} onClick={()=>reader.start(id,speechText)}>
+      aria-label={(it?'Ascolta: ':'Listen: ')+label} onClick={()=>reader.start(id,speechText,label)}>
       <Headphones size={16}/><span>{onlySpeech?(it?'Ascolta solo la notizia':'Listen to story only'):(it?'Ascolta':'Listen')}</span>
     </button>:
     <>
