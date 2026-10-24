@@ -26,63 +26,77 @@ test('full Markdown includes headings, summary, original image provenance and ci
  expect(copied).toContain('![',);
 });
 
-test('single section copies only its Markdown without leaking the entire article',async({page})=>{
- await page.addInitScript(()=>{
-  Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async(text:string)=>{
-    (window as unknown as {mdCopy:string}).mdCopy=text;
-  }}});
- });
+test('summary and context no longer have repeated Markdown or speech controls',async({page})=>{
  await page.goto(article);
- await page.getByRole('group',{name:'Strumenti per Il riassunto'}).getByRole('button',{name:'Copia in Markdown: Il riassunto'}).click();
- const copied=await page.evaluate(()=>(window as unknown as {mdCopy:string}).mdCopy);
- expect(copied).toMatch(/^## Il riassunto\n/);
- expect(copied).not.toContain('## Fonti e documenti');
- expect(copied).not.toContain('## La notizia, nel dettaglio');
- await page.getByRole('group',{name:'Strumenti per Fonti e documenti'}).getByRole('button',{name:'Copia in Markdown: Fonti e documenti'}).click();
- const sources=await page.evaluate(()=>(window as unknown as {mdCopy:string}).mdCopy);
- expect(sources).toContain('## Fonti e documenti');
- expect(sources).toContain('](https://');
+ await expect(page.getByRole('group',{name:'Strumenti per Il riassunto'})).toHaveCount(0);
+ await expect(page.getByRole('group',{name:'Strumenti per Fatti verificabili'})).toHaveCount(0);
+ await expect(page.getByRole('group',{name:'Strumenti per Fonti e documenti'})).toHaveCount(0);
+ await expect(page.getByRole('group',{name:'Strumenti per Articolo completo'})).toHaveCount(1);
+ const body=page.getByRole('group',{name:'Strumenti per La notizia, nel dettaglio'});
+ await expect(body.getByRole('button',{name:'Ascolta: La notizia, nel dettaglio'})).toBeVisible();
+ await expect(body.getByRole('button',{name:/Markdown/})).toHaveCount(0);
 });
 
-test('Italian and English speech actions support play, pause, resume and stop',async({page})=>{
+test('speech follows the selected language and supports full or body-only playback',async({page})=>{
  await page.addInitScript(()=>{
-  const win=window as unknown as {speakingTexts:string[]};
-  win.speakingTexts=[];
-  Object.defineProperty(window,'SpeechSynthesisUtterance',{configurable:true,value:class{
-    text:string;lang='';rate=1;pitch=1;voice=null;
-    constructor(text:string){this.text=text;}
+  const win=window as unknown as {spokenLanguages:string[];speakingTexts:string[]};
+  win.spokenLanguages=[];win.speakingTexts=[];
+  Object.defineProperty(window,'SpeechSynthesisUtterance',{configurable:true,value:class {
+   text:string;lang='';rate=1;pitch=1;voice=null;
+   constructor(text:string){this.text=text;}
   }});
   Object.defineProperty(window,'speechSynthesis',{configurable:true,value:{
-   cancel(){},pause(){},resume(){},getVoices(){return [];},speak(utterance:{text:string}){win.speakingTexts.push(utterance.text);}
+   cancel(){},pause(){},resume(){},getVoices(){return [];},
+   speak(utterance:{lang:string;text:string}){
+    win.spokenLanguages.push(utterance.lang);win.speakingTexts.push(utterance.text);
+   }
   }});
  });
  await page.goto(article);
- const control=page.getByRole('group',{name:'Strumenti per Il riassunto'});
- await control.getByRole('button',{name:'Ascolta: Il riassunto'}).click();
- await expect(control.getByRole('button',{name:'Pausa: Il riassunto'})).toBeVisible();
- expect((await page.evaluate(()=>(window as unknown as {speakingTexts:string[]}).speakingTexts)).join(' ')).toContain('riassunto');
- await control.getByRole('button',{name:'Pausa: Il riassunto'}).click();
- await expect(control.getByRole('button',{name:'Riprendi: Il riassunto'})).toBeVisible();
- await control.getByRole('button',{name:'Riprendi: Il riassunto'}).click();
- await control.getByRole('button',{name:'Interrompi: Il riassunto'}).click();
- await expect(control.getByRole('button',{name:'Ascolta: Il riassunto'})).toBeVisible();
- await page.getByRole('button',{name:'Read in English'}).click();
- const en=page.getByRole('group',{name:'Tools for The summary'});
- await expect(en.getByRole('button',{name:'Listen: The summary'})).toBeVisible();
+ const full=page.getByRole('group',{name:'Strumenti per Articolo completo'});
+ await full.getByRole('button',{name:'Ascolta: Articolo completo'}).click();
+ await expect(full.getByRole('button',{name:'Pausa: Articolo completo'})).toBeVisible();
+ expect((await page.evaluate(()=>(window as unknown as {spokenLanguages:string[]}).spokenLanguages)).at(-1)).toBe('it-IT');
+ await full.getByRole('button',{name:'Pausa: Articolo completo'}).click();
+ await expect(full.getByRole('button',{name:'Riprendi: Articolo completo'})).toBeVisible();
+ await full.getByRole('button',{name:'Riprendi: Articolo completo'}).click();
+ await full.getByRole('button',{name:'Interrompi: Articolo completo'}).click();
+ const body=page.getByRole('group',{name:'Strumenti per La notizia, nel dettaglio'});
+ await body.getByRole('button',{name:'Ascolta: La notizia, nel dettaglio'}).click();
+ expect((await page.evaluate(()=>(window as unknown as {spokenLanguages:string[]}).spokenLanguages)).at(-1)).toBe('it-IT');
+ await page.getByRole('button',{name:'Seleziona lingua'}).click();
+ await page.getByRole('menuitemradio',{name:/English/}).click();
+ const en=page.getByRole('group',{name:'Tools for The full story'});
+ await en.getByRole('button',{name:'Listen: The full story'}).click();
+ expect((await page.evaluate(()=>(window as unknown as {spokenLanguages:string[]}).spokenLanguages)).at(-1)).toBe('en-GB');
 });
-
-test('hamburger displays v0.0.2 and opens bilingual changelog',async({page})=>{
+test('hamburger displays v0.0.3 and opens bilingual changelog',async({page})=>{
  await page.goto('/');
  await page.getByRole('button',{name:'Menu di O'}).click();
- await expect(page.getByRole('menuitem',{name:/Note di rilascio/})).toContainText('v0.0.2');
+ await expect(page.getByRole('menuitem',{name:/Note di rilascio/})).toContainText('v0.0.3');
  await page.getByRole('menuitem',{name:/Note di rilascio/}).click();
  await expect(page).toHaveURL(/\/releases\/$/);
  await expect(page.getByRole('heading',{name:/Le novità di O/})).toBeVisible();
- await expect(page.locator('.release-entry')).toHaveCount(2);
+ await expect(page.locator('.release-entry')).toHaveCount(3);
  await page.reload();
- await expect(page.locator('.release-entry')).toHaveCount(2);
- await page.getByRole('button',{name:'Read in English'}).click();
+ await expect(page.locator('.release-entry')).toHaveCount(3);
+ await page.getByRole('button',{name:'Seleziona lingua'}).click();
+ await page.getByRole('menuitemradio',{name:/English/}).click();
  await expect(page.getByRole('heading',{name:/What’s new in O/})).toBeVisible();
+});
+
+test('copy Markdown resets to the available state after 2.5 seconds',async({page})=>{
+ await page.addInitScript(()=>{
+  Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async(_text:string)=>{}}});
+ });
+ await page.goto(article);
+ const actions=page.getByRole('group',{name:'Strumenti per Articolo completo'});
+ const button=actions.getByRole('button',{name:'Copia in Markdown: Articolo completo'});
+ await button.click();
+ await expect(button).toContainText('Copiato');
+ await expect(button).toContainText('Markdown',{timeout:5000});
+ await button.click();
+ await expect(button).toContainText('Copiato');
 });
 
 test('installation information is available without depending on native prompt',async({page})=>{
@@ -105,10 +119,10 @@ test('build has versioned PWA manifest, PNG install icons, updated service worke
  expect(existsSync(resolve(dir,'icons/icon-512.png'))).toBe(true);
  expect(existsSync(resolve(dir,'icons/icon-180.png'))).toBe(true);
  const sw=readFileSync(resolve(dir,'sw.js'),'utf8');
- expect(sw).toContain('o-shell-0.0.2');
+ expect(sw).toContain('o-shell-0.0.3');
  expect(sw).toContain('skipWaiting');
  expect(sw).toContain('clients.claim');
- expect(readFileSync(resolve(dir,'version.json'),'utf8')).toContain('"version": "0.0.2"');
+ expect(readFileSync(resolve(dir,'version.json'),'utf8')).toContain('"version": "0.0.3"');
  expect(existsSync(resolve(dir,'releases/index.html'))).toBe(true);
 });
 
@@ -118,7 +132,7 @@ test('the service worker and manifest are accessible from the GitHub Pages proje
  expect((await manifest.json()).scope).toBe('/');
  const worker=await request.get('/sw.js');
  expect(worker.ok()).toBe(true);
- expect(await worker.text()).toContain('o-shell-0.0.2');
+ expect(await worker.text()).toContain('o-shell-0.0.3');
 });
 
 test('a real Chromium browser can install and activate the scoped service worker',async({browser})=>{

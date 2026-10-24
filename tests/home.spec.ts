@@ -9,10 +9,10 @@ test('O identity, zero ads and four independent desks are visible',async({page})
   await expect(page.locator('.brand-definition')).toContainText('0 pubblicità');
   await expect(page.getByRole('navigation',{name:'Sezioni'}).getByRole('link')).toHaveCount(4);
 });
-test('World displays 10 stories and every impact rating has five star glyphs',async({page})=>{
+test('World displays 10 stories and every impact rating has five half-step meter segments',async({page})=>{
   await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
   const cards=page.locator('.edition[data-date="2026-10-24"] article.story');
-  await expect(cards.first().locator('.impact-stars > span')).toHaveCount(5);
+  await expect(cards.first().locator('.impact-pips > span')).toHaveCount(5);
   await expect(cards.first().locator('.impact-score')).toContainText('/5');
   await cards.first().getByRole('link',{name:'Leggi la notizia'}).click();
   await expect(page).toHaveURL(/\/article\/world\/2026-10-24\/oleshky-humanitarian-ceasefire/);
@@ -23,7 +23,8 @@ test('World displays 10 stories and every impact rating has five star glyphs',as
   await expect(page.getByRole('heading',{name:'Le domande e le constatazioni oggettive'})).toBeVisible();
 });
 test('language and theme persist on reload',async({page})=>{
-  await page.getByRole('button',{name:'Read in English'}).click();
+  await page.getByRole('button',{name:'Seleziona lingua'}).click();
+  await page.getByRole('menuitemradio',{name:/English/}).click();
   await expect(page.getByText('Objectivizer',{exact:true}).first()).toBeVisible();
   await page.getByRole('button',{name:'Switch to light theme'}).click();
   await expect(page.locator('html')).toHaveAttribute('data-theme','light');
