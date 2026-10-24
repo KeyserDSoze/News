@@ -25,3 +25,14 @@ test('category filters retain the source attribution', async ({ page }) => {
   await stories.first().getByText('Leggi l’analisi').click();
   await expect(stories.first().locator('.source-list a').first()).toHaveAttribute('href',/^https:\/\//);
 });
+
+test('infinite scroll appends the previous day with ten localized stories', async ({ page }) => {
+  const today = page.locator('.edition[data-date="2026-10-24"]');
+  const yesterday = page.locator('.edition[data-date="2026-10-23"]');
+  await expect(today.locator('article')).toHaveCount(10);
+  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await expect(yesterday).toBeAttached();
+  await expect(yesterday.locator('article')).toHaveCount(10);
+  await yesterday.locator('article').first().getByText('Leggi l’analisi').click();
+  await expect(yesterday.locator('article').first().locator('.source-list a')).toHaveCount(3);
+});

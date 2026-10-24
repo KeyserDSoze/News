@@ -8,7 +8,7 @@ Static, bilingual, source-transparent independent press review built with **Reac
 
 Once Pages is activated, the site is published at **https://keyserdsoze.github.io/News/**.
 
-The first fully sourced bilingual edition is **24 October 2026**, with 10 stories, more than 20 article-source citations, original illustrated covers, two Wikimedia-licensed contextual images, and explicit fact/claim/uncertainty separation. Photos and satellite imagery carry provenance, dates, credits and licenses; archival media is never presented as photography of today's event.
+The archive currently contains **23 and 24 October 2026**, with **20 sourced stories in each language**. Daily editions have at least two distinct sources per article, original illustrated covers, and explicit separation of established facts, attributed claims and remaining uncertainties. The 24 October edition also includes two Wikimedia-licensed contextual images. Photos and satellite imagery carry provenance, dates, credits and licenses; archival media is never presented as photography of today's event.
 
 ## Start locally
 
