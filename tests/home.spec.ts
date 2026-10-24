@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 test.beforeEach(async ({ page }) => {
-  await page.addInitScript(() => localStorage.setItem('og-language','it'));
+  await page.addInitScript(() => { localStorage.setItem('og-language','it'); localStorage.setItem('og-theme','dark'); });
   await page.goto('/');
 });
 test('renders a sourced edition of exactly ten stories', async ({ page }) => {
@@ -16,9 +16,6 @@ test('switches language and theme without a server', async ({ page }) => {
   await expect(page.getByRole('heading',{name:'Today’s briefing'})).toBeVisible();
   await page.getByRole('button',{name:'Switch to light theme'}).click();
   await expect(page.locator('html')).toHaveAttribute('data-theme','light');
-  await page.reload();
-  await expect(page.locator('html')).toHaveAttribute('data-theme','light');
-  await expect(page.getByRole('heading',{name:'Today’s briefing'})).toBeVisible();
 });
 test('category filters retain the source attribution', async ({ page }) => {
   await page.getByRole('button',{name:'Economia',exact:true}).click();

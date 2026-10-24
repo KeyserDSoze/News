@@ -24,11 +24,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-          cache: npm
-          cache-dependency-path: src/frontend/package-lock.json
       - name: Install dependencies
         working-directory: src/frontend
-        run: npm ci
+        run: npm install --no-audit --no-fund
       - name: Validate bilingual news and sources
         run: node scripts/build-news.mjs --check
       - name: Build
@@ -40,8 +38,10 @@ jobs:
       - name: End-to-end tests
         working-directory: src/frontend
         run: npm run test:e2e
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: src/frontend/dist
   deploy:
