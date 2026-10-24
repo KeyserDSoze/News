@@ -71,6 +71,8 @@ for(const section of sections){
     'Oggettivizzatore — zero pubblicità e zero sensazionalismi.',
     section+'/',`fallback/${section}.svg`));
 }
+await page('releases/',withMetadata('Note di rilascio — O','Cronologia delle versioni di O.',
+  'releases/','favicon.svg'));
 await page('search/',withMetadata('Ricerca — O','Cerca negli articoli di O, per parole, argomenti e data.',
   'search/','fallback/world.svg'));
 for(const tag of tagSet){

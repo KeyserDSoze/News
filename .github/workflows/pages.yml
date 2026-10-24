@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'package.json'
+      - 'CHANGELOG.md'
       - 'src/frontend/**'
       - 'news/**'
       - 'scripts/**'
@@ -27,6 +28,8 @@ jobs:
           node-version: '22'
       - name: Install monorepo dependencies
         run: npm install --no-audit --no-fund
+      - name: Validate application version and bilingual release notes
+        run: node scripts/validate-release.mjs
       - name: Validate bilingual news and sources
         run: node scripts/build-news.mjs --check
       - name: Build
