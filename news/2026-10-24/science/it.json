@@ -1,0 +1,300 @@
+{
+  "date": "2026-10-24",
+  "language": "it",
+  "section": "science",
+  "publishedAt": "2026-10-24T12:30:00+02:00",
+  "editorialNote": "Cinque ricerche recenti: risultati, limiti e prospettive distinti.",
+  "articles": [
+    {
+      "id": "estate-caldo-europa-mortalita-2026",
+      "rank": 1,
+      "category": "climate",
+      "title": "Caldo estremo, uno studio stima oltre 50mila morti nelle città europee",
+      "dek": "Il modello riferito all'estate 2026 attribuisce al riscaldamento causato dall'uomo circa due terzi della mortalità da caldo.",
+      "summary": "Un'analisi guidata da London School of Hygiene & Tropical Medicine e Imperial College stima 50.391 decessi legati al caldo in 854 aree urbane europee nell'estate 2026, dei quali 32.619 attribuiti al cambiamento climatico di origine umana. Si tratta di stime epidemiologiche, non di un conteggio individuale dei certificati di morte.",
+      "impact": 5,
+      "impactReason": "Impatto scientifico eccezionale su salute pubblica europea, attribuzione climatica e prevenzione.",
+      "body": [
+        "Lo studio, pubblicato il 23 ottobre, analizza aree urbane in trenta paesi che rappresentano circa il 40% della popolazione dei territori inclusi. I ricercatori incrociano temperature e funzioni di rischio epidemiologico, confrontando le condizioni osservate con uno scenario senza la componente antropica del riscaldamento.",
+        "Il calore colpisce in modo particolare le fasce anziane e le persone con condizioni di salute pregresse. Le conclusioni sottolineano l'importanza di adattare gli ambienti urbani, proteggere i soggetti vulnerabili e contenere le emissioni, distinguendo però le scelte politiche dalle stime statistiche."
+      ],
+      "facts": [
+        "L'analisi comprende 854 aree urbane europee.",
+        "La cifra di 50.391 è una stima modellistica e non una conta certificata persona per persona."
+      ],
+      "perspectives": [
+        "Gli autori attribuiscono circa due terzi delle morti stimate al riscaldamento antropico e chiedono misure di prevenzione."
+      ],
+      "unknowns": [
+        "La mortalità complessiva sull'intero continente è distinta dal campione di città analizzato e presenta incertezza statistica."
+      ],
+      "questions": [
+        {
+          "question": "Le 50.391 morti sono tutte registrate individualmente come causate dal caldo?",
+          "answer": "No. È una stima epidemiologica basata su dati climatici e modelli di rischio."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "London School of Hygiene & Tropical Medicine",
+          "title": "Heat mortality estimates for European cities in summer 2026",
+          "url": "https://www.lshtm.ac.uk/newsevents/news/2026/more-50000-heat-related-deaths-estimated-european-urban-areas-during-summer",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Europe's extreme summer heat and estimated mortality",
+          "url": "https://apnews.com/article/d57dac06335203107caba8ae6ef67185",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "The 2026 European summer heat mortality analysis",
+          "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/estate-caldo-europa-mortalita-2026.svg",
+        "alt": "Illustrazione editoriale scientifica per Caldo estremo, uno studio stima oltre 50mila morti nelle città europee",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/estate-caldo-europa-mortalita-2026.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "melanoma-vaccino-personalizzato-fase3",
+      "rank": 2,
+      "category": "society",
+      "title": "Melanoma, dati positivi di fase III per una terapia mRNA personalizzata",
+      "dek": "La combinazione con pembrolizumab riduce del 42% il rischio relativo di recidiva o morte nel gruppo studiato.",
+      "summary": "Merck e Moderna hanno comunicato i risultati dettagliati dello studio INTerpath-001 su intismeran autogene, terapia sperimentale mRNA personalizzata, in associazione a pembrolizumab dopo la rimozione chirurgica del melanoma. Nel periodo osservato, il rischio relativo di recidiva o morte è diminuito del 42% rispetto alla sola immunoterapia. Non è una percentuale di pazienti guariti.",
+      "impact": 4,
+      "impactReason": "Risultato clinico potenzialmente importante, ma non ancora una terapia universalmente disponibile.",
+      "body": [
+        "La terapia individualizzata usa caratteristiche genetiche del tumore per indurre il sistema immunitario a riconoscerne determinati segnali. Il trial include oltre mille pazienti con melanoma ad alto rischio. Nei gruppi confrontati la sopravvivenza senza recidiva a due anni è stata riportata rispettivamente all'82,2% e al 70,0%.",
+        "I dati sulla sopravvivenza globale non sono ancora maturi. Accesso, costo e durata dell'effetto richiedono ulteriori valutazioni, oltre alle procedure autorizzative: un risultato positivo di fase III non rende automaticamente disponibile un trattamento a tutti."
+      ],
+      "facts": [
+        "La combinazione sperimentale è stata confrontata con la sola terapia standard.",
+        "La riduzione del 42% riguarda un rischio relativo misurato nello studio."
+      ],
+      "perspectives": [
+        "Gli sviluppatori parlano di un passo importante per l'oncologia personalizzata; l'efficacia a lungo termine richiede follow-up."
+      ],
+      "unknowns": [
+        "Sopravvivenza globale, costi, accesso e durata dei benefici non sono ancora definiti."
+      ],
+      "questions": [
+        {
+          "question": "Il risultato significa che il 42% dei pazienti è guarito?",
+          "answer": "No. Descrive una diminuzione relativa del rischio di recidiva o morte fra gruppi di trattamento."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Merck and Moderna",
+          "title": "Phase III INTerpath-001 detailed clinical results",
+          "url": "https://www.merck.com/news/merck-and-moderna-will-present-results-from-landmark-phase-3-interpath-001-trial-for-intismeran-autogene-plus-keytruda-pembrolizumab-at-esmo-2026-presidential-symposium/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Personalized mRNA therapy in melanoma trial",
+          "url": "https://apnews.com/article/415ececd79c9411498751246742aafa2",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Fierce Biotech",
+          "title": "Phase III melanoma cancer-vaccine results",
+          "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/melanoma-vaccino-personalizzato-fase3.svg",
+        "alt": "Illustrazione editoriale scientifica per Melanoma, dati positivi di fase III per una terapia mRNA personalizzata",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/melanoma-vaccino-personalizzato-fase3.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "crispr-prime-editing-in-vivo-wilson",
+      "rank": 3,
+      "category": "technology",
+      "title": "CRISPR, primo trattamento umano sperimentale con prime editing in vivo",
+      "dek": "Avviata una sperimentazione per correggere una mutazione legata alla malattia di Wilson direttamente nel fegato.",
+      "summary": "Nature ha descritto il 22 ottobre il primo utilizzo clinico noto del prime editing direttamente nel corpo umano. La società Prime Medicine aveva annunciato il 5 ottobre la somministrazione al primo paziente dello studio PM577a, rivolto a una mutazione collegata alla malattia di Wilson. L'avvio dello studio non equivale a una cura dimostrata.",
+      "impact": 4,
+      "impactReason": "Pietra miliare nella sperimentazione genetica, con beneficio clinico ancora da provare.",
+      "body": [
+        "La malattia di Wilson ostacola il metabolismo del rame e può danneggiare fegato e sistema nervoso. Il prime editing cerca di modificare una piccola sequenza del DNA, senza dover prima prelevare e manipolare le cellule del paziente all'esterno del corpo.",
+        "La tecnica deve raggiungere le cellule corrette e limitare effetti indesiderati: per questo sono centrali misure di sicurezza e dati clinici. I primi risultati sono attesi nel 2027, mentre la procedura resta sperimentale e rivolta a pazienti selezionati."
+      ],
+      "facts": [
+        "La società ha annunciato la somministrazione al primo paziente nello studio di fase I/II.",
+        "L'obiettivo è correggere una specifica mutazione correlata alla malattia di Wilson."
+      ],
+      "perspectives": [
+        "I ricercatori considerano l'editing direttamente nell'organismo un potenziale miglioramento rispetto ad alcuni approcci cellulari."
+      ],
+      "unknowns": [
+        "Sicurezza, efficienza dell'editing e benefici duraturi non sono ancora noti."
+      ],
+      "questions": [
+        {
+          "question": "Un primo paziente trattato significa che la malattia è stata curata?",
+          "answer": "No. È l'avvio della valutazione clinica, non la conferma di efficacia."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "First human treated using in-vivo prime editing",
+          "url": "https://www.nature.com/articles/d41586-026-03371-x",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Prime Medicine",
+          "title": "First patient dosed in Phase I/II Wilson disease clinical study",
+          "url": "https://primemedicine.gcs-web.com/news-releases/news-release-details/prime-medicine-announces-first-patient-dosed-global-phase-12",
+          "publishedAt": "2026-10-05",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/crispr-prime-editing-in-vivo-wilson.svg",
+        "alt": "Illustrazione editoriale scientifica per CRISPR, primo trattamento umano sperimentale con prime editing in vivo",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/crispr-prime-editing-in-vivo-wilson.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "pfas-acqua-potabile-stime-sottovalutate",
+      "rank": 4,
+      "category": "climate",
+      "title": "PFAS nell'acqua potabile USA: un modello rivela possibili sottostime",
+      "dek": "Trattare come zero i risultati sotto la soglia di laboratorio altera le medie degli inquinanti persistenti.",
+      "summary": "Uno studio della Texas Christian University pubblicato su Cell Reports Sustainability ha analizzato come vengono aggregati i dati sui PFAS nei sistemi idrici statunitensi. Secondo il modello, considerare nulli i valori inferiori alla soglia di refertazione potrebbe far sì che i dati rappresentino soltanto circa il 44% della concentrazione media stimata delle sostanze considerate.",
+      "impact": 4,
+      "impactReason": "Importante per la qualità delle misure ambientali e la sorveglianza di vaste popolazioni.",
+      "body": [
+        "Il valore sotto soglia non implica necessariamente l'assenza di una sostanza, ma segnala che la strumentazione non può quantificarla con sufficiente certezza. Gli autori usano metodi statistici per stimare quanta parte della concentrazione resti esclusa quando questi risultati vengono aggregati come zero.",
+        "La ricerca valuta un problema di misurazione e reporting, non dimostra che ogni acquedotto superi i limiti legali o sanitari. Per una valutazione del rischio servono dati specifici per ogni sostanza, durata dell'esposizione e ulteriori misure indipendenti."
+      ],
+      "facts": [
+        "Lo studio riguarda dati di monitoraggio statunitensi sui PFAS.",
+        "L'ipotesi modellistica segnala che trattare i valori sotto soglia come zero produce sottostime aggregate."
+      ],
+      "perspectives": [
+        "Gli autori chiedono migliori tecniche per elaborare misure inferiori ai limiti di refertazione."
+      ],
+      "unknowns": [
+        "Le effettive esposizioni e i rischi nelle singole reti richiedono ulteriori analisi."
+      ],
+      "questions": [
+        {
+          "question": "Un valore inferiore alla soglia prova che non ci siano PFAS?",
+          "answer": "No. Indica che la concentrazione non è quantificabile con quel metodo oltre la soglia definita."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Texas Christian University",
+          "title": "Study finds PFAS can be underestimated in drinking water monitoring",
+          "url": "https://cse.tcu.edu/stories/posts/forever-chemicals.php",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "Drinking water may contain more PFAS than reports suggest",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/23/drinking-water-may-have-much-more-forever-chemicals-than-epa-reports/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org / Cell Press",
+          "title": "Modelling PFAS under laboratory reporting thresholds",
+          "url": "https://phys.org/news/2026-10-pfas.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/pfas-acqua-potabile-stime-sottovalutate.svg",
+        "alt": "Illustrazione editoriale scientifica per PFAS nell'acqua potabile USA: un modello rivela possibili sottostime",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/pfas-acqua-potabile-stime-sottovalutate.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "euclid-scoperta-cometa-c2026s1",
+      "rank": 5,
+      "category": "world",
+      "title": "Euclid scopre una nuova cometa mentre osserva galassie lontane",
+      "dek": "Il telescopio ESA rivela un oggetto del Sistema solare con immagini raccolte in settembre.",
+      "summary": "L'Agenzia spaziale europea ha annunciato il 19 ottobre che il telescopio Euclid ha individuato nelle immagini di settembre una cometa prima sconosciuta, designata C/2026 S1 (Euclid). Un software progettato per rilevare oggetti in movimento ne ha riconosciuto le tracce tra le osservazioni di galassie lontane.",
+      "impact": 2,
+      "impactReason": "Scoperta interessante e utile per nuove analisi, ma portata scientifica per ora limitata.",
+      "body": [
+        "Euclid è una missione dedicata soprattutto all'osservazione su larga scala dell'universo e alla sua evoluzione cosmologica. I dati possono però essere analizzati anche per individuare oggetti vicini che si spostano rispetto alle galassie, mostrando una possibilità scientifica aggiuntiva.",
+        "La scoperta è utile per la ricerca astronomica e potrebbe migliorare l'individuazione precoce delle comete. Non indica un imminente impatto con la Terra né conferma che l'oggetto diventerà bersaglio di una futura missione spaziale."
+      ],
+      "facts": [
+        "ESA ha confermato una nuova cometa nelle osservazioni del telescopio Euclid.",
+        "Le immagini erano state riprese tra il 16 e il 24 settembre 2026."
+      ],
+      "perspectives": [
+        "I ricercatori ritengono utile estendere l'analisi dei dati Euclid anche agli oggetti del Sistema solare."
+      ],
+      "unknowns": [
+        "Parametri orbitali approfonditi e prospettive di esplorazione richiedono nuove osservazioni."
+      ],
+      "questions": [
+        {
+          "question": "La scoperta comporta un allarme per il nostro pianeta?",
+          "answer": "No. Nessuna delle fonti consultate segnala un rischio d'impatto."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "European Space Agency",
+          "title": "Euclid discovers new comet C/2026 S1",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+          "publishedAt": "2026-10-19",
+          "role": "official"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Euclid telescope spots first previously unknown comet",
+          "url": "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html",
+          "publishedAt": "2026-10-20",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/euclid-scoperta-cometa-c2026s1.svg",
+        "alt": "Illustrazione editoriale scientifica per Euclid scopre una nuova cometa mentre osserva galassie lontane",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/euclid-scoperta-cometa-c2026s1.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

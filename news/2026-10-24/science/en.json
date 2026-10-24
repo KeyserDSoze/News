@@ -1,0 +1,300 @@
+{
+  "date": "2026-10-24",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-10-24T12:30:00+02:00",
+  "editorialNote": "Five recent research stories: observed results distinguished from uncertainty and future applications.",
+  "articles": [
+    {
+      "id": "estate-caldo-europa-mortalita-2026",
+      "rank": 1,
+      "category": "climate",
+      "title": "Study estimates over 50,000 heat-related deaths in European cities",
+      "dek": "Researchers attribute roughly two-thirds of modelled summer 2026 heat mortality to human-caused climate change.",
+      "summary": "Researchers led by the London School of Hygiene & Tropical Medicine and Imperial College estimate 50,391 heat-related deaths across 854 European urban areas in summer 2026, of which 32,619 were attributed to anthropogenic warming. These are epidemiological model estimates, not individual death certificate counts.",
+      "impact": 5,
+      "impactReason": "Exceptional significance for European public health, climate-attribution evidence and prevention.",
+      "body": [
+        "Released on 23 October, the research covers urban areas in thirty countries representing about 40% of their combined population. The authors combine temperature data and epidemiological risk functions, comparing observed conditions with a hypothetical climate without human-induced warming.",
+        "Extreme heat disproportionately affects older people and those with underlying conditions. The researchers call for urban adaptation, protection of vulnerable groups and lower emissions, while policy decisions must be distinguished from the study's statistical estimates."
+      ],
+      "facts": [
+        "The analysis covers 854 urban areas across Europe.",
+        "The figure of 50,391 is a statistical estimate rather than individually certified heat deaths."
+      ],
+      "perspectives": [
+        "The authors attribute roughly two-thirds of estimated heat mortality to human-caused warming and recommend preventive measures."
+      ],
+      "unknowns": [
+        "The continent-wide total differs from the study's urban sample and is subject to statistical uncertainty."
+      ],
+      "questions": [
+        {
+          "question": "Were all 50,391 people individually certified as dying from heat?",
+          "answer": "No. The number comes from epidemiological models and climate data."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "London School of Hygiene & Tropical Medicine",
+          "title": "Heat mortality estimates for European cities in summer 2026",
+          "url": "https://www.lshtm.ac.uk/newsevents/news/2026/more-50000-heat-related-deaths-estimated-european-urban-areas-during-summer",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Europe's extreme summer heat and estimated mortality",
+          "url": "https://apnews.com/article/d57dac06335203107caba8ae6ef67185",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "The 2026 European summer heat mortality analysis",
+          "url": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/estate-caldo-europa-mortalita-2026.svg",
+        "alt": "Scientific editorial illustration for Study estimates over 50,000 heat-related deaths in European cities",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/estate-caldo-europa-mortalita-2026.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "melanoma-vaccino-personalizzato-fase3",
+      "rank": 2,
+      "category": "society",
+      "title": "Phase III melanoma trial reports benefit from individualized mRNA treatment",
+      "dek": "Adding experimental mRNA therapy to pembrolizumab cut relative recurrence-or-death risk by 42% in the trial.",
+      "summary": "Merck and Moderna released detailed INTerpath-001 data for intismeran autogene, a personalized experimental mRNA treatment combined with pembrolizumab after melanoma surgery. The relative risk of recurrence or death was 42% lower than with immunotherapy alone during the study period. This does not mean 42% of participants were cured.",
+      "impact": 4,
+      "impactReason": "Potentially major clinical benefit, but still short of broadly available treatment.",
+      "body": [
+        "The individualized therapy uses genetic features of a patient's tumour to train the immune system to recognise selected signals. The study enrolled more than a thousand people with high-risk melanoma. Two-year recurrence-free survival was reported at 82.2% with the combination versus 70.0% in the comparison group.",
+        "Overall-survival data are not yet mature. Availability, cost and durability require further analysis and regulatory review. A positive Phase III trial does not make a treatment automatically available to every patient."
+      ],
+      "facts": [
+        "The experimental combination was compared with standard treatment alone.",
+        "The reported 42% improvement concerns relative risk in the study."
+      ],
+      "perspectives": [
+        "Developers describe the result as progress in individualized cancer therapy, while long-term clinical benefit remains to be assessed."
+      ],
+      "unknowns": [
+        "Overall survival, costs, access and long-term durability have not been established."
+      ],
+      "questions": [
+        {
+          "question": "Does the 42% figure mean 42% of patients were cured?",
+          "answer": "No. It compares relative recurrence-or-death risks between trial groups."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Merck and Moderna",
+          "title": "Phase III INTerpath-001 detailed clinical results",
+          "url": "https://www.merck.com/news/merck-and-moderna-will-present-results-from-landmark-phase-3-interpath-001-trial-for-intismeran-autogene-plus-keytruda-pembrolizumab-at-esmo-2026-presidential-symposium/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Personalized mRNA therapy in melanoma trial",
+          "url": "https://apnews.com/article/415ececd79c9411498751246742aafa2",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Fierce Biotech",
+          "title": "Phase III melanoma cancer-vaccine results",
+          "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/melanoma-vaccino-personalizzato-fase3.svg",
+        "alt": "Scientific editorial illustration for Phase III melanoma trial reports benefit from individualized mRNA treatment",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/melanoma-vaccino-personalizzato-fase3.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "crispr-prime-editing-in-vivo-wilson",
+      "rank": 3,
+      "category": "technology",
+      "title": "First in-body prime-editing treatment enters clinical testing",
+      "dek": "A trial aims to correct a Wilson disease variant directly inside liver cells.",
+      "summary": "Nature reported on 22 October the first known human treatment using in-vivo prime editing. Prime Medicine had announced dosing the first patient in the PM577a trial on 5 October, targeting a mutation linked to Wilson disease. Starting a trial is not proof that the condition has been cured.",
+      "impact": 4,
+      "impactReason": "A genetic-medicine milestone whose patient benefit is not yet established.",
+      "body": [
+        "Wilson disease interferes with copper metabolism and can harm the liver and nervous system. Prime editing aims to correct a precise DNA sequence without first removing cells from the patient for modification in a laboratory.",
+        "The editing machinery must reach the intended tissue while limiting unwanted changes, making safety and delivery crucial. Initial clinical data are expected in 2027; the approach remains experimental and limited to selected trial participants."
+      ],
+      "facts": [
+        "The developer reported dosing the first participant in a Phase I/II study.",
+        "The experimental approach targets a specific Wilson-disease mutation."
+      ],
+      "perspectives": [
+        "Researchers see in-body editing as a potential way to simplify some future genetic treatments."
+      ],
+      "unknowns": [
+        "Safety, editing efficiency and sustained clinical benefit have yet to be determined."
+      ],
+      "questions": [
+        {
+          "question": "Does first-in-human treatment mean the disease has been cured?",
+          "answer": "No. It is the beginning of clinical evaluation, not proof of efficacy."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "First human treated using in-vivo prime editing",
+          "url": "https://www.nature.com/articles/d41586-026-03371-x",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Prime Medicine",
+          "title": "First patient dosed in Phase I/II Wilson disease clinical study",
+          "url": "https://primemedicine.gcs-web.com/news-releases/news-release-details/prime-medicine-announces-first-patient-dosed-global-phase-12",
+          "publishedAt": "2026-10-05",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/crispr-prime-editing-in-vivo-wilson.svg",
+        "alt": "Scientific editorial illustration for First in-body prime-editing treatment enters clinical testing",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/crispr-prime-editing-in-vivo-wilson.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "pfas-acqua-potabile-stime-sottovalutate",
+      "rank": 4,
+      "category": "climate",
+      "title": "US drinking-water study finds reporting thresholds may hide PFAS levels",
+      "dek": "Treating low laboratory readings as zero can distort the average concentration of persistent pollutants.",
+      "summary": "Texas Christian University researchers studying PFAS monitoring in US water systems report in Cell Reports Sustainability that treating results below reporting limits as zero can distort aggregate concentrations. Their model suggests the published averages may capture only about 44% of the estimated concentrations of the substances considered.",
+      "impact": 4,
+      "impactReason": "Substantial implications for environmental monitoring and potentially widespread exposure assessment.",
+      "body": [
+        "A result below a reporting limit does not necessarily show that a chemical is absent; it means the laboratory cannot quantify its amount with enough confidence. Statistical methods can estimate the concentration missed when such observations are set to zero.",
+        "The research concerns measurement and reporting, not proof that every water system exceeds legal or health-based limits. Actual exposure and health risks depend on specific chemicals, concentrations, duration and further validated testing."
+      ],
+      "facts": [
+        "Researchers analysed US monitoring data for PFAS chemicals.",
+        "Treating values below laboratory reporting limits as zero can underestimate aggregate concentrations."
+      ],
+      "perspectives": [
+        "The authors advocate better statistical handling of readings below quantification limits."
+      ],
+      "unknowns": [
+        "Exposure and health risks in individual systems need more targeted measurements."
+      ],
+      "questions": [
+        {
+          "question": "Does a below-threshold result prove there are no PFAS?",
+          "answer": "No. It indicates that the method cannot quantify the substance above its reporting threshold."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Texas Christian University",
+          "title": "Study finds PFAS can be underestimated in drinking water monitoring",
+          "url": "https://cse.tcu.edu/stories/posts/forever-chemicals.php",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "Drinking water may contain more PFAS than reports suggest",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/23/drinking-water-may-have-much-more-forever-chemicals-than-epa-reports/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org / Cell Press",
+          "title": "Modelling PFAS under laboratory reporting thresholds",
+          "url": "https://phys.org/news/2026-10-pfas.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/pfas-acqua-potabile-stime-sottovalutate.svg",
+        "alt": "Scientific editorial illustration for US drinking-water study finds reporting thresholds may hide PFAS levels",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/pfas-acqua-potabile-stime-sottovalutate.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "euclid-scoperta-cometa-c2026s1",
+      "rank": 5,
+      "category": "world",
+      "title": "Euclid space telescope discovers a comet while surveying galaxies",
+      "dek": "ESA's cosmology mission spotted a new Solar System object in September imagery.",
+      "summary": "The European Space Agency announced on 19 October that the Euclid telescope had identified a previously unknown comet, designated C/2026 S1 (Euclid), in images collected in September. Software looking for moving objects found its trails among observations of distant galaxies.",
+      "impact": 2,
+      "impactReason": "A useful discovery for astronomy methods, with limited wider impact so far.",
+      "body": [
+        "Euclid primarily maps the large-scale universe to investigate cosmic structures and their evolution. Its archive can also be analysed for nearby moving objects that shift against distant galaxies, providing an additional scientific use for the data.",
+        "The finding may help refine early comet-detection methods. It is not evidence that this comet poses an impact threat to Earth, nor confirmation that a future spacecraft mission will visit it."
+      ],
+      "facts": [
+        "ESA confirmed the new comet in Euclid's observations.",
+        "The discovery images were collected between 16 and 24 September 2026."
+      ],
+      "perspectives": [
+        "The research team sees opportunities to reuse Euclid data for Solar System science."
+      ],
+      "unknowns": [
+        "Detailed orbital refinements and exploration prospects require further observations."
+      ],
+      "questions": [
+        {
+          "question": "Does the discovery indicate an impending collision with Earth?",
+          "answer": "No. The consulted sources report no impact warning."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "European Space Agency",
+          "title": "Euclid discovers new comet C/2026 S1",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+          "publishedAt": "2026-10-19",
+          "role": "official"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Euclid telescope spots first previously unknown comet",
+          "url": "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html",
+          "publishedAt": "2026-10-20",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/euclid-scoperta-cometa-c2026s1.svg",
+        "alt": "Scientific editorial illustration for Euclid space telescope discovers a comet while surveying galaxies",
+        "credit": "O — illustrazione editoriale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/euclid-scoperta-cometa-c2026s1.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
