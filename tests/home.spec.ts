@@ -6,7 +6,7 @@ test.beforeEach(async ({page})=>{
 test('O identity, zero ads and four independent desks are visible',async({page})=>{
   await expect(page.getByRole('link',{name:'O — home'})).toBeVisible();
   await expect(page.getByText('Oggettivizzatore',{exact:true}).first()).toBeVisible();
-  await expect(page.getByText('Zero pubblicità. Zero titoli sensazionalistici.').first()).toBeVisible();
+  await expect(page.locator('.brand-definition')).toContainText('0 pubblicità');
   await expect(page.getByRole('navigation',{name:'Sezioni'}).getByRole('link')).toHaveCount(4);
 });
 test('World displays 10 stories and every impact rating has five star glyphs',async({page})=>{
@@ -35,9 +35,9 @@ test('each specialist desk has exactly five sourced stories, ratings and article
   const nav=page.getByRole('navigation',{name:'Sezioni'});
   for(const [name,slug] of [['Italia','italy'],['Tecnologia','technology'],['Scienza','science']] as const){
     await nav.getByRole('link',{name:new RegExp(name)}).click();
-    await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(5);
-    await expect(page.locator('.edition').first().locator('.impact-compact')).toHaveCount(5);
-    await page.locator('.edition article').first().getByRole('link',{name:'Leggi la notizia'}).click();
+    await expect(page.locator('[data-section-root="'+slug+'"] .edition[data-date="2026-10-24"] article.story')).toHaveCount(5);
+    await expect(page.locator('[data-section-root="'+slug+'"] .edition').first().locator('.impact-compact')).toHaveCount(5);
+    await page.locator('[data-section-root="'+slug+'"] .edition article').first().getByRole('link',{name:'Leggi la notizia'}).click();
     await expect(page).toHaveURL(new RegExp('/article/'+slug+'/2026-10-24/'));
     await expect(page.locator('.article-hero .impact-explanation')).toBeVisible();
     await expect(page.locator('.source-tile').first()).toBeVisible();

@@ -240,8 +240,8 @@ export default function App(){
       </div>
     </header>
     <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={'#/'+s} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong><span>{String(sectionSize[s]).padStart(2,'0')}</span></a>)}</nav></div>
-    {visited.map(s=><div key={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index}/></div>)}
-    {searchSeen&&<div hidden={route.kind!=='search'}><SearchPage locale={locale} presetTag={searchTag}/></div>}
+    {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index}/></div>)}
+    {searchSeen&&<div data-search-root hidden={route.kind!=='search'}><SearchPage locale={locale} presetTag={searchTag}/></div>}
     {route.kind==='article'&&<ArticleView route={route} locale={locale} index={index} returnTo={returnTo}/>}
     <footer id="method"><div className="container footer-grid"><div><div className="footer-logo">O<span>.</span></div><h2>{t.definition}</h2><p>{t.about} {t.mediaNotice}</p><p className="zero-footer">{t.zero1} <span>/</span> {t.zero2}</p><a className="footer-link" href="https://github.com/KeyserDSoze/News/blob/main/docs/EDITORIAL_POLICY.md" target="_blank" rel="noopener noreferrer">{t.methodologyLink} <ArrowRight size={16}/></a></div>
       <div className="footer-side"><div className="footer-rule">01 / {t.methodology.toUpperCase()}</div><p>{t.footnote}</p><div className="footer-rule">02 / OPEN SOURCE</div><a href="https://github.com/KeyserDSoze/News" target="_blank" rel="noopener noreferrer">{t.openSource} <ExternalLink size={14}/></a></div></div>
