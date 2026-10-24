@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 import { readFileSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 
-const articleUrl='/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/';
+const articleUrl='/article/world/2026-10-24/oleshky-humanitarian-ceasefire/';
 
 test.beforeEach(async({page})=>{
   await page.addInitScript(()=>localStorage.setItem('og-language','it'));
@@ -10,12 +10,12 @@ test.beforeEach(async({page})=>{
 
 test('shared article URL loads directly, refreshes and has a clean slash path',async({page})=>{
   await page.goto(articleUrl);
-  await expect(page).toHaveURL(/\/News\/article\/world\/2026-10-24\/oleshky-humanitarian-ceasefire\/$/);
+  await expect(page).toHaveURL(/\/article\/world\/2026-10-24\/oleshky-humanitarian-ceasefire\/$/);
   await expect(page.getByRole('heading',{level:1})).toBeVisible();
   await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
   await page.reload();
   await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
-  await expect(page.locator('head link[rel="canonical"]')).toHaveAttribute('href','https://keyserdsoze.github.io'+articleUrl);
+  await expect(page.locator('head link[rel="canonical"]')).toHaveAttribute('href','https://onews.app'+articleUrl);
 });
 
 test('old # article links migrate to the new canonical slash route without losing article',async({page})=>{
@@ -24,18 +24,23 @@ test('old # article links migrate to the new canonical slash route without losin
   await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
 });
 
-test('original project Pages build has statically served article pages, social previews and a 404 fallback',()=>{
+test('custom domain Pages build has statically served article pages, social previews and a 404 fallback',()=>{
   const articleHtml=resolve('dist','article','world','2026-10-24','oleshky-humanitarian-ceasefire','index.html');
+  const legacyHtml=resolve('dist','News','article','world','2026-10-24','oleshky-humanitarian-ceasefire','index.html');
   const fallbackHtml=resolve('dist','404.html');
   expect(existsSync(articleHtml)).toBe(true);
   expect(existsSync(fallbackHtml)).toBe(true);
+  expect(existsSync(legacyHtml)).toBe(true);
+  expect(readFileSync(legacyHtml,'utf8')).toContain('location.replace');
+  expect(readFileSync(resolve('dist','CNAME'),'utf8').trim()).toBe('onews.app');
   const html=readFileSync(articleHtml,'utf8');
   expect(html).toContain('property="og:title"');
   expect(html).toContain('property="og:description"');
   expect(html).toContain('property="og:image"');
   expect(html).toContain('rel="canonical"');
-  expect(html).toContain('src="/News/assets/');
-  expect(readFileSync(fallbackHtml,'utf8')).toContain('src="/News/assets/');
+  expect(html).toContain('src="/assets/');
+  expect(readFileSync(fallbackHtml,'utf8')).toContain('src="/assets/');
+  expect(html).toContain('https://onews.app/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
 });
 
 test('share control passes canonical title, summary and clean URL to native mobile share sheet',async({page})=>{
@@ -66,14 +71,20 @@ test('when native share is unavailable, share and copy produce the article perma
   expect(await page.evaluate(()=> (window as unknown as {copiedUrl:string}).copiedUrl)).toBe('http://127.0.0.1:4173'+articleUrl);
 });
 
-test('search and specialist sections use normal URLs and preserve navigation on phone back',async({page})=>{
-  await page.goto('/News/world/');
+test('old Pages article paths redirect to custom-domain root with history intact',async({page})=>{
+    await page.goto('/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
+    await expect(page).toHaveURL(/\\/article\\/world\\/2026-10-24\\/oleshky-humanitarian-ceasefire\\/$/);
+    await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
+  });
+  
+  test('search and specialist sections use normal URLs and preserve navigation on phone back',async({page})=>{
+  await page.goto('/world/');
   await page.getByRole('navigation',{name:'Sezioni'}).getByRole('link',{name:/Italia/}).click();
-  await expect(page).toHaveURL(/\/News\/italy\/$/);
+  await expect(page).toHaveURL(/\/italy\/$/);
   await expect(page.locator('[data-section-root="italy"] .edition article.story')).toHaveCount(5);
   await page.goBack();
-  await expect(page).toHaveURL(/\/News\/world\/$/);
+  await expect(page).toHaveURL(/\/world\/$/);
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
-  await expect(page).toHaveURL(/\/News\/search\/$/);
+  await expect(page).toHaveURL(/\/search\/$/);
   await expect(page.locator('.search-result').first()).toBeVisible({timeout:20000});
 });

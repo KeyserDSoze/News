@@ -2,6 +2,22 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.2] — 2026-10-24
+
+**Italiano — O arriva su onews.app**
+
+- Risolta la pagina bianca dovuta a risorse richieste sotto `/News/` invece che dalla radice.
+- URL canonici `https://onews.app/`, articoli, rassegne, tag e note di rilascio.
+- Manifest, icone e aggiornamenti automatici PWA installabili dal dominio corretto.
+- Compatibilità con i vecchi collegamenti `/News/` e `#/` attraverso redirect statici.
+
+**English — O moves to onews.app**
+
+- Fixed blank pages caused by assets requested under `/News/` instead of the domain root.
+- Root-level canonical URLs for the homepage, articles, desks, tags and release notes.
+- PWA manifest, icons and update service worker now use the correct custom-domain scope.
+- Backward-compatible static redirects for old `/News/` and `#/` links.
+
 ## [0.0.1] — 2026-10-24
 
 **Italiano — O diventa un'app installabile**

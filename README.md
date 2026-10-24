@@ -8,7 +8,7 @@ Static, bilingual, source-transparent independent press review built with **Reac
 
 ## Read the paper
 
-Once Pages is activated, the site is published at **https://keyserdsoze.github.io/News/**.
+Once Pages is activated, the site is published at **https://onews.app/**.
 
 The World archive contains **22, 23 and 24 October 2026**, with **30 sourced stories in each language**. The Italy, Technology and Science desks each have fully sourced five-story editions dated **22 and 24 October 2026**. Across the four desks, the archive now contains **60 distinct article instances** (120 localized texts), each in Italian and English. Daily editions have at least two distinct sources per article, original illustrated covers, and explicit separation of established facts, attributed claims and remaining uncertainties. The 24 October edition also includes two Wikimedia-licensed contextual images. Photos and satellite imagery carry provenance, dates, credits and licenses; archival media is never presented as photography of today's event.
 
@@ -67,14 +67,17 @@ The search in O's masthead is completely static. It fetches date/section JSON do
 Scores use **half-star steps (0.5–5)** with a conservative editorial rubric: 5 means genuinely world-changing, historically exceptional impact. Every score has a localized rationale. Existing World and specialist stories were reassessed rather than automatically assigned 4 or 5 stars.
 
 ## Shareable direct links (ADR 0006)
-Article URLs now use **normal slashes**: `https://keyserdsoze.github.io/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/`. Section, search and tags also have slash URLs instead of hashes. The project remains fully static: the build emits one `index.html` per article with readable Open Graph/Twitter metadata, plus a `404.html` fallback for arbitrary client URLs. Refreshing a published article opens directly; previously shared hash links migrate automatically. On mobile, **Share** opens the native sharing sheet (WhatsApp, Messages, etc., depending on installed apps); **Copy link** works independently, and browsers without Web Share automatically copy the permalink.
+Article URLs now use **normal slashes**: `https://onews.app/article/world/2026-10-24/oleshky-humanitarian-ceasefire/`. Section, search and tags also have slash URLs instead of hashes. The project remains fully static: the build emits one `index.html` per article with readable Open Graph/Twitter metadata, plus a `404.html` fallback for arbitrary client URLs. Refreshing a published article opens directly; previously shared hash links migrate automatically. On mobile, **Share** opens the native sharing sheet (WhatsApp, Messages, etc., depending on installed apps); **Copy link** works independently, and browsers without Web Share automatically copy the permalink.
 
 ## App installabile, lettura e versioni
 
-O è una PWA installabile, **v0.0.1**, con icona O, splash e avvio indipendente dal browser ove supportato. **Android/Chrome:** dal menu di O scegli *Installa O* o l'opzione equivalente nel browser. **iPhone/iPad/Safari:** tocca *Condividi* → *Aggiungi alla schermata Home*. Su altri browser le opzioni dipendono dal sistema operativo.
+O è una PWA installabile, **v0.0.2**, con icona O, splash e avvio indipendente dal browser ove supportato. **Android/Chrome:** dal menu di O scegli *Installa O* o l'opzione equivalente nel browser. **iPhone/iPad/Safari:** tocca *Condividi* → *Aggiungi alla schermata Home*. Su altri browser le opzioni dipendono dal sistema operativo.
 
 Nell'articolo i pulsanti **Markdown** e **Ascolta** sono disponibili per il riassunto, il testo, i fatti verificati, le dichiarazioni, le fonti, le domande e l'eventuale dossier, oltre che per l'articolo completo. Markdown include link, attribuzioni e fonti; la lettura usa il motore vocale locale supportato dal browser, con pausa, ripresa e interruzione. In assenza di sintesi vocale browser non viene offerto un servizio esterno.
 
 I file **`src/frontend/src/releases.json`** e **`CHANGELOG.md`** conservano per sempre le note bilingui di ogni versione applicativa. La versione, mostrata nel menu hamburger, apre la pagina **/News/releases/**. `node scripts/validate-release.mjs` verifica che versioni dei package, JSON e changelog corrispondano, e la GitHub Action lo esegue prima del deploy. Quando si pubblica una modifica dell'app, aggiornare versioni, data e note; le notizie quotidiane possono cambiare senza aumentare la versione del programma.
 
 Il Service Worker è rigenerato **a ogni deploy**, distinguendo il numero di versione dal commit pubblicato; verifica gli aggiornamenti al caricamento, tornando online, quando la scheda torna in primo piano e periodicamente. La nuova versione viene attivata e la pagina ricaricata automaticamente quando viene rilevata, conservando lo stato di navigazione ove possibile. Le pagine già consultate possono essere disponibili offline, ma un archivio non ancora scaricato non lo è necessariamente.
+
+## Dominio personalizzato · onews.app
+Il dominio canonico è **https://onews.app/**. La GitHub Action compila Vite con `VITE_BASE_PATH=/` e genera metadati social con `PUBLIC_SITE_ORIGIN=https://onews.app`. `src/frontend/public/CNAME` conserva il nome di dominio nel bundle pubblicato. I percorsi precedenti `/News/` e i link hash vengono reindirizzati ai nuovi URL, mentre l'app React e la PWA restano completamente statiche. Se il sito non si apre ancora, controllare in **Settings → Pages** che il dominio sia impostato su `onews.app`, DNS e HTTPS siano attivi, quindi aggiornare la cache del browser.

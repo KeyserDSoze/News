@@ -15,7 +15,7 @@ test('World displays 10 stories and every impact rating has five star glyphs',as
   await expect(cards.first().locator('.impact-stars > span')).toHaveCount(5);
   await expect(cards.first().locator('.impact-score')).toContainText('/5');
   await cards.first().getByRole('link',{name:'Leggi la notizia'}).click();
-  await expect(page).toHaveURL(/\/News\/article\/world\/2026-10-24\/oleshky-humanitarian-ceasefire/);
+  await expect(page).toHaveURL(/\/article\/world\/2026-10-24\/oleshky-humanitarian-ceasefire/);
   await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
   await expect(page.locator('.article-hero .impact-explanation')).toBeVisible();
   await expect(page.getByRole('heading',{name:'La notizia, nel dettaglio'})).toBeVisible();
@@ -49,7 +49,7 @@ test('world archive adds older day on scrolling',async({page})=>{
   await expect(page.locator('.edition[data-date="2026-10-23"] article')).toHaveCount(10);
 });
 test('old and new fuel-price articles link through a shared chronology',async({page})=>{
-  await page.goto('/News/article/world/2026-10-23/eni-fuel-price-cap-extension/');
+  await page.goto('/article/world/2026-10-23/eni-fuel-price-cap-extension/');
   await expect(page.getByRole('heading',{name:'La vicenda, giorno per giorno'})).toBeVisible();
   const timeline=page.locator('.timeline');
   await expect(timeline.locator('.timeline-item')).toHaveCount(3);
@@ -58,13 +58,13 @@ test('old and new fuel-price articles link through a shared chronology',async({p
   await expect(page.locator('.timeline').getByRole('link',{name:/Carburanti, Eni/})).toBeVisible();
 });
 test('Starlink cross-section continuation also links back to the old World article',async({page})=>{
-  await page.goto('/News/article/world/2026-10-23/ukraine-starlink-restrictions/');
+  await page.goto('/article/world/2026-10-23/ukraine-starlink-restrictions/');
   await expect(page.locator('.timeline').getByRole('link',{name:/Ucraina, Kiev riferisce/})).toBeVisible();
   await page.locator('.timeline').getByRole('link',{name:/Ucraina, Kiev riferisce/}).click();
   await expect(page).toHaveURL(/article\/technology\/2026-10-24\/starlink-ucraina-ripristino-connessioni/);
   await expect(page.locator('.timeline').getByRole('link',{name:/Starlink in Ucraina/})).toBeVisible();
 });
 test('explicit related links yield automatic reverse links',async({page})=>{
-  await page.goto('/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
+  await page.goto('/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
   await expect(page.getByRole('link',{name:/Starlink in Ucraina/})).toBeVisible();
 });

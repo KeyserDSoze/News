@@ -1,6 +1,30 @@
 {
   "releases": [
     {
+      "version": "0.0.2",
+      "date": "2026-10-24",
+      "it": {
+        "title": "O su onews.app: dominio personalizzato",
+        "highlights": [
+          "Risolta la pagina bianca sul dominio onews.app eliminando il prefisso /News/ dai percorsi.",
+          "Articoli, ricerca, immagini, condivisione e note di rilascio ora funzionano su URL brevi alla radice del dominio.",
+          "Installazione e aggiornamenti PWA operano correttamente con manifest e service worker sul dominio personalizzato.",
+          "I vecchi indirizzi /News/ e i collegamenti con # reindirizzano alle pagine equivalenti."
+        ],
+        "details": "Correzione di distribuzione e compatibilità: nessun cambiamento del metodo editoriale o del numero di notizie."
+      },
+      "en": {
+        "title": "O on onews.app: custom domain support",
+        "highlights": [
+          "Fixed the blank page on onews.app by removing the legacy /News/ asset prefix.",
+          "Articles, search, pictures, sharing, and release notes now use clean root URLs on the custom domain.",
+          "PWA installation and updates use the custom domain root for their manifest and service worker.",
+          "Old /News/ and hash URLs redirect to their equivalent new pages."
+        ],
+        "details": "Deployment and backward-compatibility fix; no change to editorial policy or published issue counts."
+      }
+    },
+    {
       "version": "0.0.1",
       "date": "2026-10-24",
       "it": {
