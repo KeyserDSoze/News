@@ -9,10 +9,10 @@ test.beforeEach(async({page})=>{
 test('search opens from header, indexes last year in IndexedDB and survives reload',async({page})=>{
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
   await expect(page.locator('.search-result')).toHaveCount(30,{timeout:20000});
-  await expect(page.locator('.search-status')).toContainText('35');
+  await expect(page.locator('.search-status')).toContainText('60');
   await page.reload();
   await expect(page.locator('.search-result')).toHaveCount(30,{timeout:20000});
-  await expect(page.locator('.search-status')).toContainText('5 / 5');
+  await expect(page.locator('.search-status')).toContainText('9 / 9');
 });
 test('date range and full text narrow results without a backend',async({page})=>{
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
@@ -71,4 +71,21 @@ test('broken image is replaced by an original licensed-in-project editorial grap
   await page.goto('/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
   await expect(page.locator('.article-main .news-picture img')).toHaveAttribute('src',/fallback\/world\.svg/,{timeout:20000});
   await expect(page.locator('.article-main .news-picture figcaption')).toContainText('Illustrazione editoriale');
+});
+
+test('22 October archive contains four complete bilingual desks and new article timelines',async({page})=>{
+  await page.goto('/News/world/');
+  await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
+  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
+  await expect(page.locator('.edition[data-date="2026-10-23"] article.story')).toHaveCount(10);
+  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
+  await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(10);
+  for(const desk of ['italy','technology','science']){
+    await page.goto('/News/'+desk+'/');
+    await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(5);
+    await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
+    await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(5);
+  }
+  await page.goto('/News/article/technology/2026-10-22/php2shell-attacchi-aggiornamenti/');
+  await expect(page.locator('.related-story').getByText(/PHP/i).first()).toBeVisible();
 });
