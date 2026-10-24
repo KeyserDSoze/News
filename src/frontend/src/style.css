@@ -343,3 +343,40 @@
 .masthead{height:76px}
 .edition:first-child{padding-top:25px}
 @media(max-width:650px){.masthead{height:62px}.edition:first-child{padding-top:19px}}
+
+
+/* v0.0.6: only useful desk labels, plus a single listen-to-the-edition action. */
+.four-nav a{justify-content:flex-start}
+.four-nav a span{display:none}
+.edition-heading-tools{
+  display:flex;align-items:flex-end;justify-content:flex-end;flex-direction:column;
+  gap:12px;min-width:190px;align-self:flex-end;
+}
+.edition-date{font-size:10px;letter-spacing:.13em;white-space:nowrap;color:var(--muted)}
+.briefing-audio{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:8px}
+.briefing-audio button{
+  display:inline-flex;align-items:center;justify-content:center;gap:8px;
+  border:1px solid var(--line);border-radius:3px;padding:11px 14px;
+  background:transparent;color:var(--text);font-size:11px;font-weight:700;
+  min-height:39px;cursor:pointer;transition:border-color .18s,color .18s
+}
+.briefing-audio .briefing-play{border-color:var(--accent);color:var(--accent)}
+.briefing-audio button:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
+.briefing-audio button:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.briefing-audio button:disabled{opacity:.45;cursor:not-allowed}
+.briefing-progress{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.briefing-audio-error{color:var(--accent);font-size:11px;width:100%;text-align:right}
+@media(max-width:700px){
+ .edition-heading{align-items:flex-start;gap:13px}
+ .edition-heading-tools{gap:9px;min-width:0;align-self:auto;max-width:52%}
+ .edition-date{font-size:9px}
+ .briefing-audio{justify-content:flex-end;gap:5px}
+ .briefing-audio button{padding:9px 10px;font-size:10px;min-height:35px}
+}
+@media(max-width:460px){
+ .edition-heading{flex-wrap:wrap}
+ .edition-heading-tools{max-width:100%;align-self:auto;align-items:flex-start;width:100%;gap:9px}
+ .edition-date{align-self:flex-start}
+ .briefing-audio{justify-content:flex-start}
+ .briefing-audio-error{text-align:left}
+}
