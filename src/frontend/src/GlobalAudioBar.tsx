@@ -7,7 +7,7 @@ export default function GlobalAudioBar({locale}:{locale:Locale}){
  const {session,pause,resume,stop}=useAudioPlayer();
  if(!session)return null;
  const it=locale==='it';
- const section=session.kind==='briefing'?(it?'Rassegna in ascolto':'Playing briefing')
+ const section=session.kind==='briefing'?session.title
    :session.kind==='body'?(it?'Testo della notizia':'Story body')
      :(it?'Articolo completo':'Full article');
  return <div className="global-audio-dock" role="region" aria-label={it?'Lettore audio attivo':'Active audio player'}>
