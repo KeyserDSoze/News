@@ -8,7 +8,7 @@ const version=frontend.version;
 const revision=process.env.GITHUB_SHA||version;
 const base=(process.env.VITE_BASE_PATH||'/News/').replace(/\/?$/,'/');
 const manifest={
- id:base,name:'O — Oggettivizzatore / Objectivizer',short_name:'O',description:'I fatti, senza pubblicità e senza titoli sensazionalistici.',
+ id:base,name:'O',short_name:'O',description:'Oggettivizzatore / Objectivizer. I fatti, senza pubblicità e senza titoli sensazionalistici.',
  start_url:base,scope:base,display:'standalone',display_override:['standalone','minimal-ui'],
  background_color:'#101317',theme_color:'#101317',
  icons:[
