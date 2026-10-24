@@ -2,7 +2,7 @@ import type { Article, Locale, Section, StoryIndex } from './types';
 import { formatDate, messages, sectionName } from './i18n';
 import { storyHref } from './types';
 
-export type ArticlePart='summary'|'body'|'facts'|'perspectives'|'dossier'|'sources'|'assessment';
+export type ArticlePart='summary'|'body'|'facts'|'perspectives'|'dossier'|'related'|'sources'|'assessment';
 export interface ExportPart { id:ArticlePart; title:string; markdown:string; speech:string; }
 export interface ArticleExports { parts:ExportPart[]; markdown:string; speech:string; }
 const md=(s:string)=>s.replace(/\\/g,'\\\\').replace(/([*_\\[\\]#|])/g,'\\$1').replace(/\r?\n/g,' ');
@@ -27,6 +27,20 @@ export function buildArticleExports(article:Article,locale:Locale,section:Sectio
    const mdLine=dossier.map(s=>`- **${formatDate(s.date,locale)}:** [${md(s.title)}](${baseUrl()+storyHref(s)}) — ${md(s.summary)}`).join('\n');
    const speechText=[article.threadRecap||'',...dossier.map(s=>formatDate(s.date,locale)+'. '+s.title+'. '+s.summary)].join('\n');
    parts.push(makePart('dossier',t.historical,'## '+t.historical+'\n\n'+(article.threadRecap?md(article.threadRecap)+'\n\n':'')+mdLine,t.historical+'. '+speechText));
+  }
+ }
+ if(index) {
+  const key=article.id,explicit=new Set((article.related||[]).map(ref=>ref.date+'/'+ref.section+'/'+ref.id));
+  const related=index.stories.filter(story=>{
+    const current=story.date===date&&story.section===section&&story.id===key;
+    const inDossier=Boolean(article.threadId&&story.threadId===article.threadId);
+    return !current&&!inDossier&&(explicit.has(story.date+'/'+story.section+'/'+story.id)||
+      story.related?.some(ref=>ref.date===date&&ref.section===section&&ref.id===key));
+  });
+  if(related.length){
+    parts.push(makePart('related',t.connected,'## '+t.connected+'\\n\\n'+related.map(story=>
+      '- ['+md(story.title)+']('+baseUrl()+storyHref(story)+') — '+md(story.dek)).join('\\n'),
+      t.connected+'. '+related.map(story=>story.title+'. '+story.dek).join('. ')));
   }
  }
  const sourcesMd=article.sources.map(s=>`- [${md(s.outlet)} — ${md(s.title)}](${s.url}) (${s.publishedAt.slice(0,10)}; ${s.role})`).join('\n');
