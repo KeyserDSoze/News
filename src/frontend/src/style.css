@@ -380,3 +380,54 @@
  .briefing-audio{justify-content:flex-start}
  .briefing-audio-error{text-align:left}
 }
+
+
+/* v0.0.8 — persistent, distraction-free audio dock above system safe areas. */
+.global-audio-dock{
+ position:fixed;left:0;right:0;bottom:0;z-index:300;
+ padding:12px 20px calc(12px + env(safe-area-inset-bottom,0px));
+ color:var(--text);background:var(--paper);
+ border-top:2px solid var(--accent);
+ box-shadow:0 -9px 32px rgba(0,0,0,.16);
+}
+.global-audio-content{
+ width:100%;max-width:1190px;margin:0 auto;
+ display:flex;align-items:center;gap:15px;
+}
+.global-audio-icon{
+ width:40px;height:40px;display:flex;align-items:center;justify-content:center;
+ flex:0 0 40px;border:1px solid var(--line);border-radius:50%;color:var(--accent);
+}
+.global-audio-details{flex:1;min-width:0;display:flex;flex-direction:column;gap:4px}
+.global-audio-kicker{
+ color:var(--accent);font-size:10px;text-transform:uppercase;letter-spacing:.1em;font-weight:700;
+}
+.global-audio-title{
+ display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+ color:var(--text);font:500 18px/1.2 'Newsreader',Georgia,serif;text-decoration:none;
+}
+.global-audio-title:hover{color:var(--accent)}
+.global-audio-buttons{display:flex;align-items:center;gap:8px;flex-shrink:0}
+.global-audio-buttons button{
+ display:inline-flex;align-items:center;justify-content:center;gap:8px;
+ min-height:39px;padding:8px 13px;border:1px solid var(--line);
+ background:transparent;color:var(--text);border-radius:3px;cursor:pointer;
+ font-size:11px;font-weight:700;white-space:nowrap;
+}
+.global-audio-buttons button:first-child{border-color:var(--accent);color:var(--accent)}
+.global-audio-buttons button:hover{border-color:var(--accent);color:var(--accent)}
+.global-audio-buttons button:focus-visible,.global-audio-title:focus-visible{
+ outline:2px solid var(--accent);outline-offset:3px;
+}
+body:has(.global-audio-dock){padding-bottom:calc(85px + env(safe-area-inset-bottom,0px))}
+@media(max-width:640px){
+ .global-audio-dock{padding:9px 12px calc(9px + env(safe-area-inset-bottom,0px))}
+ .global-audio-content{gap:8px}
+ .global-audio-icon{display:none}
+ .global-audio-title{font-size:15px}
+ .global-audio-kicker{font-size:8px}
+ .global-audio-buttons{gap:6px}
+ .global-audio-buttons button{min-height:38px;padding:8px;gap:5px;font-size:10px}
+ .global-audio-buttons button span{display:none}
+ body:has(.global-audio-dock){padding-bottom:calc(68px + env(safe-area-inset-bottom,0px))}
+}
