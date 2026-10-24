@@ -14,9 +14,9 @@ function initialTheme(): 'light'|'dark' {
 function Picture({article,locale}:{article:Article;locale:Locale}) {
  const [broken,setBroken]=useState(false);
  return <figure className={'news-picture '+(broken?'broken':'')}>
-   {!broken && <img src={mediaUrl(article.image.src)} alt={article.image.alt} loading={article.rank===1?'eager':'lazy'} onError={()=>setBroken(true)} />}
-   {broken && <div className="image-fallback"><Layers3 size={48}/></div>}
-   <figcaption><span>{article.image.kind==='illustration' ? (locale==='it'?'Illustrazione':'Illustration') : (locale==='it'?'Foto':'Photo')}: {article.image.credit}</span><a href={article.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label="Image source"><ExternalLink size={12}/></a></figcaption>
+   {(!broken || article.image.fallbackSrc) && <img src={mediaUrl(broken ? article.image.fallbackSrc! : article.image.src)} alt={article.image.alt} loading={article.rank===1?'eager':'lazy'} onError={()=>setBroken(true)} />}
+   {broken && !article.image.fallbackSrc && <div className="image-fallback"><Layers3 size={48}/></div>}
+   <figcaption><span>{article.image.kind==='illustration' ? (locale==='it'?'Illustrazione':'Illustration') : (locale==='it'?'Foto':'Photo')}: {article.image.credit} · {article.image.license}</span><a href={article.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label="Image source"><ExternalLink size={12}/></a></figcaption>
  </figure>;
 }
 function Story({article,locale,featured=false}:{article:Article;locale:Locale;featured?:boolean}) {

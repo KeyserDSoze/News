@@ -26,7 +26,7 @@ Ten stories per edition chosen for public significance, impact, timeliness, geog
 7. Recheck cited URLs and translations before merging a daily edition. Human editorial review is required prior to publication.
 8. Corrections: publish a new commit with a descriptive message and correction note, maintaining the Git history; don't silently erase errors.
 9. Avoid defamatory speculation, personal data beyond genuinely necessary public-interest facts, and copyrighted article text.
-10. The initial seed edition uses original *illustrative vectors*, not event photos. Replace with event photos only after confirming reuse permissions and adding full rights details.
+10. The seed edition primarily uses original *illustrative vectors*. It also references two openly licensed Wikimedia Commons images with explicit provenance: a 20 October 2026 satellite image of Typhoon Champi and a clearly dated 2008 archival photograph of olive harvesting in the West Bank. Do not present archival imagery as contemporary event evidence. Replace or extend with event photos only after confirming reuse permissions and rights details.
 
 ## Daily workflow
 Ask ChatGPT to research **the top ten stories for YYYY-MM-DD**, compare independent reporting and primary documents, flag unresolved claims, propose Italian/English versions and appropriately licensed images. Review the drafts before merging into `news/`. Push triggers validation and static deploy, **not autonomous fact-checking**. No unattended publishing until a dedicated editorial review protocol exists.

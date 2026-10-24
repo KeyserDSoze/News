@@ -89,12 +89,14 @@
         }
       ],
       "image": {
-        "src": "news/2026-10-24/assets/champion-typhoon-taiwan.svg",
-        "alt": "Symbolic editorial illustration for: Typhoon Champi batters Taiwan: one dead, hundreds injured",
-        "credit": "Oggettivizzatore",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/champion-typhoon-taiwan.svg",
-        "license": "Original editorial artwork",
-        "kind": "illustration"
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Champi_2026-10-20_2200Z.jpg?width=960",
+        "alt": "Satellite image of Typhoon Champi taken on 20 October 2026",
+        "credit": "JMA Himawari-9 / NASA EOSDIS (20 Oct 2026)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Champi_2026-10-20_2200Z.jpg",
+        "license": "CC BY 4.0 / Japan Public Data License",
+        "kind": "photo",
+        "fallbackSrc": "news/2026-10-24/assets/champion-typhoon-taiwan.svg",
+        "caption": "Satellite imagery predating the storm's passage near Taiwan"
       }
     },
     {
@@ -354,12 +356,14 @@
         }
       ],
       "image": {
-        "src": "news/2026-10-24/assets/italian-activists-west-bank.svg",
-        "alt": "Symbolic editorial illustration for: Five Italian activists held in the West Bank await return home",
-        "credit": "Oggettivizzatore",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/italian-activists-west-bank.svg",
-        "license": "Original editorial artwork",
-        "kind": "illustration"
+        "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Olive_harvest.jpg?width=960",
+        "alt": "Olive harvest in the West Bank photographed in 2008: archival photograph",
+        "credit": "Orrling — West Bank (2008 archival photograph)",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olive_harvest.jpg",
+        "license": "CC BY-SA 3.0",
+        "kind": "photo",
+        "fallbackSrc": "news/2026-10-24/assets/italian-activists-west-bank.svg",
+        "caption": "Archival photo, does not depict the 2026 detentions"
       }
     },
     {
