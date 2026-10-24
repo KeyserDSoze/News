@@ -69,7 +69,7 @@ function Impact({article,section,locale,compact=false}:{article:Article;section:
 }
 function StoryCard({article,date,section,locale,index,featured=false}:{article:Article;date:string;section:Section;locale:Locale;index:StoryIndex|null;featured?:boolean}){
   const t=messages[locale],ref={date,section,id:article.id};
-  return <article className={'story '+(featured?'story-featured':'')} data-story-id={article.id}>
+  return <article className={'story '+(featured?'story-featured':'')} data-story-id={article.id} data-scroll-anchor={section+'/'+date+'/'+article.id}>
     <div className="story-image-wrap"><Picture article={article} locale={locale} section={section}/></div>
     <div className="story-content">
       <div className="story-meta"><span className="story-number">{String(article.rank).padStart(2,'0')}</span><span className="dot"/><span>{t.categories[article.category]}</span><span className="meta-spacer"/><span className="sources-pill"><Check size={12}/>{article.sources.length} {t.sources.toLowerCase()}</span></div>
@@ -231,14 +231,6 @@ function SectionPage({section,locale,index}:{section:Section;locale:Locale;index
     return()=>observer.disconnect();
   },[hasMore,nextReady,loading,showNext,visible]);
   return <main id="content">
-    <section className="hero hero-compact container">
-      <div className="hero-compact-copy">
-        <div className="hero-kicker"><span className="live-mark"/>{t.sectionLabel}</div>
-        <h1>{section==='world'?(locale==='it'?'Mondo, in contesto.':'World, in context.'):sectionName(section,locale)+'.'}</h1>
-        <p>{t.sectionDescriptions[section]}</p>
-      </div>
-    </section>
-    <div className="section-band"><div className="container band-inner"><span><span className="band-mark">✳</span> {t.sectionNames[section].toUpperCase()} <span className="band-slash">/</span> {sectionSize[section]} {locale==='it'?'NOTIZIE PER EDIZIONE':'STORIES PER EDITION'}</span><span>{t.tagline.toUpperCase()}</span></div></div>
     <div className="container publication" id="editions">
       {loading&&<div className="load-state" role="status"><span className="loader"/>{t.loading}</div>}
       {error&&!loading&&active.length===0&&<div className="load-state" role="alert">{t.error} <button onClick={()=>location.reload()}>{t.retry}</button></div>}
@@ -259,28 +251,87 @@ export default function App(){
   const [searchSeen,setSearchSeen]=useState(route.kind==='search');
   const [searchTag,setSearchTag]=useState(route.kind==='search'?route.tag:'');
   const [returnTo,setReturnTo]=useState<string>(route.kind==='article'?sectionHref(route.section):sectionHref('world'));
-  const scrollRef=useRef<Record<string,number>>((()=>{
-    try{return JSON.parse(sessionStorage.getItem('o-scroll-positions')||'{}') as Record<string,number>;}catch{return {};}
+  type ScrollSnapshot={y:number;anchor?:string;relativeTop?:number};
+  const scrollRef=useRef<Record<string,ScrollSnapshot>>((()=>{
+    try{
+      const values=JSON.parse(sessionStorage.getItem('o-scroll-positions')||'{}') as Record<string,number|ScrollSnapshot>;
+      return Object.fromEntries(Object.entries(values).map(([path,value])=>
+        [path,typeof value==='number'?{y:value}:value]));
+    }catch{return {};}
   })());
+  const cancelRestore=useRef<null|(()=>void)>(null);
   const current=useRef<{route:Route;path:string}>({route,path:currentPath()});
   const index=useStoryIndex(locale),t=messages[locale],selected=route.kind==='section'||route.kind==='article'?route.section:'world';
   useEffect(()=>{
     if('scrollRestoration' in history)history.scrollRestoration='manual';
-    const record=(path:string)=>{
-      scrollRef.current[path]=window.scrollY;
+    const record=(path:string,clicked?:Element|null)=>{
+      const container=clicked?.closest<HTMLElement>('[data-scroll-anchor]');
+      scrollRef.current[path]={
+        y:window.scrollY,
+        ...(container?.dataset.scrollAnchor?{
+          anchor:container.dataset.scrollAnchor,
+          relativeTop:container.getBoundingClientRect().top
+        }:{})
+      };
       try{sessionStorage.setItem('o-scroll-positions',JSON.stringify(scrollRef.current));}catch{}
     };
+    // Scroll restoration is tied to the originating story, not to how far
+    // the user subsequently scrolls through its full article.
+    const restore=(incoming:Route,destination:string)=>{
+      cancelRestore.current?.();
+      let cancelled=false;
+      const interrupt=()=>{cancelled=true;stop();};
+      const timers:number[]=[];
+      let frame=0;
+      const stop=()=>{
+        timers.forEach(window.clearTimeout);
+        if(frame)cancelAnimationFrame(frame);
+        window.removeEventListener('wheel',interrupt);
+        window.removeEventListener('touchstart',interrupt);
+        window.removeEventListener('pointerdown',interrupt);
+        window.removeEventListener('keydown',interrupt);
+      };
+      cancelRestore.current=stop;
+      window.addEventListener('wheel',interrupt,{passive:true});
+      window.addEventListener('touchstart',interrupt,{passive:true});
+      window.addEventListener('pointerdown',interrupt,{passive:true});
+      window.addEventListener('keydown',interrupt);
+      const snapshot=scrollRef.current[destination];
+      const apply=()=>{
+        if(cancelled||currentPath()!==destination)return;
+        if(incoming.kind==='article'||incoming.kind==='releases'){
+          window.scrollTo({top:0,left:0,behavior:'instant'});
+          return;
+        }
+        // Prefer the actual story card/result as an anchor: lazy images and
+        // edition growth cannot shift the restored card several days away.
+        const element=snapshot?.anchor
+          ?Array.from(document.querySelectorAll<HTMLElement>('[data-scroll-anchor]'))
+            .find(node=>node.dataset.scrollAnchor===snapshot.anchor&&!node.closest('[hidden]'))
+          :undefined;
+        const desired=element&&snapshot?.relativeTop!==undefined
+          ?window.scrollY+element.getBoundingClientRect().top-snapshot.relativeTop
+          :snapshot?.y??0;
+        window.scrollTo({top:Math.max(0,desired),left:0,behavior:'instant'});
+      };
+      frame=requestAnimationFrame(()=>{frame=requestAnimationFrame(apply);});
+      // React updates the visible section before the first frame, but when
+      // the archive or search is being reconstructed further attempts are needed.
+      if(incoming.kind==='section'||incoming.kind==='search')
+        for(const delay of [90,260,600,1100,1800])
+          timers.push(window.setTimeout(apply,delay));
+      else timers.push(window.setTimeout(apply,80));
+      timers.push(window.setTimeout(stop,2000));
+    };
     const activate=(previous:string)=>{
-      const incoming=routeFromPath();
+      const incoming=routeFromPath(),destination=currentPath();
       if((current.current.route.kind==='section'||current.current.route.kind==='search')&&incoming.kind==='article')
         setReturnTo(previous);
-      current.current={route:incoming,path:currentPath()};
+      current.current={route:incoming,path:destination};
       setRoute(incoming);
       if(incoming.kind==='section')setVisited(old=>old.includes(incoming.section)?old:[...old,incoming.section]);
       if(incoming.kind==='search'){setSearchSeen(true);setSearchTag(incoming.tag);}
-      requestAnimationFrame(()=>requestAnimationFrame(()=>{
-        window.scrollTo({top:scrollRef.current[currentPath()]??0,left:0,behavior:'instant'});
-      }));
+      restore(incoming,destination);
     };
     const onClick=(event:MouseEvent)=>{
       if(event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
@@ -293,7 +344,7 @@ export default function App(){
       const target=url.pathname+url.search;
       if(target===currentPath()){window.scrollTo({top:0,left:0,behavior:'instant'});return;}
       const previous=current.current.path;
-      record(previous);
+      record(previous,anchor);
       history.pushState(null,'',target);
       activate(previous);
     };
@@ -307,6 +358,7 @@ export default function App(){
     window.addEventListener('popstate',onPopState);
     window.addEventListener('pagehide',onPageHide);
     return()=>{
+      cancelRestore.current?.();
       document.removeEventListener('click',onClick);
       window.removeEventListener('popstate',onPopState);
       window.removeEventListener('pagehide',onPageHide);
