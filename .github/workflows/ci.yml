@@ -1,0 +1,35 @@
+name: Validate pull requests
+on:
+  pull_request:
+    paths:
+      - 'src/frontend/**'
+      - 'news/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/ci.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: src/frontend/package-lock.json
+      - name: Install
+        run: npm ci
+        working-directory: src/frontend
+      - name: Check editorial data
+        run: node scripts/build-news.mjs --check
+      - name: Build
+        run: npm run build
+        working-directory: src/frontend
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+        working-directory: src/frontend
+      - name: Browser tests
+        run: npm run test:e2e
+        working-directory: src/frontend

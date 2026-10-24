@@ -1,0 +1,56 @@
+name: Deploy Oggettivizzatore
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/frontend/**'
+      - 'news/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  validate-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: src/frontend/package-lock.json
+      - name: Install dependencies
+        working-directory: src/frontend
+        run: npm ci
+      - name: Validate bilingual news and sources
+        run: node scripts/build-news.mjs --check
+      - name: Build
+        working-directory: src/frontend
+        run: npm run build
+      - name: Install Playwright Chromium
+        working-directory: src/frontend
+        run: npx playwright install --with-deps chromium
+      - name: End-to-end tests
+        working-directory: src/frontend
+        run: npm run test:e2e
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: src/frontend/dist
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: validate-and-build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
