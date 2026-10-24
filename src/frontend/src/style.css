@@ -298,3 +298,21 @@
  .article-summary{padding:21px 19px;gap:14px}
  .article-mobile-controls .command-buttons .reader-actions button{font-size:10px}
 }
+
+
+/* Story title and sticky tools share the first screen on desktop. */
+.article-main .article-hero{max-width:none;padding-top:5px;padding-bottom:27px}
+.article-main .article-hero h1{font-size:clamp(46px,5vw,76px);line-height:1.02;max-width:100%}
+.article-main .article-summary{
+  grid-template-columns:minmax(96px,130px) minmax(0,1fr);
+  gap:20px;padding:26px 28px;
+}
+.article-main .article-summary p{font-size:19px}
+.article-main>.news-picture{margin-top:0}
+@media(max-width:800px){
+ .article-main .article-hero{padding-top:27px}
+ .article-main .article-hero h1{font-size:clamp(42px,8vw,63px)}
+ .article-main .article-summary{grid-template-columns:1fr;gap:14px;padding:23px 21px}
+ .article-main .article-summary-heading{flex-direction:row;align-items:center;gap:13px}
+ .article-main .article-summary .summary-bullet{font-size:28px}
+}
