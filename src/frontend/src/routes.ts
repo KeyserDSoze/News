@@ -8,6 +8,7 @@ export const APP_BASE = import.meta.env.BASE_URL.endsWith('/')
 export type Route =
   | { kind:'section'; section:Section }
   | { kind:'search'; tag:string }
+  | { kind:'releases' }
   | { kind:'article'; section:Section; date:string; id:string };
 
 export function sectionHref(section:Section) { return APP_BASE+section+'/'; }
@@ -15,6 +16,7 @@ export function searchHref(tag?:string) { return APP_BASE+'search/'+(tag?'tag/'+
 export function articleHref(ref:StoryRef) {
   return APP_BASE+'article/'+ref.section+'/'+ref.date+'/'+encodeURIComponent(ref.id)+'/';
 }
+export function releasesHref(){return APP_BASE+'releases/';}
 export function currentPath() { return window.location.pathname+window.location.search; }
 
 export function routeFromPath(pathname:string=window.location.pathname):Route {
@@ -22,6 +24,7 @@ export function routeFromPath(pathname:string=window.location.pathname):Route {
   const parts=pathname.slice(APP_BASE.length).split('/').filter(Boolean);
   const section=sections.find(s=>s===parts[0]);
   if (section && parts.length===1) return {kind:'section',section};
+  if(parts[0]==='releases'&&parts.length===1)return {kind:'releases'};
   if (parts[0]==='search') return {
     kind:'search',
     tag:parts.length===3 && parts[1]==='tag' ? safeDecode(parts[2]) : ''
@@ -40,7 +43,7 @@ function safeDecode(encoded:string) {
 export function isAppRoute(pathname:string) {
   if (!pathname.startsWith(APP_BASE)) return false;
   const relative=pathname.slice(APP_BASE.length);
-  return relative==='' || relative==='index.html'
+  return relative==='' || relative==='index.html' || relative==='releases' || relative==='releases/'
     || sections.some(s=>relative===s || relative===s+'/')
     || /^article\/(world|italy|technology|science)\/\d{4}-\d{2}-\d{2}\/[a-z0-9-]+\/?$/.test(relative)
     || relative==='search' || relative==='search/' || relative.startsWith('search/tag/');

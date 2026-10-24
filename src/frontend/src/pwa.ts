@@ -35,7 +35,7 @@ export function usePwaInstall(){
 }
 export function registerPwa(){
  if(!('serviceWorker' in navigator)||!window.isSecureContext)return;
- window.addEventListener('load',()=>{
+ const setup=()=>{
   const scope=import.meta.env.BASE_URL;
   const hadController=Boolean(navigator.serviceWorker.controller);
   let reloaded=false;
@@ -53,6 +53,7 @@ export function registerPwa(){
    window.addEventListener('online',check);
    window.setInterval(check,30*60*1000);
   }).catch(error=>console.warn('Service worker registration',error));
- });
+ };
+ if(document.readyState==='complete')setup();else window.addEventListener('load',setup,{once:true});
 }
 export { APP_VERSION };

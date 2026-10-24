@@ -1,7 +1,7 @@
 {
   "name": "oggettivizzatore",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "predev": "node ../../scripts/build-news.mjs",
@@ -11,7 +11,7 @@
     "preview": "vite preview --host 0.0.0.0",
     "test:content": "node ../../scripts/build-news.mjs --check",
     "test:e2e": "playwright test",
-    "postbuild": "node ../../scripts/build-static-routes.mjs"
+    "postbuild": "node ../../scripts/build-static-routes.mjs && node ../../scripts/build-pwa.mjs"
   },
   "dependencies": {
     "react": "19.0.0",
