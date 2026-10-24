@@ -58,13 +58,14 @@ Use [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md). Each World edition requires **
 
 Read the [editorial policy](docs/EDITORIAL_POLICY.md), [architecture](docs/ARCHITECTURE.md), and [decisions](ADR/). No agency images have been copied without a verified license.
 
-## Impact rating · 1–5 stars
-Each article carries a justified **desk-relative** 1–5 star assessment: global relevance for World, impact on Italy for Italy, technology ecosystem significance for Technology, and quality/significance of research evidence for Science. The reasoning is public and localized; it is editorial judgement, not a mathematical fact. A score of 5 is reserved for exceptional impact in its particular scope. See `docs/EDITORIAL_POLICY.md`.
+## Impact scale · 0.5–5 levels
+
+Every story has a **desk-relative editorial impact score** from **0.5 to 5.0**, in increments of 0.5, represented by **five graduated segments** (including half-segments), rather than stars. The score is explicitly reasoned in Italian and English; it measures the scale of consequences, not popularity or the quality of the article. World is assessed globally, Italy nationally, Technology across its ecosystem and Science by the strength and significance of new scientific knowledge. The maximum, **5.0**, is reserved for genuinely exceptional, era-defining outcomes, not routine daily news. See [our bilingual editorial policy](docs/EDITORIAL_POLICY.md).
 
 ## The reader's search and archive memory
 The search in O's masthead is completely static. It fetches date/section JSON documents from GitHub Pages and caches them in **browser IndexedDB** for later searches. With no dates selected, it searches the latest year; readers can set exact dates (including older ones), enter article text, click one of **three tags per story**, or restrict results to a section. There are no account logins or tracking services. Browser and phone-back navigation restore the exact scroll location in a briefing or search results, even after opening an article. Invalid image URLs display original desk-specific editorial art with truthful credits.
 
-Scores use **half-star steps (0.5–5)** with a conservative editorial rubric: 5 means genuinely world-changing, historically exceptional impact. Every score has a localized rationale. Existing World and specialist stories were reassessed rather than automatically assigned 4 or 5 stars.
+Scores retain **half-level precision (0.5–5.0)**, with a conservative rubric and a localized explanation for every rating. The archive retains the same numeric values; only the terminology and displayed symbol changed.
 
 ## Shareable direct links (ADR 0006)
 Article URLs now use **normal slashes**: `https://onews.app/article/world/2026-10-24/oleshky-humanitarian-ceasefire/`. Section, search and tags also have slash URLs instead of hashes. The project remains fully static: the build emits one `index.html` per article with readable Open Graph/Twitter metadata, plus a `404.html` fallback for arbitrary client URLs. Refreshing a published article opens directly; previously shared hash links migrate automatically. On mobile, **Share** opens the native sharing sheet (WhatsApp, Messages, etc., depending on installed apps); **Copy link** works independently, and browsers without Web Share automatically copy the permalink.

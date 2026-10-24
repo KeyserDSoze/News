@@ -2,6 +2,20 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.7] — 2026-10-25
+
+**Italiano — Scala d'impatto, non stelle**
+
+- Allineate politica editoriale, README, documentazione architetturale e guida contributori alle cinque tacche progressive dell'interfaccia.
+- Formalizzata la scala 0,5–5,0 per mezzi livelli, con criteri completi in italiano e inglese e un massimo riservato a eventi epocali.
+- Nessun cambiamento ai punteggi e alle motivazioni delle notizie archiviate; ADR 0012 spiega la decisione.
+
+**English — Impact levels, not stars**
+
+- Aligned the editorial policy, README, architecture and contributor guide with the five-segment impact meter.
+- Defined the 0.5–5.0 half-level scale in both languages and reserved maximum impact for genuinely era-defining events.
+- Existing article ratings and reasoning are unchanged; ADR 0012 documents the rationale.
+
 ## [0.0.6] — 2026-10-25
 
 **Italiano — La rassegna si ascolta**

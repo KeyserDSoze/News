@@ -44,17 +44,37 @@ The counts are enforced separately per issue and language. Do not pad an edition
 A front-page story begins with a brief summary. Its dedicated article then presents a complete contextual explanation, sources, and **objective questions and observations last**. For ongoing issues, assign a stable `threadId` only when there is a meaningful shared story. Keep the dated recap accurate as of that day, not retrospectively prophetic. The compiled index creates backlinks automatically so old stories surface later developments. Use `related` for adjacent but different stories, and never imply causation merely because two articles share a topic. Every timeline episode must provide a direct link and clear date. Historical accuracy and corrections are especially important.
 
 
-## Impact rating (0.5–5 stars) / Scala d'impatto
-The impact score is **a clearly justified editorial judgement**, never a scientific measurement, a ranking of victims, or a prediction of future outcomes. Scores use 0.5-star increments and the same number in both translations; `impactReason` explains the score in each language. Compare stories **only within the desk's scope**: worldwide for World, national for Italy, technology ecosystem-wide for Technology, and robust contribution to scientific knowledge for Science.
+## Scala d'impatto / Impact scale (0,5–5 / 0.5–5)
 
-- **0.5–1.0:** limited geographic or specialist impact; an early announcement or preliminary observation.
-- **1.5–2.0:** concrete regional, community or specialised-sector impact, with bounded consequences.
-- **2.5–3.0:** notable national, cross-border or scientific/technological implications, supported by evidence.
+**IT — Regola editoriale attuale**
+
+L'impatto è un **giudizio editoriale motivato**, non una misura scientifica, una graduatoria delle vittime o una previsione. Il valore numerico `impact` va da **0,5 a 5,0**, con **incrementi di 0,5** (dieci valori possibili); il frontend lo mostra con **cinque tacche**, riempibili anche a metà. **Non usiamo stelle**: le tacche indicano il grado dell'impatto, non la popolarità o la qualità dell'articolo.
+
+Confronta i valori **solo nell'ambito della rubrica**: rilevanza globale per Mondo, nazionale per Italia, conseguenze per l'ecosistema tecnologico in Tecnologia e contributo affidabile alla conoscenza in Scienza. Il valore deve essere identico nei JSON italiano e inglese; `impactReason` spiega la motivazione, tradotta in ciascuna lingua.
+
+- **0,5–1,0:** ricaduta geografica o specialistica circoscritta; annuncio iniziale o osservazione preliminare.
+- **1,5–2,0:** conseguenze concrete a livello regionale, comunitario o di settore, ma delimitate.
+- **2,5–3,0:** implicazioni importanti, nazionali, transfrontaliere, scientifiche o tecnologiche, sostenute da evidenze.
+- **3,5:** rilevanza molto elevata, rara e persistente per un settore ampio o sul piano internazionale.
+- **4,0–4,5:** conseguenze straordinarie, estese e storicamente significative, ben documentate.
+- **5,0:** **livello massimo, riservato a eventi realmente epocali** nell'ambito pertinente; su scala mondiale, per esempio una catastrofe di portata storica paragonabile agli attentati dell'11 settembre, l'impiego di un'arma nucleare o una scoperta validata che rivoluzioni la produzione energetica globale. Un'ipotesi non verificata non può ottenere il massimo.
+
+Il valore **5,0 deve essere eccezionale** nelle rassegne ordinarie. Una tempesta grave, un delitto, uno studio clinico di fase III o un avviso di sicurezza informatica non meritano automaticamente 4,0–5,0. Consideriamo diffusione, durata, persone coinvolte, solidità delle prove ed effetti sistemici, senza confondere il linguaggio emotivo con l'impatto. Ogni valutazione deve essere spiegabile in termini semplici; eventuali modifiche restano verificabili nella cronologia Git.
+
+**EN — Current editorial rule**
+
+The impact score is **a reasoned editorial judgement**, not a scientific measurement, a ranking of victims or a prediction. The numeric `impact` ranges from **0.5 to 5.0** in **0.5 increments** (ten possible values). The frontend renders it as **five rising segments**, each of which can be half-filled. **This is not a star rating**: the segments express the scale of consequences, not story popularity or article quality.
+
+Compare values **only within the desk's scope**: global for World, national for Italy, ecosystem-wide for Technology, and robust contribution to scientific knowledge for Science. Italian and English JSON must contain the same numeric score, with a localized `impactReason` explaining it.
+
+- **0.5–1.0:** limited geographic or specialist consequences; early announcement or preliminary observation.
+- **1.5–2.0:** tangible regional, community or specialist-sector impact with bounded outcomes.
+- **2.5–3.0:** notable national, cross-border, scientific or technological implications supported by evidence.
 - **3.5:** rare, very high and sustained sector-wide or international significance.
-- **4.0–4.5:** extraordinary large-scale, historically significant consequences, well supported by verified facts.
-- **5.0:** **reserved for genuinely world-changing, era-defining events**—for instance a catastrophe comparable in historical reach to the 11 September attacks, the use of a nuclear weapon, or a validated discovery that fundamentally changes global energy production. Mere speculation about such a discovery cannot receive 5 stars.
+- **4.0–4.5:** extraordinary large-scale, historically significant consequences, supported by verified facts.
+- **5.0:** **the maximum level, reserved for genuinely era-defining events** within the relevant scope. Worldwide examples include a catastrophe comparable in historical reach to the 11 September attacks, the use of a nuclear weapon, or a validated discovery fundamentally transforming global energy production. Unverified speculation cannot receive the maximum.
 
-Five-star headlines should be virtually absent from ordinary daily issues. A major storm, a serious crime, a Phase III trial or a company security announcement is **not automatically** four or five stars. Evaluate breadth, duration, affected population, evidence quality, and systemic consequences; never confuse emotional language with impact. A score must be explainable in plain language. A change of rating must be auditable in Git.
+A **5.0 score should be extraordinarily rare** in ordinary daily editions. A major storm, serious crime, phase III trial or security bulletin does not automatically warrant 4.0–5.0. Evaluate breadth, duration, affected population, quality of evidence and systemic consequences. All ratings require plain-language justification and any later change must be auditable in Git.
 
 ## Discoverability and contextual coverage
 Every article carries exactly three localized, concise `tags` identifying actual subjects—not promotional keywords. Tags link to the same on-device search as the header. The search supports full article text, date intervals, tag equality and desk filters. Daily long-form copy should add sourced explanation, definitions, historical background and important limitations rather than repeating the front-page lead verbatim. Editorial SVG illustrations used as fallbacks are **not documentary photography** and must be labelled as original artwork.

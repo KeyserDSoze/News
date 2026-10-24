@@ -1,9 +1,11 @@
 # ADR 0005 — O search, conservative impact, image fallback and state-preserving navigation
-- Status: Accepted
+- Status: Superseded for impact visual terminology by ADR 0012 (historical record retained)
 - Date: 2026-10-24
 
 ## Context
 Readers need a much smaller mobile lead, article-level research, trustworthy impact ratings and the ability to navigate between a long infinite-scroll briefing, a full-text search, and article pages without losing place. There is still no backend.
+
+_Historical decision: the star-related terminology below describes the earlier UI. The current scoring convention and graphical representation are specified in [ADR 0012](0012-impact-scale-terminology.md) and the editorial policy._
 
 ## Decisions
 1. **Compact mobile masthead**: hide duplicate announcement line and remove the 'Explore' jump link; collapse the introductory hero to make the first edition visible sooner.

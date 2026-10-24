@@ -1,6 +1,28 @@
 {
   "releases": [
     {
+      "version": "0.0.7",
+      "date": "2026-10-25",
+      "it": {
+        "title": "La scala d'impatto senza stelle",
+        "highlights": [
+          "Allineate le regole editoriali alle cinque tacche dell'indicatore d'impatto: eliminata la terminologia delle stelle nelle istruzioni attuali.",
+          "Esplicitata la scala numerica da 0,5 a 5,0 con mezzi livelli e la rarità del valore massimo.",
+          "Pubblicati criteri completi in italiano e inglese, mantenendo immutati i punteggi e le motivazioni delle notizie già archiviate."
+        ],
+        "details": "Aggiornamento editoriale e documentale: nessuna modifica alla grafica, al frontend, ai dati delle notizie o al servizio statico."
+      },
+      "en": {
+        "title": "Impact levels, not stars",
+        "highlights": [
+          "Aligned current editorial standards with the five-segment impact display, removing obsolete star-rating terminology.",
+          "Clarified 0.5–5.0 scoring with half levels and the exceptional nature of the maximum.",
+          "Published a complete bilingual impact rubric without changing any archived score or its explanation."
+        ],
+        "details": "Editorial documentation release only; no change to article data, frontend interactions or the static hosting model."
+      }
+    },
+    {
       "version": "0.0.6",
       "date": "2026-10-25",
       "it": {
