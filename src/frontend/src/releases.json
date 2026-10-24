@@ -1,6 +1,32 @@
 {
   "releases": [
     {
+      "version": "0.0.4",
+      "date": "2026-10-25",
+      "it": {
+        "title": "Solo le notizie. E ritorno esatto.",
+        "highlights": [
+          "Eliminate completamente le fasce introduttive ripetitive e l'intestazione superflua: navigazione alle rubriche seguita direttamente dalla rassegna.",
+          "Ridotta l'altezza della testata e avvicinato il titolo della prima edizione alle rubriche.",
+          "Il ritorno dalla notizia, sia dal pulsante in fondo sia con Indietro, ripristina la scheda originale e il punto esatto dello scorrimento, indipendentemente dalla lunghezza dell'articolo.",
+          "Il ritorno mantiene la posizione anche quando l'articolo proviene dalla ricerca o da un'edizione precedente.",
+          "Confermata e testata la preferenza lingua: Italiano o English vengono memorizzati in localStorage sotto og-language anche dopo un riavvio."
+        ],
+        "details": "La correzione usa ancore delle schede e ripristino dopo il rendering per evitare slittamenti durante il caricamento delle immagini e delle edizioni."
+      },
+      "en": {
+        "title": "Just the news. Exactly where you left off.",
+        "highlights": [
+          "Removed redundant editorial banners and the extra top strapline; desk navigation now leads straight into the briefing.",
+          "Reduced masthead height and tightened spacing above the lead edition.",
+          "Returning from the bottom of a long article or using browser Back restores the original story card and its exact viewport position.",
+          "Returning from an archive story or search results keeps the original location and filters.",
+          "Language selection is persisted in localStorage as og-language and is restored on the next visit."
+        ],
+        "details": "Navigation uses originating-card anchors and retries restoration after rendering to prevent drift as editions and images load."
+      }
+    },
+    {
       "version": "0.0.3",
       "date": "2026-10-25",
       "it": {

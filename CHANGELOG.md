@@ -2,6 +2,24 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.4] — 2026-10-25
+
+**Italiano — Solo le notizie e ritorno al punto esatto**
+
+- Eliminati l'intestazione introduttiva, la fascia riassuntiva e il micro-header superiore: la rassegna segue immediatamente le quattro rubriche.
+- Ridotta l'altezza della testata e lo spazio prima delle prime notizie.
+- Tornando da un articolo lungo (anche dal pulsante in fondo o col tasto Indietro), ritorno alla scheda originale con posizione in viewport conservata, anziché a una data lontana.
+- Persistenza della posizione anche per le edizioni precedenti e per i risultati di ricerca.
+- Verifica esplicita del salvataggio della lingua in `localStorage['og-language']`.
+
+**English — Just the news and precise return navigation**
+
+- Removed the redundant introductory banner, information band and top strapline; news follows the four-desk navigation.
+- Shorter masthead and less space above the daily briefing.
+- Both bottom return and browser Back restore the original news card and viewport position after a long article.
+- Previous-edition and search-result navigation preserve their originating positions.
+- Explicit test coverage for persisted language in `localStorage['og-language']`.
+
 ## [0.0.3] — 2026-10-25
 
 **Italiano — Le notizie al centro**

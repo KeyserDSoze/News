@@ -84,3 +84,6 @@ Il dominio canonico è **https://onews.app/**. La GitHub Action compila Vite con
 
 ## Edizione app 0.0.3 — lettura senza distrazioni
 La rassegna mostra subito le notizie: testata ridotta, scelta lingua a tendina, scrollbar sottile e impatto reso con tacche e mezze unità. Quando un'edizione viene caricata in copertina, contiene già gli articoli completi e viene conservata in IndexedDB; ricerca e approfondimenti condividono la stessa cache. Sul desktop il pannello sticky a destra riunisce ritorno, condividi, copia link, Markdown e lettura vocale, su mobile compare all'inizio dell'articolo. Solo il testo centrale conserva un secondo comando «Ascolta solo la notizia». La copia torna pronta dopo 2,5 secondi. Vedere `ADR/0009-reader-controls-cache.md` e le note di rilascio bilingui.
+
+## O 0.0.4 — Essenziale, dal primo schermo
+La navigazione delle quattro rubriche è seguita direttamente dalle edizioni, senza banner di presentazione. La lingua scelta tramite menu è salvata in `localStorage['og-language']` e resta selezionata nelle visite successive. Il ritorno alla rassegna da un articolo conserva sia lo scroll sia la scheda che lo ha originato, anche con il tasto Indietro e dalla ricerca. Vedi `ADR/0010-minimal-header-precise-scroll.md`.
