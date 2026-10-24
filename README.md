@@ -10,7 +10,7 @@ Static, bilingual, source-transparent independent press review built with **Reac
 
 Once Pages is activated, the site is published at **https://keyserdsoze.github.io/News/**.
 
-The World archive currently contains **23 and 24 October 2026**, with **20 sourced stories in each language**. The Italy/Technology/Science desks show a clearly marked upcoming state until the first full set of five articles is researched. Daily editions have at least two distinct sources per article, original illustrated covers, and explicit separation of established facts, attributed claims and remaining uncertainties. The 24 October edition also includes two Wikimedia-licensed contextual images. Photos and satellite imagery carry provenance, dates, credits and licenses; archival media is never presented as photography of today's event.
+The World archive currently contains **23 and 24 October 2026**, with **20 sourced stories in each language**. The Italy, Technology and Science desks each have a fully sourced five-story edition dated 24 October 2026. Across the four desks, the archive now contains 35 distinct article instances, each in Italian and English. Daily editions have at least two distinct sources per article, original illustrated covers, and explicit separation of established facts, attributed claims and remaining uncertainties. The 24 October edition also includes two Wikimedia-licensed contextual images. Photos and satellite imagery carry provenance, dates, credits and licenses; archival media is never presented as photography of today's event.
 
 ## Start locally
 
@@ -57,3 +57,6 @@ GitHub Actions artifacts are short-lived build products, not the archive. All ed
 Use [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md). Each World edition requires **exactly ten articles**; every specialist edition requires **exactly five** with at least two distinct newsrooms per article, bilingual aligned IDs and ranks, source links, cautious fact/claim separation and credited imagery. Opening a PR triggers checks; merging to `main` triggers publication. Editorial review remains a human responsibility.
 
 Read the [editorial policy](docs/EDITORIAL_POLICY.md), [architecture](docs/ARCHITECTURE.md), and [decisions](ADR/). No agency images have been copied without a verified license.
+
+## Impact rating · 1–5 stars
+Each article carries a justified **desk-relative** 1–5 star assessment: global relevance for World, impact on Italy for Italy, technology ecosystem significance for Technology, and quality/significance of research evidence for Science. The reasoning is public and localized; it is editorial judgement, not a mathematical fact. A score of 5 is reserved for exceptional impact in its particular scope. See `docs/EDITORIAL_POLICY.md`.

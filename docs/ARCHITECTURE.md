@@ -34,3 +34,6 @@ Actions artifacts have retention policies and are not guaranteed eternal. GitHub
 
 ## Editorial impact
 Impact (required integer 1–5) and localized impactReason are versioned with each story. The builder rejects missing or out-of-range values. A five-star maximum is exceptional and desk-relative, never a cross-desk ranking of human suffering or an automatic measure. See EDITORIAL_POLICY.md for the public scoring rubric.
+
+## Editorial content state, 24 October
+All four independent desks contain validated bilingual issues dated 2026-10-24. The World section also has the 2026-10-23 issue; the three specialist desks have five stories per language and original editorial SVG images. Existing cross-edition dossiers can span desks, with automatic forward/back links from the static story index.

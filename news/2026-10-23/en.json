@@ -75,7 +75,9 @@
         }
       ],
       "impact": 4,
-      "impactReason": "Potentially substantial effects on military connectivity and the war in Ukraine."
+      "impactReason": "Potentially substantial effects on military connectivity and the war in Ukraine.",
+      "threadId": "ukraine-starlink-availability",
+      "threadRecap": "As of 23 October Ukrainian officials were reporting restrictions affecting Starlink and Starshield on fast-moving platforms while US officials offered assurances. The scope and cause of restrictions remained unclear."
     },
     {
       "id": "france-trappes-shooting",

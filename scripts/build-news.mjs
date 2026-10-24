@@ -84,7 +84,7 @@ for(const day of dates) {
    editions.push(edition);
    localized.set(day+'/'+section+'/'+language,edition);
   }
-  const shape=e=>e.articles.map(a=>[a.id,a.rank,a.category,a.threadId||'',JSON.stringify(a.related||[])].join(':')).join('|');
+  const shape=e=>e.articles.map(a=>[a.id,a.rank,a.category,a.threadId||'',a.impact,JSON.stringify(a.related||[])].join(':')).join('|');
   if(shape(editions[0])!==shape(editions[1]))fail(day+'/'+section+' localized order, thread or related links mismatch');
  }
 }
