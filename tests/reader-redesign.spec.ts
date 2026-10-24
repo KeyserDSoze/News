@@ -2,8 +2,8 @@ import { expect, test } from '@playwright/test';
 
 test.beforeEach(async({page})=>{
  await page.addInitScript(()=>{
-  localStorage.setItem('og-language','it');
-  localStorage.setItem('og-theme','dark');
+  if(!localStorage.getItem('og-language'))localStorage.setItem('og-language','it');
+  if(!localStorage.getItem('og-theme'))localStorage.setItem('og-theme','dark');
  });
 });
 
@@ -51,7 +51,7 @@ test('cover edition is persisted with full body in IndexedDB before an article o
  await expect(page.locator('.article-loading')).toHaveCount(0);
 });
 
-test('full article from stored IndexedDB is readable after offline reload',async({page,context})=>{
+test('cached full article remains readable when the already-open app loses connectivity',async({page,context})=>{
  await page.goto('/');
  await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
  await expect.poll(async()=>page.evaluate(async()=>{
@@ -59,22 +59,18 @@ test('full article from stored IndexedDB is readable after offline reload',async
   return new Promise<boolean>(resolve=>{
    r.onsuccess=()=>{
     const db=r.result,req=db.transaction('editions').objectStore('editions').get('it/world/2026-10-24');
-    req.onsuccess=()=>{resolve(Boolean(req.result));db.close();};
+    req.onsuccess=()=>{resolve(Boolean(req.result?.data?.articles?.[0]?.body?.length));db.close();};
     req.onerror=()=>{resolve(false);db.close();};
    };
    r.onerror=()=>resolve(false);
   });
  })).toBe(true);
  await context.setOffline(true);
- await page.goto('/article/world/2026-10-24/oleshky-humanitarian-ceasefire/').catch(()=>{});
- // Direct HTTP navigation can fail while offline. Navigate to the cached article
- // from the already-loaded app shell to verify offline IndexedDB access.
- await context.setOffline(false);
- await page.goto('/');
- await context.setOffline(true);
+ // Client-side routing works even though fresh HTTP requests cannot succeed.
  await page.locator('.edition[data-date="2026-10-24"] article.story').first()
   .getByRole('link',{name:'Leggi la notizia'}).click();
  await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
+ await expect(page.getByRole('heading',{name:'La notizia, nel dettaglio'})).toBeVisible();
  await context.setOffline(false);
 });
 
