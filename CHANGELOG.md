@@ -2,6 +2,26 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.8] — 2026-10-25
+
+**Italiano — L’audio ti segue**
+
+- Lettore vocale unificato per rassegne, articoli completi e solo testo, con una singola coda attiva.
+- La sintesi vocale prosegue durante la navigazione SPA fra rubriche, notizie, ricerca e cambio lingua; la voce conserva la lingua del testo avviato.
+- Nuova barra fissa inferiore che mostra la lettura attiva, il titolo e il progresso fra notizie, con pausa, riprendi e ferma.
+- Un secondo Ascolta interrompe la lettura precedente e sostituisce immediatamente contenuto e comandi del player; il player scompare su Stop o a lettura terminata.
+- Player responsive, coerente con i temi, e rispettoso delle safe area degli smartphone.
+- Nessun backend. La lettura non sopravvive a ricaricamenti o chiusure della pagina e può essere limitata dal browser o dal sistema operativo.
+
+**English — Audio that follows you**
+
+- Unified native speech queue for daily briefings, full articles and body-only listening.
+- Playback continues through in-app desk/article/search navigation and interface language changes, retaining the language of the originally selected text.
+- A persistent bottom dock shows the current item, briefing progress and pause/resume/stop.
+- Starting new speech replaces the previous session instantly; the dock disappears on stop or completion.
+- Responsive and theme-aware mini player with mobile safe-area spacing, without a backend.
+- Full page loads, closing the PWA and device-level speech restrictions may interrupt playback.
+
 ## [0.0.7] — 2026-10-25
 
 **Italiano — Scala d'impatto, non stelle**

@@ -1,6 +1,32 @@
 {
   "releases": [
     {
+      "version": "0.0.8",
+      "date": "2026-10-25",
+      "it": {
+        "title": "L’audio ti segue",
+        "highlights": [
+          "Un unico lettore vocale resta attivo quando passi dalla rassegna a una notizia, alla ricerca, a un’altra rubrica o cambi lingua.",
+          "Barra di ascolto fissa in basso con titolo del contenuto corrente, avanzamento per la rassegna, Pausa, Riprendi e Ferma.",
+          "Aprire una nuova notizia non interrompe la voce; iniziare un nuovo ascolto sostituisce subito quello precedente e ne aggiorna la barra.",
+          "La barra scompare alla fine della lettura o dopo lo Stop e rispetta il tema e le aree sicure dei telefoni.",
+          "Nessun backend né tracciamento: la voce resta quella del dispositivo e il testo corrente conserva la lingua con cui l’ascolto era stato avviato."
+        ],
+        "details": "La riproduzione continua durante la navigazione interna alla stessa scheda/PWA. La chiusura o il ricaricamento della pagina e le restrizioni audio del sistema operativo possono interrompere la sintesi vocale."
+      },
+      "en": {
+        "title": "Audio that follows you",
+        "highlights": [
+          "One shared speech player continues as readers move between briefings, articles, search, other desks or even switch interface language.",
+          "A persistent bottom now-playing dock identifies the current story and offers Pause, Resume and Stop, including progress across a briefing.",
+          "Opening a story does not interrupt speech; starting a different narration immediately cancels and replaces the previous session.",
+          "The dock disappears when playback completes or is stopped and adapts to the current theme and mobile safe areas.",
+          "No server or tracking: native device voices are used and the current narration retains the language originally selected."
+        ],
+        "details": "Speech continues during in-app navigation in the same tab/PWA. Reloading or closing the page, and mobile operating-system audio restrictions, may interrupt native speech synthesis."
+      }
+    },
+    {
       "version": "0.0.7",
       "date": "2026-10-25",
       "it": {

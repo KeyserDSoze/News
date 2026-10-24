@@ -20,3 +20,6 @@ Generating and hosting audio files would add cost and publication complexity; re
 
 ## Verification
 Playwright mocks platform speech events to verify that every title in each 10- or 5-item edition is spoken in rank order, audio language follows the selected locale, pause/resume/stop works, and switching desks cancels the previous queue. Navigation and edition headings are checked for the removed redundant counters and blurbs.
+
+## Subsequent update — ADR 0013, release 0.0.8
+The earlier behaviour of stopping speech on desk navigation was deliberately superseded. The daily briefing now uses the same global queue as article narration and remains audible during internal navigation, until a different narration is started or the user stops it. See ADR 0013 for the current architecture and constraints.
