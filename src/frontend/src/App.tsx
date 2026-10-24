@@ -13,10 +13,12 @@ function initialTheme(): 'light'|'dark' {
 }
 function Picture({article,locale}:{article:Article;locale:Locale}) {
  const [broken,setBroken]=useState(false);
+ const fallback=broken && Boolean(article.image.fallbackSrc);
+ const imageAttribution=fallback ? 'https://github.com/KeyserDSoze/News/blob/main/'+article.image.fallbackSrc : article.image.sourceUrl;
  return <figure className={'news-picture '+(broken?'broken':'')}>
-   {(!broken || article.image.fallbackSrc) && <img src={mediaUrl(broken ? article.image.fallbackSrc! : article.image.src)} alt={article.image.alt} loading={article.rank===1?'eager':'lazy'} onError={()=>setBroken(true)} />}
+   {(!broken || article.image.fallbackSrc) && <img src={mediaUrl(broken ? article.image.fallbackSrc! : article.image.src)} alt={fallback ? (locale==='it'?'Illustrazione editoriale originale':'Original editorial illustration') : article.image.alt} loading={article.rank===1?'eager':'lazy'} onError={()=>setBroken(true)} />}
    {broken && !article.image.fallbackSrc && <div className="image-fallback"><Layers3 size={48}/></div>}
-   <figcaption><span>{article.image.kind==='illustration' ? (locale==='it'?'Illustrazione':'Illustration') : (locale==='it'?'Foto':'Photo')}: {article.image.credit} · {article.image.license}</span><a href={article.image.sourceUrl} target="_blank" rel="noopener noreferrer" aria-label="Image source"><ExternalLink size={12}/></a></figcaption>
+   <figcaption><span>{fallback ? (locale==='it'?'Illustrazione: Oggettivizzatore · opera originale':'Illustration: Oggettivizzatore · original artwork') : (article.image.kind==='illustration' ? (locale==='it'?'Illustrazione':'Illustration') : (locale==='it'?'Foto':'Photo')) + ': ' + article.image.credit + ' · ' + article.image.license}</span><a href={imageAttribution} target="_blank" rel="noopener noreferrer" aria-label="Image source"><ExternalLink size={12}/></a></figcaption>
  </figure>;
 }
 function Story({article,locale,featured=false}:{article:Article;locale:Locale;featured?:boolean}) {
