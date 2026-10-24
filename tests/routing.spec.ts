@@ -1,0 +1,79 @@
+import { test, expect } from '@playwright/test';
+import { readFileSync, existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+
+const articleUrl='/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/';
+
+test.beforeEach(async({page})=>{
+  await page.addInitScript(()=>localStorage.setItem('og-language','it'));
+});
+
+test('shared article URL loads directly, refreshes and has a clean slash path',async({page})=>{
+  await page.goto(articleUrl);
+  await expect(page).toHaveURL(/\/News\/article\/world\/2026-10-24\/oleshky-humanitarian-ceasefire\/$/);
+  await expect(page.getByRole('heading',{level:1})).toBeVisible();
+  await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
+  await page.reload();
+  await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
+  await expect(page.locator('head link[rel="canonical"]')).toHaveAttribute('href','https://keyserdsoze.github.io'+articleUrl);
+});
+
+test('old # article links migrate to the new canonical slash route without losing article',async({page})=>{
+  await page.goto('/News/#/article/world/2026-10-24/oleshky-humanitarian-ceasefire');
+  await expect(page).toHaveURL(new RegExp(articleUrl.replaceAll('/','\\/')+'$'));
+  await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
+});
+
+test('original project Pages build has statically served article pages, social previews and a 404 fallback',()=>{
+  const articleHtml=resolve('dist','article','world','2026-10-24','oleshky-humanitarian-ceasefire','index.html');
+  const fallbackHtml=resolve('dist','404.html');
+  expect(existsSync(articleHtml)).toBe(true);
+  expect(existsSync(fallbackHtml)).toBe(true);
+  const html=readFileSync(articleHtml,'utf8');
+  expect(html).toContain('property="og:title"');
+  expect(html).toContain('property="og:description"');
+  expect(html).toContain('property="og:image"');
+  expect(html).toContain('rel="canonical"');
+  expect(html).toContain('src="/News/assets/');
+  expect(readFileSync(fallbackHtml,'utf8')).toContain('src="/News/assets/');
+});
+
+test('share control passes canonical title, summary and clean URL to native mobile share sheet',async({page})=>{
+  await page.addInitScript(()=>{
+    Object.defineProperty(navigator,'share',{configurable:true,value:async(data:unknown)=>{
+      (window as unknown as {sharedData:unknown}).sharedData=data;
+    }});
+  });
+  await page.goto(articleUrl);
+  await page.getByRole('button',{name:'Condividi'}).click();
+  const payload=await page.evaluate(()=> (window as unknown as {sharedData:{title:string;text:string;url:string}}).sharedData);
+  expect(payload.title).toMatch(/Oleshky/);
+  expect(payload.text.length).toBeGreaterThan(10);
+  expect(payload.url).toBe('http://127.0.0.1:4173'+articleUrl);
+  expect(payload.url).not.toContain('#');
+});
+
+test('when native share is unavailable, share and copy produce the article permalink',async({page})=>{
+  await page.addInitScript(()=>{
+    Object.defineProperty(navigator,'share',{configurable:true,value:undefined});
+    Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async(text:string)=>{
+      (window as unknown as {copiedUrl:string}).copiedUrl=text;
+    }}});
+  });
+  await page.goto(articleUrl);
+  await page.getByRole('button',{name:'Condividi'}).click();
+  await expect(page.getByRole('button',{name:'Link copiato'})).toBeVisible();
+  expect(await page.evaluate(()=> (window as unknown as {copiedUrl:string}).copiedUrl)).toBe('http://127.0.0.1:4173'+articleUrl);
+});
+
+test('search and specialist sections use normal URLs and preserve navigation on phone back',async({page})=>{
+  await page.goto('/News/world/');
+  await page.getByRole('navigation',{name:'Sezioni'}).getByRole('link',{name:/Italia/}).click();
+  await expect(page).toHaveURL(/\/News\/italy\/$/);
+  await expect(page.locator('[data-section-root="italy"] .edition article.story')).toHaveCount(5);
+  await page.goBack();
+  await expect(page).toHaveURL(/\/News\/world\/$/);
+  await page.getByRole('link',{name:'Apri la ricerca'}).click();
+  await expect(page).toHaveURL(/\/News\/search\/$/);
+  await expect(page.locator('.search-result').first()).toBeVisible({timeout:20000});
+});

@@ -28,9 +28,9 @@ test('date range and full text narrow results without a backend',async({page})=>
   await expect(page.locator('.search-result h2')).toContainText('Oleshky');
 });
 test('article tag opens an actual tag-filtered archive search',async({page})=>{
-  await page.goto('/News/#/article/world/2026-10-24/oleshky-humanitarian-ceasefire');
+  await page.goto('/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
   await page.locator('.article-hero .story-tags').getByRole('link',{name:/ucraina/}).click();
-  await expect(page).toHaveURL(/#\/search\/tag\/ucraina/);
+  await expect(page).toHaveURL(/\/News\/search\/tag\/ucraina/);
   await expect(page.locator('.tag-selected')).toContainText('ucraina');
   await expect(page.locator('.search-result').first()).toBeVisible({timeout:20000});
   for(const result of await page.locator('.search-result').all())
@@ -43,7 +43,7 @@ test('back from search article restores filters and scroll position',async({page
   await article.scrollIntoViewIfNeeded();
   const y=await page.evaluate(()=>scrollY);
   await article.click();
-  await expect(page).toHaveURL(/#\/article\//);
+  await expect(page).toHaveURL(/\/News\/article\//);
   await page.goBack();
   await expect(page.locator('.search-result')).toHaveCount(30);
   await expect.poll(async()=>Math.abs((await page.evaluate(()=>scrollY))-y)).toBeLessThan(50);
@@ -56,14 +56,14 @@ test('back from a previous World edition restores the exact list position',async
   await article.scrollIntoViewIfNeeded();
   const y=await page.evaluate(()=>scrollY);
   await article.click();
-  await expect(page).toHaveURL(/#\/article\/world\/2026-10-23/);
+  await expect(page).toHaveURL(/\/News\/article\/world\/2026-10-23/);
   await page.goBack();
   await expect(page.locator('.edition[data-date="2026-10-23"] article')).toHaveCount(10);
   await expect.poll(async()=>Math.abs((await page.evaluate(()=>scrollY))-y)).toBeLessThan(50);
 });
 test('broken image is replaced by an original licensed-in-project editorial graphic',async({page})=>{
   await page.route('**/assets/oleshky-humanitarian-ceasefire.svg',route=>route.abort());
-  await page.goto('/News/#/article/world/2026-10-24/oleshky-humanitarian-ceasefire');
+  await page.goto('/News/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
   await expect(page.locator('.article-main .news-picture img')).toHaveAttribute('src',/fallback\/world\.svg/,{timeout:20000});
   await expect(page.locator('.article-main .news-picture figcaption')).toContainText('Illustrazione editoriale');
 });
