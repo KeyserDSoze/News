@@ -3,6 +3,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'package.json'
       - 'src/frontend/**'
       - 'news/**'
       - 'scripts/**'
@@ -24,19 +25,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Install dependencies
-        working-directory: src/frontend
+      - name: Install monorepo dependencies
         run: npm install --no-audit --no-fund
       - name: Validate bilingual news and sources
         run: node scripts/build-news.mjs --check
       - name: Build
-        working-directory: src/frontend
         run: npm run build
       - name: Install Playwright Chromium
-        working-directory: src/frontend
         run: npx playwright install --with-deps chromium
       - name: End-to-end tests
-        working-directory: src/frontend
         run: npm run test:e2e
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

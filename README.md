@@ -13,7 +13,6 @@ The first fully sourced bilingual edition is **24 October 2026**, with 10 storie
 ## Start locally
 
 ```bash
-cd src/frontend
 npm install
 npm run dev
 ```
@@ -21,10 +20,7 @@ npm run dev
 Vite serves the app at `http://localhost:5173/News/` by default.
 
 ```bash
-# Run from the repository root
-node scripts/build-news.mjs --check
-
-# Or from src/frontend
+npm run test:content
 npm run build
 npx playwright install chromium
 npm run test:e2e

@@ -2,6 +2,7 @@ name: Validate pull requests
 on:
   pull_request:
     paths:
+      - 'package.json'
       - 'src/frontend/**'
       - 'news/**'
       - 'scripts/**'
@@ -17,17 +18,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Install
+      - name: Install monorepo dependencies
         run: npm install --no-audit --no-fund
-        working-directory: src/frontend
       - name: Check editorial data
         run: node scripts/build-news.mjs --check
       - name: Build
         run: npm run build
-        working-directory: src/frontend
       - name: Install Chromium
         run: npx playwright install --with-deps chromium
-        working-directory: src/frontend
       - name: Browser tests
         run: npm run test:e2e
-        working-directory: src/frontend
