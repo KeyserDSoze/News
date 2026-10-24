@@ -1,7 +1,9 @@
 import { useEffect, useRef, useState } from 'react';
-import { ArrowLeft, ArrowRight, BookOpen, Check, ChevronRight, Copy, Share2, ExternalLink, Globe2, Moon, Sun, Clock3, Link2, Search as SearchIcon, Tag } from 'lucide-react';
+import { ArrowLeft, ArrowRight, BookOpen, Check, ChevronRight, ExternalLink, Moon, Sun, Clock3, Link2, Search as SearchIcon, Tag, Target } from 'lucide-react';
 import SearchPage, { tagHref } from './SearchPage';
-import { useArchive, useStoryIndex, getJSON, editionUrl, mediaUrl } from './data';
+import { useArchive, useStoryIndex, getJSON, mediaUrl } from './data';
+import { loadEdition, warmEdition, storedEdition } from './editionCache';
+import type { NewsIndex } from './types';
 import { formatDate, messages, sectionName } from './i18n';
 import { sections, sectionSize, storyHref, storyKey } from './types';
 import type { Article, Edition, Locale, Section, StoryIndex, StoryPreview, StoryRef } from './types';
@@ -11,7 +13,8 @@ import AppMenu from './AppMenu';
 import ReleasePage from './ReleasePage';
 import { ArticleActions } from './ArticleActions';
 import { buildArticleExports } from './articleExport';
-import type { ArticlePart } from './articleExport';
+import ArticleToolbar from './ArticleToolbar';
+import LanguageMenu from './LanguageMenu';
 import { useArticleSpeech } from './readerSpeech';
 function initialLocale():Locale {
   try {const stored=localStorage.getItem('og-language');if(stored==='it'||stored==='en')return stored;}catch{}
@@ -58,7 +61,8 @@ function LatestLabel({item,index,locale}:{item:StoryRef;index:StoryIndex|null;lo
 function Impact({article,section,locale,compact=false}:{article:Article;section:Section;locale:Locale;compact?:boolean}) {
  const t=messages[locale];
  return <div className={'impact '+(compact?'impact-compact':'')} aria-label={t.impactLabel+': '+article.impact+'/5. '+article.impactReason} title={article.impactReason}>
-  <span className="impact-stars" aria-hidden="true">{Array.from({length:5},(_,i)=><span key={i} className={article.impact>=i+1?'filled':article.impact>=i+.5?'half':''}>★</span>)}</span>
+  <Target size={compact?15:18} className="impact-symbol" aria-hidden="true"/>
+  <span className="impact-pips" aria-hidden="true">{Array.from({length:5},(_,i)=><span key={i} className={article.impact>=i+1?'filled':article.impact>=i+.5?'half':''}/>)}</span>
   <span className="impact-score">{article.impact}/5</span>
   {!compact&&<span className="impact-explanation"><strong>{t.impactLabel} · {t.impactScope[section]}</strong>{article.impactReason}</span>}
  </div>;
@@ -122,12 +126,23 @@ function StoryRelationships({article,date,section,locale,index}:{article:Article
   </>;
 }
 function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'article'}>;locale:Locale;index:StoryIndex|null;returnTo:string}){
-  const [edition,setEdition]=useState<Edition|null>(null),[error,setError]=useState(false),[copied,setCopied]=useState(false);
+  const [edition,setEdition]=useState<Edition|null>(()=>warmEdition(route.date,route.section,locale));
+  const [error,setError]=useState(false),[linkCopied,setLinkCopied]=useState(false),[retry,setRetry]=useState(0);
+  const copyTimer=useRef<ReturnType<typeof setTimeout>|null>(null);
+  useEffect(()=>()=>{if(copyTimer.current)clearTimeout(copyTimer.current);},[]);
   useEffect(()=>{
-    let alive=true;setEdition(null);setError(false);setCopied(false);
-    getJSON<Edition>(editionUrl(route.date,route.section,locale)).then(e=>{if(alive)setEdition(e);}).catch(()=>{if(alive)setError(true);});
+    let alive=true;
+    setEdition(warmEdition(route.date,route.section,locale));setError(false);setLinkCopied(false);
+    // Read the copy already on disk immediately; the network revision is checked in parallel.
+    void storedEdition(route.date,route.section,locale).then(value=>{
+      if(alive&&value)setEdition(current=>current??value);
+    });
+    void getJSON<NewsIndex>('news/index.json')
+      .then(manifest=>loadEdition(route.date,route.section,locale,manifest.revision||String(manifest.version)))
+      .then(({edition})=>{if(alive)setEdition(edition);})
+      .catch(err=>{console.error('Article load failed',err);if(alive)setError(true);});
     return()=>{alive=false;};
-  },[route.date,route.section,locale]);
+  },[route.date,route.section,locale,retry]);
   const article=edition?.articles.find(x=>x.id===route.id),t=messages[locale];
   const [shareError,setShareError]=useState(false);
   const reader=useArticleSpeech(locale,route.section+'/'+route.date+'/'+route.id);
@@ -143,7 +158,9 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
         const didCopy=document.execCommand('copy');input.remove();
         if(!didCopy)throw new Error('Clipboard unavailable');
       }
-      setCopied(true);setShareError(false);
+      setLinkCopied(true);setShareError(false);
+      if(copyTimer.current)clearTimeout(copyTimer.current);
+      copyTimer.current=setTimeout(()=>setLinkCopied(false),2500);
     }catch{setShareError(true);}
   };
   const share=async()=>{
@@ -154,55 +171,52 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
     }
     await copyLink();
   };
-  if(!article)return <main className="container article-loading"><a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a><p role="status">{error?t.error:t.loading}</p></main>;
+  if(!article)return <main className="container article-loading">
+    <a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a>
+    <div className="article-loading-body">
+      {error?<><p role="alert">{t.error}</p>
+        <button type="button" className="share-button" onClick={()=>setRetry(n=>n+1)}>{t.retry}</button></>:
+        <><span className="loader"/><p role="status">{t.loading}</p>
+        <div className="article-skeleton"/><div className="article-skeleton short"/></>}
+    </div>
+  </main>;
   const paragraphs=article.body?.length?article.body:[article.facts.join(' '),article.perspectives.join(' ')];
   const questions=article.questions?.length?article.questions:article.unknowns.map(s=>({question:t.unknowns,answer:s}));
   const exports=buildArticleExports(article,locale,route.section,route.date,index);
-  const controls=(partId:ArticlePart)=>{
-    const part=exports.parts.find(p=>p.id===partId);
-    return part?<ArticleActions key={partId} id={partId} label={part.title} markdown={part.markdown}
-      speechText={part.speech} locale={locale} reader={reader}/>:null;
-  };
+  const fullTools=<ArticleToolbar locale={locale} returnTo={returnTo}
+    markdown={exports.markdown} speech={exports.speech} reader={reader}
+    onShare={share} onCopyLink={copyLink} linkCopied={linkCopied}/>;
+  const body=exports.parts.find(p=>p.id==='body');
   return <main className="article-view container" id="content">
-    <div className="article-toolbar"><a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a>
-      <div className="article-share-actions">
-        <button type="button" onClick={share} className="share-button"><Share2 size={16}/>{t.share}</button>
-        <button type="button" onClick={copyLink} className="share-button copy-share"><Copy size={16}/>{copied?t.copied:t.copyLink}</button>
-      </div>
-    </div>
-    <div className="article-full-actions">
-      <span className="detail-kicker">{locale==='it'?'INTERO ARTICOLO':'FULL ARTICLE'}</span>
-      <ArticleActions id="full" label={locale==='it'?'Articolo completo':'Full article'}
-        markdown={exports.markdown} speechText={exports.speech} locale={locale} reader={reader} full/>
-    </div>
+    <div className="article-mobile-controls">{fullTools}</div>
     {reader.error&&<p className="reader-error" role="alert">{reader.error}</p>}
     {shareError&&<p className="share-error" role="alert">{locale==='it'?'Non è stato possibile copiare il link.':'Could not copy the link.'}</p>}
     <div className="article-hero"><div className="detail-kicker"><span className="red-square"/>{sectionName(route.section,locale)} <span className="separator">/</span> {formatDate(route.date,locale)} <span className="separator">/</span> {String(article.rank).padStart(2,'0')}</div>
       <h1>{article.title}</h1><p className="article-dek">{article.dek}</p>
       <Impact article={article} section={route.section} locale={locale}/><Tags article={article} locale={locale}/><div className="article-source-meta"><Check size={15}/>{article.sources.length} {t.sources.toLowerCase()} <span>·</span> O / {t.name}</div>
     </div>
-    <section className="article-summary" aria-label={t.summary}><div className="article-summary-heading"><span className="summary-bullet">O.</span><h2>{t.summary}</h2>{controls("summary")}</div><p>{article.summary}</p></section>
+    <section className="article-summary" aria-label={t.summary}><div className="article-summary-heading"><span className="summary-bullet">O.</span><h2>{t.summary}</h2></div><p>{article.summary}</p></section>
     <div className="article-layout">
       <div className="article-main">
         <Picture article={article} locale={locale} section={route.section}/>
         <section className="article-body"><div className="detail-kicker"><BookOpen size={17}/>{t.fullStory}</div>
-          <h2>{t.fullStory}</h2>{controls("body")}{paragraphs.map((p,i)=><p key={i}>{p}</p>)}
-          <div className="context-panel"><h3>{t.facts}</h3>{controls("facts")}<ul>{article.facts.map((f,i)=><li key={i}>{f}</li>)}</ul></div>
-          <div className="context-panel perspectives-panel"><h3>{t.perspectives}</h3>{controls("perspectives")}<ul>{article.perspectives.map((p,i)=><li key={i}>{p}</li>)}</ul></div>
+          <h2>{t.fullStory}</h2>
+          {body&&<div className="body-listen"><ArticleActions id="body" label={body.title}
+            speechText={body.speech} locale={locale} reader={reader} onlySpeech/></div>}
+          {paragraphs.map((p,i)=><p key={i}>{p}</p>)}
+          <div className="context-panel"><h3>{t.facts}</h3><ul>{article.facts.map((f,i)=><li key={i}>{f}</li>)}</ul></div>
+          <div className="context-panel perspectives-panel"><h3>{t.perspectives}</h3><ul>{article.perspectives.map((p,i)=><li key={i}>{p}</li>)}</ul></div>
         </section>
-        {controls("dossier")}
-        {controls("related")}
         <StoryRelationships article={article} date={route.date} section={route.section} locale={locale} index={index}/>
-        <div className="sources-export-actions">{controls("sources")}</div>
         <Sources article={article} locale={locale}/>
         <section className="article-assessment" aria-label={t.assessment}>
           <div className="detail-kicker"><span className="red-square"/>{t.assessment}</div>
-          <h2>{t.assessment}</h2>{controls("assessment")}
+          <h2>{t.assessment}</h2>
           {questions.map((q,i)=><div className="objective-question" key={i}><span className="question-index">{String(i+1).padStart(2,'0')}</span><div><h3>{q.question}</h3><p>{q.answer}</p></div></div>)}
           {article.unknowns.map((s,i)=><p key={i} className="assessment-note"><strong>{t.unknowns}:</strong> {s}</p>)}
         </section>
       </div>
-      <aside className="article-aside"><div className="aside-card"><span>O<span className="accent-dot">.</span></span><strong>{t.definition}</strong><p>{t.tagline}</p><div className="aside-rule"/><p>{t.about}</p></div></aside>
+      <aside className="article-aside">{fullTools}</aside>
     </div>
     <a href={returnTo} className="article-return"><ArrowLeft size={17}/>{t.back}</a>
   </main>;
@@ -217,12 +231,13 @@ function SectionPage({section,locale,index}:{section:Section;locale:Locale;index
     return()=>observer.disconnect();
   },[hasMore,nextReady,loading,showNext,visible]);
   return <main id="content">
-    <section className="hero container"><div>
-      <div className="hero-kicker"><span className="live-mark"/>{t.sectionLabel}</div>
-      {section==='world'?<h1>{locale==='it'?<>Più fatti.<br/><em>Meno rumore.</em></>:<>More facts.<br/><em>Less noise.</em></>}</h1>:<h1 className="hero-section-heading">{sectionName(section,locale)}<em>.</em></h1>}
-      <p>{t.sectionDescriptions[section]} {t.about}</p>
-      
-    </div><div className="hero-emblem" aria-hidden="true"><div className="emblem-ring"><span>O</span><i/></div><div className="emblem-caption">{t.zero1}<br/>{t.zero2}</div></div></section>
+    <section className="hero hero-compact container">
+      <div className="hero-compact-copy">
+        <div className="hero-kicker"><span className="live-mark"/>{t.sectionLabel}</div>
+        <h1>{section==='world'?(locale==='it'?'Mondo, in contesto.':'World, in context.'):sectionName(section,locale)+'.'}</h1>
+        <p>{t.sectionDescriptions[section]}</p>
+      </div>
+    </section>
     <div className="section-band"><div className="container band-inner"><span><span className="band-mark">✳</span> {t.sectionNames[section].toUpperCase()} <span className="band-slash">/</span> {sectionSize[section]} {locale==='it'?'NOTIZIE PER EDIZIONE':'STORIES PER EDITION'}</span><span>{t.tagline.toUpperCase()}</span></div></div>
     <div className="container publication" id="editions">
       {loading&&<div className="load-state" role="status"><span className="loader"/>{t.loading}</div>}
@@ -328,7 +343,7 @@ export default function App(){
       <a className="wordmark o-brand" href={sectionHref("world")} aria-label="O — home"><span className="wordmark-symbol">O<span>.</span></span><span className="brand-definition"><small>{t.name}</small><small>{locale==='it'?'0 pubblicità · 0 sensazionalismi':'0 ads · 0 clickbait'}</small></span></a>
       <div className="header-actions">
         <a className={'header-search '+(route.kind==='search'?'active':'')} href={searchHref()} aria-label={t.searchOpen}><SearchIcon size={18}/><span>{t.search}</span></a>
-        <button type="button" className="lang-btn" onClick={()=>changeLocale(locale==='it'?'en':'it')} aria-label={locale==='it'?t.english:t.italian}><Globe2 size={17}/><span>{locale.toUpperCase()}</span><span className="lang-arrow">↔</span></button>
+        <LanguageMenu locale={locale} onChange={changeLocale}/>
         <button type="button" className="icon-btn" aria-label={theme==='dark'?t.light:t.dark} onClick={()=>setTheme(theme==='dark'?'light':'dark')}>{theme==='dark'?<Sun size={20}/>:<Moon size={20}/>}</button>
         <AppMenu locale={locale}/>
       </div>
