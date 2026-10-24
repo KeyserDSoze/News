@@ -1,0 +1,459 @@
+{
+  "date": "2026-10-23",
+  "language": "it",
+  "publishedAt": "2026-10-24T09:00:00.000Z",
+  "editorialNote": "Edizione del 23 ottobre: dieci fatti documentati con almeno due fonti, distinguendo eventi, dichiarazioni e incertezze. Le immagini sono illustrazioni editoriali, non fotografie dei fatti.",
+  "articles": [
+    {
+      "id": "ukraine-starlink-restrictions",
+      "rank": 1,
+      "category": "technology",
+      "title": "Starlink in Ucraina, restano limiti alla rete satellitare malgrado le rassicurazioni Usa",
+      "dek": "Le restrizioni di velocità segnalate da Kiev continuano a incidere su alcune operazioni con droni. La soluzione annunciata da Trump non è stata confermata sul campo.",
+      "summary": "Al 23 ottobre, cinque funzionari ucraini citati da Reuters riferiscono che alcune limitazioni alle connessioni Starlink rimangono attive per dispositivi su mezzi in movimento oltre 160 km/h. Donald Trump aveva affermato che il servizio era stato ripristinato e ha promesso un intervento qualora il problema persistesse. Le due versioni descrivono uno scarto fra le dichiarazioni politiche e le segnalazioni operative; non dimostrano da sole chi abbia disposto le restrizioni.",
+      "facts": [
+        "Fonti ucraine hanno segnalato l'esistenza di limiti di velocità introdotti il 13 ottobre per alcune connessioni satellitari.",
+        "Il servizio è utilizzato anche per comunicazioni e operazioni con droni nel contesto della guerra in Ucraina."
+      ],
+      "perspectives": [
+        "Trump sostiene che l'accesso sia stato ripristinato e si è detto pronto a parlare con Elon Musk.",
+        "I funzionari ucraini contattati dalle testate riportano persistenti disservizi nelle attività sul campo."
+      ],
+      "unknowns": [
+        "Mancano una verifica tecnica indipendente dell'estensione dei limiti e chiarimenti pubblici sull'autorità che li ha disposti."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Ukraine says Starlink speed curbs remain despite Trump assurance",
+          "url": "https://www.reuters.com/business/media-telecom/ukraine-says-starlink-speed-curbs-remain-despite-trump-assurance-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Ucraina, restrizioni a Starlink ancora in vigore nonostante le affermazioni di Trump",
+          "url": "https://it.euronews.com/2026/10/23/ucraina-restrizioni-a-starlink-ancora-in-vigore-nonostante-le-affermazioni-di-trump",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "Trump says Starlink access restored, but Ukraine reports more interruptions",
+          "url": "https://www.washingtonpost.com/world/2026/10/23/trump-says-starlink-access-restored-ukraine-reports-more-interruptions/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/ukraine-starlink-restrictions.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Starlink in Ucraina, restano limiti alla rete satellitare malgrado le rassicurazioni Usa",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/ukraine-starlink-restrictions.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "france-trappes-shooting",
+      "rank": 2,
+      "category": "world",
+      "title": "Francia, un morto nella sparatoria vicino a Parigi: indagine sul movente razzista",
+      "dek": "Colpi d'arma da fuoco in più luoghi tra Trappes e La Verrière. Un sospettato è stato arrestato.",
+      "summary": "Il 23 ottobre un uomo armato ha sparato da un veicolo in tre punti dell'area occidentale di Parigi, uccidendo una persona e ferendone altre. AP riporta almeno cinque feriti, tra cui una dodicenne; le prime comunicazioni riprese da Reuters ne indicavano quattro. Il sospettato è stato fermato rapidamente e la procura antiterrorismo è intervenuta nell'indagine. Le autorità hanno definito l'attacco presumibilmente razzista, ma saranno le indagini e il procedimento giudiziario ad accertarne le motivazioni.",
+      "facts": [
+        "È confermata una vittima mortale e il ferimento di più persone nell'area di Trappes e La Verrière.",
+        "La polizia ha arrestato un sospettato e la procura nazionale antiterrorismo ha assunto competenza sull'inchiesta."
+      ],
+      "perspectives": [
+        "Il presidente Macron e responsabili locali hanno interpretato i fatti come un attacco con matrice razzista.",
+        "La qualificazione giudiziaria finale del movente resta distinta dalle valutazioni pubbliche delle autorità."
+      ],
+      "unknowns": [
+        "Il conteggio dei feriti varia tra gli aggiornamenti delle agenzie; movente e responsabilità devono ancora essere accertati definitivamente."
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "A shooting in the Paris suburbs kills 1 and wounds five in a suspected racist attack",
+          "url": "https://apnews.com/article/edcd3ab6c5ec2112505b358ca0a3de5a",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "France investigates suspected hate-motivated shooting near Paris",
+          "url": "https://theprint.in/world/france-investigates-suspected-islamophobic-shooting-of-girl-near-paris-as-terrorism/3080027/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/france-trappes-shooting.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Francia, un morto nella sparatoria vicino a Parigi: indagine sul movente razzista",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/france-trappes-shooting.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "kenya-nairobi-building-collapse",
+      "rank": 3,
+      "category": "world",
+      "title": "Nairobi, crolla un edificio di dodici piani ancora in costruzione",
+      "dek": "I soccorritori cercano persone tra le macerie nel quartiere di Eastleigh. Il bilancio resta incerto.",
+      "summary": "Un edificio di circa dodici livelli, non ancora completato, è crollato venerdì 23 ottobre in una zona commerciale di Nairobi. Reuters conferma l'intervento dei soccorsi e la presenza di attività al piano terra; AP descrive difficoltà nell'accesso, timori per persone intrappolate e almeno una persona portata in ospedale. Le notizie iniziali non forniscono un bilancio definitivo né una causa accertata. Le eventuali carenze di controllo degli edifici saranno oggetto delle verifiche, non una causa già dimostrata per questo caso.",
+      "facts": [
+        "L'edificio in costruzione è crollato nel quartiere Eastleigh e le squadre di emergenza sono intervenute.",
+        "Le autorità locali hanno segnalato persone potenzialmente sotto le macerie e negozi al piano terra."
+      ],
+      "perspectives": [
+        "Le autorità keniane chiedono di mantenere liberi gli accessi per i soccorritori.",
+        "Il disastro riapre il dibattito sulla vigilanza edilizia, ma non individua ancora responsabilità specifiche."
+      ],
+      "unknowns": [
+        "Numero delle persone coinvolte, eventuali decessi e cause strutturali non risultavano determinati negli aggiornamenti iniziali."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Building collapses in Kenyan capital, rescuers on the scene",
+          "url": "https://www.reuters.com/world/africa/building-collapses-kenyan-capital-rescuers-scene-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Many feared trapped as a tall building collapses in Kenya",
+          "url": "https://apnews.com/article/a7dcc0932437d79d52ea29aa860ec11e",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/kenya-nairobi-building-collapse.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Nairobi, crolla un edificio di dodici piani ancora in costruzione",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/kenya-nairobi-building-collapse.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "global-oil-price-surge",
+      "rank": 4,
+      "category": "economy",
+      "title": "Petrolio in aumento: Brent a 116,72 dollari, WTI a 103,27",
+      "dek": "I timori di nuovi problemi alle forniture in Medio Oriente accompagnano la crescita delle quotazioni.",
+      "summary": "Alla chiusura del 23 ottobre il Brent ha raggiunto 116,72 dollari al barile e il greggio statunitense WTI 103,27. Reuters collega parte della tensione sui prezzi ai timori per le forniture, dopo attacchi Houthi in Arabia Saudita; ANSA riporta per il WTI un rialzo giornaliero di circa il 3,8%. Il movimento di mercato non dimostra da solo che tutti i carichi siano stati interrotti: i prezzi riflettono anche aspettative degli operatori e premi di rischio.",
+      "facts": [
+        "Reuters indica una chiusura del Brent a 116,72 dollari e del WTI a 103,27 dollari.",
+        "I prezzi sono aumentati mentre i mercati valutavano il rischio di interruzioni energetiche in Medio Oriente."
+      ],
+      "perspectives": [
+        "Investitori e analisti attribuiscono una parte dell'aumento all'incertezza geopolitica.",
+        "Un rialzo del greggio può aumentare le pressioni sui costi, ma l'effetto finale sui carburanti dipende anche da tasse e filiera."
+      ],
+      "unknowns": [
+        "La durata del rialzo e l'impatto sui consumatori non sono deducibili dalla sola seduta di mercato."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Stocks fall, but tech shares steady; oil hits highest in nearly six months",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Il petrolio chiude in rialzo a New York a 103,27 dollari",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/23/il-petrolio-chiude-in-rialzo-a-new-york-a-10327-dollari_d64de21c-8823-4c9f-88a1-a00b2219cb0c.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears",
+          "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/global-oil-price-surge.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Petrolio in aumento: Brent a 116,72 dollari, WTI a 103,27",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/global-oil-price-surge.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "myanmar-suu-kyi-family-call",
+      "rank": 5,
+      "category": "world",
+      "title": "Myanmar, Suu Kyi torna a parlare con il figlio dopo oltre cinque anni",
+      "dek": "Il colloquio del 22 ottobre, raccontato il giorno successivo, offre poche informazioni sulle condizioni della leader detenuta.",
+      "summary": "Kim Aris ha riferito il 23 ottobre nuovi dettagli sulla prima telefonata con sua madre, Aung San Suu Kyi, dopo il colpo di Stato militare del 2021. La conversazione era avvenuta il giorno precedente tramite l'ambasciata del Myanmar a Londra. Il figlio ha descritto una voce riconoscibile e un confronto sulla salute di entrambi, ma chiede contatti regolari e un accesso medico indipendente. Il colloquio non comporta un cambiamento della sua condizione detentiva.",
+      "facts": [
+        "Suu Kyi è detenuta dal colpo di Stato del febbraio 2021 e ha parlato con il figlio Kim Aris il 22 ottobre 2026.",
+        "Le dichiarazioni di Aris sono state raccolte da testate distinte il 22 e 23 ottobre."
+      ],
+      "perspectives": [
+        "Aris ha accolto il contatto come un passo umano importante e continua a chiederne la liberazione.",
+        "Le autorità militari hanno reso possibile una telefonata, senza annunciare una revisione della detenzione."
+      ],
+      "unknowns": [
+        "La salute complessiva, la libertà di comunicazione e l'accesso continuativo a visite indipendenti non sono pienamente verificabili."
+      ],
+      "sources": [
+        {
+          "outlet": "NPR",
+          "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+          "url": "https://www.kpbs.org/news/international/2026/10/23/after-nearly-6-years-ex-myanmar-leader-aung-san-suu-kyis-son-hears-her-voice",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Myanmar’s Aung San Suu Kyi speaks to son for first time in over five years",
+          "url": "https://www.reuters.com/world/asia-pacific/myanmars-aung-san-suu-kyi-speaks-son-first-time-over-five-years-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Myanmar's detained leader Suu Kyi traded health concerns with her son",
+          "url": "https://www.washingtonpost.com/world/2026/10/23/myanmar-suu-kyi-kim-aris-phone-call/6f79315a-cf14-11f1-ac04-9f58578a68b4_story.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/myanmar-suu-kyi-family-call.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Myanmar, Suu Kyi torna a parlare con il figlio dopo oltre cinque anni",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/myanmar-suu-kyi-family-call.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "us-ex-fbi-officials-charges",
+      "rank": 6,
+      "category": "politics",
+      "title": "Stati Uniti, incriminati due ex funzionari FBI: le accuse sono contestate",
+      "dek": "Il Dipartimento di Giustizia contesta presunte false dichiarazioni al Congresso su un'indagine del 2020.",
+      "summary": "Un procedimento federale reso pubblico il 23 ottobre coinvolge gli ex dirigenti FBI Nikki Floris e Bradley Benavides. L'accusa sostiene che abbiano fornito dichiarazioni false a deputati riguardo al loro coinvolgimento nelle verifiche sul computer di Hunter Biden. I legali contestano la ricostruzione e denunciano motivazioni politiche. Essere incriminati non equivale a essere riconosciuti colpevoli; la tempistica vicina alle elezioni di metà mandato alimenta il dibattito, ma non prova da sola l'intento dell'accusa.",
+      "facts": [
+        "Due ex funzionari sono stati formalmente accusati in un tribunale federale a Washington.",
+        "Il caso riguarda dichiarazioni rese al Congresso e attività investigative precedenti alle elezioni del 2020."
+      ],
+      "perspectives": [
+        "La procura ritiene che le dichiarazioni fossero consapevolmente false.",
+        "La difesa respinge le contestazioni e chiede una rapida verifica giudiziaria."
+      ],
+      "unknowns": [
+        "Le accuse devono essere valutate in tribunale; responsabilità penale e motivazioni politiche non sono state accertate."
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "2 ex-FBI officials charged with lying about involvement in investigation",
+          "url": "https://apnews.com/article/e41b7407f97c6dfc7c017875054c0c67",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Ex-FBI officials charged with lying to Congress about Hunter Biden probes",
+          "url": "https://www.investing.com/news/politics-news/exfbi-officials-charged-with-lying-to-congress-about-hunter-biden-probes-4970017",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/us-ex-fbi-officials-charges.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Stati Uniti, incriminati due ex funzionari FBI: le accuse sono contestate",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/us-ex-fbi-officials-charges.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "iaea-nuclear-2060-projections",
+      "rank": 7,
+      "category": "climate",
+      "title": "Energia nucleare, l'AIEA descrive scenari di forte crescita entro il 2060",
+      "dek": "Il direttore Rafael Grossi presenta all'ONU proiezioni già diffuse a settembre: non sono previsioni certe.",
+      "summary": "Il 23 ottobre il direttore dell'Agenzia internazionale per l'energia atomica ha illustrato all'Assemblea generale delle Nazioni Unite le prospettive per l'energia nucleare. Il rapporto AIEA diffuso il 14 settembre stima 1.284 GW di capacità installata nel 2060 nello scenario alto, contro 377,1 GW a fine 2025; nello scenario basso indica 696 GW. La differenza evidenzia l'incertezza su nuovi investimenti, permessi, costi e tempi di costruzione. La presentazione non annuncia nuove centrali già finanziate.",
+      "facts": [
+        "La capacità nucleare mondiale a fine 2025 era di circa 377 GW secondo l'AIEA.",
+        "Il rapporto considera sia uno scenario di crescita alta sia uno più prudente per il 2060."
+      ],
+      "perspectives": [
+        "Grossi collega l'interesse al fabbisogno elettrico, anche dei centri dati, e alla sicurezza energetica.",
+        "La valutazione degli impatti dipende da costi, tempi, sicurezza e gestione dei rifiuti; il potenziale tecnico non rende inevitabili gli investimenti."
+      ],
+      "unknowns": [
+        "Non è determinabile quale scenario si realizzerà: le proiezioni non sono impegni vincolanti degli Stati."
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Nuclear power could more than triple by 2060, UN agency says",
+          "url": "https://apnews.com/article/d7de64508476ceedc721a89cb42c9cfb",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "International Atomic Energy Agency",
+          "title": "IAEA projections for nuclear capacity through 2060",
+          "url": "https://www.iaea.org/newscenter/pressreleases/iaea-projects-global-nuclear-power-capacity-could-triple-by-2060-continuing-rising-trend",
+          "publishedAt": "2026-09-14",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/iaea-nuclear-2060-projections.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Energia nucleare, l'AIEA descrive scenari di forte crescita entro il 2060",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/iaea-nuclear-2060-projections.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "ecb-inflation-expectations",
+      "rank": 8,
+      "category": "economy",
+      "title": "Eurozona, attese d'inflazione al 3,1% secondo l'indagine della BCE",
+      "dek": "Il valore è la mediana delle aspettative dei consumatori per i prossimi dodici mesi, non l'inflazione misurata.",
+      "summary": "La BCE ha pubblicato il 23 ottobre i risultati dell'indagine di settembre sulle aspettative delle famiglie. La mediana per l'inflazione futura a dodici mesi passa dal 3,0% al 3,1%; quella dell'inflazione percepita nei dodici mesi precedenti dal 3,5% al 3,6%. Sono giudizi degli intervistati, non un dato consuntivo né una previsione ufficiale della BCE. Le aspettative a tre e cinque anni risultano invariate.",
+      "facts": [
+        "La rilevazione è stata diffusa il 23 ottobre e riguarda le risposte raccolte a settembre.",
+        "Le aspettative mediane a dodici mesi sono salite di 0,1 punti percentuali rispetto ad agosto."
+      ],
+      "perspectives": [
+        "La BCE usa queste indagini per monitorare la percezione dei prezzi e la fiducia.",
+        "Le famiglie riportano incertezza maggiore; questo non equivale a un rialzo già avvenuto dei prezzi nella stessa misura."
+      ],
+      "unknowns": [
+        "L'inflazione effettiva dei prossimi dodici mesi potrà divergere dalle aspettative espresse nel sondaggio."
+      ],
+      "sources": [
+        {
+          "outlet": "European Central Bank",
+          "title": "ECB Consumer Expectations Survey results — September 2026",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261023~a3d201c97c.cs.html",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Bce, salgono le attese d'inflazione dei consumatori, 3,1% nei prossimi 12 mesi",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/23/bce-salgono-le-attese-dinflazione-dei-consumatori-31-nei-prossimi-12-mesi_370c9c4f-9de1-4770-8633-4ffe85810a1e.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/ecb-inflation-expectations.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Eurozona, attese d'inflazione al 3,1% secondo l'indagine della BCE",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/ecb-inflation-expectations.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "eni-fuel-price-cap-extension",
+      "rank": 9,
+      "category": "economy",
+      "title": "Carburanti, Eni conferma il tetto ai prezzi fino a fine anno",
+      "dek": "Confermata la politica di prezzo massimo, ma l'azienda prevede verifiche periodiche sulle condizioni di mercato.",
+      "summary": "Eni ha dichiarato il 23 ottobre di voler mantenere fino a dicembre il meccanismo di tetto ai prezzi applicato presso la propria rete, attualmente pari a 2,25 euro per litro di diesel e 1,99 euro per la benzina. La società si riserva di monitorare prezzi e disponibilità delle forniture; non è dunque una garanzia immutabile per ogni punto vendita o per l'intero mercato italiano. Le associazioni dei consumatori riconoscono l'iniziativa ma chiedono interventi più ampi.",
+      "facts": [
+        "Un portavoce di Eni ha confermato ad ANSA la continuazione del meccanismo fino a fine anno.",
+        "I livelli comunicati sono 2,25 euro/litro per il gasolio e 1,99 euro/litro per la benzina nella rete interessata."
+      ],
+      "perspectives": [
+        "Eni presenta il tetto come risposta temporanea alle difficoltà di approvvigionamento e ai prezzi elevati.",
+        "Le associazioni dei consumatori segnalano che la misura da sola potrebbe incidere poco sulle spese delle famiglie."
+      ],
+      "unknowns": [
+        "Evoluzione dei massimali e risparmi effettivi dipendono dalle future decisioni aziendali e dalle condizioni del mercato."
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Eni: il tetto al prezzo per benzina e diesel proseguirà fino a fine anno",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-il-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_7f2ea08b-ce91-4f3c-90b8-ca8bf6e4c8aa.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Teleborsa",
+          "title": "Eni conferma il price cap sui carburanti fino a fine anno",
+          "url": "https://teleborsa.ansa.it/notiziario/economia/eni-conferma-il-price-cap-sui-carburanti-fino-a-fine-anno-gasolio-a-225-euro-e-benzina-a-199/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/eni-fuel-price-cap-extension.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Carburanti, Eni conferma il tetto ai prezzi fino a fine anno",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/eni-fuel-price-cap-extension.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "eurallumina-workers-portovesme",
+      "rank": 10,
+      "category": "society",
+      "title": "Portovesme, sospesa la protesta dei lavoratori Eurallumina dopo il tavolo ministeriale",
+      "dek": "Quattro operai sono scesi da un impianto alto sessanta metri. Il futuro produttivo dello stabilimento resta aperto.",
+      "summary": "Quattro lavoratori dello stabilimento Eurallumina nel Sulcis hanno interrotto il 23 ottobre la protesta condotta dalla sommità di un forno industriale, dopo un incontro al ministero delle Imprese e del Made in Italy. Sindacati e Regione Sardegna riferiscono un impegno del governo a sostenere la fase di emergenza, ma senza uno stanziamento definitivo annunciato. È previsto un nuovo tavolo il 29 ottobre. La sospensione della protesta non risolve di per sé i problemi industriali e occupazionali.",
+      "facts": [
+        "I quattro manifestanti sono scesi dall'impianto nel pomeriggio del 23 ottobre.",
+        "Una nuova riunione sul futuro del sito industriale è programmata per il 29 ottobre."
+      ],
+      "perspectives": [
+        "La rappresentanza sindacale valuta il vertice insufficiente ma registra un primo impegno formale.",
+        "La Regione chiede risorse concrete per sicurezza, continuità del sito e tutela dei lavoratori."
+      ],
+      "unknowns": [
+        "Non risultano definiti né il finanziamento necessario né un piano condiviso per il rilancio produttivo."
+      ],
+      "sources": [
+        {
+          "outlet": "RaiNews TGR Sardegna",
+          "title": "Eurallumina, sospesa la protesta a sessanta metri d'altezza",
+          "url": "https://www.rainews.it/amp/tgr/sardegna/articoli/2026/10/eurallumina-secondo-giorno-di-protesta-a-sessanta-metri-daltezza-7ee2a1b5-d391-4660-ab22-bcc149004190.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Eurallumina, stop a protesta a 60 metri dopo vertice al Mimit",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/23/eurallumina-stop-a-protesta-a-60-metri-di-altezza-dopo-vertice-al-mimit_58d1e1c4-4f95-47f9-997d-84be60bd44c5.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-23/assets/eurallumina-workers-portovesme.svg",
+        "alt": "Illustrazione simbolica, non fotografia, per la notizia: Portovesme, sospesa la protesta dei lavoratori Eurallumina dopo il tavolo ministeriale",
+        "credit": "Oggettivizzatore — redazione grafica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/eurallumina-workers-portovesme.svg",
+        "license": "Original artwork (editorial illustration)",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
