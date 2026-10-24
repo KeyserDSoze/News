@@ -87,7 +87,7 @@ function StoryRelationships({article,date,section,locale,index}:{article:Article
   const linked=new Set((article.related||[]).map(storyKey));
   const connected=index.stories.filter(s=>{
     const ref=storyKey(s);
-    return ref!==key && s.threadId!==article.threadId && (linked.has(ref)||s.related?.some(other=>storyKey(other)===key));
+    return ref!==key && !(article.threadId && s.threadId===article.threadId) && (linked.has(ref)||s.related?.some(other=>storyKey(other)===key));
   });
   const t=messages[locale];
   return <>
