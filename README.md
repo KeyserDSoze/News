@@ -60,3 +60,8 @@ Read the [editorial policy](docs/EDITORIAL_POLICY.md), [architecture](docs/ARCHI
 
 ## Impact rating · 1–5 stars
 Each article carries a justified **desk-relative** 1–5 star assessment: global relevance for World, impact on Italy for Italy, technology ecosystem significance for Technology, and quality/significance of research evidence for Science. The reasoning is public and localized; it is editorial judgement, not a mathematical fact. A score of 5 is reserved for exceptional impact in its particular scope. See `docs/EDITORIAL_POLICY.md`.
+
+## The reader's search and archive memory
+The search in O's masthead is completely static. It fetches date/section JSON documents from GitHub Pages and caches them in **browser IndexedDB** for later searches. With no dates selected, it searches the latest year; readers can set exact dates (including older ones), enter article text, click one of **three tags per story**, or restrict results to a section. There are no account logins or tracking services. Browser and phone-back navigation restore the exact scroll location in a briefing or search results, even after opening an article. Invalid image URLs display original desk-specific editorial art with truthful credits.
+
+Scores use **half-star steps (0.5–5)** with a conservative editorial rubric: 5 means genuinely world-changing, historically exceptional impact. Every score has a localized rationale. Existing World and specialist stories were reassessed rather than automatically assigned 4 or 5 stars.

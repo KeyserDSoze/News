@@ -34,3 +34,6 @@ npm run test:e2e
 Brand: **O** is the name. **Oggettivizzatore** (Italian) and **Objectivizer** (English) describe the name. Zero ads, zero sensational headlines.
 
 **Sources are links, not reproduced reporting**. Summaries must be newly authored and reflect the weight of available evidence.
+
+## Impact, three tags and contextual writing
+Use an `impact` number from **0.5 to 5.0 in steps of 0.5**, with identical numeric value in both locales and an evidence-based translated `impactReason`. Ratings above 3.5 should be very rare; **5 stars is for historic, truly world-changing impact only**, not routine national or regional news. Read the rubric in `docs/EDITORIAL_POLICY.md`. Every article needs **exactly three localized keyword tags** (single terms or hyphenated words, never clickbait); verify that they lead to relevant coverage. Provide an informative four-or-more-paragraph `body`, distinguishing sourced observations, contextual explanation, alternative interpretations, and uncertainties; do not inflate length by repeating claims. Add source citations and update the Git history transparently when facts or impact change.

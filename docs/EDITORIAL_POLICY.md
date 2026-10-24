@@ -1,7 +1,7 @@
 # Editorial policy / Politica editoriale
 
 ## Mission
-**Oggettivizzatore** is a neologism retained in both Italian and English. We aim at **verifiability, provenance and fair context**, not the impossible promise of total objectivity. The absence of interpretation is not a requirement to report verified harm or documented human-rights violations.
+**O** is the publication. **Oggettivizzatore** (Italian) and **Objectivizer** (English) explain the name; O also stands for zero advertisements and zero sensational headlines. We aim at **verifiability, provenance and fair context**, not the impossible promise of total objectivity. The absence of interpretation is not a requirement to report verified harm or documented human-rights violations.
 
 ## Selection process
 Ten stories per edition chosen for public significance, impact, timeliness, geographic and thematic breadth—not just popularity or traffic. Avoid duplication. Make the edition date and publication time explicit. Rank is editorial judgment, never an objectively measured truth.
@@ -44,11 +44,17 @@ The counts are enforced separately per issue and language. Do not pad an edition
 A front-page story begins with a brief summary. Its dedicated article then presents a complete contextual explanation, sources, and **objective questions and observations last**. For ongoing issues, assign a stable `threadId` only when there is a meaningful shared story. Keep the dated recap accurate as of that day, not retrospectively prophetic. The compiled index creates backlinks automatically so old stories surface later developments. Use `related` for adjacent but different stories, and never imply causation merely because two articles share a topic. Every timeline episode must provide a direct link and clear date. Historical accuracy and corrections are especially important.
 
 
-## Impact rating (1–5 stars) / Scala d'impatto
-The impact rating is **editorial judgement**, never an objectively measured quantity or a claim that severity can be known in advance. Each language version must include the same integer `impact` and a localized `impactReason`. Evaluate **scale, reach, affected population, persistence and systemic consequences** against the scope of the desk. Do not judge moral worth, popularity, sensationalism or source count.
-- **1 star**: limited local or specialist significance within that desk's scope.
-- **2 stars**: noticeable effects on a community, organisation or niche.
-- **3 stars**: substantial effects on a region, institution or part of the sector.
-- **4 stars**: major nationwide, cross-border or field-wide implications.
-- **5 stars**: exceptional nationwide or global emergency / transformative systemic consequence within that desk's defined scope, with evidence supporting this assessment.
-World measures **global** relevance; Italy measures the consequences **for Italy**; Technology measures breadth **across technology ecosystems**; Science measures significance **for knowledge, evidence and plausible future applications** (separating research-stage promise from proven real-world benefit). A local disaster can have 5-star **Italian** impact but not necessarily 5-star global impact. Every score is accompanied by a readable rationale; revising an impact score requires an editorial correction and an explanatory Git commit.
+## Impact rating (0.5–5 stars) / Scala d'impatto
+The impact score is **a clearly justified editorial judgement**, never a scientific measurement, a ranking of victims, or a prediction of future outcomes. Scores use 0.5-star increments and the same number in both translations; `impactReason` explains the score in each language. Compare stories **only within the desk's scope**: worldwide for World, national for Italy, technology ecosystem-wide for Technology, and robust contribution to scientific knowledge for Science.
+
+- **0.5–1.0:** limited geographic or specialist impact; an early announcement or preliminary observation.
+- **1.5–2.0:** concrete regional, community or specialised-sector impact, with bounded consequences.
+- **2.5–3.0:** notable national, cross-border or scientific/technological implications, supported by evidence.
+- **3.5:** rare, very high and sustained sector-wide or international significance.
+- **4.0–4.5:** extraordinary large-scale, historically significant consequences, well supported by verified facts.
+- **5.0:** **reserved for genuinely world-changing, era-defining events**—for instance a catastrophe comparable in historical reach to the 11 September attacks, the use of a nuclear weapon, or a validated discovery that fundamentally changes global energy production. Mere speculation about such a discovery cannot receive 5 stars.
+
+Five-star headlines should be virtually absent from ordinary daily issues. A major storm, a serious crime, a Phase III trial or a company security announcement is **not automatically** four or five stars. Evaluate breadth, duration, affected population, evidence quality, and systemic consequences; never confuse emotional language with impact. A score must be explainable in plain language. A change of rating must be auditable in Git.
+
+## Discoverability and contextual coverage
+Every article carries exactly three localized, concise `tags` identifying actual subjects—not promotional keywords. Tags link to the same on-device search as the header. The search supports full article text, date intervals, tag equality and desk filters. Daily long-form copy should add sourced explanation, definitions, historical background and important limitations rather than repeating the front-page lead verbatim. Editorial SVG illustrations used as fallbacks are **not documentary photography** and must be labelled as original artwork.
