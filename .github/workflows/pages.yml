@@ -57,3 +57,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify onews.app live
+        env:
+          SITE_ORIGIN: https://onews.app
+        run: node scripts/verify-live-site.mjs

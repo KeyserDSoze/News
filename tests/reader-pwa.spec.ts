@@ -125,7 +125,7 @@ test('a real Chromium browser can install and activate the scoped service worker
  const context=await browser.newContext({serviceWorkers:'allow'});
  try{
   const page=await context.newPage();
-  await page.goto('http://127.0.0.2:4173/');
+  await page.goto('http://127.0.0.1:4173/');
   const scriptUrl=await page.evaluate(async()=>{
    const registration=await navigator.serviceWorker.ready;
    return registration.active?.scriptURL||'';
