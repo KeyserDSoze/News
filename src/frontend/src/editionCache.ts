@@ -49,6 +49,9 @@ async function stored(key:string):Promise<StoredEdition|null>{
     }catch{resolve(null);}
   });
 }
+export async function storedEdition(date:string,section:Section,locale:Locale):Promise<Edition|null>{
+  return (await stored(editionCacheKey(date,section,locale)))?.data??null;
+}
 async function persist(row:StoredEdition):Promise<void>{
   memory.set(row.key,row); // Immediately available to article clicks.
   const database=await openDB();
