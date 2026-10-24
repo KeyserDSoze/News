@@ -1,48 +1,11 @@
-import type { Article, Edition, Locale, NewsIndex, Section } from './types';
-import { getJSON, editionUrl } from './data';
+import type { Article, Locale, NewsIndex, Section } from './types';
+import { getJSON } from './data';
+import { loadEdition } from './editionCache';
 
 export type DeskFilter = Section | 'all';
 export interface SearchFilters { text: string; tag: string; from: string; to: string; section: DeskFilter; }
 export interface SearchHit { article: Article; date: string; section: Section; }
 export interface SearchProgress { done: number; total: number; cached: number; failed: number; }
-const DB_NAME='o-local-edition-index', STORE='editions';
-type CachedEdition={ key:string; revision:string; data:Edition };
-const inMemory=new Map<string,CachedEdition>();
-let dbPromise:Promise<IDBDatabase|null>|undefined;
-function db():Promise<IDBDatabase|null>{
- if(!('indexedDB' in window))return Promise.resolve(null);
- if(!dbPromise)dbPromise=new Promise(resolve=>{
-  try{
-   const req=indexedDB.open(DB_NAME,1);
-   req.onupgradeneeded=()=>{if(!req.result.objectStoreNames.contains(STORE))req.result.createObjectStore(STORE,{keyPath:'key'});};
-   req.onsuccess=()=>resolve(req.result);
-   req.onerror=()=>resolve(null);
-   req.onblocked=()=>resolve(null);
-  }catch{resolve(null);}
- });
- return dbPromise;
-}
-async function readCached(key:string,revision:string):Promise<Edition|null>{
- const mem=inMemory.get(key);
- if(mem?.revision===revision)return mem.data;
- const database=await db();if(!database)return null;
- return new Promise(resolve=>{
-  try{
-   const tx=database.transaction(STORE,'readonly'),req=tx.objectStore(STORE).get(key);
-   req.onsuccess=()=>{const row=req.result as CachedEdition|undefined;if(row?.revision===revision){inMemory.set(key,row);resolve(row.data);}else resolve(null);};
-   req.onerror=()=>resolve(null);
-  }catch{resolve(null);}
- });
-}
-async function writeCached(key:string,revision:string,data:Edition){
- const record={key,revision,data};
- inMemory.set(key,record);
- const database=await db();if(!database)return;
- await new Promise<void>(resolve=>{
-  try{const tx=database.transaction(STORE,'readwrite');tx.objectStore(STORE).put(record);tx.oncomplete=()=>resolve();tx.onerror=()=>resolve();tx.onabort=()=>resolve();}
-  catch{resolve();}
- });
-}
 function normalize(s:string){return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase().trim();}
 function matches(a:Article,filters:SearchFilters):boolean{
  if(filters.tag && !a.tags.some(t=>normalize(t)===normalize(filters.tag)))return false;
@@ -69,9 +32,8 @@ export async function searchArchive(locale:Locale,filters:SearchFilters,onProgre
   while(offset<jobs.length){
    const job=jobs[offset++],key=locale+'/'+job.section+'/'+job.date;
    try{
-    let edition=await readCached(key,revision);
-    if(edition)progress.cached++;
-    else{edition=await getJSON<Edition>(editionUrl(job.date,job.section,locale));await writeCached(key,revision,edition);}
+    const {edition,cached}=await loadEdition(job.date,job.section,locale,revision);
+    if(cached)progress.cached++;
     for(const article of edition.articles)if(matches(article,filters))hits.push({article,date:job.date,section:job.section});
    }catch(err){progress.failed++;console.error('Search edition error',key,err);}
    progress.done++;onProgress({...progress});
