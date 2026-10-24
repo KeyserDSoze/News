@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
+import type { FormEvent } from 'react';
 import { ArrowRight, CalendarDays, Check, Database, Search as SearchIcon, SlidersHorizontal, Tag, X } from 'lucide-react';
 import { formatDate, messages, sectionName } from './i18n';
 import { sections, storyHref } from './types';
@@ -27,7 +28,7 @@ export default function SearchPage({locale,presetTag}:{locale:Locale;presetTag:s
  },[locale,applied]);
  const results=useMemo(()=>hits.slice(0,limit),[hits,limit]);
  const change=<K extends keyof SearchFilters>(key:K,value:SearchFilters[K])=>setDraft(old=>({...old,[key]:value}));
- function submit(event:React.FormEvent<HTMLFormElement>){event.preventDefault();setApplied({...draft});setLimit(30);}
+ function submit(event:FormEvent<HTMLFormElement>){event.preventDefault();setApplied({...draft});setLimit(30);}
  function clear(){setDraft({...empty});setApplied({...empty});setLimit(30);}
  return <main className="container search-page" id="content">
   <div className="search-head"><div className="detail-kicker"><SearchIcon size={16}/>{t.searchOffline}</div><h1>{t.searchTitle}<span>.</span></h1><p>{t.searchHint}</p></div>
@@ -50,7 +51,7 @@ export default function SearchPage({locale,presetTag}:{locale:Locale;presetTag:s
     </div>
   </form>
   <div className="search-status" role="status" aria-live="polite">
-    <div>{loading?<span className="search-status-progress"><span className="loader"/>{t.searchLoading}:<><strong>{hits.length}</strong> {t.searchResults}</>}</div>
+    <div>{loading?<span className="search-status-progress"><span className="loader"/>{t.searchLoading}</span>:<><strong>{hits.length}</strong> {t.searchResults}</>}</div>
     <span><Database size={14}/>{t.searchCache}: {progress.cached} / {progress.total} <span className="search-downloaded">· {progress.done}/{progress.total}</span></span>
   </div>
   {progress.failed>0&&<p className="search-warning" role="alert">{t.searchError}</p>}
