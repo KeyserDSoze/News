@@ -48,7 +48,7 @@ A front-page story begins with a brief summary. Its dedicated article then prese
 
 **IT — Regola editoriale attuale**
 
-L'impatto è un **giudizio editoriale motivato**, non una misura scientifica, una graduatoria delle vittime o una previsione. Il valore numerico `impact` va da **0,5 a 5,0**, con **incrementi di 0,5** (dieci valori possibili); il frontend lo mostra con **cinque tacche**, riempibili anche a metà. **Non usiamo stelle**: le tacche indicano il grado dell'impatto, non la popolarità o la qualità dell'articolo.
+L'impatto è un **giudizio editoriale motivato**, non una misura scientifica, una graduatoria delle vittime o una previsione. Il valore numerico `impact` va da **0,5 a 5,0**, con **incrementi di 0,5** (dieci valori possibili); il frontend lo mostra con **cinque tacche**, riempibili anche a metà. Le tacche indicano il grado dell'impatto, non la popolarità o la qualità dell'articolo.
 
 Confronta i valori **solo nell'ambito della rubrica**: rilevanza globale per Mondo, nazionale per Italia, conseguenze per l'ecosistema tecnologico in Tecnologia e contributo affidabile alla conoscenza in Scienza. Il valore deve essere identico nei JSON italiano e inglese; `impactReason` spiega la motivazione, tradotta in ciascuna lingua.
 
@@ -63,7 +63,7 @@ Il valore **5,0 deve essere eccezionale** nelle rassegne ordinarie. Una tempesta
 
 **EN — Current editorial rule**
 
-The impact score is **a reasoned editorial judgement**, not a scientific measurement, a ranking of victims or a prediction. The numeric `impact` ranges from **0.5 to 5.0** in **0.5 increments** (ten possible values). The frontend renders it as **five rising segments**, each of which can be half-filled. **This is not a star rating**: the segments express the scale of consequences, not story popularity or article quality.
+The impact score is **a reasoned editorial judgement**, not a scientific measurement, a ranking of victims or a prediction. The numeric `impact` ranges from **0.5 to 5.0** in **0.5 increments** (ten possible values). The frontend renders it as **five rising segments**, each of which can be half-filled. The segments express the scale of consequences, not story popularity or article quality.
 
 Compare values **only within the desk's scope**: global for World, national for Italy, ecosystem-wide for Technology, and robust contribution to scientific knowledge for Science. Italian and English JSON must contain the same numeric score, with a localized `impactReason` explaining it.
 

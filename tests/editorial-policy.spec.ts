@@ -16,8 +16,8 @@ test('current editorial standards define the same half-level segmented impact sc
  expect(readme).toContain('five graduated segments');
  expect(architecture).toContain('0.5–5.0');
  expect(contributing).toContain('maximum level 5.0');
- // Normative, current guidance must not still define impact as stars.
+ // Current normative guidelines should use only levels, segments and half levels.
  for (const file of [policy,readme,architecture,contributing]) {
-   expect(file).not.toMatch(/(?:\d[\d.–-]*\s*stars?|\d[\d.,–-]*\s*stell[ae]|half-star|five-star|five stars|star[- ]based rating)/i);
+   expect(file).not.toMatch(/\b(?:stars?|half-star|five-star|stell[ae])\b/i);
  }
 });
