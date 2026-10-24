@@ -55,7 +55,7 @@ export function normalizeLegacyRoute() {
   const hashRoute=window.location.hash.startsWith('#/')
     ? window.location.hash.slice(2) : null;
   if(legacyPath!==null || hashRoute!==null){
-    const suffix=(hashRoute??legacyPath??'').replace(/^\\/+|\\/+$/g,'');
+    const suffix=(hashRoute??legacyPath??'').split('/').filter(Boolean).join('/');
     const canonical=APP_BASE+suffix+(suffix?'/':'');
     if(isAppRoute(new URL(canonical,window.location.origin).pathname)){
       history.replaceState(history.state,'',canonical+window.location.search);

@@ -19,8 +19,8 @@ const absolute=(pathPart)=>origin+base+pathPart;
 function legacyRedirect(){
  const js = `(function(){
   var u = new URL(location.href);
-  var route = u.hash.indexOf('#/') === 0 ? u.hash.slice(2) : u.pathname.replace(/^\\/News\\/?/, '');
-  u.pathname = '/' + route.replace(/^\\/+/, '');
+  var route = u.hash.indexOf('#/') === 0 ? u.hash.slice(2) : (u.pathname.startsWith('/News/') ? u.pathname.slice(6) : '');
+  u.pathname = '/' + route.split('/').filter(Boolean).join('/');
   if (!u.pathname.endsWith('/')) u.pathname += '/';
   u.hash = '';
   location.replace(u.toString());
