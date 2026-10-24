@@ -10,7 +10,7 @@ Static, bilingual, source-transparent independent press review built with **Reac
 
 Once Pages is activated, the site is published at **https://keyserdsoze.github.io/News/**.
 
-The World archive currently contains **23 and 24 October 2026**, with **20 sourced stories in each language**. The Italy, Technology and Science desks each have a fully sourced five-story edition dated 24 October 2026. Across the four desks, the archive now contains 35 distinct article instances, each in Italian and English. Daily editions have at least two distinct sources per article, original illustrated covers, and explicit separation of established facts, attributed claims and remaining uncertainties. The 24 October edition also includes two Wikimedia-licensed contextual images. Photos and satellite imagery carry provenance, dates, credits and licenses; archival media is never presented as photography of today's event.
+The World archive contains **22, 23 and 24 October 2026**, with **30 sourced stories in each language**. The Italy, Technology and Science desks each have fully sourced five-story editions dated **22 and 24 October 2026**. Across the four desks, the archive now contains **60 distinct article instances** (120 localized texts), each in Italian and English. Daily editions have at least two distinct sources per article, original illustrated covers, and explicit separation of established facts, attributed claims and remaining uncertainties. The 24 October edition also includes two Wikimedia-licensed contextual images. Photos and satellite imagery carry provenance, dates, credits and licenses; archival media is never presented as photography of today's event.
 
 ## Start locally
 
