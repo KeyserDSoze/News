@@ -23,7 +23,7 @@ export function useArticleSpeech(locale:Locale,identity:string):SpeechState{
   if(supported)window.speechSynthesis.cancel();
   setActive(null);setPaused(false);
  },[supported]);
- useEffect(()=>()=>{run.current++;if(supported)window.speechSynthesis.cancel();},[supported,locale,identity]);
+ useEffect(()=>{stop();return ()=>{run.current++;if(supported)window.speechSynthesis.cancel();};},[supported,locale,identity,stop]);
  const start=useCallback((id:string,text:string)=>{
   if(!supported){setError(locale==='it'?'Sintesi vocale non disponibile nel browser.':'Speech synthesis is unavailable in this browser.');return;}
   stop();setError(null);

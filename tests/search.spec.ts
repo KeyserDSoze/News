@@ -40,7 +40,8 @@ test('back from search article restores filters and scroll position',async({page
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
   await expect(page.locator('.search-result')).toHaveCount(30,{timeout:20000});
   const article=page.locator('.search-result h2 a').nth(4);
-  await article.scrollIntoViewIfNeeded();
+  await article.evaluate(element=>element.scrollIntoView({block:'center',behavior:'instant'}));
+  await expect(article).toBeInViewport();
   const y=await page.evaluate(()=>scrollY);
   await article.click();
   await expect(page).toHaveURL(/\/News\/article\//);
