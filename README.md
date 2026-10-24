@@ -87,3 +87,6 @@ La rassegna mostra subito le notizie: testata ridotta, scelta lingua a tendina, 
 
 ## O 0.0.4 — Essenziale, dal primo schermo
 La navigazione delle quattro rubriche è seguita direttamente dalle edizioni, senza banner di presentazione. La lingua scelta tramite menu è salvata in `localStorage['og-language']` e resta selezionata nelle visite successive. Il ritorno alla rassegna da un articolo conserva sia lo scroll sia la scheda che lo ha originato, anche con il tasto Indietro e dalla ricerca. Vedi `ADR/0010-minimal-header-precise-scroll.md`.
+
+## O 0.0.6 — Ascolta la rassegna
+Le quattro schede riportano soltanto i nomi delle rubriche, senza contatori. Nel titolo della prima edizione è presente **Ascolta la rassegna**: la sintesi vocale del dispositivo narra, nell'ordine editoriale, titoli, sottotitoli e riassunti delle 10 notizie Mondo o delle 5 notizie delle altre rubriche, in lingua IT/EN. Puoi mettere in pausa, riprendere o interrompere la lettura e vedere quale notizia viene letta. Cambiare rubrica o lingua interrompe la lettura; la pagina del singolo articolo mantiene l'ascolto integrale. Non è richiesto alcun backend. Dettagli in `ADR/0011-daily-briefing-audio.md`.

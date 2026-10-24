@@ -2,6 +2,26 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.6] — 2026-10-25
+
+**Italiano — La rassegna si ascolta**
+
+- Rimossi i contatori 10/5/5/5 dalle quattro schede di navigazione.
+- Eliminati il grande conteggio dell'edizione e la descrizione ripetitiva della rassegna del giorno.
+- Inserito il pulsante **Ascolta la rassegna** accanto alla data della prima edizione di ciascuna rubrica.
+- Lettura consecutiva di titoli, sottotitoli e riassunti delle 10 notizie Mondo o 5 notizie specialistiche, nella lingua attiva.
+- Comandi Pausa, Riprendi e Ferma, con numero della notizia corrente visibile soltanto durante la riproduzione.
+- Stop automatico passando ad altre rubriche o cambiando lingua; sintesi vocale nativa, nessun nuovo servizio esterno.
+
+**English — Listen to the daily briefing**
+
+- Removed 10/5/5/5 counters from the four navigation tabs.
+- Removed the oversized edition count and duplicated first-issue description.
+- Added **Listen to briefing** next to the latest edition date on each desk.
+- Continuous device-voice playback of headlines, standfirsts and summaries for ten World stories or five specialist stories in the selected language.
+- Pause, Resume and Stop controls with current-story progress only during playback.
+- Playback stops when navigating between desks or changing language, without remote TTS services.
+
 ## [0.0.5] — 2026-10-25
 
 **Italiano — Più respiro ai comandi**

@@ -1,6 +1,34 @@
 {
   "releases": [
     {
+      "version": "0.0.6",
+      "date": "2026-10-25",
+      "it": {
+        "title": "La rassegna si ascolta",
+        "highlights": [
+          "Eliminati i numeri 10/5/5/5 dal menu delle quattro rubriche, perché non aiutano la navigazione.",
+          "Tolti il numero decorativo dell'edizione e la descrizione ridondante delle notizie nella prima pagina.",
+          "Nuovo pulsante «Ascolta la rassegna» accanto alla data: legge in sequenza titoli, sottotitoli e riassunti di tutte le notizie del giorno.",
+          "Mondo legge dieci notizie; Italia, Tecnologia e Scienza cinque ciascuna. Audio in italiano o inglese secondo la lingua selezionata.",
+          "Disponibili Pausa, Riprendi e Ferma; durante l'ascolto si visualizza soltanto il numero della notizia corrente.",
+          "La lettura si interrompe quando cambi rubrica, lingua o giornata e utilizza la sintesi vocale del dispositivo senza backend."
+        ],
+        "details": "L'audio della rassegna è una sintesi dei titoli e riassunti, non una lettura integrale di tutti gli approfondimenti. Per ascoltare l'articolo completo rimane il comando nella pagina della singola notizia."
+      },
+      "en": {
+        "title": "Listen to the daily briefing",
+        "highlights": [
+          "Removed redundant 10/5/5/5 counts from the four desk navigation tabs.",
+          "Removed the decorative edition count and repetitive first-edition description.",
+          "New “Listen to briefing” control beside the edition date plays each day's titles, standfirsts and summaries in order.",
+          "World includes ten stories, while Italy, Technology and Science include five each, in the selected language.",
+          "Pause, Resume and Stop are available; the current story number appears only during playback.",
+          "Playback stops upon switching desks, language or edition and uses the device's native speech synthesis without a backend."
+        ],
+        "details": "The narrated press briefing includes headlines and summaries, not the full detailed reporting. Full-story listening remains available inside each individual article."
+      }
+    },
+    {
       "version": "0.0.5",
       "date": "2026-10-25",
       "it": {

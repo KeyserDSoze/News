@@ -10,9 +10,11 @@ export function useBriefingSpeech(edition:Edition|null,section:Section,locale:Lo
   const [current,setCurrent]=useState<number|null>(null);
   const [error,setError]=useState<string|null>(null);
   const token=useRef(0);
+  const speaking=useRef<SpeechSynthesisUtterance|null>(null);
 
   const stop=useCallback(()=>{
     token.current++;
+    speaking.current=null;
     if(supported)window.speechSynthesis.cancel();
     setActive(false);setPaused(false);setCurrent(null);
   },[supported]);
@@ -25,6 +27,7 @@ export function useBriefingSpeech(edition:Edition|null,section:Section,locale:Lo
     stop();
     return ()=>{
       token.current++;
+      speaking.current=null;
       if(supported)window.speechSynthesis.cancel();
     };
   },[supported,locale,section,edition?.date,stop]);
@@ -66,12 +69,13 @@ export function useBriefingSpeech(edition:Edition|null,section:Section,locale:Lo
       setCurrent(story+1);
       const utterance=new SpeechSynthesisUtterance(chunks[story][chunk]);
       utterance.lang=language;utterance.rate=1;utterance.pitch=1;utterance.voice=voice;
-      utterance.onend=()=>read(story,chunk+1);
+      utterance.onend=()=>{speaking.current=null;read(story,chunk+1);};
       utterance.onerror=event=>{
         if(token.current!==run||event.error==='interrupted'||event.error==='canceled')return;
         setError(locale==='it'?'Lettura interrotta dal dispositivo.':'Playback stopped by the device.');
         stop();
       };
+      speaking.current=utterance; // Keep a strong reference for mobile Web Speech engines.
       engine.speak(utterance);
     };
     read(0,0);
