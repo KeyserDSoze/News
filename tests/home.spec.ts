@@ -30,6 +30,8 @@ test('language and theme persist on reload',async({page})=>{
   await expect(page.locator('html')).toHaveAttribute('data-theme','light');
   await page.reload();
   await expect(page.locator('html')).toHaveAttribute('data-theme','light');
+  await expect(page.locator('html')).toHaveAttribute('lang','en');
+  expect(await page.evaluate(()=>localStorage.getItem('og-language'))).toBe('en');
   await expect(page.getByRole('navigation',{name:'Sections'})).toBeVisible();
 });
 test('each specialist desk has exactly five sourced stories, ratings and article routes',async({page})=>{

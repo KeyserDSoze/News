@@ -338,3 +338,8 @@
  .masthead .brand-definition small:last-child{display:none}
  .masthead .o-brand .wordmark-symbol{flex-shrink:0}
 }
+
+/* v0.0.4: only the masthead, desk tabs and actual headlines. */
+.masthead{height:76px}
+.edition:first-child{padding-top:25px}
+@media(max-width:650px){.masthead{height:62px}.edition:first-child{padding-top:19px}}

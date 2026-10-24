@@ -390,7 +390,6 @@ export default function App(){
   },[theme,locale,selected,route.kind,t.search]);
   const changeLocale=(lang:Locale)=>setLocale(lang);
   return <div className="site-shell">
-    <div className="topline"><div className="container topline-inner"><span>O / {t.name.toUpperCase()}</span><span>{t.tagline}</span></div></div>
     <header className="masthead container">
       <a className="wordmark o-brand" href={sectionHref("world")} aria-label="O — home"><span className="wordmark-symbol">O<span>.</span></span><span className="brand-definition"><small>{t.name}</small><small>{locale==='it'?'0 pubblicità · 0 sensazionalismi':'0 ads · 0 clickbait'}</small></span></a>
       <div className="header-actions">

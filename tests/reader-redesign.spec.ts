@@ -7,11 +7,10 @@ test.beforeEach(async({page})=>{
  });
 });
 
-test('compact headline replaces promotional slogan and language changes only after choosing an option',async({page})=>{
+test('no redundant promotional header or descriptive bands; language is remembered',async({page})=>{
  await page.goto('/');
- await expect(page.locator('.hero.hero-compact')).toBeVisible();
- await expect(page.locator('.hero-emblem')).toHaveCount(0);
- await expect(page.getByText('Più fatti.')).toHaveCount(0);
+ await expect(page.locator('.hero,.section-band,.topline')).toHaveCount(0);
+ await expect(page.locator('.four-nav a')).toHaveCount(4);
  await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
  const language=page.getByRole('button',{name:'Seleziona lingua'});
  await language.click();
@@ -23,9 +22,10 @@ test('compact headline replaces promotional slogan and language changes only aft
  await language.click();
  await page.getByRole('menuitemradio',{name:/English/}).click();
  await expect(page.locator('html')).toHaveAttribute('lang','en');
- await expect(page.locator('.hero h1')).toContainText('World, in context.');
+ expect(await page.evaluate(()=>localStorage.getItem('og-language'))).toBe('en');
  await page.reload();
  await expect(page.locator('html')).toHaveAttribute('lang','en');
+ await expect(page.getByRole('navigation',{name:'Sections'})).toBeVisible();
 });
 
 test('cover edition is persisted with full body in IndexedDB before an article opens',async({page})=>{

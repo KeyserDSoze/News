@@ -58,7 +58,7 @@ export default function SearchPage({locale,presetTag}:{locale:Locale;presetTag:s
   {progress.failed>0&&<p className="search-warning" role="alert">{t.searchError}</p>}
   {!loading&&hits.length===0&&<div className="search-empty"><SearchIcon size={30}/>{t.searchNone}</div>}
   <div className="search-results" aria-label={t.searchResults}>{results.map(({article,date,section})=>
-    <article key={section+'/'+date+'/'+article.id} className="search-result">
+    <article key={section+'/'+date+'/'+article.id} className="search-result" data-scroll-anchor={section+'/'+date+'/'+article.id}>
       <div className="search-result-label">{sectionName(section,locale)} <span>/</span> {formatDate(date,locale)} <span>/</span> {article.impact.toLocaleString(locale==='it'?'it-IT':'en-GB')} ★</div>
       <h2><a href={storyHref({section,date,id:article.id})}>{article.title}</a></h2>
       <p>{article.summary}</p>
