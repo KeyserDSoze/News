@@ -21,10 +21,13 @@ export function useBriefingSpeech(edition:Edition|null,section:Section,locale:Lo
   useEffect(()=>{
     if(!enabled)stop();
   },[enabled,stop]);
-  useEffect(()=>()=>{
-    token.current++;
-    if(supported)window.speechSynthesis.cancel();
-  },[supported,locale,section,edition?.date]);
+  useEffect(()=>{
+    stop();
+    return ()=>{
+      token.current++;
+      if(supported)window.speechSynthesis.cancel();
+    };
+  },[supported,locale,section,edition?.date,stop]);
 
   const play=useCallback(()=>{
     if(!supported||!enabled||!edition?.articles.length)return;
