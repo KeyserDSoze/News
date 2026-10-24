@@ -10,7 +10,8 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 0.0.0.0",
     "test:content": "node ../../scripts/build-news.mjs --check",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "postbuild": "node ../../scripts/build-static-routes.mjs"
   },
   "dependencies": {
     "react": "19.0.0",
