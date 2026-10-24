@@ -5,7 +5,7 @@ import { useArchive, useStoryIndex, getJSON, mediaUrl } from './data';
 import { loadEdition, warmEdition, storedEdition } from './editionCache';
 import type { NewsIndex } from './types';
 import { formatDate, messages, sectionName } from './i18n';
-import { sections, sectionSize, storyHref, storyKey } from './types';
+import { sections, storyHref, storyKey } from './types';
 import type { Article, Edition, Locale, Section, StoryIndex, StoryPreview, StoryRef } from './types';
 import { currentPath, isAppRoute, normalizeLegacyRoute, routeFromPath, sectionHref, searchHref } from './routes';
 import type { Route } from './routes';
@@ -16,6 +16,9 @@ import { buildArticleExports } from './articleExport';
 import ArticleToolbar from './ArticleToolbar';
 import LanguageMenu from './LanguageMenu';
 import { useArticleSpeech } from './readerSpeech';
+import { useBriefingSpeech } from './briefingSpeech';
+import type { BriefingSpeech } from './briefingSpeech';
+import BriefingPlayer from './BriefingPlayer';
 function initialLocale():Locale {
   try {const stored=localStorage.getItem('og-language');if(stored==='it'||stored==='en')return stored;}catch{}
   return navigator.language.toLowerCase().startsWith('it')?'it':'en';
@@ -79,14 +82,17 @@ function StoryCard({article,date,section,locale,index,featured=false}:{article:A
     </div>
   </article>;
 }
-function Day({edition,locale,section,first,index}:{edition:Edition;locale:Locale;section:Section;first:boolean;index:StoryIndex|null}){
+function Day({edition,locale,section,first,index,reader}:{edition:Edition;locale:Locale;section:Section;first:boolean;index:StoryIndex|null;reader?:BriefingSpeech}){
   const t=messages[locale];
   return <section className="edition" data-date={edition.date} aria-label={formatDate(edition.date,locale)}>
     <div className="edition-heading"><div className="edition-left">
       <div className="eyebrow"><span className="red-square"/>{first?t.today:t.archive}</div>
       <h2>{first?t.issue:formatDate(edition.date,locale)}</h2>
-      <p>{first?t.sectionDescriptions[section]:edition.editorialNote}</p>
-    </div><div className="edition-tag"><span>{t.edition} / {edition.date.replaceAll('-','.')}</span><strong>{String(edition.articles.length).padStart(2,'0')}</strong></div></div>
+      {!first&&<p>{edition.editorialNote}</p>}
+    </div><div className="edition-heading-tools">
+      <span className="edition-date">{t.edition} / {edition.date.replaceAll('-','.')}</span>
+      {first&&reader&&<BriefingPlayer reader={reader} locale={locale}/>}
+    </div></div>
     <div className="story-grid">{edition.articles.map((article,i)=><StoryCard key={article.id} article={article} date={edition.date} section={section} locale={locale} index={index} featured={first&&i===0}/>)}</div>
   </section>;
 }
@@ -221,9 +227,10 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
     <a href={returnTo} className="article-return"><ArrowLeft size={17}/>{t.back}</a>
   </main>;
 }
-function SectionPage({section,locale,index}:{section:Section;locale:Locale;index:StoryIndex|null}){
+function SectionPage({section,locale,index,enabled}:{section:Section;locale:Locale;index:StoryIndex|null;enabled:boolean}){
   const {active,dates,visible,loading,error,showNext,nextReady,hasMore}=useArchive(locale,section);
   const marker=useRef<HTMLDivElement>(null),t=messages[locale];
+  const reader=useBriefingSpeech(active[0]||null,section,locale,enabled);
   useEffect(()=>{
     if(!hasMore||!nextReady||loading||!marker.current)return;
     const observer=new IntersectionObserver(entries=>{if(entries[0]?.isIntersecting)showNext();},{rootMargin:'650px'});
@@ -235,7 +242,7 @@ function SectionPage({section,locale,index}:{section:Section;locale:Locale;index
       {loading&&<div className="load-state" role="status"><span className="loader"/>{t.loading}</div>}
       {error&&!loading&&active.length===0&&<div className="load-state" role="alert">{t.error} <button onClick={()=>location.reload()}>{t.retry}</button></div>}
       {!loading&&dates.length===0&&!error&&<div className="pending-edition"><span className="pending-index">{String(sections.indexOf(section)+1).padStart(2,'0')} / 04</span><div className="eyebrow"><span className="red-square"/>{t.pendingTag}</div><h2>{t.pendingTitle}</h2><p>{t.pendingText}</p><a className="back-link" href={sectionHref("world")}>{sectionName('world',locale)} <ArrowRight size={17}/></a></div>}
-      {active.map((edition,i)=><Day key={edition.date} edition={edition} locale={locale} section={section} first={i===0} index={index}/>)}
+      {active.map((edition,i)=><Day key={edition.date} edition={edition} locale={locale} section={section} first={i===0} index={index} reader={i===0?reader:undefined}/>)}
       {hasMore&&!loading&&<div className="archive-marker" ref={marker} role="status">{t.more} <span className="loader"/></div>}
       {!hasMore&&!loading&&dates.length>0&&<div className="archive-end"><span>✳</span>{t.end}</div>}
     </div>
@@ -399,8 +406,8 @@ export default function App(){
         <AppMenu locale={locale}/>
       </div>
     </header>
-    <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={sectionHref(s)} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong><span>{String(sectionSize[s]).padStart(2,'0')}</span></a>)}</nav></div>
-    {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index}/></div>)}
+    <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={sectionHref(s)} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong></a>)}</nav></div>
+    {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index} enabled={route.kind==='section'&&route.section===s}/></div>)}
     {searchSeen&&<div data-search-root hidden={route.kind!=='search'}><SearchPage locale={locale} presetTag={searchTag}/></div>}
     {route.kind==='article'&&<ArticleView key={locale+'/'+route.section+'/'+route.date+'/'+route.id} route={route} locale={locale} index={index} returnTo={returnTo}/>}
     {route.kind==='releases'&&<ReleasePage locale={locale}/>}
