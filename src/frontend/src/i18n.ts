@@ -1,4 +1,4 @@
-import type { Category, Locale, Section } from './types';
+import type { Locale, Section } from './types';
 export const messages = {
   it: {
     name:'Oggettivizzatore', definition:'O come Oggettivizzatore. O come zero.',

@@ -53,7 +53,7 @@ function LatestLabel({item,index,locale}:{item:StoryRef;index:StoryIndex|null;lo
 function StoryCard({article,date,section,locale,index,featured=false}:{article:Article;date:string;section:Section;locale:Locale;index:StoryIndex|null;featured?:boolean}){
   const t=messages[locale],ref={date,section,id:article.id};
   return <article className={'story '+(featured?'story-featured':'')} data-story-id={article.id}>
-    <a className="story-image-wrap" href={storyHref(ref)} aria-label={article.title}><Picture article={article} locale={locale}/></a>
+    <div className="story-image-wrap"><Picture article={article} locale={locale}/></div>
     <div className="story-content">
       <div className="story-meta"><span className="story-number">{String(article.rank).padStart(2,'0')}</span><span className="dot"/><span>{t.categories[article.category]}</span><span className="meta-spacer"/><span className="sources-pill"><Check size={12}/>{article.sources.length} {t.sources.toLowerCase()}</span></div>
       <h3><a href={storyHref(ref)}>{article.title}</a></h3>
