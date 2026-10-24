@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { ArrowLeft, ArrowRight, BookOpen, Check, ChevronRight, Copy, ExternalLink, Globe2, Layers3, Moon, Sun, Clock3, Link2, Search as SearchIcon, Tag } from 'lucide-react';
+import { ArrowLeft, ArrowRight, BookOpen, Check, ChevronRight, Copy, ExternalLink, Globe2, Moon, Sun, Clock3, Link2, Search as SearchIcon, Tag } from 'lucide-react';
 import SearchPage, { tagHref } from './SearchPage';
 import { useArchive, useStoryIndex, getJSON, editionUrl, mediaUrl } from './data';
 import { formatDate, messages, sectionName } from './i18n';
