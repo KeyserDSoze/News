@@ -102,22 +102,32 @@ test('English language selection changes the briefing voice and text',async({pag
  expect(result[0].text).toContain(title);
 });
 
-test('changing sections stops the previously speaking briefing',async({page})=>{
+test('briefing keeps speaking across desks with a global now-playing bar',async({page})=>{
  await page.goto('/');
  const world=page.locator('[data-section-root="world"] .edition').first();
  await expect(world.locator('article.story')).toHaveCount(10);
  await world.getByRole('button',{name:'Ascolta la rassegna'}).click();
  await expect(world.getByText('Notizia 1 / 10')).toBeVisible();
+ const cancelsBefore=await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels);
  await page.getByRole('navigation',{name:'Sezioni'}).getByRole('link',{name:/Italia/}).click();
  const italy=page.locator('[data-section-root="italy"] .edition').first();
  await expect(italy.locator('article.story')).toHaveCount(5);
  await expect(italy.getByRole('button',{name:'Ascolta la rassegna'})).toBeVisible();
+ const dock=page.getByRole('region',{name:'Lettore audio attivo'});
+ await expect(dock).toBeVisible();
+ await expect(dock).toContainText('Rassegna Mondo');
+ await expect(dock).toContainText('Notizia 1/10');
  const status=await page.evaluate(()=>{
    const audio=window as unknown as {speechPending:unknown;speechCancels:number};
    return {pending:audio.speechPending,cancels:audio.speechCancels};
  });
- expect(status.pending).toBeNull();
- expect(status.cancels).toBeGreaterThan(0);
+ expect(status.pending).not.toBeNull();
+ expect(status.cancels).toBe(cancelsBefore);
+ await dock.getByRole('button',{name:'Metti in pausa audio'}).click();
+ await expect(dock.getByRole('button',{name:'Riprendi audio'})).toBeVisible();
+ await dock.getByRole('button',{name:'Riprendi audio'}).click();
+ await dock.getByRole('button',{name:'Interrompi audio'}).click();
+ await expect(dock).toHaveCount(0);
 });
 
 test('stop resets the controls without switching desks or changing archive scroll',async({page})=>{
@@ -130,4 +140,59 @@ test('stop resets the controls without switching desks or changing archive scrol
  await expect(reader.getByRole('button',{name:'Ascolta la rassegna'})).toBeVisible();
  await expect(page).toHaveURL(/\/$/);
  await expect(day.locator('article.story')).toHaveCount(10);
+});
+
+test('opening a story does not stop a briefing, but selecting another narration replaces it',async({page})=>{
+ await page.goto('/');
+ const world=page.locator('[data-section-root="world"] .edition').first();
+ await expect(world.locator('article.story')).toHaveCount(10);
+ await world.getByRole('button',{name:'Ascolta la rassegna'}).click();
+ const dock=page.getByRole('region',{name:'Lettore audio attivo'});
+ await expect(dock).toContainText('Rassegna Mondo');
+ const oldPending=await page.evaluate(()=>(window as unknown as {speechPending:unknown}).speechPending);
+ const cancelsBefore=await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels);
+ await world.locator('article.story h3 a').first().click();
+ await expect(page).toHaveURL(/\/article\/world\//);
+ await expect(dock).toContainText('Rassegna Mondo');
+ expect(await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels)).toBe(cancelsBefore);
+ // Starting body-only narration cancels the ongoing daily edition exactly once.
+ await page.getByRole('group',{name:'Strumenti per La notizia, nel dettaglio'})
+  .getByRole('button',{name:'Ascolta: La notizia, nel dettaglio'}).click();
+ await expect(dock).toContainText('Testo della notizia');
+ await expect(dock).not.toContainText('Rassegna Mondo');
+ expect(await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels)).toBe(cancelsBefore+1);
+ // A delayed event from the cancelled utterance must not resurrect the previous edition.
+ await page.evaluate((obsolete)=>{
+  (obsolete as {onend?:()=>void}).onend?.();
+ },oldPending);
+ await expect(dock).toContainText('Testo della notizia');
+ await page.getByRole('navigation',{name:'Sezioni'}).getByRole('link',{name:/Italia/}).click();
+ await expect(dock).toContainText('Testo della notizia');
+ const italy=page.locator('[data-section-root="italy"] .edition').first();
+ await expect(italy.locator('article.story')).toHaveCount(5);
+ await italy.getByRole('button',{name:'Ascolta la rassegna'}).click();
+ await expect(dock).toContainText('Rassegna Italia');
+ await expect(dock).toContainText('Notizia 1/5');
+ await dock.getByRole('button',{name:'Interrompi audio'}).click();
+ await expect(dock).toHaveCount(0);
+});
+
+test('the same narrated article remains active when changing language or opening search',async({page})=>{
+ await page.goto('/article/world/2026-10-24/oleshky-humanitarian-ceasefire/');
+ const actions=page.getByRole('group',{name:'Strumenti per Articolo completo'});
+ await actions.getByRole('button',{name:'Ascolta: Articolo completo'}).click();
+ const dock=page.getByRole('region',{name:'Lettore audio attivo'});
+ await expect(dock).toContainText('Articolo completo');
+ const cancelsBefore=await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels);
+ await page.getByRole('button',{name:'Seleziona lingua'}).click();
+ await page.getByRole('menuitemradio',{name:/English/}).click();
+ const dockEN=page.getByRole('region',{name:'Active audio player'});
+ await expect(dockEN).toContainText('Full article');
+ expect(await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels)).toBe(cancelsBefore);
+ // Playback retains the language of the text that was originally selected.
+ expect((await page.evaluate(()=>(window as unknown as {spoken:{lang:string}[]}).spoken)).at(-1)?.lang).toBe('it-IT');
+ await page.getByRole('link',{name:'Open search'}).click();
+ await expect(dockEN).toBeVisible();
+ await dockEN.getByRole('button',{name:'Stop audio'}).click();
+ await expect(dockEN).toHaveCount(0);
 });
