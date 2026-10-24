@@ -1,11 +1,36 @@
-# Publishing an edition
-1. Start from a previous `news/YYYY-MM-DD/it.json` and `en.json`. Create one new directory for the date.
-2. Write exactly ten articles in each language. The `id`, `rank` and `category` fields must match in the same order.
-3. Cite two distinct editorial sources minimum per article (three recommended); add link title, source date and source type.
-4. Verify rights to each image and use `news/YYYY-MM-DD/assets/*` for files. Mark original illustrations `kind=illustration`; for third-party photos record proper attribution and license.
-5. From the repo root run `npm install && npm run test:content && npm run build`.
-6. Run `npx playwright install chromium && npm run test:e2e`.
-7. Submit a PR with editorial review. On merge to main, Pages deploy runs automatically.
-8. GitHub Settings → Pages → Build and deployment → **GitHub Actions** must be set on first setup.
+# Publishing a daily edition of O
 
-**Sources are links, not reproduced reporting.** Article summaries must be freshly written, fact checked and revised where evidence conflicts.
+The publication has four independent desks. Publish only when **all required stories have independent sourcing and both translations are ready**.
+
+| Desk | Stories per language | Storage |
+|---|---:|---|
+| World / Mondo | 10 | `news/YYYY-MM-DD/it.json` and `en.json` |
+| Italy / Italia | 5 | `news/YYYY-MM-DD/italy/it.json` and `en.json` |
+| Technology / Tecnologia | 5 | `news/YYYY-MM-DD/technology/it.json` and `en.json` |
+| Science / Scienza | 5 | `news/YYYY-MM-DD/science/it.json` and `en.json` |
+
+**No incomplete or dummy editions**: a desk can skip a day. The frontend honestly marks sections with no editions as forthcoming. The World desk is the primary front page.
+
+## Editorial checklist
+1. Research ten World articles and, when ready, five articles for each specialist desk. Rank only within the respective desk; publish both translations together with matching ID, rank, category, `threadId` and `related` references.
+2. Write `title`, `dek`, **front-page `summary`**, full article `body` as a nonempty array of substantive paragraphs, and `questions` with precise question/answer pairs; keep `facts`, `perspectives` and `unknowns` explicitly attributable. No invented information or sensational claims.
+3. Record at least two distinct original publishers per article (three recommended), full HTTPS links, accurate source title, published date and role. Prefer primary records for science and public policy.
+4. Add licensed images in `news/YYYY-MM-DD/assets/`; mark illustrations as such, and document copyright owner, provenance, licence and descriptive alt text. Never treat archive pictures as photos of breaking events.
+5. For an ongoing story or genuinely continuing topic, reuse the **stable `threadId`** from previous editions and write a `threadRecap` that is accurate **as of the issue date**. The build generates the timeline; older stories automatically show updates without requiring edits.
+6. For connected but separate stories, add a `related` array with exact `{date,section,id}` references. The build resolves both directions; only enter one link if reciprocity is intended. Do not imply identical events or causation merely because subjects overlap.
+7. Run from the repository root:
+
+```bash
+npm install
+npm run test:content
+npm run build
+npx playwright install chromium
+npm run test:e2e
+```
+
+8. Submit a PR for editorial review. CI checks the schema and tests; a merge to `main` deploys GitHub Pages.
+9. Corrections must be transparent in the Git commit history. A historical recap cannot be silently updated to imply earlier knowledge of facts learned later.
+
+Brand: **O** is the name. **Oggettivizzatore** (Italian) and **Objectivizer** (English) describe the name. Zero ads, zero sensational headlines.
+
+**Sources are links, not reproduced reporting**. Summaries must be newly authored and reflect the weight of available evidence.
