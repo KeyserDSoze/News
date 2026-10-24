@@ -1,6 +1,6 @@
 import {test,expect} from '@playwright/test';
 test.beforeEach(async ({page})=>{
-  await page.addInitScript(()=>{localStorage.setItem('og-language','it');localStorage.setItem('og-theme','dark');});
+  await page.addInitScript(()=>{if(!localStorage.getItem('og-language'))localStorage.setItem('og-language','it');if(!localStorage.getItem('og-theme'))localStorage.setItem('og-theme','dark');});
   await page.goto('/');
 });
 test('O is the sole masthead brand and explains its zero-ad promise',async({page})=>{
@@ -48,7 +48,7 @@ test('world infinite scroll appends the previous day',async({page})=>{
   await expect(older.locator('article')).toHaveCount(10);
 });
 test('historical coverage is linked in both directions with a dated recap',async({page})=>{
-  await page.goto('/#/article/world/2026-10-23/eni-fuel-price-cap-extension');
+  await page.goto('/News/#/article/world/2026-10-23/eni-fuel-price-cap-extension');
   await expect(page.getByRole('heading',{name:'La vicenda, giorno per giorno'})).toBeVisible();
   const timeline=page.locator('.timeline');
   await expect(timeline.locator('.timeline-item')).toHaveCount(2);
@@ -58,6 +58,6 @@ test('historical coverage is linked in both directions with a dated recap',async
   await expect(page.locator('.timeline').getByRole('link',{name:/Carburanti, Eni/})).toBeVisible();
 });
 test('related story backlinks are derived without duplicating the reverse link',async({page})=>{
-  await page.goto('/#/article/world/2026-10-24/oleshky-humanitarian-ceasefire');
+  await page.goto('/News/#/article/world/2026-10-24/oleshky-humanitarian-ceasefire');
   await expect(page.getByRole('link',{name:/Starlink in Ucraina/})).toBeVisible();
 });

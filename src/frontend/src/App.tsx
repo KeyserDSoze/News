@@ -93,7 +93,7 @@ function StoryRelationships({article,date,section,locale,index}:{article:Article
   return <>
     {dossier.length>1&&<section className="dossier" aria-label={t.historical}>
       <div className="detail-kicker"><Clock3 size={17}/>{t.historical}</div>
-      <h2>{locale==='it'?'Un dossier in evoluzione':'An evolving story'}</h2>
+      <h2>{t.historical}</h2>
       {article.threadRecap&&<p className="thread-recap">{article.threadRecap}</p>}
       <div className="timeline">{dossier.map(story=><div className={'timeline-item '+(storyKey(story)===key?'timeline-current':'')} key={storyKey(story)}>
         <div className="timeline-dot"/><div>
@@ -193,7 +193,7 @@ export default function App(){
   return <div className="site-shell">
     <div className="topline"><div className="container topline-inner"><span>O / {t.name.toUpperCase()}</span><span>{t.tagline}</span></div></div>
     <header className="masthead container">
-      <a className="wordmark o-brand" href="#/world" aria-label="O — home"><span className="wordmark-symbol">O<span>.</span></span><span className="brand-definition"><strong>O</strong><small>{t.name}</small></span></a>
+      <a className="wordmark o-brand" href="#/world" aria-label="O — home"><span className="wordmark-symbol">O<span>.</span></span><span className="brand-definition"><small>{t.name}</small><small>{locale==='it'?'0 pubblicità · 0 sensazionalismi':'0 ads · 0 clickbait'}</small></span></a>
       <div className="header-actions">
         <button type="button" className="lang-btn" onClick={()=>changeLocale(locale==='it'?'en':'it')} aria-label={locale==='it'?t.english:t.italian}><Globe2 size={17}/><span>{locale.toUpperCase()}</span><span className="lang-arrow">↔</span></button>
         <button type="button" className="icon-btn" aria-label={theme==='dark'?t.light:t.dark} onClick={()=>setTheme(theme==='dark'?'light':'dark')}>{theme==='dark'?<Sun size={20}/>:<Moon size={20}/>}</button>
