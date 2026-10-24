@@ -1,6 +1,8 @@
 # O — Oggettivizzatore / Objectivizer
 
-**O = Oggettivizzatore / Objectivizer. O = zero ads, zero sensational headlines.**\n\nFour independent daily briefings: **World (10)**, **Italy (5)**, **Technology (5)** and **Science (5)**. Every article has a shareable detailed page, an upfront summary, sourced context and objective questions. A static cross-edition index connects chronologically evolving stories in both directions.
+**O = Oggettivizzatore / Objectivizer. O = zero ads, zero sensational headlines.**
+
+Four independent daily briefings: **World (10)**, **Italy (5)**, **Technology (5)** and **Science (5)**. Every article has a shareable detailed page, an upfront summary, sourced context and objective questions. A static cross-edition index connects chronologically evolving stories in both directions.
 
 Static, bilingual, source-transparent independent press review built with **React + TypeScript + Vite** and published through **GitHub Pages**, with no backend or database.
 
@@ -32,7 +34,8 @@ npm run test:e2e
 |---|---|
 | `src/frontend/` | React/TypeScript SPA, i18n, dark/light theme, responsive reader |
 | `news/YYYY-MM-DD/it.json` | 10 Italian World articles and metadata |
-| `news/YYYY-MM-DD/en.json` | Same 10 World stories in English |\n| `news/YYYY-MM-DD/{italy,technology,science}/{it,en}.json` | 5 fully researched stories per specialized desk |
+| `news/YYYY-MM-DD/en.json` | Same 10 World stories in English |
+| `news/YYYY-MM-DD/{italy,technology,science}/{it,en}.json` | 5 fully researched stories per specialized desk |
 | `news/YYYY-MM-DD/assets/` | Credited original artwork or appropriately licensed photographs |
 | `scripts/build-news.mjs` | Validates every edition, generates static archive and manifest |
 | `tests/` | Playwright desktop/mobile browser tests |

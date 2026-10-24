@@ -76,7 +76,8 @@ for(const day of dates) {
     if(language==='it')all.set(key,a);
     const preview={date:day,section,id:a.id,title:a.title,dek:a.dek,summary:a.summary,category:a.category};
     if(a.threadId)preview.threadId=a.threadId;
-    if(a.threadRecap)preview.threadRecap=a.threadRecap;\n    if(a.related)preview.related=a.related;
+    if(a.threadRecap)preview.threadRecap=a.threadRecap;
+    if(a.related)preview.related=a.related;
     storiesByLocale[language].push(preview);
    }
    editions.push(edition);
