@@ -1,0 +1,452 @@
+{
+  "date": "2026-10-24",
+  "language": "it",
+  "publishedAt": "2026-10-24T09:45:47.727Z",
+  "editorialNote": "Dieci fatti selezionati, fonti documentate, dubbi espliciti.",
+  "articles": [
+    {
+      "id": "oleshky-humanitarian-ceasefire",
+      "rank": 1,
+      "category": "world",
+      "title": "Oleshky, annunciata una tregua umanitaria: restano differenze sulle date",
+      "dek": "Russia e Ucraina hanno concordato un'operazione per portare aiuti ed evacuare i civili dalla città occupata.",
+      "summary": "La Casa Bianca attribuisce a Melania Trump un ruolo nella mediazione. Le autorità ucraine confermano un'operazione umanitaria, ma gli annunci sul calendario non coincidono pienamente: fonti russe indicano il 27 ottobre per l'avvio del cessate il fuoco, mentre Kiev e la Casa Bianca hanno citato il 29 ottobre per la fase umanitaria. L'accordo annunciato non equivale a una pace generale.",
+      "facts": [
+        "La città di Oleshky è sotto controllo russo nella regione ucraina di Kherson.",
+        "La tregua annunciata è circoscritta e destinata alla distribuzione di aiuti e al movimento dei civili."
+      ],
+      "perspectives": [
+        "Washington rivendica il ruolo negoziale della first lady; funzionari ucraini e russi hanno descritto la propria partecipazione.",
+        "L'iniziativa umanitaria è distinta dalle trattative più ampie sulla guerra."
+      ],
+      "unknowns": [
+        "Da verificare sul campo quando inizierà l'accesso effettivo dei convogli e quali garanzie accompagneranno le evacuazioni."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Ceasefire proposed for Oleshky",
+          "url": "https://www.reuters.com/world/europe/melania-trump-secures-oleshky-ceasefire-between-russia-ukraine-white-house-says-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Deal to deliver aid to Oleshky",
+          "url": "https://apnews.com/article/60167627316e0e2f62fc359cf78f317d",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Ukrainian ombudsman confirms humanitarian operation",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/23/commissario-diritti-umani-di-kiev-conferma-tregua-e-operazione-umanitaria-a-oleshky_feab5ee5-5375-43bf-af74-60117bdbf3d4.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/oleshky-humanitarian-ceasefire.svg",
+        "alt": "Illustrazione editoriale simbolica per: Oleshky, annunciata una tregua umanitaria: restano differenze sulle date",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/oleshky-humanitarian-ceasefire.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "champion-typhoon-taiwan",
+      "rank": 2,
+      "category": "climate",
+      "title": "Il tifone Champi colpisce Taiwan: un morto, centinaia di feriti",
+      "dek": "Voli cancellati, interruzioni elettriche e scuole chiuse durante il passaggio della tempesta.",
+      "summary": "Il tifone Champi è transitato vicino a Taiwan tra venerdì e sabato senza un impatto diretto del centro sull'isola, ma con forti raffiche e piogge. Reuters riporta un morto e 527 feriti nell'aggiornamento di sabato; AP ha citato 350 feriti in una rilevazione precedente. Le differenze riflettono tempi di aggiornamento distinti, non necessariamente dati incompatibili.",
+      "facts": [
+        "Le autorità hanno segnalato la morte di una persona trascinata dalle onde.",
+        "Aeroporti, trasporti e rete elettrica hanno subito interruzioni e cancellazioni."
+      ],
+      "perspectives": [
+        "I bollettini meteorologici descrivono un sistema in indebolimento, ma ancora in grado di causare danni.",
+        "I bilanci di vittime e disagi vengono aggiornati dalle autorità di emergenza."
+      ],
+      "unknowns": [
+        "Il bilancio definitivo dei feriti e il percorso successivo del tifone potrebbero cambiare."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Typhoon Champi passes Taiwan",
+          "url": "https://www.reuters.com/business/environment/typhoon-champi-sweeps-past-taiwan-one-dead-500-injured-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Taiwan typhoon casualties and disruptions",
+          "url": "https://apnews.com/article/5ee312ec7567941b8f6b0f461d7c86d2",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/champion-typhoon-taiwan.svg",
+        "alt": "Illustrazione editoriale simbolica per: Il tifone Champi colpisce Taiwan: un morto, centinaia di feriti",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/champion-typhoon-taiwan.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "karak-jordan-church-attack",
+      "rank": 3,
+      "category": "world",
+      "title": "Giordania, sette morti in un attacco durante un funerale in chiesa",
+      "dek": "Una sparatoria a Karak ha provocato anche decine di feriti; le autorità indagano.",
+      "summary": "Uomini armati hanno aperto il fuoco durante un rito funebre in una chiesa greco-ortodossa nella zona di Karak. La cronaca ripresa da Associated Press parla di sette morti e quaranta feriti, mentre alcuni resoconti precedenti indicavano numeri più bassi. Le autorità giordane hanno avviato un'indagine e proclamato tre giorni di lutto nazionale.",
+      "facts": [
+        "L'attacco è avvenuto durante una cerimonia funebre in una chiesa a Karak.",
+        "Il bilancio più recente riportato dalle fonti consultate è di sette morti e circa quaranta feriti."
+      ],
+      "perspectives": [
+        "I responsabili politici giordani hanno condannato l'azione e promesso indagini.",
+        "Le prime testimonianze non concordano pienamente sul numero degli assalitori."
+      ],
+      "unknowns": [
+        "Non sono confermati movente, identità e numero esatto delle persone coinvolte nell'attacco."
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press via The Guardian",
+          "title": "Attack during church funeral",
+          "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Reports from Jordanian authorities",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/23/media-uomini-armati-sparano-contro-una-chiesa-in-giordania-7-morti_28df5955-1768-4a5c-9850-3f7a52238a04.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/karak-jordan-church-attack.svg",
+        "alt": "Illustrazione editoriale simbolica per: Giordania, sette morti in un attacco durante un funerale in chiesa",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/karak-jordan-church-attack.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "hebron-west-bank-operation",
+      "rank": 4,
+      "category": "politics",
+      "title": "Hebron, due militari israeliani uccisi e nuove restrizioni in Cisgiordania",
+      "dek": "L'esercito israeliano ha avviato operazioni nell'area dopo uno scontro armato; cresce il confronto sulla proporzionalità delle misure.",
+      "summary": "Due soldati israeliani sono morti in un attacco armato nei pressi di Hebron, insieme a due presunti assalitori palestinesi, secondo le forze israeliane. Il governo ha annunciato perquisizioni e restrizioni di movimento nell'area. Osservatori e legali dei diritti umani contestano l'estensione delle misure ai residenti non coinvolti nell'attacco.",
+      "facts": [
+        "Le autorità israeliane riferiscono la morte di due soldati e due assalitori.",
+        "L'esercito ha lanciato operazioni e limitazioni alla circolazione nella zona di Hebron."
+      ],
+      "perspectives": [
+        "Il governo israeliano presenta le misure come una risposta di sicurezza.",
+        "Organizzazioni e giuristi citati dalle testate le criticano come possibile punizione collettiva."
+      ],
+      "unknowns": [
+        "Restano da verificare l'effettiva durata delle restrizioni e le conseguenze per i civili."
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Israeli troops killed near Hebron",
+          "url": "https://apnews.com/article/f6646718072b4ff6929cff43297edd05",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "West Bank response and rights objections",
+          "url": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/hebron-west-bank-operation.svg",
+        "alt": "Illustrazione editoriale simbolica per: Hebron, due militari israeliani uccisi e nuove restrizioni in Cisgiordania",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/hebron-west-bank-operation.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-nationwide-demonstrations",
+      "rank": 5,
+      "category": "society",
+      "title": "Italia, manifestazioni in più città tra pace, carovita e sicurezza",
+      "dek": "A Milano, Roma, Torino e in altri centri sono stati annunciati cortei con rivendicazioni diverse.",
+      "summary": "Per sabato 24 ottobre sono previste mobilitazioni contro guerra, riarmo e caro vita, oltre a iniziative legate alla gestione dell'ordine pubblico. Dopo gli scontri del precedente fine settimana, le autorità hanno predisposto controlli e presidi rafforzati. I programmi dei singoli gruppi e alcuni luoghi di ritrovo possono variare durante la giornata.",
+      "facts": [
+        "ANSA documenta iniziative annunciate in diverse città italiane.",
+        "Le autorità hanno predisposto misure di sicurezza aggiuntive, in particolare a Milano."
+      ],
+      "perspectives": [
+        "Gli organizzatori avanzano rivendicazioni non uniformi, dalla pace ai salari.",
+        "Le istituzioni dichiarano di voler prevenire nuovi scontri e tutelare la sicurezza pubblica."
+      ],
+      "unknowns": [
+        "Affluenza, itinerari definitivi ed eventuali incidenti non possono essere dedotti dai soli annunci della mattina."
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Protests planned in Italian cities",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/da-milano-a-castel-volturno-piazze-blindate-per-i-nuovi-cortei.-la-mappa_4b093092-5d16-474b-ad7e-21a60f02d95f.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Press review on protests and security",
+          "url": "https://tg24.sky.it/cronaca/2026/10/24/prime-pagine-quotidiani-oggi-24-ottobre",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/italy-nationwide-demonstrations.svg",
+        "alt": "Illustrazione editoriale simbolica per: Italia, manifestazioni in più città tra pace, carovita e sicurezza",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/italy-nationwide-demonstrations.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "brazil-presidential-runoff",
+      "rank": 6,
+      "category": "politics",
+      "title": "Brasile verso il ballottaggio: Lula e Flávio Bolsonaro quasi alla pari",
+      "dek": "Il secondo turno è previsto il 25 ottobre; un sondaggio Datafolha indica parità tra i voti validi.",
+      "summary": "Il presidente uscente Luiz Inácio Lula da Silva e il senatore Flávio Bolsonaro si affrontano nel ballottaggio presidenziale del 25 ottobre. Secondo Datafolha, citato da ANSA, entrambi sono al 50% dei voti validi, con un margine d'errore di due punti percentuali. Diplomatici consultati da Reuters discutono della necessità di attendere risultati ufficiali prima di riconoscere il vincitore.",
+      "facts": [
+        "La data fissata per il voto è domenica 25 ottobre.",
+        "Il sondaggio Datafolha citato ha raccolto 2.520 interviste tra il 20 e il 22 ottobre."
+      ],
+      "perspectives": [
+        "I candidati propongono differenti politiche economiche e rapporti internazionali.",
+        "Diplomatici e osservatori sottolineano l'importanza della certificazione istituzionale dei risultati."
+      ],
+      "unknowns": [
+        "Un sondaggio non è un risultato elettorale: vincitore e margini restano sconosciuti."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Diplomatic focus on Brazil runoff",
+          "url": "https://www.reuters.com/world/americas/foreign-diplomats-brazil-discuss-quick-recognition-runoff-winner-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Datafolha poll shows a tie",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/23/lula-e-bolsonaro-testa-a-testa-al-50_e48aeee5-07b9-46e3-8103-2f6d8fa57d3d.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Economy and pledges ahead of Brazil runoff",
+          "url": "https://apnews.com/article/61a6ff180a8ee6febf607662cfe5ca52",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/brazil-presidential-runoff.svg",
+        "alt": "Illustrazione editoriale simbolica per: Brasile verso il ballottaggio: Lula e Flávio Bolsonaro quasi alla pari",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/brazil-presidential-runoff.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "russian-diesel-shipments",
+      "rank": 7,
+      "category": "economy",
+      "title": "Gasolio russo verso gli Stati Uniti: i primi carichi in viaggio",
+      "dek": "La ripresa degli scambi energetici tra Washington e Mosca apre un dibattito sui prezzi e sulle sanzioni.",
+      "summary": "Secondo Associated Press è partita una petroliera con gasolio russo diretta negli Stati Uniti; la stampa internazionale riferisce che altre navi potrebbero seguire. L'operazione si inserisce nei contatti fra Washington e Mosca. La riduzione dei prezzi al consumo non è accertata, mentre Kiev e alcuni esponenti politici statunitensi contestano le implicazioni economiche per la Russia.",
+      "facts": [
+        "AP riferisce la partenza di almeno un carico di diesel dalla Russia verso gli Stati Uniti.",
+        "La vicenda è collegata a decisioni politiche sulle importazioni energetiche."
+      ],
+      "perspectives": [
+        "La Casa Bianca presenta maggiori forniture come leva sui prezzi.",
+        "Critici in Ucraina e negli Stati Uniti temono entrate aggiuntive per il governo russo."
+      ],
+      "unknowns": [
+        "Non è ancora misurabile l'impatto effettivo sui prezzi del carburante negli Stati Uniti."
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Russian diesel tanker sails for the US",
+          "url": "https://apnews.com/article/f2c733604fd4fbd82e7b668c94fad978",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Russian diesel tankers and US talks",
+          "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-war-briefing-russian-diesel-tankers-headed-for-north-america-says-moscow-as-us-tries-to-revive-peace-talks",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/russian-diesel-shipments.svg",
+        "alt": "Illustrazione editoriale simbolica per: Gasolio russo verso gli Stati Uniti: i primi carichi in viaggio",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/russian-diesel-shipments.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italian-activists-west-bank",
+      "rank": 8,
+      "category": "world",
+      "title": "Cisgiordania, atteso il rientro di cinque attiviste italiane fermate",
+      "dek": "La Farnesina ha seguito il caso delle volontarie trattenute durante attività di accompagnamento a coltivatori palestinesi.",
+      "summary": "Cinque cittadine italiane sono state fermate dalle forze israeliane in Cisgiordania il 22 ottobre. Le autorità italiane hanno chiesto la loro liberazione e il ministro Antonio Tajani ha indicato il rimpatrio per la mattina del 24 ottobre. Al momento delle fonti consultate la partenza prevista non equivale ancora alla conferma dell'arrivo in Italia.",
+      "facts": [
+        "Cinque attiviste sono state trattenute e avviate alle procedure di espulsione.",
+        "Le autorità consolari italiane hanno seguito il caso e organizzato assistenza."
+      ],
+      "perspectives": [
+        "Tajani ha contestato la legittimità dei fermi.",
+        "Le autorità israeliane stanno gestendo il procedimento di immigrazione ed espulsione."
+      ],
+      "unknowns": [
+        "Serve una conferma indipendente dell'avvenuto rientro delle cinque cittadine."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Italy seeks activists' release",
+          "url": "https://www.reuters.com/world/italy-calls-release-five-activists-held-by-israel-west-bank-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Five activists awaiting repatriation",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/24/attiviste-italiane-espulse-da-israele.-atteso-il-rientro-in-italia_9b783e6a-ae93-41de-ab9b-63414f183e13.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/italian-activists-west-bank.svg",
+        "alt": "Illustrazione editoriale simbolica per: Cisgiordania, atteso il rientro di cinque attiviste italiane fermate",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/italian-activists-west-bank.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-hauliers-fuel-protests",
+      "rank": 9,
+      "category": "economy",
+      "title": "Autotrasporto, diminuiscono i blocchi nel Sud Italia dopo gli aiuti",
+      "dek": "Il governo ha annunciato misure contro il caro carburante; le associazioni mantengono aperta la vertenza.",
+      "summary": "Dopo giorni di proteste degli autotrasportatori e difficoltà nelle consegne, alcuni blocchi sono stati revocati o sospesi. Reuters riferisce nuovi sostegni economici decisi dal governo; ANSA segnala la progressiva ripresa della distribuzione in Calabria. Il confronto tra rappresentanti del settore e ministero è atteso il 27 ottobre.",
+      "facts": [
+        "I blocchi hanno rallentato forniture commerciali in più regioni meridionali.",
+        "Il Consiglio dei ministri ha approvato ulteriori misure di aiuto per il settore."
+      ],
+      "perspectives": [
+        "Le imprese chiedono interventi stabili contro l'aumento dei costi.",
+        "Il governo sottolinea sostegni economici e necessità di liberare le strade."
+      ],
+      "unknowns": [
+        "È incerto se le concessioni eviteranno nuove proteste dopo il tavolo del 27 ottobre."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Truckers ease blockades amid new aid",
+          "url": "https://www.reuters.com/world/southern-italy-truckers-ease-protests-government-lines-up-aid-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Calabria delivery routes begin returning to normal",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/protesta-tir-verso-normalizzazione-in-calabria-in-attesa-del-27-ottobre_ad4b63b0-66b9-41e7-9c79-50e3393cc6ed.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/italy-hauliers-fuel-protests.svg",
+        "alt": "Illustrazione editoriale simbolica per: Autotrasporto, diminuiscono i blocchi nel Sud Italia dopo gli aiuti",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/italy-hauliers-fuel-protests.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "helium-critical-material",
+      "rank": 10,
+      "category": "technology",
+      "title": "Elio materiale critico negli USA: preoccupazioni per la filiera dei chip",
+      "dek": "Washington rafforza l'attenzione su un gas usato in semiconduttori, energia e processi industriali.",
+      "summary": "Il Dipartimento dell'Energia degli Stati Uniti ha classificato l'elio come materiale critico. La misura riconosce l'importanza industriale del gas e la vulnerabilità di alcune catene di fornitura. Euronews segnala pressioni su approvvigionamenti europei dovute anche alle tensioni internazionali. La designazione non significa che le forniture siano già esaurite.",
+      "facts": [
+        "Il Dipartimento dell'Energia statunitense ha annunciato la nuova classificazione il 23 ottobre.",
+        "L'elio è impiegato in processi industriali inclusa la fabbricazione di semiconduttori."
+      ],
+      "perspectives": [
+        "Washington collega la decisione alla resilienza manifatturiera e alla sicurezza delle forniture.",
+        "Gli importatori europei sono esposti alle interruzioni e ai limiti all'esportazione in vari mercati."
+      ],
+      "unknowns": [
+        "Entità, durata e ricadute dei possibili deficit di offerta variano per paese e settore."
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "US Department of Energy labels helium critical",
+          "url": "https://www.reuters.com/business/energy/us-energy-department-designates-helium-critical-material-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Europe faces helium supply pressure",
+          "url": "https://it.euronews.com/2026/10/23/usa-lelio-e-materiale-critico-europa-a-corto-di-forniture",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/helium-critical-material.svg",
+        "alt": "Illustrazione editoriale simbolica per: Elio materiale critico negli USA: preoccupazioni per la filiera dei chip",
+        "credit": "Oggettivizzatore",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/helium-critical-material.svg",
+        "license": "Original editorial artwork",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
