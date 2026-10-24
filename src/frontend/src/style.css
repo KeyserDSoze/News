@@ -316,3 +316,25 @@
  .article-main .article-summary-heading{flex-direction:row;align-items:center;gap:13px}
  .article-main .article-summary .summary-bullet{font-size:28px}
 }
+
+
+/* Prevent header controls from colliding on narrow mobile screens. */
+@media(max-width:650px){
+ .masthead{gap:8px}
+ .masthead .o-brand{flex:1 1 auto;min-width:0;overflow:hidden}
+ .masthead .brand-definition{min-width:0;overflow:hidden}
+ .masthead .brand-definition small{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+ .masthead .header-actions{gap:5px;flex:0 0 auto;min-width:0}
+ .masthead .header-search{width:35px;min-width:35px;justify-content:center;padding:0}
+ .masthead .language-menu{flex:0 0 auto}
+ .masthead .language-menu .lang-btn{width:46px;min-height:35px;height:35px;padding:0 4px;gap:3px;font-size:10px}
+ .masthead .language-menu .lang-btn svg:first-child{display:none}
+ .masthead .language-menu .lang-btn svg:last-child{width:12px}
+ .masthead .icon-btn{width:35px;flex:0 0 35px}
+ .masthead .app-menu{flex:0 0 35px}
+ .masthead .app-menu .menu-open{width:35px}
+}
+@media(max-width:360px){
+ .masthead .brand-definition small:last-child{display:none}
+ .masthead .o-brand .wordmark-symbol{flex-shrink:0}
+}
