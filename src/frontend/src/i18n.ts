@@ -2,7 +2,7 @@ import type { Locale, Section } from './types';
 export const messages = {
   it: {
     name:'Oggettivizzatore', definition:'O come Oggettivizzatore. O come zero.',
-    impactLabel:'Impatto', impactScope:{world:'globale',italy:'nazionale',technology:'tecnologico',science:'scientifico'},
+    search:'Cerca',searchTitle:'Cerca nell’archivio',searchPlaceholder:'Cerca parole nelle notizie',searchTag:'Tag', searchFrom:'Da',searchTo:'A', searchGo:'Cerca',searchClear:'Azzera filtri',searchAll:'Tutte le sezioni',searchHint:'Senza filtri, O consulta e conserva localmente l’ultimo anno di notizie.',searchResults:'risultati',searchLoading:'Scaricamento e indicizzazione',searchCache:'Edizioni conservate sul dispositivo',searchNone:'Nessun risultato per questi filtri.',searchError:'Non è stato possibile scaricare alcune edizioni. I risultati potrebbero essere incompleti.',searchOffline:'Ricerca locale, senza account o tracciamento',searchDates:'Filtra per date precise',searchOpen:'Apri la ricerca',tagLabel:'Argomenti',impactLabel:'Impatto', impactScope:{world:'globale',italy:'nazionale',technology:'tecnologico',science:'scientifico'},
     tagline:'Zero pubblicità. Zero titoli sensazionalistici.', subtitle:'Una rassegna dei fatti, senza rumore.',
     strapline:'IL GIORNALE DEI FATTI', today:'IN PRIMO PIANO', edition:'EDIZIONE',
     issue:'La rassegna del giorno', sources:'Fonti', facts:'Fatti verificabili', perspectives:'Dichiarazioni e punti di vista', unknowns:'Cosa non sappiamo',
@@ -26,7 +26,7 @@ export const messages = {
   },
   en: {
     name:'Objectivizer', definition:'O for Objectivizer. O for zero.',
-    impactLabel:'Impact', impactScope:{world:'global',italy:'national',technology:'technology sector',science:'scientific research'},
+    search:'Search',searchTitle:'Search the archive',searchPlaceholder:'Search words in articles',searchTag:'Tag', searchFrom:'From',searchTo:'To', searchGo:'Search',searchClear:'Clear filters',searchAll:'All sections',searchHint:'Without filters, O downloads and locally stores up to one year of editions.',searchResults:'results',searchLoading:'Downloading and indexing',searchCache:'Editions stored on this device',searchNone:'No stories match these filters.',searchError:'Some editions could not be loaded. Results may be incomplete.',searchOffline:'Local search, no account or tracking',searchDates:'Filter by precise dates',searchOpen:'Open search',tagLabel:'Topics',impactLabel:'Impact', impactScope:{world:'global',italy:'national',technology:'technology sector',science:'scientific research'},
     tagline:'Zero ads. Zero sensational headlines.', subtitle:'The facts, without the noise.',
     strapline:'THE FACTS JOURNAL', today:'TOP STORIES', edition:'EDITION',
     issue:'The daily briefing', sources:'Sources', facts:'Established facts', perspectives:'Statements and perspectives', unknowns:'What remains unknown',

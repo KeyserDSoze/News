@@ -40,7 +40,9 @@ for(const day of dates) {
     if(!Number.isInteger(a.rank)||a.rank<1||a.rank>quotas[section]||ranks.has(a.rank))fail(where+' invalid rank');
     ranks.add(a.rank);
     for(const k of ['title','dek','summary','impactReason'])requireText(a[k],where+' '+k);
-    if(!Number.isInteger(a.impact)||a.impact<1||a.impact>5)fail(where+' impact must be an integer 1..5');
+    if(typeof a.impact!=='number'||!Number.isInteger(a.impact*2)||a.impact<0.5||a.impact>5)fail(where+' impact must be 0.5..5 in half-star increments');
+    if(!Array.isArray(a.tags)||a.tags.length!==3||new Set(a.tags.map(t=>t.toLocaleLowerCase('en'))).size!==3)fail(where+' must have exactly 3 unique tags');
+    a.tags.forEach(t=>{if(typeof t!=='string'||!/^[\\p{L}\\p{N}-]{2,30}$/u.test(t))fail(where+' invalid tag '+t);});
     if(!['world','politics','economy','technology','climate','society'].includes(a.category))fail(where+' invalid category');
     for(const k of ['facts','perspectives','unknowns']){
       if(!Array.isArray(a[k])||!a[k].length)fail(where+' '+k+' missing');
@@ -95,7 +97,7 @@ for(const [key,a] of all){
    if(articleKey(related.date,related.section,related.id)===key)fail(key+' references itself');
  }
 }
-const index={version:2,dates:[...new Set(Object.values(availability).flat())].sort().reverse(),sections:availability};
+const index={version:3,revision:process.env.GITHUB_SHA?.slice(0,12)||'local',dates:[...new Set(Object.values(availability).flat())].sort().reverse(),sections:availability};
 if(!checkOnly){
  await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});
  for(const day of dates)await cp(path.join(news,day),path.join(output,day),{recursive:true});
