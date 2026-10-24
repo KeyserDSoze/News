@@ -1,0 +1,30 @@
+{
+  "releases": [
+    {
+      "version": "0.0.1",
+      "date": "2026-10-24",
+      "it": {
+        "title": "O diventa un'app installabile",
+        "highlights": [
+          "Puoi installare O su Android, iPhone e altri dispositivi compatibili come app web.",
+          "Ogni sezione e l'intero articolo si possono copiare in Markdown.",
+          "Ascolto vocale per sezione e per l'intero articolo, con i comandi pausa, riprendi e interrompi.",
+          "Nuovo menu con versione, cronologia delle release e istruzioni di installazione.",
+          "Aggiornamenti automatici dell'app alle nuove pubblicazioni mediante service worker."
+        ],
+        "details": "La prima versione ufficiale conserva le quattro rassegne, le fonti attribuite e la ricerca locale già presenti."
+      },
+      "en": {
+        "title": "O becomes an installable app",
+        "highlights": [
+          "Install O on Android, iPhone and compatible devices as a web app.",
+          "Copy the full article or individual sections in Markdown.",
+          "Listen to each section or the whole article, with pause, resume and stop controls.",
+          "A new menu shows the version, release history and installation instructions.",
+          "Automatic app updates on new deployments using a service worker."
+        ],
+        "details": "The first official version builds on the existing four briefings, credited sources and local search."
+      }
+    }
+  ]
+}
