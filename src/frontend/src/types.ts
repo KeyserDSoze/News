@@ -15,7 +15,7 @@ export interface Article {
   sources: Source[]; image: Image;
 }
 export interface Edition { date: string; language: Locale; section?: Section; publishedAt: string; editorialNote: string; articles: Article[]; }
-export interface NewsIndex { version: number; dates: string[]; sections: Record<Section,string[]>; }
+export interface NewsIndex { version: number; revision?: string; dates: string[]; sections: Record<Section,string[]>; }
 export interface StoryPreview extends StoryRef { title: string; dek: string; summary: string; category: Category; threadId?: string; threadRecap?: string; related?: StoryRef[]; }
 export interface StoryIndex { version: number; language: Locale; stories: StoryPreview[]; }
 export function storyKey(ref: StoryRef) { return `${ref.date}/${ref.section}/${ref.id}`; }
