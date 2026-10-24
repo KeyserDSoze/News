@@ -149,7 +149,10 @@ test('opening a story does not stop a briefing, but selecting another narration 
  await world.getByRole('button',{name:'Ascolta la rassegna'}).click();
  const dock=page.getByRole('region',{name:'Lettore audio attivo'});
  await expect(dock).toContainText('Rassegna Mondo');
- const oldPending=await page.evaluate(()=>(window as unknown as {speechPending:unknown}).speechPending);
+ await page.evaluate(()=>{
+  const win=window as unknown as {speechPending:unknown;obsoleteSpeech:unknown};
+  win.obsoleteSpeech=win.speechPending;
+ });
  const cancelsBefore=await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels);
  await world.locator('article.story h3 a').first().click();
  await expect(page).toHaveURL(/\/article\/world\//);
@@ -162,9 +165,9 @@ test('opening a story does not stop a briefing, but selecting another narration 
  await expect(dock).not.toContainText('Rassegna Mondo');
  expect(await page.evaluate(()=>(window as unknown as {speechCancels:number}).speechCancels)).toBe(cancelsBefore+1);
  // A delayed event from the cancelled utterance must not resurrect the previous edition.
- await page.evaluate((obsolete)=>{
-  (obsolete as {onend?:()=>void}).onend?.();
- },oldPending);
+ await page.evaluate(()=>{
+  (window as unknown as {obsoleteSpeech?:{onend?:()=>void}}).obsoleteSpeech?.onend?.();
+ });
  await expect(dock).toContainText('Testo della notizia');
  await page.getByRole('navigation',{name:'Sezioni'}).getByRole('link',{name:/Italia/}).click();
  await expect(dock).toContainText('Testo della notizia');
