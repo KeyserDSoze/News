@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-24",
+  "section": "italy",
+  "language": "it",
+  "publishedAt": "2026-10-24T12:30:00+02:00",
+  "editorialNote": "Rassegna Italia del 24 ottobre: cinque sviluppi nazionali documentati, con impatto editoriale motivato.",
+  "articles": [
+    {
+      "id": "cortei-perquisizioni-italia",
+      "rank": 1,
+      "category": "society",
+      "impact": 4,
+      "impactReason": "Impatto nazionale per ordine pubblico e libertà civili in diverse città.",
+      "title": "Cortei in Italia, oltre 150 perquisizioni prima delle manifestazioni",
+      "dek": "Controlli fra Milano e altre città mentre gruppi diversi organizzano proteste su carovita, riarmo e sicurezza.",
+      "summary": "ANSA riferisce più di 150 perquisizioni a Milano, Monza e in circa venti città dopo i disordini del fine settimana precedente. Diversi cortei sono annunciati per il 24 ottobre. Le misure investigative sono collegate a una chat acquisita dalla polizia, ma una perquisizione non equivale a una condanna né dimostra il coinvolgimento di ogni partecipante alle manifestazioni.",
+      "body": [
+        "A Milano, le forze dell'ordine presidiano aree centrali e alcuni esercizi proteggono le vetrine. A Torino è previsto un appuntamento pomeridiano per una mobilitazione con richieste su casa, istruzione, salute e costi energetici. Le iniziative nascono da organizzazioni diverse: non sono un unico movimento con un'unica piattaforma.",
+        "Il confronto politico riguarda il confine tra prevenzione di episodi violenti e libertà di manifestazione. Le fonti raccontano un dispositivo di sicurezza ampio; per valutare il risultato andranno considerati separatamente numero di partecipanti, eventuali incidenti e provvedimenti giudiziari."
+      ],
+      "facts": [
+        "Sono state comunicate oltre 150 perquisizioni in diverse città.",
+        "Per il 24 ottobre risultano programmati più cortei con obiettivi differenti."
+      ],
+      "perspectives": [
+        "Le autorità motivano i controlli con rischi di disordini; organizzatori e partecipanti rivendicano la possibilità di manifestare pacificamente."
+      ],
+      "unknowns": [
+        "Al momento degli aggiornamenti del mattino non sono verificabili affluenza finale, incidenti eventuali e responsabilità individuali."
+      ],
+      "questions": [
+        {
+          "question": "La perquisizione prova un reato?",
+          "answer": "No: è un atto di indagine, non un accertamento definitivo di colpevolezza."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Oltre 150 perquisizioni e manifestazioni in più città",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-oltre-150-perquisizioni-a-milano-e-in-altre-20-citta.-oggi-le-nuove-manifestazioni_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Preparativi e controlli per le manifestazioni a Genova",
+          "url": "https://www.rainews.it/tgr/liguria/video/2026/10/attesa-per-la-manifestazione-di-genova-annunciata-per-sabato-24-ottobre-b0f88f1b-af48-44df-a6e8-c974e4c5ddae.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/cortei-perquisizioni-italia.svg",
+        "alt": "Illustrazione originale simbolica sulla notizia: Cortei in Italia, oltre 150 perquisizioni prima delle manifestazioni",
+        "credit": "O — illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/cortei-perquisizioni-italia.svg",
+        "license": "Opera grafica originale, nessuna immagine di agenzia",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "italy-nationwide-demonstrations"
+        }
+      ]
+    },
+    {
+      "id": "sud-rientro-merci-carburante",
+      "rank": 2,
+      "category": "economy",
+      "impact": 4,
+      "impactReason": "Rilevante su scala nazionale per approvvigionamenti, trasporto merci ed economia delle famiglie.",
+      "title": "Autotrasporto, ripartono le consegne nel Sud ma restano carenze",
+      "dek": "Rimosse le proteste sulle strade della Campania; supermercati e distributori non recuperano immediatamente le scorte.",
+      "summary": "Gli autotrasportatori hanno rimosso diversi blocchi nella notte tra il 22 e il 23 ottobre, ma nelle ore successive in Campania sono proseguite file ai distributori e ritardi nella disponibilità di prodotti freschi. RaiNews segue le conseguenze sui rifornimenti, comprese limitazioni al carburante per alcuni aeroporti. La ripresa dei trasporti non coincide con il ritorno istantaneo alla normalità.",
+      "body": [
+        "La distribuzione dipende da una catena di consegne e magazzini: sciogliere un presidio autostradale permette ai mezzi di muoversi, ma occorrono turni e tempo perché le scorte raggiungano scaffali e pompe. In Calabria le forniture sono riprese gradualmente, con differenze tra territori.",
+        "Il settore reclama una risposta strutturale al rincaro del gasolio e mantiene il confronto col ministero fissato al 27 ottobre. Il governo sostiene di aver destinato risorse aggiuntive. Le rispettive dichiarazioni non dimostrano che la vertenza sia risolta."
+      ],
+      "facts": [
+        "ANSA riferisce la rimozione dei blocchi campani e la graduale normalizzazione in Calabria.",
+        "Permangono disagi agli approvvigionamenti e in alcuni distributori."
+      ],
+      "perspectives": [
+        "Trasportatori e governo valutano diversamente l'adeguatezza degli aiuti."
+      ],
+      "unknowns": [
+        "Non è ancora noto quando la distribuzione tornerà uniforme in tutte le aree interessate."
+      ],
+      "questions": [
+        {
+          "question": "La fine dei blocchi significa rifornimenti pienamente ripristinati?",
+          "answer": "No: le catene logistiche hanno tempi di recupero e situazioni locali differenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Rimossi i blocchi stradali dei tir in Campania",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/rimossi-nella-notte-i-blocchi-stradali-dei-tir-in-campania_2a4c0046-f2d4-422d-b4f6-bf8fc350b64d.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Protesta tir, carburanti e approvvigionamenti nel Mezzogiorno",
+          "url": "https://www.rainews.it/maratona/2026/10/emergenza-sud-carburanti-blocchi-protesta-autotrasportatori-disagi-rete-nazionale-98e37f72-f0b7-4f2e-8ea3-22387b9eeb63.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/sud-rientro-merci-carburante.svg",
+        "alt": "Illustrazione originale simbolica sulla notizia: Autotrasporto, ripartono le consegne nel Sud ma restano carenze",
+        "credit": "O — illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/sud-rientro-merci-carburante.svg",
+        "license": "Opera grafica originale, nessuna immagine di agenzia",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "italy-hauliers-fuel-protests"
+        }
+      ],
+      "threadId": "italy-fuel-costs",
+      "threadRecap": "Dopo le proteste sul caro gasolio, tra il 23 e il 24 ottobre la distribuzione nel Sud è ripresa gradualmente; le richieste economiche degli autotrasportatori restano aperte."
+    },
+    {
+      "id": "disuguaglianza-redditi-eurostat",
+      "rank": 3,
+      "category": "economy",
+      "impact": 4,
+      "impactReason": "Conseguenze nazionali diffuse per il dibattito su redditi, welfare e distribuzione della crescita.",
+      "title": "Redditi, in Italia diminuisce la disuguaglianza ma resta sopra la media UE",
+      "dek": "Secondo Eurostat il coefficiente di Gini italiano scende a 31,0 nel 2025; la media europea è 29,2.",
+      "summary": "Le tabelle Eurostat diffuse il 23 ottobre e riprese il 24 da ANSA indicano che l'indice Gini del reddito disponibile in Italia è passato da 32,2 del 2024 a 31,0 nel 2025. Il dato è il più basso dal 2014, ma superiore alla media dell'Unione europea, che è scesa da 29,4 a 29,2. L'indice non descrive da solo povertà assoluta o livello dei salari.",
+      "body": [
+        "Un coefficiente di Gini pari a zero corrisponde alla perfetta uguaglianza nella distribuzione del reddito; un valore più alto corrisponde a maggiore disuguaglianza. La lettura per età evidenzia in Italia un indice per gli under 18 pari a 29,3, inferiore al 31,1 dell'anno precedente.",
+        "Un miglioramento nella distribuzione non significa automaticamente che tutte le famiglie siano più ricche. Per valutare la condizione materiale occorre confrontare redditi reali, prezzi, condizioni lavorative e rischio di povertà."
+      ],
+      "facts": [
+        "Il Gini italiano stimato per il 2025 è 31,0, contro 32,2 nel 2024.",
+        "Il dato aggregato europeo è 29,2 nel 2025."
+      ],
+      "perspectives": [
+        "Il calo è un segnale di minore disparità relativa; da solo non misura il potere d'acquisto."
+      ],
+      "unknowns": [
+        "Occorre approfondire differenze territoriali, salari reali e condizione delle famiglie."
+      ],
+      "questions": [
+        {
+          "question": "Meno disuguaglianza equivale a meno povertà?",
+          "answer": "Non necessariamente: sono indicatori diversi e possono muoversi in direzioni differenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Eurostat",
+          "title": "EU income inequality: Gini coefficient at 29.2 in 2025",
+          "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261023-2",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Gini italiano al 31,0 nel 2025, media UE 29,2",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/24/eurostat-disuguaglianza-redditi-in-italia-ai-minimi-da-2014-ma-resta-oltre-media-ue_51cebd88-4753-4d67-b0f0-bbc25a46d832.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/disuguaglianza-redditi-eurostat.svg",
+        "alt": "Illustrazione originale simbolica sulla notizia: Redditi, in Italia diminuisce la disuguaglianza ma resta sopra la media UE",
+        "credit": "O — illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/disuguaglianza-redditi-eurostat.svg",
+        "license": "Opera grafica originale, nessuna immagine di agenzia",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "sciame-sismico-tirreno-eolie",
+      "rank": 4,
+      "category": "climate",
+      "impact": 3,
+      "impactReason": "Rilevanza regionale elevata e monitoraggio nazionale; i danni non sono dimostrati dai dati citati.",
+      "title": "Sicilia, continua lo sciame sismico nel Tirreno meridionale",
+      "dek": "INGV registra nuove scosse al largo delle Eolie; i numeri diffusi sono fotografie di momenti diversi.",
+      "summary": "Dopo un terremoto più forte del 23 ottobre, la rete sismica INGV continua a registrare eventi nel Tirreno meridionale. Un evento del 24 ottobre alle 05:13 ora italiana risulta nella scheda INGV con magnitudo locale 3,4 e profondità indicata di 10 km. Adnkronos riferisce decine di scosse nella notte, mentre i conteggi cambiano con l'arrivo di nuove rilevazioni.",
+      "body": [
+        "Uno sciame è una sequenza di eventi ravvicinati nello spazio e nel tempo. La magnitudo descrive la dimensione fisica di un singolo terremoto e non può, da sola, prevedere le caratteristiche della scossa successiva. Le rilevazioni vengono riviste quando sono disponibili dati aggiuntivi.",
+        "Le autorità di protezione civile monitorano eventuali conseguenze sulle coste; fonti locali descrivono preoccupazione dopo le scosse precedenti. Occorre distinguere la sorveglianza precauzionale da un annuncio di danni accertati."
+      ],
+      "facts": [
+        "L'INGV documenta numerosi eventi nell'area del Tirreno meridionale.",
+        "Le magnitudo e i conteggi si aggiornano man mano che gli eventi sono elaborati."
+      ],
+      "perspectives": [
+        "Il monitoraggio è prudenziale e non equivale a una previsione certa di scosse future."
+      ],
+      "unknowns": [
+        "Non è possibile determinare in anticipo se la sequenza proseguirà o con quale intensità."
+      ],
+      "questions": [
+        {
+          "question": "Una sequenza sismica permette di prevedere esattamente la prossima scossa?",
+          "answer": "No: non esiste un metodo affidabile per prevederne ora, luogo e intensità esatti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "INGV",
+          "title": "Terremoto nel Tirreno meridionale registrato il 24 ottobre",
+          "url": "https://terremoti.ingv.it/event/47618722",
+          "publishedAt": "2026-10-24",
+          "role": "official"
+        },
+        {
+          "outlet": "Adnkronos",
+          "title": "Decine di scosse nel Tirreno meridionale e alle Eolie",
+          "url": "https://www.adnkronos.com/cronaca/terremoto-sicilia-oggi-sciame-sismico-palermo-ultime-news_5rET6j9UuuB2l2l5koXw32",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ilSicilia.it",
+          "title": "Attività sismica nel Tirreno meridionale il 24 ottobre",
+          "url": "https://ilsicilia.it/sciame-sismico-nel-tirreno-meridionale-da-stanotte-registrate-altre-44-scosse/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/sciame-sismico-tirreno-eolie.svg",
+        "alt": "Illustrazione originale simbolica sulla notizia: Sicilia, continua lo sciame sismico nel Tirreno meridionale",
+        "credit": "O — illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/sciame-sismico-tirreno-eolie.svg",
+        "license": "Opera grafica originale, nessuna immagine di agenzia",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "adrenalina-spray-nasale-italia",
+      "rank": 5,
+      "category": "society",
+      "impact": 3,
+      "impactReason": "Possibile beneficio clinico nazionale per persone a rischio, pur con criteri d'uso specifici.",
+      "title": "Anafilassi, disponibile in Italia una nuova formulazione nasale di adrenalina",
+      "dek": "Lo spray senza ago affianca gli autoiniettori; sono previsti limiti di impiego e valutazione medica.",
+      "summary": "La Società italiana di allergologia ha annunciato la disponibilità italiana di adrenalina in spray nasale per le emergenze anafilattiche, dopo i passaggi regolatori. Al momento la formulazione descritta dalle fonti è destinata a persone con peso di almeno 30 chilogrammi. La terapia è alternativa alla somministrazione intramuscolare nei casi selezionati, non un invito a gestire emergenze senza soccorsi.",
+      "body": [
+        "L'anafilassi può provocare rapidamente difficoltà respiratorie e cali pressori: la rapidità di intervento è importante. L'assenza di ago potrebbe aiutare le persone che esitano a usare l'autoiniettore per paura o scarsa familiarità, ma gli esperti chiedono di valutare l'idoneità del paziente e le corrette modalità di utilizzo.",
+        "La formulazione pediatrica destinata ai bambini più piccoli è indicata come in arrivo in primavera. In ogni caso l'uso deve seguire prescrizione, istruzioni e indicazioni dei servizi di emergenza."
+      ],
+      "facts": [
+        "Le società scientifiche italiane hanno annunciato la disponibilità del farmaco intranasale.",
+        "L'opzione descritta è per persone con peso di almeno 30 kg."
+      ],
+      "perspectives": [
+        "Gli specialisti la presentano come possibile strumento per ridurre i ritardi legati alla paura dell'ago."
+      ],
+      "unknowns": [
+        "L'effetto sui tempi reali d'intervento richiede dati d'impiego e monitoraggio della pratica clinica."
+      ],
+      "questions": [
+        {
+          "question": "Lo spray sostituisce sempre i soccorsi medici?",
+          "answer": "No. L'anafilassi è un'emergenza e richiede le procedure di assistenza previste dai sanitari."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Arriva in Italia il primo spray nasale di adrenalina",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/22/arriva-in-italia-primo-spray-nasale-di-adrenalina-contro-shock-anafilattico_5119aa83-5b13-4a5b-8737-4dd636952679.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Adnkronos",
+          "title": "Spray di adrenalina disponibile in Italia per anafilassi",
+          "url": "https://www.adnkronos.com/salute/choc-anafilattico-primo-spray-nasale-italia_29rgtyQgrDQ5llLxDQicaH",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-24/assets/adrenalina-spray-nasale-italia.svg",
+        "alt": "Illustrazione originale simbolica sulla notizia: Anafilassi, disponibile in Italia una nuova formulazione nasale di adrenalina",
+        "credit": "O — illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/adrenalina-spray-nasale-italia.svg",
+        "license": "Opera grafica originale, nessuna immagine di agenzia",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
