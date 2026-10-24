@@ -38,8 +38,8 @@ export function buildArticleExports(article:Article,locale:Locale,section:Sectio
       story.related?.some(ref=>ref.date===date&&ref.section===section&&ref.id===key));
   });
   if(related.length){
-    parts.push(makePart('related',t.connected,'## '+t.connected+'\\n\\n'+related.map(story=>
-      '- ['+md(story.title)+']('+baseUrl()+storyHref(story)+') — '+md(story.dek)).join('\\n'),
+    parts.push(makePart('related',t.connected,'## '+t.connected+'\n\n'+related.map(story=>
+      '- ['+md(story.title)+']('+baseUrl()+storyHref(story)+') — '+md(story.dek)).join('\n'),
       t.connected+'. '+related.map(story=>story.title+'. '+story.dek).join('. ')));
   }
  }

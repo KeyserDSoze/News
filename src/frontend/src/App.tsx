@@ -191,6 +191,7 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
           <div className="context-panel perspectives-panel"><h3>{t.perspectives}</h3>{controls("perspectives")}<ul>{article.perspectives.map((p,i)=><li key={i}>{p}</li>)}</ul></div>
         </section>
         {controls("dossier")}
+        {controls("related")}
         <StoryRelationships article={article} date={route.date} section={route.section} locale={locale} index={index}/>
         <div className="sources-export-actions">{controls("sources")}</div>
         <Sources article={article} locale={locale}/>
