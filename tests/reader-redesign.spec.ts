@@ -84,6 +84,13 @@ test('article tools are sticky on desktop and do not repeat controls in summary 
   const rail=page.locator('.article-aside');
   await expect(rail).toBeVisible();
   expect(await rail.evaluate(el=>getComputedStyle(el).position)).toBe('sticky');
+  expect(await rail.evaluate(el=>getComputedStyle(el).marginTop)).toBe('32px');
+  // The rail must begin below the desk tabs rather than touching their border.
+  const nav=await page.locator('.four-nav').boundingBox();
+  const sidebar=await rail.boundingBox();
+  expect(nav).not.toBeNull();
+  expect(sidebar).not.toBeNull();
+  expect(sidebar!.y-nav!.y-nav!.height).toBeGreaterThanOrEqual(28);
   await page.evaluate(()=>window.scrollTo(0,800));
   await expect(rail.getByRole('button',{name:'Condividi'})).toBeVisible();
  }else{

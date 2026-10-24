@@ -21,3 +21,6 @@ Prefetching full editions grows browser storage use but requires no extra JSON r
 
 ## Verification
 Playwright checks language menu behaviour, five-step meter and half scores, preloading to IndexedDB, offline article entry and search reuse, speech language, one body-only audio action, Markdown success reset, sticky toolbar, mobile layout, and existing archive/back-navigation behaviour.
+
+## Visual refinement — 2026-10-25 (v0.0.5)
+The desktop sticky article action rail starts with 32px of top margin so it does not touch the desk navigation border. Its sticky offset stays at 22px, keeping actions accessible when scrolling; mobile controls are unaffected. A computed-style and navigation-gap check in Playwright protects this minimal spacing choice.

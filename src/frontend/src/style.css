@@ -243,7 +243,7 @@
 .impact-compact .impact-pips>span{width:8px;transform:scaleY(.83);transform-origin:bottom}
 .article-hero{padding-top:35px;padding-bottom:30px}
 .article-mobile-controls{display:none}
-.article-aside{position:sticky;top:22px;align-self:start}
+.article-aside{position:sticky;top:22px;align-self:start;margin-top:32px}
 .command-panel{
   background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--accent);
   padding:19px 18px;max-width:100%;color:var(--text)

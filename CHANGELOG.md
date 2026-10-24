@@ -2,6 +2,18 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.5] — 2026-10-25
+
+**Italiano — Più respiro ai comandi**
+
+- Aggiunti 32 px di margine superiore alla pulsantiera laterale delle notizie, per separarla visivamente dalla navigazione delle quattro rubriche.
+- Invariati comportamento sticky, accessibilità e layout mobile.
+
+**English — Reading controls with more breathing room**
+
+- Added a 32px top margin to the desktop article action panel, separating it from the desk navigation.
+- Sticky scrolling, accessibility and mobile layout are unchanged.
+
 ## [0.0.4] — 2026-10-25
 
 **Italiano — Solo le notizie e ritorno al punto esatto**

@@ -1,6 +1,26 @@
 {
   "releases": [
     {
+      "version": "0.0.5",
+      "date": "2026-10-25",
+      "it": {
+        "title": "La pulsantiera respira",
+        "highlights": [
+          "La pulsantiera laterale degli articoli parte 32 pixel più in basso, staccata dalla barra delle quattro rubriche.",
+          "Conservato il comportamento sticky durante lo scorrimento; la disposizione mobile non cambia."
+        ],
+        "details": "Una piccola rifinitura degli spazi per favorire la gerarchia visiva senza aggiungere componenti o contenuti."
+      },
+      "en": {
+        "title": "Breathing room for reading controls",
+        "highlights": [
+          "The article's desktop action panel starts 32 pixels below the desk navigation instead of touching the dividing line.",
+          "Sticky positioning remains active during scrolling; mobile controls are unchanged."
+        ],
+        "details": "A small spacing refinement to clarify the visual hierarchy without introducing new components or content."
+      }
+    },
+    {
       "version": "0.0.4",
       "date": "2026-10-25",
       "it": {
