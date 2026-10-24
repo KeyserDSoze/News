@@ -42,8 +42,12 @@ test('back from search article restores filters and scroll position',async({page
   const article=page.locator('.search-result h2 a').nth(4);
   await article.evaluate(element=>element.scrollIntoView({block:'center',behavior:'instant'}));
   await expect(article).toBeInViewport();
-  const y=await page.evaluate(()=>scrollY);
+  // Record the actual tap position: Playwright can auto-scroll the link immediately before pointerdown on mobile.
+  await page.evaluate(()=>window.addEventListener('pointerdown',()=>{
+    sessionStorage.setItem('o-test-tap-scroll',String(window.scrollY));
+  },{once:true}));
   await article.click();
+  const y=await page.evaluate(()=>Number(sessionStorage.getItem('o-test-tap-scroll')));
   await expect(page).toHaveURL(/\/News\/article\//);
   await page.goBack();
   await expect(page.locator('.search-result')).toHaveCount(30);

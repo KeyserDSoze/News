@@ -298,6 +298,25 @@ export default function App(){
     };
   },[]);
   useEffect(()=>{
+    let raw:string|null=null;
+    try{raw=sessionStorage.getItem('o-reload-scroll');sessionStorage.removeItem('o-reload-scroll');}catch{}
+    if(raw===null)return;
+    const destination=currentPath(),desired=Number(raw);
+    if(!Number.isFinite(desired)||desired<0)return;
+    let cancelled=false;
+    const cancelledByUser=()=>{cancelled=true;};
+    window.addEventListener('wheel',cancelledByUser,{passive:true});
+    window.addEventListener('touchstart',cancelledByUser,{passive:true});
+    const timers=[80,250,650,1400].map(ms=>window.setTimeout(()=>{
+      if(!cancelled&&currentPath()===destination)window.scrollTo({top:desired,left:0,behavior:'instant'});
+    },ms));
+    return()=>{
+      timers.forEach(window.clearTimeout);
+      window.removeEventListener('wheel',cancelledByUser);
+      window.removeEventListener('touchstart',cancelledByUser);
+    };
+  },[]);
+  useEffect(()=>{
     document.documentElement.dataset.theme=theme;document.documentElement.lang=locale;
     document.title='O — '+(route.kind==='search'?t.search:route.kind==='releases'?(locale==='it'?'Note di rilascio':'Release notes'):route.kind==='article'?'News':sectionName(selected,locale));
     try{localStorage.setItem('og-theme',theme);localStorage.setItem('og-language',locale);}catch{}
