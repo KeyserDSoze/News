@@ -53,8 +53,8 @@ test('old and new fuel-price articles link through a shared chronology',async({p
   await expect(page.getByRole('heading',{name:'La vicenda, giorno per giorno'})).toBeVisible();
   const timeline=page.locator('.timeline');
   await expect(timeline.locator('.timeline-item')).toHaveCount(3);
-  await timeline.getByRole('link',{name:/Autotrasporto/}).click();
-  await expect(page).toHaveURL(/2026-10-24\/italy-hauliers-fuel-protests/);
+  await timeline.getByRole('link',{name:/Autotrasporto, ripartono le consegne/}).click();
+  await expect(page).toHaveURL(/article\/italy\/2026-10-24\/sud-rientro-merci-carburante/);
   await expect(page.locator('.timeline').getByRole('link',{name:/Carburanti, Eni/})).toBeVisible();
 });
 test('Starlink cross-section continuation also links back to the old World article',async({page})=>{
