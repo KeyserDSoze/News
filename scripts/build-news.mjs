@@ -1,66 +1,105 @@
 import { readFile, readdir, cp, mkdir, rm, writeFile, access } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const source = path.join(root,'news');
-const target = path.join(root,'src/frontend/public/news');
-const checkOnly = process.argv.includes('--check');
-const fail = message => { throw new Error('NEWS VALIDATION: ' + message); };
-const isDate = text => /^\d{4}-\d{2}-\d{2}$/.test(text) && !Number.isNaN(Date.parse(text+'T00:00:00Z'));
-const requireText = (value,where) => { if(typeof value !== 'string' || value.trim().length < 2) fail(where+' missing'); };
-const checkHttp = (value,where) => { if(typeof value !== 'string' || !/^https:\/\//.test(value)) fail(where+' must be an HTTPS URL'); };
-const folders = (await readdir(source,{withFileTypes:true})).filter(x=>x.isDirectory()&&isDate(x.name)).map(x=>x.name).sort().reverse();
-if(!folders.length) fail('At least one dated edition required');
-for(const day of folders) {
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const news=path.join(root,'news'),output=path.join(root,'src/frontend/public/news');
+const checkOnly=process.argv.includes('--check');
+const sections=['world','italy','technology','science'];
+const quotas={world:10,italy:5,technology:5,science:5};
+const fail=message=>{throw new Error('NEWS VALIDATION: '+message);};
+const requireText=(val,where)=>{if(typeof val!=='string'||val.trim().length<2)fail(where+' is required');};
+const https=(val,where)=>{if(typeof val!=='string'||!val.startsWith('https://'))fail(where+' must be HTTPS');};
+const dates=(await readdir(news,{withFileTypes:true})).filter(x=>x.isDirectory()&&/^\d{4}-\d{2}-\d{2}$/.test(x.name)&&!Number.isNaN(Date.parse(x.name+'T00:00:00Z'))).map(x=>x.name).sort().reverse();
+if(!dates.length)fail('At least one edition is required');
+const availability=Object.fromEntries(sections.map(s=>[s,[]]));
+const storiesByLocale={it:[],en:[]},all=new Map(),localized=new Map();
+const articleKey=(d,s,id)=>[d,s,id].join('/');
+async function available(day,section,lang){
+  const relative=section==='world'?day+'/'+lang+'.json':day+'/'+section+'/'+lang+'.json';
+  try{await access(path.join(news,relative));return true;}catch{return false;}
+}
+for(const day of dates) {
+ for(const section of sections) {
+  const isItalian=await available(day,section,'it'),isEnglish=await available(day,section,'en');
+  if(isItalian!==isEnglish)fail(day+'/'+section+' requires both language editions');
+  if(!isItalian)continue;
+  availability[section].push(day);
   const editions=[];
-  for(const language of ['it','en']) {
-    const p = path.join(source,day,language+'.json');
-    const json = JSON.parse(await readFile(p,'utf8'));
-    if(json.date!==day || json.language!==language || !Array.isArray(json.articles) || json.articles.length!==10) fail(day+'/'+language+' must contain exactly 10 localized stories');
-    requireText(json.editorialNote,day+' editorialNote');
-    if(Number.isNaN(Date.parse(json.publishedAt))) fail(day+' publishedAt invalid');
-    const ids = new Set();
-    const ranks = new Set();
-    for(const story of json.articles) {
-      const where=day+'/'+language+'/'+story.id;
-      if(!/^[a-z0-9-]+$/.test(story.id)) fail(where+' invalid ID');
-      if(ids.has(story.id) || ranks.has(story.rank) || story.rank<1 || story.rank>10) fail(where+' duplicate or out-of-range rank/ID');
-      ids.add(story.id);ranks.add(story.rank);
-      for(const name of ['title','dek','summary']) requireText(story[name],where+' '+name);
-      for(const name of ['facts','perspectives','unknowns']) {
-        if(!Array.isArray(story[name]) || story[name].length===0) fail(where+' '+name+' must be a nonempty array');
-        story[name].forEach(text=>requireText(text,where+' '+name));
-      }
-      if(!['world','politics','economy','technology','climate','society'].includes(story.category)) fail(where+' invalid category');
-      if(!Array.isArray(story.sources)||story.sources.length<2) fail(where+' needs >=2 sources');
-      const outlets=new Set();
-      for(const s of story.sources) {
-        requireText(s.outlet,where+' outlet');requireText(s.title,where+' source title');
-        checkHttp(s.url,where+' source');outlets.add(s.outlet.toLowerCase());
-        if(Number.isNaN(Date.parse(s.publishedAt))) fail(where+' invalid source date');
-        if(!['reporting','official','analysis'].includes(s.role)) fail(where+' invalid source role');
-      }
-      if(outlets.size<2) fail(where+' needs >=2 distinct newsrooms / source owners');
-      const im=story.image;
-      if(!im) fail(where+' missing cover image');
-      for(const name of ['src','alt','credit','license']) requireText(im[name],where+' image '+name);
-      checkHttp(im.sourceUrl,where+' image.sourceUrl');
-      if(!['photo','illustration'].includes(im.kind)) fail(where+' invalid image kind');
-      if(!/^https:\/\//.test(im.src)) {
-        if(im.src.includes('..')||im.src.startsWith('/')) fail(where+' image src must be safe relative path');
-        try { await access(path.join(source,im.src.replace(/^news\//,''))); } catch { fail(where+' missing image file: '+im.src); }
-      }
+  for(const language of ['it','en']){
+   const filename=section==='world'?path.join(news,day,language+'.json'):path.join(news,day,section,language+'.json');
+   const edition=JSON.parse(await readFile(filename,'utf8'));
+   if(edition.date!==day||edition.language!==language||!Array.isArray(edition.articles)||edition.articles.length!==quotas[section])fail(day+'/'+section+'/'+language+' must contain '+quotas[section]+' stories');
+   if(edition.section && edition.section!==section)fail(filename+' section mismatch');
+   requireText(edition.editorialNote,filename+' editorialNote');
+   if(Number.isNaN(Date.parse(edition.publishedAt)))fail(filename+' invalid publishedAt');
+   const ids=new Set(),ranks=new Set();
+   for(const a of edition.articles) {
+    const where=day+'/'+section+'/'+language+'/'+a.id;
+    if(!/^[a-z0-9-]+$/.test(a.id)||ids.has(a.id))fail(where+' invalid or duplicate ID');
+    ids.add(a.id);
+    if(!Number.isInteger(a.rank)||a.rank<1||a.rank>quotas[section]||ranks.has(a.rank))fail(where+' invalid rank');
+    ranks.add(a.rank);
+    for(const k of ['title','dek','summary'])requireText(a[k],where+' '+k);
+    if(!['world','politics','economy','technology','climate','society'].includes(a.category))fail(where+' invalid category');
+    for(const k of ['facts','perspectives','unknowns']){
+      if(!Array.isArray(a[k])||!a[k].length)fail(where+' '+k+' missing');
+      a[k].forEach(v=>requireText(v,where+' '+k));
     }
-    editions.push(json);
+    if(a.body && (!Array.isArray(a.body)||!a.body.length))fail(where+' body must be nonempty paragraphs');
+    a.body?.forEach(v=>requireText(v,where+' body paragraph'));
+    if(a.questions){
+      if(!Array.isArray(a.questions)||!a.questions.length)fail(where+' questions must be nonempty');
+      for(const q of a.questions){requireText(q.question,where+' question');requireText(q.answer,where+' answer');}
+    }
+    if(a.threadId && !/^[a-z0-9-]+$/.test(a.threadId))fail(where+' invalid threadId');
+    if(a.threadRecap)requireText(a.threadRecap,where+' threadRecap');
+    if(a.related && !Array.isArray(a.related))fail(where+' related must be an array');
+    if(!Array.isArray(a.sources)||a.sources.length<2)fail(where+' needs at least two independent sources');
+    const outlets=new Set();
+    for(const src of a.sources){
+      requireText(src.outlet,where+' outlet');requireText(src.title,where+' source title');
+      https(src.url,where+' source');outlets.add(src.outlet.toLowerCase());
+      if(Number.isNaN(Date.parse(src.publishedAt)))fail(where+' invalid source date');
+      if(!['reporting','official','analysis'].includes(src.role))fail(where+' invalid source role');
+    }
+    if(outlets.size<2)fail(where+' needs sources from distinct publishers');
+    if(!a.image)fail(where+' missing cover image');
+    for(const k of ['src','alt','credit','license'])requireText(a.image[k],where+' image '+k);
+    https(a.image.sourceUrl,where+' image provenance');
+    if(!['photo','illustration'].includes(a.image.kind))fail(where+' invalid image kind');
+    for(const image of [a.image.src,a.image.fallbackSrc].filter(Boolean)){
+      if(image.startsWith('https://'))continue;
+      if(image.startsWith('/')||image.includes('..')||!image.startsWith('news/'))fail(where+' unsafe image path');
+      try{await access(path.join(news,image.slice(5)));}catch{fail(where+' image file not found: '+image);}
+    }
+    const key=articleKey(day,section,a.id);
+    if(language==='it')all.set(key,a);
+    const preview={date:day,section,id:a.id,title:a.title,dek:a.dek,summary:a.summary,category:a.category};
+    if(a.threadId)preview.threadId=a.threadId;
+    if(a.threadRecap)preview.threadRecap=a.threadRecap;
+    storiesByLocale[language].push(preview);
+   }
+   editions.push(edition);
+   localized.set(day+'/'+section+'/'+language,edition);
   }
-  const idsIt=editions[0].articles.map(a=>a.id+'|'+a.rank+'|'+a.category).join(',');
-  const idsEn=editions[1].articles.map(a=>a.id+'|'+a.rank+'|'+a.category).join(',');
-  if(idsIt!==idsEn) fail(day+' localized articles must have matching order/rank/category');
+  const shape=e=>e.articles.map(a=>[a.id,a.rank,a.category,a.threadId||'',JSON.stringify(a.related||[])].join(':')).join('|');
+  if(shape(editions[0])!==shape(editions[1]))fail(day+'/'+section+' localized order, thread or related links mismatch');
+ }
 }
-if(!checkOnly) {
-  await rm(target,{recursive:true,force:true});
-  await mkdir(target,{recursive:true});
-  for(const day of folders) await cp(path.join(source,day),path.join(target,day),{recursive:true});
-  await writeFile(path.join(target,'index.json'),JSON.stringify({version:1,dates:folders},null,2)+'\n');
+if(!availability.world.length)fail('At least one world edition required');
+for(const [key,a] of all){
+ for(const related of a.related||[]){
+   if(!related||!dates.includes(related.date)||!sections.includes(related.section)||!all.has(articleKey(related.date,related.section,related.id)))fail(key+' references a missing related article');
+   if(articleKey(related.date,related.section,related.id)===key)fail(key+' references itself');
+ }
 }
-console.log('Validated '+folders.length+' editions, '+folders.length*10+' stories, two languages. '+(checkOnly?'Check only.':'Generated static archive.'));
+const index={version:2,dates:[...new Set(Object.values(availability).flat())].sort().reverse(),sections:availability};
+if(!checkOnly){
+ await rm(output,{recursive:true,force:true});await mkdir(output,{recursive:true});
+ for(const day of dates)await cp(path.join(news,day),path.join(output,day),{recursive:true});
+ await writeFile(path.join(output,'index.json'),JSON.stringify(index,null,2)+'\n');
+ await mkdir(path.join(output,'story-index'),{recursive:true});
+ for(const language of ['it','en'])
+   await writeFile(path.join(output,'story-index',language+'.json'),JSON.stringify({version:1,language,stories:storiesByLocale[language]},null,2)+'\n');
+}
+console.log('Validated '+availability.world.length+' World editions, '+sections.slice(1).map(s=>s+'='+availability[s].length).join(', ')+'; '+all.size+' unique articles in two languages.'+(checkOnly?' Check only.':' Compiled static archive and bidirectional story metadata.'));
