@@ -1,6 +1,6 @@
-import type { Article, Locale, Section, StoryIndex, StoryRef } from './types';
+import type { Article, Locale, Section, StoryIndex } from './types';
 import { formatDate, messages, sectionName } from './i18n';
-import { storyHref, storyKey } from './types';
+import { storyHref } from './types';
 
 export type ArticlePart='summary'|'body'|'facts'|'perspectives'|'dossier'|'sources'|'assessment';
 export interface ExportPart { id:ArticlePart; title:string; markdown:string; speech:string; }

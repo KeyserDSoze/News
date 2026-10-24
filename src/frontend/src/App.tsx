@@ -247,7 +247,7 @@ export default function App(){
     try{return JSON.parse(sessionStorage.getItem('o-scroll-positions')||'{}') as Record<string,number>;}catch{return {};}
   })());
   const current=useRef<{route:Route;path:string}>({route,path:currentPath()});
-  const index=useStoryIndex(locale),t=messages[locale],selected=route.kind==='search'||route.kind==='releases'?'world':route.section;
+  const index=useStoryIndex(locale),t=messages[locale],selected=route.kind==='section'||route.kind==='article'?route.section:'world';
   useEffect(()=>{
     if('scrollRestoration' in history)history.scrollRestoration='manual';
     const record=(path:string)=>{
