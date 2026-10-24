@@ -55,7 +55,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Fonti ucraine hanno segnalato l'esistenza di limiti di velocità introdotti il 13 ottobre per alcune connessioni satellitari. Il servizio è utilizzato anche per comunicazioni e operazioni con droni nel contesto della guerra in Ucraina.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Trump sostiene che l'accesso sia stato ripristinato e si è detto pronto a parlare con Elon Musk. I funzionari ucraini contattati dalle testate riportano persistenti disservizi nelle attività sul campo."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Trump sostiene che l'accesso sia stato ripristinato e si è detto pronto a parlare con Elon Musk. I funzionari ucraini contattati dalle testate riportano persistenti disservizi nelle attività sul campo.",
+        "Le comunicazioni satellitari vanno valutate sul campo e non soltanto dalle dichiarazioni pubbliche. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e Euronews, un dato documentato è: Fonti ucraine hanno segnalato l'esistenza di limiti di velocità introdotti il 13 ottobre per alcune connessioni satellitari. Resta invece da accertare: Mancano una verifica tecnica indipendente dell'estensione dei limiti e chiarimenti pubblici sull'autorità che li ha disposti."
       ],
       "questions": [
         {
@@ -74,10 +76,15 @@
           "id": "oleshky-humanitarian-ceasefire"
         }
       ],
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Potenziali effetti importanti sulla connettività militare e sulla guerra in Ucraina.",
       "threadId": "ukraine-starlink-availability",
-      "threadRecap": "Al 23 ottobre le autorità ucraine segnalavano limitazioni a Starlink e Starshield su mezzi veloci, mentre dagli Stati Uniti arrivavano rassicurazioni. La causa e l'estensione delle restrizioni rimanevano oggetto di verifica."
+      "threadRecap": "Al 23 ottobre le autorità ucraine segnalavano limitazioni a Starlink e Starshield su mezzi veloci, mentre dagli Stati Uniti arrivavano rassicurazioni. La causa e l'estensione delle restrizioni rimanevano oggetto di verifica.",
+      "tags": [
+        "ucraina",
+        "starlink",
+        "guerra"
+      ]
     },
     {
       "id": "france-trappes-shooting",
@@ -123,7 +130,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: È confermata una vittima mortale e il ferimento di più persone nell'area di Trappes e La Verrière. La polizia ha arrestato un sospettato e la procura nazionale antiterrorismo ha assunto competenza sull'inchiesta.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Il presidente Macron e responsabili locali hanno interpretato i fatti come un attacco con matrice razzista. La qualificazione giudiziaria finale del movente resta distinta dalle valutazioni pubbliche delle autorità."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Il presidente Macron e responsabili locali hanno interpretato i fatti come un attacco con matrice razzista. La qualificazione giudiziaria finale del movente resta distinta dalle valutazioni pubbliche delle autorità.",
+        "Il bilancio e il movente di un attacco sono verifiche diverse, che possono richiedere tempi differenti. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Associated Press e Reuters, un dato documentato è: È confermata una vittima mortale e il ferimento di più persone nell'area di Trappes e La Verrière. Resta invece da accertare: Il conteggio dei feriti varia tra gli aggiornamenti delle agenzie; movente e responsabilità devono ancora essere accertati definitivamente."
       ],
       "questions": [
         {
@@ -135,8 +144,13 @@
           "answer": "Il conteggio dei feriti varia tra gli aggiornamenti delle agenzie; movente e responsabilità devono ancora essere accertati definitivamente."
         }
       ],
-      "impact": 2,
-      "impactReason": "Gravità per le vittime e la sicurezza locale, ma impatto geografico circoscritto."
+      "impact": 1,
+      "impactReason": "Gravità per le vittime e la sicurezza locale, ma impatto geografico circoscritto.",
+      "tags": [
+        "francia",
+        "sicurezza",
+        "discriminazioni"
+      ]
     },
     {
       "id": "kenya-nairobi-building-collapse",
@@ -182,7 +196,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: L'edificio in costruzione è crollato nel quartiere Eastleigh e le squadre di emergenza sono intervenute. Le autorità locali hanno segnalato persone potenzialmente sotto le macerie e negozi al piano terra.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Le autorità keniane chiedono di mantenere liberi gli accessi per i soccorritori. Il disastro riapre il dibattito sulla vigilanza edilizia, ma non individua ancora responsabilità specifiche."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Le autorità keniane chiedono di mantenere liberi gli accessi per i soccorritori. Il disastro riapre il dibattito sulla vigilanza edilizia, ma non individua ancora responsabilità specifiche.",
+        "La priorità iniziale di un crollo è il soccorso; le cause richiedono verifiche strutturali e documentali. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e Associated Press, un dato documentato è: L'edificio in costruzione è crollato nel quartiere Eastleigh e le squadre di emergenza sono intervenute. Resta invece da accertare: Numero delle persone coinvolte, eventuali decessi e cause strutturali non risultavano determinati negli aggiornamenti iniziali."
       ],
       "questions": [
         {
@@ -194,8 +210,13 @@
           "answer": "Numero delle persone coinvolte, eventuali decessi e cause strutturali non risultavano determinati negli aggiornamenti iniziali."
         }
       ],
-      "impact": 3,
-      "impactReason": "Emergenza per le persone coinvolte e questione di sicurezza urbana, con conseguenze nazionali possibili."
+      "impact": 1.5,
+      "impactReason": "Emergenza per le persone coinvolte e questione di sicurezza urbana, con conseguenze nazionali possibili.",
+      "tags": [
+        "kenya",
+        "edilizia",
+        "soccorsi"
+      ]
     },
     {
       "id": "global-oil-price-surge",
@@ -248,7 +269,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Reuters indica una chiusura del Brent a 116,72 dollari e del WTI a 103,27 dollari. I prezzi sono aumentati mentre i mercati valutavano il rischio di interruzioni energetiche in Medio Oriente.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Investitori e analisti attribuiscono una parte dell'aumento all'incertezza geopolitica. Un rialzo del greggio può aumentare le pressioni sui costi, ma l'effetto finale sui carburanti dipende anche da tasse e filiera."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Investitori e analisti attribuiscono una parte dell'aumento all'incertezza geopolitica. Un rialzo del greggio può aumentare le pressioni sui costi, ma l'effetto finale sui carburanti dipende anche da tasse e filiera.",
+        "Le quotazioni del petrolio non coincidono con i prezzi al distributore, influenzati anche da tasse e raffinazione. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e ANSA, un dato documentato è: Reuters indica una chiusura del Brent a 116,72 dollari e del WTI a 103,27 dollari. Resta invece da accertare: La durata del rialzo e l'impatto sui consumatori non sono deducibili dalla sola seduta di mercato."
       ],
       "questions": [
         {
@@ -269,8 +292,13 @@
           "id": "eni-fuel-price-cap-extension"
         }
       ],
-      "impact": 4,
-      "impactReason": "Prezzi dell'energia rilevanti per trasporti, famiglie e industrie in numerosi paesi."
+      "impact": 2.5,
+      "impactReason": "Prezzi dell'energia rilevanti per trasporti, famiglie e industrie in numerosi paesi.",
+      "tags": [
+        "energia",
+        "petrolio",
+        "mercati"
+      ]
     },
     {
       "id": "myanmar-suu-kyi-family-call",
@@ -323,7 +351,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Suu Kyi è detenuta dal colpo di Stato del febbraio 2021 e ha parlato con il figlio Kim Aris il 22 ottobre 2026. Le dichiarazioni di Aris sono state raccolte da testate distinte il 22 e 23 ottobre.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Aris ha accolto il contatto come un passo umano importante e continua a chiederne la liberazione. Le autorità militari hanno reso possibile una telefonata, senza annunciare una revisione della detenzione."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Aris ha accolto il contatto come un passo umano importante e continua a chiederne la liberazione. Le autorità militari hanno reso possibile una telefonata, senza annunciare una revisione della detenzione.",
+        "Un singolo contatto telefonico non basta per stabilire condizioni di salute o libertà di comunicazione continuativa. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo NPR e Reuters, un dato documentato è: Suu Kyi è detenuta dal colpo di Stato del febbraio 2021 e ha parlato con il figlio Kim Aris il 22 ottobre 2026. Resta invece da accertare: La salute complessiva, la libertà di comunicazione e l'accesso continuativo a visite indipendenti non sono pienamente verificabili."
       ],
       "questions": [
         {
@@ -335,8 +365,13 @@
           "answer": "La salute complessiva, la libertà di comunicazione e l'accesso continuativo a visite indipendenti non sono pienamente verificabili."
         }
       ],
-      "impact": 2,
-      "impactReason": "Rilevanza simbolica e per i diritti umani, ma cambiamento politico non dimostrato."
+      "impact": 1,
+      "impactReason": "Rilevanza simbolica e per i diritti umani, ma cambiamento politico non dimostrato.",
+      "tags": [
+        "myanmar",
+        "diritti",
+        "detenzione"
+      ]
     },
     {
       "id": "us-ex-fbi-officials-charges",
@@ -382,7 +417,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Due ex funzionari sono stati formalmente accusati in un tribunale federale a Washington. Il caso riguarda dichiarazioni rese al Congresso e attività investigative precedenti alle elezioni del 2020.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La procura ritiene che le dichiarazioni fossero consapevolmente false. La difesa respinge le contestazioni e chiede una rapida verifica giudiziaria."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La procura ritiene che le dichiarazioni fossero consapevolmente false. La difesa respinge le contestazioni e chiede una rapida verifica giudiziaria.",
+        "Un'incriminazione non è una condanna: atti d'accusa e responsabilità provata sono passaggi distinti. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Associated Press e Reuters, un dato documentato è: Due ex funzionari sono stati formalmente accusati in un tribunale federale a Washington. Resta invece da accertare: Le accuse devono essere valutate in tribunale; responsabilità penale e motivazioni politiche non sono state accertate."
       ],
       "questions": [
         {
@@ -394,8 +431,13 @@
           "answer": "Le accuse devono essere valutate in tribunale; responsabilità penale e motivazioni politiche non sono state accertate."
         }
       ],
-      "impact": 3,
-      "impactReason": "Implicazioni per fiducia nelle istituzioni statunitensi e confronto politico nazionale."
+      "impact": 1.5,
+      "impactReason": "Implicazioni per fiducia nelle istituzioni statunitensi e confronto politico nazionale.",
+      "tags": [
+        "stati-uniti",
+        "giustizia",
+        "politica"
+      ]
     },
     {
       "id": "iaea-nuclear-2060-projections",
@@ -441,7 +483,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: La capacità nucleare mondiale a fine 2025 era di circa 377 GW secondo l'AIEA. Il rapporto considera sia uno scenario di crescita alta sia uno più prudente per il 2060.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Grossi collega l'interesse al fabbisogno elettrico, anche dei centri dati, e alla sicurezza energetica. La valutazione degli impatti dipende da costi, tempi, sicurezza e gestione dei rifiuti; il potenziale tecnico non rende inevitabili gli investimenti."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Grossi collega l'interesse al fabbisogno elettrico, anche dei centri dati, e alla sicurezza energetica. La valutazione degli impatti dipende da costi, tempi, sicurezza e gestione dei rifiuti; il potenziale tecnico non rende inevitabili gli investimenti.",
+        "Scenari energetici alternativi riflettono ipotesi diverse sugli investimenti, non impegni già finanziati. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Associated Press e International Atomic Energy Agency, un dato documentato è: La capacità nucleare mondiale a fine 2025 era di circa 377 GW secondo l'AIEA. Resta invece da accertare: Non è determinabile quale scenario si realizzerà: le proiezioni non sono impegni vincolanti degli Stati."
       ],
       "questions": [
         {
@@ -453,8 +497,13 @@
           "answer": "Non è determinabile quale scenario si realizzerà: le proiezioni non sono impegni vincolanti degli Stati."
         }
       ],
-      "impact": 3,
-      "impactReason": "Proiezioni utili per la pianificazione energetica internazionale, non nuove centrali confermate."
+      "impact": 1.5,
+      "impactReason": "Proiezioni utili per la pianificazione energetica internazionale, non nuove centrali confermate.",
+      "tags": [
+        "nucleare",
+        "energia",
+        "previsioni"
+      ]
     },
     {
       "id": "ecb-inflation-expectations",
@@ -500,7 +549,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: La rilevazione è stata diffusa il 23 ottobre e riguarda le risposte raccolte a settembre. Le aspettative mediane a dodici mesi sono salite di 0,1 punti percentuali rispetto ad agosto.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La BCE usa queste indagini per monitorare la percezione dei prezzi e la fiducia. Le famiglie riportano incertezza maggiore; questo non equivale a un rialzo già avvenuto dei prezzi nella stessa misura."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La BCE usa queste indagini per monitorare la percezione dei prezzi e la fiducia. Le famiglie riportano incertezza maggiore; questo non equivale a un rialzo già avvenuto dei prezzi nella stessa misura.",
+        "Un sondaggio sulle aspettative misura percezioni, non la futura inflazione effettiva. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo European Central Bank e ANSA, un dato documentato è: La rilevazione è stata diffusa il 23 ottobre e riguarda le risposte raccolte a settembre. Resta invece da accertare: L'inflazione effettiva dei prossimi dodici mesi potrà divergere dalle aspettative espresse nel sondaggio."
       ],
       "questions": [
         {
@@ -512,8 +563,13 @@
           "answer": "L'inflazione effettiva dei prossimi dodici mesi potrà divergere dalle aspettative espresse nel sondaggio."
         }
       ],
-      "impact": 3,
-      "impactReason": "Le aspettative sui prezzi riguardano milioni di famiglie dell'eurozona e le scelte monetarie."
+      "impact": 1.5,
+      "impactReason": "Le aspettative sui prezzi riguardano milioni di famiglie dell'eurozona e le scelte monetarie.",
+      "tags": [
+        "inflazione",
+        "bce",
+        "europa"
+      ]
     },
     {
       "id": "eni-fuel-price-cap-extension",
@@ -559,7 +615,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Un portavoce di Eni ha confermato ad ANSA la continuazione del meccanismo fino a fine anno. I livelli comunicati sono 2,25 euro/litro per il gasolio e 1,99 euro/litro per la benzina nella rete interessata.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Eni presenta il tetto come risposta temporanea alle difficoltà di approvvigionamento e ai prezzi elevati. Le associazioni dei consumatori segnalano che la misura da sola potrebbe incidere poco sulle spese delle famiglie."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Eni presenta il tetto come risposta temporanea alle difficoltà di approvvigionamento e ai prezzi elevati. Le associazioni dei consumatori segnalano che la misura da sola potrebbe incidere poco sulle spese delle famiglie.",
+        "Un tetto commerciale volontario non equivale a una misura di legge valida per l'intero mercato. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo ANSA e Teleborsa, un dato documentato è: Un portavoce di Eni ha confermato ad ANSA la continuazione del meccanismo fino a fine anno. Resta invece da accertare: Evoluzione dei massimali e risparmi effettivi dipendono dalle future decisioni aziendali e dalle condizioni del mercato."
       ],
       "questions": [
         {
@@ -573,8 +631,13 @@
       ],
       "threadId": "italy-fuel-costs",
       "threadRecap": "Il 23 ottobre Eni conferma un limite temporaneo ai prezzi del carburante. Seguiremo come imprese, lavoratori e governo reagiscono all'aumento dei costi.",
-      "impact": 1,
-      "impactReason": "Misura di una singola impresa in Italia; beneficio reale ancora da misurare."
+      "impact": 0.5,
+      "impactReason": "Misura di una singola impresa in Italia; beneficio reale ancora da misurare.",
+      "tags": [
+        "carburanti",
+        "italia",
+        "energia"
+      ]
     },
     {
       "id": "eurallumina-workers-portovesme",
@@ -620,7 +683,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: I quattro manifestanti sono scesi dall'impianto nel pomeriggio del 23 ottobre. Una nuova riunione sul futuro del sito industriale è programmata per il 29 ottobre.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La rappresentanza sindacale valuta il vertice insufficiente ma registra un primo impegno formale. La Regione chiede risorse concrete per sicurezza, continuità del sito e tutela dei lavoratori."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La rappresentanza sindacale valuta il vertice insufficiente ma registra un primo impegno formale. La Regione chiede risorse concrete per sicurezza, continuità del sito e tutela dei lavoratori.",
+        "Concludere una protesta riduce un rischio immediato, ma non risolve necessariamente le questioni industriali. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo RaiNews TGR Sardegna e ANSA, un dato documentato è: I quattro manifestanti sono scesi dall'impianto nel pomeriggio del 23 ottobre. Resta invece da accertare: Non risultano definiti né il finanziamento necessario né un piano condiviso per il rilancio produttivo."
       ],
       "questions": [
         {
@@ -632,8 +697,13 @@
           "answer": "Non risultano definiti né il finanziamento necessario né un piano condiviso per il rilancio produttivo."
         }
       ],
-      "impact": 1,
-      "impactReason": "Vertenza industriale significativa localmente ma con effetti internazionali limitati."
+      "impact": 0.5,
+      "impactReason": "Vertenza industriale significativa localmente ma con effetti internazionali limitati.",
+      "tags": [
+        "sardegna",
+        "lavoro",
+        "industria"
+      ]
     }
   ],
   "section": "world"

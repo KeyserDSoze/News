@@ -55,7 +55,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Ukrainian sources described speed limitations introduced on 13 October for some satellite connections. Ukraine uses satellite networks for communications and drone operations during the conflict.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Trump stated that access had been restored and said he might contact Elon Musk. Ukrainian officials interviewed by news outlets reported ongoing service limitations."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Trump stated that access had been restored and said he might contact Elon Musk. Ukrainian officials interviewed by news outlets reported ongoing service limitations.",
+        "Satellite connectivity must be assessed from actual use, not only from public assurances.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and Euronews establishes that Ukrainian sources described speed limitations introduced on 13 October for some satellite connections. One unresolved point remains: The technical scope of the restrictions and the authority responsible for imposing them remain unverified independently."
       ],
       "questions": [
         {
@@ -74,10 +76,15 @@
           "id": "oleshky-humanitarian-ceasefire"
         }
       ],
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Potentially substantial effects on military connectivity and the war in Ukraine.",
       "threadId": "ukraine-starlink-availability",
-      "threadRecap": "As of 23 October Ukrainian officials were reporting restrictions affecting Starlink and Starshield on fast-moving platforms while US officials offered assurances. The scope and cause of restrictions remained unclear."
+      "threadRecap": "As of 23 October Ukrainian officials were reporting restrictions affecting Starlink and Starshield on fast-moving platforms while US officials offered assurances. The scope and cause of restrictions remained unclear.",
+      "tags": [
+        "ukraine",
+        "starlink",
+        "war"
+      ]
     },
     {
       "id": "france-trappes-shooting",
@@ -123,7 +130,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: One fatality and multiple injuries are confirmed in the Trappes–La Verrière area. A suspect was arrested, and anti-terrorism prosecutors took charge of the inquiry.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: President Macron and local officials characterized the attack as apparently racist. Those public descriptions do not replace judicial findings about motive."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: President Macron and local officials characterized the attack as apparently racist. Those public descriptions do not replace judicial findings about motive.",
+        "Establishing casualties and motive are separate investigations that may take different amounts of time.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Associated Press and Reuters establishes that One fatality and multiple injuries are confirmed in the Trappes–La Verrière area. One unresolved point remains: Early injury counts differed between news agencies; the motive and criminal responsibility have not been finally adjudicated."
       ],
       "questions": [
         {
@@ -135,8 +144,13 @@
           "answer": "Early injury counts differed between news agencies; the motive and criminal responsibility have not been finally adjudicated."
         }
       ],
-      "impact": 2,
-      "impactReason": "Severe for victims and local safety, but geographically limited impact."
+      "impact": 1,
+      "impactReason": "Severe for victims and local safety, but geographically limited impact.",
+      "tags": [
+        "france",
+        "security",
+        "discrimination"
+      ]
     },
     {
       "id": "kenya-nairobi-building-collapse",
@@ -182,7 +196,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: The building collapsed in the Eastleigh neighbourhood and emergency teams responded. Local authorities reported fears of people trapped and activity in ground-floor shops.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Kenyan officials urged onlookers to clear routes for rescue operations. The incident raises questions about construction oversight without establishing responsibility in this case."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Kenyan officials urged onlookers to clear routes for rescue operations. The incident raises questions about construction oversight without establishing responsibility in this case.",
+        "Rescue comes first after a collapse; establishing the cause requires structural evidence and records.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and Associated Press establishes that The building collapsed in the Eastleigh neighbourhood and emergency teams responded. One unresolved point remains: The number of people affected, potential deaths and structural cause were not determined in early reporting."
       ],
       "questions": [
         {
@@ -194,8 +210,13 @@
           "answer": "The number of people affected, potential deaths and structural cause were not determined in early reporting."
         }
       ],
-      "impact": 3,
-      "impactReason": "An emergency for affected people and urban safety, with possible national consequences."
+      "impact": 1.5,
+      "impactReason": "An emergency for affected people and urban safety, with possible national consequences.",
+      "tags": [
+        "kenya",
+        "construction",
+        "rescue"
+      ]
     },
     {
       "id": "global-oil-price-surge",
@@ -248,7 +269,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Reuters reported Brent settling at $116.72 and WTI at $103.27 per barrel. Prices climbed while traders assessed risks to Middle Eastern energy supplies.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Market participants attributed part of the move to geopolitical uncertainty. Higher crude prices can influence transport costs, though pump prices also depend on taxes and distribution."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Market participants attributed part of the move to geopolitical uncertainty. Higher crude prices can influence transport costs, though pump prices also depend on taxes and distribution.",
+        "Crude benchmarks are not the price paid at the pump, which also includes refining and taxes.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and ANSA establishes that Reuters reported Brent settling at $116.72 and WTI at $103.27 per barrel. One unresolved point remains: How long the rally will last and its ultimate impact on consumers cannot be inferred from one trading session."
       ],
       "questions": [
         {
@@ -269,8 +292,13 @@
           "id": "eni-fuel-price-cap-extension"
         }
       ],
-      "impact": 4,
-      "impactReason": "Energy prices matter for transport, households and industries across many countries."
+      "impact": 2.5,
+      "impactReason": "Energy prices matter for transport, households and industries across many countries.",
+      "tags": [
+        "energy",
+        "oil",
+        "markets"
+      ]
     },
     {
       "id": "myanmar-suu-kyi-family-call",
@@ -323,7 +351,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Suu Kyi has been detained since the February 2021 military takeover and spoke with her son on 22 October 2026. Aris's accounts were reported separately by news organisations on 22 and 23 October.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Aris welcomed the human contact but continues to call for his mother's release. Military-backed authorities enabled one conversation without announcing any end to detention."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Aris welcomed the human contact but continues to call for his mother's release. Military-backed authorities enabled one conversation without announcing any end to detention.",
+        "A single phone call cannot establish overall health or ongoing freedom of communication.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from NPR and Reuters establishes that Suu Kyi has been detained since the February 2021 military takeover and spoke with her son on 22 October 2026. One unresolved point remains: Her overall health, freedom of communication and access to sustained independent care remain difficult to verify."
       ],
       "questions": [
         {
@@ -335,8 +365,13 @@
           "answer": "Her overall health, freedom of communication and access to sustained independent care remain difficult to verify."
         }
       ],
-      "impact": 2,
-      "impactReason": "Human-rights and symbolic significance, without a demonstrated political change."
+      "impact": 1,
+      "impactReason": "Human-rights and symbolic significance, without a demonstrated political change.",
+      "tags": [
+        "myanmar",
+        "rights",
+        "detention"
+      ]
     },
     {
       "id": "us-ex-fbi-officials-charges",
@@ -382,7 +417,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Two former officials face federal charges in Washington. The allegations concern congressional statements and investigation activities before the 2020 election.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Prosecutors allege knowingly false statements. Defence lawyers dispute the case and seek a prompt court hearing."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Prosecutors allege knowingly false statements. Defence lawyers dispute the case and seek a prompt court hearing.",
+        "An indictment is not a conviction: charges and established responsibility are separate stages.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Associated Press and Reuters establishes that Two former officials face federal charges in Washington. One unresolved point remains: The allegations require judicial testing; criminal culpability and claims of political motive remain unproven."
       ],
       "questions": [
         {
@@ -394,8 +431,13 @@
           "answer": "The allegations require judicial testing; criminal culpability and claims of political motive remain unproven."
         }
       ],
-      "impact": 3,
-      "impactReason": "Implications for public trust in US institutions and national political debate."
+      "impact": 1.5,
+      "impactReason": "Implications for public trust in US institutions and national political debate.",
+      "tags": [
+        "united-states",
+        "justice",
+        "politics"
+      ]
     },
     {
       "id": "iaea-nuclear-2060-projections",
@@ -441,7 +483,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: IAEA data places global nuclear generating capacity near 377 GW at the end of 2025. The agency publishes both high- and low-growth scenarios for 2060.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Grossi points to rising electricity demand, including data centres, and energy-security concerns. Real outcomes depend on investment costs, build times, safety and waste-management decisions."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Grossi points to rising electricity demand, including data centres, and energy-security concerns. Real outcomes depend on investment costs, build times, safety and waste-management decisions.",
+        "Alternative energy scenarios reflect different investment assumptions, not already-funded construction.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Associated Press and International Atomic Energy Agency establishes that IAEA data places global nuclear generating capacity near 377 GW at the end of 2025. One unresolved point remains: Neither scenario is guaranteed; projections are not binding construction commitments by countries."
       ],
       "questions": [
         {
@@ -453,8 +497,13 @@
           "answer": "Neither scenario is guaranteed; projections are not binding construction commitments by countries."
         }
       ],
-      "impact": 3,
-      "impactReason": "Projections inform international energy planning, not confirmed new construction."
+      "impact": 1.5,
+      "impactReason": "Projections inform international energy planning, not confirmed new construction.",
+      "tags": [
+        "nuclear",
+        "energy",
+        "forecasts"
+      ]
     },
     {
       "id": "ecb-inflation-expectations",
@@ -500,7 +549,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: The ECB released the survey on 23 October using September responses. The median twelve-month expectation increased by 0.1 percentage point month on month.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The ECB tracks the survey to understand price perceptions and household confidence. Respondents reported greater uncertainty, which should not be confused with a realised inflation increase of the same size."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The ECB tracks the survey to understand price perceptions and household confidence. Respondents reported greater uncertainty, which should not be confused with a realised inflation increase of the same size.",
+        "An expectations survey measures perceptions, not inflation that will actually occur.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from European Central Bank and ANSA establishes that The ECB released the survey on 23 October using September responses. One unresolved point remains: Actual inflation over the next year may differ materially from the surveyed expectations."
       ],
       "questions": [
         {
@@ -512,8 +563,13 @@
           "answer": "Actual inflation over the next year may differ materially from the surveyed expectations."
         }
       ],
-      "impact": 3,
-      "impactReason": "Price expectations concern millions of eurozone households and monetary policymaking."
+      "impact": 1.5,
+      "impactReason": "Price expectations concern millions of eurozone households and monetary policymaking.",
+      "tags": [
+        "inflation",
+        "ecb",
+        "europe"
+      ]
     },
     {
       "id": "eni-fuel-price-cap-extension",
@@ -559,7 +615,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: An Eni spokesperson confirmed the intended extension to ANSA. The stated reference caps are €2.25 per litre for diesel and €1.99 for petrol across the relevant network.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Eni frames the cap as temporary relief from elevated prices and supply pressures. Consumer groups say the measure may provide limited household savings without wider policy action."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Eni frames the cap as temporary relief from elevated prices and supply pressures. Consumer groups say the measure may provide limited household savings without wider policy action.",
+        "A voluntary company price cap is different from a law covering the whole market.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from ANSA and Teleborsa establishes that An Eni spokesperson confirmed the intended extension to ANSA. One unresolved point remains: Future levels of the cap and savings to drivers depend on company decisions and wider market conditions."
       ],
       "questions": [
         {
@@ -573,8 +631,13 @@
       ],
       "threadId": "italy-fuel-costs",
       "threadRecap": "On 23 October Eni confirmed a temporary fuel price cap. This dossier tracks how businesses, workers and the government respond to higher transport costs.",
-      "impact": 1,
-      "impactReason": "A measure by one Italian company; its actual consumer benefit remains unmeasured."
+      "impact": 0.5,
+      "impactReason": "A measure by one Italian company; its actual consumer benefit remains unmeasured.",
+      "tags": [
+        "fuel",
+        "italy",
+        "energy"
+      ]
     },
     {
       "id": "eurallumina-workers-portovesme",
@@ -620,7 +683,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: The four protesters came down from the industrial structure on 23 October. Further talks about the plant are planned for 29 October.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The workers' representatives said the meeting fell short of their demands but acknowledged a formal commitment. Regional officials called for concrete money to safeguard the site, jobs and industrial assets."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The workers' representatives said the meeting fell short of their demands but acknowledged a formal commitment. Regional officials called for concrete money to safeguard the site, jobs and industrial assets.",
+        "Ending a protest may ease immediate danger without resolving the industrial dispute.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from RaiNews TGR Sardegna and ANSA establishes that The four protesters came down from the industrial structure on 23 October. One unresolved point remains: Funding levels and a shared long-term plan for production had not yet been established."
       ],
       "questions": [
         {
@@ -632,8 +697,13 @@
           "answer": "Funding levels and a shared long-term plan for production had not yet been established."
         }
       ],
-      "impact": 1,
-      "impactReason": "An important local industrial dispute with limited international effects."
+      "impact": 0.5,
+      "impactReason": "An important local industrial dispute with limited international effects.",
+      "tags": [
+        "sardinia",
+        "labour",
+        "industry"
+      ]
     }
   ],
   "section": "world"

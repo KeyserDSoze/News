@@ -9,14 +9,16 @@
       "id": "cortei-perquisizioni-italia",
       "rank": 1,
       "category": "society",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "National significance for public order and civil liberties in several cities.",
       "title": "Italy braces for demonstrations as police report over 150 searches",
       "dek": "Operations in Milan and other cities precede planned protests over living costs, rearmament and public safety.",
       "summary": "ANSA reports more than 150 searches in Milan, Monza and around twenty other cities following disturbances the previous weekend. Several marches are planned for 24 October. The investigations involve messages found in a chat examined by police, but a search is not a conviction and does not implicate every demonstrator.",
       "body": [
         "Police are deployed in central Milan and some shop owners have boarded up windows. In Turin an afternoon demonstration is announced around housing, education, healthcare and energy costs. Different groups have different agendas; the gatherings should not be presented as one coordinated organisation.",
-        "The political debate is about balancing prevention of violence with the right to demonstrate. The security deployment is documented, but its results require separate evidence about turnout, incidents and any subsequent judicial decisions."
+        "The political debate is about balancing prevention of violence with the right to demonstrate. The security deployment is documented, but its results require separate evidence about turnout, incidents and any subsequent judicial decisions.",
+        "Investigations must respect the presumption of innocence, while protests should be reported as events actually unfold.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from ANSA and RaiNews establishes that Authorities report more than 150 searches in several cities. One unresolved point remains: Final turnout, incidents and individual responsibility are not established in the morning updates."
       ],
       "facts": [
         "Authorities report more than 150 searches in several cities.",
@@ -64,20 +66,27 @@
           "section": "world",
           "id": "italy-nationwide-demonstrations"
         }
+      ],
+      "tags": [
+        "italy",
+        "protests",
+        "security"
       ]
     },
     {
       "id": "sud-rientro-merci-carburante",
       "rank": 2,
       "category": "economy",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Nationwide relevance for freight, essential supplies and household economic activity.",
       "title": "Southern Italy deliveries resume but fuel and food shortages persist",
       "dek": "Road blockades have been lifted in Campania; supermarkets and petrol stations cannot instantly replenish stocks.",
       "summary": "Hauliers removed several road blockades overnight between 22 and 23 October, but subsequent reporting still describes queues at fuel stations and delays in fresh-food deliveries in parts of Campania. RaiNews also tracked disruptions to fuel supplies for some airports. Traffic resuming is not the same as fully restored logistics.",
       "body": [
         "Supply chains require transport, warehousing and restocking. Removing a road blockade lets freight move again, but retailers and fuel stations may need several delivery cycles to replenish supplies. In Calabria, normal service was returning gradually and unevenly.",
-        "Hauliers continue to seek longer-term relief from diesel costs and expect ministry talks on 27 October. The government points to further aid. Neither position establishes that the dispute is permanently settled."
+        "Hauliers continue to seek longer-term relief from diesel costs and expect ministry talks on 27 October. The government points to further aid. Neither position establishes that the dispute is permanently settled.",
+        "Distribution and logistics can take time to recover even after roads reopen.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from ANSA and RaiNews establishes that ANSA reports Campania blockades lifted and progress towards normal deliveries in Calabria. One unresolved point remains: The date when supplies will be fully restored in all affected areas is unknown."
       ],
       "facts": [
         "ANSA reports Campania blockades lifted and progress towards normal deliveries in Calabria.",
@@ -127,20 +136,27 @@
         }
       ],
       "threadId": "italy-fuel-costs",
-      "threadRecap": "After protests against higher diesel prices, distribution in southern Italy resumed gradually on 23–24 October while hauliers' demands remained unresolved."
+      "threadRecap": "After protests against higher diesel prices, distribution in southern Italy resumed gradually on 23–24 October while hauliers' demands remained unresolved.",
+      "tags": [
+        "italy",
+        "fuel",
+        "transport"
+      ]
     },
     {
       "id": "disuguaglianza-redditi-eurostat",
       "rank": 3,
       "category": "economy",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Broad nationwide relevance to income policy, welfare and how growth is distributed.",
       "title": "Income inequality in Italy falls but remains above the EU average",
       "dek": "Eurostat places Italy's 2025 Gini coefficient at 31.0, compared with an EU average of 29.2.",
       "summary": "Eurostat data released on 23 October and reported by ANSA the following day indicate Italy's disposable-income Gini coefficient declined from 32.2 in 2024 to 31.0 in 2025. The figure is the country's lowest since 2014, but remains above the EU mean, which fell from 29.4 to 29.2. A single inequality indicator does not measure absolute poverty or pay levels.",
       "body": [
         "A Gini coefficient of zero represents complete equality of income distribution; a higher number indicates greater inequality. The measure for under-18s in Italy was 29.3, down from 31.1 the previous year.",
-        "A more even distribution does not necessarily mean every household has become richer. A fuller assessment would also consider inflation-adjusted incomes, regional differences, work and poverty exposure."
+        "A more even distribution does not necessarily mean every household has become richer. A fuller assessment would also consider inflation-adjusted incomes, regional differences, work and poverty exposure.",
+        "An inequality index measures income distribution, not the purchasing power of an average household.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Eurostat and ANSA establishes that Italy's 2025 Gini coefficient is reported at 31.0, down from 32.2 in 2024. One unresolved point remains: Regional gaps, real wages and different households' circumstances need separate analysis."
       ],
       "facts": [
         "Italy's 2025 Gini coefficient is reported at 31.0, down from 32.2 in 2024.",
@@ -181,20 +197,27 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/disuguaglianza-redditi-eurostat.svg",
         "license": "Opera grafica originale, nessuna immagine di agenzia",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "italy",
+        "income",
+        "inequality"
+      ]
     },
     {
       "id": "sciame-sismico-tirreno-eolie",
       "rank": 4,
       "category": "climate",
-      "impact": 3,
+      "impact": 1.5,
       "impactReason": "High regional relevance and national monitoring, without confirmed damage in the cited event data.",
       "title": "Earthquake swarm continues in the southern Tyrrhenian Sea",
       "dek": "INGV records further tremors offshore from the Aeolian Islands; reported totals reflect different observation times.",
       "summary": "After a stronger earthquake on 23 October, Italy's INGV seismic network continued recording events in the southern Tyrrhenian Sea. INGV's entry for 05:13 Italian time on 24 October lists a local magnitude of 3.4 and a depth of 10 km. Adnkronos reported dozens of overnight tremors, with counts changing as more events were processed.",
       "body": [
         "An earthquake swarm is a sequence of events close in space and time. Magnitude measures an individual event and cannot, by itself, predict the next one. Initial locations and magnitudes may be revised when new measurements become available.",
-        "Civil-protection authorities are monitoring possible coastal consequences; local reporting describes concern following earlier tremors. Precautionary monitoring should not be confused with evidence of confirmed damage."
+        "Civil-protection authorities are monitoring possible coastal consequences; local reporting describes concern following earlier tremors. Precautionary monitoring should not be confused with evidence of confirmed damage.",
+        "A sequence of earthquakes describes observed events, not the timing of the next tremor.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from INGV and Adnkronos establishes that INGV documents numerous events in the southern Tyrrhenian Sea. One unresolved point remains: The duration and maximum future intensity of this sequence cannot be established."
       ],
       "facts": [
         "INGV documents numerous events in the southern Tyrrhenian Sea.",
@@ -242,20 +265,27 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/sciame-sismico-tirreno-eolie.svg",
         "license": "Opera grafica originale, nessuna immagine di agenzia",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "sicily",
+        "seismology",
+        "risk"
+      ]
     },
     {
       "id": "adrenalina-spray-nasale-italia",
       "rank": 5,
       "category": "society",
-      "impact": 3,
+      "impact": 1.5,
       "impactReason": "Potential national clinical benefit for at-risk patients, subject to eligibility and safe use.",
       "title": "Needle-free adrenaline nasal spray becomes available in Italy",
       "dek": "The new delivery option supplements auto-injectors for eligible patients facing severe allergic reactions.",
       "summary": "Italy's allergy specialists announced the domestic availability of a nasal adrenaline spray for anaphylaxis following regulatory approvals. The formulation described by the sources is currently intended for people weighing at least 30 kilograms. It offers an alternative method in selected cases, not a reason to handle emergencies without medical support.",
       "body": [
         "Anaphylaxis can rapidly cause breathing problems and dangerous drops in blood pressure; rapid treatment matters. A needle-free format might help patients who delay using an auto-injector because of fear or unfamiliarity, but clinicians stress correct technique and individual suitability.",
-        "A separate formulation for smaller children is expected in spring. Prescribing decisions, patient training and emergency-care guidance remain essential regardless of delivery method."
+        "A separate formulation for smaller children is expected in spring. Prescribing decisions, patient training and emergency-care guidance remain essential regardless of delivery method.",
+        "A new delivery method requires prescribing and training and does not replace emergency care.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from ANSA and Adnkronos establishes that Italian medical societies announced the new intranasal medicine's availability. One unresolved point remains: Its effect on real-world emergency-response timing still requires monitoring."
       ],
       "facts": [
         "Italian medical societies announced the new intranasal medicine's availability.",
@@ -296,7 +326,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/adrenalina-spray-nasale-italia.svg",
         "license": "Opera grafica originale, nessuna immagine di agenzia",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "italy",
+        "medicine",
+        "allergies"
+      ]
     }
   ]
 }

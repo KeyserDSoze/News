@@ -55,7 +55,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: La città di Oleshky è sotto controllo russo nella regione ucraina di Kherson. La tregua annunciata è circoscritta e destinata alla distribuzione di aiuti e al movimento dei civili.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Washington rivendica il ruolo negoziale della first lady; funzionari ucraini e russi hanno descritto la propria partecipazione. L'iniziativa umanitaria è distinta dalle trattative più ampie sulla guerra."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Washington rivendica il ruolo negoziale della first lady; funzionari ucraini e russi hanno descritto la propria partecipazione. L'iniziativa umanitaria è distinta dalle trattative più ampie sulla guerra.",
+        "Una tregua circoscritta può facilitare gli aiuti, ma non costituisce un accordo per terminare la guerra. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e Associated Press, un dato documentato è: La città di Oleshky è sotto controllo russo nella regione ucraina di Kherson. Resta invece da accertare: Da verificare sul campo quando inizierà l'accesso effettivo dei convogli e quali garanzie accompagneranno le evacuazioni."
       ],
       "questions": [
         {
@@ -67,8 +69,13 @@
           "answer": "Da verificare sul campo quando inizierà l'accesso effettivo dei convogli e quali garanzie accompagneranno le evacuazioni."
         }
       ],
-      "impact": 3,
-      "impactReason": "Conseguenze umanitarie per una città occupata, ma tregua limitata e non globale."
+      "impact": 1.5,
+      "impactReason": "Conseguenze umanitarie per una città occupata, ma tregua limitata e non globale.",
+      "tags": [
+        "ucraina",
+        "guerra",
+        "umanitario"
+      ]
     },
     {
       "id": "champion-typhoon-taiwan",
@@ -116,7 +123,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Le autorità hanno segnalato la morte di una persona trascinata dalle onde. Aeroporti, trasporti e rete elettrica hanno subito interruzioni e cancellazioni.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I bollettini meteorologici descrivono un sistema in indebolimento, ma ancora in grado di causare danni. I bilanci di vittime e disagi vengono aggiornati dalle autorità di emergenza."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I bollettini meteorologici descrivono un sistema in indebolimento, ma ancora in grado di causare danni. I bilanci di vittime e disagi vengono aggiornati dalle autorità di emergenza.",
+        "Le traiettorie delle tempeste e i bilanci dei danni hanno fonti e tempi di aggiornamento differenti. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e Associated Press, un dato documentato è: Le autorità hanno segnalato la morte di una persona trascinata dalle onde. Resta invece da accertare: Il bilancio definitivo dei feriti e il percorso successivo del tifone potrebbero cambiare."
       ],
       "questions": [
         {
@@ -128,8 +137,13 @@
           "answer": "Il bilancio definitivo dei feriti e il percorso successivo del tifone potrebbero cambiare."
         }
       ],
-      "impact": 4,
-      "impactReason": "Vittime e interruzioni diffuse su un'isola densamente popolata; impatto regionale elevato."
+      "impact": 2.5,
+      "impactReason": "Vittime e interruzioni diffuse su un'isola densamente popolata; impatto regionale elevato.",
+      "tags": [
+        "taiwan",
+        "clima",
+        "emergenza"
+      ]
     },
     {
       "id": "karak-jordan-church-attack",
@@ -175,7 +189,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: L'attacco è avvenuto durante una cerimonia funebre in una chiesa a Karak. Il bilancio più recente riportato dalle fonti consultate è di sette morti e circa quaranta feriti.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I responsabili politici giordani hanno condannato l'azione e promesso indagini. Le prime testimonianze non concordano pienamente sul numero degli assalitori."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I responsabili politici giordani hanno condannato l'azione e promesso indagini. Le prime testimonianze non concordano pienamente sul numero degli assalitori.",
+        "Testimonianze e conteggi iniziali devono essere distinti dai risultati di indagini completate. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Associated Press via The Guardian e ANSA, un dato documentato è: L'attacco è avvenuto durante una cerimonia funebre in una chiesa a Karak. Resta invece da accertare: Non sono confermati movente, identità e numero esatto delle persone coinvolte nell'attacco."
       ],
       "questions": [
         {
@@ -187,8 +203,13 @@
           "answer": "Non sono confermati movente, identità e numero esatto delle persone coinvolte nell'attacco."
         }
       ],
-      "impact": 3,
-      "impactReason": "Vittime civili e possibili tensioni regionali, senza ricadute mondiali dimostrate."
+      "impact": 1.5,
+      "impactReason": "Vittime civili e possibili tensioni regionali, senza ricadute mondiali dimostrate.",
+      "tags": [
+        "giordania",
+        "sicurezza",
+        "vittime"
+      ]
     },
     {
       "id": "hebron-west-bank-operation",
@@ -234,7 +255,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Le autorità israeliane riferiscono la morte di due soldati e due assalitori. L'esercito ha lanciato operazioni e limitazioni alla circolazione nella zona di Hebron.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Il governo israeliano presenta le misure come una risposta di sicurezza. Organizzazioni e giuristi citati dalle testate le criticano come possibile punizione collettiva."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Il governo israeliano presenta le misure come una risposta di sicurezza. Organizzazioni e giuristi citati dalle testate le criticano come possibile punizione collettiva.",
+        "La sicurezza dei militari e i diritti dei residenti richiedono valutazioni autonome delle azioni successive. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Associated Press e The Guardian, un dato documentato è: Le autorità israeliane riferiscono la morte di due soldati e due assalitori. Resta invece da accertare: Restano da verificare l'effettiva durata delle restrizioni e le conseguenze per i civili."
       ],
       "questions": [
         {
@@ -253,8 +276,13 @@
           "id": "italian-activists-west-bank"
         }
       ],
-      "impact": 4,
-      "impactReason": "La situazione di sicurezza in Cisgiordania ha ricadute regionali e diplomatiche consistenti."
+      "impact": 2.5,
+      "impactReason": "La situazione di sicurezza in Cisgiordania ha ricadute regionali e diplomatiche consistenti.",
+      "tags": [
+        "cisgiordania",
+        "sicurezza",
+        "conflitto"
+      ]
     },
     {
       "id": "italy-nationwide-demonstrations",
@@ -300,7 +328,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: ANSA documenta iniziative annunciate in diverse città italiane. Le autorità hanno predisposto misure di sicurezza aggiuntive, in particolare a Milano.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Gli organizzatori avanzano rivendicazioni non uniformi, dalla pace ai salari. Le istituzioni dichiarano di voler prevenire nuovi scontri e tutelare la sicurezza pubblica."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Gli organizzatori avanzano rivendicazioni non uniformi, dalla pace ai salari. Le istituzioni dichiarano di voler prevenire nuovi scontri e tutelare la sicurezza pubblica.",
+        "Un corteo annunciato non è un evento concluso, e la partecipazione non indica un coinvolgimento in violenze. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo ANSA e Sky TG24, un dato documentato è: ANSA documenta iniziative annunciate in diverse città italiane. Resta invece da accertare: Affluenza, itinerari definitivi ed eventuali incidenti non possono essere dedotti dai soli annunci della mattina."
       ],
       "questions": [
         {
@@ -312,8 +342,13 @@
           "answer": "Affluenza, itinerari definitivi ed eventuali incidenti non possono essere dedotti dai soli annunci della mattina."
         }
       ],
-      "impact": 2,
-      "impactReason": "Mobilitazioni importanti per l'Italia, ma effetto globale diretto limitato."
+      "impact": 1,
+      "impactReason": "Mobilitazioni importanti per l'Italia, ma effetto globale diretto limitato.",
+      "tags": [
+        "italia",
+        "proteste",
+        "sicurezza"
+      ]
     },
     {
       "id": "brazil-presidential-runoff",
@@ -366,7 +401,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: La data fissata per il voto è domenica 25 ottobre. Il sondaggio Datafolha citato ha raccolto 2.520 interviste tra il 20 e il 22 ottobre.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I candidati propongono differenti politiche economiche e rapporti internazionali. Diplomatici e osservatori sottolineano l'importanza della certificazione istituzionale dei risultati."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I candidati propongono differenti politiche economiche e rapporti internazionali. Diplomatici e osservatori sottolineano l'importanza della certificazione istituzionale dei risultati.",
+        "Una parità nei sondaggi resta compatibile con esiti differenti nel voto, specialmente entro il margine di errore. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e ANSA, un dato documentato è: La data fissata per il voto è domenica 25 ottobre. Resta invece da accertare: Un sondaggio non è un risultato elettorale: vincitore e margini restano sconosciuti."
       ],
       "questions": [
         {
@@ -378,8 +415,13 @@
           "answer": "Un sondaggio non è un risultato elettorale: vincitore e margini restano sconosciuti."
         }
       ],
-      "impact": 4,
-      "impactReason": "Il voto di una delle maggiori economie mondiali può cambiare equilibri commerciali e diplomatici."
+      "impact": 2.5,
+      "impactReason": "Il voto di una delle maggiori economie mondiali può cambiare equilibri commerciali e diplomatici.",
+      "tags": [
+        "brasile",
+        "elezioni",
+        "politica"
+      ]
     },
     {
       "id": "russian-diesel-shipments",
@@ -425,7 +467,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: AP riferisce la partenza di almeno un carico di diesel dalla Russia verso gli Stati Uniti. La vicenda è collegata a decisioni politiche sulle importazioni energetiche.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La Casa Bianca presenta maggiori forniture come leva sui prezzi. Critici in Ucraina e negli Stati Uniti temono entrate aggiuntive per il governo russo."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La Casa Bianca presenta maggiori forniture come leva sui prezzi. Critici in Ucraina e negli Stati Uniti temono entrate aggiuntive per il governo russo.",
+        "La partenza di un carico energetico non prova che il commercio abbia già modificato i prezzi al consumo. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Associated Press e The Guardian, un dato documentato è: AP riferisce la partenza di almeno un carico di diesel dalla Russia verso gli Stati Uniti. Resta invece da accertare: Non è ancora misurabile l'impatto effettivo sui prezzi del carburante negli Stati Uniti."
       ],
       "questions": [
         {
@@ -446,8 +490,13 @@
           "id": "eni-fuel-price-cap-extension"
         }
       ],
-      "impact": 4,
-      "impactReason": "Scelte energetiche tra due grandi potenze potenzialmente influenti sui mercati, non ancora sui prezzi finali."
+      "impact": 2.5,
+      "impactReason": "Scelte energetiche tra due grandi potenze potenzialmente influenti sui mercati, non ancora sui prezzi finali.",
+      "tags": [
+        "energia",
+        "russia",
+        "carburanti"
+      ]
     },
     {
       "id": "italian-activists-west-bank",
@@ -495,7 +544,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Cinque attiviste sono state trattenute e avviate alle procedure di espulsione. Le autorità consolari italiane hanno seguito il caso e organizzato assistenza.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Tajani ha contestato la legittimità dei fermi. Le autorità israeliane stanno gestendo il procedimento di immigrazione ed espulsione."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Tajani ha contestato la legittimità dei fermi. Le autorità israeliane stanno gestendo il procedimento di immigrazione ed espulsione.",
+        "Fermo amministrativo, decisione di espulsione e arrivo in patria sono passaggi distinti. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e ANSA, un dato documentato è: Cinque attiviste sono state trattenute e avviate alle procedure di espulsione. Resta invece da accertare: Serve una conferma indipendente dell'avvenuto rientro delle cinque cittadine."
       ],
       "questions": [
         {
@@ -514,8 +565,13 @@
           "id": "hebron-west-bank-operation"
         }
       ],
-      "impact": 2,
-      "impactReason": "Incide sui diritti e sui rapporti diplomatici di un gruppo ristretto, non sull'intero sistema internazionale."
+      "impact": 1,
+      "impactReason": "Incide sui diritti e sui rapporti diplomatici di un gruppo ristretto, non sull'intero sistema internazionale.",
+      "tags": [
+        "cisgiordania",
+        "italia",
+        "diritti"
+      ]
     },
     {
       "id": "italy-hauliers-fuel-protests",
@@ -561,7 +617,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: I blocchi hanno rallentato forniture commerciali in più regioni meridionali. Il Consiglio dei ministri ha approvato ulteriori misure di aiuto per il settore.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Le imprese chiedono interventi stabili contro l'aumento dei costi. Il governo sottolinea sostegni economici e necessità di liberare le strade."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Le imprese chiedono interventi stabili contro l'aumento dei costi. Il governo sottolinea sostegni economici e necessità di liberare le strade.",
+        "Una strada sbloccata non significa che i magazzini e i distributori abbiano già recuperato le scorte. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e ANSA, un dato documentato è: I blocchi hanno rallentato forniture commerciali in più regioni meridionali. Resta invece da accertare: È incerto se le concessioni eviteranno nuove proteste dopo il tavolo del 27 ottobre."
       ],
       "questions": [
         {
@@ -575,8 +633,13 @@
       ],
       "threadId": "italy-fuel-costs",
       "threadRecap": "Il 23 ottobre Eni ha confermato un tetto temporaneo ai carburanti. Il 24 ottobre le proteste degli autotrasportatori mostrano che la questione dei costi operativi resta aperta, anche dopo gli aiuti annunciati dal governo.",
-      "impact": 2,
-      "impactReason": "Disagi economici significativi in Italia meridionale, ma rilevanza globale contenuta."
+      "impact": 1,
+      "impactReason": "Disagi economici significativi in Italia meridionale, ma rilevanza globale contenuta.",
+      "tags": [
+        "italia",
+        "carburanti",
+        "trasporti"
+      ]
     },
     {
       "id": "helium-critical-material",
@@ -622,7 +685,9 @@
       },
       "body": [
         "I fatti riportati dalle fonti permettono di stabilire quanto segue: Il Dipartimento dell'Energia statunitense ha annunciato la nuova classificazione il 23 ottobre. L'elio è impiegato in processi industriali inclusa la fabbricazione di semiconduttori.",
-        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Washington collega la decisione alla resilienza manifatturiera e alla sicurezza delle forniture. Gli importatori europei sono esposti alle interruzioni e ai limiti all'esportazione in vari mercati."
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Washington collega la decisione alla resilienza manifatturiera e alla sicurezza delle forniture. Gli importatori europei sono esposti alle interruzioni e ai limiti all'esportazione in vari mercati.",
+        "Una classificazione strategica individua rischi potenziali di filiera, non una carenza accertata in ogni paese. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Reuters e Euronews, un dato documentato è: Il Dipartimento dell'Energia statunitense ha annunciato la nuova classificazione il 23 ottobre. Resta invece da accertare: Entità, durata e ricadute dei possibili deficit di offerta variano per paese e settore."
       ],
       "questions": [
         {
@@ -634,8 +699,13 @@
           "answer": "Entità, durata e ricadute dei possibili deficit di offerta variano per paese e settore."
         }
       ],
-      "impact": 3,
-      "impactReason": "Materiale chiave per più industrie internazionali; possibili effetti di filiera non ancora quantificati."
+      "impact": 1.5,
+      "impactReason": "Materiale chiave per più industrie internazionali; possibili effetti di filiera non ancora quantificati.",
+      "tags": [
+        "elio",
+        "tecnologia",
+        "forniture"
+      ]
     }
   ],
   "section": "world"

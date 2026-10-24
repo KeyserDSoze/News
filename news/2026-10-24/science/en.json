@@ -12,11 +12,13 @@
       "title": "Study estimates over 50,000 heat-related deaths in European cities",
       "dek": "Researchers attribute roughly two-thirds of modelled summer 2026 heat mortality to human-caused climate change.",
       "summary": "Researchers led by the London School of Hygiene & Tropical Medicine and Imperial College estimate 50,391 heat-related deaths across 854 European urban areas in summer 2026, of which 32,619 were attributed to anthropogenic warming. These are epidemiological model estimates, not individual death certificate counts.",
-      "impact": 5,
-      "impactReason": "Exceptional significance for European public health, climate-attribution evidence and prevention.",
+      "impact": 3.5,
+      "impactReason": "Significant significance for European public health, climate-attribution evidence and prevention.",
       "body": [
         "Released on 23 October, the research covers urban areas in thirty countries representing about 40% of their combined population. The authors combine temperature data and epidemiological risk functions, comparing observed conditions with a hypothetical climate without human-induced warming.",
-        "Extreme heat disproportionately affects older people and those with underlying conditions. The researchers call for urban adaptation, protection of vulnerable groups and lower emissions, while policy decisions must be distinguished from the study's statistical estimates."
+        "Extreme heat disproportionately affects older people and those with underlying conditions. The researchers call for urban adaptation, protection of vulnerable groups and lower emissions, while policy decisions must be distinguished from the study's statistical estimates.",
+        "Epidemiological estimates differ from individual certificates and must be read alongside model uncertainty.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from London School of Hygiene & Tropical Medicine and Associated Press establishes that The analysis covers 854 urban areas across Europe. One unresolved point remains: The continent-wide total differs from the study's urban sample and is subject to statistical uncertainty."
       ],
       "facts": [
         "The analysis covers 854 urban areas across Europe.",
@@ -64,7 +66,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/estate-caldo-europa-mortalita-2026.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "climate",
+        "health",
+        "europe"
+      ]
     },
     {
       "id": "melanoma-vaccino-personalizzato-fase3",
@@ -73,11 +80,13 @@
       "title": "Phase III melanoma trial reports benefit from individualized mRNA treatment",
       "dek": "Adding experimental mRNA therapy to pembrolizumab cut relative recurrence-or-death risk by 42% in the trial.",
       "summary": "Merck and Moderna released detailed INTerpath-001 data for intismeran autogene, a personalized experimental mRNA treatment combined with pembrolizumab after melanoma surgery. The relative risk of recurrence or death was 42% lower than with immunotherapy alone during the study period. This does not mean 42% of participants were cured.",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Potentially major clinical benefit, but still short of broadly available treatment.",
       "body": [
         "The individualized therapy uses genetic features of a patient's tumour to train the immune system to recognise selected signals. The study enrolled more than a thousand people with high-risk melanoma. Two-year recurrence-free survival was reported at 82.2% with the combination versus 70.0% in the comparison group.",
-        "Overall-survival data are not yet mature. Availability, cost and durability require further analysis and regulatory review. A positive Phase III trial does not make a treatment automatically available to every patient."
+        "Overall-survival data are not yet mature. Availability, cost and durability require further analysis and regulatory review. A positive Phase III trial does not make a treatment automatically available to every patient.",
+        "An improvement in relative risk is not an absolute cure rate.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Merck and Moderna and Associated Press establishes that The experimental combination was compared with standard treatment alone. One unresolved point remains: Overall survival, costs, access and long-term durability have not been established."
       ],
       "facts": [
         "The experimental combination was compared with standard treatment alone.",
@@ -125,7 +134,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/melanoma-vaccino-personalizzato-fase3.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "oncology",
+        "medicine",
+        "vaccines"
+      ]
     },
     {
       "id": "crispr-prime-editing-in-vivo-wilson",
@@ -134,11 +148,13 @@
       "title": "First in-body prime-editing treatment enters clinical testing",
       "dek": "A trial aims to correct a Wilson disease variant directly inside liver cells.",
       "summary": "Nature reported on 22 October the first known human treatment using in-vivo prime editing. Prime Medicine had announced dosing the first patient in the PM577a trial on 5 October, targeting a mutation linked to Wilson disease. Starting a trial is not proof that the condition has been cured.",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "A genetic-medicine milestone whose patient benefit is not yet established.",
       "body": [
         "Wilson disease interferes with copper metabolism and can harm the liver and nervous system. Prime editing aims to correct a precise DNA sequence without first removing cells from the patient for modification in a laboratory.",
-        "The editing machinery must reach the intended tissue while limiting unwanted changes, making safety and delivery crucial. Initial clinical data are expected in 2027; the approach remains experimental and limited to selected trial participants."
+        "The editing machinery must reach the intended tissue while limiting unwanted changes, making safety and delivery crucial. Initial clinical data are expected in 2027; the approach remains experimental and limited to selected trial participants.",
+        "First-in-human experimental treatment does not yet demonstrate clinical efficacy or lasting benefit.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Nature and Prime Medicine establishes that The developer reported dosing the first participant in a Phase I/II study. One unresolved point remains: Safety, editing efficiency and sustained clinical benefit have yet to be determined."
       ],
       "facts": [
         "The developer reported dosing the first participant in a Phase I/II study.",
@@ -179,7 +195,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/crispr-prime-editing-in-vivo-wilson.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "genetics",
+        "therapy",
+        "crispr"
+      ]
     },
     {
       "id": "pfas-acqua-potabile-stime-sottovalutate",
@@ -188,11 +209,13 @@
       "title": "US drinking-water study finds reporting thresholds may hide PFAS levels",
       "dek": "Treating low laboratory readings as zero can distort the average concentration of persistent pollutants.",
       "summary": "Texas Christian University researchers studying PFAS monitoring in US water systems report in Cell Reports Sustainability that treating results below reporting limits as zero can distort aggregate concentrations. Their model suggests the published averages may capture only about 44% of the estimated concentrations of the substances considered.",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Substantial implications for environmental monitoring and potentially widespread exposure assessment.",
       "body": [
         "A result below a reporting limit does not necessarily show that a chemical is absent; it means the laboratory cannot quantify its amount with enough confidence. Statistical methods can estimate the concentration missed when such observations are set to zero.",
-        "The research concerns measurement and reporting, not proof that every water system exceeds legal or health-based limits. Actual exposure and health risks depend on specific chemicals, concentrations, duration and further validated testing."
+        "The research concerns measurement and reporting, not proof that every water system exceeds legal or health-based limits. Actual exposure and health risks depend on specific chemicals, concentrations, duration and further validated testing.",
+        "A value below a measurement threshold does not mean that the concentration is zero.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Texas Christian University and The Washington Post establishes that Researchers analysed US monitoring data for PFAS chemicals. One unresolved point remains: Exposure and health risks in individual systems need more targeted measurements."
       ],
       "facts": [
         "Researchers analysed US monitoring data for PFAS chemicals.",
@@ -240,7 +263,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/pfas-acqua-potabile-stime-sottovalutate.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "environment",
+        "water",
+        "pfas"
+      ]
     },
     {
       "id": "euclid-scoperta-cometa-c2026s1",
@@ -249,11 +277,13 @@
       "title": "Euclid space telescope discovers a comet while surveying galaxies",
       "dek": "ESA's cosmology mission spotted a new Solar System object in September imagery.",
       "summary": "The European Space Agency announced on 19 October that the Euclid telescope had identified a previously unknown comet, designated C/2026 S1 (Euclid), in images collected in September. Software looking for moving objects found its trails among observations of distant galaxies.",
-      "impact": 2,
+      "impact": 1,
       "impactReason": "A useful discovery for astronomy methods, with limited wider impact so far.",
       "body": [
         "Euclid primarily maps the large-scale universe to investigate cosmic structures and their evolution. Its archive can also be analysed for nearby moving objects that shift against distant galaxies, providing an additional scientific use for the data.",
-        "The finding may help refine early comet-detection methods. It is not evidence that this comet poses an impact threat to Earth, nor confirmation that a future spacecraft mission will visit it."
+        "The finding may help refine early comet-detection methods. It is not evidence that this comet poses an impact threat to Earth, nor confirmation that a future spacecraft mission will visit it.",
+        "An astronomical discovery may be methodologically valuable without implying danger or immediate applications.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from European Space Agency and Phys.org establishes that ESA confirmed the new comet in Euclid's observations. One unresolved point remains: Detailed orbital refinements and exploration prospects require further observations."
       ],
       "facts": [
         "ESA confirmed the new comet in Euclid's observations.",
@@ -294,7 +324,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/euclid-scoperta-cometa-c2026s1.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "space",
+        "astronomy",
+        "comets"
+      ]
     }
   ]
 }

@@ -12,11 +12,13 @@
       "title": "Caldo estremo, uno studio stima oltre 50mila morti nelle città europee",
       "dek": "Il modello riferito all'estate 2026 attribuisce al riscaldamento causato dall'uomo circa due terzi della mortalità da caldo.",
       "summary": "Un'analisi guidata da London School of Hygiene & Tropical Medicine e Imperial College stima 50.391 decessi legati al caldo in 854 aree urbane europee nell'estate 2026, dei quali 32.619 attribuiti al cambiamento climatico di origine umana. Si tratta di stime epidemiologiche, non di un conteggio individuale dei certificati di morte.",
-      "impact": 5,
-      "impactReason": "Impatto scientifico eccezionale su salute pubblica europea, attribuzione climatica e prevenzione.",
+      "impact": 3.5,
+      "impactReason": "Impatto scientifico rilevante su salute pubblica europea, attribuzione climatica e prevenzione.",
       "body": [
         "Lo studio, pubblicato il 23 ottobre, analizza aree urbane in trenta paesi che rappresentano circa il 40% della popolazione dei territori inclusi. I ricercatori incrociano temperature e funzioni di rischio epidemiologico, confrontando le condizioni osservate con uno scenario senza la componente antropica del riscaldamento.",
-        "Il calore colpisce in modo particolare le fasce anziane e le persone con condizioni di salute pregresse. Le conclusioni sottolineano l'importanza di adattare gli ambienti urbani, proteggere i soggetti vulnerabili e contenere le emissioni, distinguendo però le scelte politiche dalle stime statistiche."
+        "Il calore colpisce in modo particolare le fasce anziane e le persone con condizioni di salute pregresse. Le conclusioni sottolineano l'importanza di adattare gli ambienti urbani, proteggere i soggetti vulnerabili e contenere le emissioni, distinguendo però le scelte politiche dalle stime statistiche.",
+        "Le stime epidemiologiche devono essere distinte dai singoli certificati e interpretate con le incertezze del modello. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo London School of Hygiene & Tropical Medicine e Associated Press, un dato documentato è: L'analisi comprende 854 aree urbane europee. Resta invece da accertare: La mortalità complessiva sull'intero continente è distinta dal campione di città analizzato e presenta incertezza statistica."
       ],
       "facts": [
         "L'analisi comprende 854 aree urbane europee.",
@@ -64,7 +66,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/estate-caldo-europa-mortalita-2026.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "clima",
+        "salute",
+        "europa"
+      ]
     },
     {
       "id": "melanoma-vaccino-personalizzato-fase3",
@@ -73,11 +80,13 @@
       "title": "Melanoma, dati positivi di fase III per una terapia mRNA personalizzata",
       "dek": "La combinazione con pembrolizumab riduce del 42% il rischio relativo di recidiva o morte nel gruppo studiato.",
       "summary": "Merck e Moderna hanno comunicato i risultati dettagliati dello studio INTerpath-001 su intismeran autogene, terapia sperimentale mRNA personalizzata, in associazione a pembrolizumab dopo la rimozione chirurgica del melanoma. Nel periodo osservato, il rischio relativo di recidiva o morte è diminuito del 42% rispetto alla sola immunoterapia. Non è una percentuale di pazienti guariti.",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Risultato clinico potenzialmente importante, ma non ancora una terapia universalmente disponibile.",
       "body": [
         "La terapia individualizzata usa caratteristiche genetiche del tumore per indurre il sistema immunitario a riconoscerne determinati segnali. Il trial include oltre mille pazienti con melanoma ad alto rischio. Nei gruppi confrontati la sopravvivenza senza recidiva a due anni è stata riportata rispettivamente all'82,2% e al 70,0%.",
-        "I dati sulla sopravvivenza globale non sono ancora maturi. Accesso, costo e durata dell'effetto richiedono ulteriori valutazioni, oltre alle procedure autorizzative: un risultato positivo di fase III non rende automaticamente disponibile un trattamento a tutti."
+        "I dati sulla sopravvivenza globale non sono ancora maturi. Accesso, costo e durata dell'effetto richiedono ulteriori valutazioni, oltre alle procedure autorizzative: un risultato positivo di fase III non rende automaticamente disponibile un trattamento a tutti.",
+        "Un miglioramento del rischio relativo non è una percentuale assoluta di guarigioni. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Merck and Moderna e Associated Press, un dato documentato è: La combinazione sperimentale è stata confrontata con la sola terapia standard. Resta invece da accertare: Sopravvivenza globale, costi, accesso e durata dei benefici non sono ancora definiti."
       ],
       "facts": [
         "La combinazione sperimentale è stata confrontata con la sola terapia standard.",
@@ -125,7 +134,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/melanoma-vaccino-personalizzato-fase3.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "oncologia",
+        "medicina",
+        "vaccini"
+      ]
     },
     {
       "id": "crispr-prime-editing-in-vivo-wilson",
@@ -134,11 +148,13 @@
       "title": "CRISPR, primo trattamento umano sperimentale con prime editing in vivo",
       "dek": "Avviata una sperimentazione per correggere una mutazione legata alla malattia di Wilson direttamente nel fegato.",
       "summary": "Nature ha descritto il 22 ottobre il primo utilizzo clinico noto del prime editing direttamente nel corpo umano. La società Prime Medicine aveva annunciato il 5 ottobre la somministrazione al primo paziente dello studio PM577a, rivolto a una mutazione collegata alla malattia di Wilson. L'avvio dello studio non equivale a una cura dimostrata.",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Pietra miliare nella sperimentazione genetica, con beneficio clinico ancora da provare.",
       "body": [
         "La malattia di Wilson ostacola il metabolismo del rame e può danneggiare fegato e sistema nervoso. Il prime editing cerca di modificare una piccola sequenza del DNA, senza dover prima prelevare e manipolare le cellule del paziente all'esterno del corpo.",
-        "La tecnica deve raggiungere le cellule corrette e limitare effetti indesiderati: per questo sono centrali misure di sicurezza e dati clinici. I primi risultati sono attesi nel 2027, mentre la procedura resta sperimentale e rivolta a pazienti selezionati."
+        "La tecnica deve raggiungere le cellule corrette e limitare effetti indesiderati: per questo sono centrali misure di sicurezza e dati clinici. I primi risultati sono attesi nel 2027, mentre la procedura resta sperimentale e rivolta a pazienti selezionati.",
+        "Una prima somministrazione sperimentale non dimostra ancora efficacia clinica né benefici durevoli. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Nature e Prime Medicine, un dato documentato è: La società ha annunciato la somministrazione al primo paziente nello studio di fase I/II. Resta invece da accertare: Sicurezza, efficienza dell'editing e benefici duraturi non sono ancora noti."
       ],
       "facts": [
         "La società ha annunciato la somministrazione al primo paziente nello studio di fase I/II.",
@@ -179,7 +195,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/crispr-prime-editing-in-vivo-wilson.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "genetica",
+        "terapia",
+        "crispr"
+      ]
     },
     {
       "id": "pfas-acqua-potabile-stime-sottovalutate",
@@ -188,11 +209,13 @@
       "title": "PFAS nell'acqua potabile USA: un modello rivela possibili sottostime",
       "dek": "Trattare come zero i risultati sotto la soglia di laboratorio altera le medie degli inquinanti persistenti.",
       "summary": "Uno studio della Texas Christian University pubblicato su Cell Reports Sustainability ha analizzato come vengono aggregati i dati sui PFAS nei sistemi idrici statunitensi. Secondo il modello, considerare nulli i valori inferiori alla soglia di refertazione potrebbe far sì che i dati rappresentino soltanto circa il 44% della concentrazione media stimata delle sostanze considerate.",
-      "impact": 4,
+      "impact": 2.5,
       "impactReason": "Importante per la qualità delle misure ambientali e la sorveglianza di vaste popolazioni.",
       "body": [
         "Il valore sotto soglia non implica necessariamente l'assenza di una sostanza, ma segnala che la strumentazione non può quantificarla con sufficiente certezza. Gli autori usano metodi statistici per stimare quanta parte della concentrazione resti esclusa quando questi risultati vengono aggregati come zero.",
-        "La ricerca valuta un problema di misurazione e reporting, non dimostra che ogni acquedotto superi i limiti legali o sanitari. Per una valutazione del rischio servono dati specifici per ogni sostanza, durata dell'esposizione e ulteriori misure indipendenti."
+        "La ricerca valuta un problema di misurazione e reporting, non dimostra che ogni acquedotto superi i limiti legali o sanitari. Per una valutazione del rischio servono dati specifici per ogni sostanza, durata dell'esposizione e ulteriori misure indipendenti.",
+        "Un valore inferiore alla soglia di quantificazione non significa concentrazione nulla. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo Texas Christian University e The Washington Post, un dato documentato è: Lo studio riguarda dati di monitoraggio statunitensi sui PFAS. Resta invece da accertare: Le effettive esposizioni e i rischi nelle singole reti richiedono ulteriori analisi."
       ],
       "facts": [
         "Lo studio riguarda dati di monitoraggio statunitensi sui PFAS.",
@@ -240,7 +263,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/pfas-acqua-potabile-stime-sottovalutate.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "ambiente",
+        "acqua",
+        "pfas"
+      ]
     },
     {
       "id": "euclid-scoperta-cometa-c2026s1",
@@ -249,11 +277,13 @@
       "title": "Euclid scopre una nuova cometa mentre osserva galassie lontane",
       "dek": "Il telescopio ESA rivela un oggetto del Sistema solare con immagini raccolte in settembre.",
       "summary": "L'Agenzia spaziale europea ha annunciato il 19 ottobre che il telescopio Euclid ha individuato nelle immagini di settembre una cometa prima sconosciuta, designata C/2026 S1 (Euclid). Un software progettato per rilevare oggetti in movimento ne ha riconosciuto le tracce tra le osservazioni di galassie lontane.",
-      "impact": 2,
+      "impact": 1,
       "impactReason": "Scoperta interessante e utile per nuove analisi, ma portata scientifica per ora limitata.",
       "body": [
         "Euclid è una missione dedicata soprattutto all'osservazione su larga scala dell'universo e alla sua evoluzione cosmologica. I dati possono però essere analizzati anche per individuare oggetti vicini che si spostano rispetto alle galassie, mostrando una possibilità scientifica aggiuntiva.",
-        "La scoperta è utile per la ricerca astronomica e potrebbe migliorare l'individuazione precoce delle comete. Non indica un imminente impatto con la Terra né conferma che l'oggetto diventerà bersaglio di una futura missione spaziale."
+        "La scoperta è utile per la ricerca astronomica e potrebbe migliorare l'individuazione precoce delle comete. Non indica un imminente impatto con la Terra né conferma che l'oggetto diventerà bersaglio di una futura missione spaziale.",
+        "Una scoperta astronomica può avere interesse metodologico senza implicare pericoli o applicazioni immediate. ",
+        "Per contestualizzare la vicenda bisogna distinguere i riscontri confermati dalle dichiarazioni. Secondo European Space Agency e Phys.org, un dato documentato è: ESA ha confermato una nuova cometa nelle osservazioni del telescopio Euclid. Resta invece da accertare: Parametri orbitali approfonditi e prospettive di esplorazione richiedono nuove osservazioni."
       ],
       "facts": [
         "ESA ha confermato una nuova cometa nelle osservazioni del telescopio Euclid.",
@@ -294,7 +324,12 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/euclid-scoperta-cometa-c2026s1.svg",
         "license": "Original editorial illustration",
         "kind": "illustration"
-      }
+      },
+      "tags": [
+        "spazio",
+        "astronomia",
+        "comete"
+      ]
     }
   ]
 }

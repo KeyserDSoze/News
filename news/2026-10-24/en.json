@@ -55,7 +55,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Oleshky is a Ukrainian town under Russian control in the Kherson region. The planned ceasefire is limited in scope and intended to enable deliveries and civilian movements.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Washington highlights the first lady's negotiating role; both Ukrainian and Russian officials have described their own participation. The humanitarian initiative remains separate from broader peace talks."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Washington highlights the first lady's negotiating role; both Ukrainian and Russian officials have described their own participation. The humanitarian initiative remains separate from broader peace talks.",
+        "A limited humanitarian pause can help aid deliveries without ending the wider conflict.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and Associated Press establishes that Oleshky is a Ukrainian town under Russian control in the Kherson region. One unresolved point remains: Whether aid convoys will gain access on schedule and what safeguards will govern evacuations remain to be verified."
       ],
       "questions": [
         {
@@ -67,8 +69,13 @@
           "answer": "Whether aid convoys will gain access on schedule and what safeguards will govern evacuations remain to be verified."
         }
       ],
-      "impact": 3,
-      "impactReason": "Humanitarian consequences for one occupied city, but a limited ceasefire rather than a worldwide agreement."
+      "impact": 1.5,
+      "impactReason": "Humanitarian consequences for one occupied city, but a limited ceasefire rather than a worldwide agreement.",
+      "tags": [
+        "ukraine",
+        "war",
+        "humanitarian"
+      ]
     },
     {
       "id": "champion-typhoon-taiwan",
@@ -116,7 +123,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Authorities reported one death after a man was swept away by waves. Air travel, power supplies and daily activities were disrupted.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Weather services expect the storm to weaken but warn that dangerous conditions can persist. Emergency agencies continue to update casualty and disruption figures."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Weather services expect the storm to weaken but warn that dangerous conditions can persist. Emergency agencies continue to update casualty and disruption figures.",
+        "Storm tracks and damage totals are reported through different sources and update cycles.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and Associated Press establishes that Authorities reported one death after a man was swept away by waves. One unresolved point remains: The final injury count and the storm's subsequent trajectory may change."
       ],
       "questions": [
         {
@@ -128,8 +137,13 @@
           "answer": "The final injury count and the storm's subsequent trajectory may change."
         }
       ],
-      "impact": 4,
-      "impactReason": "Deaths and widespread disruption across a densely populated island; major regional impact."
+      "impact": 2.5,
+      "impactReason": "Deaths and widespread disruption across a densely populated island; major regional impact.",
+      "tags": [
+        "taiwan",
+        "climate",
+        "emergency"
+      ]
     },
     {
       "id": "karak-jordan-church-attack",
@@ -175,7 +189,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: The shooting occurred during a funeral in the Karak area. The most recent sources consulted report seven fatalities and about forty wounded.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Jordanian leaders condemned the assault and promised accountability. Initial eyewitness accounts differ on the number of assailants."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Jordanian leaders condemned the assault and promised accountability. Initial eyewitness accounts differ on the number of assailants.",
+        "Early witness reports and casualty figures must be separated from completed investigations.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Associated Press via The Guardian and ANSA establishes that The shooting occurred during a funeral in the Karak area. One unresolved point remains: The motive, identities and exact number of attackers have not been independently established."
       ],
       "questions": [
         {
@@ -187,8 +203,13 @@
           "answer": "The motive, identities and exact number of attackers have not been independently established."
         }
       ],
-      "impact": 3,
-      "impactReason": "Civilian deaths and potential regional tensions, without demonstrated worldwide effects."
+      "impact": 1.5,
+      "impactReason": "Civilian deaths and potential regional tensions, without demonstrated worldwide effects.",
+      "tags": [
+        "jordan",
+        "security",
+        "victims"
+      ]
     },
     {
       "id": "hebron-west-bank-operation",
@@ -234,7 +255,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Israeli officials report two soldiers and two gunmen killed. Security forces imposed searches and movement restrictions around Hebron.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Israeli leaders describe the measures as a security response. Legal advocates and rights observers warn against collective punishment of civilians."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Israeli leaders describe the measures as a security response. Legal advocates and rights observers warn against collective punishment of civilians.",
+        "Military security and residents' rights require separate assessments of subsequent actions.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Associated Press and The Guardian establishes that Israeli officials report two soldiers and two gunmen killed. One unresolved point remains: How long restrictions will last and their civilian impact are not yet fully established."
       ],
       "questions": [
         {
@@ -253,8 +276,13 @@
           "id": "italian-activists-west-bank"
         }
       ],
-      "impact": 4,
-      "impactReason": "Security developments in the West Bank carry substantial regional and diplomatic consequences."
+      "impact": 2.5,
+      "impactReason": "Security developments in the West Bank carry substantial regional and diplomatic consequences.",
+      "tags": [
+        "west-bank",
+        "security",
+        "conflict"
+      ]
     },
     {
       "id": "italy-nationwide-demonstrations",
@@ -300,7 +328,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: ANSA documents protests announced in several Italian cities. Authorities prepared additional security precautions, notably in Milan.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Protest groups articulate different demands, including peace and household costs. Officials say the precautions aim to prevent renewed violence and protect public safety."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Protest groups articulate different demands, including peace and household costs. Officials say the precautions aim to prevent renewed violence and protect public safety.",
+        "A planned demonstration is not a completed event, and attendance does not imply involvement in violence.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from ANSA and Sky TG24 establishes that ANSA documents protests announced in several Italian cities. One unresolved point remains: Final attendance, routes and any incidents cannot be established from morning announcements."
       ],
       "questions": [
         {
@@ -312,8 +342,13 @@
           "answer": "Final attendance, routes and any incidents cannot be established from morning announcements."
         }
       ],
-      "impact": 2,
-      "impactReason": "Important demonstrations for Italy, but limited direct global effects."
+      "impact": 1,
+      "impactReason": "Important demonstrations for Italy, but limited direct global effects.",
+      "tags": [
+        "italy",
+        "protests",
+        "security"
+      ]
     },
     {
       "id": "brazil-presidential-runoff",
@@ -366,7 +401,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: The runoff election is scheduled for Sunday 25 October. The cited Datafolha poll surveyed 2,520 people between 20 and 22 October.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The candidates offer competing economic and diplomatic platforms. Diplomats and election observers emphasize official certification of any result."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The candidates offer competing economic and diplomatic platforms. Diplomats and election observers emphasize official certification of any result.",
+        "A polling tie remains compatible with different vote outcomes, especially within the error margin.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and ANSA establishes that The runoff election is scheduled for Sunday 25 October. One unresolved point remains: A poll is not an election result; the eventual winner and margin remain unknown."
       ],
       "questions": [
         {
@@ -378,8 +415,13 @@
           "answer": "A poll is not an election result; the eventual winner and margin remain unknown."
         }
       ],
-      "impact": 4,
-      "impactReason": "An election in a major world economy could alter trade and diplomatic relationships."
+      "impact": 2.5,
+      "impactReason": "An election in a major world economy could alter trade and diplomatic relationships.",
+      "tags": [
+        "brazil",
+        "elections",
+        "politics"
+      ]
     },
     {
       "id": "russian-diesel-shipments",
@@ -425,7 +467,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: AP reports the departure of a Russian diesel shipment bound for the US. The trade reflects changing political decisions concerning energy imports.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: US officials describe additional supply as a way to ease prices. Critics in Ukraine and the United States fear increased Russian export revenues."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: US officials describe additional supply as a way to ease prices. Critics in Ukraine and the United States fear increased Russian export revenues.",
+        "The departure of an energy cargo does not prove it has already changed consumer prices.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Associated Press and The Guardian establishes that AP reports the departure of a Russian diesel shipment bound for the US. One unresolved point remains: Any measurable impact on US retail fuel prices remains unknown."
       ],
       "questions": [
         {
@@ -446,8 +490,13 @@
           "id": "eni-fuel-price-cap-extension"
         }
       ],
-      "impact": 4,
-      "impactReason": "Energy-policy decisions involving major powers may affect markets, but the end-user price impact is unproven."
+      "impact": 2.5,
+      "impactReason": "Energy-policy decisions involving major powers may affect markets, but the end-user price impact is unproven.",
+      "tags": [
+        "energy",
+        "russia",
+        "fuel"
+      ]
     },
     {
       "id": "italian-activists-west-bank",
@@ -495,7 +544,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Five activists were detained and processed for expulsion. Italian consular authorities engaged with Israeli officials and arranged assistance.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Tajani disputed the justification for the detentions. Israeli authorities were handling the immigration and removal procedures."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Tajani disputed the justification for the detentions. Israeli authorities were handling the immigration and removal procedures.",
+        "Detention, removal decisions and arrival home are distinct stages.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and ANSA establishes that Five activists were detained and processed for expulsion. One unresolved point remains: Independent confirmation of their actual arrival in Italy is still needed."
       ],
       "questions": [
         {
@@ -514,8 +565,13 @@
           "id": "hebron-west-bank-operation"
         }
       ],
-      "impact": 2,
-      "impactReason": "Concerns civil rights and diplomacy involving a small group, without system-wide global effects."
+      "impact": 1,
+      "impactReason": "Concerns civil rights and diplomacy involving a small group, without system-wide global effects.",
+      "tags": [
+        "west-bank",
+        "italy",
+        "rights"
+      ]
     },
     {
       "id": "italy-hauliers-fuel-protests",
@@ -561,7 +617,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: Road blockades disrupted shipments in several southern regions. Italy's cabinet approved further measures to support the haulage sector.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Hauliers seek lasting protection against rising operating costs. The government points to new financial support and the need to restore transport."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Hauliers seek lasting protection against rising operating costs. The government points to new financial support and the need to restore transport.",
+        "Clearing roads does not mean warehouses and petrol stations have already restocked.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and ANSA establishes that Road blockades disrupted shipments in several southern regions. One unresolved point remains: It remains unclear whether the measures will prevent more disruptions after 27 October."
       ],
       "questions": [
         {
@@ -575,8 +633,13 @@
       ],
       "threadId": "italy-fuel-costs",
       "threadRecap": "On 23 October Eni confirmed a temporary fuel cap. By 24 October hauliers' protests showed that operating costs remained contentious despite government aid measures.",
-      "impact": 2,
-      "impactReason": "Significant disruption in southern Italy, though global relevance is limited."
+      "impact": 1,
+      "impactReason": "Significant disruption in southern Italy, though global relevance is limited.",
+      "tags": [
+        "italy",
+        "fuel",
+        "transport"
+      ]
     },
     {
       "id": "helium-critical-material",
@@ -622,7 +685,9 @@
       },
       "body": [
         "The verified reporting establishes the following points: The US Department of Energy announced the designation on 23 October. Helium has applications including semiconductor production and industrial processing.",
-        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Washington links the move to domestic industry and supply security. European buyers face uncertainty from interruptions and export restrictions elsewhere."
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Washington links the move to domestic industry and supply security. European buyers face uncertainty from interruptions and export restrictions elsewhere.",
+        "Strategic classification identifies potential supply vulnerabilities, not a proven shortage in every country.",
+        "To understand the story, confirmed developments must be separated from attributed statements. Reporting from Reuters and Euronews establishes that The US Department of Energy announced the designation on 23 October. One unresolved point remains: The scale, duration and sector-by-sector effects of potential shortages are still uncertain."
       ],
       "questions": [
         {
@@ -634,8 +699,13 @@
           "answer": "The scale, duration and sector-by-sector effects of potential shortages are still uncertain."
         }
       ],
-      "impact": 3,
-      "impactReason": "A key input for international industries; potential supply-chain effects are not yet quantified."
+      "impact": 1.5,
+      "impactReason": "A key input for international industries; potential supply-chain effects are not yet quantified.",
+      "tags": [
+        "helium",
+        "technology",
+        "supply"
+      ]
     }
   ],
   "section": "world"
