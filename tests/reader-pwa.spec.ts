@@ -120,3 +120,16 @@ test('the service worker and manifest are accessible from the GitHub Pages proje
  expect(worker.ok()).toBe(true);
  expect(await worker.text()).toContain('o-shell-0.0.1');
 });
+
+test('a real Chromium browser can install and activate the scoped service worker',async({browser})=>{
+ const context=await browser.newContext({serviceWorkers:'allow'});
+ try{
+  const page=await context.newPage();
+  await page.goto('http://127.0.0.1:4173/News/');
+  const scriptUrl=await page.evaluate(async()=>{
+   const registration=await navigator.serviceWorker.ready;
+   return registration.active?.scriptURL||'';
+  });
+  expect(scriptUrl).toMatch(/\/News\/sw\.js$/);
+ }finally{await context.close();}
+});
