@@ -12,7 +12,7 @@ export type SpeechState={
 export function useArticleSpeech(locale:Locale,identity:string,title?:string,href?:string):SpeechState{
  const player=useAudioPlayer();
  const prefix=identity+':';
- const active=player.session?.key.startsWith(prefix)
+ const active=player.session?.locale===locale&&player.session?.key.startsWith(prefix)
    ?player.session.key.slice(prefix.length):null;
  const start=useCallback((id:string,text:string,label?:string)=>{
    player.start({key:prefix+id,kind:id==='body'?'body':'article',locale,
