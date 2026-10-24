@@ -7,6 +7,12 @@ import { sections, sectionSize, storyHref, storyKey } from './types';
 import type { Article, Edition, Locale, Section, StoryIndex, StoryPreview, StoryRef } from './types';
 import { currentPath, isAppRoute, normalizeLegacyRoute, routeFromPath, sectionHref, searchHref } from './routes';
 import type { Route } from './routes';
+import AppMenu from './AppMenu';
+import ReleasePage from './ReleasePage';
+import { ArticleActions } from './ArticleActions';
+import { buildArticleExports } from './articleExport';
+import type { ArticlePart } from './articleExport';
+import { useArticleSpeech } from './readerSpeech';
 function initialLocale():Locale {
   try {const stored=localStorage.getItem('og-language');if(stored==='it'||stored==='en')return stored;}catch{}
   return navigator.language.toLowerCase().startsWith('it')?'it':'en';
@@ -124,6 +130,7 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
   },[route.date,route.section,locale]);
   const article=edition?.articles.find(x=>x.id===route.id),t=messages[locale];
   const [shareError,setShareError]=useState(false);
+  const reader=useArticleSpeech(locale,route.section+'/'+route.date+'/'+route.id);
   const canonicalUrl = () => new URL(storyHref(route),window.location.origin).href;
   const copyLink=async()=>{
     const url=canonicalUrl();
@@ -150,6 +157,12 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
   if(!article)return <main className="container article-loading"><a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a><p role="status">{error?t.error:t.loading}</p></main>;
   const paragraphs=article.body?.length?article.body:[article.facts.join(' '),article.perspectives.join(' ')];
   const questions=article.questions?.length?article.questions:article.unknowns.map(s=>({question:t.unknowns,answer:s}));
+  const exports=buildArticleExports(article,locale,route.section,route.date,index);
+  const controls=(partId:ArticlePart)=>{
+    const part=exports.parts.find(p=>p.id===partId);
+    return part?<ArticleActions key={partId} id={partId} label={part.title} markdown={part.markdown}
+      speechText={part.speech} locale={locale} reader={reader}/>:null;
+  };
   return <main className="article-view container" id="content">
     <div className="article-toolbar"><a className="back-link" href={returnTo}><ArrowLeft size={17}/>{t.back}</a>
       <div className="article-share-actions">
@@ -157,25 +170,33 @@ function ArticleView({route,locale,index,returnTo}:{route:Extract<Route,{kind:'a
         <button type="button" onClick={copyLink} className="share-button copy-share"><Copy size={16}/>{copied?t.copied:t.copyLink}</button>
       </div>
     </div>
+    <div className="article-full-actions">
+      <span className="detail-kicker">{locale==='it'?'INTERO ARTICOLO':'FULL ARTICLE'}</span>
+      <ArticleActions id="full" label={locale==='it'?'Articolo completo':'Full article'}
+        markdown={exports.markdown} speechText={exports.speech} locale={locale} reader={reader} full/>
+    </div>
+    {reader.error&&<p className="reader-error" role="alert">{reader.error}</p>}
     {shareError&&<p className="share-error" role="alert">{locale==='it'?'Non è stato possibile copiare il link.':'Could not copy the link.'}</p>}
     <div className="article-hero"><div className="detail-kicker"><span className="red-square"/>{sectionName(route.section,locale)} <span className="separator">/</span> {formatDate(route.date,locale)} <span className="separator">/</span> {String(article.rank).padStart(2,'0')}</div>
       <h1>{article.title}</h1><p className="article-dek">{article.dek}</p>
       <Impact article={article} section={route.section} locale={locale}/><Tags article={article} locale={locale}/><div className="article-source-meta"><Check size={15}/>{article.sources.length} {t.sources.toLowerCase()} <span>·</span> O / {t.name}</div>
     </div>
-    <section className="article-summary" aria-label={t.summary}><div className="article-summary-heading"><span className="summary-bullet">O.</span><h2>{t.summary}</h2></div><p>{article.summary}</p></section>
+    <section className="article-summary" aria-label={t.summary}><div className="article-summary-heading"><span className="summary-bullet">O.</span><h2>{t.summary}</h2>{controls("summary")}</div><p>{article.summary}</p></section>
     <div className="article-layout">
       <div className="article-main">
         <Picture article={article} locale={locale} section={route.section}/>
         <section className="article-body"><div className="detail-kicker"><BookOpen size={17}/>{t.fullStory}</div>
-          <h2>{t.fullStory}</h2>{paragraphs.map((p,i)=><p key={i}>{p}</p>)}
-          <div className="context-panel"><h3>{t.facts}</h3><ul>{article.facts.map((f,i)=><li key={i}>{f}</li>)}</ul></div>
-          <div className="context-panel perspectives-panel"><h3>{t.perspectives}</h3><ul>{article.perspectives.map((p,i)=><li key={i}>{p}</li>)}</ul></div>
+          <h2>{t.fullStory}</h2>{controls("body")}{paragraphs.map((p,i)=><p key={i}>{p}</p>)}
+          <div className="context-panel"><h3>{t.facts}</h3>{controls("facts")}<ul>{article.facts.map((f,i)=><li key={i}>{f}</li>)}</ul></div>
+          <div className="context-panel perspectives-panel"><h3>{t.perspectives}</h3>{controls("perspectives")}<ul>{article.perspectives.map((p,i)=><li key={i}>{p}</li>)}</ul></div>
         </section>
+        {controls("dossier")}
         <StoryRelationships article={article} date={route.date} section={route.section} locale={locale} index={index}/>
+        <div className="sources-export-actions">{controls("sources")}</div>
         <Sources article={article} locale={locale}/>
         <section className="article-assessment" aria-label={t.assessment}>
           <div className="detail-kicker"><span className="red-square"/>{t.assessment}</div>
-          <h2>{t.assessment}</h2>
+          <h2>{t.assessment}</h2>{controls("assessment")}
           {questions.map((q,i)=><div className="objective-question" key={i}><span className="question-index">{String(i+1).padStart(2,'0')}</span><div><h3>{q.question}</h3><p>{q.answer}</p></div></div>)}
           {article.unknowns.map((s,i)=><p key={i} className="assessment-note"><strong>{t.unknowns}:</strong> {s}</p>)}
         </section>
@@ -226,7 +247,7 @@ export default function App(){
     try{return JSON.parse(sessionStorage.getItem('o-scroll-positions')||'{}') as Record<string,number>;}catch{return {};}
   })());
   const current=useRef<{route:Route;path:string}>({route,path:currentPath()});
-  const index=useStoryIndex(locale),t=messages[locale],selected=route.kind==='search'?'world':route.section;
+  const index=useStoryIndex(locale),t=messages[locale],selected=route.kind==='search'||route.kind==='releases'?'world':route.section;
   useEffect(()=>{
     if('scrollRestoration' in history)history.scrollRestoration='manual';
     const record=(path:string)=>{
@@ -277,7 +298,7 @@ export default function App(){
   },[]);
   useEffect(()=>{
     document.documentElement.dataset.theme=theme;document.documentElement.lang=locale;
-    document.title='O — '+(route.kind==='search'?t.search:route.kind==='article'?'News':sectionName(selected,locale));
+    document.title='O — '+(route.kind==='search'?t.search:route.kind==='releases'?(locale==='it'?'Note di rilascio':'Release notes'):route.kind==='article'?'News':sectionName(selected,locale));
     try{localStorage.setItem('og-theme',theme);localStorage.setItem('og-language',locale);}catch{}
   },[theme,locale,selected,route.kind,t.search]);
   const changeLocale=(lang:Locale)=>setLocale(lang);
@@ -289,12 +310,14 @@ export default function App(){
         <a className={'header-search '+(route.kind==='search'?'active':'')} href={searchHref()} aria-label={t.searchOpen}><SearchIcon size={18}/><span>{t.search}</span></a>
         <button type="button" className="lang-btn" onClick={()=>changeLocale(locale==='it'?'en':'it')} aria-label={locale==='it'?t.english:t.italian}><Globe2 size={17}/><span>{locale.toUpperCase()}</span><span className="lang-arrow">↔</span></button>
         <button type="button" className="icon-btn" aria-label={theme==='dark'?t.light:t.dark} onClick={()=>setTheme(theme==='dark'?'light':'dark')}>{theme==='dark'?<Sun size={20}/>:<Moon size={20}/>}</button>
+        <AppMenu locale={locale}/>
       </div>
     </header>
     <div className="container"><nav className="four-nav" aria-label={locale==='it'?'Sezioni':'Sections'}>{sections.map((s,i)=><a key={s} href={sectionHref(s)} className={route.kind==='section'&&selected===s?'active':''} aria-current={route.kind==='section'&&selected===s?'page':undefined}><small>{String(i+1).padStart(2,'0')}</small><strong>{sectionName(s,locale)}</strong><span>{String(sectionSize[s]).padStart(2,'0')}</span></a>)}</nav></div>
     {visited.map(s=><div key={s} data-section-root={s} hidden={route.kind!=='section'||route.section!==s}><SectionPage section={s} locale={locale} index={index}/></div>)}
     {searchSeen&&<div data-search-root hidden={route.kind!=='search'}><SearchPage locale={locale} presetTag={searchTag}/></div>}
     {route.kind==='article'&&<ArticleView route={route} locale={locale} index={index} returnTo={returnTo}/>}
+    {route.kind==='releases'&&<ReleasePage locale={locale}/>}
     <footer id="method"><div className="container footer-grid"><div><div className="footer-logo">O<span>.</span></div><h2>{t.definition}</h2><p>{t.about} {t.mediaNotice}</p><p className="zero-footer">{t.zero1} <span>/</span> {t.zero2}</p><a className="footer-link" href="https://github.com/KeyserDSoze/News/blob/main/docs/EDITORIAL_POLICY.md" target="_blank" rel="noopener noreferrer">{t.methodologyLink} <ArrowRight size={16}/></a></div>
       <div className="footer-side"><div className="footer-rule">01 / {t.methodology.toUpperCase()}</div><p>{t.footnote}</p><div className="footer-rule">02 / OPEN SOURCE</div><a href="https://github.com/KeyserDSoze/News" target="_blank" rel="noopener noreferrer">{t.openSource} <ExternalLink size={14}/></a></div></div>
       <div className="footer-bottom container"><span>© {new Date().getFullYear()} O — {t.name.toUpperCase()}</span><span>ZERO ADS. FACTS FIRST.</span></div>
