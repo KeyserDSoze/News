@@ -52,7 +52,28 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/ukraine-starlink-restrictions.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: Ukrainian sources described speed limitations introduced on 13 October for some satellite connections. Ukraine uses satellite networks for communications and drone operations during the conflict.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Trump stated that access had been restored and said he might contact Elon Musk. Ukrainian officials interviewed by news outlets reported ongoing service limitations."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "Ukrainian sources described speed limitations introduced on 13 October for some satellite connections. Ukraine uses satellite networks for communications and drone operations during the conflict."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "The technical scope of the restrictions and the authority responsible for imposing them remain unverified independently."
+        }
+      ],
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "oleshky-humanitarian-ceasefire"
+        }
+      ]
     },
     {
       "id": "france-trappes-shooting",
@@ -95,7 +116,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/france-trappes-shooting.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: One fatality and multiple injuries are confirmed in the Trappes–La Verrière area. A suspect was arrested, and anti-terrorism prosecutors took charge of the inquiry.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: President Macron and local officials characterized the attack as apparently racist. Those public descriptions do not replace judicial findings about motive."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "One fatality and multiple injuries are confirmed in the Trappes–La Verrière area. A suspect was arrested, and anti-terrorism prosecutors took charge of the inquiry."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "Early injury counts differed between news agencies; the motive and criminal responsibility have not been finally adjudicated."
+        }
+      ]
     },
     {
       "id": "kenya-nairobi-building-collapse",
@@ -138,7 +173,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/kenya-nairobi-building-collapse.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: The building collapsed in the Eastleigh neighbourhood and emergency teams responded. Local authorities reported fears of people trapped and activity in ground-floor shops.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Kenyan officials urged onlookers to clear routes for rescue operations. The incident raises questions about construction oversight without establishing responsibility in this case."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "The building collapsed in the Eastleigh neighbourhood and emergency teams responded. Local authorities reported fears of people trapped and activity in ground-floor shops."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "The number of people affected, potential deaths and structural cause were not determined in early reporting."
+        }
+      ]
     },
     {
       "id": "global-oil-price-surge",
@@ -188,7 +237,30 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/global-oil-price-surge.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: Reuters reported Brent settling at $116.72 and WTI at $103.27 per barrel. Prices climbed while traders assessed risks to Middle Eastern energy supplies.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Market participants attributed part of the move to geopolitical uncertainty. Higher crude prices can influence transport costs, though pump prices also depend on taxes and distribution."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "Reuters reported Brent settling at $116.72 and WTI at $103.27 per barrel. Prices climbed while traders assessed risks to Middle Eastern energy supplies."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "How long the rally will last and its ultimate impact on consumers cannot be inferred from one trading session."
+        }
+      ],
+      "threadId": "global-energy-prices",
+      "threadRecap": "On 23 October, rising crude prices reflected fears about worldwide supply. This timeline tracks subsequent developments without treating market prices and political decisions as the same event.",
+      "related": [
+        {
+          "date": "2026-10-23",
+          "section": "world",
+          "id": "eni-fuel-price-cap-extension"
+        }
+      ]
     },
     {
       "id": "myanmar-suu-kyi-family-call",
@@ -238,7 +310,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/myanmar-suu-kyi-family-call.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: Suu Kyi has been detained since the February 2021 military takeover and spoke with her son on 22 October 2026. Aris's accounts were reported separately by news organisations on 22 and 23 October.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Aris welcomed the human contact but continues to call for his mother's release. Military-backed authorities enabled one conversation without announcing any end to detention."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "Suu Kyi has been detained since the February 2021 military takeover and spoke with her son on 22 October 2026. Aris's accounts were reported separately by news organisations on 22 and 23 October."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "Her overall health, freedom of communication and access to sustained independent care remain difficult to verify."
+        }
+      ]
     },
     {
       "id": "us-ex-fbi-officials-charges",
@@ -281,7 +367,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/us-ex-fbi-officials-charges.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: Two former officials face federal charges in Washington. The allegations concern congressional statements and investigation activities before the 2020 election.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Prosecutors allege knowingly false statements. Defence lawyers dispute the case and seek a prompt court hearing."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "Two former officials face federal charges in Washington. The allegations concern congressional statements and investigation activities before the 2020 election."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "The allegations require judicial testing; criminal culpability and claims of political motive remain unproven."
+        }
+      ]
     },
     {
       "id": "iaea-nuclear-2060-projections",
@@ -324,7 +424,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/iaea-nuclear-2060-projections.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: IAEA data places global nuclear generating capacity near 377 GW at the end of 2025. The agency publishes both high- and low-growth scenarios for 2060.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Grossi points to rising electricity demand, including data centres, and energy-security concerns. Real outcomes depend on investment costs, build times, safety and waste-management decisions."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "IAEA data places global nuclear generating capacity near 377 GW at the end of 2025. The agency publishes both high- and low-growth scenarios for 2060."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "Neither scenario is guaranteed; projections are not binding construction commitments by countries."
+        }
+      ]
     },
     {
       "id": "ecb-inflation-expectations",
@@ -367,7 +481,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/ecb-inflation-expectations.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: The ECB released the survey on 23 October using September responses. The median twelve-month expectation increased by 0.1 percentage point month on month.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The ECB tracks the survey to understand price perceptions and household confidence. Respondents reported greater uncertainty, which should not be confused with a realised inflation increase of the same size."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "The ECB released the survey on 23 October using September responses. The median twelve-month expectation increased by 0.1 percentage point month on month."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "Actual inflation over the next year may differ materially from the surveyed expectations."
+        }
+      ]
     },
     {
       "id": "eni-fuel-price-cap-extension",
@@ -410,7 +538,23 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/eni-fuel-price-cap-extension.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: An Eni spokesperson confirmed the intended extension to ANSA. The stated reference caps are €2.25 per litre for diesel and €1.99 for petrol across the relevant network.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: Eni frames the cap as temporary relief from elevated prices and supply pressures. Consumer groups say the measure may provide limited household savings without wider policy action."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "An Eni spokesperson confirmed the intended extension to ANSA. The stated reference caps are €2.25 per litre for diesel and €1.99 for petrol across the relevant network."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "Future levels of the cap and savings to drivers depend on company decisions and wider market conditions."
+        }
+      ],
+      "threadId": "italy-fuel-costs",
+      "threadRecap": "On 23 October Eni confirmed a temporary fuel price cap. This dossier tracks how businesses, workers and the government respond to higher transport costs."
     },
     {
       "id": "eurallumina-workers-portovesme",
@@ -453,7 +597,22 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/eurallumina-workers-portovesme.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "The verified reporting establishes the following points: The four protesters came down from the industrial structure on 23 October. Further talks about the plant are planned for 29 October.",
+        "It is important to attribute claims accurately and keep interpretations distinct from established facts: The workers' representatives said the meeting fell short of their demands but acknowledged a formal commitment. Regional officials called for concrete money to safeguard the site, jobs and industrial assets."
+      ],
+      "questions": [
+        {
+          "question": "Which details are supported by the reporting?",
+          "answer": "The four protesters came down from the industrial structure on 23 October. Further talks about the plant are planned for 29 October."
+        },
+        {
+          "question": "What still needs verification?",
+          "answer": "Funding levels and a shared long-term plan for production had not yet been established."
+        }
+      ]
     }
-  ]
-}
+  ],
+  "section": "world"
+}\n

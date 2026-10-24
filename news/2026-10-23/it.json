@@ -52,7 +52,28 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/ukraine-starlink-restrictions.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Fonti ucraine hanno segnalato l'esistenza di limiti di velocità introdotti il 13 ottobre per alcune connessioni satellitari. Il servizio è utilizzato anche per comunicazioni e operazioni con droni nel contesto della guerra in Ucraina.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Trump sostiene che l'accesso sia stato ripristinato e si è detto pronto a parlare con Elon Musk. I funzionari ucraini contattati dalle testate riportano persistenti disservizi nelle attività sul campo."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Fonti ucraine hanno segnalato l'esistenza di limiti di velocità introdotti il 13 ottobre per alcune connessioni satellitari. Il servizio è utilizzato anche per comunicazioni e operazioni con droni nel contesto della guerra in Ucraina."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Mancano una verifica tecnica indipendente dell'estensione dei limiti e chiarimenti pubblici sull'autorità che li ha disposti."
+        }
+      ],
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "oleshky-humanitarian-ceasefire"
+        }
+      ]
     },
     {
       "id": "france-trappes-shooting",
@@ -95,7 +116,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/france-trappes-shooting.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: È confermata una vittima mortale e il ferimento di più persone nell'area di Trappes e La Verrière. La polizia ha arrestato un sospettato e la procura nazionale antiterrorismo ha assunto competenza sull'inchiesta.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Il presidente Macron e responsabili locali hanno interpretato i fatti come un attacco con matrice razzista. La qualificazione giudiziaria finale del movente resta distinta dalle valutazioni pubbliche delle autorità."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "È confermata una vittima mortale e il ferimento di più persone nell'area di Trappes e La Verrière. La polizia ha arrestato un sospettato e la procura nazionale antiterrorismo ha assunto competenza sull'inchiesta."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Il conteggio dei feriti varia tra gli aggiornamenti delle agenzie; movente e responsabilità devono ancora essere accertati definitivamente."
+        }
+      ]
     },
     {
       "id": "kenya-nairobi-building-collapse",
@@ -138,7 +173,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/kenya-nairobi-building-collapse.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: L'edificio in costruzione è crollato nel quartiere Eastleigh e le squadre di emergenza sono intervenute. Le autorità locali hanno segnalato persone potenzialmente sotto le macerie e negozi al piano terra.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Le autorità keniane chiedono di mantenere liberi gli accessi per i soccorritori. Il disastro riapre il dibattito sulla vigilanza edilizia, ma non individua ancora responsabilità specifiche."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "L'edificio in costruzione è crollato nel quartiere Eastleigh e le squadre di emergenza sono intervenute. Le autorità locali hanno segnalato persone potenzialmente sotto le macerie e negozi al piano terra."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Numero delle persone coinvolte, eventuali decessi e cause strutturali non risultavano determinati negli aggiornamenti iniziali."
+        }
+      ]
     },
     {
       "id": "global-oil-price-surge",
@@ -188,7 +237,30 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/global-oil-price-surge.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Reuters indica una chiusura del Brent a 116,72 dollari e del WTI a 103,27 dollari. I prezzi sono aumentati mentre i mercati valutavano il rischio di interruzioni energetiche in Medio Oriente.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Investitori e analisti attribuiscono una parte dell'aumento all'incertezza geopolitica. Un rialzo del greggio può aumentare le pressioni sui costi, ma l'effetto finale sui carburanti dipende anche da tasse e filiera."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Reuters indica una chiusura del Brent a 116,72 dollari e del WTI a 103,27 dollari. I prezzi sono aumentati mentre i mercati valutavano il rischio di interruzioni energetiche in Medio Oriente."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "La durata del rialzo e l'impatto sui consumatori non sono deducibili dalla sola seduta di mercato."
+        }
+      ],
+      "threadId": "global-energy-prices",
+      "threadRecap": "Il 23 ottobre il rialzo del greggio segnala le tensioni sulle forniture mondiali. Questa cronologia segue gli sviluppi successivi senza confondere prezzi di mercato e decisioni politiche.",
+      "related": [
+        {
+          "date": "2026-10-23",
+          "section": "world",
+          "id": "eni-fuel-price-cap-extension"
+        }
+      ]
     },
     {
       "id": "myanmar-suu-kyi-family-call",
@@ -238,7 +310,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/myanmar-suu-kyi-family-call.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Suu Kyi è detenuta dal colpo di Stato del febbraio 2021 e ha parlato con il figlio Kim Aris il 22 ottobre 2026. Le dichiarazioni di Aris sono state raccolte da testate distinte il 22 e 23 ottobre.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Aris ha accolto il contatto come un passo umano importante e continua a chiederne la liberazione. Le autorità militari hanno reso possibile una telefonata, senza annunciare una revisione della detenzione."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Suu Kyi è detenuta dal colpo di Stato del febbraio 2021 e ha parlato con il figlio Kim Aris il 22 ottobre 2026. Le dichiarazioni di Aris sono state raccolte da testate distinte il 22 e 23 ottobre."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "La salute complessiva, la libertà di comunicazione e l'accesso continuativo a visite indipendenti non sono pienamente verificabili."
+        }
+      ]
     },
     {
       "id": "us-ex-fbi-officials-charges",
@@ -281,7 +367,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/us-ex-fbi-officials-charges.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Due ex funzionari sono stati formalmente accusati in un tribunale federale a Washington. Il caso riguarda dichiarazioni rese al Congresso e attività investigative precedenti alle elezioni del 2020.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La procura ritiene che le dichiarazioni fossero consapevolmente false. La difesa respinge le contestazioni e chiede una rapida verifica giudiziaria."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Due ex funzionari sono stati formalmente accusati in un tribunale federale a Washington. Il caso riguarda dichiarazioni rese al Congresso e attività investigative precedenti alle elezioni del 2020."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Le accuse devono essere valutate in tribunale; responsabilità penale e motivazioni politiche non sono state accertate."
+        }
+      ]
     },
     {
       "id": "iaea-nuclear-2060-projections",
@@ -324,7 +424,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/iaea-nuclear-2060-projections.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: La capacità nucleare mondiale a fine 2025 era di circa 377 GW secondo l'AIEA. Il rapporto considera sia uno scenario di crescita alta sia uno più prudente per il 2060.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Grossi collega l'interesse al fabbisogno elettrico, anche dei centri dati, e alla sicurezza energetica. La valutazione degli impatti dipende da costi, tempi, sicurezza e gestione dei rifiuti; il potenziale tecnico non rende inevitabili gli investimenti."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "La capacità nucleare mondiale a fine 2025 era di circa 377 GW secondo l'AIEA. Il rapporto considera sia uno scenario di crescita alta sia uno più prudente per il 2060."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Non è determinabile quale scenario si realizzerà: le proiezioni non sono impegni vincolanti degli Stati."
+        }
+      ]
     },
     {
       "id": "ecb-inflation-expectations",
@@ -367,7 +481,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/ecb-inflation-expectations.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: La rilevazione è stata diffusa il 23 ottobre e riguarda le risposte raccolte a settembre. Le aspettative mediane a dodici mesi sono salite di 0,1 punti percentuali rispetto ad agosto.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La BCE usa queste indagini per monitorare la percezione dei prezzi e la fiducia. Le famiglie riportano incertezza maggiore; questo non equivale a un rialzo già avvenuto dei prezzi nella stessa misura."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "La rilevazione è stata diffusa il 23 ottobre e riguarda le risposte raccolte a settembre. Le aspettative mediane a dodici mesi sono salite di 0,1 punti percentuali rispetto ad agosto."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "L'inflazione effettiva dei prossimi dodici mesi potrà divergere dalle aspettative espresse nel sondaggio."
+        }
+      ]
     },
     {
       "id": "eni-fuel-price-cap-extension",
@@ -410,7 +538,23 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/eni-fuel-price-cap-extension.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Un portavoce di Eni ha confermato ad ANSA la continuazione del meccanismo fino a fine anno. I livelli comunicati sono 2,25 euro/litro per il gasolio e 1,99 euro/litro per la benzina nella rete interessata.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Eni presenta il tetto come risposta temporanea alle difficoltà di approvvigionamento e ai prezzi elevati. Le associazioni dei consumatori segnalano che la misura da sola potrebbe incidere poco sulle spese delle famiglie."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Un portavoce di Eni ha confermato ad ANSA la continuazione del meccanismo fino a fine anno. I livelli comunicati sono 2,25 euro/litro per il gasolio e 1,99 euro/litro per la benzina nella rete interessata."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Evoluzione dei massimali e risparmi effettivi dipendono dalle future decisioni aziendali e dalle condizioni del mercato."
+        }
+      ],
+      "threadId": "italy-fuel-costs",
+      "threadRecap": "Il 23 ottobre Eni conferma un limite temporaneo ai prezzi del carburante. Seguiremo come imprese, lavoratori e governo reagiscono all'aumento dei costi."
     },
     {
       "id": "eurallumina-workers-portovesme",
@@ -453,7 +597,22 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-23/assets/eurallumina-workers-portovesme.svg",
         "license": "Original artwork (editorial illustration)",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: I quattro manifestanti sono scesi dall'impianto nel pomeriggio del 23 ottobre. Una nuova riunione sul futuro del sito industriale è programmata per il 29 ottobre.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La rappresentanza sindacale valuta il vertice insufficiente ma registra un primo impegno formale. La Regione chiede risorse concrete per sicurezza, continuità del sito e tutela dei lavoratori."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "I quattro manifestanti sono scesi dall'impianto nel pomeriggio del 23 ottobre. Una nuova riunione sul futuro del sito industriale è programmata per il 29 ottobre."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Non risultano definiti né il finanziamento necessario né un piano condiviso per il rilancio produttivo."
+        }
+      ]
     }
-  ]
-}
+  ],
+  "section": "world"
+}\n

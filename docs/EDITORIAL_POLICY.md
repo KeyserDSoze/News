@@ -30,3 +30,15 @@ Ten stories per edition chosen for public significance, impact, timeliness, geog
 
 ## Daily workflow
 Ask ChatGPT to research **the top ten stories for YYYY-MM-DD**, compare independent reporting and primary documents, flag unresolved claims, propose Italian/English versions and appropriately licensed images. Review the drafts before merging into `news/`. Push triggers validation and static deploy, **not autonomous fact-checking**. No unattended publishing until a dedicated editorial review protocol exists.
+
+
+## Four independent editorial briefings
+- **World (10)**: the ten most consequential world stories, with international reporting and broad geographic perspective.
+- **Italy (5)**: five significant national developments, with trustworthy local and national reporting.
+- **Technology (5)**: five changes in technology with technical and societal context.
+- **Science (5)**: five research developments, preferably with peer-reviewed papers and institutional primary sources. Explicitly distinguish new evidence from preprints and speculative claims.
+
+The counts are enforced separately per issue and language. Do not pad an edition, copy World items into specialist briefings to fill slots, or claim a specialist issue exists before five independently verified articles are ready.
+
+## Long-form, dossiers and objective questions
+A front-page story begins with a brief summary. Its dedicated article then presents a complete contextual explanation, sources, and **objective questions and observations last**. For ongoing issues, assign a stable `threadId` only when there is a meaningful shared story. Keep the dated recap accurate as of that day, not retrospectively prophetic. The compiled index creates backlinks automatically so old stories surface later developments. Use `related` for adjacent but different stories, and never imply causation merely because two articles share a topic. Every timeline episode must provide a direct link and clear date. Historical accuracy and corrections are especially important.

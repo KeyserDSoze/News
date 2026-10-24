@@ -20,3 +20,14 @@ Actions artifacts have retention policies and are not guaranteed eternal. GitHub
 - Initial one-week preload is a maximum, not fake empty days. When fewer than 7 days exist, only existing days are loaded.
 - Static hosting is not a search index or a backend. Large archives may later need yearly manifests to avoid a large top-level manifest.
 - Custom domain, news alerts, scheduled editorial automation and RSS are optional later improvements.
+
+
+## Four desks, article routes and longitudinal reporting (ADR 0004)
+- The masthead is **O**, interpreted as Oggettivizzatore (Italian), Objectivizer (English), and *zero advertisements / zero sensational headlines*.
+- Each date can have a World edition of exactly ten stories in `news/YYYY-MM-DD/{it,en}.json` (backwards-compatible legacy path), and independently curated Italy, Technology and Science editions of exactly five each in `news/YYYY-MM-DD/{italy,technology,science}/{it,en}.json`.
+- Unpublished specialist editions are **not** synthesized from World content; they show an honest editorial placeholder until five fully sourced stories exist.
+- The compiler builds a section-aware `news/index.json` and compact `news/story-index/{it,en}.json`. The index includes dates, bilingual previews, dossier IDs and explicit connections; each link can open an article directly without downloading the entire archive.
+- Hash routes `#/article/{section}/{date}/{id}` are shareable and refresh-safe on GitHub Pages; navigation never requires an SPA backend fallback.
+- `threadId` attaches updates to the *same developing topic*. `threadRecap` is an editor-reviewed concise recap **as of that day's edition**, which must never include future developments. The runtime joins all articles with the same thread and displays a chronological timeline with links to earlier/later reporting on *both* older and newer articles.
+- `related` references point to useful contextual articles on a separate topic. Reverse links are generated from the static story index; they must not be confused with the same-story chronology.
+- `body` provides longer reporting beyond the overview, while `questions` contains explicit fact-focused questions/answers at the end of the article. Historical editions can be enhanced with these fields without rewriting existing source claims.

@@ -52,7 +52,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/oleshky-humanitarian-ceasefire.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: La città di Oleshky è sotto controllo russo nella regione ucraina di Kherson. La tregua annunciata è circoscritta e destinata alla distribuzione di aiuti e al movimento dei civili.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Washington rivendica il ruolo negoziale della first lady; funzionari ucraini e russi hanno descritto la propria partecipazione. L'iniziativa umanitaria è distinta dalle trattative più ampie sulla guerra."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "La città di Oleshky è sotto controllo russo nella regione ucraina di Kherson. La tregua annunciata è circoscritta e destinata alla distribuzione di aiuti e al movimento dei civili."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Da verificare sul campo quando inizierà l'accesso effettivo dei convogli e quali garanzie accompagneranno le evacuazioni."
+        }
+      ]
     },
     {
       "id": "champion-typhoon-taiwan",
@@ -97,7 +111,21 @@
         "kind": "photo",
         "fallbackSrc": "news/2026-10-24/assets/champion-typhoon-taiwan.svg",
         "caption": "Immagine satellitare precedente al passaggio su Taiwan"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Le autorità hanno segnalato la morte di una persona trascinata dalle onde. Aeroporti, trasporti e rete elettrica hanno subito interruzioni e cancellazioni.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I bollettini meteorologici descrivono un sistema in indebolimento, ma ancora in grado di causare danni. I bilanci di vittime e disagi vengono aggiornati dalle autorità di emergenza."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Le autorità hanno segnalato la morte di una persona trascinata dalle onde. Aeroporti, trasporti e rete elettrica hanno subito interruzioni e cancellazioni."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Il bilancio definitivo dei feriti e il percorso successivo del tifone potrebbero cambiare."
+        }
+      ]
     },
     {
       "id": "karak-jordan-church-attack",
@@ -140,7 +168,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/karak-jordan-church-attack.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: L'attacco è avvenuto durante una cerimonia funebre in una chiesa a Karak. Il bilancio più recente riportato dalle fonti consultate è di sette morti e circa quaranta feriti.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I responsabili politici giordani hanno condannato l'azione e promesso indagini. Le prime testimonianze non concordano pienamente sul numero degli assalitori."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "L'attacco è avvenuto durante una cerimonia funebre in una chiesa a Karak. Il bilancio più recente riportato dalle fonti consultate è di sette morti e circa quaranta feriti."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Non sono confermati movente, identità e numero esatto delle persone coinvolte nell'attacco."
+        }
+      ]
     },
     {
       "id": "hebron-west-bank-operation",
@@ -183,7 +225,28 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/hebron-west-bank-operation.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Le autorità israeliane riferiscono la morte di due soldati e due assalitori. L'esercito ha lanciato operazioni e limitazioni alla circolazione nella zona di Hebron.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Il governo israeliano presenta le misure come una risposta di sicurezza. Organizzazioni e giuristi citati dalle testate le criticano come possibile punizione collettiva."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Le autorità israeliane riferiscono la morte di due soldati e due assalitori. L'esercito ha lanciato operazioni e limitazioni alla circolazione nella zona di Hebron."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Restano da verificare l'effettiva durata delle restrizioni e le conseguenze per i civili."
+        }
+      ],
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "italian-activists-west-bank"
+        }
+      ]
     },
     {
       "id": "italy-nationwide-demonstrations",
@@ -226,7 +289,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/italy-nationwide-demonstrations.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: ANSA documenta iniziative annunciate in diverse città italiane. Le autorità hanno predisposto misure di sicurezza aggiuntive, in particolare a Milano.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Gli organizzatori avanzano rivendicazioni non uniformi, dalla pace ai salari. Le istituzioni dichiarano di voler prevenire nuovi scontri e tutelare la sicurezza pubblica."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "ANSA documenta iniziative annunciate in diverse città italiane. Le autorità hanno predisposto misure di sicurezza aggiuntive, in particolare a Milano."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Affluenza, itinerari definitivi ed eventuali incidenti non possono essere dedotti dai soli annunci della mattina."
+        }
+      ]
     },
     {
       "id": "brazil-presidential-runoff",
@@ -276,7 +353,21 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/brazil-presidential-runoff.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: La data fissata per il voto è domenica 25 ottobre. Il sondaggio Datafolha citato ha raccolto 2.520 interviste tra il 20 e il 22 ottobre.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: I candidati propongono differenti politiche economiche e rapporti internazionali. Diplomatici e osservatori sottolineano l'importanza della certificazione istituzionale dei risultati."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "La data fissata per il voto è domenica 25 ottobre. Il sondaggio Datafolha citato ha raccolto 2.520 interviste tra il 20 e il 22 ottobre."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Un sondaggio non è un risultato elettorale: vincitore e margini restano sconosciuti."
+        }
+      ]
     },
     {
       "id": "russian-diesel-shipments",
@@ -319,7 +410,30 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/russian-diesel-shipments.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: AP riferisce la partenza di almeno un carico di diesel dalla Russia verso gli Stati Uniti. La vicenda è collegata a decisioni politiche sulle importazioni energetiche.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: La Casa Bianca presenta maggiori forniture come leva sui prezzi. Critici in Ucraina e negli Stati Uniti temono entrate aggiuntive per il governo russo."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "AP riferisce la partenza di almeno un carico di diesel dalla Russia verso gli Stati Uniti. La vicenda è collegata a decisioni politiche sulle importazioni energetiche."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Non è ancora misurabile l'impatto effettivo sui prezzi del carburante negli Stati Uniti."
+        }
+      ],
+      "threadId": "global-energy-prices",
+      "threadRecap": "Il 23 ottobre il prezzo del greggio era salito per i timori sulle forniture. Il 24 ottobre emergono nuovi traffici commerciali di gasolio: uno sviluppo del contesto energetico, non la prova di effetti già avvenuti sui prezzi.",
+      "related": [
+        {
+          "date": "2026-10-23",
+          "section": "world",
+          "id": "eni-fuel-price-cap-extension"
+        }
+      ]
     },
     {
       "id": "italian-activists-west-bank",
@@ -364,7 +478,28 @@
         "kind": "photo",
         "fallbackSrc": "news/2026-10-24/assets/italian-activists-west-bank.svg",
         "caption": "Foto di repertorio, non raffigura il fermo del 2026"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Cinque attiviste sono state trattenute e avviate alle procedure di espulsione. Le autorità consolari italiane hanno seguito il caso e organizzato assistenza.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Tajani ha contestato la legittimità dei fermi. Le autorità israeliane stanno gestendo il procedimento di immigrazione ed espulsione."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Cinque attiviste sono state trattenute e avviate alle procedure di espulsione. Le autorità consolari italiane hanno seguito il caso e organizzato assistenza."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Serve una conferma indipendente dell'avvenuto rientro delle cinque cittadine."
+        }
+      ],
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "hebron-west-bank-operation"
+        }
+      ]
     },
     {
       "id": "italy-hauliers-fuel-protests",
@@ -407,7 +542,23 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/italy-hauliers-fuel-protests.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: I blocchi hanno rallentato forniture commerciali in più regioni meridionali. Il Consiglio dei ministri ha approvato ulteriori misure di aiuto per il settore.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Le imprese chiedono interventi stabili contro l'aumento dei costi. Il governo sottolinea sostegni economici e necessità di liberare le strade."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "I blocchi hanno rallentato forniture commerciali in più regioni meridionali. Il Consiglio dei ministri ha approvato ulteriori misure di aiuto per il settore."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "È incerto se le concessioni eviteranno nuove proteste dopo il tavolo del 27 ottobre."
+        }
+      ],
+      "threadId": "italy-fuel-costs",
+      "threadRecap": "Il 23 ottobre Eni ha confermato un tetto temporaneo ai carburanti. Il 24 ottobre le proteste degli autotrasportatori mostrano che la questione dei costi operativi resta aperta, anche dopo gli aiuti annunciati dal governo."
     },
     {
       "id": "helium-critical-material",
@@ -450,7 +601,22 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-24/assets/helium-critical-material.svg",
         "license": "Original editorial artwork",
         "kind": "illustration"
-      }
+      },
+      "body": [
+        "I fatti riportati dalle fonti permettono di stabilire quanto segue: Il Dipartimento dell'Energia statunitense ha annunciato la nuova classificazione il 23 ottobre. L'elio è impiegato in processi industriali inclusa la fabbricazione di semiconduttori.",
+        "È importante attribuire correttamente le dichiarazioni e distinguere le interpretazioni dai fatti: Washington collega la decisione alla resilienza manifatturiera e alla sicurezza delle forniture. Gli importatori europei sono esposti alle interruzioni e ai limiti all'esportazione in vari mercati."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi risultano documentati?",
+          "answer": "Il Dipartimento dell'Energia statunitense ha annunciato la nuova classificazione il 23 ottobre. L'elio è impiegato in processi industriali inclusa la fabbricazione di semiconduttori."
+        },
+        {
+          "question": "Cosa resta da verificare?",
+          "answer": "Entità, durata e ricadute dei possibili deficit di offerta variano per paese e settore."
+        }
+      ]
     }
-  ]
-}
+  ],
+  "section": "world"
+}\n
