@@ -7,7 +7,7 @@ export interface ExportPart { id:ArticlePart; title:string; markdown:string; spe
 export interface ArticleExports { parts:ExportPart[]; markdown:string; speech:string; }
 const md=(s:string)=>s.replace(/\\/g,'\\\\').replace(/([*_\\[\\]#|])/g,'\\$1').replace(/\r?\n/g,' ');
 const lines=(label:string,values:string[])=>values.length?'## '+label+'\n\n'+values.map(v=>'- '+md(v)).join('\n'):'';
-const baseUrl=()=>typeof window!=='undefined'?window.location.origin:'https://keyserdsoze.github.io';
+const baseUrl=()=>typeof window!=='undefined'?window.location.origin:'https://onews.app';
 function makePart(id:ArticlePart,title:string,content:string,speech:string):ExportPart {
   return {id,title,markdown:content.trim()+'\n',speech:speech.trim()};
 }
@@ -52,7 +52,7 @@ export function buildArticleExports(article:Article,locale:Locale,section:Sectio
  const title='# '+md(article.title);
  const header=[title,'',md(article.dek),'',`**${context}** · ${t.impactLabel}: ${article.impact}/5`,'',md(article.impactReason),'',article.tags.map(v=>'#'+v).join(' '),'',
  `[O — ${t.name}](${baseUrl()+storyHref({section,date,id:article.id})})`,''];
- const image=article.image.src.startsWith('https://')?article.image.src:baseUrl()+(import.meta.env.BASE_URL||'/News/')+article.image.src.replace(/^\//,'');
+ const image=article.image.src.startsWith('https://')?article.image.src:baseUrl()+(import.meta.env.BASE_URL||'/')+article.image.src.replace(/^\//,'');
  const imageMarkdown=`![${md(article.image.alt)}](${image})\n\n*${md(article.image.credit)} · ${md(article.image.license)} — [${locale==='it'?'Fonte immagine':'Image source'}](${article.image.sourceUrl})*`;
  const final=[...header,...parts.map(p=>p.markdown),imageMarkdown].join('\n\n').trim()+'\n';
  const oral=[article.title,article.dek,context,...parts.map(p=>p.speech)].join('\n\n');

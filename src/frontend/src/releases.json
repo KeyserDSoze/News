@@ -1,6 +1,36 @@
 {
   "releases": [
     {
+      "version": "0.0.3",
+      "date": "2026-10-25",
+      "it": {
+        "title": "Le notizie al centro",
+        "highlights": [
+          "Prima pagina compatta: eliminato il grande manifesto e avvicinate le notizie all’inizio.",
+          "Scelta della lingua tramite menu a tendina accessibile; scrollbar sottile coordinata al tema.",
+          "Le edizioni mostrate in copertina vengono già salvate in IndexedDB con gli articoli completi, condividendo la cache con ricerca e approfondimenti.",
+          "Un'unica pulsantiera, fissata a destra su desktop, riunisce ritorno alla rassegna, condivisione, copia link, Markdown completo e lettura vocale.",
+          "Nel corpo della notizia rimane solo «Ascolta solo la notizia»; nessun pulsante superfluo nelle altre sezioni.",
+          "Dopo 2,5 secondi il tasto Markdown e la copia del link tornano disponibili; la lettura segue sempre la lingua selezionata.",
+          "Nuovo indicatore d'impatto a cinque tacche anche per mezze unità, con spiegazione editoriale."
+        ],
+        "details": "O mantiene tutti i 60 articoli pubblicati, le due lingue e gli URL esistenti. L'accesso offline dipende dalle edizioni già scaricate."
+      },
+      "en": {
+        "title": "Put the news first",
+        "highlights": [
+          "A compact opening desk header replaces the oversized slogan and puts news closer to the top.",
+          "Accessible language dropdown and thin theme-aware scrollbars.",
+          "Visible editions are stored in IndexedDB with their complete articles and shared by search and story pages.",
+          "One consolidated sticky desktop control panel for back navigation, sharing, copy link, full Markdown and speech.",
+          "Only “Listen to story only” remains inside the article body; redundant controls were removed.",
+          "Markdown and permalink copy status resets after 2.5 seconds, and speech follows the selected language.",
+          "A five-segment editorial impact meter replaces stars and retains half-step precision."
+        ],
+        "details": "O retains all 60 published stories, both languages, and existing permanent links. Offline access depends on which editions were cached."
+      }
+    },
+    {
       "version": "0.0.2",
       "date": "2026-10-24",
       "it": {

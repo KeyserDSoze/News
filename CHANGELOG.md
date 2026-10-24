@@ -2,6 +2,28 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.3] — 2026-10-25
+
+**Italiano — Le notizie al centro**
+
+- Inizio della rassegna più compatto; eliminato il manifesto e avvicinate le notizie.
+- Selezione IT/EN tramite menu accessibile e scrollbar sottili coordinate al tema.
+- Cache IndexedDB unificata tra anteprima della rassegna, lettura completa e ricerca: l'edizione prelevata include già gli articoli integrali.
+- Comandi di condivisione, copia link, Markdown integrale e ascolto raccolti nel pannello laterale sticky su desktop e nella barra mobile.
+- «Ascolta solo la notizia» nella sezione centrale; rimossi i comandi ripetitivi dalle altre sezioni.
+- Feedback «Copiato» ripristinato automaticamente dopo 2,5 secondi.
+- Indicatore d'impatto a cinque tacche con mezze unità e spiegazione per rubrica.
+
+**English — Put the news first**
+
+- Compact newspaper desk heading in place of the oversized promotional hero.
+- Accessible Italian/English dropdown and theme-aware thin scrollbars.
+- Shared IndexedDB cache across cover editions, full-article reading and archive search, with complete article data prefetched.
+- Consolidated sharing, copy permalink, Markdown and full playback actions in a sticky desktop panel or compact mobile controls.
+- Only “Listen to story only” inside the body; removed redundant per-section controls.
+- Copy feedback automatically resets after 2.5 seconds.
+- New five-step impact meter supporting half increments and transparent criteria.
+
 ## [0.0.2] — 2026-10-24
 
 **Italiano — O arriva su onews.app**
