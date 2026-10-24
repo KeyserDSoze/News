@@ -73,7 +73,9 @@
           "section": "world",
           "id": "oleshky-humanitarian-ceasefire"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Potentially substantial effects on military connectivity and the war in Ukraine."
     },
     {
       "id": "france-trappes-shooting",
@@ -130,7 +132,9 @@
           "question": "What still needs verification?",
           "answer": "Early injury counts differed between news agencies; the motive and criminal responsibility have not been finally adjudicated."
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Severe for victims and local safety, but geographically limited impact."
     },
     {
       "id": "kenya-nairobi-building-collapse",
@@ -187,7 +191,9 @@
           "question": "What still needs verification?",
           "answer": "The number of people affected, potential deaths and structural cause were not determined in early reporting."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "An emergency for affected people and urban safety, with possible national consequences."
     },
     {
       "id": "global-oil-price-surge",
@@ -260,7 +266,9 @@
           "section": "world",
           "id": "eni-fuel-price-cap-extension"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Energy prices matter for transport, households and industries across many countries."
     },
     {
       "id": "myanmar-suu-kyi-family-call",
@@ -324,7 +332,9 @@
           "question": "What still needs verification?",
           "answer": "Her overall health, freedom of communication and access to sustained independent care remain difficult to verify."
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Human-rights and symbolic significance, without a demonstrated political change."
     },
     {
       "id": "us-ex-fbi-officials-charges",
@@ -381,7 +391,9 @@
           "question": "What still needs verification?",
           "answer": "The allegations require judicial testing; criminal culpability and claims of political motive remain unproven."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Implications for public trust in US institutions and national political debate."
     },
     {
       "id": "iaea-nuclear-2060-projections",
@@ -438,7 +450,9 @@
           "question": "What still needs verification?",
           "answer": "Neither scenario is guaranteed; projections are not binding construction commitments by countries."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Projections inform international energy planning, not confirmed new construction."
     },
     {
       "id": "ecb-inflation-expectations",
@@ -495,7 +509,9 @@
           "question": "What still needs verification?",
           "answer": "Actual inflation over the next year may differ materially from the surveyed expectations."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Price expectations concern millions of eurozone households and monetary policymaking."
     },
     {
       "id": "eni-fuel-price-cap-extension",
@@ -554,7 +570,9 @@
         }
       ],
       "threadId": "italy-fuel-costs",
-      "threadRecap": "On 23 October Eni confirmed a temporary fuel price cap. This dossier tracks how businesses, workers and the government respond to higher transport costs."
+      "threadRecap": "On 23 October Eni confirmed a temporary fuel price cap. This dossier tracks how businesses, workers and the government respond to higher transport costs.",
+      "impact": 1,
+      "impactReason": "A measure by one Italian company; its actual consumer benefit remains unmeasured."
     },
     {
       "id": "eurallumina-workers-portovesme",
@@ -611,7 +629,9 @@
           "question": "What still needs verification?",
           "answer": "Funding levels and a shared long-term plan for production had not yet been established."
         }
-      ]
+      ],
+      "impact": 1,
+      "impactReason": "An important local industrial dispute with limited international effects."
     }
   ],
   "section": "world"

@@ -9,6 +9,7 @@ export interface StoryRef { date: string; section: Section; id: string; }
 export interface ObjectivePoint { question: string; answer: string; }
 export interface Article {
   id: string; rank: number; category: Category; title: string; dek: string; summary: string;
+  impact: number; impactReason: string;
   body?: string[]; questions?: ObjectivePoint[]; facts: string[]; perspectives: string[]; unknowns: string[];
   threadId?: string; threadRecap?: string; related?: StoryRef[];
   sources: Source[]; image: Image;

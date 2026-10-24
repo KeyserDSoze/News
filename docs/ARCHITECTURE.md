@@ -31,3 +31,6 @@ Actions artifacts have retention policies and are not guaranteed eternal. GitHub
 - `threadId` attaches updates to the *same developing topic*. `threadRecap` is an editor-reviewed concise recap **as of that day's edition**, which must never include future developments. The runtime joins all articles with the same thread and displays a chronological timeline with links to earlier/later reporting on *both* older and newer articles.
 - `related` references point to useful contextual articles on a separate topic. Reverse links are generated from the static story index; they must not be confused with the same-story chronology.
 - `body` provides longer reporting beyond the overview, while `questions` contains explicit fact-focused questions/answers at the end of the article. Historical editions can be enhanced with these fields without rewriting existing source claims.
+
+## Editorial impact
+Impact (required integer 1–5) and localized impactReason are versioned with each story. The builder rejects missing or out-of-range values. A five-star maximum is exceptional and desk-relative, never a cross-desk ranking of human suffering or an automatic measure. See EDITORIAL_POLICY.md for the public scoring rubric.

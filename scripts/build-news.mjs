@@ -39,7 +39,8 @@ for(const day of dates) {
     ids.add(a.id);
     if(!Number.isInteger(a.rank)||a.rank<1||a.rank>quotas[section]||ranks.has(a.rank))fail(where+' invalid rank');
     ranks.add(a.rank);
-    for(const k of ['title','dek','summary'])requireText(a[k],where+' '+k);
+    for(const k of ['title','dek','summary','impactReason'])requireText(a[k],where+' '+k);
+    if(!Number.isInteger(a.impact)||a.impact<1||a.impact>5)fail(where+' impact must be an integer 1..5');
     if(!['world','politics','economy','technology','climate','society'].includes(a.category))fail(where+' invalid category');
     for(const k of ['facts','perspectives','unknowns']){
       if(!Array.isArray(a[k])||!a[k].length)fail(where+' '+k+' missing');

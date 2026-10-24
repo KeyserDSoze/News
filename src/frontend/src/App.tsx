@@ -50,6 +50,14 @@ function LatestLabel({item,index,locale}:{item:StoryRef;index:StoryIndex|null;lo
   const newer=index?.stories.some(s=>s.threadId===preview.threadId && s.date>item.date);
   return newer?<span className="update-pill"><Clock3 size={12}/>{messages[locale].updated}</span>:null;
 }
+function Impact({article,section,locale,compact=false}:{article:Article;section:Section;locale:Locale;compact?:boolean}) {
+ const t=messages[locale];
+ return <div className={'impact '+(compact?'impact-compact':'')} aria-label={t.impactLabel+': '+article.impact+'/5. '+article.impactReason} title={article.impactReason}>
+  <span className="impact-stars" aria-hidden="true">{Array.from({length:5},(_,i)=><span key={i} className={i<article.impact?'filled':''}>★</span>)}</span>
+  <span className="impact-score">{article.impact}/5</span>
+  {!compact&&<span className="impact-explanation"><strong>{t.impactLabel} · {t.impactScope[section]}</strong>{article.impactReason}</span>}
+ </div>;
+}
 function StoryCard({article,date,section,locale,index,featured=false}:{article:Article;date:string;section:Section;locale:Locale;index:StoryIndex|null;featured?:boolean}){
   const t=messages[locale],ref={date,section,id:article.id};
   return <article className={'story '+(featured?'story-featured':'')} data-story-id={article.id}>
@@ -57,7 +65,7 @@ function StoryCard({article,date,section,locale,index,featured=false}:{article:A
     <div className="story-content">
       <div className="story-meta"><span className="story-number">{String(article.rank).padStart(2,'0')}</span><span className="dot"/><span>{t.categories[article.category]}</span><span className="meta-spacer"/><span className="sources-pill"><Check size={12}/>{article.sources.length} {t.sources.toLowerCase()}</span></div>
       <h3><a href={storyHref(ref)}>{article.title}</a></h3>
-      <p className="dek">{article.dek}</p><p className="summary">{article.summary}</p>
+      <p className="dek">{article.dek}</p><p className="summary">{article.summary}</p><Impact article={article} section={section} locale={locale} compact/>
       <div className="story-bottom"><LatestLabel item={ref} index={index} locale={locale}/><a className="read-story" href={storyHref(ref)}>{t.examine} <ArrowRight size={16}/></a></div>
     </div>
   </article>;
@@ -124,7 +132,7 @@ function ArticleView({route,locale,index}:{route:Extract<Route,{kind:'article'}>
     <div className="article-toolbar"><a className="back-link" href={'#/'+route.section}><ArrowLeft size={17}/>{t.back}</a><button onClick={copyLink} className="share-button"><Copy size={16}/>{copied?t.copied:t.share}</button></div>
     <div className="article-hero"><div className="detail-kicker"><span className="red-square"/>{sectionName(route.section,locale)} <span className="separator">/</span> {formatDate(route.date,locale)} <span className="separator">/</span> {String(article.rank).padStart(2,'0')}</div>
       <h1>{article.title}</h1><p className="article-dek">{article.dek}</p>
-      <div className="article-source-meta"><Check size={15}/>{article.sources.length} {t.sources.toLowerCase()} <span>·</span> O / {t.name}</div>
+      <Impact article={article} section={route.section} locale={locale}/><div className="article-source-meta"><Check size={15}/>{article.sources.length} {t.sources.toLowerCase()} <span>·</span> O / {t.name}</div>
     </div>
     <section className="article-summary" aria-label={t.summary}><div className="article-summary-heading"><span className="summary-bullet">O.</span><h2>{t.summary}</h2></div><p>{article.summary}</p></section>
     <div className="article-layout">

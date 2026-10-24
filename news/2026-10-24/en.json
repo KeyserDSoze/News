@@ -66,7 +66,9 @@
           "question": "What still needs verification?",
           "answer": "Whether aid convoys will gain access on schedule and what safeguards will govern evacuations remain to be verified."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Humanitarian consequences for one occupied city, but a limited ceasefire rather than a worldwide agreement."
     },
     {
       "id": "champion-typhoon-taiwan",
@@ -125,7 +127,9 @@
           "question": "What still needs verification?",
           "answer": "The final injury count and the storm's subsequent trajectory may change."
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Deaths and widespread disruption across a densely populated island; major regional impact."
     },
     {
       "id": "karak-jordan-church-attack",
@@ -182,7 +186,9 @@
           "question": "What still needs verification?",
           "answer": "The motive, identities and exact number of attackers have not been independently established."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Civilian deaths and potential regional tensions, without demonstrated worldwide effects."
     },
     {
       "id": "hebron-west-bank-operation",
@@ -246,7 +252,9 @@
           "section": "world",
           "id": "italian-activists-west-bank"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Security developments in the West Bank carry substantial regional and diplomatic consequences."
     },
     {
       "id": "italy-nationwide-demonstrations",
@@ -303,7 +311,9 @@
           "question": "What still needs verification?",
           "answer": "Final attendance, routes and any incidents cannot be established from morning announcements."
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Important demonstrations for Italy, but limited direct global effects."
     },
     {
       "id": "brazil-presidential-runoff",
@@ -367,7 +377,9 @@
           "question": "What still needs verification?",
           "answer": "A poll is not an election result; the eventual winner and margin remain unknown."
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "An election in a major world economy could alter trade and diplomatic relationships."
     },
     {
       "id": "russian-diesel-shipments",
@@ -433,7 +445,9 @@
           "section": "world",
           "id": "eni-fuel-price-cap-extension"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Energy-policy decisions involving major powers may affect markets, but the end-user price impact is unproven."
     },
     {
       "id": "italian-activists-west-bank",
@@ -499,7 +513,9 @@
           "section": "world",
           "id": "hebron-west-bank-operation"
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Concerns civil rights and diplomacy involving a small group, without system-wide global effects."
     },
     {
       "id": "italy-hauliers-fuel-protests",
@@ -558,7 +574,9 @@
         }
       ],
       "threadId": "italy-fuel-costs",
-      "threadRecap": "On 23 October Eni confirmed a temporary fuel cap. By 24 October hauliers' protests showed that operating costs remained contentious despite government aid measures."
+      "threadRecap": "On 23 October Eni confirmed a temporary fuel cap. By 24 October hauliers' protests showed that operating costs remained contentious despite government aid measures.",
+      "impact": 2,
+      "impactReason": "Significant disruption in southern Italy, though global relevance is limited."
     },
     {
       "id": "helium-critical-material",
@@ -615,7 +633,9 @@
           "question": "What still needs verification?",
           "answer": "The scale, duration and sector-by-sector effects of potential shortages are still uncertain."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "A key input for international industries; potential supply-chain effects are not yet quantified."
     }
   ],
   "section": "world"

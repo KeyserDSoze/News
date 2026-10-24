@@ -73,7 +73,9 @@
           "section": "world",
           "id": "oleshky-humanitarian-ceasefire"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Potenziali effetti importanti sulla connettività militare e sulla guerra in Ucraina."
     },
     {
       "id": "france-trappes-shooting",
@@ -130,7 +132,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Il conteggio dei feriti varia tra gli aggiornamenti delle agenzie; movente e responsabilità devono ancora essere accertati definitivamente."
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Gravità per le vittime e la sicurezza locale, ma impatto geografico circoscritto."
     },
     {
       "id": "kenya-nairobi-building-collapse",
@@ -187,7 +191,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Numero delle persone coinvolte, eventuali decessi e cause strutturali non risultavano determinati negli aggiornamenti iniziali."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Emergenza per le persone coinvolte e questione di sicurezza urbana, con conseguenze nazionali possibili."
     },
     {
       "id": "global-oil-price-surge",
@@ -260,7 +266,9 @@
           "section": "world",
           "id": "eni-fuel-price-cap-extension"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Prezzi dell'energia rilevanti per trasporti, famiglie e industrie in numerosi paesi."
     },
     {
       "id": "myanmar-suu-kyi-family-call",
@@ -324,7 +332,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "La salute complessiva, la libertà di comunicazione e l'accesso continuativo a visite indipendenti non sono pienamente verificabili."
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Rilevanza simbolica e per i diritti umani, ma cambiamento politico non dimostrato."
     },
     {
       "id": "us-ex-fbi-officials-charges",
@@ -381,7 +391,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Le accuse devono essere valutate in tribunale; responsabilità penale e motivazioni politiche non sono state accertate."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Implicazioni per fiducia nelle istituzioni statunitensi e confronto politico nazionale."
     },
     {
       "id": "iaea-nuclear-2060-projections",
@@ -438,7 +450,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Non è determinabile quale scenario si realizzerà: le proiezioni non sono impegni vincolanti degli Stati."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Proiezioni utili per la pianificazione energetica internazionale, non nuove centrali confermate."
     },
     {
       "id": "ecb-inflation-expectations",
@@ -495,7 +509,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "L'inflazione effettiva dei prossimi dodici mesi potrà divergere dalle aspettative espresse nel sondaggio."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Le aspettative sui prezzi riguardano milioni di famiglie dell'eurozona e le scelte monetarie."
     },
     {
       "id": "eni-fuel-price-cap-extension",
@@ -554,7 +570,9 @@
         }
       ],
       "threadId": "italy-fuel-costs",
-      "threadRecap": "Il 23 ottobre Eni conferma un limite temporaneo ai prezzi del carburante. Seguiremo come imprese, lavoratori e governo reagiscono all'aumento dei costi."
+      "threadRecap": "Il 23 ottobre Eni conferma un limite temporaneo ai prezzi del carburante. Seguiremo come imprese, lavoratori e governo reagiscono all'aumento dei costi.",
+      "impact": 1,
+      "impactReason": "Misura di una singola impresa in Italia; beneficio reale ancora da misurare."
     },
     {
       "id": "eurallumina-workers-portovesme",
@@ -611,7 +629,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Non risultano definiti né il finanziamento necessario né un piano condiviso per il rilancio produttivo."
         }
-      ]
+      ],
+      "impact": 1,
+      "impactReason": "Vertenza industriale significativa localmente ma con effetti internazionali limitati."
     }
   ],
   "section": "world"

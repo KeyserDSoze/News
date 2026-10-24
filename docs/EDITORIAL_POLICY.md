@@ -42,3 +42,13 @@ The counts are enforced separately per issue and language. Do not pad an edition
 
 ## Long-form, dossiers and objective questions
 A front-page story begins with a brief summary. Its dedicated article then presents a complete contextual explanation, sources, and **objective questions and observations last**. For ongoing issues, assign a stable `threadId` only when there is a meaningful shared story. Keep the dated recap accurate as of that day, not retrospectively prophetic. The compiled index creates backlinks automatically so old stories surface later developments. Use `related` for adjacent but different stories, and never imply causation merely because two articles share a topic. Every timeline episode must provide a direct link and clear date. Historical accuracy and corrections are especially important.
+
+
+## Impact rating (1–5 stars) / Scala d'impatto
+The impact rating is **editorial judgement**, never an objectively measured quantity or a claim that severity can be known in advance. Each language version must include the same integer `impact` and a localized `impactReason`. Evaluate **scale, reach, affected population, persistence and systemic consequences** against the scope of the desk. Do not judge moral worth, popularity, sensationalism or source count.
+- **1 star**: limited local or specialist significance within that desk's scope.
+- **2 stars**: noticeable effects on a community, organisation or niche.
+- **3 stars**: substantial effects on a region, institution or part of the sector.
+- **4 stars**: major nationwide, cross-border or field-wide implications.
+- **5 stars**: exceptional nationwide or global emergency / transformative systemic consequence within that desk's defined scope, with evidence supporting this assessment.
+World measures **global** relevance; Italy measures the consequences **for Italy**; Technology measures breadth **across technology ecosystems**; Science measures significance **for knowledge, evidence and plausible future applications** (separating research-stage promise from proven real-world benefit). A local disaster can have 5-star **Italian** impact but not necessarily 5-star global impact. Every score is accompanied by a readable rationale; revising an impact score requires an editorial correction and an explanatory Git commit.

@@ -2,6 +2,7 @@ import type { Locale, Section } from './types';
 export const messages = {
   it: {
     name:'Oggettivizzatore', definition:'O come Oggettivizzatore. O come zero.',
+    impactLabel:'Impatto', impactScope:{world:'globale',italy:'nazionale',technology:'tecnologico',science:'scientifico'},
     tagline:'Zero pubblicità. Zero titoli sensazionalistici.', subtitle:'Una rassegna dei fatti, senza rumore.',
     strapline:'IL GIORNALE DEI FATTI', today:'IN PRIMO PIANO', edition:'EDIZIONE',
     issue:'La rassegna del giorno', sources:'Fonti', facts:'Fatti verificabili', perspectives:'Dichiarazioni e punti di vista', unknowns:'Cosa non sappiamo',
@@ -25,6 +26,7 @@ export const messages = {
   },
   en: {
     name:'Objectivizer', definition:'O for Objectivizer. O for zero.',
+    impactLabel:'Impact', impactScope:{world:'global',italy:'national',technology:'technology sector',science:'scientific research'},
     tagline:'Zero ads. Zero sensational headlines.', subtitle:'The facts, without the noise.',
     strapline:'THE FACTS JOURNAL', today:'TOP STORIES', edition:'EDITION',
     issue:'The daily briefing', sources:'Sources', facts:'Established facts', perspectives:'Statements and perspectives', unknowns:'What remains unknown',

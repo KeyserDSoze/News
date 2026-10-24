@@ -66,7 +66,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Da verificare sul campo quando inizierà l'accesso effettivo dei convogli e quali garanzie accompagneranno le evacuazioni."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Conseguenze umanitarie per una città occupata, ma tregua limitata e non globale."
     },
     {
       "id": "champion-typhoon-taiwan",
@@ -125,7 +127,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Il bilancio definitivo dei feriti e il percorso successivo del tifone potrebbero cambiare."
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Vittime e interruzioni diffuse su un'isola densamente popolata; impatto regionale elevato."
     },
     {
       "id": "karak-jordan-church-attack",
@@ -182,7 +186,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Non sono confermati movente, identità e numero esatto delle persone coinvolte nell'attacco."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Vittime civili e possibili tensioni regionali, senza ricadute mondiali dimostrate."
     },
     {
       "id": "hebron-west-bank-operation",
@@ -246,7 +252,9 @@
           "section": "world",
           "id": "italian-activists-west-bank"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "La situazione di sicurezza in Cisgiordania ha ricadute regionali e diplomatiche consistenti."
     },
     {
       "id": "italy-nationwide-demonstrations",
@@ -303,7 +311,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Affluenza, itinerari definitivi ed eventuali incidenti non possono essere dedotti dai soli annunci della mattina."
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Mobilitazioni importanti per l'Italia, ma effetto globale diretto limitato."
     },
     {
       "id": "brazil-presidential-runoff",
@@ -367,7 +377,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Un sondaggio non è un risultato elettorale: vincitore e margini restano sconosciuti."
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Il voto di una delle maggiori economie mondiali può cambiare equilibri commerciali e diplomatici."
     },
     {
       "id": "russian-diesel-shipments",
@@ -433,7 +445,9 @@
           "section": "world",
           "id": "eni-fuel-price-cap-extension"
         }
-      ]
+      ],
+      "impact": 4,
+      "impactReason": "Scelte energetiche tra due grandi potenze potenzialmente influenti sui mercati, non ancora sui prezzi finali."
     },
     {
       "id": "italian-activists-west-bank",
@@ -499,7 +513,9 @@
           "section": "world",
           "id": "hebron-west-bank-operation"
         }
-      ]
+      ],
+      "impact": 2,
+      "impactReason": "Incide sui diritti e sui rapporti diplomatici di un gruppo ristretto, non sull'intero sistema internazionale."
     },
     {
       "id": "italy-hauliers-fuel-protests",
@@ -558,7 +574,9 @@
         }
       ],
       "threadId": "italy-fuel-costs",
-      "threadRecap": "Il 23 ottobre Eni ha confermato un tetto temporaneo ai carburanti. Il 24 ottobre le proteste degli autotrasportatori mostrano che la questione dei costi operativi resta aperta, anche dopo gli aiuti annunciati dal governo."
+      "threadRecap": "Il 23 ottobre Eni ha confermato un tetto temporaneo ai carburanti. Il 24 ottobre le proteste degli autotrasportatori mostrano che la questione dei costi operativi resta aperta, anche dopo gli aiuti annunciati dal governo.",
+      "impact": 2,
+      "impactReason": "Disagi economici significativi in Italia meridionale, ma rilevanza globale contenuta."
     },
     {
       "id": "helium-critical-material",
@@ -615,7 +633,9 @@
           "question": "Cosa resta da verificare?",
           "answer": "Entità, durata e ricadute dei possibili deficit di offerta variano per paese e settore."
         }
-      ]
+      ],
+      "impact": 3,
+      "impactReason": "Materiale chiave per più industrie internazionali; possibili effetti di filiera non ancora quantificati."
     }
   ],
   "section": "world"
