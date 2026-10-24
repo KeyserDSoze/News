@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-22",
+  "section": "technology",
+  "language": "it",
+  "publishedAt": "2026-10-22T23:30:00+02:00",
+  "editorialNote": "Tecnologia, 22 ottobre: privacy, patch critiche, governance e possibili finanziamenti, con impatti distinti dalle ipotesi.",
+  "articles": [
+    {
+      "id": "php2shell-attacchi-aggiornamenti",
+      "rank": 1,
+      "category": "technology",
+      "title": "PHP2Shell, segnalati milioni di tentativi di sfruttamento dopo le patch",
+      "dek": "Cloudflare rileva richieste ostili; tentativi e siti effettivamente compromessi non coincidono.",
+      "summary": "I fornitori di sicurezza hanno segnalato attività di attacco molto elevate dopo la divulgazione il 21 ottobre di due vulnerabilità di PHP, un linguaggio ampiamente impiegato nei siti web. Cloudflare parla di milioni di richieste potenzialmente malevole osservate nella propria rete.",
+      "body": [
+        "Amazon Threat Intelligence aveva rilevato nei propri sistemi di rilevazione tentativi riconducibili alle nuove falle già dal 17 ottobre, prima della diffusione pubblica dei dettagli tecnici. La possibilità di sfruttare vulnerabilità prima dell'annuncio evidenzia i limiti di un embargo coordinato.",
+        "Gli sviluppatori di PHP hanno rilasciato correttivi e invitato all'aggiornamento urgente; chi gestisce siti deve verificare versione effettivamente installata, esposizione e compatibilità delle patch.",
+        "Milioni di tentativi non dimostrano milioni di sistemi violati. L'esito dei singoli attacchi e l'estensione delle compromissioni non sono stati misurati pubblicamente.",
+        "Le fonti distinguono l'evidenza riportata il 22 ottobre dagli scenari e dalle conseguenze non ancora dimostrate. Un annuncio di sicurezza o finanziario non va interpretato come effetto già realizzato."
+      ],
+      "facts": [
+        "I fornitori di sicurezza hanno segnalato attività di attacco molto elevate dopo la divulgazione il 21 ottobre di due vulnerabilità di PHP, un linguaggio ampiamente impiegato nei siti web. Cloudflare parla di milioni di richieste potenzialmente malevole osservate nella propria rete.",
+        "Amazon Threat Intelligence aveva rilevato nei propri sistemi di rilevazione tentativi riconducibili alle nuove falle già dal 17 ottobre, prima della diffusione pubblica dei dettagli tecnici. La possibilità di sfruttare vulnerabilità prima dell'annuncio evidenzia i limiti di un embargo coordinato."
+      ],
+      "perspectives": [
+        "Gli sviluppatori di PHP hanno rilasciato correttivi e invitato all'aggiornamento urgente; chi gestisce siti deve verificare versione effettivamente installata, esposizione e compatibilità delle patch."
+      ],
+      "unknowns": [
+        "Milioni di tentativi non dimostrano milioni di sistemi violati. L'esito dei singoli attacchi e l'estensione delle compromissioni non sono stati misurati pubblicamente."
+      ],
+      "questions": [
+        {
+          "question": "Le vulnerabilità sono già state corrette su tutti i siti?",
+          "answer": "No. La distribuzione delle patch dipende da chi amministra ogni installazione e va verificata."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Forte impatto potenziale su infrastrutture web e manutenzione, con diffusione reale ancora da accertare.",
+      "tags": [
+        "php",
+        "cybersecurity",
+        "patch"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+          "url": "https://www.investing.com/news/stock-market-news/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure-4964603",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AWS Security Blog",
+          "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+          "url": "https://aws.amazon.com/tw/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/php2shell-attacchi-aggiornamenti.svg",
+        "alt": "Illustrazione editoriale simbolica non fotografica per PHP2Shell, segnalati milioni di tentativi di sfruttamento dopo le patch",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/php2shell-attacchi-aggiornamenti.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "technology",
+          "id": "php-foundation-security-underfunded"
+        }
+      ]
+    },
+    {
+      "id": "gitlab-cve-2026-110264-critical",
+      "rank": 2,
+      "category": "technology",
+      "title": "GitLab corregge una vulnerabilità critica con punteggio CVSS 10",
+      "dek": "In condizioni specifiche la falla potrebbe consentire l'esecuzione di codice senza autenticazione.",
+      "summary": "GitLab ha pubblicato il 21 ottobre versioni corrette della piattaforma Community ed Enterprise, mentre il 22 le agenzie di sicurezza di Singapore e CERT-GARR hanno diffuso avvisi su CVE-2026-110264. Il punteggio tecnico CVSS è 10 su 10.",
+      "body": [
+        "La vulnerabilità riguarda un overflow durante la compilazione di espressioni regolari. Un attaccante non autenticato, in determinate condizioni, potrebbe eseguire codice arbitrario sul server, con possibili effetti sui repository e sui sistemi di sviluppo collegati.",
+        "GitLab invita a verificare le versioni e installare uno dei correttivi compatibili: 19.5.1, 19.4.3, 19.3.6 e backport per rami precedenti. Le istanze amministrate dall'azienda risultano già aggiornate secondo il fornitore.",
+        "La gravità massima di una vulnerabilità misura la potenzialità tecnica e non il numero di compromissioni effettive: non risulta pubblicato un bilancio generale degli incidenti.",
+        "Le fonti distinguono l'evidenza riportata il 22 ottobre dagli scenari e dalle conseguenze non ancora dimostrate. Un annuncio di sicurezza o finanziario non va interpretato come effetto già realizzato."
+      ],
+      "facts": [
+        "GitLab ha pubblicato il 21 ottobre versioni corrette della piattaforma Community ed Enterprise, mentre il 22 le agenzie di sicurezza di Singapore e CERT-GARR hanno diffuso avvisi su CVE-2026-110264. Il punteggio tecnico CVSS è 10 su 10.",
+        "La vulnerabilità riguarda un overflow durante la compilazione di espressioni regolari. Un attaccante non autenticato, in determinate condizioni, potrebbe eseguire codice arbitrario sul server, con possibili effetti sui repository e sui sistemi di sviluppo collegati."
+      ],
+      "perspectives": [
+        "GitLab invita a verificare le versioni e installare uno dei correttivi compatibili: 19.5.1, 19.4.3, 19.3.6 e backport per rami precedenti. Le istanze amministrate dall'azienda risultano già aggiornate secondo il fornitore."
+      ],
+      "unknowns": [
+        "La gravità massima di una vulnerabilità misura la potenzialità tecnica e non il numero di compromissioni effettive: non risulta pubblicato un bilancio generale degli incidenti."
+      ],
+      "questions": [
+        {
+          "question": "CVSS 10 significa che ogni server GitLab è già compromesso?",
+          "answer": "No. Descrive la severità potenziale per installazioni vulnerabili, non attacchi già riusciti."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Rischio tecnico alto per i sistemi di sviluppo, mitigabile con aggiornamenti mirati.",
+      "tags": [
+        "gitlab",
+        "sicurezza",
+        "vulnerabilità"
+      ],
+      "sources": [
+        {
+          "outlet": "GitLab",
+          "title": "GitLab Critical Patch Release 19.5.1 and supported backports",
+          "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        },
+        {
+          "outlet": "Cyber Security Agency of Singapore",
+          "title": "Critical Vulnerability in GitLab",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-152/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "CERT-GARR",
+          "title": "Alert GCSA-26283 – Aggiornamento di sicurezza per GitLab",
+          "url": "https://www.cert.garr.it/it/alert/security-alerts/alert-gcsa-26283-aggiornamento-di-sicurezza-per-gitlab",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/gitlab-cve-2026-110264-critical.svg",
+        "alt": "Illustrazione editoriale simbolica non fotografica per GitLab corregge una vulnerabilità critica con punteggio CVSS 10",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/gitlab-cve-2026-110264-critical.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "capcom-id-breach-117m",
+      "rank": 3,
+      "category": "technology",
+      "title": "Capcom, accesso illecito a dati associati a 11,77 milioni di account",
+      "dek": "L'azienda conferma esposizione di indirizzi email e metadati e 196 password cambiate senza permesso.",
+      "summary": "Capcom ha dichiarato il 22 ottobre che un intruso ha avuto accesso non autorizzato al servizio CAPCOM ID, coinvolgendo 11.774.247 record con email, informazioni di accesso e indirizzi IP dell'ultimo login.",
+      "body": [
+        "Per un sottoinsieme di 43 account sono state coinvolte anche informazioni personali quali data di nascita e Paese. Sono stati rilevati cambi di password non autorizzati per 196 account, successivamente ripristinati dall'azienda.",
+        "Capcom sostiene che i dati delle carte di credito non erano compresi e che non è stato accertato il furto delle password originali; invita a diffidare di messaggi di phishing che imitino il marchio.",
+        "Il numero indica record interessati e non 11,77 milioni di password rubate, né la conferma che ogni record appartenga a una persona diversa. Le indagini continuano.",
+        "Le fonti distinguono l'evidenza riportata il 22 ottobre dagli scenari e dalle conseguenze non ancora dimostrate. Un annuncio di sicurezza o finanziario non va interpretato come effetto già realizzato."
+      ],
+      "facts": [
+        "Capcom ha dichiarato il 22 ottobre che un intruso ha avuto accesso non autorizzato al servizio CAPCOM ID, coinvolgendo 11.774.247 record con email, informazioni di accesso e indirizzi IP dell'ultimo login.",
+        "Per un sottoinsieme di 43 account sono state coinvolte anche informazioni personali quali data di nascita e Paese. Sono stati rilevati cambi di password non autorizzati per 196 account, successivamente ripristinati dall'azienda."
+      ],
+      "perspectives": [
+        "Capcom sostiene che i dati delle carte di credito non erano compresi e che non è stato accertato il furto delle password originali; invita a diffidare di messaggi di phishing che imitino il marchio."
+      ],
+      "unknowns": [
+        "Il numero indica record interessati e non 11,77 milioni di password rubate, né la conferma che ogni record appartenga a una persona diversa. Le indagini continuano."
+      ],
+      "questions": [
+        {
+          "question": "Tutti gli utenti Capcom hanno perso password e dati bancari?",
+          "answer": "No. L'azienda non ha confermato furti delle password originali né esposizione dei dati delle carte."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Rilevante evento di privacy digitale con una base di dati mondiale estesa.",
+      "tags": [
+        "capcom",
+        "dati",
+        "cybersecurity"
+      ],
+      "sources": [
+        {
+          "outlet": "Capcom",
+          "title": "Notice and Apology Regarding Customer Information Affected Through Unauthorized Access",
+          "url": "https://www.capcom.co.jp/ir/english/news/html/e261022.html",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "BleepingComputer",
+          "title": "Capcom confirms data breach affecting 11.7 million accounts",
+          "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/capcom-id-breach-117m.svg",
+        "alt": "Illustrazione editoriale simbolica non fotografica per Capcom, accesso illecito a dati associati a 11,77 milioni di account",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/capcom-id-breach-117m.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "meta-class-c-ai-funding",
+      "rank": 4,
+      "category": "economy",
+      "title": "Meta propone una nuova classe di azioni senza voto per finanziare l'IA",
+      "dek": "La struttura Class C dovrebbe diventare effettiva a gennaio 2027, senza diluire il controllo di voto del fondatore.",
+      "summary": "Meta ha annunciato il 21 ottobre, e i mercati ne hanno discusso il 22, il progetto di creare azioni Class C quotate ma prive del diritto di voto, utilizzabili per finanziamenti, retribuzioni e acquisizioni legati alla crescita dell'intelligenza artificiale.",
+      "body": [
+        "I documenti societari spiegano che nuovi strumenti di raccolta capitale consentirebbero di finanziare investimenti su larga scala senza ridurre il potere di voto di Mark Zuckerberg. La creazione della classe è distinta dall'emissione futura di nuove azioni.",
+        "Il management sostiene che la spesa su modelli e centri dati genererà ritorni nel medio periodo. Gli investitori interrogano costi, liquidità e possibili diluizioni economiche degli azionisti, pur senza cambiare il controllo societario.",
+        "La data prevista è gennaio 2027: al 22 ottobre la nuova classe non aveva ancora prodotto l'intero finanziamento immaginato. Le stime sui ricavi futuri restano previsioni.",
+        "Le fonti distinguono l'evidenza riportata il 22 ottobre dagli scenari e dalle conseguenze non ancora dimostrate. Un annuncio di sicurezza o finanziario non va interpretato come effetto già realizzato."
+      ],
+      "facts": [
+        "Meta ha annunciato il 21 ottobre, e i mercati ne hanno discusso il 22, il progetto di creare azioni Class C quotate ma prive del diritto di voto, utilizzabili per finanziamenti, retribuzioni e acquisizioni legati alla crescita dell'intelligenza artificiale.",
+        "I documenti societari spiegano che nuovi strumenti di raccolta capitale consentirebbero di finanziare investimenti su larga scala senza ridurre il potere di voto di Mark Zuckerberg. La creazione della classe è distinta dall'emissione futura di nuove azioni."
+      ],
+      "perspectives": [
+        "Il management sostiene che la spesa su modelli e centri dati genererà ritorni nel medio periodo. Gli investitori interrogano costi, liquidità e possibili diluizioni economiche degli azionisti, pur senza cambiare il controllo societario."
+      ],
+      "unknowns": [
+        "La data prevista è gennaio 2027: al 22 ottobre la nuova classe non aveva ancora prodotto l'intero finanziamento immaginato. Le stime sui ricavi futuri restano previsioni."
+      ],
+      "questions": [
+        {
+          "question": "Meta ha già incassato nuovi fondi grazie a queste azioni?",
+          "answer": "No. L'annuncio riguarda la struttura futura del capitale, non proventi già realizzati."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Impatti notevoli sulla governance e sul finanziamento degli investimenti tecnologici.",
+      "tags": [
+        "meta",
+        "intelligenza-artificiale",
+        "finanziamenti"
+      ],
+      "sources": [
+        {
+          "outlet": "Meta Investor Relations",
+          "title": "Meta Reports Third Quarter 2026 Results",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+          "url": "https://www.reuters.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/meta-class-c-ai-funding.svg",
+        "alt": "Illustrazione editoriale simbolica non fotografica per Meta propone una nuova classe di azioni senza voto per finanziare l'IA",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/meta-class-c-ai-funding.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "anthropic-prepares-possible-ipo",
+      "rank": 5,
+      "category": "economy",
+      "title": "Anthropic studia una possibile quotazione a novembre, ma le date restano variabili",
+      "dek": "Secondo Reuters e Bloomberg l'azienda potrebbe avviare il collocamento, in un mercato più prudente verso l'IA.",
+      "summary": "Il 22 ottobre Reuters ha riferito che Anthropic lavorava a un'offerta pubblica iniziale delle azioni prevista indicativamente per metà novembre. Bloomberg aveva già segnalato a inizio mese lo stesso orientamento, ma persone informate avvertono che tempi e dimensioni possono cambiare.",
+      "body": [
+        "Una IPO offre agli investitori la possibilità di acquistare azioni su mercati regolamentati e può fornire capitale alla società. Non equivale a un incasso prima della chiusura dell'offerta, né a una garanzia di valutazione.",
+        "Altre imprese di infrastrutture per l'IA hanno posticipato piani di quotazione per tassi elevati, volatilità e dubbi sui ritorni degli enormi investimenti. I sostenitori della quotazione vedono invece una domanda significativa di esposizione ai modelli AI.",
+        "La potenziale valutazione riportata fino a 1.500 miliardi di dollari è un'ipotesi di mercato, non un prezzo finale approvato. Anche pubblicazione del prospetto e settimana di marketing restano indicativi.",
+        "Le fonti distinguono l'evidenza riportata il 22 ottobre dagli scenari e dalle conseguenze non ancora dimostrate. Un annuncio di sicurezza o finanziario non va interpretato come effetto già realizzato."
+      ],
+      "facts": [
+        "Il 22 ottobre Reuters ha riferito che Anthropic lavorava a un'offerta pubblica iniziale delle azioni prevista indicativamente per metà novembre. Bloomberg aveva già segnalato a inizio mese lo stesso orientamento, ma persone informate avvertono che tempi e dimensioni possono cambiare.",
+        "Una IPO offre agli investitori la possibilità di acquistare azioni su mercati regolamentati e può fornire capitale alla società. Non equivale a un incasso prima della chiusura dell'offerta, né a una garanzia di valutazione."
+      ],
+      "perspectives": [
+        "Altre imprese di infrastrutture per l'IA hanno posticipato piani di quotazione per tassi elevati, volatilità e dubbi sui ritorni degli enormi investimenti. I sostenitori della quotazione vedono invece una domanda significativa di esposizione ai modelli AI."
+      ],
+      "unknowns": [
+        "La potenziale valutazione riportata fino a 1.500 miliardi di dollari è un'ipotesi di mercato, non un prezzo finale approvato. Anche pubblicazione del prospetto e settimana di marketing restano indicativi."
+      ],
+      "questions": [
+        {
+          "question": "Anthropic è già quotata e vale ufficialmente 1.500 miliardi?",
+          "answer": "No. Si tratta di un possibile collocamento futuro e di una stima circolata tra addetti ai lavori."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "Evento finanziario potenziale di settore, ancora privo di esito verificato.",
+      "tags": [
+        "anthropic",
+        "borsa",
+        "intelligenza-artificiale"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Anthropic IPO stands alone as AI market jitters sideline others",
+          "url": "https://www.reuters.com/legal/transactional/anthropic-ipo-stands-alone-ai-market-jitters-sideline-others-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "Anthropic Targets Mega-IPO Before Thanksgiving Holiday",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
+          "publishedAt": "2026-10-01",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/anthropic-prepares-possible-ipo.svg",
+        "alt": "Illustrazione editoriale simbolica non fotografica per Anthropic studia una possibile quotazione a novembre, ma le date restano variabili",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/anthropic-prepares-possible-ipo.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "date": "2026-10-22",
+  "section": "technology",
+  "language": "en",
+  "publishedAt": "2026-10-22T23:30:00+02:00",
+  "editorialNote": "Technology on 22 October: privacy, security patches, governance and potential funding, with claims distinguished from verified outcomes.",
+  "articles": [
+    {
+      "id": "php2shell-attacchi-aggiornamenti",
+      "rank": 1,
+      "category": "technology",
+      "title": "PHP2Shell flaws attract millions of reported exploit attempts after patches",
+      "dek": "Cloudflare sees a surge in hostile requests, which must not be confused with confirmed breaches.",
+      "summary": "Security providers reported intense exploitation traffic after two PHP vulnerabilities were disclosed on 21 October. Cloudflare said it observed millions of potentially malicious requests across its network.",
+      "body": [
+        "Amazon Threat Intelligence reported exploit attempts hitting its defensive sensors as early as 17 October, before public disclosure. Activity before an embargo ends highlights the limits of coordinated vulnerability disclosure.",
+        "PHP maintainers issued emergency fixes and urged updates. Website operators must verify installed versions, exposure and successful application of security patches.",
+        "Millions of attempts do not establish millions of compromised systems. The true extent and outcome of exploitation remain uncertain.",
+        "Sources distinguish what was reported on 22 October from scenarios and consequences not yet established. Security or financing announcements should not be described as fully realized effects."
+      ],
+      "facts": [
+        "Security providers reported intense exploitation traffic after two PHP vulnerabilities were disclosed on 21 October. Cloudflare said it observed millions of potentially malicious requests across its network.",
+        "Amazon Threat Intelligence reported exploit attempts hitting its defensive sensors as early as 17 October, before public disclosure. Activity before an embargo ends highlights the limits of coordinated vulnerability disclosure."
+      ],
+      "perspectives": [
+        "PHP maintainers issued emergency fixes and urged updates. Website operators must verify installed versions, exposure and successful application of security patches."
+      ],
+      "unknowns": [
+        "Millions of attempts do not establish millions of compromised systems. The true extent and outcome of exploitation remain uncertain."
+      ],
+      "questions": [
+        {
+          "question": "Has every PHP-powered website already been patched?",
+          "answer": "No. Patch deployment is the responsibility of each operator and requires checking."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Substantial potential consequences for web infrastructure, with actual compromise totals unverified.",
+      "tags": [
+        "php",
+        "cybersecurity",
+        "patches"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+          "url": "https://www.investing.com/news/stock-market-news/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure-4964603",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AWS Security Blog",
+          "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+          "url": "https://aws.amazon.com/tw/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/php2shell-attacchi-aggiornamenti.svg",
+        "alt": "Original symbolic editorial illustration, not documentary photography: PHP2Shell flaws attract millions of reported exploit attempts after patches",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/php2shell-attacchi-aggiornamenti.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "technology",
+          "id": "php-foundation-security-underfunded"
+        }
+      ]
+    },
+    {
+      "id": "gitlab-cve-2026-110264-critical",
+      "rank": 2,
+      "category": "technology",
+      "title": "GitLab releases fixes for critical CVSS-10 remote execution flaw",
+      "dek": "Under specific conditions the flaw could enable unauthenticated code execution.",
+      "summary": "GitLab released patched Community and Enterprise editions on 21 October. On 22 October, Singapore's cybersecurity authority and Italy's CERT-GARR warned about CVE-2026-110264, rated 10.0 out of 10 on the CVSS scale.",
+      "body": [
+        "The issue involves an integer overflow when compiling a crafted regular expression. In certain conditions a remote unauthenticated attacker could execute code on a vulnerable server, potentially exposing code repositories and development workflows.",
+        "GitLab advised operators to install compatible updates including 19.5.1, 19.4.3, 19.3.6 and backports. The vendor said its managed instances were patched.",
+        "The maximum technical severity rating is not a measure of how many systems were actually breached. No comprehensive confirmed compromise count was established.",
+        "Sources distinguish what was reported on 22 October from scenarios and consequences not yet established. Security or financing announcements should not be described as fully realized effects."
+      ],
+      "facts": [
+        "GitLab released patched Community and Enterprise editions on 21 October. On 22 October, Singapore's cybersecurity authority and Italy's CERT-GARR warned about CVE-2026-110264, rated 10.0 out of 10 on the CVSS scale.",
+        "The issue involves an integer overflow when compiling a crafted regular expression. In certain conditions a remote unauthenticated attacker could execute code on a vulnerable server, potentially exposing code repositories and development workflows."
+      ],
+      "perspectives": [
+        "GitLab advised operators to install compatible updates including 19.5.1, 19.4.3, 19.3.6 and backports. The vendor said its managed instances were patched."
+      ],
+      "unknowns": [
+        "The maximum technical severity rating is not a measure of how many systems were actually breached. No comprehensive confirmed compromise count was established."
+      ],
+      "questions": [
+        {
+          "question": "Does CVSS 10 mean every GitLab server has already been hacked?",
+          "answer": "No. It measures potential severity on affected systems, not successful exploitation everywhere."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "High technical risk to development infrastructure, with patches available.",
+      "tags": [
+        "gitlab",
+        "security",
+        "vulnerability"
+      ],
+      "sources": [
+        {
+          "outlet": "GitLab",
+          "title": "GitLab Critical Patch Release 19.5.1 and supported backports",
+          "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        },
+        {
+          "outlet": "Cyber Security Agency of Singapore",
+          "title": "Critical Vulnerability in GitLab",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-152/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "CERT-GARR",
+          "title": "Alert GCSA-26283 – Aggiornamento di sicurezza per GitLab",
+          "url": "https://www.cert.garr.it/it/alert/security-alerts/alert-gcsa-26283-aggiornamento-di-sicurezza-per-gitlab",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/gitlab-cve-2026-110264-critical.svg",
+        "alt": "Original symbolic editorial illustration, not documentary photography: GitLab releases fixes for critical CVSS-10 remote execution flaw",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/gitlab-cve-2026-110264-critical.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "capcom-id-breach-117m",
+      "rank": 3,
+      "category": "technology",
+      "title": "Capcom reports unauthorized access to 11.77 million customer records",
+      "dek": "The company confirms exposed emails and account metadata, with 196 passwords changed by an intruder.",
+      "summary": "On 22 October Capcom reported an intrusion affecting 11,774,247 CAPCOM ID records containing email addresses, account activity information and last-login IP addresses.",
+      "body": [
+        "A subset of 43 records included other personal fields such as date of birth and country. The company identified unauthorized password changes on 196 accounts and reset them.",
+        "Capcom said credit-card information was not involved and original login passwords were not confirmed stolen. It advised users to watch for phishing messages impersonating the company.",
+        "The number refers to affected records, not 11.77 million confirmed stolen passwords, or a count of unique victims. Investigation continued.",
+        "Sources distinguish what was reported on 22 October from scenarios and consequences not yet established. Security or financing announcements should not be described as fully realized effects."
+      ],
+      "facts": [
+        "On 22 October Capcom reported an intrusion affecting 11,774,247 CAPCOM ID records containing email addresses, account activity information and last-login IP addresses.",
+        "A subset of 43 records included other personal fields such as date of birth and country. The company identified unauthorized password changes on 196 accounts and reset them."
+      ],
+      "perspectives": [
+        "Capcom said credit-card information was not involved and original login passwords were not confirmed stolen. It advised users to watch for phishing messages impersonating the company."
+      ],
+      "unknowns": [
+        "The number refers to affected records, not 11.77 million confirmed stolen passwords, or a count of unique victims. Investigation continued."
+      ],
+      "questions": [
+        {
+          "question": "Did every user lose banking credentials and passwords?",
+          "answer": "No. The company has not confirmed credit-card exposure or theft of original passwords."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "A substantial worldwide customer-data incident with privacy consequences.",
+      "tags": [
+        "capcom",
+        "privacy",
+        "cybersecurity"
+      ],
+      "sources": [
+        {
+          "outlet": "Capcom",
+          "title": "Notice and Apology Regarding Customer Information Affected Through Unauthorized Access",
+          "url": "https://www.capcom.co.jp/ir/english/news/html/e261022.html",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "BleepingComputer",
+          "title": "Capcom confirms data breach affecting 11.7 million accounts",
+          "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/capcom-id-breach-117m.svg",
+        "alt": "Original symbolic editorial illustration, not documentary photography: Capcom reports unauthorized access to 11.77 million customer records",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/capcom-id-breach-117m.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "meta-class-c-ai-funding",
+      "rank": 4,
+      "category": "economy",
+      "title": "Meta proposes non-voting Class C shares to help finance AI investment",
+      "dek": "The new share class is scheduled for January 2027 and would preserve Zuckerberg's voting control.",
+      "summary": "Meta announced on 21 October a plan, scrutinized by markets on the 22nd, to establish listed non-voting Class C shares for potential financing, employee awards and acquisitions supporting its artificial intelligence expansion.",
+      "body": [
+        "Company filings say the additional capital-raising option could help fund large infrastructure projects without reducing Mark Zuckerberg's voting power. Creating a class of shares is not equivalent to selling shares and receiving the funds immediately.",
+        "Management expects eventual returns from models and data centres. Investors are weighing spending levels and economic dilution to existing shareholders even if the voting structure remains unchanged.",
+        "The proposed effective date is January 2027; as of 22 October it had not raised all the funds envisioned. Future revenue projections remain uncertain.",
+        "Sources distinguish what was reported on 22 October from scenarios and consequences not yet established. Security or financing announcements should not be described as fully realized effects."
+      ],
+      "facts": [
+        "Meta announced on 21 October a plan, scrutinized by markets on the 22nd, to establish listed non-voting Class C shares for potential financing, employee awards and acquisitions supporting its artificial intelligence expansion.",
+        "Company filings say the additional capital-raising option could help fund large infrastructure projects without reducing Mark Zuckerberg's voting power. Creating a class of shares is not equivalent to selling shares and receiving the funds immediately."
+      ],
+      "perspectives": [
+        "Management expects eventual returns from models and data centres. Investors are weighing spending levels and economic dilution to existing shareholders even if the voting structure remains unchanged."
+      ],
+      "unknowns": [
+        "The proposed effective date is January 2027; as of 22 October it had not raised all the funds envisioned. Future revenue projections remain uncertain."
+      ],
+      "questions": [
+        {
+          "question": "Has Meta already received new proceeds from these shares?",
+          "answer": "No. The announcement changes potential capital structure, not realized financing."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Important corporate-governance and technology-funding implications.",
+      "tags": [
+        "meta",
+        "artificial-intelligence",
+        "funding"
+      ],
+      "sources": [
+        {
+          "outlet": "Meta Investor Relations",
+          "title": "Meta Reports Third Quarter 2026 Results",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+          "url": "https://www.reuters.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/meta-class-c-ai-funding.svg",
+        "alt": "Original symbolic editorial illustration, not documentary photography: Meta proposes non-voting Class C shares to help finance AI investment",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/meta-class-c-ai-funding.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "anthropic-prepares-possible-ipo",
+      "rank": 5,
+      "category": "economy",
+      "title": "Anthropic explores a possible November IPO as AI markets turn cautious",
+      "dek": "Reuters and Bloomberg report preparatory plans, but the offering dates remain uncertain.",
+      "summary": "On 22 October Reuters reported that Anthropic was proceeding with preparations for a possible mid-November initial public offering. Bloomberg had already described a similar tentative timetable in early October; people briefed on plans warned that timing could change.",
+      "body": [
+        "An IPO could give outside investors shares and provide capital to the company. It does not mean the company has already completed a listing, raised funds or obtained a fixed market valuation.",
+        "Several AI infrastructure operators delayed offerings amid higher borrowing costs and volatile markets. Supporters argue investors still want exposure to leading AI models, despite doubts about capital intensity.",
+        "The potential valuation of up to $1.5 trillion was a reported estimate, not a finalized share price. Prospectus and marketing dates remained provisional.",
+        "Sources distinguish what was reported on 22 October from scenarios and consequences not yet established. Security or financing announcements should not be described as fully realized effects."
+      ],
+      "facts": [
+        "On 22 October Reuters reported that Anthropic was proceeding with preparations for a possible mid-November initial public offering. Bloomberg had already described a similar tentative timetable in early October; people briefed on plans warned that timing could change.",
+        "An IPO could give outside investors shares and provide capital to the company. It does not mean the company has already completed a listing, raised funds or obtained a fixed market valuation."
+      ],
+      "perspectives": [
+        "Several AI infrastructure operators delayed offerings amid higher borrowing costs and volatile markets. Supporters argue investors still want exposure to leading AI models, despite doubts about capital intensity."
+      ],
+      "unknowns": [
+        "The potential valuation of up to $1.5 trillion was a reported estimate, not a finalized share price. Prospectus and marketing dates remained provisional."
+      ],
+      "questions": [
+        {
+          "question": "Has Anthropic already listed at a confirmed $1.5 trillion valuation?",
+          "answer": "No. Those were possible future plans and reported estimates."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "A potentially large sector financing event whose completion remained uncertain.",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "artificial-intelligence"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Anthropic IPO stands alone as AI market jitters sideline others",
+          "url": "https://www.reuters.com/legal/transactional/anthropic-ipo-stands-alone-ai-market-jitters-sideline-others-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Bloomberg",
+          "title": "Anthropic Targets Mega-IPO Before Thanksgiving Holiday",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
+          "publishedAt": "2026-10-01",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/anthropic-prepares-possible-ipo.svg",
+        "alt": "Original symbolic editorial illustration, not documentary photography: Anthropic explores a possible November IPO as AI markets turn cautious",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/anthropic-prepares-possible-ipo.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-22",
+  "section": "science",
+  "language": "en",
+  "publishedAt": "2026-10-22T23:30:00+02:00",
+  "editorialNote": "Science, 22 October: methods and limitations explicit; experimental results are not presented as cures.",
+  "articles": [
+    {
+      "id": "prime-editing-wilson-primo-paziente",
+      "rank": 1,
+      "category": "technology",
+      "title": "In-body prime editing enters initial human clinical testing",
+      "dek": "A patient with Wilson disease received an investigational treatment intended to repair a liver-cell gene variant.",
+      "summary": "On 22 October Nature described an early clinical use of in-vivo prime editing, a method for changing DNA directly within a patient's tissue. Prime Medicine had reported dosing the first participant in its Phase I/II study earlier in the month.",
+      "body": [
+        "Wilson disease impairs clearance of excess copper and can injure the liver and nervous system. The intervention aims to correct a variant in the ATP7B gene using molecular machinery delivered to liver cells.",
+        "Unlike cell therapies involving edits outside the body, the intervention must reach the intended cells inside the patient. It could reduce future treatment complexity, but introduces delivery and safety challenges.",
+        "First dosing is not proof of a cure or durable copper removal. Clinical outcomes are expected later and must be established in controlled follow-up.",
+        "Interpreting this study requires separating observed findings from potential applications and identifying sample sizes and limitations. Primary sources prevent experimental hypotheses being described as available cures."
+      ],
+      "facts": [
+        "On 22 October Nature described an early clinical use of in-vivo prime editing, a method for changing DNA directly within a patient's tissue. Prime Medicine had reported dosing the first participant in its Phase I/II study earlier in the month.",
+        "Wilson disease impairs clearance of excess copper and can injure the liver and nervous system. The intervention aims to correct a variant in the ATP7B gene using molecular machinery delivered to liver cells."
+      ],
+      "perspectives": [
+        "Unlike cell therapies involving edits outside the body, the intervention must reach the intended cells inside the patient. It could reduce future treatment complexity, but introduces delivery and safety challenges."
+      ],
+      "unknowns": [
+        "First dosing is not proof of a cure or durable copper removal. Clinical outcomes are expected later and must be established in controlled follow-up."
+      ],
+      "questions": [
+        {
+          "question": "Does a first treatment mean Wilson disease has been cured?",
+          "answer": "No. The programme is early-stage and safety and efficacy have not been established."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Methodological milestone for human gene editing, with clinical benefit still unproven.",
+      "tags": [
+        "genetics",
+        "crispr",
+        "wilson-disease"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+          "url": "https://www.nature.com/articles/d41586-026-03371-x",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Prime Medicine",
+          "title": "First patient dosed in global Phase 1/2 trial for Wilson disease",
+          "url": "https://primemedicine.gcs-web.com/news-releases/news-release-details/prime-medicine-announces-first-patient-dosed-global-phase-12",
+          "publishedAt": "2026-10-05",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/prime-editing-wilson-primo-paziente.svg",
+        "alt": "Original science editorial illustration, not a documentary image: In-body prime editing enters initial human clinical testing",
+        "credit": "O / arte editoriale scientifica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/prime-editing-wilson-primo-paziente.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "science",
+          "id": "crispr-prime-editing-in-vivo-wilson"
+        }
+      ]
+    },
+    {
+      "id": "aldh3b2-cellule-pancreatiche-diabete",
+      "rank": 2,
+      "category": "society",
+      "title": "Diabetes research identifies a gene linked to insulin-producing cell conversion",
+      "dek": "Reducing ALDH3B2 alters pancreatic cells in laboratory and mouse experiments, not treated human patients.",
+      "summary": "Joslin Diabetes Center described on 22 October findings published in September in Science Translational Medicine: reducing expression of the gene ALDH3B2 made some human pancreatic duct cells acquire features of insulin-producing beta cells.",
+      "body": [
+        "Experiments included cultured cells and donated human cells. The resulting cells responded to glucose by producing insulin and, when transplanted into diabetic mice, contributed to lowering blood sugar in controlled conditions.",
+        "The research suggests a potential biological target, not evidence that adults could regenerate their own pancreas through this procedure. Only a subset of cells converted and they did not fully resemble mature beta cells.",
+        "The findings do not justify stopping established diabetes treatments. Clinical translation would need reliable delivery, safety evidence and sustained patient benefit.",
+        "Interpreting this study requires separating observed findings from potential applications and identifying sample sizes and limitations. Primary sources prevent experimental hypotheses being described as available cures."
+      ],
+      "facts": [
+        "Joslin Diabetes Center described on 22 October findings published in September in Science Translational Medicine: reducing expression of the gene ALDH3B2 made some human pancreatic duct cells acquire features of insulin-producing beta cells.",
+        "Experiments included cultured cells and donated human cells. The resulting cells responded to glucose by producing insulin and, when transplanted into diabetic mice, contributed to lowering blood sugar in controlled conditions."
+      ],
+      "perspectives": [
+        "The research suggests a potential biological target, not evidence that adults could regenerate their own pancreas through this procedure. Only a subset of cells converted and they did not fully resemble mature beta cells."
+      ],
+      "unknowns": [
+        "The findings do not justify stopping established diabetes treatments. Clinical translation would need reliable delivery, safety evidence and sustained patient benefit."
+      ],
+      "questions": [
+        {
+          "question": "Can patients already cure diabetes by switching off ALDH3B2?",
+          "answer": "No. The work involved lab cells and animal models, with no approved human treatment."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Promising regenerative-biology research, still far from demonstrated clinical application.",
+      "tags": [
+        "diabetes",
+        "pancreas",
+        "research"
+      ],
+      "sources": [
+        {
+          "outlet": "Joslin Diabetes Center",
+          "title": "New Clue in the Search to Restore Insulin-Producing Cells in Diabetes",
+          "url": "https://joslin.org/news-stories/all-news-stories/news/2026/10/new-clue-restore-insulin-producing-cells-diabetes",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Science Translational Medicine / PubMed",
+          "title": "Loss of function of ALDH3B2 transdifferentiates human pancreatic duct cells into beta-like cells",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42685151/",
+          "publishedAt": "2026-09-02",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/aldh3b2-cellule-pancreatiche-diabete.svg",
+        "alt": "Original science editorial illustration, not a documentary image: Diabetes research identifies a gene linked to insulin-producing cell conversion",
+        "credit": "O / arte editoriale scientifica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/aldh3b2-cellule-pancreatiche-diabete.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "cornacchie-decisioni-visive-235ms",
+      "rank": 3,
+      "category": "society",
+      "title": "Two crows make visual choices in about 235 milliseconds",
+      "dek": "Neural recordings reveal rapid decisions in a narrowly defined test, not general superiority over humans.",
+      "summary": "Researchers at the University of Tübingen published a Science study on 22 October involving two carrion crows trained to indicate the predominant direction of moving dots on a screen. Their average response time was about 235 milliseconds.",
+      "body": [
+        "The team recorded activity in the avian nidopallium caudolaterale, a region involved in decision-making. Some neural signals distinguished movement directions around 70 milliseconds after the stimulus appeared.",
+        "Researchers compared the timing with results from similar primate tasks. Bird brains lack the mammalian layered neocortex yet can show analogous patterns of sensory evidence accumulation.",
+        "Two birds are too small a sample to generalize about every crow or all cognitive abilities. The result does not mean crows are universally twice as intelligent as humans.",
+        "Interpreting this study requires separating observed findings from potential applications and identifying sample sizes and limitations. Primary sources prevent experimental hypotheses being described as available cures."
+      ],
+      "facts": [
+        "Researchers at the University of Tübingen published a Science study on 22 October involving two carrion crows trained to indicate the predominant direction of moving dots on a screen. Their average response time was about 235 milliseconds.",
+        "The team recorded activity in the avian nidopallium caudolaterale, a region involved in decision-making. Some neural signals distinguished movement directions around 70 milliseconds after the stimulus appeared."
+      ],
+      "perspectives": [
+        "Researchers compared the timing with results from similar primate tasks. Bird brains lack the mammalian layered neocortex yet can show analogous patterns of sensory evidence accumulation."
+      ],
+      "unknowns": [
+        "Two birds are too small a sample to generalize about every crow or all cognitive abilities. The result does not mean crows are universally twice as intelligent as humans."
+      ],
+      "questions": [
+        {
+          "question": "Are crows twice as intelligent as people?",
+          "answer": "No. It concerns decision speed in one visual task tested with two birds."
+        }
+      ],
+      "impact": 1.5,
+      "impactReason": "Useful for comparative neuroscience, with considerable limits on generalization.",
+      "tags": [
+        "neuroscience",
+        "birds",
+        "cognition"
+      ],
+      "sources": [
+        {
+          "outlet": "Universität Tübingen",
+          "title": "Krähen entscheiden doppelt so schnell wie Menschen und Affen",
+          "url": "https://uni-tuebingen.de/universitaet/aktuelles-und-publikationen/pressemitteilung/kraehen-entscheiden-doppelt-so-schnell-wie-menschen-und-affen/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Science",
+          "title": "Ultrarapid decision-making in an avian brain",
+          "url": "https://doi.org/10.1126/science.aed6459",
+          "publishedAt": "2026-10-22",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/cornacchie-decisioni-visive-235ms.svg",
+        "alt": "Original science editorial illustration, not a documentary image: Two crows make visual choices in about 235 milliseconds",
+        "credit": "O / arte editoriale scientifica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/cornacchie-decisioni-visive-235ms.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "positrone-in-trappola-quantistica",
+      "rank": 4,
+      "category": "technology",
+      "title": "Physicists confine a single positron for precision antimatter studies",
+      "dek": "A new experimental apparatus enables closer measurements but has not solved the cosmic matter-antimatter puzzle.",
+      "summary": "Nature described on 21 October a Northwestern University setup that isolated and cooled a positron, the electron's antiparticle, keeping it confined for an extended period in an electromagnetic trap.",
+      "body": [
+        "Antimatter annihilates on contact with ordinary matter, making laboratory study difficult. The method allows stable observation of a single antiparticle without contact with conventional surfaces, enabling fine measurements of its magnetic moment.",
+        "Researchers hope to improve comparisons between positrons and electrons as tests of the Standard Model. Any confirmed tiny discrepancy might inform future cosmological work.",
+        "The achievement is a confinement and measurement capability, not proof of surprising differences between matter and antimatter. Future results need independent scrutiny.",
+        "Interpreting this study requires separating observed findings from potential applications and identifying sample sizes and limitations. Primary sources prevent experimental hypotheses being described as available cures."
+      ],
+      "facts": [
+        "Nature described on 21 October a Northwestern University setup that isolated and cooled a positron, the electron's antiparticle, keeping it confined for an extended period in an electromagnetic trap.",
+        "Antimatter annihilates on contact with ordinary matter, making laboratory study difficult. The method allows stable observation of a single antiparticle without contact with conventional surfaces, enabling fine measurements of its magnetic moment."
+      ],
+      "perspectives": [
+        "Researchers hope to improve comparisons between positrons and electrons as tests of the Standard Model. Any confirmed tiny discrepancy might inform future cosmological work."
+      ],
+      "unknowns": [
+        "The achievement is a confinement and measurement capability, not proof of surprising differences between matter and antimatter. Future results need independent scrutiny."
+      ],
+      "questions": [
+        {
+          "question": "Has the experiment already explained why matter dominates the universe?",
+          "answer": "No. It offers a tool for later precision experiments, not a definitive explanation."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "An important fundamental-physics methodology advance, with no immediate application.",
+      "tags": [
+        "antimatter",
+        "physics",
+        "positron"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "A single antimatter particle in a cage opens door to 'revolutionary' physics",
+          "url": "https://www.nature.com/articles/d41586-026-03342-2",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Northwestern University",
+          "title": "Scientists trap and tame a single particle of antimatter for months",
+          "url": "https://www.publicnow.com/view/82A2570B6E24DA239DC1C28323612B2FD732D917",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/positrone-in-trappola-quantistica.svg",
+        "alt": "Original science editorial illustration, not a documentary image: Physicists confine a single positron for precision antimatter studies",
+        "credit": "O / arte editoriale scientifica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/positrone-in-trappola-quantistica.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "corteccia-cerebrale-sviluppo-adolescenza",
+      "rank": 5,
+      "category": "society",
+      "title": "Large brain-scan study maps changing cortical maturation through adolescence",
+      "dek": "Developmental timing correlates with later symptoms at group level, but cannot diagnose an individual child.",
+      "summary": "An analysis of about 30,000 MRI scans from nearly 12,000 US children, discussed by Nature on 21 October, mapped recurring patterns of cortical maturation during adolescence.",
+      "body": [
+        "Researchers traced cortical thinning over time and found that its average path was not linear. Variation in developmental timing was statistically associated with subsequent depression and anxiety symptoms at the population level.",
+        "The longitudinal dataset includes repeated imaging and symptom assessments. Such trajectories can support hypotheses about developmental vulnerability but do not reduce mental-health conditions to damage in one brain region.",
+        "The work was a preprint awaiting full peer review. Its group-level associations are too subtle to be a personal predictive test and do not replace clinical assessment.",
+        "Interpreting this study requires separating observed findings from potential applications and identifying sample sizes and limitations. Primary sources prevent experimental hypotheses being described as available cures."
+      ],
+      "facts": [
+        "An analysis of about 30,000 MRI scans from nearly 12,000 US children, discussed by Nature on 21 October, mapped recurring patterns of cortical maturation during adolescence.",
+        "Researchers traced cortical thinning over time and found that its average path was not linear. Variation in developmental timing was statistically associated with subsequent depression and anxiety symptoms at the population level."
+      ],
+      "perspectives": [
+        "The longitudinal dataset includes repeated imaging and symptom assessments. Such trajectories can support hypotheses about developmental vulnerability but do not reduce mental-health conditions to damage in one brain region."
+      ],
+      "unknowns": [
+        "The work was a preprint awaiting full peer review. Its group-level associations are too subtle to be a personal predictive test and do not replace clinical assessment."
+      ],
+      "questions": [
+        {
+          "question": "Can an MRI now reliably predict depression in an individual child?",
+          "answer": "No. Group patterns are not accurate enough for individual diagnosis."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "Relevant developmental neuroscience, with explicit methodological and clinical limits.",
+      "tags": [
+        "brain",
+        "adolescence",
+        "research"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "Teen depression and anxiety predicted by childhood brain development",
+          "url": "https://www.nature.com/articles/d41586-026-03357-9",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        },
+        {
+          "outlet": "bioRxiv",
+          "title": "Developmental dynamics of cortical thinning and adolescent mental health – research preprint",
+          "url": "https://doi.org/10.64898/2026.10.08.755024",
+          "publishedAt": "2026-10-11",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/corteccia-cerebrale-sviluppo-adolescenza.svg",
+        "alt": "Original science editorial illustration, not a documentary image: Large brain-scan study maps changing cortical maturation through adolescence",
+        "credit": "O / arte editoriale scientifica",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/corteccia-cerebrale-sviluppo-adolescenza.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

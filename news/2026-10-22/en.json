@@ -1,0 +1,619 @@
+{
+  "date": "2026-10-22",
+  "language": "en",
+  "section": "world",
+  "publishedAt": "2026-10-22T23:30:00+02:00",
+  "editorialNote": "22 October retrospective: statements attributed and later developments not pre-empted.",
+  "articles": [
+    {
+      "id": "hormuz-seven-vessels-irgc-claims",
+      "rank": 1,
+      "category": "world",
+      "title": "Iran's guards claim incidents involving seven ships near Hormuz",
+      "dek": "Four vessels were allegedly struck and three hit mines; ship identities are not independently confirmed.",
+      "summary": "Iran's Revolutionary Guards navy claimed four ships involved in oil transfers were struck in the Gulf and three more hit mines west of Hormuz.",
+      "body": [
+        "The strait is essential to world energy shipping. Iran's statement did not identify ships, flags or crews or provide independent damage assessments.",
+        "The IRGC said it opposed unlawful transfers and threatened US bases; commercial maritime safety is a central concern for other governments.",
+        "These are Tehran's claims, not seven independently established losses. Verified maritime evidence is needed to assess the damage.",
+        "This issue compares material published by Reuters and Associated Press. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "Iran's Revolutionary Guards navy claimed four ships involved in oil transfers were struck in the Gulf and three more hit mines west of Hormuz.",
+        "The strait is essential to world energy shipping. Iran's statement did not identify ships, flags or crews or provide independent damage assessments."
+      ],
+      "perspectives": [
+        "The IRGC said it opposed unlawful transfers and threatened US bases; commercial maritime safety is a central concern for other governments."
+      ],
+      "unknowns": [
+        "These are Tehran's claims, not seven independently established losses. Verified maritime evidence is needed to assess the damage."
+      ],
+      "questions": [
+        {
+          "question": "Have seven tankers been proven destroyed?",
+          "answer": "No. Reported attacks and independently established destruction are different."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Major implications for Gulf security and energy trade, with a materially uncertain incident count.",
+      "tags": [
+        "iran",
+        "hormuz",
+        "oil"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response",
+          "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-seven-vessels-hit-warns-us-wider-response-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz",
+          "url": "https://apnews.com/article/2abebce2fca2c085e0e0ee717e42cf28",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/hormuz-seven-vessels-irgc-claims.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Iran's guards claim incidents involving seven ships near Hormuz",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/hormuz-seven-vessels-irgc-claims.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "kyiv-russian-missile-strikes",
+      "rank": 2,
+      "category": "world",
+      "title": "Missiles hit Kyiv after US-Russia diplomatic contacts",
+      "dek": "Ukraine reported injuries and damage to transport infrastructure and other buildings.",
+      "summary": "Russian missiles struck the Ukrainian capital overnight on 22 October. Reuters cited fifteen injuries in Kyiv while AFP reported a wider national tally with a different geographic scope.",
+      "body": [
+        "The explosions followed US envoy Steve Witkoff's meeting with Vladimir Putin. Diplomatic statements alongside attacks do not constitute a ceasefire.",
+        "Kyiv saw the raids as proof that Moscow's military posture was unchanged; Moscow expressed willingness to negotiate without halting operations.",
+        "Casualty figures from different geographic areas should not be added without checking. The full assessment of damage remains unfinished.",
+        "This issue compares material published by Reuters and AFP. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "Russian missiles struck the Ukrainian capital overnight on 22 October. Reuters cited fifteen injuries in Kyiv while AFP reported a wider national tally with a different geographic scope.",
+        "The explosions followed US envoy Steve Witkoff's meeting with Vladimir Putin. Diplomatic statements alongside attacks do not constitute a ceasefire."
+      ],
+      "perspectives": [
+        "Kyiv saw the raids as proof that Moscow's military posture was unchanged; Moscow expressed willingness to negotiate without halting operations."
+      ],
+      "unknowns": [
+        "Casualty figures from different geographic areas should not be added without checking. The full assessment of damage remains unfinished."
+      ],
+      "questions": [
+        {
+          "question": "Have the talks halted attacks?",
+          "answer": "No. Fighting continued during discussions of future negotiations."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "High consequences for Ukrainian civilians and diplomatic efforts.",
+      "tags": [
+        "ukraine",
+        "kyiv",
+        "war"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Russia, Ukraine exchange strikes as US envoy leaves after talks",
+          "url": "https://www.investing.com/news/world-news/russia-ukraine-exchange-strikes-as-us-envoy-leaves-after-talks-4964598",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Zelensky says fresh Russian strikes show 'no change' in Kremlin position",
+          "url": "https://www.afp.com/de/node/3848463",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/kyiv-russian-missile-strikes.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Missiles hit Kyiv after US-Russia diplomatic contacts",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/kyiv-russian-missile-strikes.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "putin-witkoff-security-talks",
+      "rank": 3,
+      "category": "politics",
+      "title": "Putin signals possible talks as Donbas dispute remains unresolved",
+      "dek": "The Kremlin seeks a security framework for Russia, Ukraine and Europe, but no agreement has been signed.",
+      "summary": "Russia's president said on 22 October that negotiations should address a postwar security system and entertained renewed US-mediated contacts.",
+      "body": [
+        "Diplomacy had stalled, with Ukraine's territory a central obstacle. Moscow demanded Donbas, while Kyiv rejected surrendering occupied land.",
+        "Russia emphasizes territory and security, while Ukraine demands sovereignty, a ceasefire and guarantees. Attribution does not make territorial invasion legally equivalent to national self-defence.",
+        "No settlement or confirmed trilateral meeting date was announced. Renewed missile attacks showed that a wider ceasefire did not exist.",
+        "This issue compares material published by Reuters and AFP. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "Russia's president said on 22 October that negotiations should address a postwar security system and entertained renewed US-mediated contacts.",
+        "Diplomacy had stalled, with Ukraine's territory a central obstacle. Moscow demanded Donbas, while Kyiv rejected surrendering occupied land."
+      ],
+      "perspectives": [
+        "Russia emphasizes territory and security, while Ukraine demands sovereignty, a ceasefire and guarantees. Attribution does not make territorial invasion legally equivalent to national self-defence."
+      ],
+      "unknowns": [
+        "No settlement or confirmed trilateral meeting date was announced. Renewed missile attacks showed that a wider ceasefire did not exist."
+      ],
+      "questions": [
+        {
+          "question": "Does willingness to talk equal a signed peace?",
+          "answer": "No. Territory, timing and guarantees remain disputed."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "International diplomatic relevance without a concrete verified breakthrough.",
+      "tags": [
+        "ukraine",
+        "negotiations",
+        "diplomacy"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Putin says talks must focus on security for Russia, Ukraine and Europe overall",
+          "url": "https://www.reuters.com/world/europe/putin-says-talks-must-focus-security-russia-ukraine-europe-overall-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Zelensky says fresh Russian strikes show 'no change' in Kremlin position",
+          "url": "https://www.afp.com/de/node/3848463",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/putin-witkoff-security-talks.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Putin signals possible talks as Donbas dispute remains unresolved",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/putin-witkoff-security-talks.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "saudi-dammam-airport-attack",
+      "rank": 4,
+      "category": "world",
+      "title": "Saudi Arabia reports one killed and eight injured at Dammam airport",
+      "dek": "Civil aviation officials are assessing damage from the 21 October attack.",
+      "summary": "King Fahd International Airport was attacked on the evening of 21 October; the following day's confirmation reported one death and eight injuries, according to Saudi authorities.",
+      "body": [
+        "The airport serves civilian and logistics routes in the Gulf. The incident occurred amid regional hostilities and threats to civilian infrastructure.",
+        "Reuters attributed the count to civil aviation officials; AP described the wider regional escalation and shipping risks.",
+        "Full damage estimates and an independent reconstruction of responsibility were not yet available.",
+        "This issue compares material published by Reuters and Associated Press. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "King Fahd International Airport was attacked on the evening of 21 October; the following day's confirmation reported one death and eight injuries, according to Saudi authorities.",
+        "The airport serves civilian and logistics routes in the Gulf. The incident occurred amid regional hostilities and threats to civilian infrastructure."
+      ],
+      "perspectives": [
+        "Reuters attributed the count to civil aviation officials; AP described the wider regional escalation and shipping risks."
+      ],
+      "unknowns": [
+        "Full damage estimates and an independent reconstruction of responsibility were not yet available."
+      ],
+      "questions": [
+        {
+          "question": "Have all Saudi airports closed?",
+          "answer": "No. The reported information concerns the specific airport at Dammam."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Severe regional security and human consequences, without a world-wide shutdown.",
+      "tags": [
+        "saudi-arabia",
+        "airport",
+        "security"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/22/saudi-civil-aviation-says-one-killed-eight-injured-in-attack-on-king-fahd-airport",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Iran says 7 oil tankers attacked as fears grow of renewed regional war",
+          "url": "https://apnews.com/article/2abebce2fca2c085e0e0ee717e42cf28",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/saudi-dammam-airport-attack.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Saudi Arabia reports one killed and eight injured at Dammam airport",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/saudi-dammam-airport-attack.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "us-saudi-diplomatic-drawdown",
+      "rank": 5,
+      "category": "politics",
+      "title": "US orders some diplomatic staff and families to leave Saudi Arabia",
+      "dek": "Washington cites Houthi attacks on civilian infrastructure as the security reason.",
+      "summary": "The US State Department ordered non-emergency staff and family members to leave diplomatic missions in Saudi Arabia, Reuters and the Washington Post confirmed.",
+      "body": [
+        "Ordered departure is a security precaution, not the termination of diplomatic relations or universal embassy closure.",
+        "The action followed attacks on infrastructure and air-travel disruption; US officials described a heightened risk to civilians.",
+        "Reports about extending similar orders to other Gulf countries differed and should not be presented as an already confirmed regional directive.",
+        "This issue compares material published by Reuters and The Washington Post. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "The US State Department ordered non-emergency staff and family members to leave diplomatic missions in Saudi Arabia, Reuters and the Washington Post confirmed.",
+        "Ordered departure is a security precaution, not the termination of diplomatic relations or universal embassy closure."
+      ],
+      "perspectives": [
+        "The action followed attacks on infrastructure and air-travel disruption; US officials described a heightened risk to civilians."
+      ],
+      "unknowns": [
+        "Reports about extending similar orders to other Gulf countries differed and should not be presented as an already confirmed regional directive."
+      ],
+      "questions": [
+        {
+          "question": "Were all embassies shut?",
+          "answer": "No. The order covered categories of staff, not an end to diplomatic missions."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Relevant diplomatic and operational effects in a dangerous region.",
+      "tags": [
+        "diplomacy",
+        "saudi-arabia",
+        "security"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+          "url": "https://www.reuters.com/world/middle-east/us-preparing-issue-ordered-departure-some-personnel-gulf-embassies-us-officials-2026-10-21/",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "U.S. orders some diplomats to leave Saudi Arabia amid Houthi attacks",
+          "url": "https://www.washingtonpost.com/world/2026/10/22/us-orders-some-diplomats-leave-saudi-arabia-amid-houthi-attacks/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/us-saudi-diplomatic-drawdown.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about US orders some diplomatic staff and families to leave Saudi Arabia",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/us-saudi-diplomatic-drawdown.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "wfp-gaza-food-assistance-cuts",
+      "rank": 6,
+      "category": "society",
+      "title": "Gaza food assistance shrinks for roughly half a million people",
+      "dek": "WFP reduces monthly beneficiaries from 1.6 million to 1.1 million.",
+      "summary": "On 22 October the World Food Programme's cuts, announced on 19 October, were taking effect, leaving an estimated half-million fewer people receiving monthly assistance.",
+      "body": [
+        "WFP reduced rations and daily cooked meals from 250,000 to 150,000 while many families faced displacement and damaged essential services.",
+        "The agency cited insufficient funding and sought $450 million for six months. AP also reported separate cuts in the West Bank.",
+        "It is unknown how far other aid networks can compensate; the loss-of-benefits figure is not a death toll.",
+        "This issue compares material published by World Food Programme and Associated Press. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "On 22 October the World Food Programme's cuts, announced on 19 October, were taking effect, leaving an estimated half-million fewer people receiving monthly assistance.",
+        "WFP reduced rations and daily cooked meals from 250,000 to 150,000 while many families faced displacement and damaged essential services."
+      ],
+      "perspectives": [
+        "The agency cited insufficient funding and sought $450 million for six months. AP also reported separate cuts in the West Bank."
+      ],
+      "unknowns": [
+        "It is unknown how far other aid networks can compensate; the loss-of-benefits figure is not a death toll."
+      ],
+      "questions": [
+        {
+          "question": "Did half a million people die from hunger?",
+          "answer": "No. The estimate concerns reduced food support and resulting humanitarian risk."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Very high humanitarian consequences across a vulnerable population.",
+      "tags": [
+        "gaza",
+        "food",
+        "aid"
+      ],
+      "sources": [
+        {
+          "outlet": "World Food Programme",
+          "title": "Funding cuts force WFP to drastically reduce lifesaving assistance in Gaza",
+          "url": "https://www.wfp.org/news/funding-cuts-force-wfp-drastically-reduce-lifesaving-assistance-gaza",
+          "publishedAt": "2026-10-19",
+          "role": "official"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Short of funds, UN food agency cuts aid to 500,000 Palestinians in Gaza and 200,000 in the West Bank",
+          "url": "https://apnews.com/article/d7ebbcf1fd30cc608c9b9ed5126deb95",
+          "publishedAt": "2026-10-20",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/wfp-gaza-food-assistance-cuts.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Gaza food assistance shrinks for roughly half a million people",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/wfp-gaza-food-assistance-cuts.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "ai-markets-nasdaq-selloff",
+      "rank": 7,
+      "category": "economy",
+      "title": "Nasdaq falls 2.6% as investors weigh AI infrastructure costs",
+      "dek": "Stocks tied to data centres and chips decline after fresh spending announcements.",
+      "summary": "The Nasdaq Composite lost 2.6% on 22 October as Meta and Nvidia fell, AP and Reuters reported.",
+      "body": [
+        "Investors recalculated financing costs, power demand and the time required for returns on AI infrastructure. One trading day does not measure technical performance.",
+        "Companies defended prospective revenues, while some investors worried about debt and shareholder dilution.",
+        "Not every US stock fell and the session cannot establish that AI-related growth is permanently over.",
+        "This issue compares material published by Associated Press and Reuters. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "The Nasdaq Composite lost 2.6% on 22 October as Meta and Nvidia fell, AP and Reuters reported.",
+        "Investors recalculated financing costs, power demand and the time required for returns on AI infrastructure. One trading day does not measure technical performance."
+      ],
+      "perspectives": [
+        "Companies defended prospective revenues, while some investors worried about debt and shareholder dilution."
+      ],
+      "unknowns": [
+        "Not every US stock fell and the session cannot establish that AI-related growth is permanently over."
+      ],
+      "questions": [
+        {
+          "question": "Does the sell-off prove AI models failed?",
+          "answer": "No. Market prices express financial expectations rather than a final judgement on technology."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "A significant market correction, not a proven systemic crisis.",
+      "tags": [
+        "stocks",
+        "artificial-intelligence",
+        "markets"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+          "url": "https://apnews.com/article/33767691a4a0730b96d6f0c5100ea9b2",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+          "url": "https://www.reuters.com/business/steep-bill-ai-buildout-punishes-meta-other-tech-favorites-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/ai-markets-nasdaq-selloff.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Nasdaq falls 2.6% as investors weigh AI infrastructure costs",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/ai-markets-nasdaq-selloff.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "brazil-volta-grande-gold-permit",
+      "rank": 8,
+      "category": "climate",
+      "title": "Brazil suspends permit for major Xingu River gold mine",
+      "dek": "The court demands adequate safeguards and consultation with Indigenous communities.",
+      "summary": "The Volta Grande project by Canada's Belo Sun had its installation licence provisionally suspended after a ruling by Justice Edson Fachin reported during the week of 22 October.",
+      "body": [
+        "The project is located near the Xingu River, already affected by the Belo Monte dam. Researchers and advocates cite ecological and community risks.",
+        "Indigenous groups say consultations were inadequate, while the company maintains its legal position and may challenge the decision.",
+        "The ruling is temporary and does not mean all Amazon mining activities were shut down.",
+        "This issue compares material published by Associated Press and Folha de S.Paulo. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "The Volta Grande project by Canada's Belo Sun had its installation licence provisionally suspended after a ruling by Justice Edson Fachin reported during the week of 22 October.",
+        "The project is located near the Xingu River, already affected by the Belo Monte dam. Researchers and advocates cite ecological and community risks."
+      ],
+      "perspectives": [
+        "Indigenous groups say consultations were inadequate, while the company maintains its legal position and may challenge the decision."
+      ],
+      "unknowns": [
+        "The ruling is temporary and does not mean all Amazon mining activities were shut down."
+      ],
+      "questions": [
+        {
+          "question": "Has the mine been permanently banned?",
+          "answer": "No. The licensing suspension awaits further legal proceedings."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Important for the environment and local rights, with bounded geographic consequences.",
+      "tags": [
+        "brazil",
+        "amazon",
+        "mining"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Brazil's Supreme Court suspends permit for major Amazon gold mine",
+          "url": "https://apnews.com/article/b0ff5b3205a3552e2c7d499ea1a7231e",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Fachin suspende licença que permitia a Belo Sun minerar ouro na Volta Grande do Xingu",
+          "url": "https://www1.folha.uol.com.br/ambiente/2026/10/fachin-suspende-licenca-que-permitia-a-belo-sun-minerar-ouro-na-volta-grande-do-xingu.shtml",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/brazil-volta-grande-gold-permit.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Brazil suspends permit for major Xingu River gold mine",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/brazil-volta-grande-gold-permit.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "unep-emissions-gap-october",
+      "rank": 9,
+      "category": "climate",
+      "title": "UNEP projects 2.8°C warming under current policies",
+      "dek": "The climate assessment separates projected century-level warming from observed temperatures.",
+      "summary": "UNEP's 21 October report, still a central issue on the 22nd, projected 2.8°C of warming under current policies and 2.6°C if declared national pledges are implemented.",
+      "body": [
+        "The Paris Agreement aims for warming well below 2°C while pursuing 1.5°C. The report analyses policy scenarios, emissions cuts and carbon-removal technologies.",
+        "Researchers called for emissions cuts of 18% by 2030 and 45% by 2035 from 2025 levels in an ambitious pathway.",
+        "These outcomes are conditional projections, not temperatures already measured in 2026.",
+        "This issue compares material published by United Nations Environment Programme and Associated Press. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "UNEP's 21 October report, still a central issue on the 22nd, projected 2.8°C of warming under current policies and 2.6°C if declared national pledges are implemented.",
+        "The Paris Agreement aims for warming well below 2°C while pursuing 1.5°C. The report analyses policy scenarios, emissions cuts and carbon-removal technologies."
+      ],
+      "perspectives": [
+        "Researchers called for emissions cuts of 18% by 2030 and 45% by 2035 from 2025 levels in an ambitious pathway."
+      ],
+      "unknowns": [
+        "These outcomes are conditional projections, not temperatures already measured in 2026."
+      ],
+      "questions": [
+        {
+          "question": "Has the world already reached 2.8°C?",
+          "answer": "No. That is a scenario projection for the century."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Long-term worldwide implications for climate policy, health and ecosystems.",
+      "tags": [
+        "climate",
+        "emissions",
+        "paris-agreement"
+      ],
+      "sources": [
+        {
+          "outlet": "United Nations Environment Programme",
+          "title": "New UNEP report lays out emission cuts needed for return to 1.5°C",
+          "url": "https://www.unep.org/en/news-and-stories/press-release/new-unep-report-lays-out-emission-cuts-needed-return-15degc",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "US is a big reason for the world losing ground in the fight against climate change, UN report says",
+          "url": "https://apnews.com/article/0eff0561e0af1f3d7421a96d9db02ba9",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/unep-emissions-gap-october.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about UNEP projects 2.8°C warming under current policies",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/unep-emissions-gap-october.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "oil-prices-brent-113",
+      "rank": 10,
+      "category": "economy",
+      "title": "Brent crude exceeds $113 amid renewed Gulf tensions",
+      "dek": "Crude benchmarks and retail petrol prices are different economic measures.",
+      "summary": "Brent closed 22 October around $113.17 a barrel after rising close to 4%, according to AP and the Wall Street Journal.",
+      "body": [
+        "Markets priced threats to Saudi infrastructure and Strait of Hormuz shipping. Other crude export routes remained in use, although insurance costs were high.",
+        "Prices incorporate perceived future risk; refining, tax and logistics determine petrol and diesel prices in individual markets.",
+        "The rise does not prove all Gulf exports stopped or that pump prices rose by the same percentage.",
+        "This issue compares material published by Associated Press and The Wall Street Journal. The essential distinction is between supported facts, statements from involved parties and unresolved questions. Later developments belong in subsequent editions."
+      ],
+      "facts": [
+        "Brent closed 22 October around $113.17 a barrel after rising close to 4%, according to AP and the Wall Street Journal.",
+        "Markets priced threats to Saudi infrastructure and Strait of Hormuz shipping. Other crude export routes remained in use, although insurance costs were high."
+      ],
+      "perspectives": [
+        "Prices incorporate perceived future risk; refining, tax and logistics determine petrol and diesel prices in individual markets."
+      ],
+      "unknowns": [
+        "The rise does not prove all Gulf exports stopped or that pump prices rose by the same percentage."
+      ],
+      "questions": [
+        {
+          "question": "Did petrol automatically rise by 4%?",
+          "answer": "No. Crude oil benchmarks and retail fuel prices are distinct."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Important for energy-price expectations and inflation, without confirmed global supply collapse.",
+      "tags": [
+        "oil",
+        "markets",
+        "middle-east"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+          "url": "https://apnews.com/article/33767691a4a0730b96d6f0c5100ea9b2",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "title": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
+          "url": "https://www.wsj.com/business/energy-oil/oil-prices-rise-more-than-2-as-attacks-on-saudi-arabia-u-s-iran-risks-persist-5599ac83",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/oil-prices-brent-113.svg",
+        "alt": "Original editorial illustration, not a documentary photo, about Brent crude exceeds $113 amid renewed Gulf tensions",
+        "credit": "O / illustrazione originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/oil-prices-brent-113.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

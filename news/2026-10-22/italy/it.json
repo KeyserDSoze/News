@@ -1,0 +1,335 @@
+{
+  "date": "2026-10-22",
+  "section": "italy",
+  "language": "it",
+  "publishedAt": "2026-10-22T23:30:00+02:00",
+  "editorialNote": "Italia, 22 ottobre: misure annunciate, iter legislativi e conseguenze già osservate, senza anticipare gli eventi del 24.",
+  "articles": [
+    {
+      "id": "decreto-carburanti-autotrasporto",
+      "rank": 1,
+      "category": "economy",
+      "title": "Carburanti, il governo approva 105 milioni di nuovi aiuti all'autotrasporto",
+      "dek": "Il decreto destina complessivamente 175 milioni a trasporto merci, agricoltura e pesca.",
+      "summary": "Il Consiglio dei ministri del 22 ottobre ha varato aiuti per circa 175 milioni di euro, di cui 105,2 milioni dedicati all'autotrasporto: 45,2 milioni di integrazione del credito d'imposta per marzo-agosto e 60 milioni per il periodo dal 1° settembre al 5 ottobre.",
+      "impact": 3,
+      "impactReason": "Intervento nazionale rilevante per logistica, agricoltura e filiere dei beni essenziali.",
+      "tags": [
+        "italia",
+        "autotrasporto",
+        "carburanti"
+      ],
+      "body": [
+        "Il decreto proroga fino a marzo 2027 la sospensione di alcuni canoni di leasing dei mezzi pesanti. Separatamente sono previsti 60 milioni per le imprese agricole e 10 milioni per la pesca. Sono strumenti diversi, con requisiti e tempi da definire negli atti di applicazione.",
+        "L'esecutivo sostiene di voler mitigare l'aumento dei costi del gasolio; associazioni e aziende del trasporto chiedono continuità delle forniture e certezza sui pagamenti. Le proteste già avvenute in alcune zone derivano anche da costi e rapporti contrattuali più ampi.",
+        "L'approvazione della misura non equivale a fondi già arrivati sui conti degli operatori. L'effetto su tariffe, consegne e prezzi dipenderà dall'attuazione del decreto e dal mercato dell'energia.",
+        "La ricostruzione si basa su ANSA e Ministero delle Infrastrutture e dei Trasporti. Distinguere ciò che è stato approvato o annunciato dalle conseguenze già osservate evita di anticipare gli sviluppi dei giorni successivi."
+      ],
+      "facts": [
+        "Il Consiglio dei ministri del 22 ottobre ha varato aiuti per circa 175 milioni di euro, di cui 105,2 milioni dedicati all'autotrasporto: 45,2 milioni di integrazione del credito d'imposta per marzo-agosto e 60 milioni per il periodo dal 1° settembre al 5 ottobre.",
+        "Il decreto proroga fino a marzo 2027 la sospensione di alcuni canoni di leasing dei mezzi pesanti. Separatamente sono previsti 60 milioni per le imprese agricole e 10 milioni per la pesca. Sono strumenti diversi, con requisiti e tempi da definire negli atti di applicazione."
+      ],
+      "perspectives": [
+        "L'esecutivo sostiene di voler mitigare l'aumento dei costi del gasolio; associazioni e aziende del trasporto chiedono continuità delle forniture e certezza sui pagamenti. Le proteste già avvenute in alcune zone derivano anche da costi e rapporti contrattuali più ampi."
+      ],
+      "unknowns": [
+        "L'approvazione della misura non equivale a fondi già arrivati sui conti degli operatori. L'effetto su tariffe, consegne e prezzi dipenderà dall'attuazione del decreto e dal mercato dell'energia."
+      ],
+      "questions": [
+        {
+          "question": "Le imprese hanno già ricevuto tutti i 175 milioni?",
+          "answer": "No. Sono stanziamenti approvati, con procedure e tempi di erogazione distinti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Decreto, ai Tir 105 milioni, per agricoltura e pesca altri 70 milioni",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/22/decreto-ai-tir-105-milioni-per-agricoltura-e-pesca-altri-70-milioni_461045bd-98c2-495f-97d2-632bb0921ac9.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ministero delle Infrastrutture e dei Trasporti",
+          "title": "Autotrasporto, dal Governo nuove misure contro il caro gasolio",
+          "url": "https://mit.gov.it/comunicazione/news/autotrasporto-dal-governo-nuove-misure-contro-il-caro-gasolio",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/decreto-carburanti-autotrasporto.svg",
+        "alt": "Illustrazione simbolica originale, non fotografia, relativa a: Carburanti, il governo approva 105 milioni di nuovi aiuti all'autotrasporto",
+        "credit": "O / illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/decreto-carburanti-autotrasporto.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "italy",
+          "id": "sud-rientro-merci-carburante"
+        }
+      ]
+    },
+    {
+      "id": "camera-patrocinio-vittime-lavoro",
+      "rank": 2,
+      "category": "society",
+      "title": "Morti sul lavoro, la Camera vota all'unanimità il patrocinio gratuito",
+      "dek": "Il testo passa al Senato: non è ancora una legge definitivamente approvata.",
+      "summary": "La Camera dei deputati ha approvato il 22 ottobre con 220 voti favorevoli e nessun contrario una proposta per garantire il patrocinio a spese dello Stato ai familiari delle vittime di incidenti mortali o gravemente invalidanti sul lavoro, senza limiti reddituali nelle condizioni indicate dal testo.",
+      "impact": 2.5,
+      "impactReason": "Rilevanza nazionale per la tutela giudiziaria di vittime e familiari, con efficacia futura da verificare.",
+      "tags": [
+        "lavoro",
+        "giustizia",
+        "sicurezza"
+      ],
+      "body": [
+        "La disciplina riguarda l'accesso alla difesa legale nelle controversie connesse a infortuni particolarmente gravi. Può ridurre ostacoli economici per persone coinvolte in procedimenti complessi, ma non incide direttamente sulla prevenzione degli incidenti nei cantieri e negli stabilimenti.",
+        "Le forze politiche hanno sostenuto unanimemente la proposta, mentre la concretizzazione del diritto dipenderà dall'esame al Senato e dai dettagli applicativi. La notizia è un voto parlamentare, non l'entrata in vigore della norma.",
+        "L'effetto economico e il numero di possibili beneficiari non sono ancora misurati. Alla data della rassegna il percorso legislativo era incompleto.",
+        "La ricostruzione si basa su Camera dei deputati e ANSA. Distinguere ciò che è stato approvato o annunciato dalle conseguenze già osservate evita di anticipare gli sviluppi dei giorni successivi."
+      ],
+      "facts": [
+        "La Camera dei deputati ha approvato il 22 ottobre con 220 voti favorevoli e nessun contrario una proposta per garantire il patrocinio a spese dello Stato ai familiari delle vittime di incidenti mortali o gravemente invalidanti sul lavoro, senza limiti reddituali nelle condizioni indicate dal testo.",
+        "La disciplina riguarda l'accesso alla difesa legale nelle controversie connesse a infortuni particolarmente gravi. Può ridurre ostacoli economici per persone coinvolte in procedimenti complessi, ma non incide direttamente sulla prevenzione degli incidenti nei cantieri e negli stabilimenti."
+      ],
+      "perspectives": [
+        "Le forze politiche hanno sostenuto unanimemente la proposta, mentre la concretizzazione del diritto dipenderà dall'esame al Senato e dai dettagli applicativi. La notizia è un voto parlamentare, non l'entrata in vigore della norma."
+      ],
+      "unknowns": [
+        "L'effetto economico e il numero di possibili beneficiari non sono ancora misurati. Alla data della rassegna il percorso legislativo era incompleto."
+      ],
+      "questions": [
+        {
+          "question": "Il patrocinio gratuito è già automaticamente disponibile?",
+          "answer": "No. Il testo deve completare l'iter parlamentare prima di diventare legge."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Camera dei deputati",
+          "title": "Approvazione della proposta di legge sul patrocinio a spese dello Stato per le vittime sul lavoro",
+          "url": "https://comunicazione.camera.it/archivio-prima-pagina/19-63452",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Via libera unanime della Camera alla legge sul gratuito patrocinio per le vittime sul lavoro",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/22/via-libera-unanime-della-camera-alla-legge-sul-gratuito-patrocinio_aca32b8e-53ec-4e0c-bb3e-6f2b81261509.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/camera-patrocinio-vittime-lavoro.svg",
+        "alt": "Illustrazione simbolica originale, non fotografia, relativa a: Morti sul lavoro, la Camera vota all'unanimità il patrocinio gratuito",
+        "credit": "O / illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/camera-patrocinio-vittime-lavoro.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "pescatori-caro-gasolio-flotte-ferme",
+      "rank": 3,
+      "category": "economy",
+      "title": "Caro gasolio, parte della flotta da pesca resta ferma nei porti italiani",
+      "dek": "Il governo annuncia 10 milioni di euro per gli operatori del settore, senza risolvere tutti i costi.",
+      "summary": "Armatori e pescatori hanno lasciato ferme diverse imbarcazioni, soprattutto lungo la costa adriatica, denunciando che il prezzo del gasolio rende poco sostenibili le uscite. ANSA e RaiNews descrivono la protesta del 22 ottobre, con effetti su attività e commercializzazione del pescato.",
+      "impact": 2.5,
+      "impactReason": "Effetti economici regionali e sulla filiera alimentare, ancora da quantificare.",
+      "tags": [
+        "pesca",
+        "carburanti",
+        "adriatico"
+      ],
+      "body": [
+        "Il governo ha inserito nel pacchetto approvato in giornata un contributo di 10 milioni di euro per la pesca, calcolato in percentuale delle spese ammissibili per il carburante nei mesi precedenti. Lo stanziamento non garantisce un rimborso integrale dei maggiori costi.",
+        "I rappresentanti del settore chiedono un sostegno più duraturo; il ministero presenta il contributo come sollievo temporaneo alle imprese. Le difficoltà dei pescatori non sono identiche in tutti i porti o per tutti i tipi di battello.",
+        "Non erano disponibili dati nazionali completi sulle imbarcazioni effettivamente ferme né sull'effetto dell'aiuto sui prezzi del pescato. Un blocco locale non va generalizzato all'intero Paese.",
+        "La ricostruzione si basa su ANSA e RaiNews e Ministero dell'Agricoltura. Distinguere ciò che è stato approvato o annunciato dalle conseguenze già osservate evita di anticipare gli sviluppi dei giorni successivi."
+      ],
+      "facts": [
+        "Armatori e pescatori hanno lasciato ferme diverse imbarcazioni, soprattutto lungo la costa adriatica, denunciando che il prezzo del gasolio rende poco sostenibili le uscite. ANSA e RaiNews descrivono la protesta del 22 ottobre, con effetti su attività e commercializzazione del pescato.",
+        "Il governo ha inserito nel pacchetto approvato in giornata un contributo di 10 milioni di euro per la pesca, calcolato in percentuale delle spese ammissibili per il carburante nei mesi precedenti. Lo stanziamento non garantisce un rimborso integrale dei maggiori costi."
+      ],
+      "perspectives": [
+        "I rappresentanti del settore chiedono un sostegno più duraturo; il ministero presenta il contributo come sollievo temporaneo alle imprese. Le difficoltà dei pescatori non sono identiche in tutti i porti o per tutti i tipi di battello."
+      ],
+      "unknowns": [
+        "Non erano disponibili dati nazionali completi sulle imbarcazioni effettivamente ferme né sull'effetto dell'aiuto sui prezzi del pescato. Un blocco locale non va generalizzato all'intero Paese."
+      ],
+      "questions": [
+        {
+          "question": "Tutte le barche italiane hanno smesso di pescare?",
+          "answer": "No. Le fonti descrivono proteste e sospensioni di attività in diverse aree, non un fermo nazionale totale."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "La protesta si estende alla pesca, 10 milioni per gli interventi",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/22/la-protesta-si-estende-alla-pesca-10-milioni-per-gli-interventi_9d7cc0c0-0423-4faf-a528-8059c0c89d31.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Pesca in ginocchio per il caro gasolio, le barche restano ferme",
+          "url": "https://www.rainews.it/tgr/emiliaromagna/articoli/2026/10/pesca-in-ginocchio-per-il-caro-gasolio-le-barche-restano-ferme-fd402878-aa0d-4ca2-b238-45009e17633d.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ministero dell'Agricoltura",
+          "title": "Carburanti, 70 milioni complessivi a sostegno di agricoltura e pesca",
+          "url": "https://www.masaf.gov.it/Lollobrigida_70milioni_gasolio",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/pescatori-caro-gasolio-flotte-ferme.svg",
+        "alt": "Illustrazione simbolica originale, non fotografia, relativa a: Caro gasolio, parte della flotta da pesca resta ferma nei porti italiani",
+        "credit": "O / illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/pescatori-caro-gasolio-flotte-ferme.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "mattarella-giovani-lavoro-merito",
+      "rank": 4,
+      "category": "society",
+      "title": "Mattarella richiama l'attenzione su giovani, lavoro e fiducia",
+      "dek": "Il presidente interviene alla cerimonia delle Stelle al Merito del Lavoro: parole di indirizzo, non nuove norme.",
+      "summary": "Alla cerimonia delle Stelle al Merito del Lavoro del 22 ottobre, il presidente Sergio Mattarella ha invitato le istituzioni e le imprese a dare fiducia ai giovani con opportunità concrete. Il discorso valorizza responsabilità, professionalità e dignità dei lavoratori.",
+      "impact": 1.5,
+      "impactReason": "Impatto simbolico e di indirizzo nazionale, con conseguenze materiali non immediate.",
+      "tags": [
+        "mattarella",
+        "giovani",
+        "lavoro"
+      ],
+      "body": [
+        "Il riconoscimento premia carriere e comportamenti professionali e offre un'occasione per discutere l'inserimento delle nuove generazioni nell'economia italiana. Le difficoltà comprendono salari, produttività e accesso a percorsi stabili.",
+        "Il capo dello Stato indica principi e priorità, ma non annuncia un finanziamento o una modifica normativa specifica. Le scelte attuative spettano a governo, Parlamento, imprese e parti sociali.",
+        "Il grado di efficacia del richiamo presidenziale non può essere misurato il giorno stesso. Le parole del discorso non sono una politica pubblica già operativa.",
+        "La ricostruzione si basa su Quirinale e ANSA. Distinguere ciò che è stato approvato o annunciato dalle conseguenze già osservate evita di anticipare gli sviluppi dei giorni successivi."
+      ],
+      "facts": [
+        "Alla cerimonia delle Stelle al Merito del Lavoro del 22 ottobre, il presidente Sergio Mattarella ha invitato le istituzioni e le imprese a dare fiducia ai giovani con opportunità concrete. Il discorso valorizza responsabilità, professionalità e dignità dei lavoratori.",
+        "Il riconoscimento premia carriere e comportamenti professionali e offre un'occasione per discutere l'inserimento delle nuove generazioni nell'economia italiana. Le difficoltà comprendono salari, produttività e accesso a percorsi stabili."
+      ],
+      "perspectives": [
+        "Il capo dello Stato indica principi e priorità, ma non annuncia un finanziamento o una modifica normativa specifica. Le scelte attuative spettano a governo, Parlamento, imprese e parti sociali."
+      ],
+      "unknowns": [
+        "Il grado di efficacia del richiamo presidenziale non può essere misurato il giorno stesso. Le parole del discorso non sono una politica pubblica già operativa."
+      ],
+      "questions": [
+        {
+          "question": "Mattarella ha approvato personalmente nuove leggi per l'occupazione giovanile?",
+          "answer": "No. Si tratta di dichiarazioni istituzionali durante una cerimonia."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Quirinale",
+          "title": "Mattarella consegna le Stelle al Merito del Lavoro per il 2026",
+          "url": "https://www.quirinale.it/it/notizie/mattarella-consegna-stelle-merito-lavoro-per-2026",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Mattarella: ai nostri giovani va data fiducia, ampiamente e concretamente",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/22/mattarella-ai-nostri-giovani-va-data-fiducia-ampiamente-e-concretamente_5e74cb5b-f520-48b3-a89c-3aef7180cc5a.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/mattarella-giovani-lavoro-merito.svg",
+        "alt": "Illustrazione simbolica originale, non fotografia, relativa a: Mattarella richiama l'attenzione su giovani, lavoro e fiducia",
+        "credit": "O / illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/mattarella-giovani-lavoro-merito.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "milano-500-paracadutisti-preannuncio",
+      "rank": 5,
+      "category": "politics",
+      "title": "Milano, annunciato il rafforzamento della vigilanza per i cortei del weekend",
+      "dek": "L'impiego previsto di militari e nuovi controlli non coincide con operazioni già realizzate.",
+      "summary": "Il 22 ottobre autorità e media hanno illustrato un piano di rafforzamento della sicurezza a Milano in vista delle manifestazioni del fine settimana, comprendente personale militare dell'operazione Strade Sicure e maggiori attività di sorveglianza.",
+      "impact": 2.5,
+      "impactReason": "Impatto di ordine pubblico a livello cittadino con implicazioni nazionali limitate.",
+      "tags": [
+        "milano",
+        "sicurezza",
+        "manifestazioni"
+      ],
+      "body": [
+        "La programmazione nasce dal timore di nuovi disordini dopo episodi precedenti. Militare in strada non equivale a conferimento automatico delle competenze della polizia giudiziaria e le modalità operative dipendono dagli ordini e dalle norme applicabili.",
+        "I responsabili istituzionali parlano di prevenzione dei rischi e protezione dei cittadini. Associazioni e osservatori richiamano il valore della libertà di manifestazione pacifica e la necessità di controlli proporzionati.",
+        "Il 22 ottobre non si potevano conoscere esito, partecipazione e incidenti delle manifestazioni previste per il 24. Le previsioni non devono diventare un bilancio già accertato.",
+        "La ricostruzione si basa su la Repubblica e RaiNews. Distinguere ciò che è stato approvato o annunciato dalle conseguenze già osservate evita di anticipare gli sviluppi dei giorni successivi."
+      ],
+      "facts": [
+        "Il 22 ottobre autorità e media hanno illustrato un piano di rafforzamento della sicurezza a Milano in vista delle manifestazioni del fine settimana, comprendente personale militare dell'operazione Strade Sicure e maggiori attività di sorveglianza.",
+        "La programmazione nasce dal timore di nuovi disordini dopo episodi precedenti. Militare in strada non equivale a conferimento automatico delle competenze della polizia giudiziaria e le modalità operative dipendono dagli ordini e dalle norme applicabili."
+      ],
+      "perspectives": [
+        "I responsabili istituzionali parlano di prevenzione dei rischi e protezione dei cittadini. Associazioni e osservatori richiamano il valore della libertà di manifestazione pacifica e la necessità di controlli proporzionati."
+      ],
+      "unknowns": [
+        "Il 22 ottobre non si potevano conoscere esito, partecipazione e incidenti delle manifestazioni previste per il 24. Le previsioni non devono diventare un bilancio già accertato."
+      ],
+      "questions": [
+        {
+          "question": "I cortei del 24 ottobre sono già avvenuti?",
+          "answer": "No. Alla data dell'articolo erano programmati e i risultati non erano noti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "la Repubblica",
+          "title": "Strade sicure, cinquecento parà e droni per la sorveglianza di Milano",
+          "url": "https://www.repubblica.it/politica/2026/10/22/news/strade_sicure_cinquecento_para_pattuglie_droni_milano_sorveglianza-425664410/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Comitato provinciale ordine e sicurezza pubblica a Milano",
+          "url": "https://www.rainews.it/tgr/lombardia/articoli/2026/10/iniziato-in-prefettura-il-comitato-per-lordine-e-la-sicurezza-pubblica-911c4a75-2da9-4279-b99f-aaee7cdffbee.html",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-22/assets/milano-500-paracadutisti-preannuncio.svg",
+        "alt": "Illustrazione simbolica originale, non fotografia, relativa a: Milano, annunciato il rafforzamento della vigilanza per i cortei del weekend",
+        "credit": "O / illustrazione editoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-22/assets/milano-500-paracadutisti-preannuncio.svg",
+        "license": "Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "italy",
+          "id": "cortei-perquisizioni-italia"
+        }
+      ]
+    }
+  ]
+}
