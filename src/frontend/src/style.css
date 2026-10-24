@@ -130,3 +130,15 @@
  .article-hero .story-tags{margin-top:15px}
  .impact-stars{font-size:17px}
 }
+
+/* Native share-sheet entry point; copy is available on desktop and mobile. */
+.article-share-actions{display:flex;align-items:center;gap:8px}
+.article-share-actions .share-button:first-child{border-color:var(--accent);color:var(--accent)}
+.article-share-actions .share-button:hover{background:var(--paper)}
+.share-error{font-size:11px;color:var(--accent);margin:0 0 15px}
+@media(max-width:650px){
+  .article-share-actions{gap:5px}
+  .article-share-actions .share-button{padding:9px 8px;gap:6px}
+  .article-share-actions .copy-share{font-size:0}
+  .article-share-actions .copy-share svg{width:17px;height:17px}
+}

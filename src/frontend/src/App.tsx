@@ -5,7 +5,7 @@ import { useArchive, useStoryIndex, getJSON, editionUrl, mediaUrl } from './data
 import { formatDate, messages, sectionName } from './i18n';
 import { sections, sectionSize, storyHref, storyKey } from './types';
 import type { Article, Edition, Locale, Section, StoryIndex, StoryPreview, StoryRef } from './types';
-import { APP_BASE, currentPath, isAppRoute, normalizeLegacyRoute, routeFromPath, sectionHref, searchHref } from './routes';
+import { currentPath, isAppRoute, normalizeLegacyRoute, routeFromPath, sectionHref, searchHref } from './routes';
 import type { Route } from './routes';
 function initialLocale():Locale {
   try {const stored=localStorage.getItem('og-language');if(stored==='it'||stored==='en')return stored;}catch{}
