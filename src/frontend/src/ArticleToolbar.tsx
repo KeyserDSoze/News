@@ -14,7 +14,7 @@ export default function ArticleToolbar({locale,returnTo,markdown,speech,reader,
   <div className="command-panel-heading">{it?'LETTURA E CONDIVISIONE':'READ & SHARE'}</div>
   <div className="command-buttons">
    <button type="button" className="share-button" onClick={onShare}><Share2 size={16}/>{it?'Condividi':'Share'}</button>
-   <button type="button" className="share-button" onClick={onCopyLink} aria-label={it?'Copia link':'Copy link'}>
+   <button type="button" className="share-button" onClick={onCopyLink} aria-label={linkCopied?(it?'Link copiato':'Link copied'):(it?'Copia link':'Copy link')}>
     {linkCopied?<Check size={16}/>:<Copy size={16}/>}<span>{linkCopied?(it?'Link copiato':'Link copied'):(it?'Copia link':'Copy link')}</span>
    </button>
    <ArticleActions id="full" label={it?'Articolo completo':'Full article'} markdown={markdown}
