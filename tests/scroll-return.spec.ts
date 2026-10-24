@@ -58,8 +58,10 @@ test('browser Back restores originating top-day card after scrolling article to 
 
 test('old archive edition returns to the same card, not to the current date',async({page})=>{
  await page.goto('/world/');
+ await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
+ await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
  const older=page.locator('.edition[data-date="2026-10-23"] article.story').first();
- await expect(older).toBeAttached();
+ await expect(older).toBeAttached({timeout:15000});
  await older.locator('h3 a').scrollIntoViewIfNeeded();
  await tapPosition(page);
  await older.locator('h3 a').click();
