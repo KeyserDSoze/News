@@ -52,6 +52,11 @@ npm run test:e2e
 
 GitHub Actions artifacts are short-lived build products, not the archive. All editions remain permanently versioned as ordinary Git files on `main` unless deliberately deleted. The browser downloads the JSON from the same GitHub Pages origin, initially preloading up to seven days and progressively fetching earlier dates.
 
+
+## Daily autonomous newsroom (opt-in)
+
+A proposed GitHub Actions workflow at `.github/workflows/daily-edition.yml` starts daily at **07:00 Europe/Rome** and can research, write and conditionally publish **25 bilingual articles** with original illustrations, structured-source checks, a separate automated fact review, build and desktop/mobile tests. **It is disabled until** the repository owner supplies a paid OpenAI Platform API key under the GitHub Actions secret `OPENAI_API_KEY`, completes a successful real dry run, and sets repository variable `O_AUTO_PUBLISH_ENABLED=true`. Daily coverage is not guaranteed if independently verifiable reporting is insufficient: the workflow must fail without altering the previous edition. Scheduled starts may be delayed and publication occurs after research and tests, not necessarily exactly at 07:00. See [autonomous newsroom setup](docs/AUTONOMOUS_NEWSROOM.md) and [ADR 0014](ADR/0014-autonomous-daily-newsroom.md). The ordinary ChatGPT scheduled task is not this production workflow. The OpenAI Platform API is billed separately from ChatGPT.
+
 ## How to publish tomorrow
 
 Use [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md). Each World edition requires **exactly ten articles**; every specialist edition requires **exactly five** with at least two distinct newsrooms per article, bilingual aligned IDs and ranks, source links, cautious fact/claim separation and credited imagery. Opening a PR triggers checks; merging to `main` triggers publication. Editorial review remains a human responsibility.
