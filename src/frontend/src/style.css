@@ -431,3 +431,12 @@ body:has(.global-audio-dock){padding-bottom:calc(85px + env(safe-area-inset-bott
  .global-audio-buttons button span{display:none}
  body:has(.global-audio-dock){padding-bottom:calc(68px + env(safe-area-inset-bottom,0px))}
 }
+
+/* Mobile edge-to-edge layout: retain only an 8px text gutter. */
+@media(max-width:650px){
+  .container{width:100%;max-width:none;padding-left:8px;padding-right:8px}
+  .story,.article-main,.edition{min-width:0}
+  .story .news-picture{margin-left:-8px;margin-right:-8px}
+  .article-main>.news-picture{margin-left:-8px;margin-right:-8px}
+  .news-picture img{max-width:100%}
+}

@@ -1,6 +1,28 @@
 {
   "releases": [
     {
+      "version": "0.0.9",
+      "date": "2026-10-25",
+      "it": {
+        "title": "Più spazio alle notizie su mobile",
+        "highlights": [
+          "Margini laterali della pagina ridotti a soli 8 pixel sugli smartphone.",
+          "Immagini principali della rassegna e degli articoli estese fino ai bordi dello schermo.",
+          "Layout desktop e navigazione invariati."
+        ],
+        "details": "La larghezza del contenuto si adatta al viewport mobile conservando un piccolo spazio laterale per testi e comandi."
+      },
+      "en": {
+        "title": "More room for stories on mobile",
+        "highlights": [
+          "Phone-side page gutters reduced to just 8 pixels.",
+          "Lead images in briefings and articles now extend to the edges of the screen.",
+          "Desktop layout and navigation remain unchanged."
+        ],
+        "details": "Mobile content uses the available viewport width while retaining a minimal inset for readable text and controls."
+      }
+    },
+    {
       "version": "0.0.8",
       "date": "2026-10-25",
       "it": {
