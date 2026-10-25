@@ -1,5 +1,6 @@
 import {readFile,readdir} from 'node:fs/promises';
 import path from 'node:path';
+import {questionQualityIssues} from './editorial-questions.mjs';
 export const DESKS={world:10,italy:5,technology:5,science:5};
 export const CATEGORIES=['world','politics','economy','technology','climate','society'];
 const GROUPS=[
@@ -58,6 +59,7 @@ export function fullArticleCheck(a,lang){
  if(!Array.isArray(a?.body)||a.body.length<4||a.body.some(p=>typeof p!=='string'||p.trim().split(/\s+/).length<45))bad.push('four substantive paragraphs');
  for(const key of ['facts','perspectives','unknowns'])if(!Array.isArray(a?.[key])||!a[key].length||a[key].some(v=>!text(v)))bad.push(key);
  if(!Array.isArray(a?.questions)||!a.questions.length||a.questions.some(q=>!text(q?.question)||!text(q?.answer)))bad.push('Q&A');
+ if(Array.isArray(a?.questions))bad.push(...questionQualityIssues(a).map(x=>'editorial Q&A '+x));
  if(typeof a?.impact!=='number'||a.impact<0.5||a.impact>5||!Number.isInteger(a.impact*2))bad.push('impact');
  if(lang==='it'&&/\b(star|stelle)\b/i.test(a?.impactReason||''))bad.push('stars forbidden');
  return bad;
