@@ -26,16 +26,16 @@
         "financial-services"
       ],
       "facts": [
-        "Richiesta di GMO comunicata il 24 ottobre",
-        "Ristoro annunciato di 5.000 yen",
-        "Nessuna operazione pubblica confermata."
+        "GMO made its request to Japanese authorities on 24 October.",
+        "The company announced a payment of 5,000 yen to users.",
+        "The authorities had not confirmed any active cyber-defense operation."
       ],
       "perspectives": [
         "Company statements and researcher findings describe intentions and technical explanations, not necessarily outcomes independently verified in practice.",
         "Independent newsroom analysis considers both the potential usefulness and the limits of publicly available evidence."
       ],
       "unknowns": [
-        "Numero definitivo di utenti e conti danneggiati, autori e decisione del governo."
+        "The final number of affected customers and trading accounts, the attackers' identities and the government's decision remain unknown."
       ],
       "questions": [
         {
@@ -114,16 +114,16 @@
         "advertising"
       ],
       "facts": [
-        "La policy è entrata in vigore il 16 ottobre",
-        "I collegamenti fra servizi sono facoltativi",
-        "Google nega la condivisione diretta delle email con gli inserzionisti."
+        "The relevant Google privacy-policy text became effective on 16 October.",
+        "Google describes linking data between services as optional.",
+        "Google denied that the change entails directly sharing users' Gmail messages with advertisers."
       ],
       "perspectives": [
         "Company statements and researcher findings describe intentions and technical explanations, not necessarily outcomes independently verified in practice.",
         "Independent newsroom analysis considers both the potential usefulness and the limits of publicly available evidence."
       ],
       "unknowns": [
-        "Effetti concreti, portata geografica e audit indipendenti del consenso."
+        "The policy's practical effect on individual products, geographic implementation and independent consent audits remain to be established."
       ],
       "questions": [
         {
@@ -195,16 +195,16 @@
         "research"
       ],
       "facts": [
-        "Annuncio iniziale avvenuto il 23 ottobre",
-        "Nuove analisi pubblicate il 24 ottobre",
-        "Nessun pacchetto pubblico verificato."
+        "Block introduced Dessa publicly on 23 October.",
+        "Technology newsrooms published new analysis of the demonstrations on 24 October.",
+        "The review did not identify a publicly downloadable general release."
       ],
       "perspectives": [
         "Company statements and researcher findings describe intentions and technical explanations, not necessarily outcomes independently verified in practice.",
         "Independent newsroom analysis considers both the potential usefulness and the limits of publicly available evidence."
       ],
       "unknowns": [
-        "Misure riproducibili di prestazione, pesi del modello, accesso generale."
+        "Reproducible performance measurements, released model weights and general availability remain unresolved."
       ],
       "questions": [
         {
@@ -269,16 +269,16 @@
         "security"
       ],
       "facts": [
-        "La copertura editoriale è del 24 ottobre",
-        "Gli avvisi e le patch risalgono ai giorni precedenti",
-        "Non tutti i router ASUS sono interessati."
+        "The technical follow-up reporting was published on 24 October.",
+        "The original advisories and firmware patches were issued on earlier dates.",
+        "Only specific ASUS router models and firmware lines were affected."
       ],
       "perspectives": [
         "Company statements and researcher findings describe intentions and technical explanations, not necessarily outcomes independently verified in practice.",
         "Independent newsroom analysis considers both the potential usefulness and the limits of publicly available evidence."
       ],
       "unknowns": [
-        "Numero di dispositivi ancora vulnerabili e aggiornamenti disponibili per i modelli specifici."
+        "The total number of routers still exposed and patch availability for each individual model have not been confirmed."
       ],
       "questions": [
         {
@@ -350,16 +350,16 @@
         "espionage"
       ],
       "facts": [
-        "Analisi BleepingComputer del 24 ottobre",
-        "Rapporto originario Kaspersky del 22 ottobre",
-        "Attribuzione APT41 solo con fiducia moderata."
+        "BleepingComputer published its technical analysis on 24 October.",
+        "Kaspersky published its underlying findings on 22 October, with an English-language release dated 21 October.",
+        "Kaspersky's assessment linking the attack to APT41 was only of moderate confidence."
       ],
       "perspectives": [
         "Company statements and researcher findings describe intentions and technical explanations, not necessarily outcomes independently verified in practice.",
         "Independent newsroom analysis considers both the potential usefulness and the limits of publicly available evidence."
       ],
       "unknowns": [
-        "Vittime accertate, perimetro delle compromissioni, identità degli operatori."
+        "The total number of affected organizations, full compromise scope and precise operator identity remain undetermined."
       ],
       "questions": [
         {
