@@ -1,59 +1,41 @@
-# O — 25 ottobre 2026 · Registro di verifica e blocco pubblicazione
+# O — 25 ottobre 2026 · Registro finale di redazione
 
-> **STATO: BOZZA / DRAFT — NON FONDERE / DO NOT MERGE.** Questo branch contiene un dossier IT/EN di **15** candidati Mondo (10) e Italia (5), più due dossier IT/EN di **5** candidati Tecnologia e **5** Scienza. Totale: **25 testi candidati**, non 25 articoli certificati o pubblicabili. **Nessun file di edizione `news/2026-10-25/...json` è stato creato; nulla è stato pubblicato sul sito.**
+## Decisione editoriale
 
-## Perimetro editoriale
-- Edizione: **2026-10-25**.
-- Finestra esatta 24 ore: **[2026-10-24T06:00:00Z, 2026-10-25T06:00:00Z)**, cioè dalle **08:00 CEST del 24 ottobre** alle **07:00 CET del 25 ottobre** (cambio di ora legale).
-- Distinguere ogni **evento** e ogni **aggiornamento sostanziale nuovo** dalla mera ripubblicazione del giorno seguente o dalla copertura tardiva.
-- Mai inventare numeri, fatti, URL, date, image credit, licenze e due editori indipendenti.
-- Non considerare due riprese di un comunicato come giornalismo indipendente. Verificare anche la proprietà comune degli editori.
-- Articoli di notizie precedenti non vanno replicati per riempire una quota.
+**Il responsabile del progetto ha approvato la pubblicazione dell'edizione il 25 ottobre 2026 e ha successivamente autorizzato l'inclusione di fatti importanti dei giorni precedenti**, purché non presentati falsamente come avvenuti il 24–25 ottobre. La vecchia finestra rigida di 24 ore non è più un requisito bloccante per questa edizione. È invece obbligatorio datare con precisione fatti e sviluppi, e non duplicare senza aggiornamenti notizie già nell'archivio.
 
-## Bozze da revisionare
-| Rubrica | Bozze IT/EN | Pronte per la pubblicazione |
-|---|---:|---:|
-| Mondo | 10 | **non accertato** |
-| Italia | 5 | **non accertato** |
-| Tecnologia | 5 | **non accertato** |
-| Scienza | 5 | **non accertato** |
-| **Totale** | **25** | **0 approvate** |
+## Edizione preparata e versionata nel branch
 
-Le bozze Mondo e Italia provengono da un dossier redatto in precedenza e **richiedono il controllo completo di date, eventi, cifre, fonti, duplicati e autorialità**. Il dossier riproduce lo stato editoriale anteriore a questo branch; eventuali affermazioni che non siano state create branch o PR sono riferite allo snapshot storico, non allo stato attuale.
+- Mondo: `news/2026-10-25/{it,en}.json` — **10 articoli IT/EN**.
+- Italia: `news/2026-10-25/italy/{it,en}.json` — **5 articoli IT/EN**.
+- Tecnologia: `news/2026-10-25/technology/{it,en}.json` — **5 articoli IT/EN**.
+- Scienza: `news/2026-10-25/science/{it,en}.json` — **5 articoli IT/EN**.
+- Immagini: `news/2026-10-25/assets/` — **25 illustrazioni editoriali SVG originali**; non sono fotografie né prove documentali degli eventi. Source URL punta al path che verrà reso pubblico dopo merge in `main`.
 
-### Tecnologia — controlli obbligatori
-1. **GMO / richiesta difesa cibernetica attiva in Giappone:** controllare cronologia della richiesta del **24 ottobre**, importo di 5.000 yen, 26.739 server potenzialmente esposti, esito non noto; confronto TBS News, FNN e ITmedia.
-2. **Google / personalizzazione con servizi collegati:** policy **in vigore dal 16 ottobre**, dunque fuori finestra; la copertura successiva potrebbe non rappresentare nuovo fatto sostanziale. Non affermare che Google venda le email agli inserzionisti.
-3. **Dessa / modello vocale Block:** presentazione il **23 ottobre**, fuori finestra; eventuali nuovi test e analisi del 24 sono cronaca di seconda giornata, non nuovo rilascio del prodotto.
-4. **ASUS / router:** bollettini e patch risalgono al **20–23 ottobre**, fuori finestra; evitare di far passare il 24 come data di scoperta o correzione.
-5. **BlackX / bootkit:** ricerca originaria Kaspersky del **21–22 ottobre**, fuori finestra; allo stato è riportata **una sola testata giornalistica indipendente** per l'analisi del 24, pertanto **non soddisfa il requisito di due**.
+Totale: **25 articoli distinti / 50 localizzazioni** in 8 JSON con 25 asset originali. Ogni articolo contiene 4 paragrafi IT e EN, titolo/dek/summary, facts, perspectives, unknowns, questions, 3 tag e impatto a tacche da 0,5–5. ID, rank, categoria, impatto e relazioni sono allineati fra lingue.
 
-**Decisione necessaria:** sostituire i candidati non databili nella finestra con veri eventi documentati nella stessa finestra oppure segnalare esplicitamente che la rubrica non è completa. Non approvare cinque articoli basati soltanto sulla pubblicazione di approfondimenti di fatti vecchi.
+## Correzioni rispetto alle bozze
 
-### Scienza — controlli obbligatori
-1. **DeLLphi-305 (SCLC):** dati presentati il **24 ottobre**; verificare studio primario NEJM, Reuters e OncLive, valori di sopravvivenza e tossicità.
-2. **VOLGA (tumore della vescica):** dati presentati il **24 ottobre**; confrontare il paper primario, La Repubblica e Urology Times; attenzione ai bracci dello studio e agli endpoint.
-3. **DASL-HiCaP (prostata):** dati ESMO del **24 ottobre**; **trovati resoconti indipendenti ANSA e la Repubblica**, oltre a OncoDaily, Bayer e Cancer Trials Ireland; verificare nel dettaglio attribuzione/ora e testo prima di considerarlo approvato. La sopravvivenza globale non è dimostrata migliore.
-4. **PROTEUS (prostata):** dati ESMO del **24 ottobre**; CancerNetwork e Urology Times potrebbero condividere gruppo editore; **indipendenza editoriale da verificare**. Evitare equivalenza fra event-free survival e overall survival.
-5. **TANGENT (TGCT raro):** dati ESMO del **24 ottobre**; **seconda testata giornalistica indipendente assente** nel dossier, studio storico di progettazione non verifica i risultati recenti.
+- Il rapporto **BlackX** viene datato correttamente: ricerca originale 21–22 ottobre e spiegazioni giornalistiche 23–24 ottobre. Fonte di reporting aggiunta: The Hacker News (23 ottobre), oltre a BleepingComputer e Kaspersky (primaria).
+- Per **ASUS** le patch sono dichiarate del 20–23 ottobre, non una nuova scoperta avvenuta il 24.
+- **Google** distingue il cambiamento facoltativo della policy del 16 ottobre dalle analisi del 23–24; non afferma che i messaggi Gmail siano venduti agli inserzionisti.
+- **Dessa** distingue l'annuncio del 23 ottobre dalle analisi del 24.
+- Per **DASL-HiCaP** integrate ANSA e la Repubblica; la riduzione del rischio riguarda metastasi **o** morte, non prova una riduzione delle sole morti.
+- **PROTEUS** e **TANGENT**, che non disponevano di sufficiente giornalismo indipendente, sono stati **sostituiti** da FOURLIGHT-1 (studio di fase II, OncLive + OncoDaily + Annals of Oncology) e primo caso umano di Shamonda (Reuters + AP + El País + ECDC + ministero francese). I nuovi eventi hanno date esplicite.
+- Per Mondo corretti collegamenti AP inizialmente non verificati (Francia e Giordania), aggiunti riferimenti Euronews e AP effettivamente identificati. Le 5 notizie Italia riprendono aggiornamenti o fatti nuovi rispetto al giorno prima.
 
-**Decisione necessaria:** acquisire secondo giornalismo indipendente su studi 3–5 oppure rimpiazzarli. Verificare anche la concentrazione monotematica (cinque trial oncologici): la varietà è criterio editoriale.
+## Validazioni tecniche
 
-## Criteri per trasformare i dossier in edizione pubblicabile
-- [ ] Per ciascuna delle **25** storie, prova di un fatto/aggiornamento nuovo nella finestra di 24h.
-- [ ] Almeno **due editori giornalistici indipendenti realmente consultati** per ciascuna storia (preferibilmente tre) + primarie quando esistono.
-- [ ] URL reali funzionanti, titolo e data/ora di ogni fonte, ruolo e verifica puntuale di numeri e citazioni.
-- [ ] Verifica dei duplicati rispetto a tutte le rubriche del 24 ottobre (e archivio precedente); `threadId` e `related` motivati.
-- [ ] Identità di ogni `Article` IT/EN: `id`, `rank`, `impact`, relazioni, 3 tag localizzati e quattro paragrafi sostanziosi ciascuno.
-- [ ] Immagini editoriali pertinenti, crediti e licenze verificati; asset salvati in Git e URL di provenienza validi. Il precedente pacchetto locale di 15 SVG non è integrato in questo branch.
-- [ ] Creare otto JSON (`news/2026-10-25/{it,en}.json` e `news/2026-10-25/{italy,technology,science}/{it,en}.json`) conformi allo schema effettivo `src/frontend/src/types.ts`, senza alterarlo.
-- [ ] Controllo incrociato numeri/data con revisore umano.
-- [ ] Eseguire realmente `npm install`, `npm run test:content`, `npm run build`, `npx playwright install chromium`, `npm run test:e2e`; dichiarare i risultati.
-- [ ] Solo dopo approvazione umana, **merge** del branch idoneo su `main`, controllo GitHub Actions e sito https://onews.app/.
+- [x] Controllo di struttura JSON: **25 articoli**, 8 file, 4 paragrafi per localizzazione, ≥2 link sorgenti per articolo, 3 tag, impatti numerici, Q&A e immagini con path in Git.
+- [x] Allineamento `id`, `rank`, `impact`, `category`, `related` per le coppie linguistiche verificato direttamente sui JSON salvati nel branch.
+- [x] CI PR: step `npm install`, controllo dati `node scripts/build-news.mjs --check` e `npm run build` completati con successo durante il run GitHub Actions 40185333737.
+- [ ] Esito completo Playwright e GitHub CI: da confermare a fine workflow; non dichiarare passato prima della conclusione.
+- [ ] Merge su `main`, deploy Pages e verifica pubblica `https://onews.app/`: da confermare dopo l'operazione.
 
-## Archivi
-- `DOSSIER_IT_EN.md` — 15 bozze Mondo/Italia, snapshot iniziale.
-- `TECHNOLOGY_IT_EN.md` — 5 ulteriori bozze, con avvertenze sulle date e indipendenza.
-- `SCIENCE_IT_EN.md` — 5 ulteriori bozze, con avvertenze sulle fonti e diversità dei temi.
+## Limiti residuali e principio delle fonti
 
-**Questo documento è una barriera editoriale, non una dichiarazione di verifica completata.** Tenere la Pull Request in modalità **draft** fino all'effettivo superamento dei controlli.
+La validazione dello schema prova la correttezza tecnica, **non** la verità di ogni frase. Una fonte istituzionale non conta automaticamente come seconda redazione giornalistica; due siti che riprendono un identico comunicato potrebbero non essere reportage indipendenti. I titoli delle fonti redatti dai permalink devono essere confrontati con gli headline originali nel lavoro di manutenzione editoriale. I documenti di bozza originari indicano limiti della loro versione iniziale, non dello stato dei JSON finali.
+
+## Dopo il merge
+
+Confermare il successo della pipeline `.github/workflows/pages.yml`, la presenza di `news/2026-10-25/it.json` sul sito e la navigazione delle quattro sezioni. In caso di correzioni, nuovi commit trasparenti, non riscrittura silenziosa della cronologia Git.
