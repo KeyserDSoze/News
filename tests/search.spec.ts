@@ -1,4 +1,5 @@
 import { expect, test } from '@playwright/test';
+import {COVER_DATE,PREVIOUS_DATE,TOTAL_STORIES,TOTAL_EDITION_FILES} from './latest-edition-fixture';
 test.beforeEach(async({page})=>{
   await page.addInitScript(()=>{
     localStorage.setItem('og-language','it');
@@ -9,10 +10,10 @@ test.beforeEach(async({page})=>{
 test('search opens from header, indexes last year in IndexedDB and survives reload',async({page})=>{
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
   await expect(page.locator('.search-result')).toHaveCount(30,{timeout:20000});
-  await expect(page.locator('.search-status')).toContainText('85');
+  await expect(page.locator('.search-status')).toContainText(String(TOTAL_STORIES));
   await page.reload();
   await expect(page.locator('.search-result')).toHaveCount(30,{timeout:20000});
-  await expect(page.locator('.search-status')).toContainText('13 / 13');
+  await expect(page.locator('.search-status')).toContainText(TOTAL_EDITION_FILES+' / '+TOTAL_EDITION_FILES);
 });
 test('date range and full text narrow results without a backend',async({page})=>{
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
@@ -54,16 +55,16 @@ test('back from search article restores filters and scroll position',async({page
   await expect.poll(async()=>Math.abs((await page.evaluate(()=>scrollY))-y)).toBeLessThan(50);
 });
 test('back from a previous World edition restores the exact list position',async({page})=>{
-  await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
+  await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(10);
   await page.evaluate(()=>scrollTo(0,document.body.scrollHeight));
-  const article=page.locator('.edition[data-date="2026-10-24"] article.story').first().locator('h3 a');
+  const article=page.locator('.edition[data-date="'+PREVIOUS_DATE+'"] article.story').first().locator('h3 a');
   await expect(article).toBeAttached();
   await article.scrollIntoViewIfNeeded();
   const y=await page.evaluate(()=>scrollY);
   await article.click();
-  await expect(page).toHaveURL(/\/article\/world\/2026-10-24/);
+  await expect(page).toHaveURL(new RegExp('/article/world/'+PREVIOUS_DATE+'/'));
   await page.goBack();
-  await expect(page.locator('.edition[data-date="2026-10-24"] article')).toHaveCount(10);
+  await expect(page.locator('.edition[data-date="'+PREVIOUS_DATE+'"] article')).toHaveCount(10);
   await expect.poll(async()=>Math.abs((await page.evaluate(()=>scrollY))-y)).toBeLessThan(50);
 });
 test('broken image is replaced by an original licensed-in-project editorial graphic',async({page})=>{
@@ -74,21 +75,22 @@ test('broken image is replaced by an original licensed-in-project editorial grap
 });
 
 test('22 October archive contains four complete bilingual desks and new article timelines',async({page})=>{
+  const reveal=async(desk:string,date:string,count:number)=>{
+    const cards=page.locator('.edition[data-date="'+date+'"] article.story');
+    for(let i=0;i<18 && await cards.count()!==count;i++){
+      await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
+      await page.waitForTimeout(300);
+    }
+    await expect(cards).toHaveCount(count,{timeout:15000});
+  };
   await page.goto('/world/');
-  await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
-  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-  await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
-  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-  await expect(page.locator('.edition[data-date="2026-10-23"] article.story')).toHaveCount(10);
-  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-  await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(10);
+  await reveal('world',COVER_DATE,10);
+  await reveal('world','2026-10-23',10);
+  await reveal('world','2026-10-22',10);
   for(const desk of ['italy','technology','science']){
     await page.goto('/'+desk+'/');
-    await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(5);
-    await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-    await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(5);
-    await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-    await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(5);
+    await reveal(desk,COVER_DATE,5);
+    await reveal(desk,'2026-10-22',5);
   }
   await page.goto('/article/technology/2026-10-22/php2shell-attacchi-aggiornamenti/');
   await expect(page.locator('.related-story').getByText(/PHP/i).first()).toBeVisible();

@@ -1,4 +1,5 @@
 import { expect, test } from '@playwright/test';
+import {COVER_DATE} from './latest-edition-fixture';
 
 test.beforeEach(async({page})=>{
  await page.addInitScript(()=>{
@@ -11,7 +12,7 @@ test('no redundant promotional header or descriptive bands; language is remember
  await page.goto('/');
  await expect(page.locator('.hero,.section-band,.topline')).toHaveCount(0);
  await expect(page.locator('.four-nav a')).toHaveCount(4);
- await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
+ await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(10);
  const language=page.getByRole('button',{name:'Seleziona lingua'});
  await language.click();
  await expect(language).toHaveAttribute('aria-expanded','true');
@@ -30,21 +31,21 @@ test('no redundant promotional header or descriptive bands; language is remember
 
 test('cover edition is persisted with full body in IndexedDB before an article opens',async({page})=>{
  await page.goto('/');
- await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
- await expect.poll(async()=>page.evaluate(async()=>{
+ await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(10);
+ await expect.poll(async()=>page.evaluate(async(date)=>{
   const db=await new Promise<IDBDatabase>((resolve,reject)=>{
    const request=indexedDB.open('o-local-edition-index',1);
    request.onsuccess=()=>resolve(request.result);
    request.onerror=()=>reject(request.error);
   });
   try{return await new Promise<boolean>(resolve=>{
-   const request=db.transaction('editions','readonly').objectStore('editions').get('it/world/2026-10-25');
+   const request=db.transaction('editions','readonly').objectStore('editions').get('it/world/'+date);
    request.onsuccess=()=>resolve(Boolean(request.result?.data?.articles?.[0]?.body?.length));
    request.onerror=()=>resolve(false);
   });}finally{db.close();}
- })).toBe(true);
- await page.route('**/news/2026-10-25/it.json',route=>route.abort());
- await page.locator('.edition[data-date="2026-10-25"] article.story').first()
+ },COVER_DATE)).toBe(true);
+ await page.route('**/news/'+COVER_DATE+'/it.json',route=>route.abort());
+ await page.locator('.edition[data-date="'+COVER_DATE+'"] article.story').first()
   .getByRole('link',{name:'Leggi la notizia'}).click();
  await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
  await expect(page.getByRole('heading',{name:'La notizia, nel dettaglio'})).toBeVisible();
@@ -53,21 +54,21 @@ test('cover edition is persisted with full body in IndexedDB before an article o
 
 test('cached full article remains readable when the already-open app loses connectivity',async({page,context})=>{
  await page.goto('/');
- await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
- await expect.poll(async()=>page.evaluate(async()=>{
+ await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(10);
+ await expect.poll(async()=>page.evaluate(async(date)=>{
   const r=indexedDB.open('o-local-edition-index');
   return new Promise<boolean>(resolve=>{
    r.onsuccess=()=>{
-    const db=r.result,req=db.transaction('editions').objectStore('editions').get('it/world/2026-10-25');
+    const db=r.result,req=db.transaction('editions').objectStore('editions').get('it/world/'+date);
     req.onsuccess=()=>{resolve(Boolean(req.result?.data?.articles?.[0]?.body?.length));db.close();};
     req.onerror=()=>{resolve(false);db.close();};
    };
    r.onerror=()=>resolve(false);
   });
- })).toBe(true);
+ },COVER_DATE)).toBe(true);
  await context.setOffline(true);
  // Client-side routing works even though fresh HTTP requests cannot succeed.
- await page.locator('.edition[data-date="2026-10-25"] article.story').first()
+ await page.locator('.edition[data-date="'+COVER_DATE+'"] article.story').first()
   .getByRole('link',{name:'Leggi la notizia'}).click();
  await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
  await expect(page.getByRole('heading',{name:'La notizia, nel dettaglio'})).toBeVisible();
@@ -101,7 +102,7 @@ test('article tools are sticky on desktop and do not repeat controls in summary 
 
 test('theme-aware scrollbar and graduated impact meter preserve half-step data',async({page})=>{
  await page.goto('/');
- const track=page.locator('.edition[data-date="2026-10-25"] article.story').first().locator('.impact-pips');
+ const track=page.locator('.edition[data-date="'+COVER_DATE+'"] article.story').first().locator('.impact-pips');
  await expect(track.locator('span')).toHaveCount(5);
  await expect(page.locator('html')).toHaveAttribute('data-theme','dark');
  expect(await page.locator('html').evaluate(el=>getComputedStyle(el).scrollbarWidth)).toBe('thin');
