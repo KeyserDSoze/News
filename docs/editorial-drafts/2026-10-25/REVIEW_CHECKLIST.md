@@ -29,7 +29,7 @@ Totale: **25 articoli distinti / 50 localizzazioni** in 8 JSON con 25 asset orig
 - [x] Controllo di struttura JSON: **25 articoli**, 8 file, 4 paragrafi per localizzazione, ≥2 link sorgenti per articolo, 3 tag, impatti numerici, Q&A e immagini con path in Git.
 - [x] Allineamento `id`, `rank`, `impact`, `category`, `related` per le coppie linguistiche verificato direttamente sui JSON salvati nel branch.
 - [x] CI PR: step `npm install`, controllo dati `node scripts/build-news.mjs --check` e `npm run build` completati con successo durante il run GitHub Actions 40185333737.
-- [ ] Esito completo Playwright e GitHub CI: da confermare a fine workflow; non dichiarare passato prima della conclusione.
+- [x] Esito completo Playwright e GitHub CI: **successo** nei run GitHub Actions 40185664058 e 40185765257 dopo adeguamento dei test all'edizione 25 ottobre; contenuti, build e browser test superati.
 - [ ] Merge su `main`, deploy Pages e verifica pubblica `https://onews.app/`: da confermare dopo l'operazione.
 
 ## Limiti residuali e principio delle fonti
