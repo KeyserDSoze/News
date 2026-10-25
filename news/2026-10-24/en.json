@@ -61,12 +61,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Oleshky is a Ukrainian town under Russian control in the Kherson region. The planned ceasefire is limited in scope and intended to enable deliveries and civilian movements."
+          "question": "What is the announced humanitarian operation in Oleshky?",
+          "answer": "A limited truce is intended to allow aid deliveries and civilian movement or evacuation, not end fighting across the entire region."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Whether aid convoys will gain access on schedule and what safeguards will govern evacuations remain to be verified."
+          "question": "Why do the reported start dates differ?",
+          "answer": "Kyiv, Moscow and the White House gave timelines that were not fully aligned. Announcements must be distinguished from aid convoys actually entering the area."
         }
       ],
       "impact": 1.5,
@@ -129,12 +129,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Authorities reported one death after a man was swept away by waves. Air travel, power supplies and daily activities were disrupted."
+          "question": "Why did Taiwan suffer damage without a direct landfall by the typhoon's centre?",
+          "answer": "Strong winds, rain and rough seas caused transport and power disruption while the centre of Champi passed nearby."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "The final injury count and the storm's subsequent trajectory may change."
+          "question": "Why did agencies report different injury totals?",
+          "answer": "AP and Reuters referred to official updates at different times: around 350 in an earlier count and 527 in a later one."
         }
       ],
       "impact": 2.5,
@@ -195,12 +195,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "The shooting occurred during a funeral in the Karak area. The most recent sources consulted report seven fatalities and about forty wounded."
+          "question": "What happened at the church in Karak?",
+          "answer": "Gunmen fired during a funeral. Sources available for this edition reported seven deaths and roughly forty injuries."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "The motive, identities and exact number of attackers have not been independently established."
+          "question": "Why might a later edition give a different death toll?",
+          "answer": "Early casualty counts can change as additional deaths are confirmed. This article preserves the figures known at its own publication date."
         }
       ],
       "impact": 1.5,
@@ -261,12 +261,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Israeli officials report two soldiers and two gunmen killed. Security forces imposed searches and movement restrictions around Hebron."
+          "question": "What preceded the restrictions around Hebron?",
+          "answer": "Israeli forces reported that two soldiers and two alleged attackers died in a shooting, followed by security operations and movement limits."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "How long restrictions will last and their civilian impact are not yet fully established."
+          "question": "Why have those measures been challenged?",
+          "answer": "Rights observers raised concerns about how restrictions affect civilian residents and whether they are proportionate, a separate issue from reporting the initial attack."
         }
       ],
       "related": [
@@ -334,12 +334,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "ANSA documents protests announced in several Italian cities. Authorities prepared additional security precautions, notably in Milan."
+          "question": "What issues were behind the planned demonstrations in Italy?",
+          "answer": "Separate events in several cities concerned war, rearmament, living costs and policing; their organizers and demands were not identical."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Final attendance, routes and any incidents cannot be established from morning announcements."
+          "question": "Why were additional controls planned in Milan?",
+          "answer": "Authorities announced heightened security following tensions the previous weekend, before the outcomes of the new protests were known."
         }
       ],
       "impact": 1,
@@ -407,12 +407,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "The runoff election is scheduled for Sunday 25 October. The cited Datafolha poll surveyed 2,520 people between 20 and 22 October."
+          "question": "What does the 50–50 result in the Datafolha poll mean?",
+          "answer": "It is an estimate of valid votes with a two-percentage-point margin of error based on 2,520 interviews conducted on 20–22 October, not an election result."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "A poll is not an election result; the eventual winner and margin remain unknown."
+          "question": "When was the presidential runoff scheduled?",
+          "answer": "The second round between Lula and Flávio Bolsonaro was set for Sunday, 25 October; this article was written before voting."
         }
       ],
       "impact": 2.5,
@@ -473,12 +473,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "AP reports the departure of a Russian diesel shipment bound for the US. The trade reflects changing political decisions concerning energy imports."
+          "question": "What new shipment was reported?",
+          "answer": "AP reported that at least one vessel carrying Russian diesel had departed for the United States amid renewed contacts between the countries."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Any measurable impact on US retail fuel prices remains unknown."
+          "question": "Does one shipment establish that US pump prices will fall?",
+          "answer": "No. Transport volumes, contracts and distribution affect final prices; a cargo departure does not determine retail prices on its own."
         }
       ],
       "threadId": "global-energy-prices",
@@ -550,12 +550,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Five activists were detained and processed for expulsion. Italian consular authorities engaged with Israeli officials and arranged assistance."
+          "question": "Why were five Italian women detained in the West Bank?",
+          "answer": "Israeli forces detained the activists during activities accompanying Palestinian farmers; Italy's foreign ministry followed the case."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Independent confirmation of their actual arrival in Italy is still needed."
+          "question": "What was expected after consular involvement?",
+          "answer": "The Italian authorities said repatriation was planned for the morning of 24 October; confirmation that they returned belongs to later reporting."
         }
       ],
       "related": [
@@ -623,12 +623,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Road blockades disrupted shipments in several southern regions. Italy's cabinet approved further measures to support the haulage sector."
+          "question": "What effects had the hauliers' roadblocks caused?",
+          "answer": "They delayed commercial deliveries and distribution in parts of southern Italy; services began resuming unevenly after aid measures were announced."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "It remains unclear whether the measures will prevent more disruptions after 27 October."
+          "question": "Why did some associations keep negotiations open?",
+          "answer": "Government measures had been announced, but their impact and additional industry demands still needed to be addressed in further talks."
         }
       ],
       "threadId": "italy-fuel-costs",
@@ -691,12 +691,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "The US Department of Energy announced the designation on 23 October. Helium has applications including semiconductor production and industrial processing."
+          "question": "Why does helium matter for semiconductor manufacturing?",
+          "answer": "The gas is used in industrial processes including chip production, and its supply can be vulnerable to logistical or geopolitical disruption."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "The scale, duration and sector-by-sector effects of potential shortages are still uncertain."
+          "question": "What does the new US classification establish?",
+          "answer": "The Department of Energy has designated helium as a critical material for supply security; that designation alone does not establish an immediate shortage across all industries."
         }
       ],
       "impact": 1.5,
