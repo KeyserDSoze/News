@@ -39,12 +39,12 @@
       ],
       "questions": [
         {
-          "question": "I risultati dimostrano una guarigione universale?",
-          "answer": "No. Riguardano risultati in pazienti selezionati e indicatori definiti dal protocollo."
+          "question": "Quale differenza di sopravvivenza ha misurato DeLLphi-305?",
+          "answer": "Nei pazienti selezionati dopo la terapia iniziale, la sopravvivenza globale mediana è stata di 21,1 mesi con tarlatamab e durvalumab contro 12,7 mesi con il solo durvalumab."
         },
         {
-          "question": "La terapia è automaticamente approvata?",
-          "answer": "No: il congresso scientifico e la valutazione normativa sono passaggi separati."
+          "question": "Quali rischi accompagnano il beneficio osservato?",
+          "answer": "Gli eventi avversi correlati di grado almeno 3 sono stati riportati nel 20,9% del braccio combinato contro il 10,8% del controllo; la sindrome da rilascio di citochine richiede particolare sorveglianza."
         }
       ],
       "sources": [
@@ -113,12 +113,12 @@
       ],
       "questions": [
         {
-          "question": "I risultati dimostrano una guarigione universale?",
-          "answer": "No. Riguardano risultati in pazienti selezionati e indicatori definiti dal protocollo."
+          "question": "A quali pazienti si riferiscono i risultati di VOLGA?",
+          "answer": "A persone con tumore della vescica muscolo-invasivo non idonee alla chemioterapia con cisplatino o che l'avevano rifiutata, in un percorso che include l'intervento chirurgico."
         },
         {
-          "question": "La terapia è automaticamente approvata?",
-          "answer": "No: il congresso scientifico e la valutazione normativa sono passaggi separati."
+          "question": "Che cosa indicano le percentuali di sopravvivenza a due anni?",
+          "answer": "Nel confronto presentato, il 78% dei pazienti trattati con la combinazione era vivo a due anni contro il 69% del controllo. Sono stime dei gruppi, non una previsione per ciascun individuo."
         }
       ],
       "sources": [
@@ -187,12 +187,12 @@
       ],
       "questions": [
         {
-          "question": "I risultati dimostrano una guarigione universale?",
-          "answer": "No. Riguardano risultati in pazienti selezionati e indicatori definiti dal protocollo."
+          "question": "La riduzione del rischio del 58% significa il 58% di decessi in meno?",
+          "answer": "No. Riguarda l'endpoint combinato di comparsa di metastasi o morte nel periodo di osservazione; un miglioramento significativo della sopravvivenza globale non era ancora dimostrato."
         },
         {
-          "question": "La terapia è automaticamente approvata?",
-          "answer": "No: il congresso scientifico e la valutazione normativa sono passaggi separati."
+          "question": "Quali effetti indesiderati sono emersi con l'intensificazione terapeutica?",
+          "answer": "Gli eventi avversi di grado almeno 3 si sono verificati nel 43% dei trattati con darolutamide contro il 36% del gruppo di controllo, secondo i risultati riportati."
         }
       ],
       "sources": [
