@@ -61,12 +61,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Fonti ucraine hanno segnalato l'esistenza di limiti di velocità introdotti il 13 ottobre per alcune connessioni satellitari. Il servizio è utilizzato anche per comunicazioni e operazioni con droni nel contesto della guerra in Ucraina."
+          "question": "Quale limite Starlink è stato segnalato dai funzionari ucraini?",
+          "answer": "Alcune connessioni su mezzi in movimento oltre 160 km/h avrebbero continuato a subire restrizioni di velocità, secondo le fonti ucraine citate da Reuters."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Mancano una verifica tecnica indipendente dell'estensione dei limiti e chiarimenti pubblici sull'autorità che li ha disposti."
+          "question": "L'annuncio statunitense equivale alla conferma del ripristino sul campo?",
+          "answer": "No. L'affermazione di Donald Trump sul ripristino non coincide con quanto riferito dai funzionari ucraini; mancava una verifica indipendente dell'estensione dei limiti."
         }
       ],
       "related": [
@@ -136,12 +136,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "È confermata una vittima mortale e il ferimento di più persone nell'area di Trappes e La Verrière. La polizia ha arrestato un sospettato e la procura nazionale antiterrorismo ha assunto competenza sull'inchiesta."
+          "question": "Che cosa risulta accertato sulla sparatoria nell'area di Trappes?",
+          "answer": "È stata segnalata una vittima mortale, diversi feriti e l'arresto di un sospettato. I primi bilanci dei feriti riportati dalle agenzie non coincidevano."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Il conteggio dei feriti varia tra gli aggiornamenti delle agenzie; movente e responsabilità devono ancora essere accertati definitivamente."
+          "question": "Perché l'indagine è seguita dalla procura antiterrorismo?",
+          "answer": "La procura nazionale antiterrorismo francese ha assunto competenza per verificare i possibili aspetti del movente; questo non costituisce una sentenza né una prova definitiva della matrice."
         }
       ],
       "impact": 1,
@@ -202,12 +202,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "L'edificio in costruzione è crollato nel quartiere Eastleigh e le squadre di emergenza sono intervenute. Le autorità locali hanno segnalato persone potenzialmente sotto le macerie e negozi al piano terra."
+          "question": "Dove è crollato l'edificio e in quali condizioni si trovava?",
+          "answer": "Nel quartiere commerciale di Eastleigh a Nairobi; secondo le cronache, l'immobile di circa dodici piani era ancora in costruzione e aveva attività al piano terra."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Numero delle persone coinvolte, eventuali decessi e cause strutturali non risultavano determinati negli aggiornamenti iniziali."
+          "question": "Perché i primi numeri sulle persone coinvolte erano incerti?",
+          "answer": "I soccorritori stavano ancora cercando persone fra le macerie e verificando le segnalazioni: le persone indicate come mancanti non corrispondono automaticamente a vittime confermate."
         }
       ],
       "impact": 1.5,
@@ -275,12 +275,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Reuters indica una chiusura del Brent a 116,72 dollari e del WTI a 103,27 dollari. I prezzi sono aumentati mentre i mercati valutavano il rischio di interruzioni energetiche in Medio Oriente."
+          "question": "Quali prezzi hanno raggiunto Brent e WTI il 23 ottobre?",
+          "answer": "Secondo Reuters, il Brent ha chiuso a 116,72 dollari al barile e il WTI a 103,27. Sono prezzi di mercato del greggio, non prezzi alla pompa."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "La durata del rialzo e l'impatto sui consumatori non sono deducibili dalla sola seduta di mercato."
+          "question": "Quale collegamento emerge fra Medio Oriente e rialzo delle quotazioni?",
+          "answer": "Gli operatori temevano interruzioni dell'offerta energetica dopo nuove tensioni regionali; il movimento dei prezzi non quantifica però una perdita effettiva di produzione."
         }
       ],
       "threadId": "global-energy-prices",
@@ -357,12 +357,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Suu Kyi è detenuta dal colpo di Stato del febbraio 2021 e ha parlato con il figlio Kim Aris il 22 ottobre 2026. Le dichiarazioni di Aris sono state raccolte da testate distinte il 22 e 23 ottobre."
+          "question": "Quando Aung San Suu Kyi ha parlato con il figlio?",
+          "answer": "Il colloquio con Kim Aris è avvenuto il 22 ottobre 2026; il figlio ne ha riferito ulteriori dettagli il giorno seguente, dopo anni di detenzione iniziata nel 2021."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "La salute complessiva, la libertà di comunicazione e l'accesso continuativo a visite indipendenti non sono pienamente verificabili."
+          "question": "La telefonata indica un cambiamento delle condizioni di detenzione?",
+          "answer": "Non necessariamente. Il contatto è documentato, ma da un singolo colloquio non si possono dedurre libertà di comunicazione continuativa né una valutazione sanitaria indipendente."
         }
       ],
       "impact": 1,
@@ -423,12 +423,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Due ex funzionari sono stati formalmente accusati in un tribunale federale a Washington. Il caso riguarda dichiarazioni rese al Congresso e attività investigative precedenti alle elezioni del 2020."
+          "question": "Su quali fatti si basano le accuse ai due ex funzionari FBI?",
+          "answer": "Il procedimento federale riguarda presunte dichiarazioni false rese al Congresso su precedenti attività investigative legate al 2020; gli imputati contestano la ricostruzione dell'accusa."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Le accuse devono essere valutate in tribunale; responsabilità penale e motivazioni politiche non sono state accertate."
+          "question": "Che cosa significa l'incriminazione per la loro responsabilità?",
+          "answer": "Significa che è stato avviato un procedimento penale, non che le contestazioni siano già state provate in giudizio."
         }
       ],
       "impact": 1.5,
@@ -489,12 +489,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "La capacità nucleare mondiale a fine 2025 era di circa 377 GW secondo l'AIEA. Il rapporto considera sia uno scenario di crescita alta sia uno più prudente per il 2060."
+          "question": "Qual è il punto di partenza delle proiezioni AIEA sul nucleare?",
+          "answer": "L'Agenzia indica circa 377 GW di capacità mondiale alla fine del 2025 e presenta più scenari possibili fino al 2060, non un unico esito obbligato."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Non è determinabile quale scenario si realizzerà: le proiezioni non sono impegni vincolanti degli Stati."
+          "question": "Da cosa dipende il raggiungimento dello scenario di maggiore crescita?",
+          "answer": "Da investimenti, politiche energetiche, autorizzazioni e capacità di costruzione future: lo scenario alto non equivale a un impegno di tutti i governi."
         }
       ],
       "impact": 1.5,
@@ -555,12 +555,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "La rilevazione è stata diffusa il 23 ottobre e riguarda le risposte raccolte a settembre. Le aspettative mediane a dodici mesi sono salite di 0,1 punti percentuali rispetto ad agosto."
+          "question": "Che cosa misura il 3,1% riportato dall'indagine BCE?",
+          "answer": "È la mediana delle aspettative dei consumatori sull'inflazione nei dodici mesi successivi, rilevata a settembre e pubblicata il 23 ottobre: non è il tasso di inflazione osservato."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "L'inflazione effettiva dei prossimi dodici mesi potrà divergere dalle aspettative espresse nel sondaggio."
+          "question": "Quanto sono cambiate le aspettative rispetto alla rilevazione precedente?",
+          "answer": "La mediana a dodici mesi è salita di 0,1 punti percentuali, dal 3,0% al 3,1% rispetto ad agosto."
         }
       ],
       "impact": 1.5,
@@ -621,12 +621,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Un portavoce di Eni ha confermato ad ANSA la continuazione del meccanismo fino a fine anno. I livelli comunicati sono 2,25 euro/litro per il gasolio e 1,99 euro/litro per la benzina nella rete interessata."
+          "question": "Quali massimali ha confermato Eni per la propria rete?",
+          "answer": "La società ha indicato 2,25 euro al litro per il gasolio e 1,99 per la benzina nelle stazioni comprese nel meccanismo di tetto ai prezzi."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Evoluzione dei massimali e risparmi effettivi dipendono dalle future decisioni aziendali e dalle condizioni del mercato."
+          "question": "Fino a quando Eni prevede di mantenere il meccanismo?",
+          "answer": "Fino alla fine del 2026, secondo la dichiarazione riportata da ANSA; l'azienda ha comunque previsto verifiche periodiche delle condizioni di mercato."
         }
       ],
       "threadId": "italy-fuel-costs",
@@ -689,12 +689,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "I quattro manifestanti sono scesi dall'impianto nel pomeriggio del 23 ottobre. Una nuova riunione sul futuro del sito industriale è programmata per il 29 ottobre."
+          "question": "Che cosa è cambiato nella protesta dei lavoratori Eurallumina?",
+          "answer": "Il 23 ottobre quattro lavoratori sono scesi dall'impianto industriale sul quale protestavano dopo un confronto al ministero competente."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Non risultano definiti né il finanziamento necessario né un piano condiviso per il rilancio produttivo."
+          "question": "Quale passaggio è previsto per il futuro dello stabilimento?",
+          "answer": "Un nuovo incontro è stato fissato per il 29 ottobre. La sospensione della protesta non equivale a un piano industriale finanziato e approvato."
         }
       ],
       "impact": 0.5,
