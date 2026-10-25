@@ -30,8 +30,12 @@
       ],
       "questions": [
         {
-          "question": "Does a first treatment mean Wilson disease has been cured?",
-          "answer": "No. The programme is early-stage and safety and efficacy have not been established."
+          "question": "What is prime editing designed to address in Wilson disease?",
+          "answer": "The experimental approach aims to correct a genetic change associated with impaired copper clearance, which can damage the liver and nervous system."
+        },
+        {
+          "question": "What does treating the first patient establish?",
+          "answer": "It marks the start of testing the editing technique inside a human body; safety and clinical benefit still require follow-up."
         }
       ],
       "impact": 3,
@@ -98,8 +102,12 @@
       ],
       "questions": [
         {
-          "question": "Can patients already cure diabetes by switching off ALDH3B2?",
-          "answer": "No. The work involved lab cells and animal models, with no approved human treatment."
+          "question": "What role did ALDH3B2 play in the reported experiments?",
+          "answer": "Researchers examined how its activity affects the development of cells able to release insulin in response to glucose."
+        },
+        {
+          "question": "What evidence supports the finding so far?",
+          "answer": "The work included cultured cells and donated human tissue; it does not yet establish a treatment available to people with diabetes."
         }
       ],
       "impact": 2.5,
@@ -159,8 +167,12 @@
       ],
       "questions": [
         {
-          "question": "Are crows twice as intelligent as people?",
-          "answer": "No. It concerns decision speed in one visual task tested with two birds."
+          "question": "What task did the two crows perform?",
+          "answer": "The trained birds identified visual patterns and signalled their choices; researchers measured responses of roughly 235 milliseconds."
+        },
+        {
+          "question": "What limits comparisons with human performance?",
+          "answer": "The experiment involved one visual task and only two birds. Response times are not a measure of an entire species' general intelligence."
         }
       ],
       "impact": 1.5,
@@ -220,8 +232,12 @@
       ],
       "questions": [
         {
-          "question": "Has the experiment already explained why matter dominates the universe?",
-          "answer": "No. It offers a tool for later precision experiments, not a definitive explanation."
+          "question": "Why is holding a positron difficult?",
+          "answer": "A positron is antimatter and annihilates on contact with matter; isolating and cooling it enables precision measurements."
+        },
+        {
+          "question": "What does the new trap contribute to research?",
+          "answer": "It supports more controlled observations of a single particle, without by itself explaining the universe's matter-antimatter imbalance."
         }
       ],
       "impact": 2.5,
@@ -281,8 +297,12 @@
       ],
       "questions": [
         {
-          "question": "Can an MRI now reliably predict depression in an individual child?",
-          "answer": "No. Group patterns are not accurate enough for individual diagnosis."
+          "question": "What data were used to map cortical development?",
+          "answer": "Researchers analysed roughly 30,000 MRI scans from nearly 12,000 young people to study how cortical measurements change during development."
+        },
+        {
+          "question": "Why are the findings not yet an individual diagnostic test?",
+          "answer": "They describe population-level patterns, and the work was a preprint; they do not reliably predict an individual adolescent's clinical outcome."
         }
       ],
       "impact": 2,
