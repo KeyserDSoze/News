@@ -39,12 +39,12 @@
       ],
       "questions": [
         {
-          "question": "È una scoperta fatta il 25 ottobre?",
-          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+          "question": "Che cosa prevede il ristoro annunciato da GMO?",
+          "answer": "GMO ha annunciato 5.000 yen per gli utenti del servizio e un risarcimento per le perdite derivanti da operazioni non autorizzate che saranno accertate: il pagamento fisso non quantifica il danno subito da ciascuno."
         },
         {
-          "question": "Cosa resta incerto?",
-          "answer": "Numero definitivo di utenti e conti danneggiati, autori e decisione del governo."
+          "question": "Il governo giapponese ha già avviato misure di difesa cibernetica attiva?",
+          "answer": "No. GMO ha chiesto alle autorità di valutarle; nelle fonti considerate non risulta una decisione o un intervento già eseguito."
         }
       ],
       "sources": [
@@ -127,12 +127,12 @@
       ],
       "questions": [
         {
-          "question": "È una scoperta fatta il 25 ottobre?",
-          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+          "question": "Gmail e Google Foto vengono collegati automaticamente alle funzioni di IA?",
+          "answer": "Secondo Google il collegamento dei servizi è facoltativo: l'utente deve scegliere se consentire ad altre applicazioni di usare quelle informazioni."
         },
         {
-          "question": "Cosa resta incerto?",
-          "answer": "Effetti concreti, portata geografica e audit indipendenti del consenso."
+          "question": "Le nuove parole della policy dimostrano che gli inserzionisti possono leggere le email?",
+          "answer": "No. Google nega un accesso diretto degli inserzionisti alle email. Il punto da chiarire è come le informazioni condivise volontariamente fra servizi possano influenzare la personalizzazione."
         }
       ],
       "sources": [
@@ -208,12 +208,12 @@
       ],
       "questions": [
         {
-          "question": "È una scoperta fatta il 25 ottobre?",
-          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+          "question": "Che cosa significa che Dessa è un modello vocale «full-duplex»?",
+          "answer": "Significa che può elaborare l'ascolto e produrre voce nello stesso momento, gestendo interruzioni e brevi segnali di risposta senza aspettare rigidamente la fine del turno dell'interlocutore."
         },
         {
-          "question": "Cosa resta incerto?",
-          "answer": "Misure riproducibili di prestazione, pesi del modello, accesso generale."
+          "question": "Le dimostrazioni provano che Dessa funziona bene in qualunque conversazione?",
+          "answer": "No. Sono esempi selezionati dal produttore, non una misurazione indipendente; nelle prove descritte dalle redazioni compaiono anche errori e risposte confuse."
         }
       ],
       "sources": [
@@ -282,12 +282,12 @@
       ],
       "questions": [
         {
-          "question": "È una scoperta fatta il 25 ottobre?",
-          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+          "question": "Quali router ASUS richiedono un aggiornamento?",
+          "answer": "Solo i modelli e le versioni di firmware elencati negli avvisi ufficiali: va confrontata la versione installata sul proprio router con quella corretta per il modello."
         },
         {
-          "question": "Cosa resta incerto?",
-          "answer": "Numero di dispositivi ancora vulnerabili e aggiornamenti disponibili per i modelli specifici."
+          "question": "Le vulnerabilità consentono automaticamente di entrare in ogni router da Internet?",
+          "answer": "No. Le condizioni di sfruttamento dipendono dalla specifica vulnerabilità e in alcuni casi richiedono accesso a una rete adiacente; non tutti i prodotti ASUS sono coinvolti."
         }
       ],
       "sources": [
@@ -363,12 +363,12 @@
       ],
       "questions": [
         {
-          "question": "È una scoperta fatta il 25 ottobre?",
-          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+          "question": "Perché un computer aggiornato potrebbe restare esposto a BlackX?",
+          "answer": "Alcune mitigazioni di Secure Boot richiedono l'applicazione di revoche aggiuntive: l'installazione delle normali patch non garantisce da sola che ogni componente di avvio vulnerabile sia bloccato."
         },
         {
-          "question": "Cosa resta incerto?",
-          "answer": "Vittime accertate, perimetro delle compromissioni, identità degli operatori."
+          "question": "L'attribuzione degli attacchi al gruppo APT41 è definitiva?",
+          "answer": "No. Kaspersky la presenta con un livello di fiducia moderato; le somiglianze tecniche non identificano con certezza chi abbia operato il bootkit."
         }
       ],
       "sources": [
