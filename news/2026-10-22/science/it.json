@@ -30,8 +30,12 @@
       ],
       "questions": [
         {
-          "question": "Un trattamento sperimentale significa che la malattia di Wilson è guarita?",
-          "answer": "No. Il trattamento è in fase iniziale e la sicurezza e l'efficacia rimangono da valutare."
+          "question": "Che cosa prova a correggere il prime editing nella malattia di Wilson?",
+          "answer": "La terapia sperimentale cerca di modificare una sequenza genetica associata alla malattia, che altera l'eliminazione del rame e può danneggiare fegato e sistema nervoso."
+        },
+        {
+          "question": "Qual è il significato del trattamento del primo paziente?",
+          "answer": "Segna l'avvio della sperimentazione direttamente nell'organismo umano; la sicurezza e l'efficacia clinica devono ancora essere misurate nel tempo."
         }
       ],
       "impact": 3,
@@ -98,8 +102,12 @@
       ],
       "questions": [
         {
-          "question": "Le persone con diabete possono già essere curate disattivando ALDH3B2?",
-          "answer": "No. I risultati riguardano cellule di laboratorio e modelli animali, senza trattamento clinico disponibile."
+          "question": "Quale ruolo ha il gene ALDH3B2 negli esperimenti descritti?",
+          "answer": "La ricerca studia come la sua attività influenzi la generazione di cellule capaci di produrre insulina in risposta al glucosio."
+        },
+        {
+          "question": "Su quali sistemi sono state ottenute le osservazioni?",
+          "answer": "Gli esperimenti hanno incluso cellule coltivate e tessuti umani donati, ma non dimostrano ancora un trattamento clinico disponibile per le persone con diabete."
         }
       ],
       "impact": 2.5,
@@ -159,8 +167,12 @@
       ],
       "questions": [
         {
-          "question": "Le cornacchie sono il doppio più intelligenti degli esseri umani?",
-          "answer": "No. Il confronto riguarda tempi in un singolo esperimento visivo con due animali."
+          "question": "Che cosa hanno fatto le due cornacchie nell'esperimento?",
+          "answer": "Erano addestrate a riconoscere particolari configurazioni visive e a segnalarle; i ricercatori hanno misurato risposte di circa 235 millisecondi."
+        },
+        {
+          "question": "Qual è il limite principale del confronto con gli esseri umani?",
+          "answer": "Il test riguarda un compito visivo specifico e soltanto due animali: i tempi di risposta non misurano l'intelligenza generale di una specie."
         }
       ],
       "impact": 1.5,
@@ -220,8 +232,12 @@
       ],
       "questions": [
         {
-          "question": "L'esperimento ha già spiegato perché nell'universo prevale la materia?",
-          "answer": "No. Fornisce uno strumento per misure future, senza una spiegazione definitiva."
+          "question": "Perché è difficile conservare un positrone per studiarlo?",
+          "answer": "Il positrone è antimateria e si annichila quando entra in contatto con la materia; isolarlo e raffreddarlo permette misure di precisione."
+        },
+        {
+          "question": "Che cosa aggiunge la nuova trappola alla ricerca?",
+          "answer": "Il dispositivo descritto consente osservazioni più controllate di una singola particella, senza risolvere da solo il problema cosmologico dell'asimmetria tra materia e antimateria."
         }
       ],
       "impact": 2.5,
@@ -281,8 +297,12 @@
       ],
       "questions": [
         {
-          "question": "Una scansione può oggi prevedere con certezza la depressione di un singolo bambino?",
-          "answer": "No. Le tendenze aggregate non hanno accuratezza sufficiente per un test diagnostico individuale."
+          "question": "Su quali dati si basano le nuove mappe dello sviluppo corticale?",
+          "answer": "La ricerca ha analizzato circa 30.000 risonanze magnetiche relative a quasi 12.000 giovani, osservando traiettorie della corteccia durante la crescita."
+        },
+        {
+          "question": "Perché i risultati non sono ancora un test diagnostico individuale?",
+          "answer": "Le associazioni riguardano tendenze statistiche di gruppi e lo studio era un preprint: non consentono di prevedere con certezza l'esito clinico di un singolo adolescente."
         }
       ],
       "impact": 2,

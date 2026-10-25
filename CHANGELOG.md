@@ -2,6 +2,20 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.11] — 2026-10-25
+
+**Italiano — Domande che chiariscono i fatti**
+
+- Bonificate le domande e risposte ripetitive delle edizioni storiche IT/EN, rispettando il contesto di ciascun articolo.
+- Aggiunto un validatore contro formule generiche, risposte vuote e duplicazioni delle incognite, insieme a test di regressione.
+- Redazione automatica e linee guida aggiornate per richiedere domande originali, specifiche e fattualmente supportate.
+
+**English — Questions that explain the story**
+
+- Improved repetitive Q&A across historical Italian and English editions, keeping each article's original context.
+- Added automated rejection of generic questions, uninformative answers and duplicates of unresolved issues, with regression tests.
+- Updated the automated editorial process to demand original, topic-specific, evidence-based questions.
+
 ## [0.0.10] — 2026-10-25
 
 **Italiano — Schermo quasi senza margini**

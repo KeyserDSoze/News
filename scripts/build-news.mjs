@@ -1,6 +1,7 @@
 import { readFile, readdir, cp, mkdir, rm, writeFile, access } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import {questionQualityIssues,normalizedEditorialText} from './editorial-questions.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const news=path.join(root,'news'),output=path.join(root,'src/frontend/public/news');
 const checkOnly=process.argv.includes('--check');
@@ -12,7 +13,7 @@ const https=(val,where)=>{if(typeof val!=='string'||!val.startsWith('https://'))
 const dates=(await readdir(news,{withFileTypes:true})).filter(x=>x.isDirectory()&&/^\d{4}-\d{2}-\d{2}$/.test(x.name)&&!Number.isNaN(Date.parse(x.name+'T00:00:00Z'))).map(x=>x.name).sort().reverse();
 if(!dates.length)fail('At least one edition is required');
 const availability=Object.fromEntries(sections.map(s=>[s,[]]));
-const storiesByLocale={it:[],en:[]},all=new Map(),localized=new Map();
+const storiesByLocale={it:[],en:[]},all=new Map(),localized=new Map(),questionsByDay=new Map();
 const articleKey=(d,s,id)=>[d,s,id].join('/');
 async function available(day,section,lang){
   const relative=section==='world'?day+'/'+lang+'.json':day+'/'+section+'/'+lang+'.json';
@@ -50,6 +51,13 @@ for(const day of dates) {
     }
     if(a.body && (!Array.isArray(a.body)||!a.body.length))fail(where+' body must be nonempty paragraphs');
     a.body?.forEach(v=>requireText(v,where+' body paragraph'));
+    const editorialIssues=questionQualityIssues(a);
+    if(editorialIssues.length)fail(where+' editorial Q&A: '+editorialIssues.join('; '));
+    for(const q of a.questions||[]){
+     const key=[day,language,normalizedEditorialText(q.question)].join('/');
+     if(questionsByDay.has(key))fail(where+' duplicates a question in '+questionsByDay.get(key));
+     questionsByDay.set(key,where);
+    }
     if(a.questions){
       if(!Array.isArray(a.questions)||!a.questions.length)fail(where+' questions must be nonempty');
       for(const q of a.questions){requireText(q.question,where+' question');requireText(q.answer,where+' answer');}

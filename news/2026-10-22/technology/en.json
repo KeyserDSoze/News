@@ -30,8 +30,12 @@
       ],
       "questions": [
         {
-          "question": "Has every PHP-powered website already been patched?",
-          "answer": "No. Patch deployment is the responsibility of each operator and requires checking."
+          "question": "What do the millions of PHP2Shell attempts represent?",
+          "answer": "Security monitoring detected many suspicious requests after two flaws were disclosed; attempts are not equivalent to millions of successful intrusions."
+        },
+        {
+          "question": "Who must apply fixes to affected installations?",
+          "answer": "Each service operator needs to check installed versions and available patches; publishing a fix does not automatically update every server."
         }
       ],
       "impact": 3.5,
@@ -98,8 +102,12 @@
       ],
       "questions": [
         {
-          "question": "Does CVSS 10 mean every GitLab server has already been hacked?",
-          "answer": "No. It measures potential severity on affected systems, not successful exploitation everywhere."
+          "question": "What vulnerability did GitLab address?",
+          "answer": "The advisory describes an overflow during regular-expression compilation that could, under specified conditions, expose unpatched installations to unauthenticated attacks."
+        },
+        {
+          "question": "What does a CVSS score of 10 establish?",
+          "answer": "It indicates maximum technical severity, not confirmed exploitation or a finding that every GitLab instance was compromised."
         }
       ],
       "impact": 3,
@@ -166,8 +174,12 @@
       ],
       "questions": [
         {
-          "question": "Did every user lose banking credentials and passwords?",
-          "answer": "No. The company has not confirmed credit-card exposure or theft of original passwords."
+          "question": "How many CAPCOM ID accounts were affected by the reported access?",
+          "answer": "Capcom reported unauthorized access involving records associated with about 11.77 million accounts, with some additional personal details for a subset of 43."
+        },
+        {
+          "question": "Does the account count show that passwords or payment details were stolen?",
+          "answer": "No. The number of affected records is distinct from the types of data exposed; the company did not confirm theft of all original passwords or banking information."
         }
       ],
       "impact": 3,
@@ -227,8 +239,12 @@
       ],
       "questions": [
         {
-          "question": "Has Meta already received new proceeds from these shares?",
-          "answer": "No. The announcement changes potential capital structure, not realized financing."
+          "question": "What distinguishes Meta's proposed Class C shares?",
+          "answer": "The company proposed a new class without voting rights as a potential financing tool that would not change corporate control in the same way as ordinary voting shares."
+        },
+        {
+          "question": "Had the proposal already raised money for the company?",
+          "answer": "No. The reporting concerned a planned capital structure, not completed proceeds from a share issue."
         }
       ],
       "impact": 2.5,
@@ -288,8 +304,12 @@
       ],
       "questions": [
         {
-          "question": "Has Anthropic already listed at a confirmed $1.5 trillion valuation?",
-          "answer": "No. Those were possible future plans and reported estimates."
+          "question": "What did Reuters report about Anthropic's plans?",
+          "answer": "The company was exploring a possible initial public offering as early as November, but dates and terms were not finalized in an official launch."
+        },
+        {
+          "question": "Why is a suggested valuation not a public-market price?",
+          "answer": "An estimate discussed among investors is not an official share-market valuation; a completed offering and actual trading would be separate steps."
         }
       ],
       "impact": 2,

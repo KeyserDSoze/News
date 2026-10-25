@@ -61,12 +61,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Ukrainian sources described speed limitations introduced on 13 October for some satellite connections. Ukraine uses satellite networks for communications and drone operations during the conflict."
+          "question": "Which Starlink restriction did Ukrainian officials report?",
+          "answer": "Officials cited by Reuters said some devices travelling faster than 160 km/h continued to face speed restrictions."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "The technical scope of the restrictions and the authority responsible for imposing them remain unverified independently."
+          "question": "Did the US announcement establish that service had been restored?",
+          "answer": "No. Ukrainian accounts still described restrictions, with no independent measurement of their full extent."
         }
       ],
       "related": [
@@ -136,12 +136,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "One fatality and multiple injuries are confirmed in the Trappes–La Verrière area. A suspect was arrested, and anti-terrorism prosecutors took charge of the inquiry."
+          "question": "What was known about the attack near Trappes?",
+          "answer": "One person was killed and others were injured. A suspect was arrested, but early reports differed on the number of wounded people."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Early injury counts differed between news agencies; the motive and criminal responsibility have not been finally adjudicated."
+          "question": "Why did the national antiterrorism prosecutor take the case?",
+          "answer": "Authorities were investigating the possible motive. The prosecutor's involvement alone does not determine the motive or establish guilt."
         }
       ],
       "impact": 1,
@@ -202,12 +202,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "The building collapsed in the Eastleigh neighbourhood and emergency teams responded. Local authorities reported fears of people trapped and activity in ground-floor shops."
+          "question": "What kind of building collapsed in Nairobi?",
+          "answer": "A roughly twelve-storey building still under construction collapsed in Eastleigh, where businesses operated on the ground floor."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "The number of people affected, potential deaths and structural cause were not determined in early reporting."
+          "question": "Why were initial reports of victims uncertain?",
+          "answer": "Search teams were still checking reports and looking for people under debris; missing-person reports are not confirmed deaths."
         }
       ],
       "impact": 1.5,
@@ -275,12 +275,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Reuters reported Brent settling at $116.72 and WTI at $103.27 per barrel. Prices climbed while traders assessed risks to Middle Eastern energy supplies."
+          "question": "What prices did Brent and WTI reach on 23 October?",
+          "answer": "Reuters reported closing prices of $116.72 per barrel for Brent and $103.27 for WTI. They are crude benchmarks, not retail fuel prices."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "How long the rally will last and its ultimate impact on consumers cannot be inferred from one trading session."
+          "question": "What linked regional tensions to the rise?",
+          "answer": "Traders were concerned about possible energy-supply disruption; that does not establish how much oil production was actually lost."
         }
       ],
       "threadId": "global-energy-prices",
@@ -357,12 +357,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Suu Kyi has been detained since the February 2021 military takeover and spoke with her son on 22 October 2026. Aris's accounts were reported separately by news organisations on 22 and 23 October."
+          "question": "When did Aung San Suu Kyi speak to her son?",
+          "answer": "Her son Kim Aris reported a telephone call on 22 October, providing more details the following day."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Her overall health, freedom of communication and access to sustained independent care remain difficult to verify."
+          "question": "Does the call establish ongoing access to her family?",
+          "answer": "No. One documented conversation does not establish continued communication or independently verified health conditions."
         }
       ],
       "impact": 1,
@@ -423,12 +423,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "Two former officials face federal charges in Washington. The allegations concern congressional statements and investigation activities before the 2020 election."
+          "question": "What were the former FBI officials accused of?",
+          "answer": "Federal prosecutors alleged false statements to Congress concerning earlier investigative activity related to 2020. The defendants disputed the allegations."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "The allegations require judicial testing; criminal culpability and claims of political motive remain unproven."
+          "question": "Has criminal liability been established?",
+          "answer": "No. An indictment begins a legal case; allegations remain subject to judicial examination."
         }
       ],
       "impact": 1.5,
@@ -489,12 +489,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "IAEA data places global nuclear generating capacity near 377 GW at the end of 2025. The agency publishes both high- and low-growth scenarios for 2060."
+          "question": "What is the baseline for the IAEA nuclear projections?",
+          "answer": "The agency reported approximately 377 GW of installed nuclear capacity at the end of 2025 and considered multiple scenarios through 2060."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Neither scenario is guaranteed; projections are not binding construction commitments by countries."
+          "question": "What would shape the high-growth scenario?",
+          "answer": "Future investment, licensing, energy policy and construction capacity, not a guaranteed or binding outcome."
         }
       ],
       "impact": 1.5,
@@ -555,12 +555,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "The ECB released the survey on 23 October using September responses. The median twelve-month expectation increased by 0.1 percentage point month on month."
+          "question": "What does the ECB survey's 3.1% figure represent?",
+          "answer": "It is the median expectation of inflation over the next twelve months among consumers surveyed in September, not the measured current rate."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Actual inflation over the next year may differ materially from the surveyed expectations."
+          "question": "How did that expectation change?",
+          "answer": "The twelve-month median rose by 0.1 percentage point, from 3.0% in August to 3.1%."
         }
       ],
       "impact": 1.5,
@@ -621,12 +621,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "An Eni spokesperson confirmed the intended extension to ANSA. The stated reference caps are €2.25 per litre for diesel and €1.99 for petrol across the relevant network."
+          "question": "What fuel-price caps did Eni announce?",
+          "answer": "The company cited €2.25 per litre for diesel and €1.99 for petrol at participating stations."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Future levels of the cap and savings to drivers depend on company decisions and wider market conditions."
+          "question": "How long did Eni intend to maintain the policy?",
+          "answer": "Until the end of 2026, subject to periodic reviews of market conditions."
         }
       ],
       "threadId": "italy-fuel-costs",
@@ -689,12 +689,12 @@
       ],
       "questions": [
         {
-          "question": "Which details are supported by the reporting?",
-          "answer": "The four protesters came down from the industrial structure on 23 October. Further talks about the plant are planned for 29 October."
+          "question": "What changed in the Eurallumina workers' protest?",
+          "answer": "Four workers ended their protest on an industrial structure on 23 October after ministerial discussions."
         },
         {
-          "question": "What still needs verification?",
-          "answer": "Funding levels and a shared long-term plan for production had not yet been established."
+          "question": "What is the next scheduled step for the plant?",
+          "answer": "Another meeting was scheduled for 29 October; suspending the protest did not settle the plant's financial or industrial future."
         }
       ],
       "impact": 0.5,

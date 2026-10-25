@@ -30,8 +30,12 @@
       ],
       "questions": [
         {
-          "question": "Have seven tankers been proven destroyed?",
-          "answer": "No. Reported attacks and independently established destruction are different."
+          "question": "What did Iran's Revolutionary Guards claim in the Strait of Hormuz?",
+          "answer": "The IRGC referred to incidents involving seven vessels, but the available sources did not independently confirm the destruction of all seven."
+        },
+        {
+          "question": "Why distinguish a military claim from confirmed damage?",
+          "answer": "A belligerent's account describes what it says happened; an assessment of shipping losses requires independently checked information about individual vessels."
         }
       ],
       "impact": 3.5,
@@ -91,8 +95,12 @@
       ],
       "questions": [
         {
-          "question": "Have the talks halted attacks?",
-          "answer": "No. Fighting continued during discussions of future negotiations."
+          "question": "What happened in Kyiv while diplomatic contacts continued?",
+          "answer": "Russian missiles struck the Ukrainian capital while officials were discussing the possibility of further US-Russia talks."
+        },
+        {
+          "question": "Had those contacts produced an operative ceasefire?",
+          "answer": "No. No agreement halting the strikes was reported; diplomatic conversations and military operations continued separately."
         }
       ],
       "impact": 3,
@@ -152,8 +160,12 @@
       ],
       "questions": [
         {
-          "question": "Does willingness to talk equal a signed peace?",
-          "answer": "No. Territory, timing and guarantees remain disputed."
+          "question": "What remains the central disagreement in the proposed talks?",
+          "answer": "Positions on Donbas and security guarantees remain apart; agreeing to discuss them is not the same as reaching a territorial settlement."
+        },
+        {
+          "question": "Had a new summit date already been agreed?",
+          "answer": "No. The reporting described possible talks, not a confirmed timetable or a signed peace agreement."
         }
       ],
       "impact": 3,
@@ -213,8 +225,12 @@
       ],
       "questions": [
         {
-          "question": "Have all Saudi airports closed?",
-          "answer": "No. The reported information concerns the specific airport at Dammam."
+          "question": "What casualties were reported at Dammam airport?",
+          "answer": "Early reports described one death and eight injuries in the airport area, without a final infrastructure-damage assessment."
+        },
+        {
+          "question": "What does the incident establish about Saudi aviation?",
+          "answer": "The information concerns Dammam and does not demonstrate that all airports in the country ceased operating."
         }
       ],
       "impact": 2.5,
@@ -274,8 +290,12 @@
       ],
       "questions": [
         {
-          "question": "Were all embassies shut?",
-          "answer": "No. The order covered categories of staff, not an end to diplomatic missions."
+          "question": "Which US personnel were affected by the departure order?",
+          "answer": "The measure concerned nonessential diplomatic personnel and other categories covered by official guidance, not necessarily the entire mission."
+        },
+        {
+          "question": "Why did Washington reduce its presence?",
+          "answer": "The decision followed regional security concerns; it did not amount to the termination of diplomatic relations with Riyadh."
         }
       ],
       "impact": 2.5,
@@ -335,8 +355,12 @@
       ],
       "questions": [
         {
-          "question": "Did half a million people die from hunger?",
-          "answer": "No. The estimate concerns reduced food support and resulting humanitarian risk."
+          "question": "What does the figure of roughly half a million people mean?",
+          "answer": "It refers to people facing reduced or suspended food assistance in Gaza, not a count of deaths."
+        },
+        {
+          "question": "How could smaller food rations affect households?",
+          "answer": "Families dependent on deliveries may receive less food; the eventual consequences also depend on alternative assistance and whether supplies resume."
         }
       ],
       "impact": 3.5,
@@ -396,8 +420,12 @@
       ],
       "questions": [
         {
-          "question": "Does the sell-off prove AI models failed?",
-          "answer": "No. Market prices express financial expectations rather than a final judgement on technology."
+          "question": "Which market index fell by 2.6%?",
+          "answer": "The Nasdaq declined amid investor concerns about AI-related investment costs and future business returns."
+        },
+        {
+          "question": "Does the stock-market move measure AI systems' technical performance?",
+          "answer": "No. Share prices reflect expectations about revenue, spending and financial risk, rather than direct tests of model capabilities."
         }
       ],
       "impact": 2.5,
@@ -457,8 +485,12 @@
       ],
       "questions": [
         {
-          "question": "Has the mine been permanently banned?",
-          "answer": "No. The licensing suspension awaits further legal proceedings."
+          "question": "What was suspended at the Volta Grande gold project?",
+          "answer": "A permit important to the Xingu-area project was suspended pending further proceedings; a permanent closure was not established."
+        },
+        {
+          "question": "Why does the decision matter locally?",
+          "answer": "Mining approvals affect economic plans and potential environmental consequences in the Xingu river basin."
         }
       ],
       "impact": 2.5,
@@ -518,8 +550,12 @@
       ],
       "questions": [
         {
-          "question": "Has the world already reached 2.8°C?",
-          "answer": "No. That is a scenario projection for the century."
+          "question": "What does UNEP's 2.8°C figure represent?",
+          "answer": "It is a conditional projection of warming by the end of the century under the policies assessed, not warming that has already occurred."
+        },
+        {
+          "question": "Why could the projection change?",
+          "answer": "It depends on future emissions and policy choices; different greenhouse-gas reductions lead to different trajectories."
         }
       ],
       "impact": 3.5,
@@ -579,8 +615,12 @@
       ],
       "questions": [
         {
-          "question": "Did petrol automatically rise by 4%?",
-          "answer": "No. Crude oil benchmarks and retail fuel prices are distinct."
+          "question": "What does Brent trading above $113 indicate?",
+          "answer": "It signals stronger pressure on crude-oil markets amid tensions in the Gulf region."
+        },
+        {
+          "question": "Why might pump prices move differently from crude-oil prices?",
+          "answer": "Refining costs, distribution, taxes, inventories and price-adjustment delays all affect retail fuel prices."
         }
       ],
       "impact": 2.5,

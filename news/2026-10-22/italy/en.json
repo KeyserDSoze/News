@@ -37,8 +37,12 @@
       ],
       "questions": [
         {
-          "question": "Have all €175 million already reached businesses?",
-          "answer": "No. These are approved allocations subject to different disbursement procedures."
+          "question": "How were transport support funds allocated?",
+          "answer": "About €175 million was approved, including €105.2 million for road haulage."
+        },
+        {
+          "question": "Does approval mean that all operators have been paid?",
+          "answer": "No. Eligibility checks and implementing procedures must precede payments."
         }
       ],
       "sources": [
@@ -105,8 +109,12 @@
       ],
       "questions": [
         {
-          "question": "Is free legal representation already guaranteed under the new proposal?",
-          "answer": "No. Further parliamentary steps are required before it becomes law."
+          "question": "What legal support did the Chamber approve?",
+          "answer": "The proposal would provide free representation in litigation after serious workplace accidents. The vote was 220 in favour and none against."
+        },
+        {
+          "question": "Was the measure already in force?",
+          "answer": "No. The text still required further parliamentary steps."
         }
       ],
       "sources": [
@@ -166,8 +174,12 @@
       ],
       "questions": [
         {
-          "question": "Did every Italian fishing vessel stop operating?",
-          "answer": "No. Reports concern several regional protests and suspensions, not all vessels nationally."
+          "question": "Why did some fishing boats remain in port?",
+          "answer": "Operators reported that high diesel costs made some journeys uneconomical, especially along the Adriatic coast."
+        },
+        {
+          "question": "What assistance was planned for the sector?",
+          "answer": "The government package included €10 million for fishing, subject to distribution rules."
         }
       ],
       "sources": [
@@ -234,8 +246,12 @@
       ],
       "questions": [
         {
-          "question": "Did the president personally introduce new youth-employment legislation?",
-          "answer": "No. These were institutional remarks at an award ceremony."
+          "question": "What did President Mattarella emphasize about young workers?",
+          "answer": "His labour merit address stressed professional opportunities, merit and confidence in younger people."
+        },
+        {
+          "question": "Did the address enact new employment legislation?",
+          "answer": "No. It was an institutional appeal, not a legislative decision."
         }
       ],
       "sources": [
@@ -295,8 +311,12 @@
       ],
       "questions": [
         {
-          "question": "Had the 24 October protests already happened?",
-          "answer": "No. They were scheduled for a later date."
+          "question": "Why did Milan plan heightened security for demonstrations?",
+          "answer": "Authorities announced precautions ahead of weekend events following earlier public-order tensions."
+        },
+        {
+          "question": "Did the plan establish the results of the demonstrations?",
+          "answer": "No. It was preventative; turnout and later incidents were not yet known."
         }
       ],
       "sources": [

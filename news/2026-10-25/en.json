@@ -487,8 +487,12 @@
       ],
       "questions": [
         {
-          "question": "Did the police clearance fall outside the window?",
-          "answer": "No: it occurred early on 25 October, before 07:00 CET."
+          "question": "What happened to the housing protest camp after the Lisbon march?",
+          "answer": "Police cleared the camp overnight between 24 and 25 October. Final enforcement figures should be distinguished from preliminary reports."
+        },
+        {
+          "question": "Did the protest immediately change Portuguese housing policy?",
+          "answer": "The reviewed sources document the demonstration and clearance, not the adoption of new measures on rents or housing access."
         }
       ],
       "sources": [

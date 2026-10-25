@@ -1,6 +1,28 @@
 {
   "releases": [
     {
+      "version": "0.0.11",
+      "date": "2026-10-25",
+      "it": {
+        "title": "Domande che chiariscono i fatti",
+        "highlights": [
+          "Riviste le domande e le risposte degli articoli d'archivio in italiano e inglese, eliminando modelli ripetitivi e risposte ridondanti.",
+          "La validazione delle notizie ora respinge domande prefabbricate e risposte che duplicano le incognite.",
+          "Anche la redazione automatica integra il controllo editoriale delle Q&A."
+        ],
+        "details": "Una regola documentata e test automatici aiutano a rendere le domande finali specifiche per ciascuna notizia; la pertinenza sostanziale continua a richiedere verifica editoriale."
+      },
+      "en": {
+        "title": "Questions that explain the story",
+        "highlights": [
+          "Reviewed archived article Q&A in English and Italian, removing repetitive templates and redundant answers.",
+          "News validation now rejects boilerplate questions and answers that simply repeat unresolved issues.",
+          "The automated newsroom also checks the relevance of each article's questions."
+        ],
+        "details": "A written editorial rule and automated tests help ensure each article ends with meaningful topic-specific questions; factual and substantive relevance still requires editorial verification."
+      }
+    },
+    {
       "version": "0.0.10",
       "date": "2026-10-25",
       "it": {

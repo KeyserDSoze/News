@@ -10,6 +10,7 @@ Ten stories per edition chosen for public significance, impact, timeliness, geog
 - A cautious headline and succinct lead without clickbait.
 - A factual summary written from scratch; never paste copyrighted articles.
 - A `facts` section of attributable, independently checkable assertions.
+- A `questions` section that adds **specific, evidence-based clarification**, not boilerplate: no generic questions about the issue date, no duplicated `unknowns`, no repeated identical questions across different stories. See [editorial Q&A guidance](EDITORIAL_QUESTIONS.md).
 - A `perspectives` section identifying **who says what** without presenting unsupported claims as established fact.
 - An `unknowns` section indicating what could not yet be verified and conflicts between sources.
 - At least two distinct named source outlets/owners (aim for three or more: Reuters, AP, BBC, ANSA, RaiNews, Guardian, FT, original official releases and specialist outlets). Different URLs from one syndication desk do not count as independent reporting.

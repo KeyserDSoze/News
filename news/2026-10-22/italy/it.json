@@ -37,8 +37,12 @@
       ],
       "questions": [
         {
-          "question": "Le imprese hanno già ricevuto tutti i 175 milioni?",
-          "answer": "No. Sono stanziamenti approvati, con procedure e tempi di erogazione distinti."
+          "question": "Come si distribuiscono gli aiuti ai trasporti?",
+          "answer": "Il governo ha previsto circa 175 milioni di euro, di cui 105,2 milioni per l'autotrasporto. Sono comprese anche agevolazioni temporanee su alcuni canoni di leasing."
+        },
+        {
+          "question": "Lo stanziamento comporta subito il pagamento alle imprese?",
+          "answer": "No. Sono necessari atti applicativi e verifiche dei requisiti prima dell'erogazione effettiva."
         }
       ],
       "sources": [
@@ -105,8 +109,12 @@
       ],
       "questions": [
         {
-          "question": "Il patrocinio gratuito è già automaticamente disponibile?",
-          "answer": "No. Il testo deve completare l'iter parlamentare prima di diventare legge."
+          "question": "Che cosa ha approvato la Camera sul sostegno legale?",
+          "answer": "Il testo votato il 22 ottobre prevede il patrocinio gratuito in controversie legate a gravi incidenti sul lavoro ed è passato con 220 voti favorevoli e nessun contrario."
+        },
+        {
+          "question": "La misura era già definitivamente in vigore?",
+          "answer": "No. Dopo il voto della Camera erano necessari altri passaggi parlamentari prima dell'applicazione."
         }
       ],
       "sources": [
@@ -166,8 +174,12 @@
       ],
       "questions": [
         {
-          "question": "Tutte le barche italiane hanno smesso di pescare?",
-          "answer": "No. Le fonti descrivono proteste e sospensioni di attività in diverse aree, non un fermo nazionale totale."
+          "question": "Perché alcuni pescatori hanno lasciato ferme le barche?",
+          "answer": "Il costo del gasolio ha reso antieconomiche alcune uscite, soprattutto lungo la costa adriatica, secondo le associazioni del settore."
+        },
+        {
+          "question": "Quali risorse sono previste per la pesca?",
+          "answer": "Il pacchetto governativo comprende dieci milioni di euro, la cui efficacia dipenderà dai criteri di assegnazione."
         }
       ],
       "sources": [
@@ -234,8 +246,12 @@
       ],
       "questions": [
         {
-          "question": "Mattarella ha approvato personalmente nuove leggi per l'occupazione giovanile?",
-          "answer": "No. Si tratta di dichiarazioni istituzionali durante una cerimonia."
+          "question": "Quali temi ha affrontato Mattarella sul lavoro dei giovani?",
+          "answer": "Durante le Stelle al Merito del Lavoro, il Presidente ha richiamato attenzione su opportunità professionali, merito e fiducia verso le nuove generazioni."
+        },
+        {
+          "question": "Che valore ha l'intervento del Presidente?",
+          "answer": "Si tratta di un indirizzo istituzionale e non dell'approvazione di nuovi provvedimenti per l'occupazione."
         }
       ],
       "sources": [
@@ -295,8 +311,12 @@
       ],
       "questions": [
         {
-          "question": "I cortei del 24 ottobre sono già avvenuti?",
-          "answer": "No. Alla data dell'articolo erano programmati e i risultati non erano noti."
+          "question": "Perché Milano aveva rafforzato la vigilanza in vista dei cortei?",
+          "answer": "Le autorità avevano predisposto maggiori controlli prima delle manifestazioni del fine settimana, dopo tensioni segnalate in occasione di iniziative precedenti."
+        },
+        {
+          "question": "Il piano di vigilanza anticipava l'esito dei cortei?",
+          "answer": "No. Era una misura preventiva e non permetteva di conoscere già affluenza o incidenti delle manifestazioni successive."
         }
       ],
       "sources": [
