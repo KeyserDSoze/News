@@ -1,8 +1,8 @@
 /** Latest archive fixtures: prevent daily releases from breaking date-specific E2E tests. */
-import {readFileSync,readdirSync} from 'node:fs';
-import {fileURLToPath} from 'node:url';
-import {join} from 'node:path';
-const root=fileURLToPath(new URL('../news/',import.meta.url));
+import {readFileSync,readdirSync,existsSync} from 'node:fs';
+import {join,resolve} from 'node:path';
+const root=[resolve(process.cwd(),'news'),resolve(process.cwd(),'../../news'),resolve(process.cwd(),'../news')].find(existsSync);
+if(!root)throw new Error('News repository folder was not found for archive fixtures');
 const dates=readdirSync(root,{withFileTypes:true}).filter(x=>x.isDirectory()&&/^\d{4}-\d{2}-\d{2}$/.test(x.name)).map(x=>x.name).sort().reverse();
 function read(day:string,desk:string){return JSON.parse(readFileSync(join(root,day,desk==='world'?'it.json':desk+'/it.json'),'utf8'));}
 export const COVER_DATE=dates[0];
