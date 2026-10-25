@@ -1,0 +1,414 @@
+{
+  "date": "2026-10-25",
+  "language": "it",
+  "section": "technology",
+  "publishedAt": "2026-10-25T10:05:00Z",
+  "editorialNote": "Rassegna Tecnologia del 25 ottobre: comprende aggiornamenti e analisi di sicurezza e IA pubblicati nei giorni precedenti. Eventi iniziali, dichiarazioni dei produttori e cronaca successiva sono distinti.",
+  "articles": [
+    {
+      "id": "gmo-japan-active-cyber-defense",
+      "rank": 1,
+      "category": "technology",
+      "title": "Giappone, GMO chiede l'intervento pubblico dopo il furto di credenziali per il trading",
+      "dek": "Il gruppo annuncia un ristoro da 5.000 yen per gli utenti e risarcimenti per le operazioni non autorizzate riconosciute; l'intervento pubblico non è stato ancora deciso.",
+      "summary": "Il 24 ottobre GMO Internet ha chiesto formalmente alle autorità giapponesi di valutare l'impiego delle misure di difesa cibernetica attiva dopo la compromissione dei server del servizio Onamae.com Desktop Cloud, utilizzato anche per operazioni automatizzate sui cambi. La richiesta è un fatto nuovo della giornata, mentre l'accesso illecito alla piattaforma era stato rivelato in precedenza. Le ricostruzioni di TBS e Fuji TV distinguono la sequenza temporale dei due eventi.",
+      "body": [
+        "Il 24 ottobre GMO Internet ha chiesto formalmente alle autorità giapponesi di valutare l'impiego delle misure di difesa cibernetica attiva dopo la compromissione dei server del servizio Onamae.com Desktop Cloud, utilizzato anche per operazioni automatizzate sui cambi. La richiesta è un fatto nuovo della giornata, mentre l'accesso illecito alla piattaforma era stato rivelato in precedenza. Le ricostruzioni di TBS e Fuji TV distinguono la sequenza temporale dei due eventi.",
+        "Secondo le comunicazioni riprese dalle redazioni giapponesi, l'incidente potrebbe riguardare fino a 26.739 server e informazioni di accesso ad account di trading. Alcuni utenti hanno denunciato transazioni non riconosciute e perdite finanziarie; non sono però disponibili dati indipendenti sul numero di conti effettivamente compromessi e sul danno economico totale. GMO ha riferito inoltre di una richiesta di denaro attribuita ai responsabili dell'attacco, alla quale intende non aderire.",
+        "La società si è impegnata a riconoscere 5.000 yen agli utenti del servizio e a compensare le perdite per operazioni che saranno accertate come conseguenza dell'intrusione. L'applicazione delle nuove disposizioni giapponesi di difesa attiva, operative da inizio ottobre, potrebbe consentire interventi delle autorità contro infrastrutture impiegate per attacchi. L'impresa non può però ordinare unilateralmente queste operazioni: spetta alle autorità competenti stabilire se le condizioni di legge siano soddisfatte.",
+        "Il caso mette insieme tutela dei risparmiatori, resilienza dei servizi digitali e limiti dell'intervento statale oltre i confini dell'azienda colpita. L'importo del ristoro non è un'indicazione del danno medio né la prova di responsabilità di specifici soggetti. Mancano una relazione forense pubblica completa, una attribuzione indipendente e la decisione governativa: fino ad allora non è corretto sostenere che il Giappone abbia già impiegato poteri offensivi nella vicenda."
+      ],
+      "impact": 2.5,
+      "impactReason": "La vicenda interessa utenti e sicurezza digitale, ma gli effetti effettivi restano circoscritti a casi o tecnologie documentati.",
+      "tags": [
+        "cybersecurity",
+        "japan",
+        "financial-services"
+      ],
+      "facts": [
+        "Richiesta di GMO comunicata il 24 ottobre",
+        "Ristoro annunciato di 5.000 yen",
+        "Nessuna operazione pubblica confermata."
+      ],
+      "perspectives": [
+        "Le dichiarazioni dei produttori e dei ricercatori citati nell'articolo descrivono intenzioni e ricostruzioni tecniche, non necessariamente risultati verificati sul campo.",
+        "Le analisi delle redazioni indipendenti evidenziano sia l'utilità della novità sia i limiti delle prove disponibili."
+      ],
+      "unknowns": [
+        "Numero definitivo di utenti e conti danneggiati, autori e decisione del governo."
+      ],
+      "questions": [
+        {
+          "question": "È una scoperta fatta il 25 ottobre?",
+          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+        },
+        {
+          "question": "Cosa resta incerto?",
+          "answer": "Numero definitivo di utenti e conti danneggiati, autori e decisione del governo."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "TBS News",
+          "role": "reporting",
+          "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3035837",
+          "title": "TBS News report on gmo japan active cyber defense",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Fuji Television / FNN",
+          "role": "reporting",
+          "url": "https://www.fnn.jp/articles/-/1139174?display=full",
+          "title": "Fuji Television / FNN report on gmo japan active cyber defense",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "GMO Internet",
+          "title": "GMO announcement concerning cyberattack and customer compensation",
+          "url": "https://internet.gmo/news/article/249/",
+          "publishedAt": "2026-10-24",
+          "role": "official"
+        },
+        {
+          "outlet": "ITmedia News",
+          "title": "GMO requests cyber defence response after Desktop Cloud incident",
+          "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002566/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Japan Times",
+          "title": "GMO asks Japanese government for assistance after data breach",
+          "url": "https://www.japantimes.co.jp/business/2026/10/24/gmo-cyber-defense-government-request/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/gmo-japan-active-cyber-defense.svg",
+        "alt": "Illustrazione editoriale simbolica, non fotografia: Giappone, GMO chiede l'intervento pubblico dopo il furto di credenziali per il trading",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/gmo-japan-active-cyber-defense.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "google-personal-intelligence-ads-clarification",
+      "rank": 2,
+      "category": "technology",
+      "title": "Google, nuove domande sulla privacy delle funzioni IA collegate a Gmail e Foto",
+      "dek": "Il testo della privacy policy decorre dal 16 ottobre: le analisi giornalistiche del 24 chiariscono le possibili conseguenze, senza documentare che le email siano vendute agli inserzionisti.",
+      "summary": "Il 24 ottobre più redazioni specializzate hanno esaminato una modifica della politica sulla privacy di Google, in vigore dal 16 ottobre. Il documento stabilisce che l'utente può autorizzare applicazioni come Search o Gemini ad accedere a informazioni provenienti da Gmail, Google Foto o Drive per personalizzare l'esperienza, inclusi eventualmente gli annunci. L'aggiornamento della policy quindi precede la finestra della rassegna: la notizia nuova consiste nell'analisi e nei chiarimenti diffusi durante il fine settimana, non nell'adozione della modifica.",
+      "body": [
+        "Il 24 ottobre più redazioni specializzate hanno esaminato una modifica della politica sulla privacy di Google, in vigore dal 16 ottobre. Il documento stabilisce che l'utente può autorizzare applicazioni come Search o Gemini ad accedere a informazioni provenienti da Gmail, Google Foto o Drive per personalizzare l'esperienza, inclusi eventualmente gli annunci. L'aggiornamento della policy quindi precede la finestra della rassegna: la notizia nuova consiste nell'analisi e nei chiarimenti diffusi durante il fine settimana, non nell'adozione della modifica.",
+        "Il punto rilevante è la combinazione tra la scelta di collegare servizi e l'utilizzo che il prodotto di destinazione può fare delle informazioni ricevute. Il vecchio testo della policy escludeva espressamente il ricorso ai contenuti di Gmail, Drive e Foto per la pubblicità personalizzata. La nuova formula mantiene il divieto salvo quando l'utente sceglie di rendere tali dati disponibili ad altri servizi che supportano la personalizzazione degli annunci. Il collegamento viene descritto da Google come facoltativo.",
+        "Google ha spiegato ad Ars Technica che la modifica non segnala un nuovo modo di condividere dati con i partner pubblicitari. Ha inoltre sostenuto che gli annunci non saranno basati direttamente sulla casella email o sulla libreria fotografica, anche quando le informazioni alimentano risposte personalizzate del sistema. Questo chiarimento va riportato accanto alla formulazione effettiva della policy, senza trasformare possibilità tecniche in un trattamento già dimostrato per ogni utente.",
+        "Per valutare gli effetti concreti occorrono esempi verificabili di funzionamento, controlli di consenso comprensibili e una definizione precisa del percorso dei dati tra servizi. Le redazioni hanno sollevato questioni legittime sulla trasparenza, ma non dimostrano accessi diretti degli inserzionisti ai messaggi privati. La scelta dell'utente e la distinzione tra personalizzazione dei risultati, personalizzazione degli annunci e vendita dei dati sono essenziali per non amplificare un timore oltre le prove."
+      ],
+      "impact": 2.5,
+      "impactReason": "La vicenda interessa utenti e sicurezza digitale, ma gli effetti effettivi restano circoscritti a casi o tecnologie documentati.",
+      "tags": [
+        "google",
+        "privacy",
+        "advertising"
+      ],
+      "facts": [
+        "La policy è entrata in vigore il 16 ottobre",
+        "I collegamenti fra servizi sono facoltativi",
+        "Google nega la condivisione diretta delle email con gli inserzionisti."
+      ],
+      "perspectives": [
+        "Le dichiarazioni dei produttori e dei ricercatori citati nell'articolo descrivono intenzioni e ricostruzioni tecniche, non necessariamente risultati verificati sul campo.",
+        "Le analisi delle redazioni indipendenti evidenziano sia l'utilità della novità sia i limiti delle prove disponibili."
+      ],
+      "unknowns": [
+        "Effetti concreti, portata geografica e audit indipendenti del consenso."
+      ],
+      "questions": [
+        {
+          "question": "È una scoperta fatta il 25 ottobre?",
+          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+        },
+        {
+          "question": "Cosa resta incerto?",
+          "answer": "Effetti concreti, portata geografica e audit indipendenti del consenso."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "role": "reporting",
+          "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+          "title": "Ars Technica report on google personal intelligence ads clarification",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "The Verge",
+          "role": "reporting",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "title": "The Verge report on google personal intelligence ads clarification",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "The Hacker News",
+          "role": "reporting",
+          "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+          "title": "The Hacker News report on google personal intelligence ads clarification",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Google - privacy policy",
+          "role": "official",
+          "url": "https://www.google.it/policies/privacy/",
+          "title": "Google - privacy policy report on google personal intelligence ads clarification",
+          "publishedAt": "2026-10-16"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/google-personal-intelligence-ads-clarification.svg",
+        "alt": "Illustrazione editoriale simbolica, non fotografia: Google, nuove domande sulla privacy delle funzioni IA collegate a Gmail e Foto",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/google-personal-intelligence-ads-clarification.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "block-dessa-voice-model-review",
+      "rank": 3,
+      "category": "technology",
+      "title": "Dessa di Block, le prime analisi del modello vocale che ascolta e parla insieme",
+      "dek": "Annunciata il 23 ottobre, la ricerca è stata esaminata da più redazioni il 24; prove su larga scala, pesi e benchmark pubblici non sono ancora disponibili.",
+      "summary": "Il laboratorio di Block, la società guidata da Jack Dorsey, ha presentato Dessa il 23 ottobre come un modello di intelligenza artificiale addestrato su conversazioni vocali e capace di parlare e ascoltare simultaneamente. Le analisi apparse il 24 ottobre su The Verge, TechCrunch e CoinDesk si concentrano sulla natura della dimostrazione e sui rischi di una voce artificiale molto realistica. La rassegna deve collocare correttamente l'annuncio nel giorno precedente e descrivere il 24 come giornata di valutazione pubblica.",
+      "body": [
+        "Il laboratorio di Block, la società guidata da Jack Dorsey, ha presentato Dessa il 23 ottobre come un modello di intelligenza artificiale addestrato su conversazioni vocali e capace di parlare e ascoltare simultaneamente. Le analisi apparse il 24 ottobre su The Verge, TechCrunch e CoinDesk si concentrano sulla natura della dimostrazione e sui rischi di una voce artificiale molto realistica. La rassegna deve collocare correttamente l'annuncio nel giorno precedente e descrivere il 24 come giornata di valutazione pubblica.",
+        "Secondo Block, il modello lavora direttamente con informazioni audio e può funzionare in locale su un MacBook Pro dotato di M4 Max o hardware superiore. Questa architettura 'full-duplex' consentirebbe interruzioni, pause e segnali d'ascolto simultanei invece della rigida alternanza tipica dei chatbot vocali. Le registrazioni mostrate dall'azienda forniscono esempi interessanti, ma non sono prove indipendenti della qualità del modello in ambienti reali.",
+        "I giornalisti hanno segnalato elementi convincenti nell'espressività insieme a errori, confusione e comportamenti strani in alcuni scambi registrati. Alcuni commentatori vedono potenzialità nell'accessibilità, nell'istruzione e in applicazioni locali; altri temono un aumento della credibilità delle frodi telefoniche e dell'impersonificazione. Le reazioni non sono misure statistiche dei rischi e non dimostrano che il modello sia già stato usato per truffe.",
+        "Block offre l'accesso iniziale a un gruppo ristretto di ricercatori sulla sicurezza. Non sono stati pubblicati nel materiale controllato pesi scaricabili, una valutazione esterna sistematica o dettagli sufficienti per riprodurre le affermazioni del produttore. Mancano anche una data di distribuzione generale e un quadro delle protezioni antiabuso. La notizia, pertanto, riguarda una dimostrazione di ricerca e il suo esame pubblico, non il lancio di un prodotto installabile da tutti."
+      ],
+      "impact": 1.5,
+      "impactReason": "La vicenda interessa utenti e sicurezza digitale, ma gli effetti effettivi restano circoscritti a casi o tecnologie documentati.",
+      "tags": [
+        "voice-ai",
+        "block",
+        "research"
+      ],
+      "facts": [
+        "Annuncio iniziale avvenuto il 23 ottobre",
+        "Nuove analisi pubblicate il 24 ottobre",
+        "Nessun pacchetto pubblico verificato."
+      ],
+      "perspectives": [
+        "Le dichiarazioni dei produttori e dei ricercatori citati nell'articolo descrivono intenzioni e ricostruzioni tecniche, non necessariamente risultati verificati sul campo.",
+        "Le analisi delle redazioni indipendenti evidenziano sia l'utilità della novità sia i limiti delle prove disponibili."
+      ],
+      "unknowns": [
+        "Misure riproducibili di prestazione, pesi del modello, accesso generale."
+      ],
+      "questions": [
+        {
+          "question": "È una scoperta fatta il 25 ottobre?",
+          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+        },
+        {
+          "question": "Cosa resta incerto?",
+          "answer": "Misure riproducibili di prestazione, pesi del modello, accesso generale."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "role": "reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+          "title": "The Verge report on block dessa voice model review",
+          "publishedAt": "2026-10-23"
+        },
+        {
+          "outlet": "TechCrunch",
+          "role": "reporting",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "title": "TechCrunch report on block dessa voice model review",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "CoinDesk",
+          "role": "reporting",
+          "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+          "title": "CoinDesk report on block dessa voice model review",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/block-dessa-voice-model-review.svg",
+        "alt": "Illustrazione editoriale simbolica, non fotografia: Dessa di Block, le prime analisi del modello vocale che ascolta e parla insieme",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/block-dessa-voice-model-review.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "asus-router-security-bulletins-followup",
+      "rank": 4,
+      "category": "technology",
+      "title": "Router ASUS, gli avvisi del 24 ottobre riprendono correzioni già rilasciate",
+      "dek": "Tre vulnerabilità nei firmware domestici sono state documentate dai bollettini precedenti; il 24 ottobre redazioni tecniche hanno pubblicato nuove guide agli aggiornamenti.",
+      "summary": "Durante il 24 ottobre diversi siti tecnologici hanno richiamato l'attenzione sui bollettini di sicurezza ASUS per router delle serie firmware 3.0.0.4 e 3.0.0.6. È importante distinguere la nuova copertura dei media dalle correzioni, diffuse dal produttore tra il 20 e il 23 ottobre. Non si tratta quindi di un attacco rilevato nella finestra delle 24 ore né di una patch sviluppata appositamente sabato, ma di informazioni operative ancora rilevanti per utenti e amministratori.",
+      "body": [
+        "Durante il 24 ottobre diversi siti tecnologici hanno richiamato l'attenzione sui bollettini di sicurezza ASUS per router delle serie firmware 3.0.0.4 e 3.0.0.6. È importante distinguere la nuova copertura dei media dalle correzioni, diffuse dal produttore tra il 20 e il 23 ottobre. Non si tratta quindi di un attacco rilevato nella finestra delle 24 ore né di una patch sviluppata appositamente sabato, ma di informazioni operative ancora rilevanti per utenti e amministratori.",
+        "Secondo gli avvisi e le analisi di OC3D, Notebookcheck e TuttoTech, alcune vulnerabilità permettono, in condizioni specifiche, a soggetti presenti su una rete adiacente di ottenere informazioni sul router, provocare interruzioni o superare un controllo di autenticazione per eseguire operazioni amministrative. Questa descrizione non equivale alla possibilità per chiunque, da qualunque paese, di compromettere automaticamente ogni dispositivo ASUS connesso a Internet.",
+        "Le vulnerabilità interessano determinate famiglie di firmware e non tutti i prodotti ASUS. Gli articoli del 24 ottobre illustrano l'importanza di controllare la versione installata rispetto all'avviso ufficiale, mantenere il firmware aggiornato e valutare il ricambio dei modelli non più supportati. Non è corretto indicare una versione universale di aggiornamento: la corrispondenza tra dispositivo, firmware e fix deve essere verificata sul portale del produttore.",
+        "Nelle fonti considerate non emerge una misura affidabile del numero di router esposti o una dimostrazione di sfruttamenti estesi per queste CVE. I punteggi di gravità stimano la pericolosità tecnica e non quantificano il danno reale già avvenuto. Poiché la sostanza delle correzioni risale a prima della finestra, la selezione finale di O deve valutare se la nuova pubblicazione del 24 costituisca un aggiornamento sufficiente, evitando di presentare come scoperta del giorno una vulnerabilità precedente."
+      ],
+      "impact": 1.5,
+      "impactReason": "La vicenda interessa utenti e sicurezza digitale, ma gli effetti effettivi restano circoscritti a casi o tecnologie documentati.",
+      "tags": [
+        "asus",
+        "router",
+        "security"
+      ],
+      "facts": [
+        "La copertura editoriale è del 24 ottobre",
+        "Gli avvisi e le patch risalgono ai giorni precedenti",
+        "Non tutti i router ASUS sono interessati."
+      ],
+      "perspectives": [
+        "Le dichiarazioni dei produttori e dei ricercatori citati nell'articolo descrivono intenzioni e ricostruzioni tecniche, non necessariamente risultati verificati sul campo.",
+        "Le analisi delle redazioni indipendenti evidenziano sia l'utilità della novità sia i limiti delle prove disponibili."
+      ],
+      "unknowns": [
+        "Numero di dispositivi ancora vulnerabili e aggiornamenti disponibili per i modelli specifici."
+      ],
+      "questions": [
+        {
+          "question": "È una scoperta fatta il 25 ottobre?",
+          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+        },
+        {
+          "question": "Cosa resta incerto?",
+          "answer": "Numero di dispositivi ancora vulnerabili e aggiornamenti disponibili per i modelli specifici."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "OC3D",
+          "role": "reporting",
+          "url": "https://overclock3d.net/news/misc/asus-issues-wifi-router-updates-to-address-severe-vulnerabilities/",
+          "title": "OC3D report on asus router security bulletins followup",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Notebookcheck",
+          "role": "reporting",
+          "url": "https://www.notebookcheck.net/Asus-rushes-out-router-firmware-update-to-fix-critical-vulnerabilities.1433020.0.html",
+          "title": "Notebookcheck report on asus router security bulletins followup",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "TuttoTech",
+          "role": "reporting",
+          "url": "https://www.tuttotech.net/news/2026/10/24/asus-router-aggiornamento-sicurezza-ottobre-2026.html",
+          "title": "TuttoTech report on asus router security bulletins followup",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "ASUS Security Advisory",
+          "role": "official",
+          "url": "https://www.asus.com/security-advisory",
+          "title": "ASUS Security Advisory report on asus router security bulletins followup",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/asus-router-security-bulletins-followup.svg",
+        "alt": "Illustrazione editoriale simbolica, non fotografia: Router ASUS, gli avvisi del 24 ottobre riprendono correzioni già rilasciate",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/asus-router-security-bulletins-followup.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "blackx-uefi-bootkit-secure-boot-analysis",
+      "rank": 5,
+      "category": "technology",
+      "title": "BlackX, l'analisi del 24 ottobre mostra il ruolo delle revoche Secure Boot manuali",
+      "dek": "La ricerca Kaspersky è del 22 ottobre e riguarda attacchi precedenti; il resoconto tecnico del 24 dettaglia perché una macchina aggiornata può restare esposta.",
+      "summary": "Un approfondimento pubblicato il 24 ottobre da BleepingComputer ha descritto il funzionamento di BlackX, un bootkit UEFI osservato in operazioni di spionaggio contro organizzazioni diplomatiche dell'Asia centrale. La scoperta e l'analisi originaria di Kaspersky erano state presentate il 21-22 ottobre e gli attacchi risalgono a mesi precedenti. Il fatto nuovo nel perimetro editoriale è quindi la spiegazione specialistica del 24, non la scoperta dell'attacco in quel giorno.",
+      "body": [
+        "Un approfondimento pubblicato il 24 ottobre da BleepingComputer ha descritto il funzionamento di BlackX, un bootkit UEFI osservato in operazioni di spionaggio contro organizzazioni diplomatiche dell'Asia centrale. La scoperta e l'analisi originaria di Kaspersky erano state presentate il 21-22 ottobre e gli attacchi risalgono a mesi precedenti. Il fatto nuovo nel perimetro editoriale è quindi la spiegazione specialistica del 24, non la scoperta dell'attacco in quel giorno.",
+        "BlackX prende di mira una fase dell'avvio del computer precedente al caricamento del sistema operativo, con lo scopo di mantenere la persistenza e ostacolare i controlli di sicurezza. I ricercatori lo collegano alla famiglia BlackLotus e allo sfruttamento della vulnerabilità Baton Drop, catalogata CVE-2022-21894. La somiglianza tecnica aiuta a ricostruire il metodo; l'attribuzione del gruppo responsabile ad APT41 è qualificata da Kaspersky con un livello di fiducia moderato.",
+        "Il rapporto sottolinea un limite della sola installazione degli aggiornamenti: per alcune difese Secure Boot la revoca di certificati associati a componenti vulnerabili richiede azioni aggiuntive che non sempre vengono applicate automaticamente. Questo può lasciare una superficie d'attacco su macchine che sembrano aggiornate. Non significa che le patch siano inutili o che sia sufficiente possedere BlackX per infettare ogni computer: gli attacchi analizzati richiedevano già un livello elevato di accesso alla macchina.",
+        "Le aziende dovrebbero consultare le istruzioni documentate di Microsoft e dei fornitori di sicurezza prima di intervenire sul processo di avvio, perché impostazioni errate possono impedire la partenza del sistema. Non sono stati pubblicati nell'articolo un censimento globale delle vittime o prove definitive sul mandante statale. Anche questa notizia rimane un candidato editoriale con riserva temporale, in quanto la pubblicazione primaria antecede la finestra di O."
+      ],
+      "impact": 2,
+      "impactReason": "La vicenda interessa utenti e sicurezza digitale, ma gli effetti effettivi restano circoscritti a casi o tecnologie documentati.",
+      "tags": [
+        "bootkit",
+        "secure-boot",
+        "espionage"
+      ],
+      "facts": [
+        "Analisi BleepingComputer del 24 ottobre",
+        "Rapporto originario Kaspersky del 22 ottobre",
+        "Attribuzione APT41 solo con fiducia moderata."
+      ],
+      "perspectives": [
+        "Le dichiarazioni dei produttori e dei ricercatori citati nell'articolo descrivono intenzioni e ricostruzioni tecniche, non necessariamente risultati verificati sul campo.",
+        "Le analisi delle redazioni indipendenti evidenziano sia l'utilità della novità sia i limiti delle prove disponibili."
+      ],
+      "unknowns": [
+        "Vittime accertate, perimetro delle compromissioni, identità degli operatori."
+      ],
+      "questions": [
+        {
+          "question": "È una scoperta fatta il 25 ottobre?",
+          "answer": "No: le date originali degli annunci, delle vulnerabilità o delle analisi sono indicate nel testo."
+        },
+        {
+          "question": "Cosa resta incerto?",
+          "answer": "Vittime accertate, perimetro delle compromissioni, identità degli operatori."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "BleepingComputer",
+          "role": "reporting",
+          "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+          "title": "BleepingComputer report on blackx uefi bootkit secure boot analysis",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Kaspersky Securelist",
+          "role": "official",
+          "url": "https://securelist.com/uefi-bootkit-blackx/121539/",
+          "title": "Kaspersky Securelist report on blackx uefi bootkit secure boot analysis",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "outlet": "Kaspersky - technical announcement",
+          "role": "official",
+          "url": "https://windows.kaspersky.com/about/press-releases/beneath-the-operating-system-kaspersky-discovers-blackx-bootkit-targeting-diplomatic-organizations-in-central-asia",
+          "title": "Kaspersky - technical announcement report on blackx uefi bootkit secure boot analysis",
+          "publishedAt": "2026-10-22"
+        },
+        {
+          "outlet": "The Hacker News",
+          "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+          "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/blackx-uefi-bootkit-secure-boot-analysis.svg",
+        "alt": "Illustrazione editoriale simbolica, non fotografia: BlackX, l'analisi del 24 ottobre mostra il ruolo delle revoche Secure Boot manuali",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/blackx-uefi-bootkit-secure-boot-analysis.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

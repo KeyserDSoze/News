@@ -1,0 +1,723 @@
+{
+  "date": "2026-10-25",
+  "language": "en",
+  "publishedAt": "2026-10-25T10:05:00Z",
+  "editorialNote": "Edition dated 25 October 2026. Public-interest selection including important developments from preceding days, accurately dated within articles rather than presented as occurring today. Sources distinguish verified reporting from attributed claims.",
+  "articles": [
+    {
+      "id": "france-education-protests-oct24",
+      "rank": 1,
+      "category": "politics",
+      "title": "France sees nationwide protests over schools and living costs, with more than 400,000 reported by government",
+      "dek": "The interior ministry counted 410,000 demonstrators and the CGT union nearly 800,000; clashes followed some marches, with authorities reporting almost 1,000 arrests.",
+      "summary": "Demonstrations across France on 24 October brought together students, teachers, unions and other residents. Turnout estimates differ sharply: 410,000 from the interior ministry and nearly 800,000 from the CGT. The Paris march began peacefully, but groups later threw objects at police, who used tear gas and water cannon. Officials reported almost 1,000 arrests, a provisional figure.",
+      "body": [
+        "Saturday's demonstrations reached numerous French cities after weeks of protests that began in high schools. The interior ministry counted 410,000 participants across 289 demonstrations, including 110,000 in Paris. The CGT union estimated nearly 800,000 nationwide. These are competing attributed estimates, not interchangeable measurements, and the available reporting does not establish a definitive headcount.",
+        "Students originally demanded more teachers, repairs to deteriorating school buildings and additional education funding. The movement subsequently broadened to living costs and the policing of earlier protests. Families, workers and trade unions joined the marches. The expansion has turned a dispute over school conditions into a wider national political challenge.",
+        "Most of the Paris march passed without major incidents. Near its conclusion, masked groups threw objects and fireworks towards police, who responded with tear gas, stun grenades and water cannon. Clashes were also reported in other cities. Interior minister Laurent Nuñez said almost 1,000 arrests had been made and warned that the total might rise; around 70,000 officers were deployed nationwide.",
+        "President Emmanuel Macron faces the unrest in the final months of his presidency ahead of the 2027 election. Right-wing critics accuse the government of failing to maintain public order, while left-wing figures and civil-rights groups question protest restrictions and police tactics. Those competing positions cannot establish whether each police intervention was proportionate. Independent examination of individual incidents, injuries and orders remains necessary."
+      ],
+      "impact": 3,
+      "impactReason": "extensive national mobilization with implications for political debate and protest rights, while institutional outcomes remain uncertain.",
+      "tags": [
+        "france",
+        "education",
+        "protests"
+      ],
+      "facts": [
+        "nationwide demonstrations took place on 24 October",
+        "the ministry estimated 410,000 participants, including 110,000 in Paris",
+        "authorities reported almost 1,000 arrests, provisionally."
+      ],
+      "perspectives": [
+        "CGT estimated nearly 800,000 demonstrators",
+        "Nuñez blamed some clashes on groups breaking away from marches",
+        "protesters and civil-rights advocates criticized restrictions and policing."
+      ],
+      "unknowns": [
+        "final arrest and injury totals",
+        "independently established sequence of individual clashes",
+        "concrete policy changes on school funding."
+      ],
+      "questions": [
+        {
+          "question": "Why are turnout figures different?",
+          "answer": "They are attributed estimates with methods not fully established by the reviewed reporting."
+        },
+        {
+          "question": "Were all demonstrations violent?",
+          "answer": "No; reports distinguish largely peaceful marches from localized clashes."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "title": "Hundreds of thousands march across france in protests over schools and policing",
+          "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Protests sweep across Europe from France to Albania, Italy, Spain and Portugal",
+          "url": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/france-education-protests-oct24.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): France sees nationwide protests over schools and living costs, with more than 400,000 reported by government",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/france-education-protests-oct24.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "brazil-runoff-final-rallies-oct24",
+      "rank": 2,
+      "category": "politics",
+      "title": "Brazil holds final campaign rallies before Lula–Flávio Bolsonaro presidential runoff",
+      "dek": "Large gatherings in Rio de Janeiro and São Paulo on 24 October precede a closely contested vote on 25 October.",
+      "summary": "On the eve of Brazil's presidential runoff, incumbent Luiz Inácio Lula da Silva appeared at public events in Copacabana and on São Paulo's Avenida Paulista. Flávio Bolsonaro's supporters also rallied. Reporting describes a closely fought election, while independently verified attendance totals for the events remain unavailable.",
+      "body": [
+        "On 24 October, the last campaigning day before the runoff, large crowds of Lula supporters gathered at Copacabana beach in Rio de Janeiro. The president later attended a rally on Avenida Paulista in São Paulo, alongside political allies and his wife Janja. Independent outlets documented both events, but the sources reviewed do not provide a single independently established attendance count.",
+        "The 25 October runoff pits Lula against Flávio Bolsonaro, who led the first round on 4 October. The Guardian reports that Bolsonaro received approximately 47% of the first-round vote, compared with Lula's 45%. Both campaigns are seeking to mobilize previous non-voters, undecided citizens and supporters of eliminated candidates. Turnout may matter greatly, but the result was not known within the reporting window.",
+        "At the rallies, Lula portrayed the contest as a choice about Brazil's democratic and social future and made harsh accusations against his opponent. Those comments are campaign claims attributable to Lula, not independently established findings about the people named. Bolsonaro supporters, who also gathered in Belo Horizonte, emphasized public security and a different political direction. Polarization is visible in both policy priorities and rhetoric.",
+        "Reports describe very large crowds, but estimates in some coverage should not be treated as certified counts without a transparent methodology. Polls would also require separate scrutiny of sponsors, sample sizes, fieldwork and margins of error before being used to assess likely outcomes. The verified development for this edition is the final day of public campaigning, not a future election result."
+      ],
+      "impact": 3,
+      "impactReason": "a presidential choice in a major country with regional and diplomatic implications, without anticipating its outcome.",
+      "tags": [
+        "brazil",
+        "runoff",
+        "elections"
+      ],
+      "facts": [
+        "Lula attended public events in Rio and São Paulo on 24 October",
+        "the runoff was scheduled for 25 October",
+        "the first round took place on 4 October."
+      ],
+      "perspectives": [
+        "Lula frames the vote as a choice about democracy and attacks his opponent",
+        "Bolsonaro supporters emphasize security and political change",
+        "these are partisan positions."
+      ],
+      "unknowns": [
+        "certified rally attendance",
+        "turnout on 25 October",
+        "runoff result",
+        "comparability of individual opinion polls."
+      ],
+      "questions": [
+        {
+          "question": "Who won the runoff?",
+          "answer": "That outcome falls outside the covered period."
+        },
+        {
+          "question": "Is the million-person attendance figure official?",
+          "answer": "It has not been independently verified for this draft."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "title": "Lula da silva supporters rally eve brazil election runoff bolsonaro",
+          "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UOL Notícias",
+          "title": "Lula avenida paulista.ghtm",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/10/24/lula-avenida-paulista.ghtm",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Em ato no rio lula diz que flavio e adversario de mais baixo nivel e volta a citar morte de menina.shtml",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/em-ato-no-rio-lula-diz-que-flavio-e-adversario-de-mais-baixo-nivel-e-volta-a-citar-morte-de-menina.shtml",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/brazil-runoff-final-rallies-oct24.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Brazil holds final campaign rallies before Lula–Flávio Bolsonaro presidential runoff",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/brazil-runoff-final-rallies-oct24.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "brazil-presidential-runoff"
+        }
+      ]
+    },
+    {
+      "id": "jordan-karak-church-attack-toll-oct24",
+      "rank": 3,
+      "category": "world",
+      "title": "Jordan church attack death toll rises to nine in Karak",
+      "dek": "Reuters and AP update the toll from the 23 October shooting; the king orders a stronger security response while the motive remains unknown.",
+      "summary": "On 24 October, Reuters and Associated Press reported nine deaths following the previous day's attack during a funeral at a Greek Orthodox church in Jordan's Karak region. Around forty people were injured. King Abdullah II promised a firm response; no group had claimed responsibility in the reviewed reports.",
+      "body": [
+        "The attack took place on Friday 23 October during a funeral at a Greek Orthodox church in Jordan's Karak region. Initial reports counted seven deaths; Reuters and Associated Press reports published on Saturday raised the toll to nine, with around forty injured. This is an update to the same incident already covered by O on 24 October, not a second attack, and the archive should link the two reports accordingly.",
+        "Witness accounts gathered by the agencies describe armed men firing on people attending the funeral. An AP interviewee said he survived by sheltering behind a car, while a priest speaking to Reuters described panic among those present. These are attributed eyewitness accounts. A complete reconstruction of the attackers' number, movements and individual responsibilities still requires investigation and corroboration.",
+        "King Abdullah II condemned the shooting and directed security forces to respond firmly. Reuters reported heightened security at public locations and diplomatic premises after the attack. Jordanian authorities described the shooting as terrorism, but the reviewed sources reported neither a claim of responsibility nor confirmation that the gunmen were linked to an established organization.",
+        "Karak has a Christian minority, and the shooting targeted people attending a religious ceremony rather than participating in fighting. Its human consequences are documented, but the evidence does not justify assuming a religious motive, an international network or regional escalation. The next verifiable developments would concern arrests, accountability, medical outcomes and measures protecting the local community."
+      ],
+      "impact": 2,
+      "impactReason": "severe consequences for victims and the local community, without established systemic international effects.",
+      "tags": [
+        "jordan",
+        "karak",
+        "security"
+      ],
+      "facts": [
+        "the attack occurred on 23 October",
+        "Reuters and AP reported nine deaths and approximately forty injured on 24 October",
+        "King Abdullah II called for a security response."
+      ],
+      "perspectives": [
+        "Jordanian authorities describe the attack as terrorism",
+        "witnesses and a priest recount the shooting and panic",
+        "their statements do not independently establish motive."
+      ],
+      "unknowns": [
+        "attackers' identities and definitive number",
+        "motive and organizational ties",
+        "arrests and final injury toll."
+      ],
+      "questions": [
+        {
+          "question": "Was this a new attack?",
+          "answer": "No, it is an updated toll from 23 October."
+        },
+        {
+          "question": "Has responsibility been established?",
+          "answer": "Not in the sources reviewed."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Us embassy says security ramped up jordan after deadly church attack 2026 10 24",
+          "url": "https://www.reuters.com/business/media-telecom/us-embassy-says-security-ramped-up-jordan-after-deadly-church-attack-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives",
+          "url": "https://apnews.com/article/09d5d10a173e7c4fa87209f73c465b5d",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/jordan-karak-church-attack-toll-oct24.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Jordan church attack death toll rises to nine in Karak",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/jordan-karak-church-attack-toll-oct24.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "karak-jordan-church-attack"
+        }
+      ]
+    },
+    {
+      "id": "us-iran-intelligence-warning-oct24",
+      "rank": 4,
+      "category": "politics",
+      "title": "US intelligence warns of alleged Iranian plots targeting American personnel abroad",
+      "dek": "An October 23 memo reported during the review window alleges advanced threats; specific targets have not been disclosed.",
+      "summary": "Washington has warned of alleged threats against US personnel in the Middle East and other countries. The memo is dated 23 October and emerged in multiple newsrooms on the 24th. Officials have not released details permitting independent verification of the alleged plots.",
+      "body": [
+        "On 24 October, several newsrooms reported on an unclassified memo dated the previous day from US Director of National Intelligence Jay Clayton to Secretary of State Marco Rubio. According to the document, American agencies had received information on Iranian preparations to target US citizens and officials in the Middle East and elsewhere. The date of the memo and the date of its public reporting are distinct.",
+        "The document describes plots said to have reached advanced stages, but names no targets, third countries or imminent operations. That distinction matters: the existence and contents of the reported memo are documented, whereas the underlying intelligence about particular plots cannot be independently tested from published accounts. Its wording does not establish that an attack has been ordered or carried out.",
+        "The warning comes as Washington reduces its diplomatic footprint at several Middle Eastern missions, citing concerns about Houthi attacks and alleged Iranian threats. Measures include ordered departures of relatives and nonessential staff from certain posts and restricted operating arrangements elsewhere. Those changes should not be conflated with the closure or complete evacuation of every embassy.",
+        "The US warning forms part of a wider regional confrontation following months of conflict. Iranian authorities have not confirmed the plans attributed to them. A stronger independent assessment would require more specific evidence, the responses of the parties involved and later security or judicial findings. This edition does not anticipate any such outcome."
+      ],
+      "impact": 3,
+      "impactReason": "Diplomatic security and regional escalation matter greatly, but alleged future attacks remain attributed claims.",
+      "tags": [
+        "iran",
+        "diplomacy",
+        "intelligence"
+      ],
+      "facts": [
+        "The memo is dated 23 October and was independently reported on 24 October.",
+        "As reported, the document provides no list of specific targets."
+      ],
+      "perspectives": [
+        "Jay Clayton alleges Iranian plans have reached advanced stages.",
+        "US officials link staffing reductions to regional threats."
+      ],
+      "unknowns": [
+        "Underlying intelligence is not public and cannot be independently verified.",
+        "No independent confirmation of imminent attacks."
+      ],
+      "questions": [
+        {
+          "question": "Does the memo prove Iran will carry out an attack?",
+          "answer": "No: it documents a US assessment, not independent verification of an operational plot."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Axios",
+          "title": "Iran war us embassies evacuations threat",
+          "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "Iran advanced stages plots kill us officials abroad memo warns",
+          "url": "https://www.washingtonpost.com/world/2026/10/24/iran-advanced-stages-plots-kill-us-officials-abroad-memo-warns/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Iran has ramped up efforts target us personnel intelligence memo warns 2026 10 24",
+          "url": "https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/us-iran-intelligence-warning-oct24.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): US intelligence warns of alleged Iranian plots targeting American personnel abroad",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/us-iran-intelligence-warning-oct24.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "albania-tirana-student-protests-oct24",
+      "rank": 5,
+      "category": "politics",
+      "title": "Tirana protests turn violent as Albanian students and opposition mobilize",
+      "dek": "Police use water cannon and tear gas after stones are thrown; protesters and government give competing accounts of the unrest.",
+      "summary": "Students and opposition supporters protested against Rama’s government in Tirana. Reuters and Euronews document clashes and the deployment of riot police. A final arrest and injury count specific to 24 October has not been established.",
+      "body": [
+        "On Saturday 24 October, demonstrations supported by students and opposition groups took place in Tirana against Prime Minister Edi Rama’s government. A gathering outside the prime minister’s office and a separate rally near the education ministry brought together people with overlapping but different concerns. Students and educators criticized education costs and standards, while other demonstrators demanded broader political change.",
+        "Some protesters threw stones and set objects alight; riot police responded with tear gas and water cannon. Reuters also reported the use of rubber bullets. It is essential to distinguish separate marches, participants and stages of the confrontations rather than treating every person attending as responsible for violent acts.",
+        "The mobilization follows weeks of protests over perceived corruption, unemployment and the condition of public services. Opponents accuse Rama’s administration, in office since 2013, of ignoring public concerns. The prime minister acknowledged substantial discontent and promised a response, while stressing that violent actions would face enforcement.",
+        "Reports mention large security deployments and arrests, but some cumulative totals cover earlier unrest as well. This article therefore assigns no definitive injury or detention figure solely to 24 October without a clearly dated breakdown. Both the proposed government response and independent investigations of alleged abuses remain unresolved."
+      ],
+      "impact": 2.5,
+      "impactReason": "A sustained social and political confrontation raises serious concerns, although no institutional outcome is established.",
+      "tags": [
+        "albania",
+        "students",
+        "protests"
+      ],
+      "facts": [
+        "Separate student and opposition rallies took place on 24 October.",
+        "Reuters and Euronews documented clashes and police use of water cannon."
+      ],
+      "perspectives": [
+        "Protesters allege corruption and insufficient education spending.",
+        "Rama acknowledges discontent while condemning violence."
+      ],
+      "unknowns": [
+        "Injury and arrest counts attributable solely to 24 October.",
+        "Details of any reforms and accountability for confrontations."
+      ],
+      "questions": [
+        {
+          "question": "Did all demonstrators participate in clashes?",
+          "answer": "No, reporting distinguishes different rallies and groups involved."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Albanian police fire tear gas anti government student protests turn violent 2026 10 24",
+          "url": "https://www.reuters.com/world/albanian-police-fire-tear-gas-anti-government-student-protests-turn-violent-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Tensions rise in albania as protesters burn symbolic pillows outside prime ministers offic",
+          "url": "https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Link all'articolo della testata",
+          "url": "https://apnews.com/article/b41b5adf5a749440abb88693059eeced",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/albania-tirana-student-protests-oct24.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Tirana protests turn violent as Albanian students and opposition mobilize",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/albania-tirana-student-protests-oct24.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "kim-dandong-bridge-china-visit",
+      "rank": 6,
+      "category": "politics",
+      "title": "Kim Jong Un visits China via newly opened Yalu River bridge",
+      "dek": "Multiple reports confirm a trip to Dandong, highlighting diplomatic and commercial ties between Beijing and Pyongyang.",
+      "summary": "Kim Jong Un visited the Chinese border city of Dandong via the new Yalu River crossing. The visit reflects closer bilateral ties but is not itself proof of a trade agreement or a breakthrough in security negotiations.",
+      "body": [
+        "North Korean leader Kim Jong Un visited Dandong, a Chinese border city, on 24 October. Initial reports relied on South Korean government sources cited by Yonhap; subsequent coverage described confirmation from Chinese and North Korean official channels. Kim used the newly opened bridge across the Yalu River, an infrastructure project that had waited years to become fully operational.",
+        "The visit included a memorial to Chinese participation in the Korean War and meetings with Chinese representatives. Reports named senior Communist Party official Wang Huning and emphasized the historical ties between the two countries. As this was a developing story, details of accompanying officials and meetings in early accounts require comparison with subsequent official statements.",
+        "Dandong is a crucial trade gateway for North Korea. The newly opened bridge may make it easier to move goods and raw materials, but the size of future trade flows has not been measured. The visit alone cannot establish an easing of international sanctions or the value of any prospective commercial agreements.",
+        "The trip comes as North Korea maintains close relationships with China and Russia while Washington considers the prospects for renewed engagement. A symbolic border visit has diplomatic meaning, but it is not itself evidence of a completed nuclear negotiation or strategic breakthrough. Concrete commitments and follow-up activity remain to be established."
+      ],
+      "impact": 2.5,
+      "impactReason": "Closer ties between strategic neighbours matter, but measurable economic outcomes are still uncertain.",
+      "tags": [
+        "north-korea",
+        "china",
+        "diplomacy"
+      ],
+      "facts": [
+        "Kim reached Dandong on 24 October via the new Yalu crossing.",
+        "Reuters and the Guardian covered the trip based on South Korean sources and later updates."
+      ],
+      "perspectives": [
+        "Chinese and North Korean sources emphasize Korean War remembrance.",
+        "Observers associate the bridge with expanded trade opportunities."
+      ],
+      "unknowns": [
+        "The content of any trade agreements.",
+        "Actual effects on cross-border flows and diplomatic negotiations."
+      ],
+      "questions": [
+        {
+          "question": "Was a new agreement signed?",
+          "answer": "No specific signed agreement was established by the sources reviewed for this draft."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "North koreas kim jong un arrives dandong china yonhap says 2026 10 24",
+          "url": "https://www.reuters.com/world/china/north-koreas-kim-jong-un-arrives-dandong-china-yonhap-says-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Kim jong un crosses newly opened bridge into china",
+          "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters (aggiornamento 25/10)",
+          "title": "North koreas kim jong un returns china after war memorial visit state media says 2026 10 24",
+          "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-jong-un-returns-china-after-war-memorial-visit-state-media-says-2026-10-24/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Yonhap",
+          "title": "Kim Jong-un visits Dandong in China",
+          "url": "https://en.yna.co.kr/view/AEN20261024001956320?section=nk%2Fnk",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/kim-dandong-bridge-china-visit.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Kim Jong Un visits China via newly opened Yalu River bridge",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/kim-dandong-bridge-china-visit.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "portugal-housing-march-lisbon-camp",
+      "rank": 7,
+      "category": "society",
+      "title": "Lisbon housing march followed by overnight clearance of protest camp",
+      "dek": "Protesters rally over housing affordability on 24 October; Reuters reports police action in the early hours of the 25th.",
+      "summary": "Lisbon’s 24 October housing march was followed by a tent camp at Rossio Square. Police removed the camp early on the 25th; reliable final counts for arrests and injuries were not yet available.",
+      "body": [
+        "On Saturday 24 October, demonstrations for affordable housing took place in Lisbon and other Portuguese cities. Participants challenged rising home prices and rents and called for stronger tenant protections. Euronews and Associated Press reporting documents these gatherings, which addressed different grievances from the simultaneous demonstrations elsewhere in Europe.",
+        "After the march, some activists pitched tents in central Lisbon’s Rossio Square. Shortly after 2 a.m. on 25 October, Reuters reported that police moved in to remove the camp. The account describes police charges, several arrests and minor injuries, without a consolidated count. The operation belongs to the specified 24-hour window despite bearing the date of the 25th.",
+        "Property values and rents in Portugal have risen substantially in recent years, while wages and purchasing power have not kept pace for many young people and workers. Demonstrators accuse successive governments and property interests of neglecting the right to housing. Long-term figures in the news reports describe a trend, but do not by themselves demonstrate the cause of each local price increase.",
+        "Authorities may cite public-space rules, but those grounds cannot alone settle whether every police action was proportionate. Protesters’ demands and police operational explanations need separate examination. Final arrest figures, any charges and the government’s response to housing demands remain open questions."
+      ],
+      "impact": 2,
+      "impactReason": "A significant affordability issue with tangible social effects, although no definitive policy change is established.",
+      "tags": [
+        "portugal",
+        "housing",
+        "rents"
+      ],
+      "facts": [
+        "Housing protests took place on 24 October.",
+        "The Rossio tent clearance was reported early on 25 October."
+      ],
+      "perspectives": [
+        "Protesters demand affordable homes and stronger safeguards.",
+        "Police told people to remove tents before intervening, according to Reuters."
+      ],
+      "unknowns": [
+        "Final detention and injury counts.",
+        "Grounds for and legality of individual police actions."
+      ],
+      "questions": [
+        {
+          "question": "Did the police clearance fall outside the window?",
+          "answer": "No: it occurred early on 25 October, before 07:00 CET."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Portuguese police clear lisbon housing protest camp make arrests 2026 10 25",
+          "url": "https://www.reuters.com/world/europe/portuguese-police-clear-lisbon-housing-protest-camp-make-arrests-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Protests sweep across europe from france to albania italy spain and portugal",
+          "url": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Link all'articolo della testata",
+          "url": "https://apnews.com/article/c1a8585cb4884f219541611b199e9ade",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/portugal-housing-march-lisbon-camp.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Lisbon housing march followed by overnight clearance of protest camp",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/portugal-housing-march-lisbon-camp.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "tolyatti-industrial-drone-attack",
+      "rank": 8,
+      "category": "world",
+      "title": "Drone attack damages industrial sites in Tolyatti; Kyiv claims petrochemical strike",
+      "dek": "Russian authorities confirm unspecified damage; Ukraine’s military names a synthetic rubber plant.",
+      "summary": "Russian officials report industrial damage in Tolyatti after a drone attack. Kyiv claims to have struck a petrochemical facility, but neither the precise target nor any effect on production has been independently established.",
+      "body": [
+        "Industrial facilities in the Russian city of Tolyatti were damaged during a drone attack on Saturday 24 October, according to mayor Ilya Sukhikh. Local authorities did not identify every affected site and reported no deaths or injuries in their preliminary assessment. The incident falls within the edition’s review period.",
+        "Ukraine’s General Staff said it had struck the Tolyattikauchuk facility, an important producer of synthetic rubber. Kyiv links that plant to industrial supply chains also used by the Russian military. Reuters and the Kyiv Independent reported the claim, but their coverage does not independently establish the precise point of impact or the full extent of damage.",
+        "Images of smoke and fires circulated by local channels suggest explosions in the industrial area, but geolocating those images to particular facilities remains difficult. The Kyiv Independent explicitly stated that it could not independently verify some military claims. A production shutdown or measurable reduction in output has not been established by the sources reviewed.",
+        "The attack is part of the continuing conflict over industrial and logistical infrastructure in Russia and Ukraine. Separate attacks were also reported in Oryol and near Yeysk airfield, but they are not merged into this article because the sites and casualty accounts are different. A full assessment requires independent checks of damage, injuries and factory operations."
+      ],
+      "impact": 2.5,
+      "impactReason": "Possible wartime industrial supply-chain effects, but their actual scale remains uncertain.",
+      "tags": [
+        "ukraine",
+        "russia",
+        "drones"
+      ],
+      "facts": [
+        "The Russian mayor confirmed damage to industrial facilities.",
+        "Ukraine’s General Staff claimed to have targeted Tolyattikauchuk."
+      ],
+      "perspectives": [
+        "Kyiv describes the plant as relevant to military supply chains.",
+        "Local officials have not identified every damaged site."
+      ],
+      "unknowns": [
+        "Verified plant-specific damage and production effects.",
+        "Independent evidence of the military outcome."
+      ],
+      "questions": [
+        {
+          "question": "Does Kyiv’s claim prove the target was hit?",
+          "answer": "No: the mayor confirms industrial damage without identifying all sites."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Russia says drone attack damages togliatti facilities ukraine says petrochemical 2026 10 24",
+          "url": "https://www.reuters.com/business/aerospace-defense/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Kyiv Independent",
+          "title": "Ukraine strikes factory in russias tolyatti airfield in krasnodar krai general staff says",
+          "url": "https://kyivindependent.com/ukraine-strikes-factory-in-russias-tolyatti-airfield-in-krasnodar-krai-general-staff-says/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/tolyatti-industrial-drone-attack.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Drone attack damages industrial sites in Tolyatti; Kyiv claims petrochemical strike",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/tolyatti-industrial-drone-attack.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "spain-madrid-pension-demonstration",
+      "rank": 9,
+      "category": "society",
+      "title": "Madrid pension march calls for stronger income and public pension protections",
+      "dek": "Thousands march on 24 October seeking inflation-linked payments, higher minimum pensions and reduced inequalities.",
+      "summary": "Thousands of pensioners and supporters marched in Madrid for inflation-linked benefits, stronger minimum pensions and reduced gender gaps. No new law arising from the demonstration was established within the window.",
+      "body": [
+        "On 24 October, pensioners and supporters marched through Madrid to demand stronger protections within Spain’s retirement system. Euronews reported the march from the Atocha station area, while Associated Press provided documentary photography. Reports describe thousands of participants but do not establish a certified attendance count.",
+        "Participating organizations want pensions to rise with actual inflation, minimum benefits to support a decent standard of living and action to narrow the pension gap between women and men. Their demands also include protecting public pensions against privatization and reducing penalties for some forms of early retirement.",
+        "The demonstration belongs to a broader debate about living costs and the future value of retirement benefits. The unions’ and movements’ demands are policy positions, not measures already adopted by public institutions. Parallel demonstrations elsewhere in Europe do not in themselves prove common coordination among the movements.",
+        "Assessing the economic consequences would require projections for the number of beneficiaries, public expenditure and funding sources. The reviewed reporting establishes no agreement with the government and no law adopted during the covered hours. The political outcome is therefore open, even though the protest itself is well documented."
+      ],
+      "impact": 1.5,
+      "impactReason": "Relevant to older people’s incomes, but no enacted policy effects are established.",
+      "tags": [
+        "spain",
+        "pensions",
+        "protests"
+      ],
+      "facts": [
+        "The march took place in Madrid on 24 October.",
+        "Demonstrators seek inflation adjustments and public pension protections."
+      ],
+      "perspectives": [
+        "Unions criticize gaps in retirement income.",
+        "The movement calls for defending the public pension system."
+      ],
+      "unknowns": [
+        "A verified participation count.",
+        "Costs and legislative prospects of the demands."
+      ],
+      "questions": [
+        {
+          "question": "Have the demands become law?",
+          "answer": "No: the documented development is the protest, not adoption of its proposals."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "title": "Madrid joins weekend of protests across europe as thousands rally for better pensions",
+          "url": "https://www.euronews.com/2026/10/24/madrid-joins-weekend-of-protests-across-europe-as-thousands-rally-for-better-pensions",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Link all'articolo della testata",
+          "url": "https://apnews.com/article/c1a8585cb4884f219541611b199e9ade",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/spain-madrid-pension-demonstration.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Madrid pension march calls for stronger income and public pension protections",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/spain-madrid-pension-demonstration.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "nairobi-eastleigh-rescue-update",
+      "rank": 10,
+      "category": "society",
+      "title": "Nairobi rescuers search collapsed building as missing-person reports are checked",
+      "dek": "The collapse occurred on 23 October, but 24 October brought rescue updates and new reports to the Red Cross.",
+      "summary": "Rescue teams continued searching a collapsed construction site in Nairobi’s Eastleigh district on 24 October. The Kenya Red Cross received 31 missing-person reports, but those reports do not establish how many people remain trapped.",
+      "body": [
+        "Search and rescue operations continued on Saturday 24 October at a collapsed building under construction in Nairobi’s Eastleigh district. The structure had fallen the previous day. The new development for this edition is the continued search and the rescue of a man pulled alive from the debris and taken to hospital, as reported by Associated Press.",
+        "The number of people missing remains difficult to establish. The Kenya Red Cross received 31 missing-person reports, but its staff explained that some people initially listed as missing may already have returned home. That figure represents reports undergoing verification, not a confirmed number of people trapped underneath the wreckage.",
+        "Teams deployed search dogs, thermal equipment and heavy machinery. Multiple emergency agencies operated at the scene as neighboring shops temporarily suspended business. Local newsrooms gathered accounts about the difficulty of confirming who was actually inside the construction site when the building collapsed.",
+        "The disaster raises questions about construction safety and inspection in the Kenyan capital, but the reviewed sources establish no definitive technical cause. A reliable account of responsibility will require a full list of people involved and investigations by engineers and authorities. This article does not anticipate a final casualty toll or findings of fault."
+      ],
+      "impact": 2,
+      "impactReason": "A serious urban emergency raises building-safety concerns, with major uncertainty over who remains missing.",
+      "tags": [
+        "kenya",
+        "nairobi",
+        "rescue"
+      ],
+      "facts": [
+        "The collapse occurred on 23 October and searches continued on the 24th.",
+        "The Red Cross received 31 reports that had not all been verified."
+      ],
+      "perspectives": [
+        "Rescuers stress the need to check missing-person reports.",
+        "Local business owners and residents seek better building safety."
+      ],
+      "unknowns": [
+        "How many people actually remain buried.",
+        "Structural cause and responsibility."
+      ],
+      "questions": [
+        {
+          "question": "Are all 31 reported missing people trapped?",
+          "answer": "No: the Red Cross is still checking the reports."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Link all'articolo della testata",
+          "url": "https://apnews.com/article/acdba9d2a215da372a28086979f6f6d5",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Eastleigh Voice",
+          "title": "31 reported missing after eastleigh building collapse red cross",
+          "url": "https://eastleighvoice.co.ke/eastleigh/415736/31-reported-missing-after-eastleigh-building-collapse-red-cross",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Citizen Digital",
+          "title": "Photos rescue operations continue at eastleigh building collapse site n392646",
+          "url": "https://citizen.digital/article/photos-rescue-operations-continue-at-eastleigh-building-collapse-site-n392646",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/nairobi-eastleigh-rescue-update.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Nairobi rescuers search collapsed building as missing-person reports are checked",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/nairobi-eastleigh-rescue-update.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

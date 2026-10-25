@@ -1,0 +1,407 @@
+{
+  "date": "2026-10-25",
+  "language": "it",
+  "section": "science",
+  "publishedAt": "2026-10-25T10:05:00Z",
+  "editorialNote": "Edizione Scienza del 25 ottobre: include nuovi risultati scientifici e scoperte degli ultimi giorni con date esplicite. Quattro ricerche oncologiche e una notizia di virologia: le prove sono distinte dalle ipotesi cliniche.",
+  "articles": [
+    {
+      "id": "dellphi305-sclc-tarlatamab-durvalumab",
+      "rank": 1,
+      "category": "society",
+      "title": "Tumore polmonare a piccole cellule, studio di fase III prolunga la sopravvivenza",
+      "dek": "Al congresso ESMO presentato DeLLphi-305: mediana di sopravvivenza 21,1 mesi contro 12,7 con la sola terapia di confronto, in pazienti selezionati.",
+      "summary": "Il 24 ottobre, al congresso europeo ESMO di Madrid, sono stati presentati i dati completi dello studio randomizzato di fase III DeLLphi-305, pubblicati contestualmente sul New England Journal of Medicine. I ricercatori hanno arruolato 563 persone con tumore polmonare a piccole cellule in stadio esteso, la cui malattia non era progredita dopo il trattamento iniziale con chemioterapia e durvalumab. La combinazione di tarlatamab e durvalumab come terapia di mantenimento è stata confrontata con durvalumab da solo.",
+      "body": [
+        "Il 24 ottobre, al congresso europeo ESMO di Madrid, sono stati presentati i dati completi dello studio randomizzato di fase III DeLLphi-305, pubblicati contestualmente sul New England Journal of Medicine. I ricercatori hanno arruolato 563 persone con tumore polmonare a piccole cellule in stadio esteso, la cui malattia non era progredita dopo il trattamento iniziale con chemioterapia e durvalumab. La combinazione di tarlatamab e durvalumab come terapia di mantenimento è stata confrontata con durvalumab da solo.",
+        "L'analisi programmata mostra una sopravvivenza globale mediana di 21,1 mesi nel gruppo combinato e 12,7 mesi nel gruppo di controllo, con hazard ratio di 0,42. Il valore corrisponde a una riduzione relativa stimata del rischio di morte nell'intervallo osservato, non a una garanzia individuale di otto mesi di vita in più. A dodici mesi era vivo circa il 79% dei pazienti trattati con entrambi i farmaci contro il 53% del gruppo durvalumab. La sopravvivenza libera da progressione era 7,4 contro 1,9 mesi.",
+        "Il farmaco sperimentato è un anticorpo bispecifico che avvicina i linfociti T alle cellule tumorali. L'efficacia deve essere letta insieme alla sicurezza: eventi avversi di grado almeno 3 attribuiti al trattamento sono stati segnalati nel 20,9% dei pazienti trattati con la combinazione contro il 10,8% dei controlli. La sindrome da rilascio di citochine è comparsa in circa metà dei pazienti del braccio sperimentale, perlopiù in forma non grave, richiedendo comunque strutture capaci di riconoscerla e gestirla.",
+        "Il risultato riguarda una popolazione selezionata già stabilizzata dopo terapia iniziale e non può essere esteso automaticamente a tutti i tumori del polmone o a tutte le fasi della malattia. Il follow-up continua, e anche costi, disponibilità e requisiti di somministrazione incideranno sull'eventuale impiego. Le dichiarazioni delle aziende e degli sperimentatori esprimono fiducia in un nuovo standard terapeutico; l'effettiva adozione richiede valutazione regolatoria, linee guida e un esame indipendente delle prove."
+      ],
+      "impact": 3,
+      "tags": [
+        "lung-cancer",
+        "phase-3",
+        "immunotherapy"
+      ],
+      "impactReason": "Studio clinico randomizzato di rilevanza per pazienti selezionati, con limiti di durata e sicurezza da valutare.",
+      "facts": [
+        "563 persone randomizzate",
+        "Sopravvivenza mediana 21,1 contro 12,7 mesi",
+        "Eventi gravi correlati 20,9% contro 10,8%."
+      ],
+      "perspectives": [
+        "I ricercatori illustrano benefici misurati nel campione selezionato; non equivalgono a un effetto assicurato in ogni persona.",
+        "Le aziende e le istituzioni citate nelle fonti esprimono aspettative terapeutiche che richiedono verifica regolatoria e ulteriore osservazione."
+      ],
+      "unknowns": [
+        "Efficacia e sicurezza sul lungo periodo, disponibilità e costi."
+      ],
+      "questions": [
+        {
+          "question": "I risultati dimostrano una guarigione universale?",
+          "answer": "No. Riguardano risultati in pazienti selezionati e indicatori definiti dal protocollo."
+        },
+        {
+          "question": "La terapia è automaticamente approvata?",
+          "answer": "No: il congresso scientifico e la valutazione normativa sono passaggi separati."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "role": "reporting",
+          "url": "https://www.reuters.com/legal/litigation/amgen-drug-combined-with-immunotherapy-extends-survival-lung-cancer-trial-2026-10-24/",
+          "title": "Reuters report: dellphi305 sclc tarlatamab durvalumab",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "OncLive",
+          "role": "reporting",
+          "url": "https://www.onclive.com/view/dellphi-305-data-support-frontline-maintenance-tarlatamab-plus-durvalumab-as-a-new-soc-in-es-sclc",
+          "title": "OncLive report: dellphi305 sclc tarlatamab durvalumab",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Dana-Farber Cancer Institute",
+          "role": "official",
+          "url": "https://www.dana-farber.org/newsroom/news-releases/2026/immunotherapy-combo-extends-survival-for-patients-with-aggressive-small-cell-lung-cancer-based-on-trial-results-presented-by-dana-farber-at-esmo-congress-2026",
+          "title": "Dana-Farber Cancer Institute report: dellphi305 sclc tarlatamab durvalumab",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/dellphi305-sclc-tarlatamab-durvalumab.svg",
+        "alt": "Illustrazione editoriale originale, non una fotografia: Tumore polmonare a piccole cellule, studio di fase III prolunga la sopravvivenza",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/dellphi305-sclc-tarlatamab-durvalumab.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "volga-mibc-durvalumab-enfortumab",
+      "rank": 2,
+      "category": "society",
+      "title": "Tumore della vescica, nello studio VOLGA migliora la sopravvivenza a due anni",
+      "dek": "La combinazione di durvalumab ed enfortumab vedotin, in pazienti non candidabili al cisplatino, è stata valutata in uno studio internazionale randomizzato.",
+      "summary": "Lo studio di fase III VOLGA, presentato il 24 ottobre all'ESMO di Madrid e pubblicato sul New England Journal of Medicine, ha valutato un nuovo trattamento perioperatorio per il tumore della vescica muscolo-invasivo. Il gruppo considerato era costituito da persone non candidabili alla chemioterapia a base di cisplatino, oppure che l'avevano rifiutata. La terapia unisce l'anticorpo-coniugato enfortumab vedotin prima della chirurgia con l'immunoterapico durvalumab somministrato secondo il protocollo anche nel periodo successivo.",
+      "body": [
+        "Lo studio di fase III VOLGA, presentato il 24 ottobre all'ESMO di Madrid e pubblicato sul New England Journal of Medicine, ha valutato un nuovo trattamento perioperatorio per il tumore della vescica muscolo-invasivo. Il gruppo considerato era costituito da persone non candidabili alla chemioterapia a base di cisplatino, oppure che l'avevano rifiutata. La terapia unisce l'anticorpo-coniugato enfortumab vedotin prima della chirurgia con l'immunoterapico durvalumab somministrato secondo il protocollo anche nel periodo successivo.",
+        "La ricerca comprendeva complessivamente 695 pazienti assegnati a tre bracci; il confronto presentato fra regime senza tremelimumab e controllo ha mostrato, a due anni, una sopravvivenza globale stimata del 78% contro il 69%. La percentuale libera dagli eventi definiti nel protocollo era del 64% rispetto al 45%. Gli hazard ratio riportati dalle analisi intermedie corrispondono a riduzioni relative del 42% nel rischio di morte e del 49% per gli eventi dell'endpoint principale. Non si tratta di riduzioni assolute delle percentuali di decesso.",
+        "Il confronto comprendeva l'asportazione radicale della vescica, talvolta accompagnata da trattamenti aggiuntivi, cioè uno standard di cura impegnativo per qualità di vita e recupero. I due farmaci hanno meccanismi differenti: uno indirizza un agente citotossico verso cellule che esprimono un bersaglio specifico, l'altro modifica i segnali con cui il tumore elude la risposta immunitaria. Efficacia e complicazioni devono essere valutate congiuntamente; gli eventi avversi non si possono dedurre dai soli dati di sopravvivenza.",
+        "La Repubblica e Urology Times hanno ripreso i risultati con approfondimenti specifici sulle condizioni di trattamento. L'analisi è ancora intermedia, e richiede dati maturi sulla tossicità, sulla qualità della vita e sulla durata del beneficio. Anche l'approvazione normativa e la selezione dei pazienti restano passaggi distinti dai risultati di un congresso. È scorretto presentare il regime come già disponibile ovunque o adatto a ogni tumore della vescica."
+      ],
+      "impact": 3,
+      "tags": [
+        "bladder-cancer",
+        "clinical-trial",
+        "oncology"
+      ],
+      "impactReason": "Studio clinico randomizzato di rilevanza per pazienti selezionati, con limiti di durata e sicurezza da valutare.",
+      "facts": [
+        "Studio internazionale a tre bracci con 695 partecipanti",
+        "Sopravvivenza stimata a due anni 78% contro 69% nei bracci descritti",
+        "Analisi ad interim."
+      ],
+      "perspectives": [
+        "I ricercatori illustrano benefici misurati nel campione selezionato; non equivalgono a un effetto assicurato in ogni persona.",
+        "Le aziende e le istituzioni citate nelle fonti esprimono aspettative terapeutiche che richiedono verifica regolatoria e ulteriore osservazione."
+      ],
+      "unknowns": [
+        "Esiti maturi, effetti collaterali, qualità di vita e approvazioni."
+      ],
+      "questions": [
+        {
+          "question": "I risultati dimostrano una guarigione universale?",
+          "answer": "No. Riguardano risultati in pazienti selezionati e indicatori definiti dal protocollo."
+        },
+        {
+          "question": "La terapia è automaticamente approvata?",
+          "answer": "No: il congresso scientifico e la valutazione normativa sono passaggi separati."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "la Repubblica - Oncoline",
+          "role": "reporting",
+          "url": "https://www.repubblica.it/salute/dossier/oncoline/2026/10/24/news/tumore_alla_vescica_immunoterapia_e_farmaco_mirato_riducono_del_42_il_rischio_di_morte-425672473/",
+          "title": "la Repubblica - Oncoline report: volga mibc durvalumab enfortumab",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Urology Times",
+          "role": "reporting",
+          "url": "https://www.urologytimes.com/view/volga-durvalumab-plus-enfortumab-vedotin-improves-efs-os-in-mibc",
+          "title": "Urology Times report: volga mibc durvalumab enfortumab",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "AstraZeneca",
+          "role": "official",
+          "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/perioperative-imfinzi-plus-neoadjuvant-enfortumab-vedotin-reduced-risk-of-recurrence-by-49-and-risk-of-death-by-42-in-muscle-invasive-bladder-cancer.html",
+          "title": "AstraZeneca report: volga mibc durvalumab enfortumab",
+          "publishedAt": "2026-10-24"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/volga-mibc-durvalumab-enfortumab.svg",
+        "alt": "Illustrazione editoriale originale, non una fotografia: Tumore della vescica, nello studio VOLGA migliora la sopravvivenza a due anni",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/volga-mibc-durvalumab-enfortumab.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "dasl-hicap-prostate-darolutamide",
+      "rank": 3,
+      "category": "society",
+      "title": "Prostata ad altissimo rischio, darolutamide migliora il tempo senza metastasi",
+      "dek": "DASL-HiCaP: 1.106 pazienti, a quattro anni il 95% senza metastasi rilevate contro l'88% dei controlli; la sopravvivenza globale non è ancora chiaramente migliore.",
+      "summary": "Il 24 ottobre è stata presentata all'ESMO l'analisi intermedia del trial internazionale di fase III DASL-HiCaP, dedicato a 1.106 persone con carcinoma prostatico localizzato ad altissimo rischio o con malattia biochimicamente persistente dopo intervento. I partecipanti hanno ricevuto deprivazione androgenica e radioterapia, con aggiunta randomizzata di darolutamide oppure placebo. Il protocollo, quindi, confronta due trattamenti sopra una base terapeutica condivisa; non mette a confronto il farmaco isolato con l'assenza di cure.",
+      "body": [
+        "Il 24 ottobre è stata presentata all'ESMO l'analisi intermedia del trial internazionale di fase III DASL-HiCaP, dedicato a 1.106 persone con carcinoma prostatico localizzato ad altissimo rischio o con malattia biochimicamente persistente dopo intervento. I partecipanti hanno ricevuto deprivazione androgenica e radioterapia, con aggiunta randomizzata di darolutamide oppure placebo. Il protocollo, quindi, confronta due trattamenti sopra una base terapeutica condivisa; non mette a confronto il farmaco isolato con l'assenza di cure.",
+        "Dopo un follow-up mediano di circa 3,8 anni, la probabilità stimata di essere vivi senza metastasi evidenti agli esami convenzionali al quarto anno era 95% nel gruppo darolutamide contro 88% nel gruppo placebo. L'hazard ratio di 0,42 indica una riduzione relativa del rischio combinato di metastasi o morte nel periodo osservato. Il dato non equivale a dire che il 58% dei pazienti sia guarito grazie al farmaco, né permette di calcolare quanto a lungo vivrà ogni persona.",
+        "Lo studio ha registrato anche più eventi avversi gravi nel braccio di trattamento intensificato: eventi di grado almeno 3 nel 43% contro il 36%. La sopravvivenza globale risultava al 97% contro il 95% a quattro anni, ma la differenza non aveva ancora dimostrato significatività statistica. Occorre evitare il salto logico fra riduzione del rischio di diffusione metastatica e prova di riduzione della mortalità: sono due endpoint distinti.",
+        "Il produttore Bayer ha sostenuto la rilevanza clinica dei risultati, mentre Cancer Trials Ireland, coinvolta nella sperimentazione, ne ha fornito il contesto di disegno e reclutamento. OncoDaily ha riportato in modo esteso la metodologia. Trattandosi di un'analisi programmata e non definitiva, servono un follow-up maggiore, una valutazione dei costi e ulteriori analisi per sottogruppo. L'indicazione terapeutica oggetto dello studio non risulta automaticamente autorizzata dalla presentazione."
+      ],
+      "impact": 2.5,
+      "tags": [
+        "prostate-cancer",
+        "radiotherapy",
+        "randomized-trial"
+      ],
+      "impactReason": "Studio clinico randomizzato di rilevanza per pazienti selezionati, con limiti di durata e sicurezza da valutare.",
+      "facts": [
+        "1.106 partecipanti",
+        "95% vs 88% senza metastasi a quattro anni",
+        "Sopravvivenza globale non significativamente differente."
+      ],
+      "perspectives": [
+        "I ricercatori illustrano benefici misurati nel campione selezionato; non equivalgono a un effetto assicurato in ogni persona.",
+        "Le aziende e le istituzioni citate nelle fonti esprimono aspettative terapeutiche che richiedono verifica regolatoria e ulteriore osservazione."
+      ],
+      "unknowns": [
+        "Beneficio di sopravvivenza definitiva e selezione dei pazienti."
+      ],
+      "questions": [
+        {
+          "question": "I risultati dimostrano una guarigione universale?",
+          "answer": "No. Riguardano risultati in pazienti selezionati e indicatori definiti dal protocollo."
+        },
+        {
+          "question": "La terapia è automaticamente approvata?",
+          "answer": "No: il congresso scientifico e la valutazione normativa sono passaggi separati."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "OncoDaily",
+          "role": "reporting",
+          "url": "https://oncodaily.com/genitourinary-oncology/dasl-hicap",
+          "title": "OncoDaily report: dasl hicap prostate darolutamide",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Cancer Trials Ireland",
+          "role": "official",
+          "url": "https://cancertrials.ie/2026/10/dasl/",
+          "title": "Cancer Trials Ireland report: dasl hicap prostate darolutamide",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "Bayer",
+          "role": "official",
+          "url": "https://www.bayer.com/media/en-us/darolutamide-plus-adt-and-radiation-therapy-reduces-risk-of-metastasis-or-death-by-58-in-prostate-cancer-patients-at-high-risk-of-recurrence/",
+          "title": "Bayer report: dasl hicap prostate darolutamide",
+          "publishedAt": "2026-10-24"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Tumore della prostata, terapia tris riduce il rischio di metastasi o morte",
+          "url": "https://www.ansa.it/amp/canale_saluteebenessere/notizie/focus_tumore/2026/10/24/tumore-della-prostata-terapia-tris-riduce-il-rischio-di-metastasi-del-58_935f2ef7-264d-4f5f-8982-7ff4300b77c5.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Tumore alla prostata, nuova terapia riduce il rischio di metastasi o morte",
+          "url": "https://www.repubblica.it/salute/dossier/oncoline/2026/10/24/news/tumore_alla_prostata_una_nuova_terapia_riduce_del_58_il_rischio_di_metastasi_o_morte-425671803/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/dasl-hicap-prostate-darolutamide.svg",
+        "alt": "Illustrazione editoriale originale, non una fotografia: Prostata ad altissimo rischio, darolutamide migliora il tempo senza metastasi",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/dasl-hicap-prostate-darolutamide.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "fourlight1-breast-cancer-phase2",
+      "rank": 4,
+      "category": "society",
+      "title": "Tumore della mammella, FOURLIGHT-1 rileva una progressione più lenta in fase II",
+      "dek": "Fra 263 pazienti selezionati, la sopravvivenza senza progressione è 9,4 mesi contro 6,6 nel gruppo di confronto.",
+      "summary": "Lo studio randomizzato di fase II FOURLIGHT-1, presentato il 24 ottobre all'ESMO e pubblicato su Annals of Oncology, mostra un miglioramento della sopravvivenza senza progressione con atirmociclib più fulvestrant nel tumore della mammella avanzato HR-positivo e HER2-negativo dopo precedenti trattamenti CDK4/6. Non si tratta di una fase III né di una prova di guarigione o prolungamento della vita complessiva.",
+      "body": [
+        "Il 24 ottobre 2026 ricercatori internazionali hanno presentato al congresso europeo ESMO il trial FOURLIGHT-1, uno studio randomizzato di fase II su 263 persone con tumore della mammella avanzato o metastatico positivo ai recettori ormonali e negativo per HER2. Tutti i pazienti avevano già avuto una progressione della malattia dopo il trattamento con un inibitore CDK4/6. Si tratta quindi di una popolazione ben definita, non dell'insieme di chi riceve una diagnosi di tumore al seno.",
+        "La sopravvivenza mediana senza progressione valutata dai ricercatori è stata di 9,4 mesi per atirmociclib associato a fulvestrant e 6,6 mesi con la terapia scelta dagli sperimentatori nel gruppo di controllo. L'hazard ratio di 0,60 suggerisce una riduzione relativa del rischio composito di progressione o morte del 40% durante il periodo osservato. La cifra non significa che il 40% dei pazienti sia guarito e non costituisce una dimostrazione di maggiore sopravvivenza globale.",
+        "Atirmociclib è un inibitore selettivo della proteina CDK4 che interviene nel controllo del ciclo cellulare. La sperimentazione verifica se una nuova strategia farmacologica può funzionare anche quando la malattia non risponde più al precedente blocco di CDK4/6. Il tempo mediano di osservazione era di circa 14 mesi: saranno necessari dati più maturi per capire durata del beneficio, tossicità e conseguenze sulla qualità di vita.",
+        "OncLive e OncoDaily hanno riportato il risultato e la metodologia, mentre l'analisi scientifica è stata pubblicata sulla rivista Annals of Oncology. I dati sono interessanti per le opzioni di cura successive, ma non equivalgono a un'autorizzazione regolatoria né possono essere estesi a pazienti con caratteristiche differenti. Rimangono importanti gli studi di conferma e un confronto fra rischi, costi e vantaggi per la pratica clinica."
+      ],
+      "facts": [
+        "Studio randomizzato di fase II con 263 partecipanti.",
+        "Mediana di sopravvivenza libera da progressione di 9,4 contro 6,6 mesi, HR 0,60.",
+        "Presentazione ESMO e pubblicazione scientifica del 24 ottobre."
+      ],
+      "perspectives": [
+        "Le testate specialistiche considerano il segnale incoraggiante dopo l'uso di inibitori CDK4/6.",
+        "La comunità clinica deve attendere esiti più maturi e informazioni complete sulla sicurezza."
+      ],
+      "unknowns": [
+        "Sopravvivenza complessiva, tollerabilità di lungo periodo, accesso e approvazioni."
+      ],
+      "questions": [
+        {
+          "question": "FOURLIGHT-1 è uno studio di fase III?",
+          "answer": "No, è uno studio randomizzato di fase II."
+        },
+        {
+          "question": "È dimostrato che il trattamento prolunga la vita?",
+          "answer": "Non da questi dati, che misurano soprattutto il tempo senza progressione della malattia."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Un miglioramento documentato in uno studio randomizzato di fase II, rilevante per un sottogruppo di pazienti ma non ancora una svolta generale.",
+      "tags": [
+        "tumore-seno",
+        "fase-ii",
+        "terapie"
+      ],
+      "sources": [
+        {
+          "outlet": "OncLive",
+          "title": "Atirmociclib Plus Fulvestrant Improves PFS in HR+/HER2– Advanced Breast Cancer",
+          "url": "https://www.onclive.com/view/atirmociclib-plus-fulvestrant-improves-pfs-hr-her2-advanced-breast-cancer",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "OncoDaily",
+          "title": "FOURLIGHT-1: Atirmociclib Reduces Progression Risk After Prior CDK4/6 Inhibition",
+          "url": "https://oncodaily.com/breast-oncology/fourlight-1",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Annals of Oncology",
+          "title": "Atirmociclib and fulvestrant randomized FourLight-1 trial, phase 2",
+          "url": "https://doi.org/10.1016/j.annonc.2026.10.1282",
+          "publishedAt": "2026-10-24",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/fourlight1-breast-cancer-phase2.svg",
+        "alt": "Illustrazione editoriale originale, non una fotografia: Tumore della mammella, FOURLIGHT-1 rileva una progressione più lenta in fase II",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/fourlight1-breast-cancer-phase2.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "shamonda-first-human-case-france",
+      "rank": 5,
+      "category": "society",
+      "title": "Francia, identificato il primo caso umano di virus Shamonda",
+      "dek": "La notizia, diffusa il 22 ottobre, riguarda un paziente gravemente immunodepresso poi deceduto; non è stato identificato un rischio generale.",
+      "summary": "Le autorità francesi hanno annunciato il primo caso umano conosciuto di infezione da virus Shamonda, in precedenza riscontrato negli animali. Il paziente, già gravemente malato e immunodepresso, è deceduto a inizio ottobre. Si indaga sulla via di trasmissione e sul contributo dell'infezione alla morte; l'ECDC non segnala un rischio sanitario identificato per la popolazione generale.",
+      "body": [
+        "Il 22 ottobre 2026 il ministero della Salute francese ha annunciato la prima infezione umana documentata da virus Shamonda. Il caso riguarda un paziente gravemente immunodepresso, ricoverato per una patologia seria presso gli ospedali di Lione e morto all'inizio del mese. La presenza del virus è stata accertata nei campioni biologici del paziente. Reuters, Associated Press ed El País hanno descritto il caso, senza presentare la positività come prova che il virus abbia causato da solo la morte.",
+        "Shamonda appartiene al gruppo degli orthobunyavirus. Finora era stato osservato in animali, soprattutto bovini, e la sua presenza è nota dagli anni Sessanta in varie aree del mondo. La trasmissione negli allevamenti avviene principalmente attraverso piccoli insetti pungitori, i Culicoides. Il virus è stato rilevato per la prima volta in animali allevati in Europa nell'estate 2026; il caso umano è una novità per la sorveglianza ma non dimostra che l'infezione nelle persone sia comune.",
+        "Le autorità considerano possibile una puntura di insetto avvenuta nell'est della Francia e ipotizzano un collegamento fra infezione e complicazioni neurologiche osservate prima del decesso. L'ECDC sottolinea che sono ancora in corso approfondimenti sul contributo causale del virus alla morte e sulla modalità esatta di contagio. L'ipotesi clinica è rilevante, ma non va trasformata in certezza epidemiologica.",
+        "Al momento delle comunicazioni ufficiali non risultano casi dimostrati di trasmissione tra persone né un rischio identificato per la popolazione generale. ECDC, autorità francesi e partner europei stanno esaminando la questione con un approccio che collega salute umana, animale e ambiente. La sorveglianza è giustificata da un evento insolito, ma sarebbe prematuro parlare di epidemia: servono controlli su eventuali ulteriori casi e sulle condizioni di esposizione."
+      ],
+      "facts": [
+        "Prima infezione umana documentata annunciata il 22 ottobre 2026.",
+        "Il paziente era gravemente immunodepresso ed è deceduto nei primi giorni di ottobre.",
+        "Nessun rischio generale né trasmissione tra esseri umani identificati dalle autorità."
+      ],
+      "perspectives": [
+        "Il ministero francese ritiene possibile una trasmissione mediante un insetto e un contributo alle complicazioni neurologiche.",
+        "L'ECDC continua a verificare il nesso fra infezione, condizioni preesistenti e decesso."
+      ],
+      "unknowns": [
+        "Meccanismo preciso del contagio, causalità del decesso e frequenza di infezioni umane non identificate."
+      ],
+      "questions": [
+        {
+          "question": "Esiste una nuova epidemia fra gli esseri umani?",
+          "answer": "Non risultano prove: è stato confermato un singolo caso e non è stata identificata trasmissione interumana."
+        },
+        {
+          "question": "Il virus ha certamente provocato la morte?",
+          "answer": "Non è stato stabilito in modo conclusivo, e il paziente aveva una grave patologia preesistente."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Prima rilevazione umana documentata, importante per la sorveglianza epidemiologica, ma singolo caso senza rischio generalizzato accertato.",
+      "tags": [
+        "virus-shamonda",
+        "francia",
+        "zoonosi"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "France reports first human case of livestock virus Shamonda after patient dies",
+          "url": "https://www.investing.com/news/commodities-news/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies-4966761",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "France reports first human case of livestock virus Shamonda in patient who later died",
+          "url": "https://apnews.com/article/3fd1c27b89fec64b812b288cdf06c49d",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "El País",
+          "title": "First known human case of Shamonda: what do we know about an emerging virus?",
+          "url": "https://english.elpais.com/health/2026-10-23/first-known-human-case-of-shamonda-what-do-we-know-about-an-emerging-virus-that-has-surprised-experts.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ECDC",
+          "title": "Severely ill patient in France becomes first ever human infected with Shamonda virus",
+          "url": "https://www.ecdc.europa.eu/en/news-events/severely-ill-patient-france-becomes-first-ever-human-infected-shamonda-virus",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Ministère de la Santé",
+          "title": "Virus Shamonda: une première détection chez l'être humain",
+          "url": "https://sante.gouv.fr/actualites-presse/presse/communiques-de-presse/article/virus-shamonda-une-premiere-detection-chez-l-etre-humain",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/shamonda-first-human-case-france.svg",
+        "alt": "Illustrazione editoriale originale, non una fotografia: Francia, identificato il primo caso umano di virus Shamonda",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/shamonda-first-human-case-france.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

@@ -9,10 +9,10 @@ test.beforeEach(async({page})=>{
 test('search opens from header, indexes last year in IndexedDB and survives reload',async({page})=>{
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
   await expect(page.locator('.search-result')).toHaveCount(30,{timeout:20000});
-  await expect(page.locator('.search-status')).toContainText('60');
+  await expect(page.locator('.search-status')).toContainText('85');
   await page.reload();
   await expect(page.locator('.search-result')).toHaveCount(30,{timeout:20000});
-  await expect(page.locator('.search-status')).toContainText('9 / 9');
+  await expect(page.locator('.search-status')).toContainText('13 / 13');
 });
 test('date range and full text narrow results without a backend',async({page})=>{
   await page.getByRole('link',{name:'Apri la ricerca'}).click();
@@ -54,16 +54,16 @@ test('back from search article restores filters and scroll position',async({page
   await expect.poll(async()=>Math.abs((await page.evaluate(()=>scrollY))-y)).toBeLessThan(50);
 });
 test('back from a previous World edition restores the exact list position',async({page})=>{
-  await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
+  await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
   await page.evaluate(()=>scrollTo(0,document.body.scrollHeight));
-  const article=page.locator('.edition[data-date="2026-10-23"] article.story').first().locator('h3 a');
+  const article=page.locator('.edition[data-date="2026-10-24"] article.story').first().locator('h3 a');
   await expect(article).toBeAttached();
   await article.scrollIntoViewIfNeeded();
   const y=await page.evaluate(()=>scrollY);
   await article.click();
-  await expect(page).toHaveURL(/\/article\/world\/2026-10-23/);
+  await expect(page).toHaveURL(/\/article\/world\/2026-10-24/);
   await page.goBack();
-  await expect(page.locator('.edition[data-date="2026-10-23"] article')).toHaveCount(10);
+  await expect(page.locator('.edition[data-date="2026-10-24"] article')).toHaveCount(10);
   await expect.poll(async()=>Math.abs((await page.evaluate(()=>scrollY))-y)).toBeLessThan(50);
 });
 test('broken image is replaced by an original licensed-in-project editorial graphic',async({page})=>{
@@ -75,6 +75,8 @@ test('broken image is replaced by an original licensed-in-project editorial grap
 
 test('22 October archive contains four complete bilingual desks and new article timelines',async({page})=>{
   await page.goto('/world/');
+  await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
+  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
   await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
   await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
   await expect(page.locator('.edition[data-date="2026-10-23"] article.story')).toHaveCount(10);
@@ -82,6 +84,8 @@ test('22 October archive contains four complete bilingual desks and new article 
   await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(10);
   for(const desk of ['italy','technology','science']){
     await page.goto('/'+desk+'/');
+    await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(5);
+    await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
     await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(5);
     await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
     await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(5);

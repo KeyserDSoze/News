@@ -1,0 +1,365 @@
+{
+  "date": "2026-10-25",
+  "language": "en",
+  "publishedAt": "2026-10-25T10:05:00Z",
+  "editorialNote": "Edition dated 25 October 2026. Public-interest selection including important developments from preceding days, accurately dated within articles rather than presented as occurring today. Sources distinguish verified reporting from attributed claims.",
+  "articles": [
+    {
+      "id": "italy-oct24-demonstrations-outcomes",
+      "rank": 1,
+      "category": "society",
+      "title": "Italian demonstrations see clashes in several cities; police report 371 people taken in for checks",
+      "dek": "Public Security Department figures cite 4,292 people identified, nine arrests and 87 reported to prosecutors; the marches did not all unfold alike.",
+      "summary": "Demonstrations against living costs and rearmament took place in several Italian cities on Saturday 24 October. Clashes were reported in Turin, Rome and Bologna, among other places, while RaiNews said the main Milan march ended without serious incidents. Figures issued by the Public Security Department recorded 4,292 people identified, 371 taken in or held for checks, nine arrests and 87 people reported to prosecutors.",
+      "body": [
+        "Demonstrations across Italy on 24 October raised demands ranging from relief from living costs to opposition to rearmament. Reports documented tensions between groups of protesters and police in Turin, Rome, Bologna, Florence and Padua. In Milan, RaiNews reported that a large march reached the Polytechnic University and ended without major incidents. Keeping the different demonstrations separate is essential to avoid attributing violent conduct to everyone who took part.",
+        "The Public Security Department, as reported by ANSA, said 4,292 people were identified and 371 were taken to police premises or held for checks, including 110 minors. The same report listed nine arrests and 87 people reported to prosecutors. These categories are not equivalent: identification is not arrest, and being reported to prosecutors is not a conviction. The figures remain attributed to the issuing authority pending fuller details.",
+        "In Turin, police used tear gas and other crowd-control measures following the throwing of objects and attempts to cross police lines. In Rome, reporting described central-city clashes and the use of water cannon; Bologna saw thrown objects and police charges. The precise sequence of each intervention, injuries and individual responsibilities require case-by-case verification rather than inference from the total number of detentions.",
+        "Prime minister Giorgia Meloni and interior minister Matteo Piantedosi defended security measures and condemned violent episodes. Protesters' stated concerns also included household incomes, war and military expenditure. A balanced assessment must protect the right to peaceful assembly while recognizing the need to protect people and examine the proportionality of police actions, without treating peaceful protests as equivalent to documented assaults."
+      ],
+      "impact": 2.5,
+      "impactReason": "national implications for public order, civic participation and political debate, without demonstrated structural outcomes yet.",
+      "tags": [
+        "demonstrations",
+        "public-order",
+        "living-costs"
+      ],
+      "facts": [
+        "demonstrations took place on 24 October in several cities",
+        "official figures were 4,292 identified, 371 taken in/held, nine arrests and 87 reported to prosecutors",
+        "outcomes varied between cities."
+      ],
+      "perspectives": [
+        "the government defends its public-order response",
+        "demonstrators object to living costs and rearmament",
+        "accounts of individual clashes must remain attributed."
+      ],
+      "unknowns": [
+        "final injury and judicial figures",
+        "proportionality of individual interventions",
+        "any subsequent correction of official counts."
+      ],
+      "questions": [
+        {
+          "question": "Were 371 people arrested?",
+          "answer": "No; the number refers to people taken in or held for checks, while nine arrests were reported."
+        },
+        {
+          "question": "Did every march involve clashes?",
+          "answer": "No."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Cortei di protesta da roma a milano tutti i video 2bb860a1 c867 4ceb aabb 2889ee1baa7b.html",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-di-protesta-da-roma-a-milano-tutti-i-video_2bb860a1-c867-4ceb-aabb-2889ee1baa7b.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Cortei in italia quasi 5mila identificati 371 fermati 110 sono minori e0122321 4d8b 4b24 8cc8 22fc17f0f290.html",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_e0122321-4d8b-4b24-8cc8-22fc17f0f290.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Piazze blindate e tensioni in tutta italia scontri da torino a roma 5fb7e07d 915d 4050 9725 56cc14b50cc6.html",
+          "url": "https://www.rainews.it/amp/maratona/2026/10/piazze-blindate-e-tensioni-in-tutta-italia-scontri-da-torino-a-roma-5fb7e07d-915d-4050-9725-56cc14b50cc6.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/italy-oct24-demonstrations-outcomes.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Italian demonstrations see clashes in several cities; police report 371 people taken in for checks",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/italy-oct24-demonstrations-outcomes.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "italy",
+          "id": "cortei-perquisizioni-italia"
+        },
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "italy-nationwide-demonstrations"
+        }
+      ]
+    },
+    {
+      "id": "italy-five-activists-repatriated-west-bank",
+      "rank": 2,
+      "category": "politics",
+      "title": "Five Italian women detained in the West Bank return home, foreign ministry says",
+      "dek": "Italy’s foreign ministry confirms their return on 24 October and reports a consular visit the previous evening.",
+      "summary": "Five Italian women detained in the West Bank returned to Italy on 24 October, the foreign ministry said. It reported a consular visit and access to lawyers; the individual grounds for detention remain unresolved.",
+      "body": [
+        "Italy’s foreign ministry said on Saturday 24 October that five Italian women detained earlier in the West Bank by Israeli forces had returned to Italy. Its official statement confirms their repatriation that morning. This is a development beyond the detentions and expected return already reported in O’s 24 October archive.",
+        "According to the ministry, Italian embassy officials from Tel Aviv visited the women at the airport on the evening of 23 October. They appeared in good physical condition and were allowed to use a phone to speak with their lawyers at least once. These are statements from Italy’s diplomatic authorities rather than independently disclosed medical findings.",
+        "Euronews reports that the women had been involved in olive-harvesting activities when detained. The episode occurred amid wider tensions in the West Bank, where Israeli security operations and reports of restrictions affecting Palestinians continue. The legal grounds for each detention require separate examination from the official announcement of their return.",
+        "The return is a concrete outcome of consular assistance, but it does not settle questions about any alleged offenses, the grounds for detention or the conduct of security forces at the scene. The reviewed sources do not offer a complete independent account of those matters. Any later update should present newly established facts rather than simply repeating the episode."
+      ],
+      "impact": 2,
+      "impactReason": "A concrete consular outcome affecting five people, with broader diplomatic questions unresolved.",
+      "tags": [
+        "west-bank",
+        "foreign-ministry",
+        "repatriation"
+      ],
+      "facts": [
+        "The foreign ministry confirmed the return of five women on 24 October.",
+        "It reported a consular visit on 23 October."
+      ],
+      "perspectives": [
+        "Euronews connects the detention to olive-harvest activity.",
+        "The ministry says the women spoke with lawyers."
+      ],
+      "unknowns": [
+        "Individual legal grounds for the detentions.",
+        "Any subsequent legal claims or proceedings."
+      ],
+      "questions": [
+        {
+          "question": "Is the return of all five confirmed?",
+          "answer": "Yes, Italy’s ministry confirms five repatriations and multiple newsrooms report the announcement."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Ministero degli Esteri",
+          "title": "Rimpatrio delle cinque cittadine italiane fermate in cisgiordania",
+          "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/10/rimpatrio-delle-cinque-cittadine-italiane-fermate-in-cisgiordania/",
+          "publishedAt": "2026-10-24",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Farnesina rimpatriate le cinque italiane fermate in cisgiordania 0e6b4318 f06e 4fc5 8d79 05d9f5c942fc.html",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/24/farnesina-rimpatriate-le-cinque-italiane-fermate-in-cisgiordania_0e6b4318-f06e-4fc5-8d79-05d9f5c942fc.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Rientrate in italia le cinque attiviste fermate dallidf in cisgiordania",
+          "url": "https://it.euronews.com/2026/10/24/rientrate-in-italia-le-cinque-attiviste-fermate-dallidf-in-cisgiordania",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/italy-five-activists-repatriated-west-bank.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Five Italian women detained in the West Bank return home, foreign ministry says",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/italy-five-activists-repatriated-west-bank.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-budget-giorgetti-narrow-margins",
+      "rank": 3,
+      "category": "economy",
+      "title": "Italy’s finance minister warns of narrow budget room ahead of cabinet approval",
+      "dek": "Proposals for families and young workers are under discussion; the minister awaits European decisions before a final bill.",
+      "summary": "Italy’s finance minister expects the government to approve its budget proposal the following week but warns that fiscal room is narrow. Tax and pension measures being debated are proposals rather than enacted legislation.",
+      "body": [
+        "On Saturday 24 October, Economy Minister Giancarlo Giorgetti said Italy’s budget bill would go to the government the following week. Addressing an assembly organized by Compagnia delle Opere, he described pressure from raw-material costs, interest on public debt and international uncertainty. He did not announce an already approved budget law.",
+        "ANSA and RaiNews report that the Treasury is awaiting clarification from the European Commission on fiscal room and flexibility, particularly concerning energy and defense spending. Overall budget figures and the amount still available are working estimates that must be checked against the final text, not treated as permanently authorized spending.",
+        "Options under discussion include tax relief for young workers, assistance to families and measures concerning pensions and incomes. Coalition parties advocate different priorities, while banking-sector representatives have expressed caution about new contributions being requested of them. The negotiation among political demands, actual funding and European constraints is still under way.",
+        "The distributional effects of any measure can only be judged after the bill and financial tables are released. Giorgetti’s statements identify real fiscal constraints but do not establish that particular tax rates mentioned in press reports have been enacted. O therefore distinguishes the announced timetable from details still under negotiation."
+      ],
+      "impact": 3,
+      "impactReason": "The national budget affects millions of taxpayers and public services, but the measures remain proposals.",
+      "tags": [
+        "budget",
+        "giorgetti",
+        "taxation"
+      ],
+      "facts": [
+        "Giorgetti said cabinet approval would occur the following week.",
+        "The final budget proposal had not been approved by 24 October."
+      ],
+      "perspectives": [
+        "The minister stresses rising costs and debt-service pressure.",
+        "Coalition parties press different measures",
+        "banks question some proposed contributions."
+      ],
+      "unknowns": [
+        "Final funding estimates.",
+        "The enacted bill and evaluation of its distributional effects."
+      ],
+      "questions": [
+        {
+          "question": "Is the proposed youth flat tax already law?",
+          "answer": "No: it is under discussion and was not enacted within the reporting window."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "La manovra guarda a giovani e mamme. giorgetti la coperta e corta 45b46f2c 5aee 4eb4 8420 f23173e1f48e.html",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/24/la-manovra-guarda-a-giovani-e-mamme.-giorgetti-la-coperta-e-corta_45b46f2c-5aee-4eb4-8420-f23173e1f48e.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Legge di bilancio giorgetti la coperta e corta pesano materie prime e interessi sul debito 4de83fdd 5437 4751 88b8 695b3f7baf3b.html",
+          "url": "https://www.rainews.it/articoli/2026/10/legge-di-bilancio-giorgetti-la-coperta-e-corta-pesano-materie-prime-e-interessi-sul-debito-4de83fdd-5437-4751-88b8-695b3f7baf3b.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Manovra giorgetti coperta corta spunta quota 100 pensioni 425673271",
+          "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/25/news/manovra_giorgetti_coperta_corta_spunta_quota_100_pensioni-425673271/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/italy-budget-giorgetti-narrow-margins.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Italy’s finance minister warns of narrow budget room ahead of cabinet approval",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/italy-budget-giorgetti-narrow-margins.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "lega-congress-milan-first-day",
+      "rank": 4,
+      "category": "politics",
+      "title": "Lega opens Milan congress amid leadership contest and internal reform proposals",
+      "dek": "Organizational changes dominate the first day; the leadership vote between Salvini and Garavaglia is not yet complete.",
+      "summary": "Lega opened its extraordinary congress on 24 October with Salvini and Garavaglia contesting the leadership and delegates debating party organization. The leadership ballot result was not yet established in the review window.",
+      "body": [
+        "The Lega party opened its extraordinary congress in Milan on 24 October, bringing delegates together to debate its leadership and direction. Matteo Salvini is seeking confirmation, while senator Massimo Garavaglia gathered the signatures needed to run as an alternative candidate. The start of the congress does not determine a winner.",
+        "Debate covered the party’s federalist identity, electoral support and relations between national leaders and regional officials. Some speakers argued for a stronger role for governors and local political structures. These are political positions; they do not themselves establish which organizational model would improve the party’s election results.",
+        "According to Sky TG24, delegates approved an amendment introducing a new political secretariat by acclamation on the first day. Speeches also revealed differing views about why electoral support had weakened and what policies should take priority. The final federal leadership vote, however, had not been officially established within the review window.",
+        "The congress is relevant to the balance inside Italy’s governing coalition, but national policy consequences will depend on later votes and negotiations. This story does not prematurely identify a winner or suggest any unannounced change of government. The leadership outcome and the real authority of new party structures require follow-up."
+      ],
+      "impact": 2,
+      "impactReason": "Relevant to a governing party, while effects on national policy are still hypothetical.",
+      "tags": [
+        "lega",
+        "congress",
+        "salvini"
+      ],
+      "facts": [
+        "The extraordinary congress opened in Milan on 24 October.",
+        "Garavaglia is challenging Salvini for party leader."
+      ],
+      "perspectives": [
+        "Regional figures seek a stronger role for local branches.",
+        "Salvini backs organizational changes."
+      ],
+      "unknowns": [
+        "The leadership ballot result falls beyond the established record.",
+        "The final composition and powers of the new bodies."
+      ],
+      "questions": [
+        {
+          "question": "Is the congress winner already known?",
+          "answer": "No; this article covers only the first day, 24 October."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Sky TG24",
+          "title": "Congresso lega prima giornata",
+          "url": "https://tg24.sky.it/politica/2026/10/24/congresso-lega-prima-giornata",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Il congresso della lega massimiliano romeo il problema e che non ci votano piu non le diatribe personali.shtml",
+          "url": "https://www.corriere.it/politica/diretta-live/26_ottobre_24/il-congresso-della-lega-massimiliano-romeo-il-problema-e-che-non-ci-votano-piu-non-le-diatribe-personali.shtml",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/lega-congress-milan-first-day.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Lega opens Milan congress amid leadership contest and internal reform proposals",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/lega-congress-milan-first-day.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-opposition-leaders-programme-meeting",
+      "rank": 5,
+      "category": "politics",
+      "title": "Italian opposition leaders signal willingness to begin joint policy talks",
+      "dek": "On 24 October, Bonelli reports agreement to meet the following week; no electoral pact has been signed.",
+      "summary": "Bonelli says Schlein and Conte are willing to meet the following week to discuss a shared political programme. Their agreement to talks is not the same as signing an electoral alliance.",
+      "body": [
+        "On 24 October, Angelo Bonelli of the Green and Left Alliance said that Elly Schlein and Giuseppe Conte were willing to meet the following week to begin drafting a shared policy programme. LaPresse reported a telephone discussion among centre-left figures, also involving Nicola Fratoianni. The new development is the willingness to hold talks, not the adoption of a programme.",
+        "The proposal reflects a wish among some opposition parties to define a clearer political platform before future elections. Issues under discussion include wages, public services, climate policy and foreign affairs. Each party retains its positions, and any convergence will require negotiations on concrete measures and priorities.",
+        "Bonelli welcomed the responses as a step toward cooperation. ANSA and LaPresse report his announcement and the surrounding discussions, but opinions about whether the coalition will ultimately hold together remain political judgments, not established facts. No common text was signed during the reported day.",
+        "The meeting’s eventual date, agenda and any public documents will determine its real significance. Agreement to talk may affect political debate, but does not amount to a single candidate, a formal alliance or an electoral decision. Those elements belong in subsequent editions only if supported by concrete new developments."
+      ],
+      "impact": 1.5,
+      "impactReason": "A meaningful preparatory step for opposition parties, with limited immediate institutional effects.",
+      "tags": [
+        "opposition",
+        "programme",
+        "centre-left"
+      ],
+      "facts": [
+        "Bonelli announced willingness to meet the following week.",
+        "No joint programme had been approved by 24 October."
+      ],
+      "perspectives": [
+        "Bonelli regards the meeting as a positive step.",
+        "Participating leaders have not yet released a shared public agenda."
+      ],
+      "unknowns": [
+        "The actual meeting date.",
+        "Possible programme compromises and any formal agreement."
+      ],
+      "questions": [
+        {
+          "question": "Was a final coalition announced?",
+          "answer": "No; the reported development is an agreement in principle to meet and discuss."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "LaPresse",
+          "title": "Centre left leaders agree to meet next week to discuss programme 2",
+          "url": "https://ae.lapresse.it/politics-ae/2026/10/24/centre-left-leaders-agree-to-meet-next-week-to-discuss-programme-2/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Bonelli da schlein e conte disponibilita a un incontro in settimana fbc1ce61 33c6 4b8b ae9b 114760d52ed8.html",
+          "url": "https://videoembed.ansa.it/sito/notizie/politica/2026/10/24/bonelli-da-schlein-e-conte-disponibilita-a-un-incontro-in-settimana_fbc1ce61-33c6-4b8b-ae9b-114760d52ed8.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-25/assets/italy-opposition-leaders-programme-meeting.svg",
+        "alt": "Symbolic editorial illustration (not a photograph): Italian opposition leaders signal willingness to begin joint policy talks",
+        "credit": "O — Oggettivizzatore / Objectivizer",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-25/assets/italy-opposition-leaders-programme-meeting.svg",
+        "license": "© 2026 O — Original editorial illustration",
+        "kind": "illustration"
+      }
+    }
+  ],
+  "section": "italy"
+}
