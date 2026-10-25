@@ -61,12 +61,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "La città di Oleshky è sotto controllo russo nella regione ucraina di Kherson. La tregua annunciata è circoscritta e destinata alla distribuzione di aiuti e al movimento dei civili."
+          "question": "Quale operazione è prevista a Oleshky?",
+          "answer": "Una tregua circoscritta dovrebbe permettere l'accesso di aiuti e il movimento o l'evacuazione dei civili, non comportare la fine delle ostilità nell'intera regione."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Da verificare sul campo quando inizierà l'accesso effettivo dei convogli e quali garanzie accompagneranno le evacuazioni."
+          "question": "Perché le date di avvio riportate dalle parti non coincidono?",
+          "answer": "Kiev, Mosca e Casa Bianca hanno comunicato calendari non pienamente sovrapponibili. Occorre distinguere gli annunci dall'effettivo passaggio dei convogli."
         }
       ],
       "impact": 1.5,
@@ -129,12 +129,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Le autorità hanno segnalato la morte di una persona trascinata dalle onde. Aeroporti, trasporti e rete elettrica hanno subito interruzioni e cancellazioni."
+          "question": "Perché Taiwan ha subito danni anche senza un impatto diretto del centro del tifone?",
+          "answer": "Forti raffiche, piogge e mareggiate hanno provocato interruzioni nei trasporti e nella rete elettrica anche mentre il centro di Champi passava vicino all'isola."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Il bilancio definitivo dei feriti e il percorso successivo del tifone potrebbero cambiare."
+          "question": "Perché le fonti riportano numeri diversi di feriti?",
+          "answer": "AP e Reuters hanno citato aggiornamenti delle autorità in momenti diversi: circa 350 in un bilancio precedente e 527 in uno successivo."
         }
       ],
       "impact": 2.5,
@@ -195,12 +195,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "L'attacco è avvenuto durante una cerimonia funebre in una chiesa a Karak. Il bilancio più recente riportato dalle fonti consultate è di sette morti e circa quaranta feriti."
+          "question": "Che cosa è avvenuto nella chiesa di Karak?",
+          "answer": "Uomini armati hanno sparato durante un funerale. Il bilancio indicato dalle fonti disponibili per questa edizione era di sette morti e circa quaranta feriti."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Non sono confermati movente, identità e numero esatto delle persone coinvolte nell'attacco."
+          "question": "Perché l'edizione del giorno successivo riporta un numero diverso di vittime?",
+          "answer": "I primi bilanci possono essere aggiornati quando emergono nuovi decessi. La cifra di questo articolo riflette soltanto le informazioni disponibili al momento della sua edizione."
         }
       ],
       "impact": 1.5,
@@ -261,12 +261,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Le autorità israeliane riferiscono la morte di due soldati e due assalitori. L'esercito ha lanciato operazioni e limitazioni alla circolazione nella zona di Hebron."
+          "question": "Quali fatti hanno preceduto le restrizioni nell'area di Hebron?",
+          "answer": "Secondo le forze israeliane, nello scontro armato sono morti due soldati e due presunti assalitori; l'esercito ha quindi annunciato operazioni e limitazioni agli spostamenti."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Restano da verificare l'effettiva durata delle restrizioni e le conseguenze per i civili."
+          "question": "Perché le misure sono oggetto di contestazione?",
+          "answer": "Osservatori e difensori dei diritti civili hanno sollevato dubbi sulla proporzionalità delle restrizioni imposte ai residenti, distinta dalla ricostruzione dell'attacco."
         }
       ],
       "related": [
@@ -334,12 +334,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "ANSA documenta iniziative annunciate in diverse città italiane. Le autorità hanno predisposto misure di sicurezza aggiuntive, in particolare a Milano."
+          "question": "Quali temi hanno mobilitato i cortei annunciati in Italia?",
+          "answer": "Le iniziative in più città riguardavano guerra, riarmo, caro vita e ordine pubblico; motivazioni e organizzatori non erano identici ovunque."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Affluenza, itinerari definitivi ed eventuali incidenti non possono essere dedotti dai soli annunci della mattina."
+          "question": "Perché Milano prevedeva controlli rafforzati?",
+          "answer": "Le autorità avevano annunciato ulteriori presidi dopo le tensioni del fine settimana precedente, prima di conoscere gli esiti dei nuovi cortei."
         }
       ],
       "impact": 1,
@@ -407,12 +407,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "La data fissata per il voto è domenica 25 ottobre. Il sondaggio Datafolha citato ha raccolto 2.520 interviste tra il 20 e il 22 ottobre."
+          "question": "Che cosa indica il 50%-50% nel sondaggio Datafolha?",
+          "answer": "È una stima sui voti validi con margine d'errore di due punti percentuali, basata su 2.520 interviste raccolte dal 20 al 22 ottobre; non è un risultato elettorale."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Un sondaggio non è un risultato elettorale: vincitore e margini restano sconosciuti."
+          "question": "Quando è previsto il ballottaggio presidenziale?",
+          "answer": "Il secondo turno fra Lula e Flávio Bolsonaro è fissato per domenica 25 ottobre; l'articolo precede il voto."
         }
       ],
       "impact": 2.5,
@@ -473,12 +473,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "AP riferisce la partenza di almeno un carico di diesel dalla Russia verso gli Stati Uniti. La vicenda è collegata a decisioni politiche sulle importazioni energetiche."
+          "question": "Quale movimento commerciale è stato segnalato?",
+          "answer": "AP ha riferito che almeno una nave con gasolio russo era partita verso gli Stati Uniti, nel quadro di nuovi contatti fra i due paesi."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Non è ancora misurabile l'impatto effettivo sui prezzi del carburante negli Stati Uniti."
+          "question": "La spedizione permette di stimare subito un calo dei prezzi alla pompa?",
+          "answer": "No. I volumi trasportati, i contratti e la distribuzione incidono sui prezzi finali; la partenza di un carico non ne determina automaticamente la variazione."
         }
       ],
       "threadId": "global-energy-prices",
@@ -550,12 +550,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Cinque attiviste sono state trattenute e avviate alle procedure di espulsione. Le autorità consolari italiane hanno seguito il caso e organizzato assistenza."
+          "question": "Perché cinque cittadine italiane erano state trattenute in Cisgiordania?",
+          "answer": "Le cinque attiviste erano state fermate dalle forze israeliane durante attività di accompagnamento a coltivatori palestinesi; la Farnesina ha seguito il caso."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Serve una conferma indipendente dell'avvenuto rientro delle cinque cittadine."
+          "question": "Quale passaggio era previsto dopo l'intervento consolare?",
+          "answer": "Il ministero italiano aveva comunicato un rimpatrio previsto per la mattina del 24 ottobre; la notizia dell'effettivo rientro appartiene agli aggiornamenti successivi."
         }
       ],
       "related": [
@@ -623,12 +623,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "I blocchi hanno rallentato forniture commerciali in più regioni meridionali. Il Consiglio dei ministri ha approvato ulteriori misure di aiuto per il settore."
+          "question": "Quali effetti avevano avuto i blocchi degli autotrasportatori?",
+          "answer": "Avevano rallentato le consegne commerciali e la distribuzione in alcune regioni meridionali; dopo gli aiuti annunciati è iniziata una ripresa non uniforme."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "È incerto se le concessioni eviteranno nuove proteste dopo il tavolo del 27 ottobre."
+          "question": "Perché alcune associazioni mantenevano aperta la vertenza?",
+          "answer": "Le misure governative erano state annunciate, ma effetti concreti e ulteriori richieste del settore dovevano ancora essere valutati nei tavoli successivi."
         }
       ],
       "threadId": "italy-fuel-costs",
@@ -691,12 +691,12 @@
       ],
       "questions": [
         {
-          "question": "Quali elementi risultano documentati?",
-          "answer": "Il Dipartimento dell'Energia statunitense ha annunciato la nuova classificazione il 23 ottobre. L'elio è impiegato in processi industriali inclusa la fabbricazione di semiconduttori."
+          "question": "Perché l'elio è considerato importante per la filiera dei semiconduttori?",
+          "answer": "È utilizzato in diversi processi industriali, inclusa la fabbricazione dei chip, e l'offerta può essere vulnerabile a interruzioni logistiche o geopolitiche."
         },
         {
-          "question": "Cosa resta da verificare?",
-          "answer": "Entità, durata e ricadute dei possibili deficit di offerta variano per paese e settore."
+          "question": "Che cosa comporta la nuova classificazione statunitense?",
+          "answer": "Il Dipartimento dell'Energia ha riconosciuto l'elio come materiale critico per la sicurezza delle forniture; ciò non documenta da solo una carenza immediata in ogni industria."
         }
       ],
       "impact": 1.5,
