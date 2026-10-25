@@ -3,6 +3,8 @@ import { readFileSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 
 const article='/article/world/2026-10-24/oleshky-humanitarian-ceasefire/';
+const appVersion=JSON.parse(readFileSync(resolve('package.json'),'utf8')).version as string;
+const releaseCount=(JSON.parse(readFileSync(resolve('src/releases.json'),'utf8')).releases as unknown[]).length;
 test.beforeEach(async({page})=>{
  await page.addInitScript(()=>{localStorage.setItem('og-language','it');localStorage.setItem('og-theme','light');});
 });
@@ -70,16 +72,16 @@ test('speech follows the selected language and supports full or body-only playba
  await en.getByRole('button',{name:'Listen: The full story'}).click();
  expect((await page.evaluate(()=>(window as unknown as {spokenLanguages:string[]}).spokenLanguages)).at(-1)).toBe('en-GB');
 });
-test('hamburger displays v0.0.8 and opens bilingual changelog',async({page})=>{
+test('hamburger displays current app version and opens bilingual changelog',async({page})=>{
  await page.goto('/');
  await page.getByRole('button',{name:'Menu di O'}).click();
- await expect(page.getByRole('menuitem',{name:/Note di rilascio/})).toContainText('v0.0.8');
+ await expect(page.getByRole('menuitem',{name:/Note di rilascio/})).toContainText(`v${appVersion}`);
  await page.getByRole('menuitem',{name:/Note di rilascio/}).click();
  await expect(page).toHaveURL(/\/releases\/$/);
  await expect(page.getByRole('heading',{name:/Le novità di O/})).toBeVisible();
- await expect(page.locator('.release-entry')).toHaveCount(8);
+ await expect(page.locator('.release-entry')).toHaveCount(releaseCount);
  await page.reload();
- await expect(page.locator('.release-entry')).toHaveCount(8);
+ await expect(page.locator('.release-entry')).toHaveCount(releaseCount);
  await page.getByRole('button',{name:'Seleziona lingua'}).click();
  await page.getByRole('menuitemradio',{name:/English/}).click();
  await expect(page.getByRole('heading',{name:/What’s new in O/})).toBeVisible();
@@ -119,10 +121,10 @@ test('build has versioned PWA manifest, PNG install icons, updated service worke
  expect(existsSync(resolve(dir,'icons/icon-512.png'))).toBe(true);
  expect(existsSync(resolve(dir,'icons/icon-180.png'))).toBe(true);
  const sw=readFileSync(resolve(dir,'sw.js'),'utf8');
- expect(sw).toContain('o-shell-0.0.8');
+ expect(sw).toContain(`o-shell-${appVersion}`);
  expect(sw).toContain('skipWaiting');
  expect(sw).toContain('clients.claim');
- expect(readFileSync(resolve(dir,'version.json'),'utf8')).toContain('"version": "0.0.8"');
+ expect(readFileSync(resolve(dir,'version.json'),'utf8')).toContain(`"version": "${appVersion}"`);
  expect(existsSync(resolve(dir,'releases/index.html'))).toBe(true);
 });
 
@@ -132,7 +134,7 @@ test('the service worker and manifest are accessible from the GitHub Pages proje
  expect((await manifest.json()).scope).toBe('/');
  const worker=await request.get('/sw.js');
  expect(worker.ok()).toBe(true);
- expect(await worker.text()).toContain('o-shell-0.0.8');
+ expect(await worker.text()).toContain(`o-shell-${appVersion}`);
 });
 
 test('a real Chromium browser can install and activate the scoped service worker',async({browser})=>{
