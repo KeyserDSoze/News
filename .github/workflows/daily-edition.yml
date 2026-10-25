@@ -1,0 +1,75 @@
+name: O — Daily automatic newsroom
+on:
+  schedule:
+    - cron: '0 7 * * *'
+      timezone: 'Europe/Rome'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Research and validate without committing an edition'
+        required: true
+        type: boolean
+        default: true
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: o-daily-edition
+  cancel-in-progress: false
+jobs:
+  editorial:
+    if: ${{ github.event_name == 'workflow_dispatch' || vars.O_AUTO_PUBLISH_ENABLED == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      O_MODEL: ${{ vars.O_MODEL || 'gpt-5.5' }}
+      O_LOOKBACK_DAYS: ${{ vars.O_LOOKBACK_DAYS || '5' }}
+      O_MAX_MODEL_CALLS: ${{ vars.O_MAX_MODEL_CALLS || '130' }}
+      O_MAX_TOKENS: ${{ vars.O_MAX_TOKENS || '750000' }}
+      TZ: Europe/Rome
+      VITE_BASE_PATH: '/'
+      PUBLIC_SITE_ORIGIN: https://onews.app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Require API key (ChatGPT subscription is not an API key)
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo 'Missing repository secret OPENAI_API_KEY; edition not created' >&2
+            exit 1
+          fi
+      - name: Offline tests for newsroom quality gates
+        run: node --test tests/daily-publisher.test.mjs
+      - name: Research, cross-check, write 25 bilingual stories
+        run: node scripts/daily-publisher.mjs
+      - name: Install monorepo dependencies
+        run: npm install --no-audit --no-fund
+      - name: Validate news and archival metadata
+        run: npm run test:content
+      - name: Build static site
+        run: npm run build
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Browser tests, desktop and mobile
+        run: npm run test:e2e
+      - name: Commit edition permanently to main
+        if: ${{ github.event_name == 'schedule' || inputs.dry_run == false }}
+        run: |
+          set -euo pipefail
+          EDITION_DATE=$(TZ=Europe/Rome date +%F)
+          git add "news/${EDITION_DATE}/"
+          if git diff --cached --quiet; then echo 'No edition staged' >&2; exit 1; fi
+          git -c user.name='O daily newsroom' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "news: automated verified ${EDITION_DATE} bilingual edition"
+          git push origin HEAD:main
+      - name: Explicitly dispatch GitHub Pages
+        # GITHUB_TOKEN pushes do not start ordinary push-triggered workflows.
+        if: ${{ github.event_name == 'schedule' || inputs.dry_run == false }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref main
+      - name: Dry run confirmation
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run == true }}
+        run: echo 'Validated draft only. No commit or publication performed.'
