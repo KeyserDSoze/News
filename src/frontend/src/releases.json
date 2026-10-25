@@ -1,6 +1,28 @@
 {
   "releases": [
     {
+      "version": "0.0.10",
+      "date": "2026-10-25",
+      "it": {
+        "title": "Schermo quasi senza margini",
+        "highlights": [
+          "Margini laterali ridotti a 4 pixel su mobile.",
+          "Test automatici di versione e PWA aggiornati: leggono la versione corrente anziché usare numeri fissi.",
+          "Immagini a tutta larghezza e layout desktop invariato."
+        ],
+        "details": "Correzione del test Playwright che bloccava la pipeline dopo gli aggiornamenti della versione applicativa."
+      },
+      "en": {
+        "title": "Almost edge-to-edge mobile",
+        "highlights": [
+          "Reduced phone content gutters to 4 pixels.",
+          "Version and PWA tests now read the actual app version instead of hardcoded values.",
+          "Full-width images and desktop layout remain unchanged."
+        ],
+        "details": "Fixed the Playwright test that failed after increasing the app version."
+      }
+    },
+    {
       "version": "0.0.9",
       "date": "2026-10-25",
       "it": {
