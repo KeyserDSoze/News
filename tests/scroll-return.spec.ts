@@ -21,13 +21,13 @@ async function originY(page:import('@playwright/test').Page){
 
 test('bottom back-to-briefing returns precisely to first cover story after a long article',async({page})=>{
  await page.goto('/world/');
- await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
- const story=page.locator('.edition[data-date="2026-10-24"] article.story').first();
+ await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
+ const story=page.locator('.edition[data-date="2026-10-25"] article.story').first();
  await story.locator('h3 a').scrollIntoViewIfNeeded();
  await tapPosition(page);
  await story.getByRole('link',{name:'Leggi la notizia'}).click();
  const y=await originY(page);
- await expect(page).toHaveURL(/\/article\/world\/2026-10-24\//);
+ await expect(page).toHaveURL(/\/article\/world\/2026-10-25\//);
  await expect(page.getByRole('heading',{name:'Il riassunto'})).toBeVisible();
  // Make article position intentionally very different from the cover's position.
  await page.locator('.article-return').scrollIntoViewIfNeeded();
@@ -35,15 +35,15 @@ test('bottom back-to-briefing returns precisely to first cover story after a lon
  expect(articleY).toBeGreaterThan(y+800);
  await page.locator('.article-return').click();
  await expect(page).toHaveURL(/\/world\/$/);
- await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
+ await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
  await expect.poll(async()=>Math.abs((await page.evaluate(()=>scrollY))-y),{timeout:6500}).toBeLessThan(50);
  await expect(story).toBeInViewport({ratio:0.05});
 });
 
 test('browser Back restores originating top-day card after scrolling article to end',async({page})=>{
  await page.goto('/world/');
- await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
- const story=page.locator('.edition[data-date="2026-10-24"] article.story').first();
+ await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
+ const story=page.locator('.edition[data-date="2026-10-25"] article.story').first();
  await story.locator('h3 a').scrollIntoViewIfNeeded();
  await tapPosition(page);
  await story.locator('h3 a').click();
@@ -58,15 +58,15 @@ test('browser Back restores originating top-day card after scrolling article to 
 
 test('old archive edition returns to the same card, not to the current date',async({page})=>{
  await page.goto('/world/');
- await expect(page.locator('.edition[data-date="2026-10-24"] article.story')).toHaveCount(10);
+ await expect(page.locator('.edition[data-date="2026-10-25"] article.story')).toHaveCount(10);
  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
- const older=page.locator('.edition[data-date="2026-10-23"] article.story').first();
+ const older=page.locator('.edition[data-date="2026-10-24"] article.story').first();
  await expect(older).toBeAttached({timeout:15000});
  await older.locator('h3 a').scrollIntoViewIfNeeded();
  await tapPosition(page);
  await older.locator('h3 a').click();
  const y=await originY(page);
- await expect(page).toHaveURL(/\/article\/world\/2026-10-23\//);
+ await expect(page).toHaveURL(/\/article\/world\/2026-10-24\//);
  await page.locator('.article-return').scrollIntoViewIfNeeded();
  await page.locator('.article-return').click();
  await expect(page).toHaveURL(/\/world\/$/);
