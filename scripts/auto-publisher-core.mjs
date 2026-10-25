@@ -32,18 +32,20 @@ export function publisherKey(source){
  const u=safeUrl(source.url);if(!u)return null;
  const host=u.hostname.replace(/^www\./,'').toLowerCase();
  for(const [domains,group] of GROUPS)if(domains.some(d=>host===d||host.endsWith('.'+d)))return group;
- const parts=host.split('.');return parts.slice(Math.max(0,parts.length-2)).join('.');
+ const parts=host.split('.');const suffix=parts.slice(-2).join('.');
+ if(['co.jp','co.uk','org.uk','com.au','com.br','com.cn','com.tr','com.ar','co.nz'].includes(suffix))return parts.slice(-3).join('.');
+ return parts.slice(Math.max(0,parts.length-2)).join('.');
 }
 export function validateSources(sources,observedUrls=[],earliest,latest){
  if(!Array.isArray(sources))return {ok:false,reasons:['not an array'],sources:[]};
  const seen=new Set(),owners=new Set(),out=[];
  for(const x of sources){
-  if(!x||x.role!=='reporting'||!x.outlet||!x.title||!safeUrl(x.url)||!/^20\d\d-\d\d-\d\d/.test(x.publishedAt||''))continue;
+  if(!x||!['reporting','official','analysis'].includes(x.role)||!x.outlet||!x.title||!safeUrl(x.url)||!/^20\d\d-\d\d-\d\d/.test(x.publishedAt||''))continue;
   const t=Date.parse(x.publishedAt);if(!Number.isFinite(t)||t<earliest||t>latest)continue;
   const key=canonical(x.url);if(!key||seen.has(key))continue;
   if(observedUrls.length&&!observedUrls.some(url=>canonical(url)===key))continue;
   const owner=publisherKey(x);if(!owner)continue;
-  seen.add(key);owners.add(owner);out.push({...x,url:safeUrl(x.url).href});
+  seen.add(key);if(x.role==='reporting')owners.add(owner);out.push({...x,url:safeUrl(x.url).href});
  }
  const reasons=owners.size<2?['fewer than two independently owned reporting sources observed during web search']:[];
  return {ok:reasons.length===0,reasons,sources:out,publishers:[...owners]};
