@@ -432,11 +432,11 @@ body:has(.global-audio-dock){padding-bottom:calc(85px + env(safe-area-inset-bott
  body:has(.global-audio-dock){padding-bottom:calc(68px + env(safe-area-inset-bottom,0px))}
 }
 
-/* Mobile edge-to-edge layout: retain only an 8px text gutter. */
+/* Mobile edge-to-edge layout: keep only a 4px text gutter. */
 @media(max-width:650px){
-  .container{width:100%;max-width:none;padding-left:8px;padding-right:8px}
+  .container{width:100%;max-width:none;padding-left:4px;padding-right:4px}
   .story,.article-main,.edition{min-width:0}
-  .story .news-picture{margin-left:-8px;margin-right:-8px}
-  .article-main>.news-picture{margin-left:-8px;margin-right:-8px}
+  .story .news-picture{margin-left:-4px;margin-right:-4px}
+  .article-main>.news-picture{margin-left:-4px;margin-right:-4px}
   .news-picture img{max-width:100%}
 }

@@ -2,6 +2,20 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.10] — 2026-10-25
+
+**Italiano — Schermo quasi senza margini**
+
+- Ridotti da 8 a 4 pixel i margini laterali su smartphone.
+- Resi dinamici i controlli Playwright su versione nel menu, service worker, versione JSON e numero di release: non falliscono più per l'incremento del numero di versione.
+- Immagini a filo pagina e layout desktop invariati.
+
+**English — Almost edge-to-edge mobile**
+
+- Reduced phone-side gutters from 8 to 4 pixels.
+- Updated Playwright menu, service-worker, version JSON and release-count assertions to use the current app version.
+- Full-bleed images and desktop layout remain unchanged.
+
 ## [0.0.9] — 2026-10-25
 
 **Italiano — Più spazio alle notizie su mobile**
