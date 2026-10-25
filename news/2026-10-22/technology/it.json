@@ -30,8 +30,12 @@
       ],
       "questions": [
         {
-          "question": "Le vulnerabilità sono già state corrette su tutti i siti?",
-          "answer": "No. La distribuzione delle patch dipende da chi amministra ogni installazione e va verificata."
+          "question": "Che cosa indicano i milioni di tentativi legati a PHP2Shell?",
+          "answer": "I sistemi di rilevazione hanno osservato numerose richieste sospette dopo la divulgazione di due vulnerabilità; i tentativi non equivalgono a milioni di compromissioni riuscite."
+        },
+        {
+          "question": "Chi deve applicare le correzioni alle installazioni interessate?",
+          "answer": "Gli amministratori dei singoli servizi devono verificare versioni e patch disponibili, perché pubblicare una correzione non aggiorna automaticamente tutti i server."
         }
       ],
       "impact": 3.5,
@@ -98,8 +102,12 @@
       ],
       "questions": [
         {
-          "question": "CVSS 10 significa che ogni server GitLab è già compromesso?",
-          "answer": "No. Descrive la severità potenziale per installazioni vulnerabili, non attacchi già riusciti."
+          "question": "Che tipo di difetto ha corretto GitLab?",
+          "answer": "L'avviso riguarda un problema di overflow nella compilazione di espressioni regolari che, in determinate condizioni, poteva esporre installazioni vulnerabili ad attacchi senza autenticazione."
+        },
+        {
+          "question": "Come va interpretato il punteggio CVSS 10?",
+          "answer": "È una valutazione della gravità tecnica massima, non un conteggio di attacchi riusciti né la prova che ogni istanza GitLab sia stata violata."
         }
       ],
       "impact": 3,
@@ -166,8 +174,12 @@
       ],
       "questions": [
         {
-          "question": "Tutti gli utenti Capcom hanno perso password e dati bancari?",
-          "answer": "No. L'azienda non ha confermato furti delle password originali né esposizione dei dati delle carte."
+          "question": "A quanti account CAPCOM ID si riferisce l'incidente?",
+          "answer": "Capcom ha comunicato l'accesso illecito a informazioni legate a circa 11,77 milioni di account; per 43 risultano coinvolte anche alcune informazioni personali aggiuntive."
+        },
+        {
+          "question": "Il numero degli account corrisponde al furto accertato di password o carte?",
+          "answer": "No. Le categorie di dati esposte devono essere distinte dal numero dei record interessati; l'azienda non ha confermato il furto di tutte le password originali o dei dati bancari."
         }
       ],
       "impact": 3,
@@ -227,8 +239,12 @@
       ],
       "questions": [
         {
-          "question": "Meta ha già incassato nuovi fondi grazie a queste azioni?",
-          "answer": "No. L'annuncio riguarda la struttura futura del capitale, non proventi già realizzati."
+          "question": "Che cosa distingue le azioni Class C proposte da Meta?",
+          "answer": "La società ha annunciato una nuova categoria di azioni priva di diritti di voto, ipotizzata come strumento per raccogliere capitale senza cambiare allo stesso modo il controllo societario."
+        },
+        {
+          "question": "La proposta aveva già generato proventi per l'azienda?",
+          "answer": "No. Nell'edizione si descrive il progetto e la sua possibile introduzione futura, non una raccolta di capitale già completata."
         }
       ],
       "impact": 2.5,
@@ -288,8 +304,12 @@
       ],
       "questions": [
         {
-          "question": "Anthropic è già quotata e vale ufficialmente 1.500 miliardi?",
-          "answer": "No. Si tratta di un possibile collocamento futuro e di una stima circolata tra addetti ai lavori."
+          "question": "Che cosa ha riferito Reuters sui piani di Anthropic?",
+          "answer": "La società stava valutando una possibile offerta pubblica iniziale già da novembre, ma calendario e condizioni non erano stati annunciati come definitivi."
+        },
+        {
+          "question": "Perché una valutazione ipotizzata non coincide con un prezzo di Borsa?",
+          "answer": "Una stima circolata fra investitori non è il valore ufficiale di una società quotata: servirebbero documentazione definitiva dell'offerta e operazioni effettive sul mercato."
         }
       ],
       "impact": 2,
