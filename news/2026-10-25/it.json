@@ -487,8 +487,12 @@
       ],
       "questions": [
         {
-          "question": "Lo sgombero è avvenuto fuori dalla finestra?",
-          "answer": "No: è avvenuto nella notte del 25 ottobre, prima delle 07:00 CET."
+          "question": "Che cosa è successo all'accampamento dopo il corteo per la casa a Lisbona?",
+          "answer": "La polizia ha sgomberato l'accampamento nella notte fra il 24 e il 25 ottobre. Il numero definitivo dei provvedimenti adottati deve essere distinto dalle prime cronache."
+        },
+        {
+          "question": "Il corteo ha già prodotto una modifica delle politiche abitative portoghesi?",
+          "answer": "Nelle fonti utilizzate è documentata la mobilitazione e lo sgombero, non l'approvazione di nuove misure sugli affitti o sull'accesso alla casa."
         }
       ],
       "sources": [
