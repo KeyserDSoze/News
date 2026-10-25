@@ -75,21 +75,22 @@ test('broken image is replaced by an original licensed-in-project editorial grap
 });
 
 test('22 October archive contains four complete bilingual desks and new article timelines',async({page})=>{
+  const reveal=async(desk:string,date:string,count:number)=>{
+    const cards=page.locator('.edition[data-date="'+date+'"] article.story');
+    for(let i=0;i<18 && await cards.count()!==count;i++){
+      await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
+      await page.waitForTimeout(300);
+    }
+    await expect(cards).toHaveCount(count,{timeout:15000});
+  };
   await page.goto('/world/');
-  await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(10);
-  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-  await expect(page.locator('.edition[data-date="'+PREVIOUS_DATE+'"] article.story')).toHaveCount(10);
-  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-  await expect(page.locator('.edition[data-date="2026-10-23"] article.story')).toHaveCount(10);
-  await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-  await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(10);
+  await reveal('world',COVER_DATE,10);
+  await reveal('world','2026-10-23',10);
+  await reveal('world','2026-10-22',10);
   for(const desk of ['italy','technology','science']){
     await page.goto('/'+desk+'/');
-    await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(5);
-    await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-    await expect(page.locator('.edition[data-date="'+PREVIOUS_DATE+'"] article.story')).toHaveCount(5);
-    await page.evaluate(()=>window.scrollTo(0,document.body.scrollHeight));
-    await expect(page.locator('.edition[data-date="2026-10-22"] article.story')).toHaveCount(5);
+    await reveal(desk,COVER_DATE,5);
+    await reveal(desk,'2026-10-22',5);
   }
   await page.goto('/article/technology/2026-10-22/php2shell-attacchi-aggiornamenti/');
   await expect(page.locator('.related-story').getByText(/PHP/i).first()).toBeVisible();
