@@ -39,12 +39,12 @@
       ],
       "questions": [
         {
-          "question": "Was the discovery made on 25 October?",
-          "answer": "No. Original announcement, vulnerability or analysis dates are stated in the article."
+          "question": "What compensation has GMO announced?",
+          "answer": "GMO announced a 5,000-yen payment for service users and compensation for trading losses proven to result from unauthorized activity. The flat payment is not a measurement of each customer's loss."
         },
         {
-          "question": "What remains uncertain?",
-          "answer": "Numero definitivo di utenti e conti danneggiati, autori e decisione del governo."
+          "question": "Has Japan already carried out active cyber-defence measures in this case?",
+          "answer": "No. GMO requested government consideration of such measures, but the reviewed sources do not confirm that authorities approved or conducted an operation."
         }
       ],
       "sources": [
@@ -127,12 +127,12 @@
       ],
       "questions": [
         {
-          "question": "Was the discovery made on 25 October?",
-          "answer": "No. Original announcement, vulnerability or analysis dates are stated in the article."
+          "question": "Are Gmail and Google Photos automatically connected to AI personalization?",
+          "answer": "Google describes the connections as opt-in: the user must choose whether other services may use that information."
         },
         {
-          "question": "What remains uncertain?",
-          "answer": "Effetti concreti, portata geografica e audit indipendenti del consenso."
+          "question": "Does the revised policy establish that advertisers can read private emails?",
+          "answer": "No. Google denies direct advertiser access to inbox content. The unresolved issue is how information voluntarily shared between services may affect personalization."
         }
       ],
       "sources": [
@@ -208,12 +208,12 @@
       ],
       "questions": [
         {
-          "question": "Was the discovery made on 25 October?",
-          "answer": "No. Original announcement, vulnerability or analysis dates are stated in the article."
+          "question": "What does it mean for Dessa to be a full-duplex voice model?",
+          "answer": "It can process incoming speech while producing spoken output, allowing interruptions and conversational backchannels rather than strictly alternating speaking turns."
         },
         {
-          "question": "What remains uncertain?",
-          "answer": "Misure riproducibili di prestazione, pesi del modello, accesso generale."
+          "question": "Do the demos prove Dessa handles every conversation reliably?",
+          "answer": "No. Company-selected recordings are not independent performance benchmarks; newsroom accounts also described mistakes and confused responses."
         }
       ],
       "sources": [
@@ -282,12 +282,12 @@
       ],
       "questions": [
         {
-          "question": "Was the discovery made on 25 October?",
-          "answer": "No. Original announcement, vulnerability or analysis dates are stated in the article."
+          "question": "Which ASUS routers need a firmware update?",
+          "answer": "Only affected models and firmware lines identified in official advisories. Owners need to compare the installed version with the fix specified for their particular device."
         },
         {
-          "question": "What remains uncertain?",
-          "answer": "Numero di dispositivi ancora vulnerabili e aggiornamenti disponibili per i modelli specifici."
+          "question": "Can anyone on the internet automatically compromise every ASUS router?",
+          "answer": "No. Exploitation depends on the particular flaw and in some cases requires access to an adjacent network; not every ASUS device is affected."
         }
       ],
       "sources": [
@@ -363,12 +363,12 @@
       ],
       "questions": [
         {
-          "question": "Was the discovery made on 25 October?",
-          "answer": "No. Original announcement, vulnerability or analysis dates are stated in the article."
+          "question": "Why might a patched computer still be exposed to BlackX?",
+          "answer": "Some Secure Boot protections require additional revocation entries. Ordinary patch installation alone does not guarantee that every vulnerable boot component has been blocked."
         },
         {
-          "question": "What remains uncertain?",
-          "answer": "Vittime accertate, perimetro delle compromissioni, identità degli operatori."
+          "question": "Has the operator of BlackX been conclusively identified as APT41?",
+          "answer": "No. Kaspersky assessed that connection with moderate confidence; shared technical traits do not conclusively identify the actors."
         }
       ],
       "sources": [
