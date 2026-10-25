@@ -33,7 +33,7 @@ Le bozze Mondo e Italia provengono da un dossier redatto in precedenza e **richi
 ### Scienza — controlli obbligatori
 1. **DeLLphi-305 (SCLC):** dati presentati il **24 ottobre**; verificare studio primario NEJM, Reuters e OncLive, valori di sopravvivenza e tossicità.
 2. **VOLGA (tumore della vescica):** dati presentati il **24 ottobre**; confrontare il paper primario, La Repubblica e Urology Times; attenzione ai bracci dello studio e agli endpoint.
-3. **DASL-HiCaP (prostata):** dati ESMO del **24 ottobre**; **seconda testata giornalistica indipendente non accertata** (OncoDaily + Bayer e Cancer Trials Ireland non bastano se manca seconda redazione). La sopravvivenza globale non è dimostrata migliore.
+3. **DASL-HiCaP (prostata):** dati ESMO del **24 ottobre**; **trovati resoconti indipendenti ANSA e la Repubblica**, oltre a OncoDaily, Bayer e Cancer Trials Ireland; verificare nel dettaglio attribuzione/ora e testo prima di considerarlo approvato. La sopravvivenza globale non è dimostrata migliore.
 4. **PROTEUS (prostata):** dati ESMO del **24 ottobre**; CancerNetwork e Urology Times potrebbero condividere gruppo editore; **indipendenza editoriale da verificare**. Evitare equivalenza fra event-free survival e overall survival.
 5. **TANGENT (TGCT raro):** dati ESMO del **24 ottobre**; **seconda testata giornalistica indipendente assente** nel dossier, studio storico di progettazione non verifica i risultati recenti.
 
