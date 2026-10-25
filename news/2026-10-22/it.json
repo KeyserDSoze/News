@@ -30,8 +30,12 @@
       ],
       "questions": [
         {
-          "question": "Sette petroliere sono state distrutte con certezza?",
-          "answer": "No. Le fonti distinguono tra affermazioni su navi colpite e prove di danni effettivi."
+          "question": "Che cosa hanno rivendicato i Guardiani della Rivoluzione nello Stretto di Hormuz?",
+          "answer": "L'IRGC ha parlato di incidenti che avrebbero coinvolto sette navi, ma le fonti disponibili non confermano la distruzione effettiva di tutte le imbarcazioni."
+        },
+        {
+          "question": "Perché è importante distinguere una rivendicazione dai danni accertati?",
+          "answer": "Le dichiarazioni di una parte coinvolta descrivono ciò che sostiene di aver fatto; per valutare l'effetto sul traffico navale servono verifiche indipendenti e riscontri sulle singole navi."
         }
       ],
       "impact": 3.5,
@@ -91,8 +95,12 @@
       ],
       "questions": [
         {
-          "question": "Le trattative hanno fermato gli attacchi?",
-          "answer": "No. Le ostilità proseguivano mentre si discuteva di ulteriori colloqui."
+          "question": "Che cosa è accaduto a Kiev mentre proseguivano i contatti diplomatici?",
+          "answer": "La città è stata colpita da missili russi anche durante la discussione su possibili nuovi negoziati fra Stati Uniti e Russia."
+        },
+        {
+          "question": "I contatti diplomatici avevano già prodotto un cessate il fuoco?",
+          "answer": "No. Non risultava un accordo operativo che interrompesse gli attacchi; i colloqui e le operazioni militari restavano processi distinti."
         }
       ],
       "impact": 3,
@@ -152,8 +160,12 @@
       ],
       "questions": [
         {
-          "question": "Parlare di negoziati equivale a firmare la pace?",
-          "answer": "No. Calendario, territorio e garanzie sono ancora oggetto di disaccordo."
+          "question": "Qual è il punto più controverso dei possibili colloqui sulla guerra?",
+          "answer": "Le posizioni sul Donbas e sulle garanzie di sicurezza restano distanti: la disponibilità a parlare non equivale a un'intesa sui territori."
+        },
+        {
+          "question": "Era già stata stabilita una data per un nuovo vertice?",
+          "answer": "No. Le fonti descrivevano aperture negoziali, ma non un calendario definitivo o un accordo di pace sottoscritto."
         }
       ],
       "impact": 3,
@@ -213,8 +225,12 @@
       ],
       "questions": [
         {
-          "question": "Tutti gli aeroporti sauditi sono chiusi?",
-          "answer": "No. Le informazioni disponibili si riferiscono allo specifico aeroporto di Dammam."
+          "question": "Quale bilancio è stato comunicato per l'attacco all'aeroporto di Dammam?",
+          "answer": "Le prime notizie hanno indicato una persona uccisa e otto ferite nell'area aeroportuale, senza una valutazione definitiva dei danni alle infrastrutture."
+        },
+        {
+          "question": "Che cosa si può dire dell'impatto sull'aviazione saudita?",
+          "answer": "Le informazioni consultate riguardano Dammam: non dimostrano la sospensione delle operazioni in tutti gli aeroporti del paese."
         }
       ],
       "impact": 2.5,
@@ -274,8 +290,12 @@
       ],
       "questions": [
         {
-          "question": "Le ambasciate sono state tutte chiuse?",
-          "answer": "No. La misura riguarda categorie di personale, non la fine delle missioni."
+          "question": "Quali categorie di personale statunitense riguardava il provvedimento?",
+          "answer": "L'ordine di partenza interessava il personale diplomatico non essenziale e altri soggetti indicati nelle disposizioni, non necessariamente l'intera missione."
+        },
+        {
+          "question": "Perché Washington ha disposto la riduzione della presenza?",
+          "answer": "La decisione era legata alla valutazione dei rischi per la sicurezza regionale; non equivale alla rottura delle relazioni diplomatiche con Riyad."
         }
       ],
       "impact": 2.5,
@@ -335,8 +355,12 @@
       ],
       "questions": [
         {
-          "question": "Mezzo milione di persone sono morte di fame?",
-          "answer": "No. Il numero riguarda la perdita di assistenza alimentare e l'aumento del rischio umanitario."
+          "question": "Che cosa significa la cifra di circa mezzo milione per gli aiuti a Gaza?",
+          "answer": "Indica persone la cui assistenza alimentare viene ridotta o interrotta, con un conseguente aumento della vulnerabilità; non è un conteggio dei decessi."
+        },
+        {
+          "question": "Quali conseguenze può avere il taglio delle razioni?",
+          "answer": "Le famiglie già dipendenti dalle distribuzioni possono ricevere meno cibo; l'effetto effettivo dipende anche da eventuali reti alternative e dalla continuità delle consegne."
         }
       ],
       "impact": 3.5,
@@ -396,8 +420,12 @@
       ],
       "questions": [
         {
-          "question": "Il calo prova che i modelli AI sono un fallimento?",
-          "answer": "No. I mercati esprimono attese economiche, non una valutazione conclusiva della tecnologia."
+          "question": "Quale indicatore di mercato è sceso del 2,6%?",
+          "answer": "Il Nasdaq ha registrato un calo nel contesto dei timori degli investitori sui costi e sulle prospettive economiche dell'intelligenza artificiale."
+        },
+        {
+          "question": "Il movimento di Borsa misura l'efficacia tecnica dei sistemi di IA?",
+          "answer": "No. Il prezzo delle azioni riflette aspettative su ricavi, investimenti e rischi finanziari, non un test delle capacità dei modelli."
         }
       ],
       "impact": 2.5,
@@ -457,8 +485,12 @@
       ],
       "questions": [
         {
-          "question": "La miniera è vietata in via definitiva?",
-          "answer": "No. Si tratta di una sospensione della licenza in attesa di ulteriori passaggi legali."
+          "question": "Che cosa è stato sospeso per il progetto minerario Volta Grande?",
+          "answer": "È stata sospesa una licenza rilevante per il progetto aurifero sullo Xingu, in attesa di ulteriori passaggi: non è stata annunciata una chiusura definitiva del sito."
+        },
+        {
+          "question": "Perché la decisione è importante per il territorio?",
+          "answer": "Le autorizzazioni minerarie incidono sulle prospettive economiche e sulle possibili conseguenze ambientali dell'estrazione nel bacino dello Xingu."
         }
       ],
       "impact": 2.5,
@@ -518,8 +550,12 @@
       ],
       "questions": [
         {
-          "question": "Abbiamo già raggiunto 2,8 °C?",
-          "answer": "No: è una proiezione condizionata dalle politiche attuali per il secolo."
+          "question": "Che cosa rappresentano i 2,8 °C dello scenario UNEP?",
+          "answer": "È una proiezione del riscaldamento a fine secolo se continuassero le politiche considerate nel rapporto, non un aumento già osservato."
+        },
+        {
+          "question": "Perché la previsione può cambiare?",
+          "answer": "Dipende da emissioni e decisioni politiche future: risultati diversi richiedono traiettorie di riduzione dei gas serra differenti."
         }
       ],
       "impact": 3.5,
@@ -579,8 +615,12 @@
       ],
       "questions": [
         {
-          "question": "Il prezzo alla pompa è aumentato automaticamente del 4%?",
-          "answer": "No. Prezzo del greggio e prezzo al dettaglio sono due indicatori distinti."
+          "question": "Che cosa segnala il superamento di 113 dollari per il Brent?",
+          "answer": "La quotazione del greggio riflette una maggiore pressione sui mercati energetici in un contesto di tensioni nel Golfo."
+        },
+        {
+          "question": "Perché l'aumento del greggio non coincide con quello dei carburanti al dettaglio?",
+          "answer": "Alla pompa intervengono anche raffinazione, distribuzione, tasse, scorte e tempi di trasmissione dei prezzi."
         }
       ],
       "impact": 2.5,
