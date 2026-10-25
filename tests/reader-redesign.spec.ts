@@ -32,18 +32,18 @@ test('no redundant promotional header or descriptive bands; language is remember
 test('cover edition is persisted with full body in IndexedDB before an article opens',async({page})=>{
  await page.goto('/');
  await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(10);
- await expect.poll(async()=>page.evaluate(async()=>{
+ await expect.poll(async()=>page.evaluate(async(date)=>{
   const db=await new Promise<IDBDatabase>((resolve,reject)=>{
    const request=indexedDB.open('o-local-edition-index',1);
    request.onsuccess=()=>resolve(request.result);
    request.onerror=()=>reject(request.error);
   });
   try{return await new Promise<boolean>(resolve=>{
-   const request=db.transaction('editions','readonly').objectStore('editions').get('it/world/'+COVER_DATE+'');
+   const request=db.transaction('editions','readonly').objectStore('editions').get('it/world/'+date);
    request.onsuccess=()=>resolve(Boolean(request.result?.data?.articles?.[0]?.body?.length));
    request.onerror=()=>resolve(false);
   });}finally{db.close();}
- })).toBe(true);
+ },COVER_DATE)).toBe(true);
  await page.route('**/news/'+COVER_DATE+'/it.json',route=>route.abort());
  await page.locator('.edition[data-date="'+COVER_DATE+'"] article.story').first()
   .getByRole('link',{name:'Leggi la notizia'}).click();
@@ -55,17 +55,17 @@ test('cover edition is persisted with full body in IndexedDB before an article o
 test('cached full article remains readable when the already-open app loses connectivity',async({page,context})=>{
  await page.goto('/');
  await expect(page.locator('.edition[data-date="'+COVER_DATE+'"] article.story')).toHaveCount(10);
- await expect.poll(async()=>page.evaluate(async()=>{
+ await expect.poll(async()=>page.evaluate(async(date)=>{
   const r=indexedDB.open('o-local-edition-index');
   return new Promise<boolean>(resolve=>{
    r.onsuccess=()=>{
-    const db=r.result,req=db.transaction('editions').objectStore('editions').get('it/world/'+COVER_DATE+'');
+    const db=r.result,req=db.transaction('editions').objectStore('editions').get('it/world/'+date);
     req.onsuccess=()=>{resolve(Boolean(req.result?.data?.articles?.[0]?.body?.length));db.close();};
     req.onerror=()=>{resolve(false);db.close();};
    };
    r.onerror=()=>resolve(false);
   });
- })).toBe(true);
+ },COVER_DATE)).toBe(true);
  await context.setOffline(true);
  // Client-side routing works even though fresh HTTP requests cannot succeed.
  await page.locator('.edition[data-date="'+COVER_DATE+'"] article.story').first()
