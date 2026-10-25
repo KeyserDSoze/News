@@ -22,6 +22,8 @@ jobs:
         run: npm install --no-audit --no-fund
       - name: Check autonomous publisher quality gates
         run: node --test tests/daily-publisher.test.mjs
+      - name: Test editorial questions
+        run: node --test tests/editorial-questions.test.mjs
       - name: Check editorial data
         run: node scripts/build-news.mjs --check
       - name: Build
