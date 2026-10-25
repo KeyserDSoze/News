@@ -2,6 +2,20 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.9] — 2026-10-25
+
+**Italiano — Più spazio alle notizie su mobile**
+
+- Ridotto a 8 pixel il margine laterale dei contenuti sui telefoni.
+- Le immagini principali di rassegne e articoli arrivano fino ai bordi dello schermo.
+- Layout desktop e navigazione invariati.
+
+**English — More room for stories on mobile**
+
+- Reduced mobile content gutters to 8 pixels.
+- Briefing and article images extend to the viewport edges.
+- Desktop layout and navigation remain unchanged.
+
 ## [0.0.8] — 2026-10-25
 
 **Italiano — L’audio ti segue**
