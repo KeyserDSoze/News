@@ -1,6 +1,7 @@
 import { readFile, readdir, cp, mkdir, rm, writeFile, access } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import {questionQualityIssues} from './editorial-questions.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const news=path.join(root,'news'),output=path.join(root,'src/frontend/public/news');
 const checkOnly=process.argv.includes('--check');
@@ -50,6 +51,8 @@ for(const day of dates) {
     }
     if(a.body && (!Array.isArray(a.body)||!a.body.length))fail(where+' body must be nonempty paragraphs');
     a.body?.forEach(v=>requireText(v,where+' body paragraph'));
+    const editorialIssues=questionQualityIssues(a);
+    if(editorialIssues.length)fail(where+' editorial Q&A: '+editorialIssues.join('; '));
     if(a.questions){
       if(!Array.isArray(a.questions)||!a.questions.length)fail(where+' questions must be nonempty');
       for(const q of a.questions){requireText(q.question,where+' question');requireText(q.answer,where+' answer');}
