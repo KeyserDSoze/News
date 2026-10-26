@@ -1,0 +1,66 @@
+{
+  "id": "china-fifth-plenum-party-discipline",
+  "rank": 7,
+  "category": "politics",
+  "title": "Cina, al via il quinto plenum del Partito comunista dedicato alla disciplina interna",
+  "dek": "Il Comitato centrale si riunisce dal 26 al 29 ottobre; Xi Jinping punta su controllo dei funzionari e attuazione delle direttive.",
+  "summary": "Il 26 ottobre si è aperto a Pechino il quinto plenum del Comitato centrale del Partito comunista cinese, una riunione di quattro giorni prevalentemente a porte chiuse. Secondo Reuters e Associated Press, il programma pone al centro la disciplina interna, i controlli e la capacità amministrativa. Le ipotesi sulle future nomine non vanno trattate come decisioni già prese.",
+  "body": [
+    "Lunedì 26 ottobre si è aperta a Pechino una riunione di quattro giorni del Comitato centrale del Partito comunista cinese. Il quinto plenum del ciclo politico iniziato nel 2022 si svolge in gran parte senza accesso pubblico ai lavori. Reuters e Associated Press concordano nell'indicare il rafforzamento della disciplina organizzativa come principale obiettivo dichiarato.",
+    "Il presidente Xi Jinping ha presentato ai membri un documento sulla gestione rigorosa del partito e sulla realizzazione concreta delle direttive centrali, secondo resoconti dei media ufficiali riportati da Reuters. Le proposte comprendono maggiore vigilanza sui funzionari, contrasto alla corruzione e riduzione di comportamenti amministrativi ritenuti inefficienti.",
+    "La riunione avviene prima del congresso del partito previsto nel 2027 ed è osservata anche per eventuali segnali sui futuri equilibri del vertice. Associated Press ricorda che le recenti rimozioni nel personale militare e amministrativo complicano il quadro dei partecipanti. Le stime di analisti sulle purghe non equivalgono a un elenco ufficialmente certificato di tutti i casi.",
+    "Poiché il plenum è a porte chiuse, il testo delle decisioni e gli eventuali cambiamenti del personale saranno valutabili soprattutto alla pubblicazione dei comunicati finali. È improprio interpretare discussioni attese o indiscrezioni come nomine già compiute, oppure dedurre in anticipo il nome di un successore politico di Xi."
+  ],
+  "facts": [
+    "Il quinto plenum del Comitato centrale cinese è iniziato il 26 ottobre e prosegue fino al 29.",
+    "La disciplina interna del partito e l'attuazione delle direttive sono temi dichiarati dell'incontro."
+  ],
+  "perspectives": [
+    "I media ufficiali hanno presentato il rafforzamento della disciplina come necessario per la capacità di governo.",
+    "Analisti citati da AP osservano il plenum anche in vista delle future scelte di leadership."
+  ],
+  "unknowns": [
+    "Non sono ancora disponibili tutte le decisioni finali, le eventuali nomine e l'impatto amministrativo delle nuove misure."
+  ],
+  "questions": [
+    {
+      "question": "Che ruolo ha il quinto plenum nella struttura del Partito comunista cinese?",
+      "answer": "Riunisce il Comitato centrale, organo di vertice del partito, per valutare orientamenti e decisioni politiche fra i congressi quinquennali; il tema del 2026 è la disciplina interna."
+    },
+    {
+      "question": "L'apertura del plenum determina già le nomine del congresso 2027?",
+      "answer": "No: il plenum può discutere questioni di personale e governance, ma eventuali decisioni devono emergere da comunicazioni ufficiali; le congetture sui futuri ruoli non sono nomine."
+    }
+  ],
+  "impact": 3,
+  "impactReason": "Le regole di governo del partito che dirige la seconda maggiore economia mondiale possono avere effetti duraturi, ma i risultati specifici devono ancora emergere.",
+  "tags": [
+    "Cina",
+    "plenum",
+    "governo"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "China's Xi opens Communist Party plenum, aims for firm governance measures",
+      "url": "https://www.marketscreener.com/news/china-s-xi-opens-communist-party-plenum-aims-for-firm-governance-measures-ce785cdfd080f022",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "What to know about China's plenum as Xi seeks stronger Communist Party discipline",
+      "url": "https://apnews.com/article/328a5ecc91ce19ff98c7f437341e0f3a",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/china-fifth-plenum-party-discipline.svg",
+    "alt": "Illustrazione editoriale simbolica: Cina, al via il quinto plenum del Partito comunista dedicato alla disciplina interna",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/china-fifth-plenum-party-discipline.svg",
+    "license": "© 2026 O — original illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
