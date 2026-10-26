@@ -1,0 +1,73 @@
+{
+  "id": "tor-exit-relays-ssh-email-interception",
+  "rank": 5,
+  "category": "technology",
+  "title": "Report details SSH interception through 333 compromised Tor exit relays",
+  "dek": "Attackers redirected selected connections between 2 and 5 October; encrypted communications were not universally compromised.",
+  "summary": "A technical investigation reported in the week of 20 October described 333 Tor exit relays compromised for an operation targeting SSH connections and attempting to expose plaintext email between 2 and 5 October. Ars Technica and The Hacker News explained the attack. It is not evidence that Tor's entire network or all properly encrypted traffic was broken.",
+  "body": [
+    "A Tor community investigator published details of a campaign affecting 333 exit relays, mainly during 2–5 October, and the account was covered by Ars Technica and The Hacker News. The incident involved tampering at the final server through which selected Tor traffic reached the open Internet. This is different from cracking every layer of Tor encryption.",
+    "Exit relays are the points where Tor routes connections to outside destinations. In this case, hostile relays redirected SSH sessions to one of twelve attacker-operated interception servers. A user who ignored a warning that the remote host key had changed could expose credentials and potentially enable further compromise of the destination server.",
+    "The compromised relays also blocked some ports commonly used by encrypted email connections in an attempt to encourage plaintext traffic. The published investigation could not establish whether those email downgrades succeeded. Properly protected end-to-end HTTPS traffic does not automatically become readable to an exit-node administrator.",
+    "Investigators described an initial compromise dating to August, partly involving reused administrative credentials. A researcher tested the host keys observed through roughly three thousand exits and identified anomalous redirection. The number of people actually harmed has not been established. Host-key warnings and end-to-end encryption remain important protections."
+  ],
+  "facts": [
+    "The campaign affected 333 Tor exit relays between 2 and 5 October 2026.",
+    "SSH connections could be diverted through twelve attacker-controlled interceptor servers."
+  ],
+  "perspectives": [
+    "Researcher Kaba emphasized checking SSH server identity as a way to detect interception.",
+    "Security analysts distinguish risks at untrusted exit nodes from failure of valid end-to-end encryption."
+  ],
+  "unknowns": [
+    "Confirmed victim counts and the success of attempted email downgrades remain unverified."
+  ],
+  "questions": [
+    {
+      "question": "How could a compromised Tor exit relay capture an SSH password?",
+      "answer": "It redirected the connection to an attacker server presenting a different host key; users who dismissed the warning could send their password to the interceptor."
+    },
+    {
+      "question": "Did compromise of 333 exits expose every Tor session?",
+      "answer": "No. Exit-node manipulation threatens certain connections, but correctly implemented end-to-end HTTPS encryption still prevents a hostile exit relay from reading message contents."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "The attack demonstrates a concrete threat to sensitive protocols over Tor, though actual victim numbers are undetermined.",
+  "tags": [
+    "Tor",
+    "SSH",
+    "privacy"
+  ],
+  "sources": [
+    {
+      "outlet": "Ars Technica",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Hacker News",
+      "title": "Attackers Hijacked Over 300 Tor Exit Nodes to Intercept SSH and Email Traffic",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html?hl=en&m=1",
+      "publishedAt": "2026-10-21",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Tor Project volunteers",
+      "title": "Incident report by Kaba on compromised exit nodes",
+      "url": "https://kaba.cx/blog/2026-10-20-tor-exit-relays/",
+      "publishedAt": "2026-10-20",
+      "role": "analysis"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/tor-exit-relays-ssh-email-interception.svg",
+    "alt": "Original symbolic illustration: Report details SSH interception through 333 compromised Tor exit relays",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/tor-exit-relays-ssh-email-interception.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
