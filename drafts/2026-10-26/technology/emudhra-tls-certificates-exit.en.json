@@ -1,0 +1,80 @@
+{
+  "id": "emudhra-tls-certificates-exit",
+  "rank": 4,
+  "category": "technology",
+  "title": "eMudhra exits global TLS certificate business following key-security concerns",
+  "dek": "The Indian issuer announced its departure on 22 October after browser makers challenged handling of intermediate cryptographic keys.",
+  "summary": "On 22 October eMudhra announced that it would leave the worldwide SSL/TLS certificate business after problems with intermediate certification-authority keys and consequent browser restrictions. The company says no end-entity certificates were issued by the affected intermediates. The decision concerns one business line rather than the shutdown of the entire company.",
+  "body": [
+    "Indian technology company eMudhra said on 22 October that it would exit its global SSL/TLS certificate-issuance business, which supplies credentials used by browsers to authenticate websites. Reuters and Ars Technica reported the announcement after concerns emerged about intermediate certification-authority keys. The firm intends to continue other digital-identity and electronic-signature services.",
+    "The incident involved eight intermediate keys associated with a ceremony in April 2025. Google described shortcomings that could undermine confidence in their secrecy. A certification authority's private key must remain secure because certificates signed through an untrustworthy authority may mislead clients even before an actual forged site certificate is documented.",
+    "eMudhra says no end-entity website certificates were issued under the affected intermediates and that it has found no customer data compromise. These remain attributed company statements rather than universal proof that no risk existed. Browser vendors responded with plans to restrict trust in affected certification infrastructure.",
+    "Existing customers may need to migrate services and certificates to alternative providers as browser trust policies change. Google's announced schedule includes an operational change after 26 October, which should not be described as completed at the edition's date. The case illustrates that HTTPS security depends on certificate-authority procedures as well as cryptographic algorithms."
+  ],
+  "facts": [
+    "eMudhra announced its global SSL/TLS certificate business exit on 22 October.",
+    "Google had publicly documented concerns about the protection of intermediate CA keys."
+  ],
+  "perspectives": [
+    "eMudhra says no end-entity certificates were issued through the affected intermediate authorities.",
+    "Google regarded the key-handling weaknesses as warranting changes to browser trust decisions."
+  ],
+  "unknowns": [
+    "The ultimate migration impact and whether every potentially exposed key was misused are not established."
+  ],
+  "questions": [
+    {
+      "question": "Which part of eMudhra's business is being discontinued?",
+      "answer": "The worldwide issuance of SSL/TLS website certificates, not all of the company's electronic-signature or digital-identity operations."
+    },
+    {
+      "question": "Why do weakly protected certificate-authority keys matter to browsers?",
+      "answer": "An untrusted private signing key may allow misleading certificates to be issued; browsers can therefore remove trust in an issuer before a specific forged certificate is proven."
+    }
+  ],
+  "impact": 3,
+  "impactReason": "Trust in certificate authorities underpins web security, and the issuer's withdrawal shows substantial operational consequences of failures.",
+  "tags": [
+    "TLS",
+    "certificates",
+    "browsers"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Indian firm eMudhra exits global digital certificates business after security incident",
+      "url": "https://www.reuters.com/legal/litigation/indian-firm-emudhra-exits-global-digital-certificates-business-after-2026-10-22/",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Ars Technica",
+      "title": "Disgraced eMudhra drops out of TLS business following certificate debacle",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "eMudhra",
+      "title": "eMudhra to Exit global SSL/TLS Certificate Business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "publishedAt": "2026-10-22",
+      "role": "official"
+    },
+    {
+      "outlet": "Google",
+      "title": "Protecting Chrome and Android users from compromised eMudhra intermediate CA certificates",
+      "url": "https://blog.google/security/protecting-chrome-and-android-users-from-compromised-emudhra-intermediate-ca-certificates/",
+      "publishedAt": "2026-10-20",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/emudhra-tls-certificates-exit.svg",
+    "alt": "Original symbolic illustration: eMudhra exits global TLS certificate business following key-security concerns",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/emudhra-tls-certificates-exit.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
