@@ -1,0 +1,73 @@
+{
+  "id": "brazil-lula-reelected-runoff-2026",
+  "rank": 1,
+  "category": "politics",
+  "impact": 3.5,
+  "tags": [
+    "Brasile",
+    "elezioni",
+    "Lula"
+  ],
+  "sources": [
+    {
+      "outlet": "Associated Press",
+      "title": "Lula is declared winner of Brazil's election as Bolsonaro rejects results",
+      "url": "https://apnews.com/article/e2c9fe8fc4aa3e3675b9a8ec15405d93",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+      "url": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+      "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/brazil-lula-reelected-runoff-2026.svg",
+    "alt": "Illustrazione editoriale simbolica originale, non una fotografia: urne e voto presidenziale in Brasile",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/brazil-lula-reelected-runoff-2026.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Brasile, Lula vince il ballottaggio e conquista un quarto mandato; Bolsonaro contesta l'esito",
+  "dek": "Il tribunale elettorale assegna il 51,8% a Lula contro il 48,2% a Flávio Bolsonaro. Lo sfidante annuncia un ricorso: l'esito certificato non cambia per la sola contestazione.",
+  "summary": "Nel ballottaggio del 25 ottobre 2026, Luiz Inácio Lula da Silva ha battuto Flávio Bolsonaro ed è stato dichiarato vincitore dall'autorità elettorale brasiliana. Secondo i risultati riportati da AP, Reuters e Guardian, Lula ha ottenuto circa il 51,8% dei voti validi, con un margine di quasi 4,4 milioni di preferenze. Bolsonaro ha rifiutato di concedere la sconfitta e annunciato di voler chiedere l'annullamento, contestando un'estensione di due ore del voto. L'intenzione di ricorrere non è una decisione giudiziaria di annullamento.",
+  "body": [
+    "Il Brasile ha scelto il presidente per il prossimo mandato con il secondo turno di domenica 25 ottobre. L'autorità elettorale ha dichiarato vincitore Luiz Inácio Lula da Silva, presidente uscente, contro il senatore Flávio Bolsonaro. Le agenzie Associated Press e Reuters e il Guardian concordano sull'esito e riportano un vantaggio di circa 4,4 milioni di voti: 51,8% per Lula e 48,2% per lo sfidante. I numeri si riferiscono al ballottaggio, non ai sondaggi pubblicati nei giorni precedenti.",
+    "La vittoria rappresenta il quarto mandato presidenziale non consecutivo di Lula. Il risultato rovescia il vantaggio ottenuto da Bolsonaro al primo turno di ottobre e smentisce le previsioni più favorevoli allo sfidante. La partecipazione e la mobilitazione degli elettori sono elementi della spiegazione proposta dalle cronache, ma non consentono di attribuire con certezza l'esito a una singola misura di campagna. Il mandato inizia nel gennaio 2027 secondo il calendario riportato da AP.",
+    "Flávio Bolsonaro ha dichiarato di non riconoscere la sconfitta e ha annunciato un tentativo di annullamento del voto. La sua obiezione riguarda una decisione dell'autorità giudiziaria di prolungare le operazioni elettorali di due ore. Le autorità elettorali sostengono che l'estensione non abbia alterato il risultato; gli esperti legali citati dalle cronache dubitano che la contestazione sia sufficiente. È necessario distinguere la dichiarazione del candidato, l'eventuale deposito formale del ricorso e una pronuncia del tribunale: sono passaggi differenti.",
+    "Lula ha promesso di governare per l'intero paese, insistendo su sovranità, servizi pubblici e politiche sociali. La vittoria non gli garantisce tuttavia una maggioranza parlamentare favorevole: il Congresso rimane fortemente conservatore e le scelte fiscali e di bilancio richiederanno negoziati. La reazione dei mercati e le eventuali proteste saranno sviluppi da documentare separatamente. Al momento della verifica, l'esito elettorale è confermato, mentre le conseguenze del ricorso annunciato restano da osservare."
+  ],
+  "facts": [
+    "Il tribunale elettorale brasiliano ha dichiarato Lula vincitore del ballottaggio del 25 ottobre 2026 con circa il 51,8% dei voti validi.",
+    "Flávio Bolsonaro ha annunciato di voler chiedere l'annullamento del risultato, ma non risulta un annullamento deciso da un tribunale."
+  ],
+  "perspectives": [
+    "Lula ha presentato la vittoria come un mandato a difesa della sovranità nazionale e dei servizi pubblici.",
+    "Bolsonaro contesta l'estensione dell'orario di voto; le autorità elettorali respingono l'idea che abbia modificato il risultato."
+  ],
+  "unknowns": [
+    "Non è ancora stabilito quale esito giudiziario avrà l'eventuale ricorso e quale assetto parlamentare sosterrà le prime misure del nuovo mandato."
+  ],
+  "questions": [
+    {
+      "question": "Qual è stato il margine fra Lula e Flávio Bolsonaro nel ballottaggio brasiliano?",
+      "answer": "Il tribunale elettorale ha assegnato a Lula circa il 51,8% dei voti validi contro il 48,2% di Bolsonaro: quasi 4,4 milioni di voti di differenza, secondo i conteggi ripresi da AP e Reuters."
+    },
+    {
+      "question": "Perché la contestazione di Bolsonaro non annulla automaticamente l'elezione?",
+      "answer": "La sua dichiarazione riguarda un'estensione di due ore delle votazioni. Un ricorso deve essere formalizzato e valutato dalla giustizia elettorale; nel frattempo resta valido l'esito proclamato dall'autorità competente."
+    }
+  ],
+  "impactReason": "L'elezione della maggiore economia latinoamericana e il contenzioso annunciato hanno effetti regionali e diplomatici significativi, ma non giustificano il livello massimo riservato a svolte epocali."
+}

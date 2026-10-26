@@ -1,0 +1,73 @@
+{
+  "id": "serbia-student-list-election-victory",
+  "rank": 2,
+  "category": "politics",
+  "impact": 3.5,
+  "tags": [
+    "Serbia",
+    "studenti",
+    "elezioni"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Al Jazeera",
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/serbia-student-list-election-victory.svg",
+    "alt": "Illustrazione editoriale simbolica originale, non una fotografia: manifestazione studentesca e voto parlamentare in Serbia",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/serbia-student-list-election-victory.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Serbia, Vučić ammette la sconfitta: la lista sostenuta dagli studenti verso la maggioranza",
+  "dek": "Le proiezioni attribuiscono circa 135-140 seggi su 250 alla lista degli studenti. Il risultato preliminare conclude una campagna nata da quasi due anni di proteste.",
+  "summary": "Nelle elezioni parlamentari anticipate del 25 ottobre, il presidente serbo Aleksandar Vučić ha riconosciuto la sconfitta del suo partito di fronte a una lista di candidati sostenuta dagli studenti. Reuters, Guardian e Al Jazeera riportano proiezioni di maggioranza per la Student List, con circa 135-140 seggi sui 250 del parlamento. Il movimento era nato dopo il crollo della pensilina della stazione di Novi Sad nel novembre 2024, che causò 16 morti. I risultati definitivi e la formazione del governo richiedono ancora passaggi istituzionali.",
+  "body": [
+    "Le elezioni parlamentari anticipate del 25 ottobre in Serbia hanno prodotto una svolta politica. Aleksandar Vučić, figura dominante della politica nazionale dal 2014, ha riconosciuto che il suo Partito progressista serbo è stato sconfitto dalla lista sostenuta dagli studenti. Secondo le stime preliminari citate da Reuters e Guardian, la Student List otterrebbe circa 135-140 seggi su 250, contro poco più di cento per il partito al potere. I risultati sono proiezioni, non la proclamazione definitiva di ogni seggio.",
+    "La mobilitazione ha origine nel crollo di una pensilina alla stazione ferroviaria di Novi Sad nel novembre 2024, che uccise 16 persone. Studenti e cittadini hanno chiesto responsabilità per l'opera pubblica e denunciato corruzione e opacità delle istituzioni. Da quelle proteste si è sviluppata una campagna elettorale capace di raccogliere candidature di professori, professionisti e altri esponenti della società civile. Vučić ha respinto le accuse di corruzione sistemica rivolte alla sua amministrazione.",
+    "L'affluenza è stata stimata intorno al 68-70%, un livello eccezionalmente alto rispetto alle consultazioni recenti. A Belgrado migliaia di persone hanno festeggiato nelle strade dopo l'ammissione della sconfitta. Osservatori elettorali citati dal Guardian hanno tuttavia segnalato episodi di intimidazione, possibili irregolarità e tensioni presso alcuni seggi. Queste segnalazioni richiedono accertamenti e non vanno trasformate in un giudizio indiscriminato su tutti i voti espressi.",
+    "Una maggioranza parlamentare stimata non equivale ancora a un governo insediato. I nuovi eletti dovranno scegliere una leadership, formare un esecutivo e definire posizioni su riforme anticorruzione, Unione europea, Kosovo e rapporti con Russia e Cina. Il carattere eterogeneo della lista, una risorsa nella mobilitazione, potrebbe rendere più complessa la definizione del programma. La cronaca conferma il riconoscimento della sconfitta da parte di Vučić; gli effetti istituzionali dipenderanno dai risultati ufficiali e dai passaggi successivi."
+  ],
+  "facts": [
+    "Il 25 ottobre Vučić ha riconosciuto la sconfitta del proprio partito alle elezioni parlamentari anticipate.",
+    "Le proiezioni indicavano alla Student List circa 135-140 dei 250 seggi parlamentari, con conteggio definitivo ancora da completare."
+  ],
+  "perspectives": [
+    "I sostenitori della lista studentesca interpretano il voto come richiesta di trasparenza e cambiamento democratico.",
+    "Vučić ha riconosciuto la sconfitta ma ha in passato negato le accuse di corruzione sistemica rivolte al suo governo."
+  ],
+  "unknowns": [
+    "Resta da accertare la distribuzione definitiva dei seggi, l'esito delle segnalazioni di irregolarità e chi guiderà il nuovo governo."
+  ],
+  "questions": [
+    {
+      "question": "Quanti seggi potrebbe ottenere la lista degli studenti nel parlamento serbo?",
+      "answer": "Le proiezioni citate da Reuters e Guardian indicano circa 135-140 seggi sui 250 complessivi: una maggioranza possibile, da confermare con la proclamazione ufficiale."
+    },
+    {
+      "question": "Quale evento ha trasformato le proteste studentesche serbe in un movimento nazionale?",
+      "answer": "Il crollo della pensilina della stazione di Novi Sad nel novembre 2024 uccise 16 persone. Le richieste di responsabilità e trasparenza si sono poi estese fino alla candidatura elettorale di una lista sostenuta dagli studenti."
+    }
+  ],
+  "impactReason": "Una maggioranza parlamentare proiettata per un movimento nato dalla protesta potrebbe modificare le istituzioni e gli orientamenti regionali della Serbia, ma le conseguenze dipendono dalla formazione del governo."
+}

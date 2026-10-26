@@ -1,0 +1,73 @@
+{
+  "id": "lega-salvini-reelected-party-congress",
+  "rank": 1,
+  "category": "politics",
+  "impact": 2.5,
+  "tags": [
+    "League",
+    "Salvini",
+    "Ukraine"
+  ],
+  "sources": [
+    {
+      "outlet": "ANSA",
+      "title": "Salvini resta leader della Lega, ma avverte: 'Stop armi all'Ucraina'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-resta-leader-della-lega-ma-avverte-stop-armi-allucraina_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "RaiNews",
+      "title": "Milano, Matteo Salvini confermato segretario della Lega col 76% dei voti",
+      "url": "https://www.rainews.it/tgr/veneto/articoli/2026/10/milano-congresso-straordinario-lega-salvini-confermato-segretario--04ed2789-2e99-4000-8636-128c626a2fe0.html",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Corriere della Sera",
+      "title": "Lega, Salvini resta segretario della Lega: 465 voti contro i 146 per Garavaglia",
+      "url": "https://www.corriere.it/politica/26_ottobre_25/lega-oggi-voto-segreteria-salvini-congresso-garavaglia-16fdbc65-e866-4b87-b985-451725b52xlk.shtml",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+    "alt": "Original symbolic editorial illustration, not a photograph: Italian League party congress and ballots",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Salvini wins another term as League leader with 76%, pledges to seek halt to Ukraine aid",
+  "dek": "The Milan congress gave Salvini 465 votes to Garavaglia's 146. His mandate runs to 2030, while the Ukraine proposal is not government policy.",
+  "summary": "At its extraordinary congress in Milan on 25 October, Italy's League re-elected Matteo Salvini as party secretary with 465 votes against 146 for challenger Massimo Garavaglia, about 76% of valid ballots. The new mandate lasts four years. Salvini said he would ask the cabinet to stop sending money and weapons to Ukraine, but no such government decision has been established. The party also presented a new emblem without Salvini's surname.",
+  "body": [
+    "Matteo Salvini was re-elected secretary of Italy's League at an extraordinary congress that ended in Milan on Sunday, 25 October. ANSA, RaiNews and Corriere della Sera independently reported 465 votes for Salvini and 146 for Senator Massimo Garavaglia out of 611 valid ballots. The result is roughly 76% against 24%, giving Salvini another four-year mandate through 2030. It is a decisive victory, although the challenger secured a substantial minority of party delegates.",
+    "The congress followed disagreements between the national leadership and sections of the party seeking greater emphasis on its northern regional roots. Garavaglia framed his candidacy as a way to represent different views, while politicians including Massimiliano Romeo and Attilio Fontana argued that the party needed to address internal concerns. Salvini called for unity and indicated that the composition of a new leadership team would be decided after further consultations.",
+    "During his speech, Salvini promised to bring a proposal to the cabinet to stop Italy's financial and military support for Ukraine. This was a political commitment to advocate a policy, not a measure approved by the Italian government. Foreign-policy decisions and military assistance require institutional acts and coalition agreement; an internal party ballot does not change them automatically.",
+    "The congress also unveiled an updated party symbol bearing the words 'Lega Italia federale' without Salvini's surname, while retaining the traditional figure of Alberto da Giussano. The re-elected leader must appoint senior officials and manage regional divisions as the government prepares its budget. Any effect on aid to Kyiv will need to be established through subsequent official decisions rather than inferred from a campaign-style speech at the congress."
+  ],
+  "facts": [
+    "Salvini received 465 votes against Garavaglia's 146 at the League congress on 25 October.",
+    "He promised to propose ending aid to Ukraine, but no cabinet decision adopting that proposal was established."
+  ],
+  "perspectives": [
+    "Salvini presented the vote as a mandate to strengthen the party and argue for a more critical line on assistance to Kyiv.",
+    "Garavaglia and other League figures emphasized the need to represent distinct regional interests."
+  ],
+  "unknowns": [
+    "The composition of the party's new leadership and any practical effect of the Ukraine-aid proposal remain unresolved."
+  ],
+  "questions": [
+    {
+      "question": "What was Salvini's vote margin in the League leadership election?",
+      "answer": "He won 465 valid ballots to Massimo Garavaglia's 146, roughly 76% to 24%. The new secretary's mandate lasts four years, through 2030."
+    },
+    {
+      "question": "Did the League congress itself end Italian aid to Ukraine?",
+      "answer": "No. Salvini pledged to take a proposal to the cabinet; party delegates cannot replace a formal decision by the Italian government."
+    }
+  ],
+  "impactReason": "Re-electing the leader of a governing party affects coalition dynamics and foreign-policy debate, but does not itself change government decisions."
+}

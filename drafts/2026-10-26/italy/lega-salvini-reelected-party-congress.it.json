@@ -1,0 +1,73 @@
+{
+  "id": "lega-salvini-reelected-party-congress",
+  "rank": 1,
+  "category": "politics",
+  "impact": 2.5,
+  "tags": [
+    "Lega",
+    "Salvini",
+    "Ucraina"
+  ],
+  "sources": [
+    {
+      "outlet": "ANSA",
+      "title": "Salvini resta leader della Lega, ma avverte: 'Stop armi all'Ucraina'",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-resta-leader-della-lega-ma-avverte-stop-armi-allucraina_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "RaiNews",
+      "title": "Milano, Matteo Salvini confermato segretario della Lega col 76% dei voti",
+      "url": "https://www.rainews.it/tgr/veneto/articoli/2026/10/milano-congresso-straordinario-lega-salvini-confermato-segretario--04ed2789-2e99-4000-8636-128c626a2fe0.html",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Corriere della Sera",
+      "title": "Lega, Salvini resta segretario della Lega: 465 voti contro i 146 per Garavaglia",
+      "url": "https://www.corriere.it/politica/26_ottobre_25/lega-oggi-voto-segreteria-salvini-congresso-garavaglia-16fdbc65-e866-4b87-b985-451725b52xlk.shtml",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+    "alt": "Illustrazione editoriale simbolica originale, non una fotografia: congresso della Lega e schede di voto",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Lega, Salvini rieletto segretario con il 76%; promette di chiedere lo stop agli aiuti a Kiev",
+  "dek": "Al congresso di Milano 465 voti a Salvini e 146 a Garavaglia. Il mandato dura fino al 2030, mentre la proposta sull'Ucraina non è una decisione del governo.",
+  "summary": "Il congresso straordinario della Lega a Milano si è concluso il 25 ottobre con la conferma di Matteo Salvini alla segreteria: 465 voti contro i 146 dello sfidante Massimo Garavaglia, circa il 76% dei voti validi. Il mandato durerà quattro anni. Salvini ha promesso di portare al Consiglio dei ministri la richiesta di interrompere l'invio di soldi e armi all'Ucraina; non risulta che il governo abbia approvato tale linea. Il partito presenta anche un nuovo simbolo senza il nome del leader.",
+  "body": [
+    "Matteo Salvini è stato riconfermato segretario della Lega durante il congresso straordinario concluso a Milano domenica 25 ottobre. Le cronache indipendenti di ANSA, RaiNews e Corriere della Sera riportano 465 voti per Salvini e 146 per il senatore Massimo Garavaglia, su 611 voti validi. Il risultato equivale a circa il 76% contro il 24% e assegna a Salvini un nuovo mandato quadriennale, fino al 2030. È una vittoria netta, ma la quota dello sfidante segnala un dissenso organizzato all'interno del partito.",
+    "Il congresso è stato convocato in un momento di confronto fra la leadership nazionale e settori della Lega che chiedono maggiore attenzione ai territori settentrionali. Garavaglia ha presentato la propria candidatura come espressione di sensibilità differenti, mentre esponenti come Massimiliano Romeo e Attilio Fontana hanno sostenuto l'esigenza di discutere la direzione politica. Salvini ha invitato a superare le divisioni e ha rinviato la composizione della nuova segreteria a consultazioni nelle settimane successive.",
+    "Nel suo intervento, Salvini ha dichiarato che chiederà al Consiglio dei ministri di interrompere gli aiuti economici e militari all'Ucraina. La frase esprime una posizione politica e un impegno a proporla, non un provvedimento adottato dall'esecutivo italiano. La distinzione è essenziale perché la politica estera e le forniture militari dipendono da decisioni collegiali e dagli atti istituzionali, non dal solo voto interno di un partito della maggioranza.",
+    "Il congresso ha anche presentato un simbolo aggiornato, con la dicitura «Lega Italia federale» e senza il cognome di Salvini, mantenendo il riferimento ad Alberto da Giussano. Il nuovo segretario dovrà scegliere gli incarichi dirigenti e gestire il confronto tra le correnti territoriali, mentre il governo prepara la legge di bilancio. La verifica del seguito politico richiederà di controllare eventuali deliberazioni ufficiali su Kiev, senza anticiparle sulla base del discorso congressuale."
+  ],
+  "facts": [
+    "Salvini ha ricevuto 465 voti contro i 146 di Garavaglia al congresso della Lega del 25 ottobre.",
+    "Il segretario ha annunciato che chiederà al governo di interrompere gli aiuti all'Ucraina, senza che tale misura risulti approvata."
+  ],
+  "perspectives": [
+    "Salvini descrive la rielezione come un mandato a rafforzare il partito e sostenere una linea più critica sugli aiuti a Kiev.",
+    "Garavaglia e altri esponenti hanno rivendicato la necessità di rappresentare meglio le diverse sensibilità territoriali."
+  ],
+  "unknowns": [
+    "Non sono ancora noti la composizione definitiva della nuova segreteria né gli eventuali effetti concreti della proposta sugli aiuti all'Ucraina."
+  ],
+  "questions": [
+    {
+      "question": "Con quale risultato Salvini è stato rieletto alla guida della Lega?",
+      "answer": "Ha ottenuto 465 voti validi contro i 146 di Massimo Garavaglia, circa il 76% contro il 24%. Il mandato di segretario è di quattro anni, fino al 2030."
+    },
+    {
+      "question": "Il congresso della Lega ha già fermato gli aiuti italiani all'Ucraina?",
+      "answer": "No. Salvini ha promesso di portare in Consiglio dei ministri una proposta di stop; il voto dei delegati del partito non sostituisce una decisione formale del governo."
+    }
+  ],
+  "impactReason": "La conferma del leader di un partito di governo incide sugli equilibri della maggioranza e sul dibattito sulla politica estera, ma non cambia di per sé le decisioni dell'esecutivo."
+}
