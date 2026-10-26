@@ -1,0 +1,73 @@
+{
+  "id": "italy-oct24-protests-police-balance",
+  "rank": 2,
+  "category": "society",
+  "impact": 2.5,
+  "tags": [
+    "manifestazioni",
+    "polizia",
+    "diritti"
+  ],
+  "title": "Proteste in più città italiane: nove arresti nel bilancio di polizia",
+  "dek": "Dopo i cortei del 24 ottobre, la Pubblica sicurezza comunica 4.292 identificazioni e 371 persone accompagnate negli uffici; arresti e controlli restano categorie diverse.",
+  "summary": "Il 24 ottobre manifestazioni contro il costo della vita e le misure di governo si sono svolte in diverse città italiane, con episodi di tensione a Torino, Roma e Bologna. Nel bilancio diffuso dalla Pubblica sicurezza figurano nove arresti, 87 denunce, 4.292 identificazioni e 371 persone accompagnate negli uffici, fra cui 110 minorenni. L'accompagnamento non equivale automaticamente a un arresto o a una condanna.",
+  "body": [
+    "Sabato 24 ottobre si sono svolte manifestazioni in diverse città italiane in un contesto di proteste contro il costo della vita e di forte dispiegamento delle forze dell'ordine. ANSA e AFP hanno descritto cortei a Milano, Roma e Torino e scontri in alcune piazze. La presenza di episodi di violenza non significa che tutti i partecipanti vi abbiano preso parte.",
+    "Il Dipartimento della Pubblica sicurezza ha comunicato a fine giornata 4.292 persone identificate, nove arrestate e 87 denunciate. Altre 371 persone, incluse 110 minorenni, sono state accompagnate o trattenute temporaneamente in uffici di polizia per accertamenti. Il dato dei controlli non deve essere presentato come numero di persone arrestate: descrive attività amministrative e investigative differenti.",
+    "Adnkronos ha riferito delle tensioni a Torino, Roma e Bologna; AFP ha raccolto anche testimonianze di persone scese in piazza per esercitare il diritto di protesta. Il governo ha rivendicato l'azione preventiva della polizia, mentre le ricostruzioni sulle modalità degli interventi e sulle responsabilità personali necessitano di elementi verificati caso per caso.",
+    "Tra gli accertamenti compare la posizione di Youssef Siher, indicato dagli investigatori come presunto promotore del Movimento 17 ottobre. Si tratta di ipotesi e contestazioni investigative, non di una decisione giudiziaria definitiva. È inoltre importante distinguere i fatti del 24 ottobre dai disordini del fine settimana precedente e attendere gli eventuali sviluppi processuali."
+  ],
+  "facts": [
+    "Per i cortei del 24 ottobre il Dipartimento della Pubblica sicurezza ha comunicato nove arresti, 87 denunce e 4.292 identificazioni.",
+    "Le 371 persone accompagnate negli uffici non costituiscono ulteriori 371 arresti."
+  ],
+  "perspectives": [
+    "Il governo ha descritto le operazioni di polizia come necessarie a garantire sicurezza e manifestazioni pacifiche.",
+    "AFP ha riportato le ragioni di manifestanti che rivendicano il diritto di esprimere dissenso."
+  ],
+  "unknowns": [
+    "Esiti delle verifiche sui singoli fermati e responsabilità penali negli episodi di violenza non sono accertati definitivamente."
+  ],
+  "questions": [
+    {
+      "question": "Che differenza c'è tra i nove arresti e le 371 persone accompagnate negli uffici?",
+      "answer": "Nel bilancio del 24 ottobre i nove arresti sono provvedimenti distinti dalle 371 persone accompagnate per controlli e accertamenti; il secondo numero non indica 371 arresti."
+    },
+    {
+      "question": "Quali città hanno registrato tensioni durante i cortei del 24 ottobre?",
+      "answer": "Le cronache hanno documentato scontri o interventi delle forze dell'ordine soprattutto a Torino, Roma e Bologna; a Milano si sono svolte anche marce prevalentemente pacifiche."
+    }
+  ],
+  "impactReason": "La gestione dell'ordine pubblico e del diritto di manifestare interessa varie città e numerose persone, senza implicare automaticamente responsabilità collettive.",
+  "sources": [
+    {
+      "outlet": "ANSA",
+      "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Adnkronos",
+      "title": "Cortei in Italia, scontri da Torino a Roma: quasi 5mila identificati",
+      "url": "https://www.adnkronos.com/cronaca/cortei-24-ottobre-arresti-denunce-scontri_5rJYd93Mxz9fh2YebsKIJu",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "AFP",
+      "title": "Thousands protest in Italy under heavy security",
+      "url": "https://www.thelocal.it/20261025/thousands-protest-in-italy-under-heavy-security",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/italy-oct24-protests-police-balance.svg",
+    "alt": "Illustrazione editoriale originale e simbolica: Proteste in più città italiane: nove arresti nel bilancio di polizia",
+    "credit": "O — original editorial vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/italy-oct24-protests-police-balance.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
