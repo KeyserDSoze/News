@@ -187,8 +187,8 @@
           "answer": "Indica la quota di partecipanti senza ricomparsa del melanoma a due anni nel gruppo intismeran più pembrolizumab; nel controllo con sola immunoterapia era il 70,0%, una differenza assoluta di 12,2 punti."
         },
         {
-          "question": "Il 42% di riduzione del rischio rappresenta persone guarite grazie al vaccino?",
-          "answer": "No: è una differenza relativa nel rischio di recidiva o morte durante l'osservazione, derivata da hazard ratio 0,58; la sopravvivenza globale e gli effetti a lunghissimo termine non sono ancora determinati."
+          "question": "Come si confrontano la riduzione relativa del 42% e il vantaggio assoluto di 12,2 punti in INTerpath-001?",
+          "answer": "Il 42% è la riduzione relativa del rischio di recidiva o morte durante il periodo studiato, espressa dall'hazard ratio di 0,58. A due anni la quota senza recidiva era dell'82,2% contro il 70,0%, quindi 12,2 punti percentuali in più con la combinazione."
         }
       ],
       "impact": 3.5,
