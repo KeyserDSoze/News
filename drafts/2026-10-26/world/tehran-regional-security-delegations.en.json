@@ -1,0 +1,73 @@
+{
+  "id": "tehran-regional-security-delegations",
+  "rank": 10,
+  "category": "world",
+  "title": "Saudi, Pakistani and Turkish delegations hold security talks in Tehran",
+  "dek": "The 26 October meetings aim at regional de-escalation but have not yielded a verified US-Iran agreement.",
+  "summary": "Senior officials from Saudi Arabia, Pakistan and Turkey travelled to Tehran on 26 October for meetings about regional security and efforts to avert renewed conflict. Reuters, Associated Press and AFP identified Saudi Defence Minister Khalid bin Salman and Pakistan's army chief Asim Munir among the participants. The detailed negotiating positions and any eventual agreement remain unresolved.",
+  "body": [
+    "Senior officials from Saudi Arabia, Pakistan and Turkey travelled to Tehran on 26 October for talks with Iranian authorities. Reuters, AP and AFP reported a diplomatic effort to reduce the risk of renewed hostilities involving Iran, Israel and the United States, as well as tensions elsewhere in the region. The gathering is a meeting, not a signed peace agreement.",
+    "Identified participants included Saudi Defence Minister Khalid bin Salman, Pakistan's army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin. Iranian and Saudi officials acknowledged the contacts; further details about the proposed agenda were attributed to regional officials who spoke anonymously because they were not authorized to discuss the negotiations publicly.",
+    "The contacts follow regional fighting that has affected trade routes, energy supplies and security around the Red Sea and Strait of Hormuz. AP said the discussions would also cover Yemen and attacks by Houthi forces. Nothing in the reports establishes that the delegations have already reopened shipping channels or agreed to a binding cessation of hostilities.",
+    "Iranian officials say indirect messages with Washington continue and that diplomatic options remain open. Those are attributable government positions rather than evidence of a completed bargain. Any proposed concessions, responses by other states and actual effects on military activity must be evaluated when documents or subsequent developments make them verifiable."
+  ],
+  "facts": [
+    "Delegations from Saudi Arabia, Pakistan and Turkey attended regional-security talks in Tehran on 26 October.",
+    "Reports identified Khalid bin Salman, Asim Munir and Ibrahim Kalin among the delegates."
+  ],
+  "perspectives": [
+    "Iranian and Saudi officials described the contacts as an attempt to reduce regional tensions.",
+    "Iranian officials say channels for indirect communications with Washington remain open."
+  ],
+  "unknowns": [
+    "It is not established whether the talks will produce enforceable measures on security, Yemen or US-Iran relations."
+  ],
+  "questions": [
+    {
+      "question": "Which governments sent senior representatives to Tehran on 26 October?",
+      "answer": "Saudi Arabia, Pakistan and Turkey sent senior officials, including Khalid bin Salman, Asim Munir and Ibrahim Kalin, to meet Iranian authorities."
+    },
+    {
+      "question": "Do the Tehran meetings amount to a US-Iran ceasefire agreement?",
+      "answer": "No. The sources establish security consultations and de-escalation efforts, not a signed or independently verified cessation of hostilities."
+    }
+  ],
+  "impact": 3,
+  "impactReason": "The regional dialogue involves major security actors and could reduce escalation risks, but its substantive results are not yet confirmed.",
+  "tags": [
+    "Iran",
+    "diplomacy",
+    "security"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/26/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting",
+      "url": "https://apnews.com/article/36486edb61b3bf4e0df67e8a17123e44",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "AFP",
+      "title": "Iran says officials from Saudi, Turkey, Pakistan to visit Tehran for security talks",
+      "url": "https://english.ahram.org.eg/NewsContent/2/8/580893/World/Region/Iran-says-officials-from-Saudi%2C-Turkey%2C-Pakistan-t.aspx",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/tehran-regional-security-delegations.svg",
+    "alt": "Original symbolic editorial illustration: Saudi, Pakistani and Turkish delegations hold security talks in Tehran",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/tehran-regional-security-delegations.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
