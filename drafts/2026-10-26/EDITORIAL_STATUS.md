@@ -1,40 +1,33 @@
 # O — Editorial status, 2026-10-26
 
-**STATUS: INCOMPLETE / NOT FOR PUBLICATION.** This is an isolated research draft, not a daily edition. Nothing in `news/2026-10-26/` has been written and `main` must not be changed from this branch. The required quota is 25 distinct stories, not 7.
+**STATUS: 25/25 EDITION FILES PREPARED ON PR #6; NOT PUBLISHED UNTIL ALL GATES PASS.**
 
-## Source-checked bilingual drafts
+The publication branch now contains eight complete `news/2026-10-26/` JSON files and 25 original SVG illustrations. The 50 localized article texts cover World 10, Italy 5, Technology 5 and Science 5. Existing editions remain untouched.
 
-| Desk | Drafts saved | Required | Missing |
-|---|---:|---:|---:|
-| World | 3 | 10 | 7 |
-| Italy | 1 | 5 | 4 |
-| Technology | 1 | 5 | 4 |
-| Science | 2 | 5 | 3 |
-| **Total** | **7** | **25** | **18** |
+## Verified structure
 
-The drafts contain **14 complete IT/EN article JSON files**, **seven original SVG editorial illustrations**, 4 substantial paragraphs in each language, 2 subject-specific Q&As in each language, exactly 3 tags and 2–4 named sources each. The source list includes at least two separately owned reporting publishers per article, with official records added where relevant. Source article dates range from **22 to 26 October**; the election and return events described occurred **25 October**, the US Treasury proposal was issued **22 October** with a Chinese response **24 October**, and the clinical-trial results were presented **25 October**. No draft should be represented as breaking news occurring on the issue date when the event was earlier.
+- World: 10 original bilingual articles (`news/2026-10-26/it.json`, `en.json`).
+- Italy: 5 (`news/2026-10-26/italy/{it,en}.json`).
+- Technology: 5 (`news/2026-10-26/technology/{it,en}.json`).
+- Science: 5 (`news/2026-10-26/science/{it,en}.json`).
+- Assets: 25 original, symbolic SVGs with distinct labels and image credits; illustrations are **not photographs**.
+- Bilingual Q&A: **100** written Q&As total (two per article and language), checked for repeated prompts and obvious empty content across the issue.
 
-### Draft identifiers
+The branch also retains the underlying 50 per-article JSON research drafts and 25 draft illustrations for review/audit.
 
-- World: `brazil-lula-reelected-runoff-2026`, `serbia-student-list-election-victory`, `venezuela-machado-return-oct25`.
-- Italy: `lega-salvini-reelected-party-congress`.
-- Technology: `us-outbound-tech-investment-rule-china`.
-- Science: `krascendo1-divarasib-kras-lung-cancer`, `clarity-gastric01-sonesitatug-survival`.
+## Research and editorial precautions
 
-## Verification completed
+- Prior editions and current schema/README/policy/Q&A guidance have been read. A Jordan security update links the 24 October Karak report; other developing events use distinct dated stories.
+- Each new article has at least two attributed, separately owned news-reporting publishers, supplemented by relevant primary material where available. Original scientific records and vendors' press releases are not treated as independently verified clinical outcomes.
+- Original event dates and subsequent reporting dates are distinguished. In particular, PHP patches were released 21 October; the Tor relay attack occurred 2–5 October but was detailed in later reporting; the first PM577a administration was announced 5 October and newly examined by Nature on 22 October.
+- Claims about the **planned**, not yet observed, 26 October Tehran talks were corrected. Misspelled URLs in Microsoft MAI-DxO and Tor original reporting were fixed after opening the source pages.
+- Scientific hazards and treatment efficacy, accuracy measured in simulated diagnostic cases, and prospective regulatory decisions are explicitly separated from settled outcomes.
+- Editorial review of the 25 stories, including detailed semantic equivalence of all questions and answers, still needs to remain transparent; deterministic structural scripts alone cannot attest every reported fact.
 
-- Read README, editorial policy, contributing guide, editorial Q&A guidance, TypeScript types, build-news script and previous editions.
-- Compared subjects against the 22–25 October archive. Brazil and Serbia are new **results** following earlier pre-election coverage; no old story was silently modified.
-- Consulted independent journalism and original records as documented in each JSON. Distinguish primary clinical studies/company statements from independent newsroom reporting.
-- Re-fetched all 14 GitHub draft JSON files: JSON parse succeeded, stable ID/rank/impact/category matched across IT/EN; each language has four paragraphs of at least 45 words, two Q&As with informative answers, no duplicated questions in the seven-draft set, and three tags.
-- Re-fetched all seven SVG files from the draft branch: each exists and contains an SVG element. They are labelled original symbolic illustrations, not event photographs.
+## Automated review and release gate
 
-## Unmet publication gates
+A preliminary in-chat structural audit of the 50 draft JSONs found no missing articles, ranking gaps, locale metadata mismatches, empty Q&As, missing image drafts, or duplicate question prompts. This is **not** a substitute for repository scripts.
 
-- **18 additional stories**, their independent sources, 36 localized articles, and 18 original illustrations are missing.
-- The 8 edition JSON files under `news/2026-10-26/` do not exist; do not create incomplete editions to satisfy the schema.
-- The deterministic archive/content check, frontend build, Playwright suite, CI and Pages deploy **have not been executed against a full 2026-10-26 edition**. Checks on the existing archive cannot certify an unpublished edition.
-- Automated text checks cannot establish the semantic correctness of every assertion; further independent editorial audit and checking of all source URLs at release time are required.
-- No merge, release, deployment or public availability of this draft is authorized. Leave `main` and onews.app untouched.
+**Pending actual GitHub PR Actions validation:** content/source/schema checks, the editorial Q&A automated test, application build and Playwright E2E suite. Verify that all checks succeed on the final PR head and review any warnings/failures before merging. Merge is allowed only if independent verification and all checks pass. Publication must then be confirmed by the production Pages deployment and a live-site check.
 
-This record is a transparent work-in-progress. Do not mark the PR ready or merge until all 25 stories, eight complete bilingual JSON edition files, illustrations and all checks are complete and verified.
+At time of this note: branch/PR only. **No merge to main, and no live issue claimed.**
