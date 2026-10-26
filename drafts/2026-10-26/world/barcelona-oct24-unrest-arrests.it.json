@@ -1,0 +1,73 @@
+{
+  "id": "barcelona-oct24-unrest-arrests",
+  "rank": 8,
+  "category": "society",
+  "title": "Barcellona, 128 arresti dopo i disordini del 24 ottobre",
+  "dek": "Tra i fermati 72 minorenni, secondo i Mossos d'Esquadra; i dati aggiornano un primo bilancio di cento arresti.",
+  "summary": "Gli scontri seguiti a una manifestazione convocata sui social a Barcellona sabato 24 ottobre hanno portato, nel bilancio diffuso il giorno successivo dai Mossos d'Esquadra, a 128 arresti, di cui 72 minorenni, e a 15 agenti feriti. EFE, Europa Press ed Euronews riferiscono danni a negozi e incendi. Le indagini sulle responsabilità personali e sull'organizzazione dell'evento non sono concluse.",
+  "body": [
+    "A Barcellona il 24 ottobre una manifestazione convocata attraverso i social media è sfociata in disordini attorno a Plaça de Catalunya. Le cronache di EFE, Europa Press ed Euronews descrivono danneggiamenti di vetrine, alcuni saccheggi e incendi di arredi urbani. La mobilitazione riprendeva parole d'ordine collegate alle proteste giovanili francesi.",
+    "I Mossos d'Esquadra hanno aggiornato domenica 25 ottobre il bilancio a 128 arrestati, di cui 72 minori, e 15 agenti feriti. Secondo EFE, gli investigatori hanno registrato danni a 23 esercizi commerciali e 33 incendi che hanno richiesto interventi dei vigili del fuoco. I dati sostituiscono le cifre provvisorie diffuse durante la notte.",
+    "Il presidente della Generalitat, Salvador Illa, ha condannato gli atti violenti e ha promesso accertamenti per individuare gli organizzatori. Le sue dichiarazioni non equivalgono a condanne giudiziarie. Partecipare a un raduno e commettere vandalismi sono comportamenti distinti, e la responsabilità individuale deve essere verificata caso per caso.",
+    "Le piattaforme social hanno svolto un ruolo nella diffusione dell'appello, ma la presenza di contenuti online non dimostra da sola una regia unica o una relazione causale diretta con ogni episodio. Il seguito delle indagini e il trattamento dei minorenni arrestati richiederanno ulteriori informazioni ufficiali."
+  ],
+  "facts": [
+    "Il bilancio dei Mossos relativo agli scontri del 24 ottobre è di 128 arresti, tra cui 72 minorenni.",
+    "EFE riferisce 15 agenti feriti, 23 attività danneggiate e 33 incendi."
+  ],
+  "perspectives": [
+    "Salvador Illa ha condannato i danneggiamenti e chiesto l'identificazione dei responsabili.",
+    "Le cronache descrivono una convocazione giovanile attraverso canali social, senza attribuire automaticamente a tutti i partecipanti azioni violente."
+  ],
+  "unknowns": [
+    "Non sono ancora noti gli esiti giudiziari per i singoli arrestati e tutte le responsabilità nell'organizzazione dei disordini."
+  ],
+  "questions": [
+    {
+      "question": "Perché alcune prime cronache di Barcellona parlavano di cento arresti?",
+      "answer": "La polizia aveva comunicato un bilancio iniziale durante la notte; il 25 ottobre i Mossos lo hanno aggiornato a 128 persone, delle quali 72 minorenni."
+    },
+    {
+      "question": "Quali danni concreti sono stati documentati durante i disordini?",
+      "answer": "Secondo EFE, le autorità hanno contato danni a 23 esercizi, 33 incendi con interventi dei pompieri e 15 agenti feriti; la responsabilità penale resta individuale."
+    }
+  ],
+  "impact": 2,
+  "impactReason": "Gli scontri hanno provocato danni e numerosi arresti, con particolare attenzione alla tutela dei minori e alle garanzie giudiziarie.",
+  "tags": [
+    "Barcellona",
+    "proteste",
+    "minori"
+  ],
+  "sources": [
+    {
+      "outlet": "EFE",
+      "title": "128 detenidos y 15 policías heridos en los disturbios de Barcelona",
+      "url": "https://efe.com/espana/2026-10-25/disturbios-barcelona-detenidos-heridos/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Europa Press",
+      "title": "128 detenidos en los disturbios de Barcelona",
+      "url": "https://www.europapress.es/catalunya/noticia-128-detenidos-disturbios-barcelona-illa-dice-implicados-pagaran-precio-20261025164218.html",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Euronews",
+      "title": "128 arrested after night of unrest and looting in Barcelona",
+      "url": "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/barcelona-oct24-unrest-arrests.svg",
+    "alt": "Illustrazione editoriale simbolica: Barcellona, 128 arresti dopo i disordini del 24 ottobre",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/barcelona-oct24-unrest-arrests.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
