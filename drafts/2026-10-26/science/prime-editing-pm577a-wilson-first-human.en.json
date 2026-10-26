@@ -1,0 +1,73 @@
+{
+  "id": "prime-editing-pm577a-wilson-first-human",
+  "rank": 5,
+  "category": "society",
+  "title": "In-vivo prime-editing treatment enters first Wilson disease trial; results due in 2027",
+  "dek": "Experimental PM577a was first administered in early October; 22 October coverage does not establish successful DNA correction or clinical benefit.",
+  "summary": "The first participant with Wilson disease has received experimental PM577a, designed to repair the H1069Q variant of the ATP7B gene directly inside liver cells. Prime Medicine announced dosing on 5 October and Nature explored the milestone on 22 October. No individual clinical data on safety, confirmed DNA editing or health benefit have yet been released.",
+  "body": [
+    "On 22 October Nature reported in depth on a new clinical trial of PM577a, an experimental prime-editing product designed to repair a particular genetic mutation directly inside a patient's liver cells. Sponsor Prime Medicine had already announced the first administration on 5 October. That distinction in dates matters: the dose was not administered for the first time on this edition's publication day.",
+    "Wilson disease results from harmful variants of the ATP7B gene, which normally enables the liver to clear excess copper from the body. Accumulated copper can damage the liver, nervous system and other organs. PM577a is designed to correct the H1069Q mutation, common in some affected populations, using editing components delivered by lipid nanoparticles.",
+    "Prime editing is intended to rewrite particular stretches of DNA rather than merely disable a gene. An in-vivo treatment aims to avoid the expensive steps of collecting a patient's cells, editing them in a laboratory and returning them. However, delivering the editor to the correct tissue and controlling unintended changes introduce distinct safety challenges. Nature spoke to researchers and patient advocates about these trade-offs.",
+    "The phase 1/2 study is designed to assess safety, tolerability and early biological activity. Public confirmation of a dose does not show that the intended mutation has been fixed, still less that the patient has experienced lasting clinical improvement. The sponsor expects initial study results in 2027, leaving effectiveness and longer-term risk unresolved."
+  ],
+  "facts": [
+    "Prime Medicine announced the first participant received PM577a on 5 October 2026.",
+    "Initial clinical findings from the phase 1/2 Wilson disease study are expected in 2027."
+  ],
+  "perspectives": [
+    "Prime Medicine frames PM577a as a potential single-dose approach to a specific ATP7B mutation.",
+    "Researchers quoted by Nature stress the trade-offs between in-vivo treatment accessibility and its delivery and safety risks."
+  ],
+  "unknowns": [
+    "Actual editing of the target gene, long-term safety and clinical benefit in the first participant have not been reported."
+  ],
+  "questions": [
+    {
+      "question": "Which Wilson disease mutation does PM577a aim to repair?",
+      "answer": "It targets H1069Q in ATP7B, a gene needed to clear copper from the liver; loss of that function can lead to harmful copper accumulation."
+    },
+    {
+      "question": "How is in-vivo prime editing different from editing cells outside the body?",
+      "answer": "PM577a delivers editing machinery directly toward the liver inside the patient, whereas ex-vivo approaches take cells out, edit them in a laboratory and return them."
+    }
+  ],
+  "impact": 2,
+  "impactReason": "The first in-vivo administration marks a potentially important technical step, but there is no public clinical evidence yet of benefit in the participant.",
+  "tags": [
+    "prime-editing",
+    "Wilson",
+    "ATP7B"
+  ],
+  "sources": [
+    {
+      "outlet": "Nature",
+      "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+      "url": "https://www.nature.com/articles/d41586-026-03371-x",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "News9 Science",
+      "title": "First patient receives in vivo prime editing therapy PM577a",
+      "url": "https://www.news9live.com/science/prime-editing-human-body-first-time-proof-pending-3018313",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Prime Medicine",
+      "title": "First Patient Dosed in Global Phase 1/2 Clinical Trial of PM577a",
+      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374466/0/en/prime-medicine-announces-first-patient-dosed-in-global-phase-1-2-clinical-trial-of-pm577a-for-h1069q-mutated-wilson-disease.html",
+      "publishedAt": "2026-10-05",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+    "alt": "Original symbolic editorial illustration: In-vivo prime-editing treatment enters first Wilson disease trial; results due in 2027",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
