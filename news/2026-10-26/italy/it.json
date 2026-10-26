@@ -182,12 +182,12 @@
       ],
       "questions": [
         {
-          "question": "Il limite Eni di 1,99 euro per la benzina resterà fisso fino a dicembre?",
-          "answer": "No: è confermata la continuazione del meccanismo di price cap, ma Eni ha detto che la soglia attuale sarà rivalutata in base al mercato e alle forniture."
+          "question": "Quale meccanismo Eni continuerà ad applicare ai carburanti fino a dicembre?",
+          "answer": "Eni manterrà un tetto di prezzo dinamico: il valore indicato per la benzina al 23 ottobre era di 1,99 euro al litro, ma Descalzi ha spiegato che le soglie potranno variare con i prezzi di mercato e la disponibilità delle forniture."
         },
         {
-          "question": "Quali fattori possono far cambiare la soglia Eni di 1,99 euro al litro per la benzina?",
-          "answer": "Eni manterrà il meccanismo di limite fino a dicembre, ma Descalzi ha indicato l'evoluzione dei prezzi di mercato e la disponibilità delle forniture nella rete logistica come fattori che possono modificare la soglia."
+          "question": "Quale utile trimestrale Eni ha comunicato insieme alla decisione sui carburanti?",
+          "answer": "Reuters ha riportato un utile netto rettificato di 2,8 miliardi di euro nel terzo trimestre 2026, più del doppio del valore di un anno prima. Il dato sugli utili e il tetto commerciale dei carburanti sono misure distinte."
         }
       ],
       "impactReason": "La politica di prezzo di un grande operatore e gli utili energetici hanno effetti economici nazionali, senza fissare prezzi uniformi in tutta Italia.",
