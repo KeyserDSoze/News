@@ -1,6 +1,26 @@
 {
   "releases": [
     {
+      "version": "0.0.12",
+      "date": "2026-10-26",
+      "it": {
+        "title": "Immagine in evidenza a tutta larghezza su mobile",
+        "highlights": [
+          "Corretta la larghezza dell’immagine della prima notizia nelle quattro rubriche sugli schermi mobili.",
+          "Uniformata la presentazione delle immagini mantenendo le proporzioni e i margini ridotti."
+        ],
+        "details": "Il contenitore dell’immagine dell’articolo in evidenza ora occupa tutta la larghezza disponibile anche nel layout mobile."
+      },
+      "en": {
+        "title": "Full-width featured image on mobile",
+        "highlights": [
+          "Fixed the lead story image width across all four sections on mobile.",
+          "Made featured image presentation consistent while retaining aspect ratio and narrow gutters."
+        ],
+        "details": "The featured story image container now stretches to the full available width on mobile."
+      }
+    },
+    {
       "version": "0.0.11",
       "date": "2026-10-25",
       "it": {
