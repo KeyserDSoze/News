@@ -1,0 +1,73 @@
+{
+  "id": "interpath001-personalized-mrna-melanoma",
+  "rank": 3,
+  "category": "society",
+  "title": "Melanoma, lo studio INTerpath-001 valuta un vaccino mRNA personalizzato dopo la chirurgia",
+  "dek": "A due anni senza recidiva l'82,2% con intismeran e pembrolizumab, contro il 70,0% con la sola immunoterapia.",
+  "summary": "I dati completi di fase III divulgati il 22 ottobre e discussi al congresso ESMO indicano che la combinazione di intismeran autogene, vaccino personalizzato a mRNA, e pembrolizumab ha ridotto il rischio relativo di recidiva o morte del 42% rispetto a pembrolizumab da solo nel melanoma operato ad alto rischio. La sopravvivenza globale non è ancora matura e l'approvazione regolatoria non è automatica.",
+  "body": [
+    "Lo studio randomizzato di fase III INTerpath-001 ha confrontato l'aggiunta del vaccino sperimentale intismeran autogene di Moderna all'immunoterapia pembrolizumab di Merck con pembrolizumab da solo in persone con melanoma ad alto rischio rimosso chirurgicamente. I dati dettagliati sono stati divulgati il 22 ottobre 2026 dopo una diffusione anticipata e presentati al congresso ESMO di Madrid. Reuters, Fierce Biotech e AP hanno seguito la notizia.",
+    "Nella sperimentazione con oltre 1.100 partecipanti, la percentuale senza recidiva a due anni è risultata dell'82,2% nel gruppo combinato e del 70,0% nel controllo. Il rapporto di rischio, hazard ratio 0,58, corrisponde a una riduzione relativa del 42% nel periodo osservato. Il vantaggio assoluto a due anni è di 12,2 punti percentuali; non significa che il 42% delle persone sia guarito grazie al vaccino.",
+    "Intismeran viene progettato usando mutazioni del tumore del singolo paziente e mira ad addestrare la risposta immunitaria a riconoscere cellule che conservano quei segnali. Pembrolizumab blocca un freno immunitario, aumentando la possibilità che le difese rispondano. Le due azioni sono complementari, ma non dimostrano da sole quale componente produca ogni beneficio individuale.",
+    "La percentuale senza metastasi lontane o morte a due anni è stata dell'88,5% contro l'80,2%. Eventi avversi associati al trattamento di grado elevato sono stati segnalati e la produzione personalizzata richiede tempo. I dati di sopravvivenza globale rimangono immaturi; non è possibile estendere il risultato a tutti i tumori né annunciare già un trattamento approvato."
+  ],
+  "facts": [
+    "In INTerpath-001 la sopravvivenza libera da recidiva a due anni è stata 82,2% con combinazione contro 70,0% con pembrolizumab solo.",
+    "Il rischio relativo di recidiva o morte è stato inferiore del 42% nel gruppo con intismeran, hazard ratio 0,58."
+  ],
+  "perspectives": [
+    "Merck e Moderna presentano la strategia personalizzata come possibile avanzamento dell'immunoterapia dopo la chirurgia.",
+    "Esperti citati da Fierce Biotech giudicano importante considerare anche il beneficio assoluto e gli esiti sulle metastasi."
+  ],
+  "unknowns": [
+    "La sopravvivenza globale, la durata del beneficio oltre il periodo osservato e le decisioni delle autorità regolatorie richiedono altri dati."
+  ],
+  "questions": [
+    {
+      "question": "Che cosa significa l'82,2% senza recidiva a due anni nello studio INTerpath-001?",
+      "answer": "Indica la quota di partecipanti senza ricomparsa del melanoma a due anni nel gruppo intismeran più pembrolizumab; nel controllo con sola immunoterapia era il 70,0%, una differenza assoluta di 12,2 punti."
+    },
+    {
+      "question": "Il 42% di riduzione del rischio rappresenta persone guarite grazie al vaccino?",
+      "answer": "No: è una differenza relativa nel rischio di recidiva o morte durante l'osservazione, derivata da hazard ratio 0,58; la sopravvivenza globale e gli effetti a lunghissimo termine non sono ancora determinati."
+    }
+  ],
+  "impact": 3.5,
+  "impactReason": "La fase III mostra un beneficio clinico importante di una piattaforma oncologica personalizzata, con limiti di indicazione e risultati finali ancora da verificare.",
+  "tags": [
+    "melanoma",
+    "vaccino-mRNA",
+    "trial"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Merck/Moderna cancer vaccine cuts risk of death or recurrence in melanoma by over 40%",
+      "url": "https://www.reuters.com/legal/litigation/merckmoderna-cancer-vaccine-cuts-risk-death-or-recurrence-melanoma-by-over-40-2026-10-22/",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Fierce Biotech",
+      "title": "ESMO: After leak, Merck and Moderna post phase 3 cancer vaccine data early",
+      "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Personalized cancer vaccine appears to help prevent melanoma recurrence in trial",
+      "url": "https://apnews.com/article/415ececd79c9411498751246742aafa2",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/interpath001-personalized-mrna-melanoma.svg",
+    "alt": "Illustrazione editoriale simbolica: Melanoma, lo studio INTerpath-001 valuta un vaccino mRNA personalizzato dopo la chirurgia",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/interpath001-personalized-mrna-melanoma.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
