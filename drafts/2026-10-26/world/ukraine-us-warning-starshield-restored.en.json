@@ -1,0 +1,73 @@
+{
+  "id": "ukraine-us-warning-starshield-restored",
+  "rank": 9,
+  "category": "world",
+  "title": "Zelenskyy says US missile warnings restored as Starshield restrictions draw scrutiny",
+  "dek": "His 25 October remarks follow complaints about military satellite services; the operational extent of restored access is not independently established.",
+  "summary": "President Volodymyr Zelenskyy said on 25 October that US early warnings about Russian ballistic missile attacks had been fully restored and that some Starshield limits had been lifted. Reuters reported his comments; AP covered the related dispute between SpaceX and Ukrainian officials about Starlink use. The claims describe Kyiv's account rather than a comprehensive independent technical audit.",
+  "body": [
+    "Ukrainian President Volodymyr Zelenskyy said in a 25 October interview with TSN, reported by Reuters, that the United States had fully resumed early warnings of Russian ballistic missile launches. Kyiv had complained of inadequate warning services in the preceding days, so the announcement should be understood as an update to an earlier disruption, not a newly created warning system.",
+    "Zelenskyy linked the change to diplomacy involving US envoy Steve Witkoff in Oslo and said the SpaceX Starshield service had resumed functioning at higher movement speeds from 24 October. The 420 kilometres-per-hour figure referred to an operational mobility restriction, not the satellite network's data-transfer speed or guaranteed bandwidth.",
+    "Associated Press separately reported a dispute between Ukrainian officials and Elon Musk about alleged breaches of Starlink service terms and drone restrictions. Civilian-oriented Starlink and military-focused Starshield are different offerings. A limit affecting particular drones or movement speeds does not by itself establish that every Ukrainian unit had lost all connectivity.",
+    "Advance warning can help air-defence crews prepare and give civilians more time to seek shelter; it cannot guarantee interception of each incoming missile. The public record establishes Zelenskyy's statements and the service dispute, but a comprehensive independent assessment of restored technical capabilities across Ukrainian forces remains unavailable."
+  ],
+  "facts": [
+    "Zelenskyy said on 25 October that US early warnings about ballistic strikes had been fully restored.",
+    "AP documented a separate dispute concerning Starlink terms and restrictions affecting Ukrainian drones."
+  ],
+  "perspectives": [
+    "Zelenskyy attributed the improvements partly to talks with US envoy Witkoff.",
+    "Musk argued that some Ukrainian uses violated Starlink terms, a position disputed by Ukrainian officials."
+  ],
+  "unknowns": [
+    "The full operational performance of Starshield across affected units and the underlying technical decisions lack comprehensive independent verification."
+  ],
+  "questions": [
+    {
+      "question": "What practical role do US ballistic-missile warnings play for Ukraine?",
+      "answer": "Early warnings can help air-defence teams respond and give civilians time to shelter, although they do not guarantee every incoming missile can be stopped."
+    },
+    {
+      "question": "Why should Starlink and Starshield restrictions not be treated as identical?",
+      "answer": "Starlink serves general satellite internet users, while Starshield is tailored for governmental and military uses; reports of restrictions involve different services and operational conditions."
+    }
+  ],
+  "impact": 3,
+  "impactReason": "Warning systems and secure connectivity can affect Ukraine's defence and civilian safety, while the scope of restoration is not yet technically verified.",
+  "tags": [
+    "Ukraine",
+    "missiles",
+    "Starshield"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
+      "url": "https://www.reuters.com/business/media-telecom/zelenskiy-says-us-warnings-ballistic-strikes-have-fully-resumed-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+      "url": "https://apnews.com/article/0c6e685ee4637529ec64c1d6a902cc94",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Zelensky, i problemi su Starlink e Starshield non sono ancora stati risolti",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/23/zelensky-i-problemi-su-starlink-e-starshield-non-sono-ancora-stati-risolti_457c525c-74ef-4dbe-9ab3-1b6f5649a3db.html",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/ukraine-us-warning-starshield-restored.svg",
+    "alt": "Original symbolic editorial illustration: Zelenskyy says US missile warnings restored as Starshield restrictions draw scrutiny",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/ukraine-us-warning-starshield-restored.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
