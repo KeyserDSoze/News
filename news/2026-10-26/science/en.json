@@ -1,0 +1,388 @@
+{
+  "date": "2026-10-26",
+  "language": "en",
+  "publishedAt": "2026-10-26T09:05:46.861Z",
+  "editorialNote": "26 October briefing: event dates are explicit, with cross-checked reporting and attributed statements, data and limitations.",
+  "articles": [
+    {
+      "id": "krascendo1-divarasib-kras-lung-cancer",
+      "rank": 1,
+      "category": "society",
+      "impact": 3,
+      "tags": [
+        "oncology",
+        "KRAS",
+        "clinical-trial"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Roche says divarasib cut risk of death 44% in lung cancer trial",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/roche-says-divarasib-cut-risk-death-44-lung-cancer-trial-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "OncLive",
+          "title": "Divarasib Improves Survival and Paves Way for New SOC in Pretreated KRAS G12C–Mutated NSCLC",
+          "url": "https://www.onclive.com/view/divarasib-improves-pfs-and-os-vs-sotorasib-or-adagrasib-in-pretreated-kras-g12c-mutated-nsclc",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UT MD Anderson Cancer Center",
+          "title": "ESMO 2026: New targeted therapy improved survival for patients with KRAS-mutated lung cancer",
+          "url": "https://www.mdanderson.org/newsroom/research-newsroom/esmo-2026--new-targeted-therapy-improved-survival-for-patients-with-KRAS-mutated-lung-cancer.h00-159859290.html",
+          "publishedAt": "2026-10-25",
+          "role": "official"
+        },
+        {
+          "outlet": "Roche",
+          "title": "Roche’s divarasib demonstrated best-in-class efficacy, advancing the standard of care in previously treated KRAS G12C-mutated lung cancer",
+          "url": "https://www.roche.com/investors/updates/inv-update-2026-10-25",
+          "publishedAt": "2026-10-25",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+        "alt": "Symbolic editorial illustration, not a photograph: tumour cells and comparison of KRAS-targeted treatments",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Krascendo 1 trial finds longer survival with divarasib in KRAS G12C lung cancer",
+      "dek": "The 338-patient phase III trial reported median survival of 17.7 months versus 12.0 with comparator inhibitors; regulatory decisions remain ahead.",
+      "summary": "Results of the phase III Krascendo 1 trial were presented at ESMO on 25 October. The randomized study enrolled 338 previously treated patients with advanced KRAS G12C-mutated non-small-cell lung cancer. Median overall survival was 17.7 months with divarasib versus 12.0 months with sotorasib or adagrasib, according to Reuters, OncLive and Roche's detailed results. The hazard ratio for death was 0.56, a relative measure that does not predict an identical benefit for every patient.",
+      "body": [
+        "On 25 October 2026, investigators presented primary findings from the Krascendo 1 study at the European Society for Medical Oncology congress in Madrid, alongside publication in the New England Journal of Medicine. The phase III trial enrolled 338 adults with previously treated advanced or metastatic non-small-cell lung cancer carrying the KRAS G12C mutation. Participants were randomly assigned to divarasib or one of two approved drugs targeting the same mutation, sotorasib or adagrasib.",
+        "There were 167 participants in the divarasib arm and 171 in the comparator arm. Median overall survival was 17.7 versus 12.0 months, with a hazard ratio of 0.56 and a 95% confidence interval of 0.41–0.78. Median progression-free survival was 9.8 versus 5.7 months, with a hazard ratio of 0.58. These relative risk estimates do not represent a cure rate or a precise prediction of any individual's survival.",
+        "Objective tumour responses occurred in approximately 58% of the divarasib group and 32% of the control group. MD Anderson reported grade 3 or higher treatment-related adverse events in about 25% of participants receiving divarasib and 35% of controls. Treatment-related discontinuations were also less common with divarasib, although gastrointestinal and liver-related adverse effects still require attention. Roche and Genentech sponsored the study, a relevant disclosure when assessing the evidence.",
+        "The trial was randomized but open-label, meaning patients and clinicians knew which drug had been assigned, although some outcomes were assessed by blinded independent reviewers. Patients with untreated brain metastases were excluded, and relatively few controls received adagrasib, limiting certain subgroup comparisons. Divarasib remains described as investigational, with the company planning regulatory submissions. The results apply to the selected trial population, not to every type or stage of lung cancer."
+      ],
+      "facts": [
+        "Krascendo 1 randomized 338 previously treated adults with advanced KRAS G12C-mutated lung cancer.",
+        "Median overall survival was 17.7 months with divarasib versus 12.0 with sotorasib or adagrasib, with a death hazard ratio of 0.56."
+      ],
+      "perspectives": [
+        "Trial investigators view the head-to-head survival benefit as a potential advance for targeted therapy after previous treatment.",
+        "Sponsor Roche highlighted the findings and plans to work with regulators; trial presentation is not equivalent to approval."
+      ],
+      "unknowns": [
+        "Longer-term outcomes, applicability to excluded patient groups and the eventual regulatory status require further evidence."
+      ],
+      "questions": [
+        {
+          "question": "What did the Krascendo 1 divarasib trial actually compare?",
+          "answer": "It compared divarasib directly with two approved KRAS G12C inhibitors, sotorasib and adagrasib, in 338 previously treated adults with advanced KRAS G12C-mutated lung cancer, rather than with a placebo."
+        },
+        {
+          "question": "What does the reported 44% reduction in the risk of death mean?",
+          "answer": "It is the relative hazard reduction represented by a hazard ratio of 0.56 over the observation period. Median survival was 17.7 versus 12.0 months; the figure does not mean that 44% were cured or that every patient gained the same number of months."
+        }
+      ],
+      "impactReason": "A randomized survival benefit in a molecularly defined patient group is important clinical evidence, but its reach is limited and regulatory review remains necessary."
+    },
+    {
+      "id": "clarity-gastric01-sonesitatug-survival",
+      "rank": 2,
+      "category": "society",
+      "impact": 3,
+      "tags": [
+        "oncology",
+        "gastric",
+        "phase3"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "AstraZeneca's stomach cancer drug extends overall survival, late-stage trial data finds",
+          "url": "https://www.reuters.com/legal/litigation/astrazenecas-stomach-cancer-drug-clears-bar-extending-overall-survival-late-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CancerNetwork",
+          "title": "Sonesitatug Vedotin Improves OS in Pretreated CLDN18.2+ Gastroesophageal Cancer",
+          "url": "https://www.cancernetwork.com/view/sonesitatug-vedotin-improves-os-in-pretreated-cldn18-2-gastroesophageal-cancer",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AstraZeneca",
+          "title": "Sonesitatug vedotin reduced the risk of death by 42% in 2nd- and later-line CLDN18.2-positive advanced gastric/GEJ cancers in CLARITY-Gastric01",
+          "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/sonesitatug-vedotin-reduced-the-risk-of-death-by-42-pct-in-2nd-and-later-line-cldn182-positive-advanced-gastricgej-cancers-in-clarity-gastric01.html",
+          "publishedAt": "2026-10-25",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+        "alt": "Original symbolic illustration, not a photograph: targeted drug study in advanced gastric cancer",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "CLARITY-Gastric01 reports longer survival with sonesitatug vedotin in advanced gastric cancer",
+      "dek": "Among patients receiving third-line or later treatment, median survival was 10 months with the investigational drug versus 5 with physician-selected therapy.",
+      "summary": "Results of the phase III CLARITY-Gastric01 study were presented at ESMO on 25 October. The trial examined investigational sonesitatug vedotin in previously treated advanced CLDN18.2-positive gastroesophageal cancer. In the third-line or later group, median overall survival was 10 months compared with 5 for physician-selected treatment, according to Reuters, CancerNetwork and AstraZeneca. The result is neither a cure rate nor an automatic regulatory approval.",
+      "body": [
+        "On 25 October 2026, investigators presented findings from the randomized phase III CLARITY-Gastric01 trial at the ESMO congress in Madrid. The study evaluated sonesitatug vedotin, an investigational antibody-drug conjugate targeting CLDN18.2, in patients with advanced gastric or gastroesophageal cancer who had already received other treatments. The drug is designed to recognize cells expressing the target and deliver a cytotoxic payload, which does not imply exclusive action on cancer cells.",
+        "Among patients who had received at least two previous lines of therapy, one of the trial's primary endpoint populations, median overall survival was 10.0 months with sonesitatug vedotin versus 5.0 months with physician-selected treatment. The hazard ratio for death was 0.47, corresponding to an estimated 53% relative reduction during follow-up. Across the broader second-line or later population, median overall survival was 10.6 versus 6.4 months, with a hazard ratio of 0.58.",
+        "The study included tumours with CLDN18.2 expression in at least 25% of cells, a less restrictive threshold than that used in some other treatment programs. Grade 3 or higher treatment-related adverse events occurred in 36.4% of the experimental group and 44.8% of controls, according to the presented analysis. Gastrointestinal adverse effects remain relevant, and the rate of severe events alone cannot describe the full safety profile.",
+        "An important distinction concerns the trial's endpoints. Although the numerical trend favored the experimental treatment, progression-free survival in the overall population did not meet its prespecified statistical threshold, according to CancerNetwork and AstraZeneca. The study was open-label and sponsor-funded, factors to weigh alongside randomization. The survival findings are encouraging for selected patients, but regulators still need to review the total evidence, including quality of life, durability and safety."
+      ],
+      "facts": [
+        "CLARITY-Gastric01 reported median overall survival of 10.0 versus 5.0 months in its third-line or later population.",
+        "In the broader second-line or later population, median survival was 10.6 versus 6.4 months; the prespecified progression-free survival endpoint did not meet its threshold."
+      ],
+      "perspectives": [
+        "Investigators view the overall-survival gain as a potential advance for previously treated CLDN18.2-positive disease.",
+        "Sponsor AstraZeneca highlights the potentially broader eligible population, but clinical and regulatory decisions require independent assessment."
+      ],
+      "unknowns": [
+        "Longer-term benefit, quality of life and the regulatory assessment of the complete endpoint and safety profile remain uncertain."
+      ],
+      "questions": [
+        {
+          "question": "Which patients are represented by the 10-versus-5-month CLARITY-Gastric01 comparison?",
+          "answer": "It refers to patients with advanced CLDN18.2-positive gastroesophageal cancer who had already received at least two prior treatment lines. The figures are group medians, not predictions for individual patients."
+        },
+        {
+          "question": "Why distinguish overall survival from progression-free survival in CLARITY-Gastric01?",
+          "answer": "Overall survival improved significantly, while the prespecified progression-free survival endpoint in the overall population did not cross its required statistical threshold. They measure different outcomes and both results matter."
+        }
+      ],
+      "impactReason": "Randomized evidence of longer survival in a hard-to-treat population is important, but one endpoint's nonsignificance and pending regulatory review require caution."
+    },
+    {
+      "id": "interpath001-personalized-mrna-melanoma",
+      "rank": 3,
+      "category": "society",
+      "title": "Phase 3 INTerpath-001 trial reports lower melanoma recurrence with personalized mRNA vaccine",
+      "dek": "At two years, 82.2% were recurrence-free with intismeran plus pembrolizumab compared with 70.0% on immunotherapy alone.",
+      "summary": "Phase III INTerpath-001 data released on 22 October and presented at ESMO suggest that a personalized mRNA vaccine, intismeran autogene, together with pembrolizumab lowered the relative risk of melanoma recurrence or death by 42% compared with pembrolizumab alone after surgery for high-risk melanoma. Overall survival results are not yet mature and regulatory approval has not been established.",
+      "body": [
+        "The randomized phase III INTerpath-001 study examined adding Moderna's experimental personalized mRNA vaccine intismeran autogene to Merck's immunotherapy pembrolizumab in patients whose high-risk melanoma had been surgically removed. Full numerical findings were released on 22 October 2026 following an early disclosure and discussed at the ESMO congress in Madrid. Reuters, Fierce Biotech and AP covered the results.",
+        "Among more than 1,100 study participants, two-year recurrence-free survival was 82.2% with the combination and 70.0% with pembrolizumab alone. A hazard ratio of 0.58 represents a 42% relative reduction in the risk of recurrence or death over the analysis period. The absolute two-year gap is 12.2 percentage points, not a claim that 42% of patients were cured by the vaccine.",
+        "Intismeran is tailored to mutations found in a person's tumor and is intended to prime immune cells to recognize corresponding signals if cancer cells remain. Pembrolizumab blocks an immune checkpoint that can restrain these cells. The mechanisms may complement one another, but the trial cannot identify a uniform benefit for every individual or establish effectiveness in other cancer types.",
+        "Two-year distant metastasis-free survival was 88.5% in the combination group versus 80.2% in the control group. More serious treatment-related adverse events were reported, and tailored vaccine manufacture takes time. Overall survival outcomes are immature; the trial does not yet establish a general cancer cure or an approved treatment."
+      ],
+      "facts": [
+        "Two-year recurrence-free survival in INTerpath-001 was 82.2% with combination therapy and 70.0% with pembrolizumab alone.",
+        "The recurrence-or-death hazard ratio was 0.58, corresponding to a 42% relative risk reduction."
+      ],
+      "perspectives": [
+        "Merck and Moderna describe the individualized approach as a possible advance in post-surgery immunotherapy.",
+        "Experts quoted by Fierce Biotech emphasized absolute benefit and distant-metastasis outcomes alongside the primary endpoint."
+      ],
+      "unknowns": [
+        "Long-term overall survival, durability beyond current follow-up and regulatory decisions remain undetermined."
+      ],
+      "questions": [
+        {
+          "question": "What does 82.2% recurrence-free at two years mean in INTerpath-001?",
+          "answer": "It is the proportion without melanoma recurrence two years after surgery in the intismeran-plus-pembrolizumab group, compared with 70.0% on pembrolizumab alone, a 12.2-point absolute difference."
+        },
+        {
+          "question": "Does the 42% relative risk reduction show that 42% of patients were cured?",
+          "answer": "No. It is derived from a recurrence-or-death hazard ratio of 0.58 over follow-up, not a cure rate; overall survival and much longer-term outcomes are still being studied."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "A randomized phase III result supports an important advance in individualized cancer treatment, but scope and ultimate survival benefit remain limited or uncertain.",
+      "tags": [
+        "melanoma",
+        "mRNA-vaccine",
+        "trial"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Merck/Moderna cancer vaccine cuts risk of death or recurrence in melanoma by over 40%",
+          "url": "https://www.reuters.com/legal/litigation/merckmoderna-cancer-vaccine-cuts-risk-death-or-recurrence-melanoma-by-over-40-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Fierce Biotech",
+          "title": "ESMO: After leak, Merck and Moderna post phase 3 cancer vaccine data early",
+          "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Personalized cancer vaccine appears to help prevent melanoma recurrence in trial",
+          "url": "https://apnews.com/article/415ececd79c9411498751246742aafa2",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/interpath001-personalized-mrna-melanoma.svg",
+        "alt": "Original symbolic editorial illustration: Phase 3 INTerpath-001 trial reports lower melanoma recurrence with personalized mRNA vaccine",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/interpath001-personalized-mrna-melanoma.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "microsoft-sequential-diagnosis-science",
+      "rank": 4,
+      "category": "society",
+      "title": "Science study tests Microsoft's sequential AI diagnosis system against physicians",
+      "dek": "MAI-DxO scored 83.2% on 304 complex case simulations versus 36.1% for physicians using reference materials.",
+      "summary": "A Microsoft study published in Science on 22 October examined MAI-DxO, an AI system that gathers evidence and orders tests step by step. Across 304 complex cases it achieved 83.2% diagnostic accuracy versus 36.1% for physicians using reference materials. On 25 emergency-department cases, results were 80.3% and 46.8%. These were text-based simulations rather than treatment of real patients.",
+      "body": [
+        "Microsoft published research on 22 October in Science describing its MAI-DxO system and SDBench, a benchmark that assesses both final diagnoses and the questions or tests selected during clinical reasoning. Reuters, La Repubblica and The Verge reported the findings, noting that a controlled benchmark differs from routine care in a hospital.",
+        "The orchestrator coordinates several language-model agents proposing hypotheses, seeking history details, selecting investigations and revising conclusions. It attained 83.2% accuracy on 304 educational case reports from The New England Journal of Medicine, versus 36.1% for physicians with reference materials and 22.3% without them. Comparisons depend on which resources and testing conditions participants received.",
+        "The study also used 25 simulated scenarios based on anonymized emergency department records from MIMIC-IV-ED, reporting 80.3% accuracy for the orchestrator and 46.8% for generalist physicians. Its estimated investigation costs are values from a structured benchmark, not direct evidence of hospital savings or improved survival for patients.",
+        "The encounters were text reconstructions, not direct examinations of people involving uncertain communication, imaging and treatment decisions. Microsoft plans further investigation with Beth Israel Deaconess Medical Center. Although the method appeared in a peer-reviewed journal, the company-led study does not establish general superiority to clinical specialists or real-world safety."
+      ],
+      "facts": [
+        "MAI-DxO scored 83.2% on 304 challenging NEJM cases versus 36.1% for physicians with reference materials.",
+        "On 25 emergency-department cases, reported accuracies were 80.3% for MAI-DxO and 46.8% for physicians."
+      ],
+      "perspectives": [
+        "Microsoft presents the results as support for step-by-step AI medical reasoning.",
+        "Independent technology reporting stresses that simulated diagnoses do not yet demonstrate real-patient safety or outcomes."
+      ],
+      "unknowns": [
+        "Real-world patient safety, performance across specialist settings and effects on healthcare outcomes remain unproven."
+      ],
+      "questions": [
+        {
+          "question": "How does MAI-DxO differ from a chatbot given a complete medical record?",
+          "answer": "It proceeds sequentially, asking questions and selecting tests before updating its diagnosis; SDBench evaluates the investigation pathway as well as the final answer."
+        },
+        {
+          "question": "Why does 83.2% accuracy on NEJM cases not justify replacing physicians?",
+          "answer": "The score comes from selected text-based simulations with specific comparison groups, not direct examinations, real treatment decisions, clinical complications or patient outcomes."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Peer-reviewed sequential diagnosis benchmarking advances research on medical AI, but clinical validity and patient benefit remain unestablished.",
+      "tags": [
+        "diagnosis",
+        "AI",
+        "Science"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Microsoft develops AI tool that can diagnose sequentially like a doctor",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "La Repubblica",
+          "title": "L’IA di Microsoft supera i medici anche nei casi da pronto soccorso: lo studio su Science",
+          "url": "https://www.repubblica.it/tecnologia/2026/10/23/news/ia-microsoft-supera-medici-pronto-soccorso-science-425669419/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Verge",
+          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Microsoft AI",
+          "title": "Building Medical Superintelligence",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/microsoft-sequential-diagnosis-science.svg",
+        "alt": "Original symbolic editorial illustration: Science study tests Microsoft's sequential AI diagnosis system against physicians",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/microsoft-sequential-diagnosis-science.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "prime-editing-pm577a-wilson-first-human",
+      "rank": 5,
+      "category": "society",
+      "title": "In-vivo prime-editing treatment enters first Wilson disease trial; results due in 2027",
+      "dek": "Experimental PM577a was first administered in early October; 22 October coverage does not establish successful DNA correction or clinical benefit.",
+      "summary": "The first participant with Wilson disease has received experimental PM577a, designed to repair the H1069Q variant of the ATP7B gene directly inside liver cells. Prime Medicine announced dosing on 5 October and Nature explored the milestone on 22 October. No individual clinical data on safety, confirmed DNA editing or health benefit have yet been released.",
+      "body": [
+        "On 22 October Nature reported in depth on a new clinical trial of PM577a, an experimental prime-editing product designed to repair a particular genetic mutation directly inside a patient's liver cells. Sponsor Prime Medicine had already announced the first administration on 5 October. That distinction in dates matters: the dose was not administered for the first time on this edition's publication day.",
+        "Wilson disease results from harmful variants of the ATP7B gene, which normally enables the liver to clear excess copper from the body. Accumulated copper can damage the liver, nervous system and other organs. PM577a is designed to correct the H1069Q mutation, common in some affected populations, using editing components delivered by lipid nanoparticles.",
+        "Prime editing is intended to rewrite particular stretches of DNA rather than merely disable a gene. An in-vivo treatment aims to avoid the expensive steps of collecting a patient's cells, editing them in a laboratory and returning them. However, delivering the editor to the correct tissue and controlling unintended changes introduce distinct safety challenges. Nature spoke to researchers and patient advocates about these trade-offs.",
+        "The phase 1/2 study is designed to assess safety, tolerability and early biological activity. Public confirmation of a dose does not show that the intended mutation has been fixed, still less that the patient has experienced lasting clinical improvement. The sponsor expects initial study results in 2027, leaving effectiveness and longer-term risk unresolved."
+      ],
+      "facts": [
+        "Prime Medicine announced the first participant received PM577a on 5 October 2026.",
+        "Initial clinical findings from the phase 1/2 Wilson disease study are expected in 2027."
+      ],
+      "perspectives": [
+        "Prime Medicine frames PM577a as a potential single-dose approach to a specific ATP7B mutation.",
+        "Researchers quoted by Nature stress the trade-offs between in-vivo treatment accessibility and its delivery and safety risks."
+      ],
+      "unknowns": [
+        "Actual editing of the target gene, long-term safety and clinical benefit in the first participant have not been reported."
+      ],
+      "questions": [
+        {
+          "question": "Which Wilson disease mutation does PM577a aim to repair?",
+          "answer": "It targets H1069Q in ATP7B, a gene needed to clear copper from the liver; loss of that function can lead to harmful copper accumulation."
+        },
+        {
+          "question": "How is in-vivo prime editing different from editing cells outside the body?",
+          "answer": "PM577a delivers editing machinery directly toward the liver inside the patient, whereas ex-vivo approaches take cells out, edit them in a laboratory and return them."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "The first in-vivo administration marks a potentially important technical step, but there is no public clinical evidence yet of benefit in the participant.",
+      "tags": [
+        "prime-editing",
+        "Wilson",
+        "ATP7B"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+          "url": "https://www.nature.com/articles/d41586-026-03371-x",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "News9 Science",
+          "title": "First patient receives in vivo prime editing therapy PM577a",
+          "url": "https://www.news9live.com/science/prime-editing-human-body-first-time-proof-pending-3018313",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Prime Medicine",
+          "title": "First Patient Dosed in Global Phase 1/2 Clinical Trial of PM577a",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374466/0/en/prime-medicine-announces-first-patient-dosed-in-global-phase-1-2-clinical-trial-of-pm577a-for-h1069q-mutated-wilson-disease.html",
+          "publishedAt": "2026-10-05",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+        "alt": "Original symbolic editorial illustration: In-vivo prime-editing treatment enters first Wilson disease trial; results due in 2027",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ],
+  "section": "science"
+}
