@@ -35,6 +35,13 @@
           "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
           "publishedAt": "2026-10-26",
           "role": "reporting"
+        },
+        {
+          "outlet": "Tribunal Superior Eleitoral (Brazil)",
+          "title": "Presidente do TSE anuncia reeleição de Lula e faz balanço do 2º turno das Eleições 2026",
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026",
+          "publishedAt": "2026-10-26",
+          "role": "official"
         }
       ],
       "image": {
