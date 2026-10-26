@@ -326,8 +326,8 @@
           "answer": "It redirected the connection to an attacker server presenting a different host key; users who dismissed the warning could send their password to the interceptor."
         },
         {
-          "question": "Did compromise of 333 exits expose every Tor session?",
-          "answer": "No. Exit-node manipulation threatens certain connections, but correctly implemented end-to-end HTTPS encryption still prevents a hostile exit relay from reading message contents."
+          "question": "Which connections remained protected despite the compromised Tor exit relays?",
+          "answer": "The hostile relays could redirect SSH connections when users ignored host-key warnings and manipulate some email connections. However, content protected by properly validated end-to-end HTTPS encryption remained unreadable to the exit relay operator."
         }
       ],
       "impact": 2.5,
