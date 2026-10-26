@@ -440,3 +440,9 @@ body:has(.global-audio-dock){padding-bottom:calc(85px + env(safe-area-inset-bott
   .article-main>.news-picture{margin-left:-4px;margin-right:-4px}
   .news-picture img{max-width:100%}
 }
+
+/* Keep the lead story image full-width in the mobile flex layout. */
+@media(max-width:650px){
+  .story-featured{align-items:stretch}
+  .story-featured .story-image-wrap{width:100%}
+}
