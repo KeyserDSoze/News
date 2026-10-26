@@ -219,6 +219,13 @@
           "url": "https://apnews.com/article/415ececd79c9411498751246742aafa2",
           "publishedAt": "2026-10-24",
           "role": "reporting"
+        },
+        {
+          "outlet": "Merck and Moderna",
+          "title": "Merck and Moderna Will Present Results From Landmark Phase 3 INTerpath-001 Trial",
+          "url": "https://www.merck.com/news/merck-and-moderna-will-present-results-from-landmark-phase-3-interpath-001-trial-for-intismeran-autogene-plus-keytruda-pembrolizumab-at-esmo-2026-presidential-symposium/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
         }
       ],
       "image": {
