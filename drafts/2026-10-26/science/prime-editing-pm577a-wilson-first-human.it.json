@@ -1,0 +1,73 @@
+{
+  "id": "prime-editing-pm577a-wilson-first-human",
+  "rank": 5,
+  "category": "society",
+  "title": "Prime editing somministrato in vivo per la malattia di Wilson: primi dati attesi nel 2027",
+  "dek": "La dose sperimentale PM577a è stata somministrata a ottobre; la notizia approfondita il 22 ottobre non prova ancora una correzione del DNA efficace.",
+  "summary": "Un paziente con malattia di Wilson ha ricevuto il trattamento sperimentale PM577a, progettato per correggere la mutazione H1069Q nel gene ATP7B direttamente nelle cellule del fegato. Prime Medicine aveva annunciato la prima somministrazione il 5 ottobre; Nature ha approfondito la notizia il 22 ottobre. Non sono ancora pubblicati risultati individuali su sicurezza, modifica genetica o miglioramento clinico.",
+  "body": [
+    "Il 22 ottobre Nature ha approfondito l'avvio di una sperimentazione clinica del trattamento PM577a, una forma di prime editing destinata a correggere una specifica mutazione nelle cellule epatiche direttamente nell'organismo. L'azienda Prime Medicine aveva annunciato la somministrazione al primo partecipante già il 5 ottobre. La data dell'infusione è quindi precedente alla pubblicazione della notizia e non può essere descritta come un intervento avvenuto il 26.",
+    "La malattia di Wilson dipende da anomalie del gene ATP7B, che normalmente permette di eliminare il rame in eccesso attraverso il fegato. L'accumulo del metallo può danneggiare fegato e sistema nervoso. PM577a è progettato per intervenire sulla variante H1069Q, particolarmente diffusa in certe popolazioni, tramite componenti trasportate da nanoparticelle lipidiche.",
+    "Il prime editing può riscrivere tratti del DNA anziché soltanto disattivare un gene. L'approccio in vivo mira a evitare la raccolta e la manipolazione esterna delle cellule del singolo paziente, ma comporta problemi di distribuzione al tessuto bersaglio e di controllo degli effetti indesiderati. Nature ha raccolto il parere di ricercatori e rappresentanti dei pazienti sulla promessa e sui rischi della tecnica.",
+    "La fase 1/2 deve valutare principalmente sicurezza, tollerabilità e segnali preliminari di effetto biologico. La notizia conferma la somministrazione dichiarata, non la correzione genetica riuscita né una guarigione. Prime Medicine prevede di diffondere primi dati clinici nel 2027; fino ad allora sarebbe improprio estendere la portata terapeutica oltre il razionale sperimentale."
+  ],
+  "facts": [
+    "Prime Medicine ha annunciato il 5 ottobre 2026 la prima somministrazione di PM577a a un partecipante con malattia di Wilson.",
+    "I risultati clinici iniziali dello studio di fase 1/2 sono attesi nel 2027, non disponibili alla data dell'edizione."
+  ],
+  "perspectives": [
+    "L'azienda considera PM577a un possibile trattamento a somministrazione unica per una mutazione ATP7B.",
+    "Ricercatori intervistati da Nature sottolineano il bilancio ancora da chiarire fra semplicità della somministrazione e rischi in vivo."
+  ],
+  "unknowns": [
+    "Correzione genetica effettiva, sicurezza a lungo termine e benefici clinici nel primo partecipante non sono stati resi noti."
+  ],
+  "questions": [
+    {
+      "question": "Quale alterazione genetica cerca di correggere PM577a nella malattia di Wilson?",
+      "answer": "Il trattamento punta alla variante H1069Q del gene ATP7B, coinvolto nell'eliminazione del rame dal fegato; una sua disfunzione può provocare accumulo tossico del metallo."
+    },
+    {
+      "question": "In cosa si distingue il prime editing in vivo dall'editing di cellule fuori dal corpo?",
+      "answer": "PM577a viene somministrato per portare il sistema di modifica direttamente alle cellule epatiche; nelle procedure ex vivo le cellule vengono invece prelevate, modificate in laboratorio e reinfuse."
+    }
+  ],
+  "impact": 2,
+  "impactReason": "La prima somministrazione in vivo è un passo tecnico potenzialmente importante, ma manca qualunque evidenza clinica pubblica di efficacia nel partecipante.",
+  "tags": [
+    "prime-editing",
+    "Wilson",
+    "ATP7B"
+  ],
+  "sources": [
+    {
+      "outlet": "Nature",
+      "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+      "url": "https://www.nature.com/articles/d41586-026-03371-x",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "News9 Science",
+      "title": "First patient receives in vivo prime editing therapy PM577a",
+      "url": "https://www.news9live.com/science/prime-editing-human-body-first-time-proof-pending-3018313",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Prime Medicine",
+      "title": "First Patient Dosed in Global Phase 1/2 Clinical Trial of PM577a",
+      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374466/0/en/prime-medicine-announces-first-patient-dosed-in-global-phase-1-2-clinical-trial-of-pm577a-for-h1069q-mutated-wilson-disease.html",
+      "publishedAt": "2026-10-05",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+    "alt": "Illustrazione editoriale simbolica: Prime editing somministrato in vivo per la malattia di Wilson: primi dati attesi nel 2027",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
