@@ -1,0 +1,724 @@
+{
+  "date": "2026-10-26",
+  "language": "en",
+  "publishedAt": "2026-10-26T09:05:46.861Z",
+  "editorialNote": "26 October briefing: event dates are explicit, with cross-checked reporting and attributed statements, data and limitations.",
+  "articles": [
+    {
+      "id": "brazil-lula-reelected-runoff-2026",
+      "rank": 1,
+      "category": "politics",
+      "impact": 3.5,
+      "tags": [
+        "Brazil",
+        "elections",
+        "Lula"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Lula is declared winner of Brazil's election as Bolsonaro rejects results",
+          "url": "https://apnews.com/article/e2c9fe8fc4aa3e3675b9a8ec15405d93",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Brazil's Lula wins historic fourth term, Flavio Bolsonaro refuses to concede",
+          "url": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+          "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/brazil-lula-reelected-runoff-2026.svg",
+        "alt": "Original symbolic editorial illustration, not a photograph: Brazilian presidential ballot and counting",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/brazil-lula-reelected-runoff-2026.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Lula wins Brazil runoff and fourth term as Flávio Bolsonaro challenges result",
+      "dek": "Brazil's electoral authority gives Lula roughly 51.8% to Bolsonaro's 48.2%. The challenger promises a legal challenge, not a court-ordered reversal.",
+      "summary": "Luiz Inácio Lula da Silva won Brazil's 25 October 2026 presidential runoff against Senator Flávio Bolsonaro, the electoral authority announced. AP, Reuters and the Guardian reported about 51.8% of valid votes for Lula and a margin of nearly 4.4 million ballots. Bolsonaro refused to concede and said he would seek annulment over a two-hour extension of voting. His stated intention to challenge the count is not a judicial decision invalidating it.",
+      "body": [
+        "Brazil held its presidential runoff on Sunday, 25 October, and its electoral authority declared incumbent Luiz Inácio Lula da Silva the winner over Senator Flávio Bolsonaro. Associated Press, Reuters and the Guardian independently reported the outcome and a margin of roughly 4.4 million votes: about 51.8% for Lula against 48.2% for his challenger. These figures describe the counted runoff ballots, rather than opinion polling conducted before the vote.",
+        "Lula's victory gives him a fourth nonconsecutive presidential term. He overcame Bolsonaro's lead in the first round earlier in October and a campaign in which some final surveys had favored the challenger. Reports point to turnout and mobilization as contributing factors, but the available evidence cannot isolate one campaign tactic as the sole explanation. AP reported that the next term is scheduled to begin in January 2027.",
+        "Bolsonaro said he would not concede and planned to seek annulment of the result. His objection concerns a judicial decision to extend voting by two hours. Electoral officials said that the extension did not change the outcome, while legal experts cited in the reporting questioned the grounds for overturning the count. A candidate's statement, the filing of a legal challenge and a court judgment are three different events and should not be conflated.",
+        "In his victory remarks, Lula emphasized national sovereignty and public services and promised to govern for all Brazilians. His electoral victory does not by itself give him control of Congress, where conservative parties remain influential and fiscal decisions will require bargaining. Financial-market responses and any demonstrations should be covered as later developments, not anticipated as established facts. At the time of reporting, the result was confirmed and the legal challenge remained prospective."
+      ],
+      "facts": [
+        "Brazil's electoral authority declared Lula the winner of the 25 October 2026 runoff with roughly 51.8% of valid votes.",
+        "Flávio Bolsonaro announced an intention to seek annulment; no court decision reversing the declared result was established."
+      ],
+      "perspectives": [
+        "Lula presented his victory as support for sovereignty, social policy and public services.",
+        "Bolsonaro objected to the extended voting hours; electoral officials disputed that they changed the outcome."
+      ],
+      "unknowns": [
+        "The outcome of any formally filed legal challenge and the legislative coalitions for Lula's next term are not yet established."
+      ],
+      "questions": [
+        {
+          "question": "What was the margin between Lula and Flávio Bolsonaro in Brazil's runoff?",
+          "answer": "Brazil's electoral authority reported approximately 51.8% of valid votes for Lula versus 48.2% for Bolsonaro, a lead of nearly 4.4 million ballots according to AP and Reuters."
+        },
+        {
+          "question": "Why does Bolsonaro's objection not automatically overturn the election?",
+          "answer": "He disputed a two-hour voting extension, but a challenge must be filed and assessed by the electoral courts. The declared result stands unless a competent authority rules otherwise."
+        }
+      ],
+      "impactReason": "The result in Latin America's largest economy has important regional and diplomatic consequences, but does not warrant the maximum rating reserved for epoch-defining events."
+    },
+    {
+      "id": "serbia-student-list-election-victory",
+      "rank": 2,
+      "category": "politics",
+      "impact": 3.5,
+      "tags": [
+        "Serbia",
+        "students",
+        "elections"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
+          "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+          "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+          "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/serbia-student-list-election-victory.svg",
+        "alt": "Original symbolic editorial illustration, not a photograph: Serbian student protest and parliamentary vote",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/serbia-student-list-election-victory.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Serbia's Vučić concedes defeat as student-backed list heads for parliamentary majority",
+      "dek": "Projections give the Students' List roughly 135–140 of 250 seats, following a movement that grew out of nearly two years of demonstrations.",
+      "summary": "Serbian leader Aleksandar Vučić acknowledged defeat in the 25 October snap parliamentary election to a student-backed list. Reuters, the Guardian and Al Jazeera reported preliminary projections of about 135–140 seats out of 250 for the Students' List. The movement grew from protests following the November 2024 Novi Sad station canopy collapse, which killed 16 people. Official seat totals and the formation of a new government remain ahead.",
+      "body": [
+        "Serbia's snap parliamentary election on 25 October produced a major political reversal. Aleksandar Vučić, a dominant figure in national politics since 2014, acknowledged that his Serbian Progressive Party had lost to a student-backed slate of candidates. Early estimates cited by Reuters and the Guardian put the Students' List on approximately 135–140 of the parliament's 250 seats, against a little over 100 for the governing party. These are projections rather than final certification of each constituency's result.",
+        "The movement traces its origins to the November 2024 collapse of a railway-station canopy in Novi Sad, which killed 16 people. Students and other residents demanded accountability for the public works project and protested what they described as corruption and a lack of institutional transparency. The demonstrations developed into an electoral campaign bringing together academics, professionals and other civil-society figures. Vučić has denied allegations that corruption was systemic under his leadership.",
+        "Turnout was estimated at around 68–70%, unusually high for recent Serbian elections. Crowds filled streets in Belgrade after Vučić conceded. Election observers cited by the Guardian also described suspected intimidation, irregularities and tensions at some polling stations. Such reports require investigation and should not be treated as proof that all votes or the overall result were compromised.",
+        "A projected parliamentary majority is not the same as an installed government. The newly elected candidates must select leadership, form a cabinet and define policies on corruption, European integration, Kosovo and relations with Russia and China. The list's diverse membership helped unite protesters but could complicate programmatic agreement. Vučić's concession is established; the precise institutional consequences depend on the certified result and subsequent constitutional steps."
+      ],
+      "facts": [
+        "Vučić acknowledged his party's defeat in the 25 October snap parliamentary election.",
+        "Early projections put the Students' List at approximately 135–140 of the 250 seats, pending certification."
+      ],
+      "perspectives": [
+        "Student-backed candidates and supporters describe the vote as a demand for institutional accountability and democratic renewal.",
+        "Vučić conceded the result but has denied accusations of systemic corruption against his government."
+      ],
+      "unknowns": [
+        "The certified seat allocation, investigations of reported irregularities and identity of the next prime minister remain unresolved."
+      ],
+      "questions": [
+        {
+          "question": "How many seats could Serbia's student-backed list win?",
+          "answer": "Projections reported by Reuters and the Guardian gave it roughly 135–140 of the 250 parliamentary seats, enough for a possible majority but subject to the official count."
+        },
+        {
+          "question": "What event helped turn Serbia's student protests into a nationwide movement?",
+          "answer": "The November 2024 collapse of a canopy at Novi Sad railway station killed 16 people. Demands for accountability and transparency later evolved into the student-backed election campaign."
+        }
+      ],
+      "impactReason": "A projected majority for a protest-born movement could alter Serbia's institutions and regional relationships, although the outcome depends on forming a government."
+    },
+    {
+      "id": "venezuela-machado-return-oct25",
+      "rank": 3,
+      "category": "politics",
+      "impact": 3,
+      "tags": [
+        "Venezuela",
+        "Machado",
+        "democracy"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Venezuela opposition leader Machado returns home after fraught year away",
+          "url": "https://www.reuters.com/world/americas/venezuela-opposition-leader-maria-corina-machado-returns-venezuela-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+          "url": "https://apnews.com/article/e6eff0c2ff962fd9b0f87270b24ef567",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+          "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/venezuela-machado-return-oct25.svg",
+        "alt": "Original symbolic illustration, not a photograph: return of a Venezuelan opposition leader",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/venezuela-machado-return-oct25.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Venezuela opposition leader María Corina Machado returns after months abroad",
+      "dek": "Machado reappeared in Lara state on 25 October. Her return renews pressure for elections, but no voting date has been set.",
+      "summary": "Venezuelan opposition leader and 2025 Nobel Peace Prize laureate María Corina Machado returned to the country on Sunday, 25 October, after about ten months abroad. Reuters, AP and the Guardian documented her presence in Lara state and a welcome from supporters. Machado is pressing for new elections following the US removal of Nicolás Maduro in January and the installation of interim president Delcy Rodríguez. Neither the election timetable nor the opposition's place in negotiations is settled.",
+      "body": [
+        "María Corina Machado returned to Venezuela on Sunday, 25 October 2026, after roughly ten months outside the country. The opposition leader and 2025 Nobel Peace Prize winner appeared at a church in western Lara state, where supporters greeted her. Her team released images and Reuters journalists documented the welcome. Associated Press and the Guardian also confirmed her return and reported crowds greeting her along the route towards Caracas.",
+        "Machado had spent an extended period in hiding after the disputed 2024 presidential election, from which she had been barred as a candidate. Her movement backed Edmundo González, who claimed victory based on opposition-collected polling-station records, while Nicolás Maduro's government declared the incumbent the winner. Machado left secretly in late 2025 to receive the Nobel Prize in Norway. Her return follows Maduro's capture by US forces in January 2026 and the appointment of Delcy Rodríguez as interim president.",
+        "The Rodríguez administration maintains ties with Washington, which has prioritized economic agreements and a negotiated transition. Machado and her supporters instead emphasize the need for a timetable for free elections and reform of electoral institutions. Reuters reported that her efforts to return had strained relations with the US administration and that her movement is not represented in all reconciliation discussions. These competing political positions do not establish how the transition will develop.",
+        "Machado's physical return is confirmed, but it is neither an election announcement nor a transfer of power. She plans to meet families of political prisoners, opposition leaders and people affected by earlier disasters. Her movement is also collecting information intended to help update overseas Venezuelans' voter registrations in the future. The interim government's willingness to allow full participation, the safeguards for voting and the prospects for a credible election remain open questions."
+      ],
+      "facts": [
+        "Machado returned to Venezuela on 25 October 2026 and met supporters in Lara state.",
+        "Delcy Rodríguez remained interim president and no presidential election date had been set at the time of Machado's return."
+      ],
+      "perspectives": [
+        "Machado and her movement argue that a new election is essential for democratic transition.",
+        "Washington has prioritized cooperation with the Rodríguez administration and reconciliation talks, according to the reporting reviewed."
+      ],
+      "unknowns": [
+        "The timing of any new presidential election and Machado's movement's role in formal institutional negotiations remain unresolved."
+      ],
+      "questions": [
+        {
+          "question": "Where did María Corina Machado reappear on 25 October?",
+          "answer": "She appeared at a church in Venezuela's Lara state, greeted by supporters. Reuters, AP and the Guardian documented her return after months abroad."
+        },
+        {
+          "question": "Does Machado's return automatically change Venezuela's government?",
+          "answer": "No. Delcy Rodríguez remains interim president and no election date has been announced. Machado intends to press for voting and reforms, which require separate institutional decisions."
+        }
+      ],
+      "impactReason": "The return of a central opposition figure could influence Venezuela's political transition and regional relationships, but institutional consequences remain uncertain."
+    },
+    {
+      "id": "jordan-karak-church-three-arrests",
+      "rank": 4,
+      "category": "world",
+      "title": "Jordan arrests three suspects over deadly Karak church attack",
+      "dek": "Police report a shootout during the 26 October arrests; the death toll from Friday's church attack has been updated to nine.",
+      "summary": "Jordanian security forces announced on Monday 26 October that three men had been arrested in connection with a 23 October attack during a funeral at a Greek Orthodox church in Karak. Police said the men were wounded in a shootout at an abandoned house. Reuters and AP now report nine people killed in the original attack, up from seven in early accounts.",
+      "body": [
+        "On Monday 26 October, Jordan's Public Security Directorate announced the arrest of three suspects in the armed attack that disrupted a funeral at a Greek Orthodox church in Karak, south of Amman, on Friday. The development is an investigation update to an earlier incident, not a separate attack on the same church.",
+        "According to authorities, investigators located the three men in an abandoned house. Police say the suspects opened fire when officers approached and that security forces returned fire. All three were wounded and detained, while the directorate reported no injuries among the officers involved in Monday's operation.",
+        "Reuters and Associated Press now report nine people killed in the 23 October attack, whereas initial accounts cited seven. The latest figure needs to be distinguished from what was known when O's 24 October report was prepared. Different totals reflect different reporting times rather than proof of a new incident.",
+        "Interior Minister Mazen al-Faraya said authorities had detained the perpetrators, while King Abdullah called for a firm response. Those statements are official positions, not criminal convictions. No armed organization had claimed responsibility in the reporting reviewed, and the suspects' motives, possible affiliations and individual roles require further investigation."
+      ],
+      "facts": [
+        "Jordanian security officials announced three arrests following a shootout on 26 October.",
+        "Reuters and AP reported an updated death toll of nine from the 23 October church attack."
+      ],
+      "perspectives": [
+        "The interior minister described the arrested men as responsible for the shooting.",
+        "King Abdullah II demanded decisive security action after the attack."
+      ],
+      "unknowns": [
+        "A definitive motive, group affiliation and judicial assessment of the three suspects' responsibility remain unavailable."
+      ],
+      "questions": [
+        {
+          "question": "How did police say the three Karak attack suspects were captured?",
+          "answer": "Jordanian police said the men were hiding in an abandoned house and were wounded during a shootout with officers on 26 October; the authorities reported no officer injuries."
+        },
+        {
+          "question": "Why does the Karak death toll differ from the 24 October report?",
+          "answer": "Initial accounts listed seven dead, while Reuters and AP subsequently reported nine. These are successive updates about the 23 October shooting, not two separate attacks."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The killings and arrests are significant for public safety and the local community, while personal criminal responsibility has not yet been adjudicated.",
+      "tags": [
+        "Jordan",
+        "Karak",
+        "investigation"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Jordan arrests three suspects in deadly church attack, state media says",
+          "url": "https://www.reuters.com/world/middle-east/jordan-arrests-three-over-karak-church-attack-state-tv-says-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Jordanian security forces arrest 3 men for a deadly attack on a church",
+          "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/jordan-karak-church-three-arrests.svg",
+        "alt": "Original symbolic editorial illustration: Jordan arrests three suspects over deadly Karak church attack",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/jordan-karak-church-three-arrests.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-24",
+          "section": "world",
+          "id": "karak-jordan-church-attack"
+        }
+      ]
+    },
+    {
+      "id": "prague-public-media-funding-protest",
+      "rank": 5,
+      "category": "politics",
+      "title": "Prague demonstrators oppose plan to fund public broadcasters from state budget",
+      "dek": "Czech lawmakers accelerated a bill to replace licence fees with public allocations; the legislation has not yet become law.",
+      "summary": "Thousands protested in Prague on 25 October against Prime Minister Andrej Babiš's government's plan to replace licence-fee funding for public radio and television with direct state-budget allocations. Government lawmakers fast-tracked the bill in an overnight vote. Opposition parties and media advocates warn about political pressure, but final enactment remains ahead.",
+      "body": [
+        "Thousands gathered in Prague's Old Town Square on Sunday 25 October to oppose changes to Czech public broadcasting finances. Reuters and AFP independently reported the demonstration, whose participants emphasized the editorial independence of Czech Television and Czech Radio. The protest followed a period of parliamentary disputes over the government's plans for the broadcasters.",
+        "The coalition led by Prime Minister Andrej Babiš wants to abolish household licence fees and fund the public broadcasters through direct allocations from the state budget. Lower-house lawmakers voted to speed the bill's passage in an unusual overnight session. That procedural decision is not the same as the completed enactment of the new financing system.",
+        "Government supporters frame the measure as an overhaul of funding arrangements. Opposition parties, media-freedom groups and protesters warn that annual decisions over public allocations could expose editorial operations to political influence. This is a documented concern about the institutional design, not evidence that specific news stories have already been censored.",
+        "Published estimates of protest attendance range from several thousand to tens of thousands and should not be treated as a precise measured count. The rally and parliamentary timetable are established events. The final legislative text, future appropriations and any effects on broadcasters will need to be assessed after the remaining parliamentary stages."
+      ],
+      "facts": [
+        "Thousands rallied in Prague on 25 October against a proposed change in public-media funding.",
+        "The bill would replace licence fees with state-budget allocations and has not completed the legislative process."
+      ],
+      "perspectives": [
+        "The governing coalition supports changing the funding framework.",
+        "Opposition lawmakers and protesters argue the proposal may weaken broadcasters' independence."
+      ],
+      "unknowns": [
+        "The bill's final text, eventual funding levels and measurable editorial effects remain unsettled."
+      ],
+      "questions": [
+        {
+          "question": "Which Czech public-broadcasting revenue stream would the proposed law remove?",
+          "answer": "The proposal would end household licence fees and instead finance Czech Television and Czech Radio through direct state-budget allocations."
+        },
+        {
+          "question": "Why are Prague protesters concerned about the broadcasters' autonomy?",
+          "answer": "They fear budget allocations controlled through politics could be used to influence editorial decisions; that is a concern about future incentives, not a proven instance of censorship."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Public-media governance has implications for information pluralism, though the proposed law has not yet taken effect.",
+      "tags": [
+        "Prague",
+        "media",
+        "independence"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Thousands protest Czech government’s public media overhaul after rushed vote",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/25/thousands-protest-czech-government-s-public-media-overhaul-after-rushed-vote",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Thousands gather in Prague to protest licence fee plans",
+          "url": "https://origin-zh9p7m-www.afp.com/en/thousands-gather-prague-protest-licence-fee-plans",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/prague-public-media-funding-protest.svg",
+        "alt": "Original symbolic editorial illustration: Prague demonstrators oppose plan to fund public broadcasters from state budget",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/prague-public-media-funding-protest.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "bulgaria-president-runoff-nov1",
+      "rank": 6,
+      "category": "politics",
+      "title": "Bulgaria heads to 1 November presidential runoff after low-turnout first round",
+      "dek": "Iliana Iotova and Andrey Gyurov lead the 25 October vote, with turnout around 22% and neither candidate securing a majority.",
+      "summary": "Bulgaria's presidential election on 25 October produced no outright winner. With about 95% of ballots counted, Reuters reported 34.6% for incumbent Iliana Iotova and around 32% for Andrey Gyurov. Bulgarian news agency BTA also described differences between parallel counts and turnout around 22%. A runoff is scheduled for 1 November; its result is not yet known.",
+      "body": [
+        "Bulgaria held its presidential election on Sunday 25 October without any candidate securing the support needed to win in the first round. Incumbent Iliana Iotova and former caretaker prime minister Andrey Gyurov emerged as the leading contenders. Reuters, Associated Press and the Bulgarian News Agency agree that the race proceeds to a runoff on 1 November.",
+        "Early Monday results included roughly 95% of ballots counted, with Reuters giving Iotova 34.6% and Gyurov approximately 32%. BTA also reported slightly different parallel-count estimates. These numbers need to be tied to their methods: a partial official count, a parallel tally and an exit poll are different measures, even when they point to the same likely contestants.",
+        "Turnout was estimated at around 22%, a remarkably low level for a nationwide ballot. Bulgaria's president has fewer executive powers than its government, yet the position matters for institutional representation and the country's foreign-policy voice as concerns grow over security in the Black Sea region.",
+        "Iotova and Gyurov differ on questions of European security and policy toward the war in Ukraine. Their contest will be decided by voters who participate in the second round, including people who did not vote on 25 October. An incomplete first-round result cannot establish the final outcome a week in advance."
+      ],
+      "facts": [
+        "No candidate won the required first-round majority in Bulgaria's 25 October presidential election.",
+        "Iliana Iotova and Andrey Gyurov are due to contest a runoff on 1 November 2026."
+      ],
+      "perspectives": [
+        "Iotova stressed the need for stability and expressed concern at low participation.",
+        "Gyurov challenged his opponent to debate how they would exercise presidential powers."
+      ],
+      "unknowns": [
+        "The final first-round certified figures, turnout in the second round and the eventual winner are not yet known."
+      ],
+      "questions": [
+        {
+          "question": "Why is Bulgaria holding a second presidential vote on 1 November?",
+          "answer": "No candidate won a first-round majority on 25 October, so the two leading candidates, Iotova and Gyurov, advance to a runoff."
+        },
+        {
+          "question": "Why are several different percentages reported for Iotova and Gyurov?",
+          "answer": "Some come from partial official counting and others from parallel surveys or exit polls; these measurement methods are not interchangeable with a final certified election result."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The outcome matters for a EU and NATO member's diplomatic profile and security debate, though presidential executive powers are limited.",
+      "tags": [
+        "Bulgaria",
+        "election",
+        "runoff"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Bulgaria heads to presidential runoff after close vote",
+          "url": "https://www.reuters.com/world/bulgaria-heads-presidential-runoff-after-close-vote-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Presidential race in Bulgaria heads to runoff due to record low turnout",
+          "url": "https://www.local10.com/news/2026/10/25/presidential-race-in-bulgaria-heads-to-runoff-due-to-record-low-turnout/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Bulgarian News Agency",
+          "title": "Iotova and Gurov to Face Off in Presidential Runoff on November 1",
+          "url": "https://www.bta.bg/en/news/bulgaria/1232587-iotova-and-gurov-to-face-off-in-presidential-runoff-on-november-1",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/bulgaria-president-runoff-nov1.svg",
+        "alt": "Original symbolic editorial illustration: Bulgaria heads to 1 November presidential runoff after low-turnout first round",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/bulgaria-president-runoff-nov1.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "china-fifth-plenum-party-discipline",
+      "rank": 7,
+      "category": "politics",
+      "title": "China's Communist Party opens fifth plenum focused on internal discipline",
+      "dek": "The Central Committee meets from 26 to 29 October as Xi Jinping presses officials to implement party directives and strengthen oversight.",
+      "summary": "China's Communist Party began its four-day fifth Central Committee plenum in Beijing on 26 October. Reuters and Associated Press report a declared focus on internal discipline, anti-corruption and implementation of central government priorities. The largely closed-door meeting may influence future political decisions, but personnel speculation must not be presented as appointments already made.",
+      "body": [
+        "China's Communist Party opened a four-day Central Committee meeting in Beijing on Monday 26 October. The fifth plenum since the 2022 party congress is mostly closed to public observation. Reuters and Associated Press independently described stricter internal discipline and organizational governance as the main subjects announced for the gathering.",
+        "President Xi Jinping presented a draft document on rigorous party management and the implementation of central directives, according to official reports carried by Reuters. The leadership says it wants tighter supervision, continued anti-corruption enforcement and less administrative inaction. These are announced policy aims, not yet independently measured improvements in bureaucratic performance.",
+        "The meeting takes place ahead of the party congress expected in 2027 and has attracted attention for possible signals about leadership changes. Associated Press noted the extensive reshuffling and removals affecting senior military and civilian officials. Analysts' estimates of those changes should be distinguished from a complete, verified official personnel ledger.",
+        "Because delegates meet behind closed doors, the authoritative picture of adopted measures will depend on eventual statements and documents. Possible discussions about appointments, structural changes or succession should not be reported as confirmed decisions before the party releases the relevant information. Longer-term political effects will require later assessment."
+      ],
+      "facts": [
+        "China's fifth Central Committee plenum began on 26 October and is scheduled to run through 29 October.",
+        "Party discipline and implementation of central directives are stated themes of the session."
+      ],
+      "perspectives": [
+        "Official Chinese accounts describe stronger party supervision as essential to governing effectiveness.",
+        "Analysts cited by AP view the gathering as a possible signal ahead of 2027 leadership decisions."
+      ],
+      "unknowns": [
+        "Final adopted measures, personnel decisions and their practical administrative consequences are not yet established."
+      ],
+      "questions": [
+        {
+          "question": "What is the fifth plenum's role within China's Communist Party?",
+          "answer": "It is a meeting of the party's Central Committee between its five-year congresses, used to consider strategic decisions; the announced 2026 agenda emphasizes internal discipline."
+        },
+        {
+          "question": "Does the plenum's opening settle China's 2027 leadership appointments?",
+          "answer": "No. Personnel changes may be discussed, but only official decisions can establish them; predictions about succession are not appointments."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Governance rules within the party ruling one of the world's largest economies may have enduring reach, though concrete outcomes remain to be assessed.",
+      "tags": [
+        "China",
+        "plenum",
+        "governance"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "China's Xi opens Communist Party plenum, aims for firm governance measures",
+          "url": "https://www.marketscreener.com/news/china-s-xi-opens-communist-party-plenum-aims-for-firm-governance-measures-ce785cdfd080f022",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "What to know about China's plenum as Xi seeks stronger Communist Party discipline",
+          "url": "https://apnews.com/article/328a5ecc91ce19ff98c7f437341e0f3a",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/china-fifth-plenum-party-discipline.svg",
+        "alt": "Original symbolic editorial illustration: China's Communist Party opens fifth plenum focused on internal discipline",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/china-fifth-plenum-party-discipline.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "barcelona-oct24-unrest-arrests",
+      "rank": 8,
+      "category": "society",
+      "title": "Barcelona reports 128 arrests following 24 October street unrest",
+      "dek": "Catalan police say 72 detainees were minors and 15 officers were hurt; the revised total replaces an initial count of 100 arrests.",
+      "summary": "A social-media-organized gathering in central Barcelona on 24 October was followed by clashes, property damage and fires. Catalan police reported on 25 October that 128 people, including 72 minors, had been arrested and 15 officers injured. EFE, Europa Press and Euronews described damage to shops. Individual criminal responsibility and the organization of the disturbances remain under investigation.",
+      "body": [
+        "In Barcelona on 24 October, a gathering promoted on social media was followed by unrest around Plaça de Catalunya. EFE, Europa Press and Euronews reported smashed shopfronts, looting in some locations and street-furniture fires. The call to demonstrate used language associated with recent French youth protests, although this does not establish common organizers.",
+        "On Sunday 25 October, the Mossos d'Esquadra updated the count to 128 arrests, including 72 minors, and 15 injured officers. EFE reported that 23 businesses had been damaged and that firefighters responded to 33 fires. The revised total supersedes the preliminary police figure of around 100 arrests circulated as the situation developed overnight.",
+        "Catalonia's regional president Salvador Illa condemned the vandalism and promised to identify those responsible. His remarks reflect a political and law-enforcement position rather than the outcome of court proceedings. Attendance at a demonstration does not in itself demonstrate participation in property damage or attacks on police.",
+        "Online posts helped publicize the gathering, but their circulation alone cannot prove a single directing organization or establish who committed each offence. Further evidence is needed about the planning of the event, the individual allegations against those detained and procedures applying to the arrested minors."
+      ],
+      "facts": [
+        "Catalan police reported 128 arrests including 72 minors following the 24 October disturbances.",
+        "EFE reported 15 injured officers, damage to 23 businesses and 33 fires."
+      ],
+      "perspectives": [
+        "Regional president Salvador Illa condemned the violence and pledged investigations.",
+        "News reports linked the gathering's promotion to youth-oriented social media calls, without identifying all participants as perpetrators."
+      ],
+      "unknowns": [
+        "Final legal outcomes for the detainees and the identities of those who organized criminal acts are not established."
+      ],
+      "questions": [
+        {
+          "question": "Why did early Barcelona reports mention only 100 arrests?",
+          "answer": "That was a preliminary police count. Catalan authorities updated the number to 128 on 25 October, including 72 minors."
+        },
+        {
+          "question": "What measurable damage accompanied the Barcelona unrest?",
+          "answer": "EFE reported damage to 23 businesses, 33 fires requiring firefighter responses and 15 police injuries; whether each accused individual was involved remains for investigation."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "Unrest caused significant local disruption and arrests, raising specific issues of juvenile justice and due process.",
+      "tags": [
+        "Barcelona",
+        "unrest",
+        "minors"
+      ],
+      "sources": [
+        {
+          "outlet": "EFE",
+          "title": "128 detenidos y 15 policías heridos en los disturbios de Barcelona",
+          "url": "https://efe.com/espana/2026-10-25/disturbios-barcelona-detenidos-heridos/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Europa Press",
+          "title": "128 detenidos en los disturbios de Barcelona",
+          "url": "https://www.europapress.es/catalunya/noticia-128-detenidos-disturbios-barcelona-illa-dice-implicados-pagaran-precio-20261025164218.html",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "128 arrested after night of unrest and looting in Barcelona",
+          "url": "https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/barcelona-oct24-unrest-arrests.svg",
+        "alt": "Original symbolic editorial illustration: Barcelona reports 128 arrests following 24 October street unrest",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/barcelona-oct24-unrest-arrests.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "ukraine-us-warning-starshield-restored",
+      "rank": 9,
+      "category": "world",
+      "title": "Zelenskyy says US missile warnings restored as Starshield restrictions draw scrutiny",
+      "dek": "His 25 October remarks follow complaints about military satellite services; the operational extent of restored access is not independently established.",
+      "summary": "President Volodymyr Zelenskyy said on 25 October that US early warnings about Russian ballistic missile attacks had been fully restored and that some Starshield limits had been lifted. Reuters reported his comments; AP covered the related dispute between SpaceX and Ukrainian officials about Starlink use. The claims describe Kyiv's account rather than a comprehensive independent technical audit.",
+      "body": [
+        "Ukrainian President Volodymyr Zelenskyy said in a 25 October interview with TSN, reported by Reuters, that the United States had fully resumed early warnings of Russian ballistic missile launches. Kyiv had complained of inadequate warning services in the preceding days, so the announcement should be understood as an update to an earlier disruption, not a newly created warning system.",
+        "Zelenskyy linked the change to diplomacy involving US envoy Steve Witkoff in Oslo and said the SpaceX Starshield service had resumed functioning at higher movement speeds from 24 October. The 420 kilometres-per-hour figure referred to an operational mobility restriction, not the satellite network's data-transfer speed or guaranteed bandwidth.",
+        "Associated Press separately reported a dispute between Ukrainian officials and Elon Musk about alleged breaches of Starlink service terms and drone restrictions. Civilian-oriented Starlink and military-focused Starshield are different offerings. A limit affecting particular drones or movement speeds does not by itself establish that every Ukrainian unit had lost all connectivity.",
+        "Advance warning can help air-defence crews prepare and give civilians more time to seek shelter; it cannot guarantee interception of each incoming missile. The public record establishes Zelenskyy's statements and the service dispute, but a comprehensive independent assessment of restored technical capabilities across Ukrainian forces remains unavailable."
+      ],
+      "facts": [
+        "Zelenskyy said on 25 October that US early warnings about ballistic strikes had been fully restored.",
+        "AP documented a separate dispute concerning Starlink terms and restrictions affecting Ukrainian drones."
+      ],
+      "perspectives": [
+        "Zelenskyy attributed the improvements partly to talks with US envoy Witkoff.",
+        "Musk argued that some Ukrainian uses violated Starlink terms, a position disputed by Ukrainian officials."
+      ],
+      "unknowns": [
+        "The full operational performance of Starshield across affected units and the underlying technical decisions lack comprehensive independent verification."
+      ],
+      "questions": [
+        {
+          "question": "What practical role do US ballistic-missile warnings play for Ukraine?",
+          "answer": "Early warnings can help air-defence teams respond and give civilians time to shelter, although they do not guarantee every incoming missile can be stopped."
+        },
+        {
+          "question": "Why should Starlink and Starshield restrictions not be treated as identical?",
+          "answer": "Starlink serves general satellite internet users, while Starshield is tailored for governmental and military uses; reports of restrictions involve different services and operational conditions."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Warning systems and secure connectivity can affect Ukraine's defence and civilian safety, while the scope of restoration is not yet technically verified.",
+      "tags": [
+        "Ukraine",
+        "missiles",
+        "Starshield"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
+          "url": "https://www.reuters.com/business/media-telecom/zelenskiy-says-us-warnings-ballistic-strikes-have-fully-resumed-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+          "url": "https://apnews.com/article/0c6e685ee4637529ec64c1d6a902cc94",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Zelensky, i problemi su Starlink e Starshield non sono ancora stati risolti",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/23/zelensky-i-problemi-su-starlink-e-starshield-non-sono-ancora-stati-risolti_457c525c-74ef-4dbe-9ab3-1b6f5649a3db.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/ukraine-us-warning-starshield-restored.svg",
+        "alt": "Original symbolic editorial illustration: Zelenskyy says US missile warnings restored as Starshield restrictions draw scrutiny",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/ukraine-us-warning-starshield-restored.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "tehran-regional-security-delegations",
+      "rank": 10,
+      "category": "world",
+      "title": "Iran announces security talks with Saudi, Pakistani and Turkish delegations",
+      "dek": "The Tehran meeting is planned for 26 October, but the available advance reports do not yet confirm that the talks have taken place.",
+      "summary": "Iranian and Saudi officials announced planned 26 October talks in Tehran with representatives of Saudi Arabia, Pakistan and Turkey about regional security. Reuters and AP named Khalid bin Salman, Asim Munir and Ibrahim Kalin as expected participants. Advance reporting does not yet establish that all delegations arrived or that an agreement was reached.",
+      "body": [
+        "Iranian and Saudi officials announced on 26 October that senior representatives from Saudi Arabia, Pakistan and Turkey were due to meet Iranian authorities in Tehran. Reuters, AP and AFP described the planned diplomatic initiative as an effort to reduce the likelihood of renewed hostilities across the Middle East. The reports concern an anticipated meeting, not a signed agreement.",
+        "Expected participants include Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin, according to officials cited in reporting. Some details of the agenda came from unnamed regional officials. The advance accounts do not yet independently confirm that each delegation arrived and that meetings were completed.",
+        "The contacts follow regional fighting that has affected trade routes, energy supplies and security around the Red Sea and Strait of Hormuz. AP said the discussions would also cover Yemen and attacks by Houthi forces. Nothing in the reports establishes that the delegations have already reopened shipping channels or agreed to a binding cessation of hostilities.",
+        "Iranian representatives described possible indirect communication with Washington, while other statements reported by Reuters set restrictive conditions for direct talks. These are attributable government positions rather than a completed negotiation. The occurrence of the planned session, the substantive proposals and any effect on future military operations all require further verification."
+      ],
+      "facts": [
+        "Iranian and Saudi officials announced talks in Tehran scheduled for 26 October.",
+        "Reuters identified Khalid bin Salman, Asim Munir and Ibrahim Kalin as expected delegates."
+      ],
+      "perspectives": [
+        "Iranian and Saudi officials described the contacts as an attempt to reduce regional tensions.",
+        "Iranian officials say channels for indirect communications with Washington remain open."
+      ],
+      "unknowns": [
+        "Whether the announced meeting took place as planned, who attended and whether any agreement resulted are not yet verified."
+      ],
+      "questions": [
+        {
+          "question": "Which officials are expected at the 26 October Tehran talks?",
+          "answer": "Reuters reported plans for Saudi Arabia, Pakistan and Turkey to send Khalid bin Salman, Asim Munir and Ibrahim Kalin, respectively, for regional-security consultations."
+        },
+        {
+          "question": "Why does announcing the Tehran meeting not amount to a ceasefire?",
+          "answer": "The sources report a planned diplomatic consultation, not an executed and verified agreement to stop hostilities; actual outcomes require subsequent confirmation."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The regional dialogue involves major security actors and could reduce escalation risks, but its substantive results are not yet confirmed.",
+      "tags": [
+        "Iran",
+        "diplomacy",
+        "security"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Top officials from Mecca pact countries to meet Iranian officials in Tehran on Monday, two sources say",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/26/top-officials-from-mecca-pact-countries-to-meet-iranian-officials-in-tehran-on-monday-two-sources-say",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting",
+          "url": "https://apnews.com/article/36486edb61b3bf4e0df67e8a17123e44",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Iran says officials from Saudi, Turkey, Pakistan to visit Tehran for security talks",
+          "url": "https://english.ahram.org.eg/NewsContent/2/8/580893/World/Region/Iran-says-officials-from-Saudi%2C-Turkey%2C-Pakistan-t.aspx",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/tehran-regional-security-delegations.svg",
+        "alt": "Original symbolic editorial illustration: Saudi, Pakistani and Turkish delegations hold security talks in Tehran",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/tehran-regional-security-delegations.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
