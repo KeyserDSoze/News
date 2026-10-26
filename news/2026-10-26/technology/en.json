@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-26",
+  "language": "en",
+  "publishedAt": "2026-10-26T09:05:46.861Z",
+  "editorialNote": "26 October briefing: event dates are explicit, with cross-checked reporting and attributed statements, data and limitations.",
+  "articles": [
+    {
+      "id": "us-outbound-tech-investment-rule-china",
+      "rank": 1,
+      "category": "technology",
+      "impact": 3,
+      "tags": [
+        "investment",
+        "chips",
+        "biotech"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
+          "url": "https://apnews.com/article/b742c292ff8eb19e6a4c8cf03d4d66b9",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "China urges US to halt proposed expansion of outbound investment curbs",
+          "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "U.S. Department of the Treasury",
+          "title": "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
+          "url": "https://home.treasury.gov/news/press-releases/sb0667/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/us-outbound-tech-investment-rule-china.svg",
+        "alt": "Symbolic editorial illustration, not a photograph: semiconductor chip and international investment restrictions",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/us-outbound-tech-investment-rule-china.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "US proposes tighter controls on strategic technology investment; China objects",
+      "dek": "Treasury proposes rules for biotechnology, supercomputing and hypersonic systems. The proposal is open to consultation, not yet an enforceable final ban.",
+      "summary": "On 22 October, the US Treasury Department published proposed regulations expanding oversight of American outbound investments in sensitive technology. China's commerce ministry objected on 24 October, Reuters reported. AP described the proposed expansion to biotechnology, supercomputing and hypersonic systems alongside existing sectors. Public comments remain open until 7 December, so the proposal is not yet the final regulation.",
+      "body": [
+        "On 22 October 2026, the US Treasury Department issued proposed regulations expanding scrutiny of American investment in overseas companies developing technologies deemed strategically sensitive. The proposal implements the Comprehensive Outbound Investment National Security Act enacted in December 2025 and updates an existing outbound-investment security program. Treasury distinguishes transactions requiring notification from transactions that would be prohibited, depending on the technology and the foreign entity involved.",
+        "The existing program already addresses semiconductors, quantum information technology and certain artificial-intelligence systems. The new proposal adds technical specifications for high-performance computing, supercomputers and hypersonic systems, and proposes bringing biotechnology into scope, according to Treasury's official announcement. It does not mean every transfer of US capital to China is banned: the investment structure, recipient, covered technology and exemptions all matter.",
+        "On Saturday, 24 October, China's commerce ministry urged Washington to abandon the expanded restrictions, calling them discriminatory and damaging to economic relations. Reuters reported Beijing's position, while AP described the proposed mechanism and possible compliance consequences for US investors. Washington's national-security rationale and Beijing's objections are attributable official positions, not independent proof of the actual effects of future restrictions.",
+        "The document remains a Notice of Proposed Rulemaking. Treasury is accepting comments through 7 December 2026 and must later issue a final rule setting an effective date. Companies and investors may need to identify transactions subject to notification or prohibition, but the proposed new categories should not be presented as universally enforceable today. Any Chinese countermeasure would also require separate reporting when formally announced or implemented."
+      ],
+      "facts": [
+        "Treasury published a proposed, not final, expansion of outbound-investment restrictions on 22 October.",
+        "China's commerce ministry objected on 24 October, while the US comment period runs through 7 December."
+      ],
+      "perspectives": [
+        "Treasury argues the restrictions would prevent US capital from helping foreign adversaries develop military and surveillance capabilities.",
+        "Beijing argues that the expanded restrictions discriminate against Chinese companies and harm bilateral trade ties."
+      ],
+      "unknowns": [
+        "The final text, enforcement date and any concrete Chinese regulatory response remain unsettled."
+      ],
+      "questions": [
+        {
+          "question": "Which technologies would the proposed US outbound-investment rules newly cover?",
+          "answer": "Alongside updated rules for chips, AI and quantum systems, the proposal specifies supercomputing and hypersonic systems and seeks to add biotechnology; treatment depends on the transaction's characteristics."
+        },
+        {
+          "question": "When would the proposed US investment restrictions become binding?",
+          "answer": "Not upon their 22 October announcement. Treasury is accepting public comments through 7 December 2026 and must issue a final rule specifying when it takes effect."
+        }
+      ],
+      "impactReason": "The proposal could reshape cross-border investment and technology supply chains, but its practical scope depends on the final rule and enforcement."
+    },
+    {
+      "id": "meta-commercial-terms-ai-delay",
+      "rank": 2,
+      "category": "technology",
+      "title": "Meta delays disputed commercial terms until 20 November",
+      "dek": "Publishers question whether crawler clauses expand AI content rights; Meta disputes that interpretation and pledges clarification.",
+      "summary": "On 23 October Meta postponed the effective date of updated commercial and advertising terms from 30 October to 20 November 2026. Publishers and advertisers have objected to broad wording about use of their websites and content. Meta disputes claims that the terms automatically grant unlimited AI-training rights and says it will clarify how web crawlers and robots.txt preferences work.",
+      "body": [
+        "Meta Platforms announced on 23 October that its updated commercial and self-serve advertising terms would take effect on 20 November rather than 30 October. Reuters and Gadgets Now reported the delay amid objections from European publishers and digital advertisers. Moving an effective date does not in itself mean that the company has withdrawn the proposed clauses.",
+        "The dispute concerns wording dealing with website access and content used in connection with commercial services. Publisher groups argue that the terms could allow extensive uses of their material, including by AI systems. Their interpretation is an allegation about contractual rights, not verified evidence that particular content has been unlawfully used to train a model.",
+        "Meta rejects the claim of unlimited access rights and says it will clarify what its crawlers do. The company points to robots.txt as a way for website owners to express crawler preferences. That technical protocol signals desired access rules, but it does not by itself resolve every legal disagreement about contractual permission or copyright.",
+        "Reuters reported complaints reaching EU and UK competition authorities and the European Commission's welcome for the delay. Complaints are not findings of infringement. The definitive wording applied in November, the company's actual practices and any regulatory conclusions will need to be assessed when further documents appear."
+      ],
+      "facts": [
+        "Meta moved the effective date of its updated commercial terms from 30 October to 20 November 2026.",
+        "Publishers and advertisers complained about the possible breadth of website-content provisions."
+      ],
+      "perspectives": [
+        "Meta disputes claims that its terms automatically allow unlimited AI-related content use.",
+        "The European Commission welcomed the delay amid requests for information about data used for AI training."
+      ],
+      "unknowns": [
+        "The final contractual wording and any findings from competition authorities remain unsettled."
+      ],
+      "questions": [
+        {
+          "question": "What date changed for Meta's updated business terms?",
+          "answer": "Their effective date shifted from 30 October to 20 November 2026 to allow additional explanations to partners."
+        },
+        {
+          "question": "What is robots.txt meant to do in Meta's crawler dispute?",
+          "answer": "It lets website owners express technical preferences about crawler access; Meta highlights it as a control, while publisher objections also concern the contract's legal scope."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Commercial platform rules may affect digital advertising and publishing widely, but their implementation and regulatory consequences are unresolved.",
+      "tags": [
+        "Meta",
+        "publishers",
+        "crawlers"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+          "url": "https://www.reuters.com/business/media-telecom/meta-delay-new-commercial-terms-criticised-by-publishers-advertisers-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Gadgets Now",
+          "title": "Meta moves its new business terms to 20 November and the crawling clause stays intact",
+          "url": "https://gadgetsnow.indiatimes.com/tech-news/meta-moves-its-new-business-terms-to-20-november-and-the-crawling-clause-stays-intact/articleshow/135135884.cms",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/meta-commercial-terms-ai-delay.svg",
+        "alt": "Original symbolic illustration: Meta delays disputed commercial terms until 20 November",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/meta-commercial-terms-ai-delay.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "php2shell-critical-security-patches",
+      "rank": 3,
+      "category": "technology",
+      "title": "PHP issues emergency fixes for two remote-code-execution flaws",
+      "dek": "PHP2Shell covers CVE-2026-109618 and CVE-2026-109619; operators of exposed servers are urged to install patched releases.",
+      "summary": "On 21 October the PHP security team released urgent updates for two high-severity runtime vulnerabilities, collectively called PHP2Shell. Under exposed configurations, the faults can allow unauthenticated remote code execution, with mod_php flagged as particularly risky. Fixed versions include PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35.",
+      "body": [
+        "On 21 October the PHP project issued urgent security updates for two vulnerabilities affecting a widely deployed web programming language. Identified as CVE-2026-109618 and CVE-2026-109619, the flaws were grouped under the name PHP2Shell. BleepingComputer and Ars Technica reported on the maintainers' warnings and rapid patch release.",
+        "Both problems involve inconsistent memory state after abnormal web request processing. One opens a possible path to remote code execution through memory-handling faults, while the other can involve a use-after-free condition. Successful exploitation may allow commands to run with the web worker's permissions, which are not necessarily the same as full system-administrator privileges.",
+        "The supported fixed releases are PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35. Older unsupported versions require distribution-specific backports or an upgrade path. Temporary configuration mitigations may narrow certain attack routes, but PHP maintainers stress that applying patched software is the durable remedy rather than relying solely on filters.",
+        "The PHP team singled out mod_php as an especially serious exposure, although other server arrangements can also be affected when requests reach the runtime. Early exploitation attempts were reported before patched versions were available. Those observations do not prove that every PHP-powered website was compromised: patch level, exposure, configuration and actual evidence of intrusion must be checked separately."
+      ],
+      "facts": [
+        "The PHP project patched CVE-2026-109618 and CVE-2026-109619 on 21 October.",
+        "Fixed supported releases include PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35."
+      ],
+      "perspectives": [
+        "The PHP security team describes mod_php as a particularly high-risk configuration and patching as the essential defence.",
+        "Security researchers and infrastructure providers reported attack attempts before patched releases became available."
+      ],
+      "unknowns": [
+        "The global number of compromised servers and the effectiveness of specific temporary mitigations across installations remain unknown."
+      ],
+      "questions": [
+        {
+          "question": "Which PHP releases fix the PHP2Shell vulnerabilities?",
+          "answer": "The PHP project lists 8.5.12, 8.4.27, 8.3.36 and 8.2.35 for supported branches; older deployments need a vendor-supported backport or an upgrade."
+        },
+        {
+          "question": "Why are web-firewall rules not a permanent PHP2Shell fix?",
+          "answer": "Filters may block known requests, but the vulnerability arises inside PHP's memory handling, so updating the runtime is needed to correct the underlying defect."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Remote code execution flaws in a ubiquitous web runtime pose broad, documented risk even though not every deployment is necessarily compromised.",
+      "tags": [
+        "PHP",
+        "security",
+        "patches"
+      ],
+      "sources": [
+        {
+          "outlet": "BleepingComputer",
+          "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+          "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "PHP maintainers tell web devs to prepare themselves for critical security patches",
+          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+          "publishedAt": "2026-10-20",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Broadcom",
+          "title": "PHP2Shell vulnerabilities allow remote code execution in PHP runtimes",
+          "url": "https://www.broadcom.com/support/security-center/protection-bulletin/php2shell-vulnerabilities-allow-remote-code-execution-in-php-runtimes",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/php2shell-critical-security-patches.svg",
+        "alt": "Original symbolic illustration: PHP issues emergency fixes for two remote-code-execution flaws",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/php2shell-critical-security-patches.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "emudhra-tls-certificates-exit",
+      "rank": 4,
+      "category": "technology",
+      "title": "eMudhra exits global TLS certificate business following key-security concerns",
+      "dek": "The Indian issuer announced its departure on 22 October after browser makers challenged handling of intermediate cryptographic keys.",
+      "summary": "On 22 October eMudhra announced that it would leave the worldwide SSL/TLS certificate business after problems with intermediate certification-authority keys and consequent browser restrictions. The company says no end-entity certificates were issued by the affected intermediates. The decision concerns one business line rather than the shutdown of the entire company.",
+      "body": [
+        "Indian technology company eMudhra said on 22 October that it would exit its global SSL/TLS certificate-issuance business, which supplies credentials used by browsers to authenticate websites. Reuters and Ars Technica reported the announcement after concerns emerged about intermediate certification-authority keys. The firm intends to continue other digital-identity and electronic-signature services.",
+        "The incident involved eight intermediate keys associated with a ceremony in April 2025. Google described shortcomings that could undermine confidence in their secrecy. A certification authority's private key must remain secure because certificates signed through an untrustworthy authority may mislead clients even before an actual forged site certificate is documented.",
+        "eMudhra says no end-entity website certificates were issued under the affected intermediates and that it has found no customer data compromise. These remain attributed company statements rather than universal proof that no risk existed. Browser vendors responded with plans to restrict trust in affected certification infrastructure.",
+        "Existing customers may need to migrate services and certificates to alternative providers as browser trust policies change. Google's announced schedule includes an operational change after 26 October, which should not be described as completed at the edition's date. The case illustrates that HTTPS security depends on certificate-authority procedures as well as cryptographic algorithms."
+      ],
+      "facts": [
+        "eMudhra announced its global SSL/TLS certificate business exit on 22 October.",
+        "Google had publicly documented concerns about the protection of intermediate CA keys."
+      ],
+      "perspectives": [
+        "eMudhra says no end-entity certificates were issued through the affected intermediate authorities.",
+        "Google regarded the key-handling weaknesses as warranting changes to browser trust decisions."
+      ],
+      "unknowns": [
+        "The ultimate migration impact and whether every potentially exposed key was misused are not established."
+      ],
+      "questions": [
+        {
+          "question": "Which part of eMudhra's business is being discontinued?",
+          "answer": "The worldwide issuance of SSL/TLS website certificates, not all of the company's electronic-signature or digital-identity operations."
+        },
+        {
+          "question": "Why do weakly protected certificate-authority keys matter to browsers?",
+          "answer": "An untrusted private signing key may allow misleading certificates to be issued; browsers can therefore remove trust in an issuer before a specific forged certificate is proven."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Trust in certificate authorities underpins web security, and the issuer's withdrawal shows substantial operational consequences of failures.",
+      "tags": [
+        "TLS",
+        "certificates",
+        "browsers"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Indian firm eMudhra exits global digital certificates business after security incident",
+          "url": "https://www.reuters.com/legal/litigation/indian-firm-emudhra-exits-global-digital-certificates-business-after-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Disgraced eMudhra drops out of TLS business following certificate debacle",
+          "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "eMudhra",
+          "title": "eMudhra to Exit global SSL/TLS Certificate Business",
+          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Google",
+          "title": "Protecting Chrome and Android users from compromised eMudhra intermediate CA certificates",
+          "url": "https://blog.google/security/protecting-chrome-and-android-users-from-compromised-emudhra-intermediate-ca-certificates/",
+          "publishedAt": "2026-10-20",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/emudhra-tls-certificates-exit.svg",
+        "alt": "Original symbolic illustration: eMudhra exits global TLS certificate business following key-security concerns",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/emudhra-tls-certificates-exit.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "tor-exit-relays-ssh-email-interception",
+      "rank": 5,
+      "category": "technology",
+      "title": "Report details SSH interception through 333 compromised Tor exit relays",
+      "dek": "Attackers redirected selected connections between 2 and 5 October; encrypted communications were not universally compromised.",
+      "summary": "A technical investigation reported in the week of 20 October described 333 Tor exit relays compromised for an operation targeting SSH connections and attempting to expose plaintext email between 2 and 5 October. Ars Technica and The Hacker News explained the attack. It is not evidence that Tor's entire network or all properly encrypted traffic was broken.",
+      "body": [
+        "A Tor community investigator published details of a campaign affecting 333 exit relays, mainly during 2–5 October, and the account was covered by Ars Technica and The Hacker News. The incident involved tampering at the final server through which selected Tor traffic reached the open Internet. This is different from cracking every layer of Tor encryption.",
+        "Exit relays are the points where Tor routes connections to outside destinations. In this case, hostile relays redirected SSH sessions to one of twelve attacker-operated interception servers. A user who ignored a warning that the remote host key had changed could expose credentials and potentially enable further compromise of the destination server.",
+        "The compromised relays also blocked some ports commonly used by encrypted email connections in an attempt to encourage plaintext traffic. The published investigation could not establish whether those email downgrades succeeded. Properly protected end-to-end HTTPS traffic does not automatically become readable to an exit-node administrator.",
+        "Investigators described an initial compromise dating to August, partly involving reused administrative credentials. A researcher tested the host keys observed through roughly three thousand exits and identified anomalous redirection. The number of people actually harmed has not been established. Host-key warnings and end-to-end encryption remain important protections."
+      ],
+      "facts": [
+        "The campaign affected 333 Tor exit relays between 2 and 5 October 2026.",
+        "SSH connections could be diverted through twelve attacker-controlled interceptor servers."
+      ],
+      "perspectives": [
+        "Researcher Kaba emphasized checking SSH server identity as a way to detect interception.",
+        "Security analysts distinguish risks at untrusted exit nodes from failure of valid end-to-end encryption."
+      ],
+      "unknowns": [
+        "Confirmed victim counts and the success of attempted email downgrades remain unverified."
+      ],
+      "questions": [
+        {
+          "question": "How could a compromised Tor exit relay capture an SSH password?",
+          "answer": "It redirected the connection to an attacker server presenting a different host key; users who dismissed the warning could send their password to the interceptor."
+        },
+        {
+          "question": "Did compromise of 333 exits expose every Tor session?",
+          "answer": "No. Exit-node manipulation threatens certain connections, but correctly implemented end-to-end HTTPS encryption still prevents a hostile exit relay from reading message contents."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The attack demonstrates a concrete threat to sensitive protocols over Tor, though actual victim numbers are undetermined.",
+      "tags": [
+        "Tor",
+        "SSH",
+        "privacy"
+      ],
+      "sources": [
+        {
+          "outlet": "Ars Technica",
+          "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+          "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Hacker News",
+          "title": "Attackers Hijacked Over 300 Tor Exit Nodes to Intercept SSH and Email Traffic",
+          "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html?hl=en&m=1",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Tor Project volunteers",
+          "title": "Incident report by Kaba on compromised exit nodes",
+          "url": "https://kaba.cx/posts/20261020_Tor/",
+          "publishedAt": "2026-10-20",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/tor-exit-relays-ssh-email-interception.svg",
+        "alt": "Original symbolic illustration: Report details SSH interception through 333 compromised Tor exit relays",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/tor-exit-relays-ssh-email-interception.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ],
+  "section": "technology"
+}
