@@ -1,0 +1,73 @@
+{
+  "id": "eni-fuel-cap-earnings-oct23",
+  "rank": 3,
+  "category": "economy",
+  "impact": 2.5,
+  "tags": [
+    "carburanti",
+    "energia",
+    "Eni"
+  ],
+  "title": "Eni prolunga il tetto dinamico ai carburanti; crescono gli utili trimestrali",
+  "dek": "Descalzi conferma il meccanismo fino a dicembre, ma i valori attuali di 1,99 e 2,25 euro al litro potrebbero variare con mercato e disponibilità.",
+  "summary": "Il 23 ottobre Eni ha annunciato che manterrà fino a fine 2026 il principio di un limite ai prezzi di benzina e diesel presso le proprie stazioni. I valori attuali sono 1,99 euro al litro per benzina e 2,25 per diesel, ma l'amministratore delegato Claudio Descalzi ha chiarito che il livello verrà rivalutato. Nella stessa giornata Eni ha diffuso risultati trimestrali migliori delle attese e nuove distribuzioni agli azionisti.",
+  "body": [
+    "Eni ha confermato venerdì 23 ottobre la prosecuzione fino a fine anno di un sistema di tetto ai prezzi dei carburanti praticati dalla sua rete. Claudio Descalzi ha parlato del mantenimento del concetto di price cap, non del congelamento incondizionato di ogni prezzo per tutti gli automobilisti italiani. Il provvedimento riguarda un operatore e non costituisce un prezzo nazionale regolato.",
+    "I valori comunicati erano di 1,99 euro al litro per la benzina e 2,25 per il gasolio. L'azienda valuterà variazioni sulla base dell'evoluzione del mercato e delle forniture disponibili nella propria struttura logistica. Anche quando un limite viene pubblicizzato, il prezzo effettivo presso un singolo distributore e nel tempo dipende dalle condizioni indicate dall'operatore.",
+    "La decisione è arrivata insieme a risultati economici robusti. Reuters ha riportato un utile netto rettificato di 2,8 miliardi di euro nel terzo trimestre, più che raddoppiato rispetto all'anno precedente, e l'annuncio di un dividendo straordinario da 1,3 miliardi. Il gruppo ha aumentato il programma di riacquisto azioni, una scelta rivolta agli azionisti distinta dalle politiche sui carburanti.",
+    "L'aumento della redditività riflette diversi fattori, inclusi raffinazione, volumi e condizioni dell'energia, e non consente di attribuire tutto il risultato ai prezzi alla pompa. La prosecuzione del tetto dinamico può attenuare alcune pressioni sui clienti Eni, ma non elimina l'incertezza sul petrolio o sulle scelte commerciali future."
+  ],
+  "facts": [
+    "Eni ha confermato il mantenimento del meccanismo di price cap fino al 31 dicembre 2026.",
+    "Il livello comunicato al 23 ottobre era di 1,99 euro/litro per benzina e 2,25 per gasolio, soggetto a possibili revisioni."
+  ],
+  "perspectives": [
+    "Descalzi ha collegato eventuali modifiche dei livelli a prezzi di mercato e disponibilità delle forniture.",
+    "Eni presenta i maggiori ritorni agli azionisti come conseguenza dei risultati finanziari del gruppo."
+  ],
+  "unknowns": [
+    "Restano da conoscere eventuali nuove soglie e l'effetto sui prezzi effettivi dei singoli impianti entro dicembre."
+  ],
+  "questions": [
+    {
+      "question": "Il limite Eni di 1,99 euro per la benzina resterà fisso fino a dicembre?",
+      "answer": "No: è confermata la continuazione del meccanismo di price cap, ma Eni ha detto che la soglia attuale sarà rivalutata in base al mercato e alle forniture."
+    },
+    {
+      "question": "Quale utile trimestrale ha accompagnato la decisione sui carburanti?",
+      "answer": "Reuters ha riportato 2,8 miliardi di euro di utile netto rettificato nel terzo trimestre 2026, oltre il doppio del valore di un anno prima; utile e politica dei prezzi sono indicatori differenti."
+    }
+  ],
+  "impactReason": "La politica di prezzo di un grande operatore e gli utili energetici hanno effetti economici nazionali, senza fissare prezzi uniformi in tutta Italia.",
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Eni to extend fuel price cap to year-end, CEO says",
+      "url": "https://it.investing.com/news/stock-market-news/eni-estendera-tetto-a-prezzi-carburanti-fino-a-fine-anno--descalzi-3604522",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Eni: Il tetto al prezzo per benzina e diesel proseguirà fino a fine anno",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-il-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_7f2ea08b-ce91-4f3c-90b8-ca8bf6e4c8aa.html",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "Eni boosts payout after profit doubles, shares near 20-year highs",
+      "url": "https://www.reuters.com/business/energy/eni-pay-special-dividend-lift-buyback-after-strong-third-quarter-results-2026-10-23/",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+    "alt": "Illustrazione editoriale originale e simbolica: Eni prolunga il tetto dinamico ai carburanti; crescono gli utili trimestrali",
+    "credit": "O — original editorial vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
