@@ -1,0 +1,80 @@
+{
+  "id": "krascendo1-divarasib-kras-lung-cancer",
+  "rank": 1,
+  "category": "society",
+  "impact": 3,
+  "tags": [
+    "oncology",
+    "KRAS",
+    "clinical-trial"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Roche says divarasib cut risk of death 44% in lung cancer trial",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/roche-says-divarasib-cut-risk-death-44-lung-cancer-trial-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "OncLive",
+      "title": "Divarasib Improves Survival and Paves Way for New SOC in Pretreated KRAS G12C–Mutated NSCLC",
+      "url": "https://www.onclive.com/view/divarasib-improves-pfs-and-os-vs-sotorasib-or-adagrasib-in-pretreated-kras-g12c-mutated-nsclc",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "UT MD Anderson Cancer Center",
+      "title": "ESMO 2026: New targeted therapy improved survival for patients with KRAS-mutated lung cancer",
+      "url": "https://www.mdanderson.org/newsroom/research-newsroom/esmo-2026--new-targeted-therapy-improved-survival-for-patients-with-KRAS-mutated-lung-cancer.h00-159859290.html",
+      "publishedAt": "2026-10-25",
+      "role": "official"
+    },
+    {
+      "outlet": "Roche",
+      "title": "Roche’s divarasib demonstrated best-in-class efficacy, advancing the standard of care in previously treated KRAS G12C-mutated lung cancer",
+      "url": "https://www.roche.com/investors/updates/inv-update-2026-10-25",
+      "publishedAt": "2026-10-25",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+    "alt": "Symbolic editorial illustration, not a photograph: tumour cells and comparison of KRAS-targeted treatments",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Krascendo 1 trial finds longer survival with divarasib in KRAS G12C lung cancer",
+  "dek": "The 338-patient phase III trial reported median survival of 17.7 months versus 12.0 with comparator inhibitors; regulatory decisions remain ahead.",
+  "summary": "Results of the phase III Krascendo 1 trial were presented at ESMO on 25 October. The randomized study enrolled 338 previously treated patients with advanced KRAS G12C-mutated non-small-cell lung cancer. Median overall survival was 17.7 months with divarasib versus 12.0 months with sotorasib or adagrasib, according to Reuters, OncLive and Roche's detailed results. The hazard ratio for death was 0.56, a relative measure that does not predict an identical benefit for every patient.",
+  "body": [
+    "On 25 October 2026, investigators presented primary findings from the Krascendo 1 study at the European Society for Medical Oncology congress in Madrid, alongside publication in the New England Journal of Medicine. The phase III trial enrolled 338 adults with previously treated advanced or metastatic non-small-cell lung cancer carrying the KRAS G12C mutation. Participants were randomly assigned to divarasib or one of two approved drugs targeting the same mutation, sotorasib or adagrasib.",
+    "There were 167 participants in the divarasib arm and 171 in the comparator arm. Median overall survival was 17.7 versus 12.0 months, with a hazard ratio of 0.56 and a 95% confidence interval of 0.41–0.78. Median progression-free survival was 9.8 versus 5.7 months, with a hazard ratio of 0.58. These relative risk estimates do not represent a cure rate or a precise prediction of any individual's survival.",
+    "Objective tumour responses occurred in approximately 58% of the divarasib group and 32% of the control group. MD Anderson reported grade 3 or higher treatment-related adverse events in about 25% of participants receiving divarasib and 35% of controls. Treatment-related discontinuations were also less common with divarasib, although gastrointestinal and liver-related adverse effects still require attention. Roche and Genentech sponsored the study, a relevant disclosure when assessing the evidence.",
+    "The trial was randomized but open-label, meaning patients and clinicians knew which drug had been assigned, although some outcomes were assessed by blinded independent reviewers. Patients with untreated brain metastases were excluded, and relatively few controls received adagrasib, limiting certain subgroup comparisons. Divarasib remains described as investigational, with the company planning regulatory submissions. The results apply to the selected trial population, not to every type or stage of lung cancer."
+  ],
+  "facts": [
+    "Krascendo 1 randomized 338 previously treated adults with advanced KRAS G12C-mutated lung cancer.",
+    "Median overall survival was 17.7 months with divarasib versus 12.0 with sotorasib or adagrasib, with a death hazard ratio of 0.56."
+  ],
+  "perspectives": [
+    "Trial investigators view the head-to-head survival benefit as a potential advance for targeted therapy after previous treatment.",
+    "Sponsor Roche highlighted the findings and plans to work with regulators; trial presentation is not equivalent to approval."
+  ],
+  "unknowns": [
+    "Longer-term outcomes, applicability to excluded patient groups and the eventual regulatory status require further evidence."
+  ],
+  "questions": [
+    {
+      "question": "What did the Krascendo 1 divarasib trial actually compare?",
+      "answer": "It compared divarasib directly with two approved KRAS G12C inhibitors, sotorasib and adagrasib, in 338 previously treated adults with advanced KRAS G12C-mutated lung cancer, rather than with a placebo."
+    },
+    {
+      "question": "What does the reported 44% reduction in the risk of death mean?",
+      "answer": "It is the relative hazard reduction represented by a hazard ratio of 0.56 over the observation period. Median survival was 17.7 versus 12.0 months; the figure does not mean that 44% were cured or that every patient gained the same number of months."
+    }
+  ],
+  "impactReason": "A randomized survival benefit in a molecularly defined patient group is important clinical evidence, but its reach is limited and regulatory review remains necessary."
+}

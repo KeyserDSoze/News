@@ -1,0 +1,73 @@
+{
+  "id": "us-outbound-tech-investment-rule-china",
+  "rank": 1,
+  "category": "technology",
+  "impact": 3,
+  "tags": [
+    "investimenti",
+    "chip",
+    "biotecnologie"
+  ],
+  "sources": [
+    {
+      "outlet": "Associated Press",
+      "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
+      "url": "https://apnews.com/article/b742c292ff8eb19e6a4c8cf03d4d66b9",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "China urges US to halt proposed expansion of outbound investment curbs",
+      "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    },
+    {
+      "outlet": "U.S. Department of the Treasury",
+      "title": "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
+      "url": "https://home.treasury.gov/news/press-releases/sb0667/",
+      "publishedAt": "2026-10-22",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/us-outbound-tech-investment-rule-china.svg",
+    "alt": "Illustrazione editoriale simbolica, non una fotografia: microchip e vincoli agli investimenti internazionali",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/us-outbound-tech-investment-rule-china.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "USA, proposta una stretta sugli investimenti in tecnologie strategiche: Pechino protesta",
+  "dek": "Il Tesoro americano propone nuove regole su biotecnologie, supercalcolo e sistemi ipersonici. È una consultazione, non un divieto già in vigore.",
+  "summary": "Il 22 ottobre il Dipartimento del Tesoro statunitense ha pubblicato una proposta di regolamento per estendere il controllo sugli investimenti americani in tecnologie sensibili all'estero. Il 24 ottobre il ministero del Commercio cinese ha criticato l'iniziativa, secondo Reuters. AP descrive l'estensione prevista a biotecnologie, supercalcolo e sistemi ipersonici, oltre ai settori già disciplinati. Il testo è aperto ai commenti fino al 7 dicembre: non è ancora la norma definitiva.",
+  "body": [
+    "Il Dipartimento del Tesoro degli Stati Uniti ha pubblicato il 22 ottobre 2026 una proposta di regolamento che amplierebbe il controllo sugli investimenti statunitensi in imprese estere attive in tecnologie considerate strategiche. La proposta attua il Comprehensive Outbound Investment National Security Act approvato dal Congresso nel dicembre 2025 e aggiorna il programma di sicurezza sugli investimenti in uscita. Il Tesoro distingue operazioni da notificare da operazioni che sarebbero vietate, a seconda della tecnologia e della controparte.",
+    "La disciplina vigente già prende in considerazione semiconduttori, informatica quantistica e alcuni sistemi di intelligenza artificiale. Il nuovo testo propone specificazioni per il calcolo ad alte prestazioni, i supercomputer e i sistemi ipersonici e aggiunge le biotecnologie, come risulta dal comunicato ufficiale del Tesoro. Le misure non si applicano indistintamente a ogni trasferimento di capitale verso la Cina: occorre valutare il tipo di investimento, la tecnologia, l'entità destinataria e le eccezioni previste.",
+    "Sabato 24 ottobre il ministero del Commercio cinese ha invitato Washington a fermare l'espansione dei vincoli, definendola discriminatoria e dannosa per i rapporti economici bilaterali. Reuters ha riferito la posizione di Pechino, mentre AP ha spiegato il meccanismo proposto e le conseguenze per gli investitori americani. Le motivazioni di sicurezza nazionale indicate da Washington e le obiezioni commerciali cinesi sono posizioni istituzionali attribuite, non conclusioni indipendenti sull'effetto reale delle restrizioni.",
+    "Il documento è ancora un Notice of Proposed Rulemaking: il Tesoro accetta osservazioni fino al 7 dicembre 2026 e pubblicherà successivamente una regola finale con la propria data di entrata in vigore. Per aziende e investitori il passaggio concreto sarà individuare le operazioni che richiedono controlli e notifiche, ma non si deve descrivere oggi la proposta come un divieto già applicabile in tutti i nuovi settori. Anche la risposta cinese rimane da verificare in eventuali atti successivi."
+  ],
+  "facts": [
+    "Il Tesoro USA ha pubblicato il 22 ottobre una proposta, non una norma definitiva, sull'investimento estero in tecnologie sensibili.",
+    "Il ministero del Commercio cinese ha espresso opposizione il 24 ottobre; la consultazione statunitense rimane aperta fino al 7 dicembre."
+  ],
+  "perspectives": [
+    "Il Tesoro sostiene che le restrizioni servano a evitare il sostegno finanziario a capacità militari e di sorveglianza di paesi considerati avversari.",
+    "Pechino sostiene che l'estensione discriminerebbe imprese cinesi e danneggerebbe le relazioni economiche."
+  ],
+  "unknowns": [
+    "La versione finale della regola, la data di applicazione e l'eventuale risposta regolatoria della Cina non sono ancora definite."
+  ],
+  "questions": [
+    {
+      "question": "Quali nuovi settori tecnologici comprende la proposta del Tesoro statunitense?",
+      "answer": "Oltre a precisare regole per chip, IA e tecnologie quantistiche, il testo disciplina supercalcolo e sistemi ipersonici e propone di aggiungere le biotecnologie; il trattamento varia secondo le caratteristiche della transazione."
+    },
+    {
+      "question": "Quando le nuove restrizioni sugli investimenti USA diventeranno vincolanti?",
+      "answer": "Non con la pubblicazione del 22 ottobre. Il Tesoro raccoglie commenti fino al 7 dicembre 2026 e dovrà emanare una regola finale che specifichi l'entrata in vigore."
+    }
+  ],
+  "impactReason": "La proposta può modificare investimenti e filiere tecnologiche transfrontaliere, ma la sua portata effettiva dipende dalla regola finale e dall'applicazione."
+}
