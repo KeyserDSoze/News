@@ -205,6 +205,13 @@
           "url": "https://www.broadcom.com/support/security-center/protection-bulletin/php2shell-vulnerabilities-allow-remote-code-execution-in-php-runtimes",
           "publishedAt": "2026-10-22",
           "role": "official"
+        },
+        {
+          "outlet": "PHP Security Team",
+          "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
+          "url": "https://www.php.net/archive/2026.php",
+          "publishedAt": "2026-10-21",
+          "role": "official"
         }
       ],
       "image": {
