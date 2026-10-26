@@ -1,0 +1,66 @@
+{
+  "id": "meta-commercial-terms-ai-delay",
+  "rank": 2,
+  "category": "technology",
+  "title": "Meta rinvia al 20 novembre le condizioni commerciali contestate dagli editori",
+  "dek": "Le associazioni temono usi estesi dei contenuti per l'IA; Meta contesta questa lettura e promette chiarimenti sui crawler.",
+  "summary": "Il 23 ottobre Meta ha rinviato dal 30 ottobre al 20 novembre 2026 l'entrata in vigore delle nuove condizioni commerciali e pubblicitarie. Editori e inserzionisti hanno contestato clausole ritenute troppo ampie sull'accesso ai propri siti; Meta respinge l'interpretazione secondo cui si arrogherebbe automaticamente diritti illimitati per addestrare l'intelligenza artificiale.",
+  "body": [
+    "Il 23 ottobre Meta Platforms ha annunciato un rinvio dell'entrata in vigore delle proprie condizioni commerciali aggiornate, dal 30 ottobre al 20 novembre. Reuters e Gadgets Now hanno riportato la decisione in un quadro di proteste provenienti da editori digitali e inserzionisti europei. Il rinvio sposta la data di efficacia annunciata, ma non equivale al ritiro definitivo delle clausole.",
+    "La controversia riguarda, fra gli altri temi, la formulazione delle condizioni relative ai crawler e alle risorse pubblicate dai partner commerciali. Associazioni del settore sostengono che il testo potrebbe ampliare i diritti di Meta sui contenuti per servizi basati sull'intelligenza artificiale. Questa è la loro interpretazione delle clausole, non un utilizzo illecito accertato.",
+    "Meta nega che le condizioni conferiscano il diritto illimitato descritto dai critici. Un portavoce ha indicato la volontà di spiegare meglio il comportamento dei crawler e ricordato che i gestori dei siti possono esprimere preferenze attraverso robots.txt. Il file è uno standard per comunicare istruzioni ai crawler, non un contratto capace da solo di risolvere ogni controversia sui diritti.",
+    "Reuters ha riferito che le autorità antitrust dell'Unione europea e del Regno Unito hanno ricevuto segnalazioni e che la Commissione europea ha accolto il rinvio. La presenza di reclami non implica un'infrazione già dimostrata. Occorrerà verificare l'effettivo testo applicato a novembre e gli eventuali pronunciamenti regolatori."
+  ],
+  "facts": [
+    "Meta ha spostato dal 30 ottobre al 20 novembre la data di efficacia delle condizioni commerciali aggiornate.",
+    "Editori e pubblicitari hanno contestato la portata delle condizioni relative all'uso dei contenuti."
+  ],
+  "perspectives": [
+    "Meta respinge la descrizione di un diritto illimitato ad acquisire contenuti per l'IA.",
+    "La Commissione europea ha accolto il rinvio e riferito richieste di informazioni sulle pratiche dei dati di addestramento."
+  ],
+  "unknowns": [
+    "Non è stabilito se la versione applicata il 20 novembre conterrà modifiche sostanziali o se seguiranno interventi antitrust."
+  ],
+  "questions": [
+    {
+      "question": "Quale scadenza è cambiata nelle condizioni commerciali di Meta?",
+      "answer": "La decorrenza delle condizioni e dei termini pubblicitari è passata dal 30 ottobre al 20 novembre 2026, per consentire chiarimenti ai partner."
+    },
+    {
+      "question": "Che ruolo ha robots.txt nella controversia sui crawler di Meta?",
+      "answer": "Consente ai siti di comunicare preferenze tecniche sull'accesso dei crawler; Meta lo cita come controllo disponibile, mentre gli editori contestano l'ampiezza delle condizioni contrattuali."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "Le condizioni possono influenzare editori e pubblicità digitale su larga scala, ma il testo è ancora oggetto di chiarimenti e contestazioni.",
+  "tags": [
+    "Meta",
+    "editori",
+    "crawler"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+      "url": "https://www.reuters.com/business/media-telecom/meta-delay-new-commercial-terms-criticised-by-publishers-advertisers-2026-10-23/",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Gadgets Now",
+      "title": "Meta moves its new business terms to 20 November and the crawling clause stays intact",
+      "url": "https://gadgetsnow.indiatimes.com/tech-news/meta-moves-its-new-business-terms-to-20-november-and-the-crawling-clause-stays-intact/articleshow/135135884.cms",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/meta-commercial-terms-ai-delay.svg",
+    "alt": "Illustrazione originale simbolica: Meta rinvia al 20 novembre le condizioni commerciali contestate dagli editori",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/meta-commercial-terms-ai-delay.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
