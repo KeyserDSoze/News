@@ -1,0 +1,66 @@
+{
+  "id": "prague-public-media-funding-protest",
+  "rank": 5,
+  "category": "politics",
+  "title": "Prague demonstrators oppose plan to fund public broadcasters from state budget",
+  "dek": "Czech lawmakers accelerated a bill to replace licence fees with public allocations; the legislation has not yet become law.",
+  "summary": "Thousands protested in Prague on 25 October against Prime Minister Andrej Babiš's government's plan to replace licence-fee funding for public radio and television with direct state-budget allocations. Government lawmakers fast-tracked the bill in an overnight vote. Opposition parties and media advocates warn about political pressure, but final enactment remains ahead.",
+  "body": [
+    "Thousands gathered in Prague's Old Town Square on Sunday 25 October to oppose changes to Czech public broadcasting finances. Reuters and AFP independently reported the demonstration, whose participants emphasized the editorial independence of Czech Television and Czech Radio. The protest followed a period of parliamentary disputes over the government's plans for the broadcasters.",
+    "The coalition led by Prime Minister Andrej Babiš wants to abolish household licence fees and fund the public broadcasters through direct allocations from the state budget. Lower-house lawmakers voted to speed the bill's passage in an unusual overnight session. That procedural decision is not the same as the completed enactment of the new financing system.",
+    "Government supporters frame the measure as an overhaul of funding arrangements. Opposition parties, media-freedom groups and protesters warn that annual decisions over public allocations could expose editorial operations to political influence. This is a documented concern about the institutional design, not evidence that specific news stories have already been censored.",
+    "Published estimates of protest attendance range from several thousand to tens of thousands and should not be treated as a precise measured count. The rally and parliamentary timetable are established events. The final legislative text, future appropriations and any effects on broadcasters will need to be assessed after the remaining parliamentary stages."
+  ],
+  "facts": [
+    "Thousands rallied in Prague on 25 October against a proposed change in public-media funding.",
+    "The bill would replace licence fees with state-budget allocations and has not completed the legislative process."
+  ],
+  "perspectives": [
+    "The governing coalition supports changing the funding framework.",
+    "Opposition lawmakers and protesters argue the proposal may weaken broadcasters' independence."
+  ],
+  "unknowns": [
+    "The bill's final text, eventual funding levels and measurable editorial effects remain unsettled."
+  ],
+  "questions": [
+    {
+      "question": "Which Czech public-broadcasting revenue stream would the proposed law remove?",
+      "answer": "The proposal would end household licence fees and instead finance Czech Television and Czech Radio through direct state-budget allocations."
+    },
+    {
+      "question": "Why are Prague protesters concerned about the broadcasters' autonomy?",
+      "answer": "They fear budget allocations controlled through politics could be used to influence editorial decisions; that is a concern about future incentives, not a proven instance of censorship."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "Public-media governance has implications for information pluralism, though the proposed law has not yet taken effect.",
+  "tags": [
+    "Prague",
+    "media",
+    "independence"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Thousands protest Czech government’s public media overhaul after rushed vote",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/25/thousands-protest-czech-government-s-public-media-overhaul-after-rushed-vote",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "AFP",
+      "title": "Thousands gather in Prague to protest licence fee plans",
+      "url": "https://origin-zh9p7m-www.afp.com/en/thousands-gather-prague-protest-licence-fee-plans",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/prague-public-media-funding-protest.svg",
+    "alt": "Original symbolic editorial illustration: Prague demonstrators oppose plan to fund public broadcasters from state budget",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/prague-public-media-funding-protest.svg",
+    "license": "© 2026 O — original illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
