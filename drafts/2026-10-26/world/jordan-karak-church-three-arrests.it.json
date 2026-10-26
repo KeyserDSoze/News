@@ -1,0 +1,73 @@
+{
+  "id": "jordan-karak-church-three-arrests",
+  "rank": 4,
+  "category": "world",
+  "title": "Giordania, tre arresti dopo l'attacco alla chiesa di Karak",
+  "dek": "Le autorità riferiscono di una sparatoria con i sospettati il 26 ottobre; il bilancio delle vittime dell'attacco di venerdì è salito a nove.",
+  "summary": "La polizia giordana ha annunciato lunedì 26 ottobre l'arresto di tre uomini ricercati per l'attacco a un funerale in una chiesa greco-ortodossa di Karak del 23 ottobre. Secondo la Direzione della pubblica sicurezza, i tre si trovavano in una casa abbandonata e sono stati feriti durante uno scontro a fuoco. Reuters e AP riportano ora nove morti nell'attacco iniziale, un aggiornamento rispetto ai sette indicati nei primi resoconti.",
+  "body": [
+    "Lunedì 26 ottobre la Direzione della pubblica sicurezza della Giordania ha annunciato l'arresto di tre sospettati per l'attacco armato compiuto venerdì durante un funerale in una chiesa greco-ortodossa nell'area di Karak, a sud di Amman. La notizia costituisce un aggiornamento investigativo rispetto al primo racconto dell'attentato, non un secondo episodio nella chiesa.",
+    "Secondo le autorità, gli investigatori hanno individuato i tre in un edificio abbandonato. All'arrivo delle forze di sicurezza gli uomini avrebbero aperto il fuoco, ricevendo risposta dagli agenti. Tutti e tre sono rimasti feriti e sono stati arrestati; la polizia non segnala feriti tra i propri uomini nell'operazione del mattino.",
+    "Reuters e Associated Press riportano nove persone uccise nell'attacco del 23 ottobre e numerosi feriti; le prime cronache ne avevano indicate sette. Il bilancio aggiornato deve essere distinto da quello noto quando O pubblicò l'articolo del 24 ottobre. La variazione di cifra non dimostra da sola quando siano avvenuti i decessi.",
+    "Il ministro dell'Interno Mazen al-Faraya ha indicato i fermati come responsabili, ma al momento non risulta una sentenza. Le autorità parlano di terrorismo; nessuna organizzazione armata ha rivendicato l'azione nelle fonti consultate. Le indagini dovranno ancora chiarire motivazioni, eventuali complici e prove a carico degli arrestati."
+  ],
+  "facts": [
+    "La Direzione della pubblica sicurezza ha annunciato tre arresti il 26 ottobre dopo uno scontro a fuoco.",
+    "Reuters e AP riportano ora nove morti per l'attacco alla chiesa del 23 ottobre."
+  ],
+  "perspectives": [
+    "Il ministro dell'Interno giordano attribuisce ai tre arrestati l'esecuzione dell'attacco.",
+    "Re Abdullah II ha chiesto una risposta decisa delle autorità contro i responsabili."
+  ],
+  "unknowns": [
+    "Movente, appartenenze organizzative e responsabilità giudiziarie dei tre fermati non risultano ancora accertati in via definitiva."
+  ],
+  "questions": [
+    {
+      "question": "In quali circostanze sono stati arrestati i tre sospettati per l'attacco di Karak?",
+      "answer": "Secondo la polizia giordana, erano nascosti in una casa abbandonata e sono rimasti feriti nello scontro a fuoco con gli agenti il 26 ottobre; nessun agente è risultato ferito nell'operazione."
+    },
+    {
+      "question": "Perché il bilancio dell'attacco alla chiesa è diverso da quello diffuso il 24 ottobre?",
+      "answer": "Le prime cronache contavano sette vittime, mentre i resoconti aggiornati di Reuters e AP del 26 ottobre ne indicano nove. Si tratta di aggiornamenti in tempi diversi, non di due distinti attacchi."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "L'attentato e l'indagine hanno conseguenze rilevanti per sicurezza e comunità locali, ma la responsabilità penale individuale deve ancora essere stabilita.",
+  "tags": [
+    "Giordania",
+    "Karak",
+    "indagini"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Jordan arrests three suspects in deadly church attack, state media says",
+      "url": "https://www.reuters.com/world/middle-east/jordan-arrests-three-over-karak-church-attack-state-tv-says-2026-10-26/",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Jordanian security forces arrest 3 men for a deadly attack on a church",
+      "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/jordan-karak-church-three-arrests.svg",
+    "alt": "Illustrazione editoriale simbolica: Giordania, tre arresti dopo l'attacco alla chiesa di Karak",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/jordan-karak-church-three-arrests.svg",
+    "license": "© 2026 O — original illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "related": [
+    {
+      "date": "2026-10-24",
+      "section": "world",
+      "id": "karak-jordan-church-attack"
+    }
+  ]
+}
