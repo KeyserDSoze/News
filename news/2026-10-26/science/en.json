@@ -187,8 +187,8 @@
           "answer": "It is the proportion without melanoma recurrence two years after surgery in the intismeran-plus-pembrolizumab group, compared with 70.0% on pembrolizumab alone, a 12.2-point absolute difference."
         },
         {
-          "question": "Does the 42% relative risk reduction show that 42% of patients were cured?",
-          "answer": "No. It is derived from a recurrence-or-death hazard ratio of 0.58 over follow-up, not a cure rate; overall survival and much longer-term outcomes are still being studied."
+          "question": "How do the 42% relative hazard reduction and 12.2-point absolute difference compare in INTerpath-001?",
+          "answer": "The 42% figure is the relative reduction in the hazard of recurrence or death during follow-up, reflected by a hazard ratio of 0.58. At two years 82.2% versus 70.0% were recurrence-free, an absolute difference of 12.2 percentage points in favor of the combination."
         }
       ],
       "impact": 3.5,
