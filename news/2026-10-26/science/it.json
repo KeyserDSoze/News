@@ -1,0 +1,388 @@
+{
+  "date": "2026-10-26",
+  "language": "it",
+  "publishedAt": "2026-10-26T09:05:46.861Z",
+  "editorialNote": "Rassegna del 26 ottobre: notizie con date degli eventi esplicite, verifiche incrociate e attribuzione di dichiarazioni, dati e limiti.",
+  "articles": [
+    {
+      "id": "krascendo1-divarasib-kras-lung-cancer",
+      "rank": 1,
+      "category": "society",
+      "impact": 3,
+      "tags": [
+        "oncologia",
+        "KRAS",
+        "studio-clinico"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Roche says divarasib cut risk of death 44% in lung cancer trial",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/roche-says-divarasib-cut-risk-death-44-lung-cancer-trial-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "OncLive",
+          "title": "Divarasib Improves Survival and Paves Way for New SOC in Pretreated KRAS G12C–Mutated NSCLC",
+          "url": "https://www.onclive.com/view/divarasib-improves-pfs-and-os-vs-sotorasib-or-adagrasib-in-pretreated-kras-g12c-mutated-nsclc",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UT MD Anderson Cancer Center",
+          "title": "ESMO 2026: New targeted therapy improved survival for patients with KRAS-mutated lung cancer",
+          "url": "https://www.mdanderson.org/newsroom/research-newsroom/esmo-2026--new-targeted-therapy-improved-survival-for-patients-with-KRAS-mutated-lung-cancer.h00-159859290.html",
+          "publishedAt": "2026-10-25",
+          "role": "official"
+        },
+        {
+          "outlet": "Roche",
+          "title": "Roche’s divarasib demonstrated best-in-class efficacy, advancing the standard of care in previously treated KRAS G12C-mutated lung cancer",
+          "url": "https://www.roche.com/investors/updates/inv-update-2026-10-25",
+          "publishedAt": "2026-10-25",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+        "alt": "Illustrazione editoriale simbolica, non una fotografia: cellule tumorali e confronto di trattamenti KRAS",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Tumore del polmone KRAS G12C, nello studio Krascendo 1 divarasib migliora la sopravvivenza",
+      "dek": "Nel trial di fase III su 338 pazienti, la sopravvivenza mediana è stata 17,7 mesi contro 12,0 con gli inibitori di confronto; risultati ancora da tradurre in decisioni regolatorie.",
+      "summary": "Al congresso ESMO del 25 ottobre sono stati presentati i dati di Krascendo 1, studio randomizzato di fase III su 338 persone con carcinoma polmonare non a piccole cellule avanzato e mutazione KRAS G12C già trattate. Divarasib ha ottenuto una sopravvivenza globale mediana di 17,7 mesi, contro 12,0 con sotorasib o adagrasib, secondo Reuters, OncLive e i dati pubblicati da Roche. Il rapporto di rischio per la morte è 0,56: non equivale a garantire un beneficio identico a ogni paziente.",
+      "body": [
+        "Il 25 ottobre 2026, al congresso della Società europea di oncologia medica di Madrid, sono stati presentati i risultati principali dello studio Krascendo 1, pubblicati anche sul New England Journal of Medicine. La ricerca ha arruolato 338 adulti con carcinoma polmonare non a piccole cellule avanzato o metastatico portatore della mutazione KRAS G12C, dopo precedenti trattamenti. I partecipanti sono stati assegnati casualmente a divarasib oppure a uno dei farmaci della stessa classe già disponibili, sotorasib e adagrasib.",
+        "Il gruppo divarasib comprendeva 167 persone, quello di confronto 171. La sopravvivenza globale mediana è risultata 17,7 mesi contro 12,0, con hazard ratio di 0,56 e intervallo di confidenza al 95% fra 0,41 e 0,78. La sopravvivenza mediana libera da progressione è stata 9,8 contro 5,7 mesi, con hazard ratio di 0,58. La riduzione relativa del rischio non è una percentuale di pazienti guariti né la previsione di vita di una singola persona.",
+        "La risposta tumorale obiettiva è stata registrata nel 58% circa del gruppo sperimentale e nel 32% del controllo. MD Anderson riporta eventi avversi correlati di grado 3 o superiore nel 25% circa dei trattati con divarasib e nel 35% circa dei controlli. L'interruzione per effetti collaterali correlati al trattamento è stata meno frequente nel primo gruppo, ma disturbi gastrointestinali e alterazioni epatiche rimangono aspetti da monitorare. Il finanziamento dello studio è stato fornito da Roche e Genentech.",
+        "Il trial è randomizzato ma aperto, cioè medici e partecipanti conoscevano il trattamento assegnato; alcune valutazioni sono state eseguite in cieco da revisori indipendenti. Sono stati esclusi pazienti con metastasi cerebrali non trattate, e pochi controlli hanno ricevuto adagrasib, limitando alcuni confronti specifici. Divarasib è ancora descritto come sperimentale e l'azienda intende presentare i dati alle autorità sanitarie. Il beneficio osservato riguarda il gruppo selezionato del trial, non tutti i tumori polmonari."
+      ],
+      "facts": [
+        "Krascendo 1 ha randomizzato 338 persone con carcinoma polmonare avanzato KRAS G12C già trattate.",
+        "La sopravvivenza globale mediana è stata 17,7 mesi con divarasib e 12,0 con sotorasib o adagrasib; il rapporto di rischio per morte è stato 0,56."
+      ],
+      "perspectives": [
+        "Gli sperimentatori interpretano il confronto diretto come un possibile avanzamento della terapia mirata dopo trattamenti precedenti.",
+        "Il produttore Roche sottolinea i risultati positivi e intende sottoporli ai regolatori; l'approvazione non deriva automaticamente dalla presentazione."
+      ],
+      "unknowns": [
+        "La durata del beneficio oltre il follow-up disponibile e l'applicabilità a pazienti esclusi dal trial richiedono ulteriori dati e valutazioni regolatorie."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa confronta esattamente lo studio Krascendo 1 su divarasib?",
+          "answer": "Divarasib è stato confrontato con due inibitori KRAS G12C già approvati, sotorasib e adagrasib, in 338 adulti con tumore polmonare avanzato KRAS G12C già trattato; non con un placebo."
+        },
+        {
+          "question": "Come va interpretata la riduzione del 44% del rischio di morte?",
+          "answer": "È il risultato relativo espresso dall'hazard ratio 0,56 nel periodo osservato. Le mediane di sopravvivenza erano 17,7 e 12,0 mesi: il 44% non indica né una guarigione nel 44% dei pazienti né un aumento identico della vita per ciascuno."
+        }
+      ],
+      "impactReason": "Uno studio randomizzato con miglioramento della sopravvivenza in una popolazione molecolare definita offre una prova clinica rilevante, ma l'applicabilità resta circoscritta e richiede valutazione regolatoria."
+    },
+    {
+      "id": "clarity-gastric01-sonesitatug-survival",
+      "rank": 2,
+      "category": "society",
+      "impact": 3,
+      "tags": [
+        "oncologia",
+        "stomaco",
+        "fase3"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "AstraZeneca's stomach cancer drug extends overall survival, late-stage trial data finds",
+          "url": "https://www.reuters.com/legal/litigation/astrazenecas-stomach-cancer-drug-clears-bar-extending-overall-survival-late-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CancerNetwork",
+          "title": "Sonesitatug Vedotin Improves OS in Pretreated CLDN18.2+ Gastroesophageal Cancer",
+          "url": "https://www.cancernetwork.com/view/sonesitatug-vedotin-improves-os-in-pretreated-cldn18-2-gastroesophageal-cancer",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AstraZeneca",
+          "title": "Sonesitatug vedotin reduced the risk of death by 42% in 2nd- and later-line CLDN18.2-positive advanced gastric/GEJ cancers in CLARITY-Gastric01",
+          "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/sonesitatug-vedotin-reduced-the-risk-of-death-by-42-pct-in-2nd-and-later-line-cldn182-positive-advanced-gastricgej-cancers-in-clarity-gastric01.html",
+          "publishedAt": "2026-10-25",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+        "alt": "Illustrazione simbolica originale, non una fotografia: studio sul tumore gastrico e farmaco mirato",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Tumore gastrico avanzato, CLARITY-Gastric01 rileva un aumento della sopravvivenza",
+      "dek": "Nel sottogruppo trattato dalla terza linea in poi, la mediana è 10 mesi con sonesitatug vedotin contro 5 con la terapia scelta dal medico.",
+      "summary": "Il 25 ottobre al congresso ESMO sono stati presentati i risultati dello studio di fase III CLARITY-Gastric01 sul farmaco sperimentale sonesitatug vedotin per tumori gastroesofagei avanzati positivi alla proteina CLDN18.2. Nel gruppo trattato dalla terza linea in poi, la sopravvivenza mediana è stata di 10 mesi contro 5 con le terapie di confronto, secondo Reuters, CancerNetwork e AstraZeneca. Il beneficio osservato non equivale a guarigione né a un'approvazione regolatoria automatica.",
+      "body": [
+        "Il 25 ottobre 2026 sono stati presentati al congresso ESMO di Madrid i risultati dello studio randomizzato di fase III CLARITY-Gastric01. Il trial ha valutato sonesitatug vedotin, un coniugato anticorpo-farmaco sperimentale diretto contro la proteina CLDN18.2, in persone con tumore gastrico o gastroesofageo avanzato già sottoposte ad altre cure. Il farmaco è progettato per riconoscere cellule che esprimono il bersaglio e trasportare un agente citotossico; ciò non implica che colpisca esclusivamente le cellule tumorali.",
+        "Nel sottogruppo che aveva già ricevuto almeno due linee di trattamento, uno degli endpoint principali, la sopravvivenza globale mediana è stata di 10,0 mesi con sonesitatug vedotin contro 5,0 con la terapia scelta dal medico. L'hazard ratio per morte è stato 0,47, pari a una riduzione relativa stimata del 53% nel periodo osservato. Nell'intera popolazione trattata dalla seconda linea in poi la mediana è stata 10,6 contro 6,4 mesi, con hazard ratio di 0,58.",
+        "Lo studio ha incluso tumori con CLDN18.2 rilevabile in almeno il 25% delle cellule, un criterio meno restrittivo rispetto a quello usato in altri programmi terapeutici. Secondo l'analisi presentata, gli eventi avversi correlati di grado 3 o superiore hanno interessato il 36,4% dei pazienti trattati con il nuovo farmaco e il 44,8% del gruppo di confronto. Disturbi gastrointestinali rimangono importanti; la frequenza degli eventi gravi non esaurisce il profilo di sicurezza.",
+        "Un punto decisivo riguarda gli endpoint: pur mostrando una tendenza favorevole, il confronto sulla sopravvivenza libera da progressione nell'intera popolazione non ha superato la soglia statistica prespecificata, secondo CancerNetwork e AstraZeneca. Il trial è aperto e sponsorizzato dal produttore, elementi da considerare insieme alla randomizzazione. I dati di sopravvivenza sono promettenti per pazienti selezionati, ma serviranno la valutazione delle autorità regolatorie e informazioni ulteriori su qualità di vita, durata del beneficio e sicurezza."
+      ],
+      "facts": [
+        "CLARITY-Gastric01 ha riportato sopravvivenza mediana di 10,0 contro 5,0 mesi nella popolazione dalla terza linea in poi.",
+        "Nella popolazione complessiva dalla seconda linea in poi la mediana era 10,6 contro 6,4 mesi; l'endpoint di sopravvivenza libera da progressione non ha raggiunto la soglia prespecificata."
+      ],
+      "perspectives": [
+        "Gli sperimentatori interpretano il beneficio sulla sopravvivenza globale come un possibile avanzamento per pazienti con tumori CLDN18.2-positivi già trattati.",
+        "Il produttore AstraZeneca sottolinea l'estensione potenziale della popolazione eleggibile; la decisione clinica e regolatoria richiede una valutazione indipendente."
+      ],
+      "unknowns": [
+        "Restano da chiarire il beneficio nel lungo periodo, la qualità di vita e il giudizio dei regolatori sull'insieme degli endpoint e sulla sicurezza."
+      ],
+      "questions": [
+        {
+          "question": "A quali pazienti si riferisce il confronto 10 contro 5 mesi di CLARITY-Gastric01?",
+          "answer": "Al sottogruppo con tumore gastroesofageo avanzato CLDN18.2-positivo che aveva già ricevuto almeno due trattamenti precedenti; il dato è la sopravvivenza globale mediana dei gruppi, non una previsione individuale."
+        },
+        {
+          "question": "Perché nello studio CLARITY-Gastric01 è importante distinguere sopravvivenza globale e progressione?",
+          "answer": "La sopravvivenza globale è migliorata in modo statisticamente significativo, mentre l'endpoint prespecificato di sopravvivenza libera da progressione nell'intera popolazione non ha raggiunto la soglia prevista. Sono misure diverse e vanno riportate entrambe."
+        }
+      ],
+      "impactReason": "Il trial randomizzato mostra un miglioramento della sopravvivenza in un gruppo di pazienti con poche opzioni, ma la mancata significatività di un endpoint e la valutazione regolatoria impongono cautela."
+    },
+    {
+      "id": "interpath001-personalized-mrna-melanoma",
+      "rank": 3,
+      "category": "society",
+      "title": "Melanoma, lo studio INTerpath-001 valuta un vaccino mRNA personalizzato dopo la chirurgia",
+      "dek": "A due anni senza recidiva l'82,2% con intismeran e pembrolizumab, contro il 70,0% con la sola immunoterapia.",
+      "summary": "I dati completi di fase III divulgati il 22 ottobre e discussi al congresso ESMO indicano che la combinazione di intismeran autogene, vaccino personalizzato a mRNA, e pembrolizumab ha ridotto il rischio relativo di recidiva o morte del 42% rispetto a pembrolizumab da solo nel melanoma operato ad alto rischio. La sopravvivenza globale non è ancora matura e l'approvazione regolatoria non è automatica.",
+      "body": [
+        "Lo studio randomizzato di fase III INTerpath-001 ha confrontato l'aggiunta del vaccino sperimentale intismeran autogene di Moderna all'immunoterapia pembrolizumab di Merck con pembrolizumab da solo in persone con melanoma ad alto rischio rimosso chirurgicamente. I dati dettagliati sono stati divulgati il 22 ottobre 2026 dopo una diffusione anticipata e presentati al congresso ESMO di Madrid. Reuters, Fierce Biotech e AP hanno seguito la notizia.",
+        "Nella sperimentazione con oltre 1.100 partecipanti, la percentuale senza recidiva a due anni è risultata dell'82,2% nel gruppo combinato e del 70,0% nel controllo. Il rapporto di rischio, hazard ratio 0,58, corrisponde a una riduzione relativa del 42% nel periodo osservato. Il vantaggio assoluto a due anni è di 12,2 punti percentuali; non significa che il 42% delle persone sia guarito grazie al vaccino.",
+        "Intismeran viene progettato usando mutazioni del tumore del singolo paziente e mira ad addestrare la risposta immunitaria a riconoscere cellule che conservano quei segnali. Pembrolizumab blocca un freno immunitario, aumentando la possibilità che le difese rispondano. Le due azioni sono complementari, ma non dimostrano da sole quale componente produca ogni beneficio individuale.",
+        "La percentuale senza metastasi lontane o morte a due anni è stata dell'88,5% contro l'80,2%. Eventi avversi associati al trattamento di grado elevato sono stati segnalati e la produzione personalizzata richiede tempo. I dati di sopravvivenza globale rimangono immaturi; non è possibile estendere il risultato a tutti i tumori né annunciare già un trattamento approvato."
+      ],
+      "facts": [
+        "In INTerpath-001 la sopravvivenza libera da recidiva a due anni è stata 82,2% con combinazione contro 70,0% con pembrolizumab solo.",
+        "Il rischio relativo di recidiva o morte è stato inferiore del 42% nel gruppo con intismeran, hazard ratio 0,58."
+      ],
+      "perspectives": [
+        "Merck e Moderna presentano la strategia personalizzata come possibile avanzamento dell'immunoterapia dopo la chirurgia.",
+        "Esperti citati da Fierce Biotech giudicano importante considerare anche il beneficio assoluto e gli esiti sulle metastasi."
+      ],
+      "unknowns": [
+        "La sopravvivenza globale, la durata del beneficio oltre il periodo osservato e le decisioni delle autorità regolatorie richiedono altri dati."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa significa l'82,2% senza recidiva a due anni nello studio INTerpath-001?",
+          "answer": "Indica la quota di partecipanti senza ricomparsa del melanoma a due anni nel gruppo intismeran più pembrolizumab; nel controllo con sola immunoterapia era il 70,0%, una differenza assoluta di 12,2 punti."
+        },
+        {
+          "question": "Il 42% di riduzione del rischio rappresenta persone guarite grazie al vaccino?",
+          "answer": "No: è una differenza relativa nel rischio di recidiva o morte durante l'osservazione, derivata da hazard ratio 0,58; la sopravvivenza globale e gli effetti a lunghissimo termine non sono ancora determinati."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "La fase III mostra un beneficio clinico importante di una piattaforma oncologica personalizzata, con limiti di indicazione e risultati finali ancora da verificare.",
+      "tags": [
+        "melanoma",
+        "vaccino-mRNA",
+        "trial"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Merck/Moderna cancer vaccine cuts risk of death or recurrence in melanoma by over 40%",
+          "url": "https://www.reuters.com/legal/litigation/merckmoderna-cancer-vaccine-cuts-risk-death-or-recurrence-melanoma-by-over-40-2026-10-22/",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Fierce Biotech",
+          "title": "ESMO: After leak, Merck and Moderna post phase 3 cancer vaccine data early",
+          "url": "https://www.fiercebiotech.com/biotech/merck-co-and-moderna-post-phase-3-cancer-vaccine-data",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Personalized cancer vaccine appears to help prevent melanoma recurrence in trial",
+          "url": "https://apnews.com/article/415ececd79c9411498751246742aafa2",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/interpath001-personalized-mrna-melanoma.svg",
+        "alt": "Illustrazione editoriale simbolica: Melanoma, lo studio INTerpath-001 valuta un vaccino mRNA personalizzato dopo la chirurgia",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/interpath001-personalized-mrna-melanoma.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "microsoft-sequential-diagnosis-science",
+      "rank": 4,
+      "category": "society",
+      "title": "Studio su Science: l'IA MAI-DxO confrontata con medici in diagnosi sequenziali simulate",
+      "dek": "Su 304 casi clinici complessi il sistema ha ottenuto l'83,2% di risposte corrette, contro il 36,1% dei medici con consultazione di fonti.",
+      "summary": "Il 22 ottobre la rivista Science ha pubblicato uno studio di Microsoft su MAI-DxO, un sistema di intelligenza artificiale che decide domande ed esami in più passaggi. Su 304 casi clinici complessi ha raggiunto l'83,2% di accuratezza contro il 36,1% dei medici autorizzati a consultare risorse. Su 25 casi di pronto soccorso le percentuali erano 80,3% e 46,8%. Si tratta di simulazioni testuali, non assistenza reale al letto del paziente.",
+      "body": [
+        "Microsoft ha pubblicato il 22 ottobre su Science una ricerca sul sistema MAI-DxO e sul benchmark SDBench, che valutano non soltanto la diagnosi finale ma le informazioni e gli esami scelti nel corso della ricerca clinica. Reuters, la Repubblica e The Verge hanno spiegato i risultati, distinguendo la sperimentazione controllata dalla medicina quotidiana.",
+        "Il sistema coordina diversi agenti linguistici che propongono ipotesi, richiedono dettagli anamnestici, scelgono test e rivalutano le conclusioni. Nei 304 casi didattici del New England Journal of Medicine ha ottenuto l'83,2% di diagnosi corrette, rispetto al 36,1% dei medici con libri e Internet e al 22,3% senza riferimenti. Le condizioni di prova e l'accesso alle risorse influenzano i confronti.",
+        "La ricerca include anche 25 casi ricavati da cartelle anonimizzate di pronto soccorso MIMIC-IV-ED: l'accuratezza riportata è 80,3% per MAI-DxO e 46,8% per i medici non specialisti. I costi degli accertamenti sono stime del benchmark; il risultato non misura direttamente minori costi per un ospedale né migliori esiti di salute.",
+        "I casi erano descrizioni testuali ricostruite e non incontri con pazienti reali, immagini diagnostiche, emergenze o gestione terapeutica completa. Microsoft intende avviare ulteriori verifiche con il Beth Israel Deaconess Medical Center. La ricerca, prodotta da personale Microsoft, è un dato pubblicato e replicabile in parte, ma non dimostra superiorità generalizzata dei sistemi IA rispetto ai medici specialisti nella pratica."
+      ],
+      "facts": [
+        "Nel benchmark di 304 casi complessi MAI-DxO ha raggiunto l'83,2% e i medici con riferimenti il 36,1%.",
+        "Sui 25 casi MIMIC-IV-ED i risultati riportati erano 80,3% per MAI-DxO e 46,8% per il gruppo medico."
+      ],
+      "perspectives": [
+        "Microsoft interpreta i risultati come sostegno al metodo di diagnosi progressiva e coordinata.",
+        "Giornalisti scientifici sottolineano che una simulazione non prova sicurezza ed efficacia clinica con pazienti reali."
+      ],
+      "unknowns": [
+        "Non sono ancora noti sicurezza, impatto sui pazienti e replicabilità dell'accuratezza in ospedali e contesti specialistici reali."
+      ],
+      "questions": [
+        {
+          "question": "In cosa MAI-DxO differisce da un chatbot a cui si consegna tutta la cartella clinica?",
+          "answer": "MAI-DxO procede per passaggi, facendo domande e scegliendo esami prima di aggiornare la diagnosi; SDBench valuta anche il percorso e il costo simulato degli accertamenti."
+        },
+        {
+          "question": "Perché l'83,2% nei casi del NEJM non autorizza a sostituire i medici?",
+          "answer": "Il numero misura accuratezza su casi testuali selezionati, in un benchmark e con gruppi di confronto specifici; non include i rischi, gli esami fisici, il rapporto col paziente e gli esiti di cure reali."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "La pubblicazione offre una metodologia verificabile per misurare diagnosi progressive con IA, ma l'applicabilità clinica è ancora da dimostrare.",
+      "tags": [
+        "diagnosi",
+        "IA",
+        "Science"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Microsoft develops AI tool that can diagnose sequentially like a doctor",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "La Repubblica",
+          "title": "L’IA di Microsoft supera i medici anche nei casi da pronto soccorso: lo studio su Science",
+          "url": "https://www.repubblica.it/tecnologia/2026/10/23/news/ia-microsoft-supera-medici-pronto-soccorso-science-425669419/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Verge",
+          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Microsoft AI",
+          "title": "Building Medical Superintelligence",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/microsoft-sequential-diagnosis-science.svg",
+        "alt": "Illustrazione editoriale simbolica: Studio su Science: l'IA MAI-DxO confrontata con medici in diagnosi sequenziali simulate",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/microsoft-sequential-diagnosis-science.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "prime-editing-pm577a-wilson-first-human",
+      "rank": 5,
+      "category": "society",
+      "title": "Prime editing somministrato in vivo per la malattia di Wilson: primi dati attesi nel 2027",
+      "dek": "La dose sperimentale PM577a è stata somministrata a ottobre; la notizia approfondita il 22 ottobre non prova ancora una correzione del DNA efficace.",
+      "summary": "Un paziente con malattia di Wilson ha ricevuto il trattamento sperimentale PM577a, progettato per correggere la mutazione H1069Q nel gene ATP7B direttamente nelle cellule del fegato. Prime Medicine aveva annunciato la prima somministrazione il 5 ottobre; Nature ha approfondito la notizia il 22 ottobre. Non sono ancora pubblicati risultati individuali su sicurezza, modifica genetica o miglioramento clinico.",
+      "body": [
+        "Il 22 ottobre Nature ha approfondito l'avvio di una sperimentazione clinica del trattamento PM577a, una forma di prime editing destinata a correggere una specifica mutazione nelle cellule epatiche direttamente nell'organismo. L'azienda Prime Medicine aveva annunciato la somministrazione al primo partecipante già il 5 ottobre. La data dell'infusione è quindi precedente alla pubblicazione della notizia e non può essere descritta come un intervento avvenuto il 26.",
+        "La malattia di Wilson dipende da anomalie del gene ATP7B, che normalmente permette di eliminare il rame in eccesso attraverso il fegato. L'accumulo del metallo può danneggiare fegato e sistema nervoso. PM577a è progettato per intervenire sulla variante H1069Q, particolarmente diffusa in certe popolazioni, tramite componenti trasportate da nanoparticelle lipidiche.",
+        "Il prime editing può riscrivere tratti del DNA anziché soltanto disattivare un gene. L'approccio in vivo mira a evitare la raccolta e la manipolazione esterna delle cellule del singolo paziente, ma comporta problemi di distribuzione al tessuto bersaglio e di controllo degli effetti indesiderati. Nature ha raccolto il parere di ricercatori e rappresentanti dei pazienti sulla promessa e sui rischi della tecnica.",
+        "La fase 1/2 deve valutare principalmente sicurezza, tollerabilità e segnali preliminari di effetto biologico. La notizia conferma la somministrazione dichiarata, non la correzione genetica riuscita né una guarigione. Prime Medicine prevede di diffondere primi dati clinici nel 2027; fino ad allora sarebbe improprio estendere la portata terapeutica oltre il razionale sperimentale."
+      ],
+      "facts": [
+        "Prime Medicine ha annunciato il 5 ottobre 2026 la prima somministrazione di PM577a a un partecipante con malattia di Wilson.",
+        "I risultati clinici iniziali dello studio di fase 1/2 sono attesi nel 2027, non disponibili alla data dell'edizione."
+      ],
+      "perspectives": [
+        "L'azienda considera PM577a un possibile trattamento a somministrazione unica per una mutazione ATP7B.",
+        "Ricercatori intervistati da Nature sottolineano il bilancio ancora da chiarire fra semplicità della somministrazione e rischi in vivo."
+      ],
+      "unknowns": [
+        "Correzione genetica effettiva, sicurezza a lungo termine e benefici clinici nel primo partecipante non sono stati resi noti."
+      ],
+      "questions": [
+        {
+          "question": "Quale alterazione genetica cerca di correggere PM577a nella malattia di Wilson?",
+          "answer": "Il trattamento punta alla variante H1069Q del gene ATP7B, coinvolto nell'eliminazione del rame dal fegato; una sua disfunzione può provocare accumulo tossico del metallo."
+        },
+        {
+          "question": "In cosa si distingue il prime editing in vivo dall'editing di cellule fuori dal corpo?",
+          "answer": "PM577a viene somministrato per portare il sistema di modifica direttamente alle cellule epatiche; nelle procedure ex vivo le cellule vengono invece prelevate, modificate in laboratorio e reinfuse."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "La prima somministrazione in vivo è un passo tecnico potenzialmente importante, ma manca qualunque evidenza clinica pubblica di efficacia nel partecipante.",
+      "tags": [
+        "prime-editing",
+        "Wilson",
+        "ATP7B"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+          "url": "https://www.nature.com/articles/d41586-026-03371-x",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "News9 Science",
+          "title": "First patient receives in vivo prime editing therapy PM577a",
+          "url": "https://www.news9live.com/science/prime-editing-human-body-first-time-proof-pending-3018313",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Prime Medicine",
+          "title": "First Patient Dosed in Global Phase 1/2 Clinical Trial of PM577a",
+          "url": "https://www.globenewswire.com/news-release/2026/10/05/3374466/0/en/prime-medicine-announces-first-patient-dosed-in-global-phase-1-2-clinical-trial-of-pm577a-for-h1069q-mutated-wilson-disease.html",
+          "publishedAt": "2026-10-05",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+        "alt": "Illustrazione editoriale simbolica: Prime editing somministrato in vivo per la malattia di Wilson: primi dati attesi nel 2027",
+        "credit": "O — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/prime-editing-pm577a-wilson-first-human.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ],
+  "section": "science"
+}
