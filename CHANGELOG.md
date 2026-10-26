@@ -2,6 +2,16 @@
 
 Every application version must have a dated, bilingual entry in `src/frontend/src/releases.json` and a corresponding entry in this changelog. Releases use semantic versions starting with **0.0.1**. Daily news publications can update content without changing the app version; code releases must advance the version and include release notes.
 
+## [0.0.12] — 2026-10-26
+
+**Italiano — Immagine in evidenza a tutta larghezza su mobile**
+
+- Corretta la larghezza dell'immagine della prima notizia su mobile in tutte e quattro le rubriche, senza alterare le proporzioni.
+
+**English — Full-width featured image on mobile**
+
+- Fixed the lead story image width on mobile across all four sections without changing the aspect ratio.
+
 ## [0.0.11] — 2026-10-25
 
 **Italiano — Domande che chiariscono i fatti**
