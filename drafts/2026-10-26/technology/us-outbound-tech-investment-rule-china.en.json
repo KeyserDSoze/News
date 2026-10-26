@@ -1,0 +1,73 @@
+{
+  "id": "us-outbound-tech-investment-rule-china",
+  "rank": 1,
+  "category": "technology",
+  "impact": 3,
+  "tags": [
+    "investment",
+    "chips",
+    "biotech"
+  ],
+  "sources": [
+    {
+      "outlet": "Associated Press",
+      "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
+      "url": "https://apnews.com/article/b742c292ff8eb19e6a4c8cf03d4d66b9",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "China urges US to halt proposed expansion of outbound investment curbs",
+      "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    },
+    {
+      "outlet": "U.S. Department of the Treasury",
+      "title": "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
+      "url": "https://home.treasury.gov/news/press-releases/sb0667/",
+      "publishedAt": "2026-10-22",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/us-outbound-tech-investment-rule-china.svg",
+    "alt": "Symbolic editorial illustration, not a photograph: semiconductor chip and international investment restrictions",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/us-outbound-tech-investment-rule-china.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "US proposes tighter controls on strategic technology investment; China objects",
+  "dek": "Treasury proposes rules for biotechnology, supercomputing and hypersonic systems. The proposal is open to consultation, not yet an enforceable final ban.",
+  "summary": "On 22 October, the US Treasury Department published proposed regulations expanding oversight of American outbound investments in sensitive technology. China's commerce ministry objected on 24 October, Reuters reported. AP described the proposed expansion to biotechnology, supercomputing and hypersonic systems alongside existing sectors. Public comments remain open until 7 December, so the proposal is not yet the final regulation.",
+  "body": [
+    "On 22 October 2026, the US Treasury Department issued proposed regulations expanding scrutiny of American investment in overseas companies developing technologies deemed strategically sensitive. The proposal implements the Comprehensive Outbound Investment National Security Act enacted in December 2025 and updates an existing outbound-investment security program. Treasury distinguishes transactions requiring notification from transactions that would be prohibited, depending on the technology and the foreign entity involved.",
+    "The existing program already addresses semiconductors, quantum information technology and certain artificial-intelligence systems. The new proposal adds technical specifications for high-performance computing, supercomputers and hypersonic systems, and proposes bringing biotechnology into scope, according to Treasury's official announcement. It does not mean every transfer of US capital to China is banned: the investment structure, recipient, covered technology and exemptions all matter.",
+    "On Saturday, 24 October, China's commerce ministry urged Washington to abandon the expanded restrictions, calling them discriminatory and damaging to economic relations. Reuters reported Beijing's position, while AP described the proposed mechanism and possible compliance consequences for US investors. Washington's national-security rationale and Beijing's objections are attributable official positions, not independent proof of the actual effects of future restrictions.",
+    "The document remains a Notice of Proposed Rulemaking. Treasury is accepting comments through 7 December 2026 and must later issue a final rule setting an effective date. Companies and investors may need to identify transactions subject to notification or prohibition, but the proposed new categories should not be presented as universally enforceable today. Any Chinese countermeasure would also require separate reporting when formally announced or implemented."
+  ],
+  "facts": [
+    "Treasury published a proposed, not final, expansion of outbound-investment restrictions on 22 October.",
+    "China's commerce ministry objected on 24 October, while the US comment period runs through 7 December."
+  ],
+  "perspectives": [
+    "Treasury argues the restrictions would prevent US capital from helping foreign adversaries develop military and surveillance capabilities.",
+    "Beijing argues that the expanded restrictions discriminate against Chinese companies and harm bilateral trade ties."
+  ],
+  "unknowns": [
+    "The final text, enforcement date and any concrete Chinese regulatory response remain unsettled."
+  ],
+  "questions": [
+    {
+      "question": "Which technologies would the proposed US outbound-investment rules newly cover?",
+      "answer": "Alongside updated rules for chips, AI and quantum systems, the proposal specifies supercomputing and hypersonic systems and seeks to add biotechnology; treatment depends on the transaction's characteristics."
+    },
+    {
+      "question": "When would the proposed US investment restrictions become binding?",
+      "answer": "Not upon their 22 October announcement. Treasury is accepting public comments through 7 December 2026 and must issue a final rule specifying when it takes effect."
+    }
+  ],
+  "impactReason": "The proposal could reshape cross-border investment and technology supply chains, but its practical scope depends on the final rule and enforcement."
+}

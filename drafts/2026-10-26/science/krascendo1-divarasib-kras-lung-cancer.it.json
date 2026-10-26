@@ -1,0 +1,80 @@
+{
+  "id": "krascendo1-divarasib-kras-lung-cancer",
+  "rank": 1,
+  "category": "society",
+  "impact": 3,
+  "tags": [
+    "oncologia",
+    "KRAS",
+    "studio-clinico"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Roche says divarasib cut risk of death 44% in lung cancer trial",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/roche-says-divarasib-cut-risk-death-44-lung-cancer-trial-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "OncLive",
+      "title": "Divarasib Improves Survival and Paves Way for New SOC in Pretreated KRAS G12C–Mutated NSCLC",
+      "url": "https://www.onclive.com/view/divarasib-improves-pfs-and-os-vs-sotorasib-or-adagrasib-in-pretreated-kras-g12c-mutated-nsclc",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "UT MD Anderson Cancer Center",
+      "title": "ESMO 2026: New targeted therapy improved survival for patients with KRAS-mutated lung cancer",
+      "url": "https://www.mdanderson.org/newsroom/research-newsroom/esmo-2026--new-targeted-therapy-improved-survival-for-patients-with-KRAS-mutated-lung-cancer.h00-159859290.html",
+      "publishedAt": "2026-10-25",
+      "role": "official"
+    },
+    {
+      "outlet": "Roche",
+      "title": "Roche’s divarasib demonstrated best-in-class efficacy, advancing the standard of care in previously treated KRAS G12C-mutated lung cancer",
+      "url": "https://www.roche.com/investors/updates/inv-update-2026-10-25",
+      "publishedAt": "2026-10-25",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+    "alt": "Illustrazione editoriale simbolica, non una fotografia: cellule tumorali e confronto di trattamenti KRAS",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/krascendo1-divarasib-kras-lung-cancer.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Tumore del polmone KRAS G12C, nello studio Krascendo 1 divarasib migliora la sopravvivenza",
+  "dek": "Nel trial di fase III su 338 pazienti, la sopravvivenza mediana è stata 17,7 mesi contro 12,0 con gli inibitori di confronto; risultati ancora da tradurre in decisioni regolatorie.",
+  "summary": "Al congresso ESMO del 25 ottobre sono stati presentati i dati di Krascendo 1, studio randomizzato di fase III su 338 persone con carcinoma polmonare non a piccole cellule avanzato e mutazione KRAS G12C già trattate. Divarasib ha ottenuto una sopravvivenza globale mediana di 17,7 mesi, contro 12,0 con sotorasib o adagrasib, secondo Reuters, OncLive e i dati pubblicati da Roche. Il rapporto di rischio per la morte è 0,56: non equivale a garantire un beneficio identico a ogni paziente.",
+  "body": [
+    "Il 25 ottobre 2026, al congresso della Società europea di oncologia medica di Madrid, sono stati presentati i risultati principali dello studio Krascendo 1, pubblicati anche sul New England Journal of Medicine. La ricerca ha arruolato 338 adulti con carcinoma polmonare non a piccole cellule avanzato o metastatico portatore della mutazione KRAS G12C, dopo precedenti trattamenti. I partecipanti sono stati assegnati casualmente a divarasib oppure a uno dei farmaci della stessa classe già disponibili, sotorasib e adagrasib.",
+    "Il gruppo divarasib comprendeva 167 persone, quello di confronto 171. La sopravvivenza globale mediana è risultata 17,7 mesi contro 12,0, con hazard ratio di 0,56 e intervallo di confidenza al 95% fra 0,41 e 0,78. La sopravvivenza mediana libera da progressione è stata 9,8 contro 5,7 mesi, con hazard ratio di 0,58. La riduzione relativa del rischio non è una percentuale di pazienti guariti né la previsione di vita di una singola persona.",
+    "La risposta tumorale obiettiva è stata registrata nel 58% circa del gruppo sperimentale e nel 32% del controllo. MD Anderson riporta eventi avversi correlati di grado 3 o superiore nel 25% circa dei trattati con divarasib e nel 35% circa dei controlli. L'interruzione per effetti collaterali correlati al trattamento è stata meno frequente nel primo gruppo, ma disturbi gastrointestinali e alterazioni epatiche rimangono aspetti da monitorare. Il finanziamento dello studio è stato fornito da Roche e Genentech.",
+    "Il trial è randomizzato ma aperto, cioè medici e partecipanti conoscevano il trattamento assegnato; alcune valutazioni sono state eseguite in cieco da revisori indipendenti. Sono stati esclusi pazienti con metastasi cerebrali non trattate, e pochi controlli hanno ricevuto adagrasib, limitando alcuni confronti specifici. Divarasib è ancora descritto come sperimentale e l'azienda intende presentare i dati alle autorità sanitarie. Il beneficio osservato riguarda il gruppo selezionato del trial, non tutti i tumori polmonari."
+  ],
+  "facts": [
+    "Krascendo 1 ha randomizzato 338 persone con carcinoma polmonare avanzato KRAS G12C già trattate.",
+    "La sopravvivenza globale mediana è stata 17,7 mesi con divarasib e 12,0 con sotorasib o adagrasib; il rapporto di rischio per morte è stato 0,56."
+  ],
+  "perspectives": [
+    "Gli sperimentatori interpretano il confronto diretto come un possibile avanzamento della terapia mirata dopo trattamenti precedenti.",
+    "Il produttore Roche sottolinea i risultati positivi e intende sottoporli ai regolatori; l'approvazione non deriva automaticamente dalla presentazione."
+  ],
+  "unknowns": [
+    "La durata del beneficio oltre il follow-up disponibile e l'applicabilità a pazienti esclusi dal trial richiedono ulteriori dati e valutazioni regolatorie."
+  ],
+  "questions": [
+    {
+      "question": "Che cosa confronta esattamente lo studio Krascendo 1 su divarasib?",
+      "answer": "Divarasib è stato confrontato con due inibitori KRAS G12C già approvati, sotorasib e adagrasib, in 338 adulti con tumore polmonare avanzato KRAS G12C già trattato; non con un placebo."
+    },
+    {
+      "question": "Come va interpretata la riduzione del 44% del rischio di morte?",
+      "answer": "È il risultato relativo espresso dall'hazard ratio 0,56 nel periodo osservato. Le mediane di sopravvivenza erano 17,7 e 12,0 mesi: il 44% non indica né una guarigione nel 44% dei pazienti né un aumento identico della vita per ciascuno."
+    }
+  ],
+  "impactReason": "Uno studio randomizzato con miglioramento della sopravvivenza in una popolazione molecolare definita offre una prova clinica rilevante, ma l'applicabilità resta circoscritta e richiede valutazione regolatoria."
+}

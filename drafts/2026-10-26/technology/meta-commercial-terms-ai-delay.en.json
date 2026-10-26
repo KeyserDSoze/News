@@ -1,0 +1,66 @@
+{
+  "id": "meta-commercial-terms-ai-delay",
+  "rank": 2,
+  "category": "technology",
+  "title": "Meta delays disputed commercial terms until 20 November",
+  "dek": "Publishers question whether crawler clauses expand AI content rights; Meta disputes that interpretation and pledges clarification.",
+  "summary": "On 23 October Meta postponed the effective date of updated commercial and advertising terms from 30 October to 20 November 2026. Publishers and advertisers have objected to broad wording about use of their websites and content. Meta disputes claims that the terms automatically grant unlimited AI-training rights and says it will clarify how web crawlers and robots.txt preferences work.",
+  "body": [
+    "Meta Platforms announced on 23 October that its updated commercial and self-serve advertising terms would take effect on 20 November rather than 30 October. Reuters and Gadgets Now reported the delay amid objections from European publishers and digital advertisers. Moving an effective date does not in itself mean that the company has withdrawn the proposed clauses.",
+    "The dispute concerns wording dealing with website access and content used in connection with commercial services. Publisher groups argue that the terms could allow extensive uses of their material, including by AI systems. Their interpretation is an allegation about contractual rights, not verified evidence that particular content has been unlawfully used to train a model.",
+    "Meta rejects the claim of unlimited access rights and says it will clarify what its crawlers do. The company points to robots.txt as a way for website owners to express crawler preferences. That technical protocol signals desired access rules, but it does not by itself resolve every legal disagreement about contractual permission or copyright.",
+    "Reuters reported complaints reaching EU and UK competition authorities and the European Commission's welcome for the delay. Complaints are not findings of infringement. The definitive wording applied in November, the company's actual practices and any regulatory conclusions will need to be assessed when further documents appear."
+  ],
+  "facts": [
+    "Meta moved the effective date of its updated commercial terms from 30 October to 20 November 2026.",
+    "Publishers and advertisers complained about the possible breadth of website-content provisions."
+  ],
+  "perspectives": [
+    "Meta disputes claims that its terms automatically allow unlimited AI-related content use.",
+    "The European Commission welcomed the delay amid requests for information about data used for AI training."
+  ],
+  "unknowns": [
+    "The final contractual wording and any findings from competition authorities remain unsettled."
+  ],
+  "questions": [
+    {
+      "question": "What date changed for Meta's updated business terms?",
+      "answer": "Their effective date shifted from 30 October to 20 November 2026 to allow additional explanations to partners."
+    },
+    {
+      "question": "What is robots.txt meant to do in Meta's crawler dispute?",
+      "answer": "It lets website owners express technical preferences about crawler access; Meta highlights it as a control, while publisher objections also concern the contract's legal scope."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "Commercial platform rules may affect digital advertising and publishing widely, but their implementation and regulatory consequences are unresolved.",
+  "tags": [
+    "Meta",
+    "publishers",
+    "crawlers"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+      "url": "https://www.reuters.com/business/media-telecom/meta-delay-new-commercial-terms-criticised-by-publishers-advertisers-2026-10-23/",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Gadgets Now",
+      "title": "Meta moves its new business terms to 20 November and the crawling clause stays intact",
+      "url": "https://gadgetsnow.indiatimes.com/tech-news/meta-moves-its-new-business-terms-to-20-november-and-the-crawling-clause-stays-intact/articleshow/135135884.cms",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/meta-commercial-terms-ai-delay.svg",
+    "alt": "Original symbolic illustration: Meta delays disputed commercial terms until 20 November",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/meta-commercial-terms-ai-delay.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

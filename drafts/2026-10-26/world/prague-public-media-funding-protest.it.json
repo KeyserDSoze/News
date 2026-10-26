@@ -1,0 +1,66 @@
+{
+  "id": "prague-public-media-funding-protest",
+  "rank": 5,
+  "category": "politics",
+  "title": "Praga, protesta contro il progetto di finanziare i media pubblici dal bilancio statale",
+  "dek": "Il Parlamento ceco accelera l'esame della proposta di abolire il canone radiotelevisivo; la riforma non è ancora legge.",
+  "summary": "Migliaia di persone si sono radunate a Praga il 25 ottobre contro la proposta del governo di Andrej Babiš di sostituire il canone di radio e televisione pubbliche con finanziamenti dal bilancio dello Stato. Deputati della maggioranza hanno accelerato l'iter in una votazione notturna; opposizione e manifestanti denunciano il rischio di pressioni politiche. L'adozione definitiva non è avvenuta.",
+  "body": [
+    "Domenica 25 ottobre migliaia di manifestanti hanno riempito la Piazza della Città Vecchia di Praga per contestare una modifica del finanziamento delle emittenti pubbliche ceche. Le cronache indipendenti di Reuters e AFP descrivono un'iniziativa a difesa dell'autonomia di Česká televize e Český rozhlas in un momento di confronto acceso fra governo e opposizione.",
+    "Il provvedimento promosso dalla coalizione guidata dal primo ministro Andrej Babiš punta ad abolire il canone pagato dagli utenti e a sostituirlo con stanziamenti diretti nel bilancio pubblico. La Camera bassa ha approvato un'accelerazione procedurale durante una seduta notturna; restano ulteriori passaggi parlamentari prima che possa entrare in vigore.",
+    "La maggioranza presenta il cambiamento come una revisione del modello finanziario. Oppositori, associazioni per la libertà di stampa e partecipanti alla manifestazione temono invece che dipendere da stanziamenti annuali aumenti la possibilità di condizionamento politico. Il rischio è un'argomentazione istituzionale, non la prova che le redazioni abbiano già subito censure specifiche.",
+    "Le cifre sul numero dei partecipanti oscillano fra migliaia e decine di migliaia a seconda delle stime e delle fonti. La manifestazione e il voto sull'iter accelerato sono eventi verificabili, mentre contenuto finale della legge, fondi assegnati e conseguenze effettive per l'indipendenza delle emittenti dipendono dagli sviluppi legislativi successivi."
+  ],
+  "facts": [
+    "Il 25 ottobre si è svolta a Praga una manifestazione contro il cambiamento del finanziamento radiotelevisivo pubblico.",
+    "La proposta mira a sostituire il canone con stanziamenti del bilancio statale e non è ancora una legge definitiva."
+  ],
+  "perspectives": [
+    "Governo e maggioranza sostengono una revisione del sistema di finanziamento.",
+    "Opposizione e manifestanti avvertono che dipendere dal bilancio statale potrebbe ridurre l'autonomia editoriale."
+  ],
+  "unknowns": [
+    "Restano da conoscere il testo finale, le assegnazioni finanziarie e gli eventuali effetti concreti sull'indipendenza delle emittenti."
+  ],
+  "questions": [
+    {
+      "question": "Quale fonte di entrate verrebbe eliminata per la televisione e la radio pubbliche ceche?",
+      "answer": "Il progetto sostituirebbe il canone degli utenti con finanziamenti diretti dal bilancio statale per Česká televize e Český rozhlas."
+    },
+    {
+      "question": "Perché i manifestanti di Praga associano la riforma al rischio di pressioni politiche?",
+      "answer": "Temono che stanziamenti decisi tramite il bilancio pubblico possano diventare uno strumento di influenza sulle emittenti; è una preoccupazione sul modello proposto, non una censura già provata."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "La governance del servizio pubblico audiovisivo incide su pluralismo e informazione, ma la proposta è ancora in discussione.",
+  "tags": [
+    "Praga",
+    "media",
+    "indipendenza"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Thousands protest Czech government’s public media overhaul after rushed vote",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/25/thousands-protest-czech-government-s-public-media-overhaul-after-rushed-vote",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "AFP",
+      "title": "Thousands gather in Prague to protest licence fee plans",
+      "url": "https://origin-zh9p7m-www.afp.com/en/thousands-gather-prague-protest-licence-fee-plans",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/prague-public-media-funding-protest.svg",
+    "alt": "Illustrazione editoriale simbolica: Praga, protesta contro il progetto di finanziare i media pubblici dal bilancio statale",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/prague-public-media-funding-protest.svg",
+    "license": "© 2026 O — original illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

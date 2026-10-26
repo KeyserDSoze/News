@@ -1,0 +1,80 @@
+{
+  "id": "microsoft-sequential-diagnosis-science",
+  "rank": 4,
+  "category": "society",
+  "title": "Science study tests Microsoft's sequential AI diagnosis system against physicians",
+  "dek": "MAI-DxO scored 83.2% on 304 complex case simulations versus 36.1% for physicians using reference materials.",
+  "summary": "A Microsoft study published in Science on 22 October examined MAI-DxO, an AI system that gathers evidence and orders tests step by step. Across 304 complex cases it achieved 83.2% diagnostic accuracy versus 36.1% for physicians using reference materials. On 25 emergency-department cases, results were 80.3% and 46.8%. These were text-based simulations rather than treatment of real patients.",
+  "body": [
+    "Microsoft published research on 22 October in Science describing its MAI-DxO system and SDBench, a benchmark that assesses both final diagnoses and the questions or tests selected during clinical reasoning. Reuters, La Repubblica and The Verge reported the findings, noting that a controlled benchmark differs from routine care in a hospital.",
+    "The orchestrator coordinates several language-model agents proposing hypotheses, seeking history details, selecting investigations and revising conclusions. It attained 83.2% accuracy on 304 educational case reports from The New England Journal of Medicine, versus 36.1% for physicians with reference materials and 22.3% without them. Comparisons depend on which resources and testing conditions participants received.",
+    "The study also used 25 simulated scenarios based on anonymized emergency department records from MIMIC-IV-ED, reporting 80.3% accuracy for the orchestrator and 46.8% for generalist physicians. Its estimated investigation costs are values from a structured benchmark, not direct evidence of hospital savings or improved survival for patients.",
+    "The encounters were text reconstructions, not direct examinations of people involving uncertain communication, imaging and treatment decisions. Microsoft plans further investigation with Beth Israel Deaconess Medical Center. Although the method appeared in a peer-reviewed journal, the company-led study does not establish general superiority to clinical specialists or real-world safety."
+  ],
+  "facts": [
+    "MAI-DxO scored 83.2% on 304 challenging NEJM cases versus 36.1% for physicians with reference materials.",
+    "On 25 emergency-department cases, reported accuracies were 80.3% for MAI-DxO and 46.8% for physicians."
+  ],
+  "perspectives": [
+    "Microsoft presents the results as support for step-by-step AI medical reasoning.",
+    "Independent technology reporting stresses that simulated diagnoses do not yet demonstrate real-patient safety or outcomes."
+  ],
+  "unknowns": [
+    "Real-world patient safety, performance across specialist settings and effects on healthcare outcomes remain unproven."
+  ],
+  "questions": [
+    {
+      "question": "How does MAI-DxO differ from a chatbot given a complete medical record?",
+      "answer": "It proceeds sequentially, asking questions and selecting tests before updating its diagnosis; SDBench evaluates the investigation pathway as well as the final answer."
+    },
+    {
+      "question": "Why does 83.2% accuracy on NEJM cases not justify replacing physicians?",
+      "answer": "The score comes from selected text-based simulations with specific comparison groups, not direct examinations, real treatment decisions, clinical complications or patient outcomes."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "Peer-reviewed sequential diagnosis benchmarking advances research on medical AI, but clinical validity and patient benefit remain unestablished.",
+  "tags": [
+    "diagnosis",
+    "AI",
+    "Science"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Microsoft develops AI tool that can diagnose sequentially like a doctor",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-doctor-2026-10-23/",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "La Repubblica",
+      "title": "L’IA di Microsoft supera i medici anche nei casi da pronto soccorso: lo studio su Science",
+      "url": "https://www.repubblica.it/tecnologia/2026/10/23/news/ia-microsoft-supera-medici-pronto-soccorso-science-425669419/",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Verge",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Microsoft AI",
+      "title": "Building Medical Superintelligence",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+      "publishedAt": "2026-10-22",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/microsoft-sequential-diagnosis-science.svg",
+    "alt": "Original symbolic editorial illustration: Science study tests Microsoft's sequential AI diagnosis system against physicians",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/microsoft-sequential-diagnosis-science.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "bulgaria-president-runoff-nov1",
+  "rank": 6,
+  "category": "politics",
+  "title": "Bulgaria verso il ballottaggio presidenziale del primo novembre",
+  "dek": "Iliana Iotova e Andrey Gyurov sono i due candidati più votati il 25 ottobre; affluenza intorno al 22% e nessuna maggioranza assoluta.",
+  "summary": "Le elezioni presidenziali bulgare del 25 ottobre non hanno prodotto un vincitore al primo turno. Con circa il 95% delle schede scrutinate, Reuters indica il 34,6% per la presidente Iliana Iotova e circa il 32% per Andrey Gyurov. La BTA riporta differenze fra conteggi paralleli e affluenza intorno al 22%. Il secondo turno è previsto il primo novembre; nessuno dei due ha già vinto la presidenza tramite questo voto.",
+  "body": [
+    "La Bulgaria ha votato domenica 25 ottobre per scegliere il presidente, senza che alcun candidato raggiungesse la maggioranza necessaria per chiudere il confronto al primo turno. Iliana Iotova, attuale presidente, e l'ex premier ad interim Andrey Gyurov hanno raccolto i consensi maggiori. Reuters, AP e l'agenzia nazionale BTA concordano sulla necessità del ballottaggio del primo novembre.",
+    "I dati disponibili lunedì mattina includono circa il 95% dei voti scrutinati: Reuters riporta 34,6% per Iotova e intorno al 32% per Gyurov. BTA cita anche rilevazioni parallele che assegnano valori leggermente differenti. Per evitare di confondere metodologie, occorre distinguere conteggi elettorali, proiezioni ed exit poll, attribuendo sempre ciascuna percentuale.",
+    "L'affluenza si colloca secondo le stime intorno al 22%, particolarmente bassa per una consultazione nazionale. Il presidente bulgaro dispone di poteri più limitati rispetto al governo, ma la carica ha rilevanza per rappresentanza istituzionale e orientamento internazionale, in particolare mentre crescono i timori per la sicurezza nel mar Nero.",
+    "Iotova e Gyurov esprimono posizioni differenti in materia di sicurezza europea e rapporti con la guerra in Ucraina. Il loro confronto avverrà nel secondo turno e potrebbe risentire del peso degli elettori assenti al primo. Non è corretto trasformare i risultati parziali del 25 ottobre in una previsione certa dell'esito del primo novembre."
+  ],
+  "facts": [
+    "Nessun candidato ha ottenuto la maggioranza al voto presidenziale bulgaro del 25 ottobre.",
+    "Il ballottaggio fra Iliana Iotova e Andrey Gyurov è previsto per il primo novembre 2026."
+  ],
+  "perspectives": [
+    "Iotova ha sottolineato la necessità di stabilità politica e ha espresso preoccupazione per la bassa partecipazione.",
+    "Gyurov ha invitato l'avversaria a un confronto pubblico sul modo di esercitare la presidenza."
+  ],
+  "unknowns": [
+    "Risultato definitivo del primo turno, trasferimenti di voto e vincitore del ballottaggio non sono ancora stabiliti."
+  ],
+  "questions": [
+    {
+      "question": "Perché in Bulgaria si voterà di nuovo il primo novembre?",
+      "answer": "Nessuno dei candidati presidenziali ha raggiunto al primo turno del 25 ottobre la maggioranza necessaria; i due più votati, Iotova e Gyurov, si sfideranno al ballottaggio."
+    },
+    {
+      "question": "Come leggere le percentuali differenti attribuite a Iotova e Gyurov?",
+      "answer": "Alcune cifre derivano da conteggi parziali, altre da rilevazioni parallele o exit poll di istituti differenti; non sono tutti risultati definitivi della stessa procedura."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "L'esito presidenziale conta per il profilo diplomatico e la sicurezza di un membro UE e NATO, ma l'ufficio ha poteri circoscritti.",
+  "tags": [
+    "Bulgaria",
+    "elezioni",
+    "ballottaggio"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Bulgaria heads to presidential runoff after close vote",
+      "url": "https://www.reuters.com/world/bulgaria-heads-presidential-runoff-after-close-vote-2026-10-26/",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Presidential race in Bulgaria heads to runoff due to record low turnout",
+      "url": "https://www.local10.com/news/2026/10/25/presidential-race-in-bulgaria-heads-to-runoff-due-to-record-low-turnout/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Bulgarian News Agency",
+      "title": "Iotova and Gurov to Face Off in Presidential Runoff on November 1",
+      "url": "https://www.bta.bg/en/news/bulgaria/1232587-iotova-and-gurov-to-face-off-in-presidential-runoff-on-november-1",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/bulgaria-president-runoff-nov1.svg",
+    "alt": "Illustrazione editoriale simbolica: Bulgaria verso il ballottaggio presidenziale del primo novembre",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/bulgaria-president-runoff-nov1.svg",
+    "license": "© 2026 O — original illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

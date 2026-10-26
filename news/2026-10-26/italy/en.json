@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-26",
+  "language": "en",
+  "publishedAt": "2026-10-26T09:05:46.861Z",
+  "editorialNote": "26 October briefing: event dates are explicit, with cross-checked reporting and attributed statements, data and limitations.",
+  "articles": [
+    {
+      "id": "lega-salvini-reelected-party-congress",
+      "rank": 1,
+      "category": "politics",
+      "impact": 2.5,
+      "tags": [
+        "League",
+        "Salvini",
+        "Ukraine"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Salvini resta leader della Lega, ma avverte: 'Stop armi all'Ucraina'",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-resta-leader-della-lega-ma-avverte-stop-armi-allucraina_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Milano, Matteo Salvini confermato segretario della Lega col 76% dei voti",
+          "url": "https://www.rainews.it/tgr/veneto/articoli/2026/10/milano-congresso-straordinario-lega-salvini-confermato-segretario--04ed2789-2e99-4000-8636-128c626a2fe0.html",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Lega, Salvini resta segretario della Lega: 465 voti contro i 146 per Garavaglia",
+          "url": "https://www.corriere.it/politica/26_ottobre_25/lega-oggi-voto-segreteria-salvini-congresso-garavaglia-16fdbc65-e866-4b87-b985-451725b52xlk.shtml",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+        "alt": "Original symbolic editorial illustration, not a photograph: Italian League party congress and ballots",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Salvini wins another term as League leader with 76%, pledges to seek halt to Ukraine aid",
+      "dek": "The Milan congress gave Salvini 465 votes to Garavaglia's 146. His mandate runs to 2030, while the Ukraine proposal is not government policy.",
+      "summary": "At its extraordinary congress in Milan on 25 October, Italy's League re-elected Matteo Salvini as party secretary with 465 votes against 146 for challenger Massimo Garavaglia, about 76% of valid ballots. The new mandate lasts four years. Salvini said he would ask the cabinet to stop sending money and weapons to Ukraine, but no such government decision has been established. The party also presented a new emblem without Salvini's surname.",
+      "body": [
+        "Matteo Salvini was re-elected secretary of Italy's League at an extraordinary congress that ended in Milan on Sunday, 25 October. ANSA, RaiNews and Corriere della Sera independently reported 465 votes for Salvini and 146 for Senator Massimo Garavaglia out of 611 valid ballots. The result is roughly 76% against 24%, giving Salvini another four-year mandate through 2030. It is a decisive victory, although the challenger secured a substantial minority of party delegates.",
+        "The congress followed disagreements between the national leadership and sections of the party seeking greater emphasis on its northern regional roots. Garavaglia framed his candidacy as a way to represent different views, while politicians including Massimiliano Romeo and Attilio Fontana argued that the party needed to address internal concerns. Salvini called for unity and indicated that the composition of a new leadership team would be decided after further consultations.",
+        "During his speech, Salvini promised to bring a proposal to the cabinet to stop Italy's financial and military support for Ukraine. This was a political commitment to advocate a policy, not a measure approved by the Italian government. Foreign-policy decisions and military assistance require institutional acts and coalition agreement; an internal party ballot does not change them automatically.",
+        "The congress also unveiled an updated party symbol bearing the words 'Lega Italia federale' without Salvini's surname, while retaining the traditional figure of Alberto da Giussano. The re-elected leader must appoint senior officials and manage regional divisions as the government prepares its budget. Any effect on aid to Kyiv will need to be established through subsequent official decisions rather than inferred from a campaign-style speech at the congress."
+      ],
+      "facts": [
+        "Salvini received 465 votes against Garavaglia's 146 at the League congress on 25 October.",
+        "He promised to propose ending aid to Ukraine, but no cabinet decision adopting that proposal was established."
+      ],
+      "perspectives": [
+        "Salvini presented the vote as a mandate to strengthen the party and argue for a more critical line on assistance to Kyiv.",
+        "Garavaglia and other League figures emphasized the need to represent distinct regional interests."
+      ],
+      "unknowns": [
+        "The composition of the party's new leadership and any practical effect of the Ukraine-aid proposal remain unresolved."
+      ],
+      "questions": [
+        {
+          "question": "What was Salvini's vote margin in the League leadership election?",
+          "answer": "He won 465 valid ballots to Massimo Garavaglia's 146, roughly 76% to 24%. The new secretary's mandate lasts four years, through 2030."
+        },
+        {
+          "question": "What government action would be required to change Italy's Ukraine aid after the League congress?",
+          "answer": "Salvini pledged to bring a proposal to Italy's cabinet to stop assistance. The party congress elected its leader and set political aims, but the government must take the relevant formal decisions for national aid policy to change."
+        }
+      ],
+      "impactReason": "Re-electing the leader of a governing party affects coalition dynamics and foreign-policy debate, but does not itself change government decisions."
+    },
+    {
+      "id": "italy-oct24-protests-police-balance",
+      "rank": 2,
+      "category": "society",
+      "impact": 2.5,
+      "tags": [
+        "protests",
+        "policing",
+        "rights"
+      ],
+      "title": "Italian protests: police report nine arrests after demonstrations in several cities",
+      "dek": "Police report 4,292 identity checks and 371 people taken to stations following 24 October rallies; detention for checks is not synonymous with arrest.",
+      "summary": "Demonstrations took place across Italy on 24 October amid anger over living costs and government security measures, with clashes in some cities. The Public Security Department reported nine arrests, 87 criminal complaints, 4,292 people identified and 371 taken to police offices for checks, including 110 minors. These categories must not be combined or read as verdicts.",
+      "body": [
+        "Demonstrations took place in several Italian cities on Saturday 24 October amid protests over living costs and a substantial security deployment. ANSA and AFP documented marches in Milan, Rome and Turin, as well as confrontations in some locations. Violence at particular moments does not establish that the wider body of demonstrators participated in those acts.",
+        "Italy's Public Security Department released a national count of 4,292 people identified, nine arrests and 87 people reported to prosecutors. Separately, 371 individuals, including 110 minors, were taken to police premises for checks or temporary detention. Those administrative and investigative categories describe different procedures, not a combined total of arrests or convictions.",
+        "Adnkronos reported tensions in Turin, Rome and Bologna. AFP also spoke to demonstrators defending their right to march; those views are distinct from the government's account that advance police measures were required to safeguard public order. Establishing whether specific police actions were proportionate or offences occurred requires evidence from the particular incidents.",
+        "Investigators also examined the activities of Youssef Siher, described in the reporting as an alleged organizer of the October 17 Movement. Investigative allegations do not establish criminal guilt. The events on 24 October must be distinguished from unrest during the previous weekend, with any subsequent court proceedings reported as developments rather than assumed outcomes."
+      ],
+      "facts": [
+        "Authorities reported nine arrests, 87 complaints and 4,292 identity checks after the 24 October demonstrations.",
+        "The 371 people taken to police premises for checks are not an additional 371 arrests."
+      ],
+      "perspectives": [
+        "The government defended preventive police measures as a means of ensuring public safety and peaceful demonstrations.",
+        "AFP recorded protesters' views that marching is an exercise of a fundamental democratic right."
+      ],
+      "unknowns": [
+        "Individual case outcomes and legal responsibility for particular episodes of violence remain to be established."
+      ],
+      "questions": [
+        {
+          "question": "How are the nine arrests different from the 371 people taken to police stations?",
+          "answer": "The nine were recorded as arrests in the 24 October police figures; the other 371 were taken in for checks or temporary procedures. They are not interchangeable measures."
+        },
+        {
+          "question": "Where were confrontations reported during the 24 October rallies?",
+          "answer": "Reporting documented tensions or police interventions particularly in Turin, Rome and Bologna, while Milan also saw largely peaceful marches."
+        }
+      ],
+      "impactReason": "The response to multi-city demonstrations raises significant public-order and civil-liberties questions, but guilt cannot be assigned collectively.",
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Adnkronos",
+          "title": "Cortei in Italia, scontri da Torino a Roma: quasi 5mila identificati",
+          "url": "https://www.adnkronos.com/cronaca/cortei-24-ottobre-arresti-denunce-scontri_5rJYd93Mxz9fh2YebsKIJu",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Thousands protest in Italy under heavy security",
+          "url": "https://www.thelocal.it/20261025/thousands-protest-in-italy-under-heavy-security",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/italy-oct24-protests-police-balance.svg",
+        "alt": "Original symbolic editorial illustration: Italian protests: police report nine arrests after demonstrations in several cities",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/italy-oct24-protests-police-balance.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "eni-fuel-cap-earnings-oct23",
+      "rank": 3,
+      "category": "economy",
+      "impact": 2.5,
+      "tags": [
+        "fuel",
+        "energy",
+        "Eni"
+      ],
+      "title": "Eni extends flexible fuel price ceiling as quarterly earnings rise",
+      "dek": "Chief executive Claudio Descalzi maintains the mechanism to year-end, while present €1.99 and €2.25 per-litre levels may be adjusted.",
+      "summary": "On 23 October, Eni said it would retain a fuel price ceiling mechanism at its filling stations through the end of 2026. Current levels are €1.99 per litre for petrol and €2.25 for diesel, but chief executive Claudio Descalzi stressed that market conditions and logistics may require changes. The announcement coincided with strong quarterly earnings and increased returns to shareholders.",
+      "body": [
+        "Eni confirmed on Friday 23 October that it would keep a form of fuel price cap across its filling-station network through the end of the year. Chief executive Claudio Descalzi emphasized retaining the mechanism rather than promising to freeze every listed price indefinitely. This is a commercial policy of one supplier, not a state-mandated price applicable to all fuel retailers.",
+        "Eni put the prevailing cap at €1.99 per litre for petrol and €2.25 for diesel. The company said it would reassess these thresholds as wholesale prices and the availability of supplies within its logistics system evolve. The actual cost of filling up at a particular station depends on the applicable conditions and any subsequent announced adjustment.",
+        "The policy was disclosed against a backdrop of strong corporate results. Reuters reported adjusted net profit of €2.8 billion for the third quarter, more than double the year-earlier figure, while Eni announced a €1.3 billion special dividend and an increased share buyback. Shareholder distributions and petrol pricing are separate decisions, even when reported on the same day.",
+        "Refining performance, production and the broader energy market all contributed to Eni's financial position; the earnings announcement does not establish that higher pump prices alone caused the profit increase. A flexible cap might limit some price shocks for Eni customers, yet oil-market uncertainty and individual station prices remain important qualifications."
+      ],
+      "facts": [
+        "Eni said its fuel price-cap mechanism would remain in place through December 2026.",
+        "The levels cited on 23 October were €1.99 per litre for petrol and €2.25 for diesel, both potentially subject to revision."
+      ],
+      "perspectives": [
+        "Descalzi said market trends and logistical supply conditions would influence any revision of the ceilings.",
+        "Eni presented extraordinary shareholder distributions as a reflection of stronger financial results."
+      ],
+      "unknowns": [
+        "The final cap levels through December and their effect on individual retail transactions are not yet known."
+      ],
+      "questions": [
+        {
+          "question": "What fuel pricing mechanism will Eni continue through December?",
+          "answer": "Eni will maintain a flexible price-cap mechanism. Its petrol threshold on 23 October was €1.99 per litre, but Descalzi said the numerical ceilings may change with market prices and the availability of supplies."
+        },
+        {
+          "question": "What quarterly profit did Eni report alongside the fuel announcement?",
+          "answer": "Reuters reported €2.8 billion in adjusted net profit for the third quarter of 2026, more than twice the year-earlier result; this is distinct from the announced retail fuel policy."
+        }
+      ],
+      "impactReason": "The pricing decision of a major supplier and stronger energy earnings matter nationally, but do not set a uniform price for all Italian motorists.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Eni to extend fuel price cap to year-end, CEO says",
+          "url": "https://it.investing.com/news/stock-market-news/eni-estendera-tetto-a-prezzi-carburanti-fino-a-fine-anno--descalzi-3604522",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Eni: Il tetto al prezzo per benzina e diesel proseguirà fino a fine anno",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-il-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_7f2ea08b-ce91-4f3c-90b8-ca8bf6e4c8aa.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Eni boosts payout after profit doubles, shares near 20-year highs",
+          "url": "https://www.reuters.com/business/energy/eni-pay-special-dividend-lift-buyback-after-strong-third-quarter-results-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+        "alt": "Original symbolic editorial illustration: Eni extends flexible fuel price ceiling as quarterly earnings rise",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italian-activists-west-bank-return",
+      "rank": 4,
+      "category": "world",
+      "impact": 2,
+      "tags": [
+        "WestBank",
+        "volunteers",
+        "consular"
+      ],
+      "title": "Five Italian volunteers repatriated after detention during West Bank olive harvest",
+      "dek": "Italy's foreign ministry confirmed their return on 24 October after Thursday's detention amid tensions over access to farmland.",
+      "summary": "Five Italian women detained by Israeli authorities in the occupied West Bank on 22 October were repatriated on Saturday 24 October, Italy's foreign ministry said. They had been accompanying Palestinian olive growers with international volunteers. The detention, repatriation and broader allegations concerning settler violence are separate matters that require precise attribution.",
+      "body": [
+        "Italy's foreign ministry confirmed on Saturday 24 October that five Italian activists had returned after being detained by Israeli authorities on Thursday in the occupied West Bank. Reuters and ANSA linked their presence to international accompaniment initiatives for Palestinian farmers harvesting olives south of Hebron, an important seasonal agricultural activity.",
+        "Italian consular officials visited the five women at the Tel Aviv airport on Friday evening and reported that they appeared in good physical condition, according to the foreign ministry. The reports placed their earlier detention at Kiryat Arba police facilities. Repatriation resolves the immediate custody issue but does not itself constitute a finding about the detention's legality.",
+        "The olive harvest is economically important to Palestinian farming communities and has long been associated with disputes over land access and personal safety. Reuters cited Israeli rights organization Yesh Din as recording more than 330 incidents of settler violence connected to this year's harvest. That is the organization's monitoring count, not a court finding on every incident.",
+        "Italian Foreign Minister Antonio Tajani sought explanations from Israeli officials over the arrests. The women's return does not settle questions about the protection of farmers, access to orchards or possible liability for particular acts. Any subsequent legal judgment or official investigation should be reported separately from the fact of the activists' repatriation."
+      ],
+      "facts": [
+        "Italy's foreign ministry confirmed the return of the five women on 24 October 2026.",
+        "The activists were detained on 22 October while accompanying Palestinian farmers in the West Bank."
+      ],
+      "perspectives": [
+        "Tajani criticized the detention and requested explanations from Israeli authorities.",
+        "Yesh Din has documented alleged settler violence during the ongoing olive-harvest season."
+      ],
+      "unknowns": [
+        "Final legal findings concerning the women's detention and responsibility for related incidents have not been established."
+      ],
+      "questions": [
+        {
+          "question": "When did the five women held near Kiryat Arba return to Italy?",
+          "answer": "Italy's foreign ministry confirmed repatriation on Saturday 24 October, two days after their detention while accompanying Palestinian olive growers."
+        },
+        {
+          "question": "Why does the olive-harvest season draw international volunteer monitors?",
+          "answer": "Harvesting requires access to farmland and, according to rights monitors cited by Reuters, some growers face attacks and restrictions; volunteers accompany farmers and observe conditions."
+        }
+      ],
+      "impactReason": "The repatriation resolves an Italian consular incident while highlighting broader access and human-rights concerns in the occupied West Bank.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Five Italian activists held in West Bank have been repatriated, ministry says",
+          "url": "https://www.reuters.com/world/middle-east/five-italian-activists-held-west-bank-have-been-repatriated-ministry-says-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Attiviste italiane espulse da Israele. Atteso il rientro in Italia",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/24/attiviste-italiane-espulse-da-israele.-atteso-il-rientro-in-italia_9b783e6a-ae93-41de-ab9b-63414f183e13.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/italian-activists-west-bank-return.svg",
+        "alt": "Original symbolic editorial illustration: Five Italian volunteers repatriated after detention during West Bank olive harvest",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/italian-activists-west-bank-return.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "istat-residence-permits-2025-report",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "tags": [
+        "Istat",
+        "residency",
+        "migration"
+      ],
+      "title": "Italy issued 426,956 new residence permits in 2025, Istat reports",
+      "dek": "The report released on 22 October shows a 47.2% increase, driven particularly by family and study permits, while asylum applications fell.",
+      "summary": "Italy's statistics agency Istat reported on 22 October 2026 that 426,956 new residence permits were issued to non-EU citizens during 2025, 47.2% above 2024's 290,119. Family permits rose 61.2% and study permits 76%, while asylum applications declined 15.1%. These are annual administrative measures, not a count of arrivals on the publication date.",
+      "body": [
+        "Istat released its report on non-EU residents on Thursday 22 October, covering the calendar year 2025. It recorded 426,956 newly issued residence permits compared with 290,119 in 2024, an increase of 47.2%. ANSA and Sky TG24 reported on the release. This is an annual administrative statistic, not the number of people entering Italy on any particular day.",
+        "The increase was especially pronounced for permits based on family reasons, up 61.2%, and study, up 76%. Work-related permits grew 45.9%. Distinguishing these categories matters: permits issued to reunite families, attend university or take a job do not all reflect applications for international protection.",
+        "In the same report, asylum applications fell 15.1%, from 151,120 in 2024 to 128,665 in 2025. Territorial commissions rejected 70% of the initial applications they examined, a different denominator from all newly granted residence permits. Combining the figures as if they were one process would misrepresent the administrative system.",
+        "Istat identified the 2025 new-permit total as the second highest in fifteen years, behind the 2022 peak associated with arrivals from Ukraine. The agency discussed possible explanations involving universities' international recruitment and family applications filed before tighter conditions. These are interpretations of aggregate patterns, not proof of why every individual applied."
+      ],
+      "facts": [
+        "Italy issued 426,956 new permits in 2025 versus 290,119 in 2024, a 47.2% rise.",
+        "Istat recorded 128,665 asylum applications in 2025, 15.1% fewer than in 2024."
+      ],
+      "perspectives": [
+        "Istat associated the rise in study permits partly with universities' recruitment of overseas students.",
+        "The agency suggested earlier family applications before stricter requirements as one possible factor."
+      ],
+      "unknowns": [
+        "The aggregate figures cannot establish each applicant's motives or forecast the 2026 total."
+      ],
+      "questions": [
+        {
+          "question": "What do Istat's 426,956 new permits measure?",
+          "answer": "They count residence permits issued to non-EU nationals throughout 2025, not arrivals on one day or the number of asylum applications."
+        },
+        {
+          "question": "How could residence permits rise while asylum applications fell?",
+          "answer": "Family, work and study permits are separate categories from asylum applications; the former rose overall by 47.2% while asylum requests declined by 15.1% during 2025."
+        }
+      ],
+      "impactReason": "Changes in legal-residence patterns inform national policy and services, but the reported figures describe 2025 rather than day-to-day arrivals.",
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Number of residence permits issued in Italy rose 47% in 2025 says Istat",
+          "url": "https://www.ansa.it/english/news/general_news/2026/10/22/number-of-residence-permits-issued-in-italy-rose-47-in-2025-says-istat_80999b65-7c72-4b67-a983-efd47a63c3be.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Immigrazione, permessi di soggiorno record: nel 2025 +47%. Dati Istat",
+          "url": "https://tg24.sky.it/cronaca/2026/10/24/immigrazione-permessi-soggiorno-2025-istat",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Portale Integrazione Migranti",
+          "title": "Istat: più permessi di soggiorno, meno domande di asilo",
+          "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/4985",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Istat",
+          "title": "Cittadini non comunitari in Italia — Anno 2025",
+          "url": "https://www.istat.it/comunicato-stampa/cittadini-non-comunitari-in-italia-anno-2025/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+        "alt": "Original symbolic editorial illustration: Italy issued 426,956 new residence permits in 2025, Istat reports",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ],
+  "section": "italy"
+}

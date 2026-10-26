@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-26",
+  "language": "it",
+  "publishedAt": "2026-10-26T09:05:46.861Z",
+  "editorialNote": "Rassegna del 26 ottobre: notizie con date degli eventi esplicite, verifiche incrociate e attribuzione di dichiarazioni, dati e limiti.",
+  "articles": [
+    {
+      "id": "lega-salvini-reelected-party-congress",
+      "rank": 1,
+      "category": "politics",
+      "impact": 2.5,
+      "tags": [
+        "Lega",
+        "Salvini",
+        "Ucraina"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Salvini resta leader della Lega, ma avverte: 'Stop armi all'Ucraina'",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-resta-leader-della-lega-ma-avverte-stop-armi-allucraina_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Milano, Matteo Salvini confermato segretario della Lega col 76% dei voti",
+          "url": "https://www.rainews.it/tgr/veneto/articoli/2026/10/milano-congresso-straordinario-lega-salvini-confermato-segretario--04ed2789-2e99-4000-8636-128c626a2fe0.html",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Lega, Salvini resta segretario della Lega: 465 voti contro i 146 per Garavaglia",
+          "url": "https://www.corriere.it/politica/26_ottobre_25/lega-oggi-voto-segreteria-salvini-congresso-garavaglia-16fdbc65-e866-4b87-b985-451725b52xlk.shtml",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+        "alt": "Illustrazione editoriale simbolica originale, non una fotografia: congresso della Lega e schede di voto",
+        "credit": "O — illustrazione vettoriale originale",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/lega-salvini-reelected-party-congress.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "title": "Lega, Salvini rieletto segretario con il 76%; promette di chiedere lo stop agli aiuti a Kiev",
+      "dek": "Al congresso di Milano 465 voti a Salvini e 146 a Garavaglia. Il mandato dura fino al 2030, mentre la proposta sull'Ucraina non è una decisione del governo.",
+      "summary": "Il congresso straordinario della Lega a Milano si è concluso il 25 ottobre con la conferma di Matteo Salvini alla segreteria: 465 voti contro i 146 dello sfidante Massimo Garavaglia, circa il 76% dei voti validi. Il mandato durerà quattro anni. Salvini ha promesso di portare al Consiglio dei ministri la richiesta di interrompere l'invio di soldi e armi all'Ucraina; non risulta che il governo abbia approvato tale linea. Il partito presenta anche un nuovo simbolo senza il nome del leader.",
+      "body": [
+        "Matteo Salvini è stato riconfermato segretario della Lega durante il congresso straordinario concluso a Milano domenica 25 ottobre. Le cronache indipendenti di ANSA, RaiNews e Corriere della Sera riportano 465 voti per Salvini e 146 per il senatore Massimo Garavaglia, su 611 voti validi. Il risultato equivale a circa il 76% contro il 24% e assegna a Salvini un nuovo mandato quadriennale, fino al 2030. È una vittoria netta, ma la quota dello sfidante segnala un dissenso organizzato all'interno del partito.",
+        "Il congresso è stato convocato in un momento di confronto fra la leadership nazionale e settori della Lega che chiedono maggiore attenzione ai territori settentrionali. Garavaglia ha presentato la propria candidatura come espressione di sensibilità differenti, mentre esponenti come Massimiliano Romeo e Attilio Fontana hanno sostenuto l'esigenza di discutere la direzione politica. Salvini ha invitato a superare le divisioni e ha rinviato la composizione della nuova segreteria a consultazioni nelle settimane successive.",
+        "Nel suo intervento, Salvini ha dichiarato che chiederà al Consiglio dei ministri di interrompere gli aiuti economici e militari all'Ucraina. La frase esprime una posizione politica e un impegno a proporla, non un provvedimento adottato dall'esecutivo italiano. La distinzione è essenziale perché la politica estera e le forniture militari dipendono da decisioni collegiali e dagli atti istituzionali, non dal solo voto interno di un partito della maggioranza.",
+        "Il congresso ha anche presentato un simbolo aggiornato, con la dicitura «Lega Italia federale» e senza il cognome di Salvini, mantenendo il riferimento ad Alberto da Giussano. Il nuovo segretario dovrà scegliere gli incarichi dirigenti e gestire il confronto tra le correnti territoriali, mentre il governo prepara la legge di bilancio. La verifica del seguito politico richiederà di controllare eventuali deliberazioni ufficiali su Kiev, senza anticiparle sulla base del discorso congressuale."
+      ],
+      "facts": [
+        "Salvini ha ricevuto 465 voti contro i 146 di Garavaglia al congresso della Lega del 25 ottobre.",
+        "Il segretario ha annunciato che chiederà al governo di interrompere gli aiuti all'Ucraina, senza che tale misura risulti approvata."
+      ],
+      "perspectives": [
+        "Salvini descrive la rielezione come un mandato a rafforzare il partito e sostenere una linea più critica sugli aiuti a Kiev.",
+        "Garavaglia e altri esponenti hanno rivendicato la necessità di rappresentare meglio le diverse sensibilità territoriali."
+      ],
+      "unknowns": [
+        "Non sono ancora noti la composizione definitiva della nuova segreteria né gli eventuali effetti concreti della proposta sugli aiuti all'Ucraina."
+      ],
+      "questions": [
+        {
+          "question": "Con quale risultato Salvini è stato rieletto alla guida della Lega?",
+          "answer": "Ha ottenuto 465 voti validi contro i 146 di Massimo Garavaglia, circa il 76% contro il 24%. Il mandato di segretario è di quattro anni, fino al 2030."
+        },
+        {
+          "question": "Quali passaggi servirebbero per modificare gli aiuti italiani all'Ucraina dopo il congresso della Lega?",
+          "answer": "Salvini ha promesso di sottoporre al Consiglio dei ministri una proposta di interruzione degli aiuti. Il congresso elegge il segretario e orienta il partito, ma non sostituisce gli atti formali richiesti al governo."
+        }
+      ],
+      "impactReason": "La conferma del leader di un partito di governo incide sugli equilibri della maggioranza e sul dibattito sulla politica estera, ma non cambia di per sé le decisioni dell'esecutivo."
+    },
+    {
+      "id": "italy-oct24-protests-police-balance",
+      "rank": 2,
+      "category": "society",
+      "impact": 2.5,
+      "tags": [
+        "manifestazioni",
+        "polizia",
+        "diritti"
+      ],
+      "title": "Proteste in più città italiane: nove arresti nel bilancio di polizia",
+      "dek": "Dopo i cortei del 24 ottobre, la Pubblica sicurezza comunica 4.292 identificazioni e 371 persone accompagnate negli uffici; arresti e controlli restano categorie diverse.",
+      "summary": "Il 24 ottobre manifestazioni contro il costo della vita e le misure di governo si sono svolte in diverse città italiane, con episodi di tensione a Torino, Roma e Bologna. Nel bilancio diffuso dalla Pubblica sicurezza figurano nove arresti, 87 denunce, 4.292 identificazioni e 371 persone accompagnate negli uffici, fra cui 110 minorenni. L'accompagnamento non equivale automaticamente a un arresto o a una condanna.",
+      "body": [
+        "Sabato 24 ottobre si sono svolte manifestazioni in diverse città italiane in un contesto di proteste contro il costo della vita e di forte dispiegamento delle forze dell'ordine. ANSA e AFP hanno descritto cortei a Milano, Roma e Torino e scontri in alcune piazze. La presenza di episodi di violenza non significa che tutti i partecipanti vi abbiano preso parte.",
+        "Il Dipartimento della Pubblica sicurezza ha comunicato a fine giornata 4.292 persone identificate, nove arrestate e 87 denunciate. Altre 371 persone, incluse 110 minorenni, sono state accompagnate o trattenute temporaneamente in uffici di polizia per accertamenti. Il dato dei controlli non deve essere presentato come numero di persone arrestate: descrive attività amministrative e investigative differenti.",
+        "Adnkronos ha riferito delle tensioni a Torino, Roma e Bologna; AFP ha raccolto anche testimonianze di persone scese in piazza per esercitare il diritto di protesta. Il governo ha rivendicato l'azione preventiva della polizia, mentre le ricostruzioni sulle modalità degli interventi e sulle responsabilità personali necessitano di elementi verificati caso per caso.",
+        "Tra gli accertamenti compare la posizione di Youssef Siher, indicato dagli investigatori come presunto promotore del Movimento 17 ottobre. Si tratta di ipotesi e contestazioni investigative, non di una decisione giudiziaria definitiva. È inoltre importante distinguere i fatti del 24 ottobre dai disordini del fine settimana precedente e attendere gli eventuali sviluppi processuali."
+      ],
+      "facts": [
+        "Per i cortei del 24 ottobre il Dipartimento della Pubblica sicurezza ha comunicato nove arresti, 87 denunce e 4.292 identificazioni.",
+        "Le 371 persone accompagnate negli uffici non costituiscono ulteriori 371 arresti."
+      ],
+      "perspectives": [
+        "Il governo ha descritto le operazioni di polizia come necessarie a garantire sicurezza e manifestazioni pacifiche.",
+        "AFP ha riportato le ragioni di manifestanti che rivendicano il diritto di esprimere dissenso."
+      ],
+      "unknowns": [
+        "Esiti delle verifiche sui singoli fermati e responsabilità penali negli episodi di violenza non sono accertati definitivamente."
+      ],
+      "questions": [
+        {
+          "question": "Che differenza c'è tra i nove arresti e le 371 persone accompagnate negli uffici?",
+          "answer": "Nel bilancio del 24 ottobre i nove arresti sono provvedimenti distinti dalle 371 persone accompagnate per controlli e accertamenti; il secondo numero non indica 371 arresti."
+        },
+        {
+          "question": "Quali città hanno registrato tensioni durante i cortei del 24 ottobre?",
+          "answer": "Le cronache hanno documentato scontri o interventi delle forze dell'ordine soprattutto a Torino, Roma e Bologna; a Milano si sono svolte anche marce prevalentemente pacifiche."
+        }
+      ],
+      "impactReason": "La gestione dell'ordine pubblico e del diritto di manifestare interessa varie città e numerose persone, senza implicare automaticamente responsabilità collettive.",
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Cortei in Italia, quasi 5mila identificati, 371 fermati, 110 sono minori",
+          "url": "https://www.ansa.it/sito/notizie/topnews/2026/10/24/cortei-in-italia-quasi-5mila-identificati-371-fermati-110-sono-minori_d92367ef-35ad-4aa2-863a-7c8fe78b898b.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Adnkronos",
+          "title": "Cortei in Italia, scontri da Torino a Roma: quasi 5mila identificati",
+          "url": "https://www.adnkronos.com/cronaca/cortei-24-ottobre-arresti-denunce-scontri_5rJYd93Mxz9fh2YebsKIJu",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Thousands protest in Italy under heavy security",
+          "url": "https://www.thelocal.it/20261025/thousands-protest-in-italy-under-heavy-security",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/italy-oct24-protests-police-balance.svg",
+        "alt": "Illustrazione editoriale originale e simbolica: Proteste in più città italiane: nove arresti nel bilancio di polizia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/italy-oct24-protests-police-balance.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "eni-fuel-cap-earnings-oct23",
+      "rank": 3,
+      "category": "economy",
+      "impact": 2.5,
+      "tags": [
+        "carburanti",
+        "energia",
+        "Eni"
+      ],
+      "title": "Eni prolunga il tetto dinamico ai carburanti; crescono gli utili trimestrali",
+      "dek": "Descalzi conferma il meccanismo fino a dicembre, ma i valori attuali di 1,99 e 2,25 euro al litro potrebbero variare con mercato e disponibilità.",
+      "summary": "Il 23 ottobre Eni ha annunciato che manterrà fino a fine 2026 il principio di un limite ai prezzi di benzina e diesel presso le proprie stazioni. I valori attuali sono 1,99 euro al litro per benzina e 2,25 per diesel, ma l'amministratore delegato Claudio Descalzi ha chiarito che il livello verrà rivalutato. Nella stessa giornata Eni ha diffuso risultati trimestrali migliori delle attese e nuove distribuzioni agli azionisti.",
+      "body": [
+        "Eni ha confermato venerdì 23 ottobre la prosecuzione fino a fine anno di un sistema di tetto ai prezzi dei carburanti praticati dalla sua rete. Claudio Descalzi ha parlato del mantenimento del concetto di price cap, non del congelamento incondizionato di ogni prezzo per tutti gli automobilisti italiani. Il provvedimento riguarda un operatore e non costituisce un prezzo nazionale regolato.",
+        "I valori comunicati erano di 1,99 euro al litro per la benzina e 2,25 per il gasolio. L'azienda valuterà variazioni sulla base dell'evoluzione del mercato e delle forniture disponibili nella propria struttura logistica. Anche quando un limite viene pubblicizzato, il prezzo effettivo presso un singolo distributore e nel tempo dipende dalle condizioni indicate dall'operatore.",
+        "La decisione è arrivata insieme a risultati economici robusti. Reuters ha riportato un utile netto rettificato di 2,8 miliardi di euro nel terzo trimestre, più che raddoppiato rispetto all'anno precedente, e l'annuncio di un dividendo straordinario da 1,3 miliardi. Il gruppo ha aumentato il programma di riacquisto azioni, una scelta rivolta agli azionisti distinta dalle politiche sui carburanti.",
+        "L'aumento della redditività riflette diversi fattori, inclusi raffinazione, volumi e condizioni dell'energia, e non consente di attribuire tutto il risultato ai prezzi alla pompa. La prosecuzione del tetto dinamico può attenuare alcune pressioni sui clienti Eni, ma non elimina l'incertezza sul petrolio o sulle scelte commerciali future."
+      ],
+      "facts": [
+        "Eni ha confermato il mantenimento del meccanismo di price cap fino al 31 dicembre 2026.",
+        "Il livello comunicato al 23 ottobre era di 1,99 euro/litro per benzina e 2,25 per gasolio, soggetto a possibili revisioni."
+      ],
+      "perspectives": [
+        "Descalzi ha collegato eventuali modifiche dei livelli a prezzi di mercato e disponibilità delle forniture.",
+        "Eni presenta i maggiori ritorni agli azionisti come conseguenza dei risultati finanziari del gruppo."
+      ],
+      "unknowns": [
+        "Restano da conoscere eventuali nuove soglie e l'effetto sui prezzi effettivi dei singoli impianti entro dicembre."
+      ],
+      "questions": [
+        {
+          "question": "Quale meccanismo Eni continuerà ad applicare ai carburanti fino a dicembre?",
+          "answer": "Eni manterrà un tetto di prezzo dinamico: il valore indicato per la benzina al 23 ottobre era di 1,99 euro al litro, ma Descalzi ha spiegato che le soglie potranno variare con i prezzi di mercato e la disponibilità delle forniture."
+        },
+        {
+          "question": "Quale utile trimestrale Eni ha comunicato insieme alla decisione sui carburanti?",
+          "answer": "Reuters ha riportato un utile netto rettificato di 2,8 miliardi di euro nel terzo trimestre 2026, più del doppio del valore di un anno prima. Il dato sugli utili e il tetto commerciale dei carburanti sono misure distinte."
+        }
+      ],
+      "impactReason": "La politica di prezzo di un grande operatore e gli utili energetici hanno effetti economici nazionali, senza fissare prezzi uniformi in tutta Italia.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Eni to extend fuel price cap to year-end, CEO says",
+          "url": "https://it.investing.com/news/stock-market-news/eni-estendera-tetto-a-prezzi-carburanti-fino-a-fine-anno--descalzi-3604522",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Eni: Il tetto al prezzo per benzina e diesel proseguirà fino a fine anno",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-il-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_7f2ea08b-ce91-4f3c-90b8-ca8bf6e4c8aa.html",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Eni boosts payout after profit doubles, shares near 20-year highs",
+          "url": "https://www.reuters.com/business/energy/eni-pay-special-dividend-lift-buyback-after-strong-third-quarter-results-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+        "alt": "Illustrazione editoriale originale e simbolica: Eni prolunga il tetto dinamico ai carburanti; crescono gli utili trimestrali",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italian-activists-west-bank-return",
+      "rank": 4,
+      "category": "world",
+      "impact": 2,
+      "tags": [
+        "Cisgiordania",
+        "volontari",
+        "consolato"
+      ],
+      "title": "Rientrate cinque attiviste italiane fermate in Cisgiordania durante la raccolta delle olive",
+      "dek": "La Farnesina conferma il rimpatrio del 24 ottobre dopo il fermo di giovedì; l'episodio riporta l'attenzione sulle aggressioni durante la stagione agricola.",
+      "summary": "Cinque cittadine italiane fermate dalle autorità israeliane in Cisgiordania giovedì 22 ottobre sono state rimpatriate sabato 24, secondo il ministero degli Esteri. Erano con volontari internazionali che accompagnavano agricoltori palestinesi durante la raccolta delle olive. Il fermo e il rientro sono fatti distinti dalle accuse più generali sulle violenze dei coloni, che richiedono fonti e attribuzioni specifiche.",
+      "body": [
+        "La Farnesina ha comunicato sabato 24 ottobre il ritorno in Italia di cinque attiviste fermate giovedì dalle autorità israeliane nel territorio occupato della Cisgiordania. Reuters e ANSA hanno collegato la presenza delle donne a iniziative internazionali di accompagnamento degli agricoltori palestinesi impegnati nella raccolta stagionale delle olive nelle zone a sud di Hebron.",
+        "Secondo il ministero italiano, personale consolare aveva incontrato le cinque donne all'aeroporto di Tel Aviv venerdì sera, riferendo che apparivano in buone condizioni fisiche. Le cronache hanno indicato una precedente permanenza presso la polizia di Kiryat Arba. Rimpatrio, espulsione e valutazione della legittimità del fermo sono questioni separate e richiedono distinte verifiche.",
+        "La raccolta delle olive ha un peso rilevante nell'economia agricola palestinese ed è oggetto di tensioni ricorrenti. Reuters ha citato Yesh Din, organizzazione israeliana per i diritti umani, che ha documentato oltre 330 episodi di violenza legati alla raccolta nell'anno in corso. Il dato appartiene al monitoraggio dell'organizzazione e non costituisce una sentenza su ciascun episodio.",
+        "Il ministro degli Esteri Antonio Tajani aveva chiesto chiarimenti sul trattamento dei cittadini italiani. Il rientro chiude il problema immediato del loro trattenimento, ma non risolve le questioni più ampie sulla libertà di accesso ai terreni, la protezione dei coltivatori o eventuali responsabilità. Eventuali valutazioni giuridiche successive dovranno essere attribuite ai relativi organi."
+      ],
+      "facts": [
+        "Il ministero degli Esteri italiano ha confermato il rimpatrio delle cinque attiviste il 24 ottobre 2026.",
+        "Le attiviste erano state fermate il 22 ottobre mentre accompagnavano agricoltori palestinesi in Cisgiordania."
+      ],
+      "perspectives": [
+        "Tajani ha criticato il fermo e chiesto alle autorità israeliane chiarimenti.",
+        "L'organizzazione israeliana Yesh Din ha segnalato numerosi episodi di violenza dei coloni durante la raccolta delle olive."
+      ],
+      "unknowns": [
+        "Non sono disponibili decisioni giudiziarie definitive sulla legittimità dei singoli fermi o sulle responsabilità negli episodi collegati."
+      ],
+      "questions": [
+        {
+          "question": "Quando sono tornate in Italia le cinque volontarie fermate presso Kiryat Arba?",
+          "answer": "La Farnesina ha confermato il rimpatrio sabato 24 ottobre, due giorni dopo il fermo avvenuto giovedì 22 mentre accompagnavano coltivatori palestinesi."
+        },
+        {
+          "question": "Perché la stagione delle olive rende particolarmente delicata la presenza di volontari in Cisgiordania?",
+          "answer": "La raccolta richiede accesso ai terreni agricoli e, secondo le organizzazioni di monitoraggio citate da Reuters, è segnata da aggressioni e ostacoli ai coltivatori; i volontari cercano di accompagnarli e documentare quanto accade."
+        }
+      ],
+      "impactReason": "Il rimpatrio chiude un caso consolare italiano ma richiama condizioni di sicurezza e diritti più ampie in Cisgiordania.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Five Italian activists held in West Bank have been repatriated, ministry says",
+          "url": "https://www.reuters.com/world/middle-east/five-italian-activists-held-west-bank-have-been-repatriated-ministry-says-2026-10-24/",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Attiviste italiane espulse da Israele. Atteso il rientro in Italia",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/24/attiviste-italiane-espulse-da-israele.-atteso-il-rientro-in-italia_9b783e6a-ae93-41de-ab9b-63414f183e13.html",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/italian-activists-west-bank-return.svg",
+        "alt": "Illustrazione editoriale originale e simbolica: Rientrate cinque attiviste italiane fermate in Cisgiordania durante la raccolta delle olive",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/italian-activists-west-bank-return.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "istat-residence-permits-2025-report",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "tags": [
+        "Istat",
+        "permessi",
+        "migrazione"
+      ],
+      "title": "Istat: 426.956 nuovi permessi di soggiorno nel 2025, il 47,2% in più",
+      "dek": "Il rapporto pubblicato il 22 ottobre segnala soprattutto aumenti per motivi familiari e studio; le domande d'asilo, indicatore distinto, diminuiscono.",
+      "summary": "Il rapporto Istat sui cittadini non comunitari, reso pubblico il 22 ottobre 2026 e riferito al 2025, registra 426.956 nuovi permessi di soggiorno, il 47,2% in più rispetto ai 290.119 del 2024. I permessi per famiglia aumentano del 61,2% e quelli per studio del 76%; le domande d'asilo calano del 15,1%. Sono dati amministrativi annuali, non una misura degli arrivi del giorno.",
+      "body": [
+        "Istat ha pubblicato giovedì 22 ottobre il rapporto sui cittadini non comunitari riferito al 2025. I nuovi permessi di soggiorno rilasciati risultano 426.956, rispetto ai 290.119 dell'anno precedente, con un aumento del 47,2%. ANSA e Sky TG24 hanno ripreso i dati, che coprono un intero anno amministrativo e non il flusso migratorio di ottobre 2026.",
+        "La crescita interessa soprattutto i titoli per motivi familiari, aumentati del 61,2%, e quelli per studio, cresciuti del 76%. Anche i permessi per lavoro sono saliti del 45,9%. Il confronto fra le categorie aiuta a capire che le ragioni dell'ingresso sono diverse e non possono essere ricondotte indistintamente a richieste di protezione internazionale.",
+        "Nello stesso rapporto le domande d'asilo risultano in diminuzione del 15,1%, da 151.120 nel 2024 a 128.665 nel 2025. Le commissioni territoriali hanno respinto il 70% delle prime istanze esaminate, un denominatore diverso dal numero complessivo di permessi rilasciati. Confondere i due indicatori produrrebbe una rappresentazione inesatta del sistema amministrativo.",
+        "Istat considera il numero dei nuovi permessi il secondo più alto degli ultimi quindici anni, dopo il picco del 2022 legato all'afflusso di persone dall'Ucraina. L'istituto avanza interpretazioni su tempi delle domande familiari e iniziative degli atenei per attrarre studenti; queste spiegazioni non sono equivalenti a una dimostrazione causale per ogni pratica."
+      ],
+      "facts": [
+        "Nel 2025 sono stati rilasciati 426.956 nuovi permessi, contro 290.119 nel 2024 (+47,2%).",
+        "Nel 2025 le domande d'asilo sono scese del 15,1%, a 128.665, secondo il rapporto Istat."
+      ],
+      "perspectives": [
+        "Istat collega parte della crescita dei permessi di studio agli sforzi di attrazione delle università.",
+        "L'istituto propone come possibile spiegazione dei permessi familiari l'anticipo delle richieste prima di requisiti più restrittivi."
+      ],
+      "unknowns": [
+        "I dati aggregati non consentono di stabilire la causa individuale di ogni rilascio o prevedere i volumi del 2026."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa contano i 426.956 nuovi permessi riportati da Istat?",
+          "answer": "Sono permessi di soggiorno rilasciati nel corso del 2025 a cittadini non comunitari, non 426.956 arrivi nello stesso giorno né il numero delle domande d'asilo."
+        },
+        {
+          "question": "Come possono aumentare i permessi e diminuire contemporaneamente le domande d'asilo?",
+          "answer": "I permessi includono motivazioni differenti, fra cui famiglia, studio e lavoro, mentre le domande d'asilo sono un indicatore separato: nel 2025 i primi sono cresciuti del 47,2% e le seconde sono calate del 15,1%."
+        }
+      ],
+      "impactReason": "La composizione degli ingressi regolari è un dato importante per servizi pubblici e politiche nazionali, ma descrive il 2025 e non l'andamento quotidiano.",
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Number of residence permits issued in Italy rose 47% in 2025 says Istat",
+          "url": "https://www.ansa.it/english/news/general_news/2026/10/22/number-of-residence-permits-issued-in-italy-rose-47-in-2025-says-istat_80999b65-7c72-4b67-a983-efd47a63c3be.html",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Immigrazione, permessi di soggiorno record: nel 2025 +47%. Dati Istat",
+          "url": "https://tg24.sky.it/cronaca/2026/10/24/immigrazione-permessi-soggiorno-2025-istat",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Portale Integrazione Migranti",
+          "title": "Istat: più permessi di soggiorno, meno domande di asilo",
+          "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/4985",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        },
+        {
+          "outlet": "Istat",
+          "title": "Cittadini non comunitari in Italia — Anno 2025",
+          "url": "https://www.istat.it/comunicato-stampa/cittadini-non-comunitari-in-italia-anno-2025/",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+        "alt": "Illustrazione editoriale originale e simbolica: Istat: 426.956 nuovi permessi di soggiorno nel 2025, il 47,2% in più",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+        "license": "© 2026 O — Original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ],
+  "section": "italy"
+}

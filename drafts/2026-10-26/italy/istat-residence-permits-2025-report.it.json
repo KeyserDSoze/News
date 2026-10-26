@@ -1,0 +1,73 @@
+{
+  "id": "istat-residence-permits-2025-report",
+  "rank": 5,
+  "category": "society",
+  "impact": 2.5,
+  "tags": [
+    "Istat",
+    "permessi",
+    "migrazione"
+  ],
+  "title": "Istat: 426.956 nuovi permessi di soggiorno nel 2025, il 47,2% in più",
+  "dek": "Il rapporto pubblicato il 22 ottobre segnala soprattutto aumenti per motivi familiari e studio; le domande d'asilo, indicatore distinto, diminuiscono.",
+  "summary": "Il rapporto Istat sui cittadini non comunitari, reso pubblico il 22 ottobre 2026 e riferito al 2025, registra 426.956 nuovi permessi di soggiorno, il 47,2% in più rispetto ai 290.119 del 2024. I permessi per famiglia aumentano del 61,2% e quelli per studio del 76%; le domande d'asilo calano del 15,1%. Sono dati amministrativi annuali, non una misura degli arrivi del giorno.",
+  "body": [
+    "Istat ha pubblicato giovedì 22 ottobre il rapporto sui cittadini non comunitari riferito al 2025. I nuovi permessi di soggiorno rilasciati risultano 426.956, rispetto ai 290.119 dell'anno precedente, con un aumento del 47,2%. ANSA e Sky TG24 hanno ripreso i dati, che coprono un intero anno amministrativo e non il flusso migratorio di ottobre 2026.",
+    "La crescita interessa soprattutto i titoli per motivi familiari, aumentati del 61,2%, e quelli per studio, cresciuti del 76%. Anche i permessi per lavoro sono saliti del 45,9%. Il confronto fra le categorie aiuta a capire che le ragioni dell'ingresso sono diverse e non possono essere ricondotte indistintamente a richieste di protezione internazionale.",
+    "Nello stesso rapporto le domande d'asilo risultano in diminuzione del 15,1%, da 151.120 nel 2024 a 128.665 nel 2025. Le commissioni territoriali hanno respinto il 70% delle prime istanze esaminate, un denominatore diverso dal numero complessivo di permessi rilasciati. Confondere i due indicatori produrrebbe una rappresentazione inesatta del sistema amministrativo.",
+    "Istat considera il numero dei nuovi permessi il secondo più alto degli ultimi quindici anni, dopo il picco del 2022 legato all'afflusso di persone dall'Ucraina. L'istituto avanza interpretazioni su tempi delle domande familiari e iniziative degli atenei per attrarre studenti; queste spiegazioni non sono equivalenti a una dimostrazione causale per ogni pratica."
+  ],
+  "facts": [
+    "Nel 2025 sono stati rilasciati 426.956 nuovi permessi, contro 290.119 nel 2024 (+47,2%).",
+    "Nel 2025 le domande d'asilo sono scese del 15,1%, a 128.665, secondo il rapporto Istat."
+  ],
+  "perspectives": [
+    "Istat collega parte della crescita dei permessi di studio agli sforzi di attrazione delle università.",
+    "L'istituto propone come possibile spiegazione dei permessi familiari l'anticipo delle richieste prima di requisiti più restrittivi."
+  ],
+  "unknowns": [
+    "I dati aggregati non consentono di stabilire la causa individuale di ogni rilascio o prevedere i volumi del 2026."
+  ],
+  "questions": [
+    {
+      "question": "Che cosa contano i 426.956 nuovi permessi riportati da Istat?",
+      "answer": "Sono permessi di soggiorno rilasciati nel corso del 2025 a cittadini non comunitari, non 426.956 arrivi nello stesso giorno né il numero delle domande d'asilo."
+    },
+    {
+      "question": "Come possono aumentare i permessi e diminuire contemporaneamente le domande d'asilo?",
+      "answer": "I permessi includono motivazioni differenti, fra cui famiglia, studio e lavoro, mentre le domande d'asilo sono un indicatore separato: nel 2025 i primi sono cresciuti del 47,2% e le seconde sono calate del 15,1%."
+    }
+  ],
+  "impactReason": "La composizione degli ingressi regolari è un dato importante per servizi pubblici e politiche nazionali, ma descrive il 2025 e non l'andamento quotidiano.",
+  "sources": [
+    {
+      "outlet": "ANSA",
+      "title": "Number of residence permits issued in Italy rose 47% in 2025 says Istat",
+      "url": "https://www.ansa.it/english/news/general_news/2026/10/22/number-of-residence-permits-issued-in-italy-rose-47-in-2025-says-istat_80999b65-7c72-4b67-a983-efd47a63c3be.html",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Sky TG24",
+      "title": "Immigrazione, permessi di soggiorno record: nel 2025 +47%. Dati Istat",
+      "url": "https://tg24.sky.it/cronaca/2026/10/24/immigrazione-permessi-soggiorno-2025-istat",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Portale Integrazione Migranti",
+      "title": "Istat: più permessi di soggiorno, meno domande di asilo",
+      "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/4985",
+      "publishedAt": "2026-10-22",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+    "alt": "Illustrazione editoriale originale e simbolica: Istat: 426.956 nuovi permessi di soggiorno nel 2025, il 47,2% in più",
+    "credit": "O — original editorial vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

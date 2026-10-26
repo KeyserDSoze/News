@@ -1,0 +1,73 @@
+{
+  "id": "tor-exit-relays-ssh-email-interception",
+  "rank": 5,
+  "category": "technology",
+  "title": "Tor, un rapporto descrive l'intercettazione di SSH attraverso 333 nodi d'uscita",
+  "dek": "Nell'attacco osservato dal 2 al 5 ottobre i nodi compromessi reindirizzavano le connessioni verso server controllati dagli aggressori.",
+  "summary": "Un'indagine tecnica diffusa nella settimana del 20 ottobre descrive la compromissione di 333 nodi d'uscita Tor, usati per intercettare connessioni SSH e tentare di forzare traffico email non cifrato tra il 2 e il 5 ottobre. Ars Technica e The Hacker News hanno ricostruito il meccanismo. Il caso non dimostra che l'intera rete Tor o tutte le comunicazioni cifrate siano state violate.",
+  "body": [
+    "Un ricercatore della comunità Tor ha documentato il 20 ottobre una campagna che ha coinvolto 333 nodi d'uscita della rete, in gran parte fra il 2 e il 5 ottobre. Ars Technica e The Hacker News hanno raccontato come il traffico di determinati protocolli potesse essere deviato quando raggiungeva uno dei server compromessi. L'origine del problema è diversa da una rottura generale della crittografia di Tor.",
+    "I nodi d'uscita sono i punti in cui il traffico instradato da Tor raggiunge i servizi Internet esterni. Nella campagna, le connessioni SSH venivano dirottate verso uno di dodici server degli aggressori. Un utente che ignorava l'avviso di chiave host cambiata poteva consegnare le proprie credenziali e permettere ulteriori accessi abusivi.",
+    "Gli operatori compromessi bloccavano alcune porte normalmente usate dalla posta cifrata, tentando di favorire collegamenti senza cifratura. I rapporti non stabiliscono se i tentativi di downgrade delle email siano riusciti. Le connessioni HTTPS che mantenevano correttamente la cifratura non risultano per questo automaticamente leggibili dai gestori dei nodi d'uscita.",
+    "Le indagini indicano un primo compromesso amministrativo risalente ad agosto, in parte legato a credenziali riutilizzate. Il ricercatore ha confrontato le chiavi SSH osservate attraversando circa tremila nodi, individuando le deviazioni. Il numero delle persone effettivamente danneggiate rimane sconosciuto; i protocolli end-to-end e gli avvisi sulle chiavi restano essenziali."
+  ],
+  "facts": [
+    "Una campagna ha coinvolto 333 nodi d'uscita Tor fra il 2 e il 5 ottobre 2026.",
+    "Le connessioni SSH potevano essere reindirizzate verso dodici server controllati dagli aggressori."
+  ],
+  "perspectives": [
+    "Il ricercatore Kaba descrive la verifica delle chiavi SSH come strumento decisivo per rilevare l'attacco.",
+    "Gli analisti osservano che la cifratura end-to-end riduce il rischio anche quando il nodo d'uscita è ostile."
+  ],
+  "unknowns": [
+    "Il numero di vittime reali e il successo delle modifiche al traffico email non sono accertati."
+  ],
+  "questions": [
+    {
+      "question": "Come poteva un nodo d'uscita Tor rubare una password SSH?",
+      "answer": "Deviava la sessione su server degli aggressori e mostrava una chiave host inattesa; l'utente che ignorava l'allarme e digitava la password la esponeva all'intercettore."
+    },
+    {
+      "question": "La compromissione di 333 nodi rende leggibili tutte le connessioni Tor?",
+      "answer": "No. I nodi d'uscita ostili possono manipolare alcuni protocolli e percorsi, ma la cifratura end-to-end valida come HTTPS continua a proteggere il contenuto dalle letture sul nodo."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "La campagna segnala un rischio operativo concreto per protocolli sensibili usati attraverso Tor, con danni effettivi ancora da quantificare.",
+  "tags": [
+    "Tor",
+    "SSH",
+    "privacy"
+  ],
+  "sources": [
+    {
+      "outlet": "Ars Technica",
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Hacker News",
+      "title": "Attackers Hijacked Over 300 Tor Exit Nodes to Intercept SSH and Email Traffic",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html?hl=en&m=1",
+      "publishedAt": "2026-10-21",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Tor Project volunteers",
+      "title": "Incident report by Kaba on compromised exit nodes",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "publishedAt": "2026-10-20",
+      "role": "analysis"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/tor-exit-relays-ssh-email-interception.svg",
+    "alt": "Illustrazione originale simbolica: Tor, un rapporto descrive l'intercettazione di SSH attraverso 333 nodi d'uscita",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/tor-exit-relays-ssh-email-interception.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "serbia-student-list-election-victory",
+  "rank": 2,
+  "category": "politics",
+  "impact": 3.5,
+  "tags": [
+    "Serbia",
+    "students",
+    "elections"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Al Jazeera",
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/serbia-student-list-election-victory.svg",
+    "alt": "Original symbolic editorial illustration, not a photograph: Serbian student protest and parliamentary vote",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/serbia-student-list-election-victory.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Serbia's Vučić concedes defeat as student-backed list heads for parliamentary majority",
+  "dek": "Projections give the Students' List roughly 135–140 of 250 seats, following a movement that grew out of nearly two years of demonstrations.",
+  "summary": "Serbian leader Aleksandar Vučić acknowledged defeat in the 25 October snap parliamentary election to a student-backed list. Reuters, the Guardian and Al Jazeera reported preliminary projections of about 135–140 seats out of 250 for the Students' List. The movement grew from protests following the November 2024 Novi Sad station canopy collapse, which killed 16 people. Official seat totals and the formation of a new government remain ahead.",
+  "body": [
+    "Serbia's snap parliamentary election on 25 October produced a major political reversal. Aleksandar Vučić, a dominant figure in national politics since 2014, acknowledged that his Serbian Progressive Party had lost to a student-backed slate of candidates. Early estimates cited by Reuters and the Guardian put the Students' List on approximately 135–140 of the parliament's 250 seats, against a little over 100 for the governing party. These are projections rather than final certification of each constituency's result.",
+    "The movement traces its origins to the November 2024 collapse of a railway-station canopy in Novi Sad, which killed 16 people. Students and other residents demanded accountability for the public works project and protested what they described as corruption and a lack of institutional transparency. The demonstrations developed into an electoral campaign bringing together academics, professionals and other civil-society figures. Vučić has denied allegations that corruption was systemic under his leadership.",
+    "Turnout was estimated at around 68–70%, unusually high for recent Serbian elections. Crowds filled streets in Belgrade after Vučić conceded. Election observers cited by the Guardian also described suspected intimidation, irregularities and tensions at some polling stations. Such reports require investigation and should not be treated as proof that all votes or the overall result were compromised.",
+    "A projected parliamentary majority is not the same as an installed government. The newly elected candidates must select leadership, form a cabinet and define policies on corruption, European integration, Kosovo and relations with Russia and China. The list's diverse membership helped unite protesters but could complicate programmatic agreement. Vučić's concession is established; the precise institutional consequences depend on the certified result and subsequent constitutional steps."
+  ],
+  "facts": [
+    "Vučić acknowledged his party's defeat in the 25 October snap parliamentary election.",
+    "Early projections put the Students' List at approximately 135–140 of the 250 seats, pending certification."
+  ],
+  "perspectives": [
+    "Student-backed candidates and supporters describe the vote as a demand for institutional accountability and democratic renewal.",
+    "Vučić conceded the result but has denied accusations of systemic corruption against his government."
+  ],
+  "unknowns": [
+    "The certified seat allocation, investigations of reported irregularities and identity of the next prime minister remain unresolved."
+  ],
+  "questions": [
+    {
+      "question": "How many seats could Serbia's student-backed list win?",
+      "answer": "Projections reported by Reuters and the Guardian gave it roughly 135–140 of the 250 parliamentary seats, enough for a possible majority but subject to the official count."
+    },
+    {
+      "question": "What event helped turn Serbia's student protests into a nationwide movement?",
+      "answer": "The November 2024 collapse of a canopy at Novi Sad railway station killed 16 people. Demands for accountability and transparency later evolved into the student-backed election campaign."
+    }
+  ],
+  "impactReason": "A projected majority for a protest-born movement could alter Serbia's institutions and regional relationships, although the outcome depends on forming a government."
+}

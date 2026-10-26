@@ -1,0 +1,73 @@
+{
+  "id": "istat-residence-permits-2025-report",
+  "rank": 5,
+  "category": "society",
+  "impact": 2.5,
+  "tags": [
+    "Istat",
+    "residency",
+    "migration"
+  ],
+  "title": "Italy issued 426,956 new residence permits in 2025, Istat reports",
+  "dek": "The report released on 22 October shows a 47.2% increase, driven particularly by family and study permits, while asylum applications fell.",
+  "summary": "Italy's statistics agency Istat reported on 22 October 2026 that 426,956 new residence permits were issued to non-EU citizens during 2025, 47.2% above 2024's 290,119. Family permits rose 61.2% and study permits 76%, while asylum applications declined 15.1%. These are annual administrative measures, not a count of arrivals on the publication date.",
+  "body": [
+    "Istat released its report on non-EU residents on Thursday 22 October, covering the calendar year 2025. It recorded 426,956 newly issued residence permits compared with 290,119 in 2024, an increase of 47.2%. ANSA and Sky TG24 reported on the release. This is an annual administrative statistic, not the number of people entering Italy on any particular day.",
+    "The increase was especially pronounced for permits based on family reasons, up 61.2%, and study, up 76%. Work-related permits grew 45.9%. Distinguishing these categories matters: permits issued to reunite families, attend university or take a job do not all reflect applications for international protection.",
+    "In the same report, asylum applications fell 15.1%, from 151,120 in 2024 to 128,665 in 2025. Territorial commissions rejected 70% of the initial applications they examined, a different denominator from all newly granted residence permits. Combining the figures as if they were one process would misrepresent the administrative system.",
+    "Istat identified the 2025 new-permit total as the second highest in fifteen years, behind the 2022 peak associated with arrivals from Ukraine. The agency discussed possible explanations involving universities' international recruitment and family applications filed before tighter conditions. These are interpretations of aggregate patterns, not proof of why every individual applied."
+  ],
+  "facts": [
+    "Italy issued 426,956 new permits in 2025 versus 290,119 in 2024, a 47.2% rise.",
+    "Istat recorded 128,665 asylum applications in 2025, 15.1% fewer than in 2024."
+  ],
+  "perspectives": [
+    "Istat associated the rise in study permits partly with universities' recruitment of overseas students.",
+    "The agency suggested earlier family applications before stricter requirements as one possible factor."
+  ],
+  "unknowns": [
+    "The aggregate figures cannot establish each applicant's motives or forecast the 2026 total."
+  ],
+  "questions": [
+    {
+      "question": "What do Istat's 426,956 new permits measure?",
+      "answer": "They count residence permits issued to non-EU nationals throughout 2025, not arrivals on one day or the number of asylum applications."
+    },
+    {
+      "question": "How could residence permits rise while asylum applications fell?",
+      "answer": "Family, work and study permits are separate categories from asylum applications; the former rose overall by 47.2% while asylum requests declined by 15.1% during 2025."
+    }
+  ],
+  "impactReason": "Changes in legal-residence patterns inform national policy and services, but the reported figures describe 2025 rather than day-to-day arrivals.",
+  "sources": [
+    {
+      "outlet": "ANSA",
+      "title": "Number of residence permits issued in Italy rose 47% in 2025 says Istat",
+      "url": "https://www.ansa.it/english/news/general_news/2026/10/22/number-of-residence-permits-issued-in-italy-rose-47-in-2025-says-istat_80999b65-7c72-4b67-a983-efd47a63c3be.html",
+      "publishedAt": "2026-10-22",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Sky TG24",
+      "title": "Immigrazione, permessi di soggiorno record: nel 2025 +47%. Dati Istat",
+      "url": "https://tg24.sky.it/cronaca/2026/10/24/immigrazione-permessi-soggiorno-2025-istat",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Portale Integrazione Migranti",
+      "title": "Istat: più permessi di soggiorno, meno domande di asilo",
+      "url": "https://www.integrazionemigranti.gov.it/it-it/Ricerca-news/Dettaglio-news/id/4985",
+      "publishedAt": "2026-10-22",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+    "alt": "Original symbolic editorial illustration: Italy issued 426,956 new residence permits in 2025, Istat reports",
+    "credit": "O — original editorial vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/istat-residence-permits-2025-report.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

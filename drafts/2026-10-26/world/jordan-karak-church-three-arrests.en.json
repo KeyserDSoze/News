@@ -1,0 +1,73 @@
+{
+  "id": "jordan-karak-church-three-arrests",
+  "rank": 4,
+  "category": "world",
+  "title": "Jordan arrests three suspects over deadly Karak church attack",
+  "dek": "Police report a shootout during the 26 October arrests; the death toll from Friday's church attack has been updated to nine.",
+  "summary": "Jordanian security forces announced on Monday 26 October that three men had been arrested in connection with a 23 October attack during a funeral at a Greek Orthodox church in Karak. Police said the men were wounded in a shootout at an abandoned house. Reuters and AP now report nine people killed in the original attack, up from seven in early accounts.",
+  "body": [
+    "On Monday 26 October, Jordan's Public Security Directorate announced the arrest of three suspects in the armed attack that disrupted a funeral at a Greek Orthodox church in Karak, south of Amman, on Friday. The development is an investigation update to an earlier incident, not a separate attack on the same church.",
+    "According to authorities, investigators located the three men in an abandoned house. Police say the suspects opened fire when officers approached and that security forces returned fire. All three were wounded and detained, while the directorate reported no injuries among the officers involved in Monday's operation.",
+    "Reuters and Associated Press now report nine people killed in the 23 October attack, whereas initial accounts cited seven. The latest figure needs to be distinguished from what was known when O's 24 October report was prepared. Different totals reflect different reporting times rather than proof of a new incident.",
+    "Interior Minister Mazen al-Faraya said authorities had detained the perpetrators, while King Abdullah called for a firm response. Those statements are official positions, not criminal convictions. No armed organization had claimed responsibility in the reporting reviewed, and the suspects' motives, possible affiliations and individual roles require further investigation."
+  ],
+  "facts": [
+    "Jordanian security officials announced three arrests following a shootout on 26 October.",
+    "Reuters and AP reported an updated death toll of nine from the 23 October church attack."
+  ],
+  "perspectives": [
+    "The interior minister described the arrested men as responsible for the shooting.",
+    "King Abdullah II demanded decisive security action after the attack."
+  ],
+  "unknowns": [
+    "A definitive motive, group affiliation and judicial assessment of the three suspects' responsibility remain unavailable."
+  ],
+  "questions": [
+    {
+      "question": "How did police say the three Karak attack suspects were captured?",
+      "answer": "Jordanian police said the men were hiding in an abandoned house and were wounded during a shootout with officers on 26 October; the authorities reported no officer injuries."
+    },
+    {
+      "question": "Why does the Karak death toll differ from the 24 October report?",
+      "answer": "Initial accounts listed seven dead, while Reuters and AP subsequently reported nine. These are successive updates about the 23 October shooting, not two separate attacks."
+    }
+  ],
+  "impact": 2.5,
+  "impactReason": "The killings and arrests are significant for public safety and the local community, while personal criminal responsibility has not yet been adjudicated.",
+  "tags": [
+    "Jordan",
+    "Karak",
+    "investigation"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Jordan arrests three suspects in deadly church attack, state media says",
+      "url": "https://www.reuters.com/world/middle-east/jordan-arrests-three-over-karak-church-attack-state-tv-says-2026-10-26/",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Jordanian security forces arrest 3 men for a deadly attack on a church",
+      "url": "https://abcnews.com/International/wireStory/jordanian-security-forces-arrested-men-deadly-attack-church-137562601",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/jordan-karak-church-three-arrests.svg",
+    "alt": "Original symbolic editorial illustration: Jordan arrests three suspects over deadly Karak church attack",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/jordan-karak-church-three-arrests.svg",
+    "license": "© 2026 O — original illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "related": [
+    {
+      "date": "2026-10-24",
+      "section": "world",
+      "id": "karak-jordan-church-attack"
+    }
+  ]
+}

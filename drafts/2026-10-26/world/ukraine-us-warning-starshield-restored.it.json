@@ -1,0 +1,73 @@
+{
+  "id": "ukraine-us-warning-starshield-restored",
+  "rank": 9,
+  "category": "world",
+  "title": "Zelensky annuncia il ripristino degli avvisi statunitensi sui missili; resta il nodo Starshield",
+  "dek": "L'intervista del 25 ottobre aggiorna le difficoltà segnalate venerdì sui collegamenti satellitari militari; mancano riscontri tecnici indipendenti completi.",
+  "summary": "Il 25 ottobre Volodymyr Zelensky ha dichiarato che gli avvisi americani sugli attacchi balistici russi erano stati pienamente ripristinati. Ha riferito anche la rimozione di alcuni limiti alle prestazioni di Starshield, servizio distinto dal più noto Starlink. Reuters riporta la sua versione; AP ha descritto il più ampio confronto con SpaceX e le contestazioni sul servizio. Le affermazioni del presidente non equivalgono a un audit tecnico indipendente.",
+  "body": [
+    "Il presidente ucraino Volodymyr Zelensky ha detto il 25 ottobre, in un'intervista a TSN riportata da Reuters, che gli Stati Uniti hanno ripristinato pienamente gli avvisi anticipati sui lanci di missili balistici russi. Pochi giorni prima Kiev aveva denunciato interruzioni o insufficienze di alcuni servizi di allerta; la nuova dichiarazione aggiorna quella situazione.",
+    "Zelensky ha collegato il miglioramento a contatti diplomatici con l'inviato statunitense Steve Witkoff a Oslo e ha affermato che il servizio Starshield di SpaceX era tornato utilizzabile ad alte velocità dal 24 ottobre. La cifra di 420 chilometri orari menzionata riguarda le condizioni operative di movimento, non la velocità di trasmissione dei dati satellitari.",
+    "Associated Press ha riportato separatamente lo scontro fra autorità ucraine ed Elon Musk sulle condizioni d'uso di Starlink e sulle restrizioni per i droni. Starlink civile e Starshield militare non sono prodotti equivalenti: limitazioni introdotte per determinati impieghi non provano automaticamente che ogni unità ucraina sia rimasta senza connessione o allerta.",
+    "Gli avvisi anticipati possono aiutare le difese ad organizzare intercettazioni e dare preavviso ai civili, ma non garantiscono di fermare ciascun missile. Al momento le fonti documentano con certezza le dichiarazioni di Kiev e i contenziosi pubblici, mentre l'effettiva portata del ripristino nelle diverse unità operative richiede conferme tecniche ulteriori."
+  ],
+  "facts": [
+    "Zelensky ha dichiarato il 25 ottobre che gli avvisi statunitensi sugli attacchi balistici erano stati pienamente ripristinati.",
+    "AP documenta una controversia distinta su Starlink e le restrizioni di utilizzo per i droni ucraini."
+  ],
+  "perspectives": [
+    "Zelensky collega gli sviluppi ai contatti con l'inviato americano Witkoff.",
+    "SpaceX, attraverso Musk, ha sostenuto che alcuni usi di Starlink violassero le condizioni del servizio; Kiev contesta tale versione."
+  ],
+  "unknowns": [
+    "Le prestazioni effettive di Starshield per tutte le unità e il quadro delle decisioni tecniche non sono documentati in modo indipendente e completo."
+  ],
+  "questions": [
+    {
+      "question": "Perché gli avvisi statunitensi sui missili balistici sono importanti per l'Ucraina?",
+      "answer": "Possono anticipare l'arrivo dei lanci, consentendo alla difesa aerea di reagire e alle autorità di allertare i civili; non assicurano l'intercettazione di tutti i missili."
+    },
+    {
+      "question": "Che differenza c'è tra le limitazioni citate per Starlink e quelle di Starshield?",
+      "answer": "Starlink è un servizio satellitare di connettività generalista, mentre Starshield è concepito per usi governativi e militari; AP e Reuters hanno descritto controversie e condizioni operative che non possono essere considerate automaticamente identiche."
+    }
+  ],
+  "impact": 3,
+  "impactReason": "La connettività e la prevenzione degli attacchi incidono sulla difesa ucraina e sulla popolazione, pur restando da verificare la portata tecnica del ripristino.",
+  "tags": [
+    "Ucraina",
+    "missili",
+    "Starshield"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
+      "url": "https://www.reuters.com/business/media-telecom/zelenskiy-says-us-warnings-ballistic-strikes-have-fully-resumed-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+      "url": "https://apnews.com/article/0c6e685ee4637529ec64c1d6a902cc94",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Zelensky, i problemi su Starlink e Starshield non sono ancora stati risolti",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/23/zelensky-i-problemi-su-starlink-e-starshield-non-sono-ancora-stati-risolti_457c525c-74ef-4dbe-9ab3-1b6f5649a3db.html",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/ukraine-us-warning-starshield-restored.svg",
+    "alt": "Illustrazione editoriale simbolica: Zelensky annuncia il ripristino degli avvisi statunitensi sui missili; resta il nodo Starshield",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/ukraine-us-warning-starshield-restored.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

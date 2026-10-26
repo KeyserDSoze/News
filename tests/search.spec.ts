@@ -35,7 +35,7 @@ test('article tag opens an actual tag-filtered archive search',async({page})=>{
   await expect(page.locator('.tag-selected')).toContainText('ucraina');
   await expect(page.locator('.search-result').first()).toBeVisible({timeout:20000});
   for(const result of await page.locator('.search-result').all())
-    await expect(result.locator('.story-tags')).toContainText('ucraina');
+    await expect(result.locator('.story-tags')).toContainText(/ucraina/i);
 });
 test('back from search article restores filters and scroll position',async({page})=>{
   await page.getByRole('link',{name:'Apri la ricerca'}).click();

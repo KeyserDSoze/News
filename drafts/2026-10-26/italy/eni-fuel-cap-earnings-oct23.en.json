@@ -1,0 +1,73 @@
+{
+  "id": "eni-fuel-cap-earnings-oct23",
+  "rank": 3,
+  "category": "economy",
+  "impact": 2.5,
+  "tags": [
+    "fuel",
+    "energy",
+    "Eni"
+  ],
+  "title": "Eni extends flexible fuel price ceiling as quarterly earnings rise",
+  "dek": "Chief executive Claudio Descalzi maintains the mechanism to year-end, while present €1.99 and €2.25 per-litre levels may be adjusted.",
+  "summary": "On 23 October, Eni said it would retain a fuel price ceiling mechanism at its filling stations through the end of 2026. Current levels are €1.99 per litre for petrol and €2.25 for diesel, but chief executive Claudio Descalzi stressed that market conditions and logistics may require changes. The announcement coincided with strong quarterly earnings and increased returns to shareholders.",
+  "body": [
+    "Eni confirmed on Friday 23 October that it would keep a form of fuel price cap across its filling-station network through the end of the year. Chief executive Claudio Descalzi emphasized retaining the mechanism rather than promising to freeze every listed price indefinitely. This is a commercial policy of one supplier, not a state-mandated price applicable to all fuel retailers.",
+    "Eni put the prevailing cap at €1.99 per litre for petrol and €2.25 for diesel. The company said it would reassess these thresholds as wholesale prices and the availability of supplies within its logistics system evolve. The actual cost of filling up at a particular station depends on the applicable conditions and any subsequent announced adjustment.",
+    "The policy was disclosed against a backdrop of strong corporate results. Reuters reported adjusted net profit of €2.8 billion for the third quarter, more than double the year-earlier figure, while Eni announced a €1.3 billion special dividend and an increased share buyback. Shareholder distributions and petrol pricing are separate decisions, even when reported on the same day.",
+    "Refining performance, production and the broader energy market all contributed to Eni's financial position; the earnings announcement does not establish that higher pump prices alone caused the profit increase. A flexible cap might limit some price shocks for Eni customers, yet oil-market uncertainty and individual station prices remain important qualifications."
+  ],
+  "facts": [
+    "Eni said its fuel price-cap mechanism would remain in place through December 2026.",
+    "The levels cited on 23 October were €1.99 per litre for petrol and €2.25 for diesel, both potentially subject to revision."
+  ],
+  "perspectives": [
+    "Descalzi said market trends and logistical supply conditions would influence any revision of the ceilings.",
+    "Eni presented extraordinary shareholder distributions as a reflection of stronger financial results."
+  ],
+  "unknowns": [
+    "The final cap levels through December and their effect on individual retail transactions are not yet known."
+  ],
+  "questions": [
+    {
+      "question": "Is Eni's €1.99 petrol ceiling guaranteed to stay unchanged until December?",
+      "answer": "No. Eni committed to maintaining the price-cap mechanism, but said its existing numerical thresholds could be reconsidered as market prices and supply conditions shift."
+    },
+    {
+      "question": "What quarterly profit did Eni report alongside the fuel announcement?",
+      "answer": "Reuters reported €2.8 billion in adjusted net profit for the third quarter of 2026, more than twice the year-earlier result; this is distinct from the announced retail fuel policy."
+    }
+  ],
+  "impactReason": "The pricing decision of a major supplier and stronger energy earnings matter nationally, but do not set a uniform price for all Italian motorists.",
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Eni to extend fuel price cap to year-end, CEO says",
+      "url": "https://it.investing.com/news/stock-market-news/eni-estendera-tetto-a-prezzi-carburanti-fino-a-fine-anno--descalzi-3604522",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Eni: Il tetto al prezzo per benzina e diesel proseguirà fino a fine anno",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-il-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_7f2ea08b-ce91-4f3c-90b8-ca8bf6e4c8aa.html",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "Eni boosts payout after profit doubles, shares near 20-year highs",
+      "url": "https://www.reuters.com/business/energy/eni-pay-special-dividend-lift-buyback-after-strong-third-quarter-results-2026-10-23/",
+      "publishedAt": "2026-10-23",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+    "alt": "Original symbolic editorial illustration: Eni extends flexible fuel price ceiling as quarterly earnings rise",
+    "credit": "O — original editorial vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/eni-fuel-cap-earnings-oct23.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}

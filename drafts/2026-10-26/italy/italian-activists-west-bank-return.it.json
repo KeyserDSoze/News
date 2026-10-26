@@ -1,0 +1,66 @@
+{
+  "id": "italian-activists-west-bank-return",
+  "rank": 4,
+  "category": "world",
+  "impact": 2,
+  "tags": [
+    "Cisgiordania",
+    "volontari",
+    "consolato"
+  ],
+  "title": "Rientrate cinque attiviste italiane fermate in Cisgiordania durante la raccolta delle olive",
+  "dek": "La Farnesina conferma il rimpatrio del 24 ottobre dopo il fermo di giovedì; l'episodio riporta l'attenzione sulle aggressioni durante la stagione agricola.",
+  "summary": "Cinque cittadine italiane fermate dalle autorità israeliane in Cisgiordania giovedì 22 ottobre sono state rimpatriate sabato 24, secondo il ministero degli Esteri. Erano con volontari internazionali che accompagnavano agricoltori palestinesi durante la raccolta delle olive. Il fermo e il rientro sono fatti distinti dalle accuse più generali sulle violenze dei coloni, che richiedono fonti e attribuzioni specifiche.",
+  "body": [
+    "La Farnesina ha comunicato sabato 24 ottobre il ritorno in Italia di cinque attiviste fermate giovedì dalle autorità israeliane nel territorio occupato della Cisgiordania. Reuters e ANSA hanno collegato la presenza delle donne a iniziative internazionali di accompagnamento degli agricoltori palestinesi impegnati nella raccolta stagionale delle olive nelle zone a sud di Hebron.",
+    "Secondo il ministero italiano, personale consolare aveva incontrato le cinque donne all'aeroporto di Tel Aviv venerdì sera, riferendo che apparivano in buone condizioni fisiche. Le cronache hanno indicato una precedente permanenza presso la polizia di Kiryat Arba. Rimpatrio, espulsione e valutazione della legittimità del fermo sono questioni separate e richiedono distinte verifiche.",
+    "La raccolta delle olive ha un peso rilevante nell'economia agricola palestinese ed è oggetto di tensioni ricorrenti. Reuters ha citato Yesh Din, organizzazione israeliana per i diritti umani, che ha documentato oltre 330 episodi di violenza legati alla raccolta nell'anno in corso. Il dato appartiene al monitoraggio dell'organizzazione e non costituisce una sentenza su ciascun episodio.",
+    "Il ministro degli Esteri Antonio Tajani aveva chiesto chiarimenti sul trattamento dei cittadini italiani. Il rientro chiude il problema immediato del loro trattenimento, ma non risolve le questioni più ampie sulla libertà di accesso ai terreni, la protezione dei coltivatori o eventuali responsabilità. Eventuali valutazioni giuridiche successive dovranno essere attribuite ai relativi organi."
+  ],
+  "facts": [
+    "Il ministero degli Esteri italiano ha confermato il rimpatrio delle cinque attiviste il 24 ottobre 2026.",
+    "Le attiviste erano state fermate il 22 ottobre mentre accompagnavano agricoltori palestinesi in Cisgiordania."
+  ],
+  "perspectives": [
+    "Tajani ha criticato il fermo e chiesto alle autorità israeliane chiarimenti.",
+    "L'organizzazione israeliana Yesh Din ha segnalato numerosi episodi di violenza dei coloni durante la raccolta delle olive."
+  ],
+  "unknowns": [
+    "Non sono disponibili decisioni giudiziarie definitive sulla legittimità dei singoli fermi o sulle responsabilità negli episodi collegati."
+  ],
+  "questions": [
+    {
+      "question": "Quando sono tornate in Italia le cinque volontarie fermate presso Kiryat Arba?",
+      "answer": "La Farnesina ha confermato il rimpatrio sabato 24 ottobre, due giorni dopo il fermo avvenuto giovedì 22 mentre accompagnavano coltivatori palestinesi."
+    },
+    {
+      "question": "Perché la stagione delle olive rende particolarmente delicata la presenza di volontari in Cisgiordania?",
+      "answer": "La raccolta richiede accesso ai terreni agricoli e, secondo le organizzazioni di monitoraggio citate da Reuters, è segnata da aggressioni e ostacoli ai coltivatori; i volontari cercano di accompagnarli e documentare quanto accade."
+    }
+  ],
+  "impactReason": "Il rimpatrio chiude un caso consolare italiano ma richiama condizioni di sicurezza e diritti più ampie in Cisgiordania.",
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Five Italian activists held in West Bank have been repatriated, ministry says",
+      "url": "https://www.reuters.com/world/middle-east/five-italian-activists-held-west-bank-have-been-repatriated-ministry-says-2026-10-24/",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Attiviste italiane espulse da Israele. Atteso il rientro in Italia",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/24/attiviste-italiane-espulse-da-israele.-atteso-il-rientro-in-italia_9b783e6a-ae93-41de-ab9b-63414f183e13.html",
+      "publishedAt": "2026-10-24",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/italian-activists-west-bank-return.svg",
+    "alt": "Illustrazione editoriale originale e simbolica: Rientrate cinque attiviste italiane fermate in Cisgiordania durante la raccolta delle olive",
+    "credit": "O — original editorial vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/italian-activists-west-bank-return.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
