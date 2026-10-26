@@ -1,0 +1,73 @@
+{
+  "id": "php2shell-critical-security-patches",
+  "rank": 3,
+  "category": "technology",
+  "title": "PHP, correzioni urgenti per due vulnerabilità di esecuzione remota",
+  "dek": "PHP2Shell coinvolge CVE-2026-109618 e CVE-2026-109619; chi gestisce server esposti deve applicare le versioni corrette.",
+  "summary": "Il 21 ottobre il gruppo di sicurezza di PHP ha rilasciato versioni correttive per due gravi vulnerabilità del runtime, soprannominate PHP2Shell. I problemi possono consentire esecuzione di codice remoto senza autenticazione in configurazioni esposte, con rischio particolarmente elevato per mod_php. Sono disponibili PHP 8.5.12, 8.4.27, 8.3.36 e 8.2.35.",
+  "body": [
+    "Il 21 ottobre il progetto PHP ha rilasciato aggiornamenti di sicurezza urgenti per due vulnerabilità del linguaggio diffusamente utilizzato dai server web. I difetti sono identificati da CVE-2026-109618 e CVE-2026-109619 e sono stati descritti con il nome collettivo PHP2Shell. BleepingComputer e Ars Technica hanno ricostruito gli avvisi e la corsa alle patch.",
+    "Entrambi i difetti coinvolgono stati di memoria incoerenti durante la gestione anomala delle richieste web. Uno può consentire esecuzione remota di codice attraverso una catena legata alla gestione della memoria; l'altro include uno scenario di uso di memoria dopo la liberazione. Gli aggressori potrebbero operare con i privilegi del processo web, che non equivalgono necessariamente ai privilegi di amministratore del sistema.",
+    "Le release corrette indicate dal progetto sono PHP 8.5.12, 8.4.27, 8.3.36 e 8.2.35. Per versioni non più supportate l'intervento dipende dai pacchetti del distributore o da un aggiornamento di piattaforma. Le mitigazioni temporanee per configurazione possono ridurre alcune vie di attacco, ma gli sviluppatori sottolineano che non sostituiscono l'installazione delle correzioni.",
+    "Il rischio maggiore segnalato riguarda mod_php; sono interessati anche altri modi di eseguire PHP quando le richieste esterne raggiungono il runtime. Segnalazioni di tentativi di sfruttamento erano emerse prima del rilascio. Questo non dimostra che ogni sito PHP sia stato violato: esposizione, versione, configurazione e log sono elementi distinti da controllare."
+  ],
+  "facts": [
+    "Il progetto PHP ha pubblicato patch per CVE-2026-109618 e CVE-2026-109619 il 21 ottobre.",
+    "Le versioni corrette elencate sono 8.5.12, 8.4.27, 8.3.36 e 8.2.35."
+  ],
+  "perspectives": [
+    "Il team PHP ritiene il rischio particolarmente elevato per mod_php e considera le patch la difesa definitiva.",
+    "Ricercatori e fornitori di sicurezza hanno segnalato tentativi di sfruttamento prima del rilascio."
+  ],
+  "unknowns": [
+    "La quantità complessiva di server compromessi e l'efficacia di mitigazioni particolari in ogni configurazione non sono determinate."
+  ],
+  "questions": [
+    {
+      "question": "Quali versioni PHP correggono i due problemi PHP2Shell?",
+      "answer": "Per i rami supportati le versioni indicate sono PHP 8.5.12, 8.4.27, 8.3.36 e 8.2.35; gli altri rami richiedono indicazioni dal proprio distributore o migrazione."
+    },
+    {
+      "question": "Perché le regole del firewall non sostituiscono l'aggiornamento del runtime?",
+      "answer": "Le regole possono bloccare vettori di attacco noti, ma la causa risiede nella gestione della memoria del runtime PHP: solo la patch corregge il difetto alla radice."
+    }
+  ],
+  "impact": 3.5,
+  "impactReason": "Difetti nel runtime di una piattaforma web diffusissima possono esporre molti sistemi a codice remoto; la gravità è documentata e le patch esistono.",
+  "tags": [
+    "PHP",
+    "sicurezza",
+    "patch"
+  ],
+  "sources": [
+    {
+      "outlet": "BleepingComputer",
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "publishedAt": "2026-10-21",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Ars Technica",
+      "title": "PHP maintainers tell web devs to prepare themselves for critical security patches",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "publishedAt": "2026-10-20",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Broadcom",
+      "title": "PHP2Shell vulnerabilities allow remote code execution in PHP runtimes",
+      "url": "https://www.broadcom.com/support/security-center/protection-bulletin/php2shell-vulnerabilities-allow-remote-code-execution-in-php-runtimes",
+      "publishedAt": "2026-10-22",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/php2shell-critical-security-patches.svg",
+    "alt": "Illustrazione originale simbolica: PHP, correzioni urgenti per due vulnerabilità di esecuzione remota",
+    "credit": "O — original vector illustration",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/php2shell-critical-security-patches.svg",
+    "license": "© 2026 O — original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
