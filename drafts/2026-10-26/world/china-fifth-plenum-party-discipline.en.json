@@ -1,0 +1,66 @@
+{
+  "id": "china-fifth-plenum-party-discipline",
+  "rank": 7,
+  "category": "politics",
+  "title": "China's Communist Party opens fifth plenum focused on internal discipline",
+  "dek": "The Central Committee meets from 26 to 29 October as Xi Jinping presses officials to implement party directives and strengthen oversight.",
+  "summary": "China's Communist Party began its four-day fifth Central Committee plenum in Beijing on 26 October. Reuters and Associated Press report a declared focus on internal discipline, anti-corruption and implementation of central government priorities. The largely closed-door meeting may influence future political decisions, but personnel speculation must not be presented as appointments already made.",
+  "body": [
+    "China's Communist Party opened a four-day Central Committee meeting in Beijing on Monday 26 October. The fifth plenum since the 2022 party congress is mostly closed to public observation. Reuters and Associated Press independently described stricter internal discipline and organizational governance as the main subjects announced for the gathering.",
+    "President Xi Jinping presented a draft document on rigorous party management and the implementation of central directives, according to official reports carried by Reuters. The leadership says it wants tighter supervision, continued anti-corruption enforcement and less administrative inaction. These are announced policy aims, not yet independently measured improvements in bureaucratic performance.",
+    "The meeting takes place ahead of the party congress expected in 2027 and has attracted attention for possible signals about leadership changes. Associated Press noted the extensive reshuffling and removals affecting senior military and civilian officials. Analysts' estimates of those changes should be distinguished from a complete, verified official personnel ledger.",
+    "Because delegates meet behind closed doors, the authoritative picture of adopted measures will depend on eventual statements and documents. Possible discussions about appointments, structural changes or succession should not be reported as confirmed decisions before the party releases the relevant information. Longer-term political effects will require later assessment."
+  ],
+  "facts": [
+    "China's fifth Central Committee plenum began on 26 October and is scheduled to run through 29 October.",
+    "Party discipline and implementation of central directives are stated themes of the session."
+  ],
+  "perspectives": [
+    "Official Chinese accounts describe stronger party supervision as essential to governing effectiveness.",
+    "Analysts cited by AP view the gathering as a possible signal ahead of 2027 leadership decisions."
+  ],
+  "unknowns": [
+    "Final adopted measures, personnel decisions and their practical administrative consequences are not yet established."
+  ],
+  "questions": [
+    {
+      "question": "What is the fifth plenum's role within China's Communist Party?",
+      "answer": "It is a meeting of the party's Central Committee between its five-year congresses, used to consider strategic decisions; the announced 2026 agenda emphasizes internal discipline."
+    },
+    {
+      "question": "Does the plenum's opening settle China's 2027 leadership appointments?",
+      "answer": "No. Personnel changes may be discussed, but only official decisions can establish them; predictions about succession are not appointments."
+    }
+  ],
+  "impact": 3,
+  "impactReason": "Governance rules within the party ruling one of the world's largest economies may have enduring reach, though concrete outcomes remain to be assessed.",
+  "tags": [
+    "China",
+    "plenum",
+    "governance"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "China's Xi opens Communist Party plenum, aims for firm governance measures",
+      "url": "https://www.marketscreener.com/news/china-s-xi-opens-communist-party-plenum-aims-for-firm-governance-measures-ce785cdfd080f022",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "What to know about China's plenum as Xi seeks stronger Communist Party discipline",
+      "url": "https://apnews.com/article/328a5ecc91ce19ff98c7f437341e0f3a",
+      "publishedAt": "2026-10-26",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/china-fifth-plenum-party-discipline.svg",
+    "alt": "Original symbolic editorial illustration: China's Communist Party opens fifth plenum focused on internal discipline",
+    "credit": "O — original vector artwork",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/china-fifth-plenum-party-discipline.svg",
+    "license": "© 2026 O — original illustration; all rights reserved",
+    "kind": "illustration"
+  }
+}
