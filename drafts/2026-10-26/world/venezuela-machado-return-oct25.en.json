@@ -1,0 +1,73 @@
+{
+  "id": "venezuela-machado-return-oct25",
+  "rank": 3,
+  "category": "politics",
+  "impact": 3,
+  "tags": [
+    "Venezuela",
+    "Machado",
+    "democracy"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Venezuela opposition leader Machado returns home after fraught year away",
+      "url": "https://www.reuters.com/world/americas/venezuela-opposition-leader-maria-corina-machado-returns-venezuela-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+      "url": "https://apnews.com/article/e6eff0c2ff962fd9b0f87270b24ef567",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/venezuela-machado-return-oct25.svg",
+    "alt": "Original symbolic illustration, not a photograph: return of a Venezuelan opposition leader",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/venezuela-machado-return-oct25.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Venezuela opposition leader María Corina Machado returns after months abroad",
+  "dek": "Machado reappeared in Lara state on 25 October. Her return renews pressure for elections, but no voting date has been set.",
+  "summary": "Venezuelan opposition leader and 2025 Nobel Peace Prize laureate María Corina Machado returned to the country on Sunday, 25 October, after about ten months abroad. Reuters, AP and the Guardian documented her presence in Lara state and a welcome from supporters. Machado is pressing for new elections following the US removal of Nicolás Maduro in January and the installation of interim president Delcy Rodríguez. Neither the election timetable nor the opposition's place in negotiations is settled.",
+  "body": [
+    "María Corina Machado returned to Venezuela on Sunday, 25 October 2026, after roughly ten months outside the country. The opposition leader and 2025 Nobel Peace Prize winner appeared at a church in western Lara state, where supporters greeted her. Her team released images and Reuters journalists documented the welcome. Associated Press and the Guardian also confirmed her return and reported crowds greeting her along the route towards Caracas.",
+    "Machado had spent an extended period in hiding after the disputed 2024 presidential election, from which she had been barred as a candidate. Her movement backed Edmundo González, who claimed victory based on opposition-collected polling-station records, while Nicolás Maduro's government declared the incumbent the winner. Machado left secretly in late 2025 to receive the Nobel Prize in Norway. Her return follows Maduro's capture by US forces in January 2026 and the appointment of Delcy Rodríguez as interim president.",
+    "The Rodríguez administration maintains ties with Washington, which has prioritized economic agreements and a negotiated transition. Machado and her supporters instead emphasize the need for a timetable for free elections and reform of electoral institutions. Reuters reported that her efforts to return had strained relations with the US administration and that her movement is not represented in all reconciliation discussions. These competing political positions do not establish how the transition will develop.",
+    "Machado's physical return is confirmed, but it is neither an election announcement nor a transfer of power. She plans to meet families of political prisoners, opposition leaders and people affected by earlier disasters. Her movement is also collecting information intended to help update overseas Venezuelans' voter registrations in the future. The interim government's willingness to allow full participation, the safeguards for voting and the prospects for a credible election remain open questions."
+  ],
+  "facts": [
+    "Machado returned to Venezuela on 25 October 2026 and met supporters in Lara state.",
+    "Delcy Rodríguez remained interim president and no presidential election date had been set at the time of Machado's return."
+  ],
+  "perspectives": [
+    "Machado and her movement argue that a new election is essential for democratic transition.",
+    "Washington has prioritized cooperation with the Rodríguez administration and reconciliation talks, according to the reporting reviewed."
+  ],
+  "unknowns": [
+    "The timing of any new presidential election and Machado's movement's role in formal institutional negotiations remain unresolved."
+  ],
+  "questions": [
+    {
+      "question": "Where did María Corina Machado reappear on 25 October?",
+      "answer": "She appeared at a church in Venezuela's Lara state, greeted by supporters. Reuters, AP and the Guardian documented her return after months abroad."
+    },
+    {
+      "question": "Does Machado's return automatically change Venezuela's government?",
+      "answer": "No. Delcy Rodríguez remains interim president and no election date has been announced. Machado intends to press for voting and reforms, which require separate institutional decisions."
+    }
+  ],
+  "impactReason": "The return of a central opposition figure could influence Venezuela's political transition and regional relationships, but institutional consequences remain uncertain."
+}

@@ -1,0 +1,73 @@
+{
+  "id": "clarity-gastric01-sonesitatug-survival",
+  "rank": 2,
+  "category": "society",
+  "impact": 3,
+  "tags": [
+    "oncologia",
+    "stomaco",
+    "fase3"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "AstraZeneca's stomach cancer drug extends overall survival, late-stage trial data finds",
+      "url": "https://www.reuters.com/legal/litigation/astrazenecas-stomach-cancer-drug-clears-bar-extending-overall-survival-late-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "CancerNetwork",
+      "title": "Sonesitatug Vedotin Improves OS in Pretreated CLDN18.2+ Gastroesophageal Cancer",
+      "url": "https://www.cancernetwork.com/view/sonesitatug-vedotin-improves-os-in-pretreated-cldn18-2-gastroesophageal-cancer",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "AstraZeneca",
+      "title": "Sonesitatug vedotin reduced the risk of death by 42% in 2nd- and later-line CLDN18.2-positive advanced gastric/GEJ cancers in CLARITY-Gastric01",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/sonesitatug-vedotin-reduced-the-risk-of-death-by-42-pct-in-2nd-and-later-line-cldn182-positive-advanced-gastricgej-cancers-in-clarity-gastric01.html",
+      "publishedAt": "2026-10-25",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+    "alt": "Illustrazione simbolica originale, non una fotografia: studio sul tumore gastrico e farmaco mirato",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Tumore gastrico avanzato, CLARITY-Gastric01 rileva un aumento della sopravvivenza",
+  "dek": "Nel sottogruppo trattato dalla terza linea in poi, la mediana è 10 mesi con sonesitatug vedotin contro 5 con la terapia scelta dal medico.",
+  "summary": "Il 25 ottobre al congresso ESMO sono stati presentati i risultati dello studio di fase III CLARITY-Gastric01 sul farmaco sperimentale sonesitatug vedotin per tumori gastroesofagei avanzati positivi alla proteina CLDN18.2. Nel gruppo trattato dalla terza linea in poi, la sopravvivenza mediana è stata di 10 mesi contro 5 con le terapie di confronto, secondo Reuters, CancerNetwork e AstraZeneca. Il beneficio osservato non equivale a guarigione né a un'approvazione regolatoria automatica.",
+  "body": [
+    "Il 25 ottobre 2026 sono stati presentati al congresso ESMO di Madrid i risultati dello studio randomizzato di fase III CLARITY-Gastric01. Il trial ha valutato sonesitatug vedotin, un coniugato anticorpo-farmaco sperimentale diretto contro la proteina CLDN18.2, in persone con tumore gastrico o gastroesofageo avanzato già sottoposte ad altre cure. Il farmaco è progettato per riconoscere cellule che esprimono il bersaglio e trasportare un agente citotossico; ciò non implica che colpisca esclusivamente le cellule tumorali.",
+    "Nel sottogruppo che aveva già ricevuto almeno due linee di trattamento, uno degli endpoint principali, la sopravvivenza globale mediana è stata di 10,0 mesi con sonesitatug vedotin contro 5,0 con la terapia scelta dal medico. L'hazard ratio per morte è stato 0,47, pari a una riduzione relativa stimata del 53% nel periodo osservato. Nell'intera popolazione trattata dalla seconda linea in poi la mediana è stata 10,6 contro 6,4 mesi, con hazard ratio di 0,58.",
+    "Lo studio ha incluso tumori con CLDN18.2 rilevabile in almeno il 25% delle cellule, un criterio meno restrittivo rispetto a quello usato in altri programmi terapeutici. Secondo l'analisi presentata, gli eventi avversi correlati di grado 3 o superiore hanno interessato il 36,4% dei pazienti trattati con il nuovo farmaco e il 44,8% del gruppo di confronto. Disturbi gastrointestinali rimangono importanti; la frequenza degli eventi gravi non esaurisce il profilo di sicurezza.",
+    "Un punto decisivo riguarda gli endpoint: pur mostrando una tendenza favorevole, il confronto sulla sopravvivenza libera da progressione nell'intera popolazione non ha superato la soglia statistica prespecificata, secondo CancerNetwork e AstraZeneca. Il trial è aperto e sponsorizzato dal produttore, elementi da considerare insieme alla randomizzazione. I dati di sopravvivenza sono promettenti per pazienti selezionati, ma serviranno la valutazione delle autorità regolatorie e informazioni ulteriori su qualità di vita, durata del beneficio e sicurezza."
+  ],
+  "facts": [
+    "CLARITY-Gastric01 ha riportato sopravvivenza mediana di 10,0 contro 5,0 mesi nella popolazione dalla terza linea in poi.",
+    "Nella popolazione complessiva dalla seconda linea in poi la mediana era 10,6 contro 6,4 mesi; l'endpoint di sopravvivenza libera da progressione non ha raggiunto la soglia prespecificata."
+  ],
+  "perspectives": [
+    "Gli sperimentatori interpretano il beneficio sulla sopravvivenza globale come un possibile avanzamento per pazienti con tumori CLDN18.2-positivi già trattati.",
+    "Il produttore AstraZeneca sottolinea l'estensione potenziale della popolazione eleggibile; la decisione clinica e regolatoria richiede una valutazione indipendente."
+  ],
+  "unknowns": [
+    "Restano da chiarire il beneficio nel lungo periodo, la qualità di vita e il giudizio dei regolatori sull'insieme degli endpoint e sulla sicurezza."
+  ],
+  "questions": [
+    {
+      "question": "A quali pazienti si riferisce il confronto 10 contro 5 mesi di CLARITY-Gastric01?",
+      "answer": "Al sottogruppo con tumore gastroesofageo avanzato CLDN18.2-positivo che aveva già ricevuto almeno due trattamenti precedenti; il dato è la sopravvivenza globale mediana dei gruppi, non una previsione individuale."
+    },
+    {
+      "question": "Perché nello studio CLARITY-Gastric01 è importante distinguere sopravvivenza globale e progressione?",
+      "answer": "La sopravvivenza globale è migliorata in modo statisticamente significativo, mentre l'endpoint prespecificato di sopravvivenza libera da progressione nell'intera popolazione non ha raggiunto la soglia prevista. Sono misure diverse e vanno riportate entrambe."
+    }
+  ],
+  "impactReason": "Il trial randomizzato mostra un miglioramento della sopravvivenza in un gruppo di pazienti con poche opzioni, ma la mancata significatività di un endpoint e la valutazione regolatoria impongono cautela."
+}

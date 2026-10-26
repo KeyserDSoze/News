@@ -1,0 +1,73 @@
+{
+  "id": "venezuela-machado-return-oct25",
+  "rank": 3,
+  "category": "politics",
+  "impact": 3,
+  "tags": [
+    "Venezuela",
+    "Machado",
+    "democrazia"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Venezuela opposition leader Machado returns home after fraught year away",
+      "url": "https://www.reuters.com/world/americas/venezuela-opposition-leader-maria-corina-machado-returns-venezuela-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+      "url": "https://apnews.com/article/e6eff0c2ff962fd9b0f87270b24ef567",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+      "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/venezuela-machado-return-oct25.svg",
+    "alt": "Illustrazione simbolica originale, non una fotografia: ritorno di una leader dell'opposizione venezuelana",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/venezuela-machado-return-oct25.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "Venezuela, María Corina Machado torna nel Paese dopo mesi all'estero",
+  "dek": "La leader dell'opposizione è riapparsa nello Stato di Lara il 25 ottobre. Il ritorno riapre il confronto sulle elezioni, ma non definisce una data per il voto.",
+  "summary": "María Corina Machado, leader dell'opposizione venezuelana e premio Nobel per la pace 2025, è tornata nel Paese domenica 25 ottobre dopo circa dieci mesi all'estero. Reuters, AP e Guardian documentano la sua presenza nello Stato di Lara e l'accoglienza di sostenitori. Machado chiede nuove elezioni dopo la rimozione di Nicolás Maduro da parte degli Stati Uniti a gennaio e l'insediamento della presidente ad interim Delcy Rodríguez. La data delle elezioni e il ruolo dell'opposizione nei negoziati non sono ancora definiti.",
+  "body": [
+    "María Corina Machado è tornata in Venezuela domenica 25 ottobre 2026, dopo aver trascorso circa dieci mesi fuori dal Paese. La leader dell'opposizione e premio Nobel per la pace 2025 è comparsa presso una chiesa nello Stato occidentale di Lara, dove è stata accolta da sostenitori; il suo gruppo ha diffuso immagini e giornalisti Reuters hanno documentato l'accoglienza. Associated Press e Guardian confermano il rientro e descrivono le manifestazioni di sostegno lungo il percorso verso Caracas.",
+    "Machado aveva vissuto a lungo nascosta dopo le contestate elezioni del 2024, dalle quali era stata esclusa come candidata. Il suo movimento sostenne Edmundo González, che rivendicò la vittoria sulla base di verbali raccolti dall'opposizione, mentre il governo di Nicolás Maduro dichiarò il presidente uscente vincitore. Machado lasciò segretamente il Venezuela alla fine del 2025 per ricevere il Nobel in Norvegia. Il suo ritorno segue la cattura di Maduro da parte delle forze statunitensi nel gennaio 2026 e l'insediamento ad interim di Delcy Rodríguez.",
+    "Il governo Rodríguez mantiene rapporti con Washington, che ha privilegiato accordi economici e una transizione negoziata. Machado e i suoi sostenitori chiedono invece un calendario per elezioni libere e riforme delle istituzioni elettorali. Reuters riferisce che i tentativi di rientro della leader avevano creato tensioni con l'amministrazione statunitense e che il suo movimento non partecipa a tutti i tavoli di riconciliazione. Le dichiarazioni delle parti non bastano a stabilire come si evolverà il processo politico.",
+    "Il ritorno di Machado è un fatto confermato, ma non equivale alla convocazione delle urne né a un passaggio di poteri. La leader ha annunciato incontri con famiglie di prigionieri politici, esponenti dell'opposizione e persone colpite da precedenti disastri. Il suo movimento sta anche raccogliendo dati per facilitare un futuro aggiornamento delle liste elettorali dei venezuelani all'estero. Restano da verificare il grado di apertura del governo ad interim, le garanzie di partecipazione e la possibilità di un voto credibile."
+  ],
+  "facts": [
+    "Machado è tornata in Venezuela il 25 ottobre 2026 e ha incontrato sostenitori nello Stato di Lara.",
+    "Delcy Rodríguez continua a guidare l'esecutivo ad interim; al momento del rientro di Machado non era stata fissata una data per le presidenziali."
+  ],
+  "perspectives": [
+    "Machado e il suo movimento sostengono che una nuova elezione sia necessaria per una transizione democratica.",
+    "Washington ha dato priorità alla collaborazione con l'esecutivo Rodríguez e a negoziati di riconciliazione, secondo le cronache consultate."
+  ],
+  "unknowns": [
+    "Non è definito quando saranno convocate nuove elezioni né se il movimento di Machado entrerà nei negoziati istituzionali in corso."
+  ],
+  "questions": [
+    {
+      "question": "Dove è riapparsa María Corina Machado il 25 ottobre?",
+      "answer": "Nello Stato venezuelano di Lara, presso una chiesa dove è stata accolta da sostenitori. Il suo ritorno è stato documentato da Reuters, AP e Guardian dopo mesi trascorsi all'estero."
+    },
+    {
+      "question": "Il rientro di Machado cambia automaticamente il governo del Venezuela?",
+      "answer": "No. Delcy Rodríguez resta presidente ad interim e non è stata annunciata una data elettorale. Machado intende usare il rientro per chiedere elezioni e riforme, ma servono decisioni istituzionali distinte."
+    }
+  ],
+  "impactReason": "Il ritorno di una figura centrale dell'opposizione può incidere sulla transizione venezuelana e sui rapporti regionali, ma gli effetti istituzionali restano incerti."
+}

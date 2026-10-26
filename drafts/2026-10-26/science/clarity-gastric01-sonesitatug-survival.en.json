@@ -1,0 +1,73 @@
+{
+  "id": "clarity-gastric01-sonesitatug-survival",
+  "rank": 2,
+  "category": "society",
+  "impact": 3,
+  "tags": [
+    "oncology",
+    "gastric",
+    "phase3"
+  ],
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "AstraZeneca's stomach cancer drug extends overall survival, late-stage trial data finds",
+      "url": "https://www.reuters.com/legal/litigation/astrazenecas-stomach-cancer-drug-clears-bar-extending-overall-survival-late-2026-10-25/",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "CancerNetwork",
+      "title": "Sonesitatug Vedotin Improves OS in Pretreated CLDN18.2+ Gastroesophageal Cancer",
+      "url": "https://www.cancernetwork.com/view/sonesitatug-vedotin-improves-os-in-pretreated-cldn18-2-gastroesophageal-cancer",
+      "publishedAt": "2026-10-25",
+      "role": "reporting"
+    },
+    {
+      "outlet": "AstraZeneca",
+      "title": "Sonesitatug vedotin reduced the risk of death by 42% in 2nd- and later-line CLDN18.2-positive advanced gastric/GEJ cancers in CLARITY-Gastric01",
+      "url": "https://www.astrazeneca.com/media-centre/press-releases/2026/sonesitatug-vedotin-reduced-the-risk-of-death-by-42-pct-in-2nd-and-later-line-cldn182-positive-advanced-gastricgej-cancers-in-clarity-gastric01.html",
+      "publishedAt": "2026-10-25",
+      "role": "official"
+    }
+  ],
+  "image": {
+    "src": "drafts/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+    "alt": "Original symbolic illustration, not a photograph: targeted drug study in advanced gastric cancer",
+    "credit": "O — illustrazione vettoriale originale",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/2026-10-26-research-draft/drafts/2026-10-26/assets/clarity-gastric01-sonesitatug-survival.svg",
+    "license": "© 2026 O — Original editorial illustration; all rights reserved",
+    "kind": "illustration"
+  },
+  "title": "CLARITY-Gastric01 reports longer survival with sonesitatug vedotin in advanced gastric cancer",
+  "dek": "Among patients receiving third-line or later treatment, median survival was 10 months with the investigational drug versus 5 with physician-selected therapy.",
+  "summary": "Results of the phase III CLARITY-Gastric01 study were presented at ESMO on 25 October. The trial examined investigational sonesitatug vedotin in previously treated advanced CLDN18.2-positive gastroesophageal cancer. In the third-line or later group, median overall survival was 10 months compared with 5 for physician-selected treatment, according to Reuters, CancerNetwork and AstraZeneca. The result is neither a cure rate nor an automatic regulatory approval.",
+  "body": [
+    "On 25 October 2026, investigators presented findings from the randomized phase III CLARITY-Gastric01 trial at the ESMO congress in Madrid. The study evaluated sonesitatug vedotin, an investigational antibody-drug conjugate targeting CLDN18.2, in patients with advanced gastric or gastroesophageal cancer who had already received other treatments. The drug is designed to recognize cells expressing the target and deliver a cytotoxic payload, which does not imply exclusive action on cancer cells.",
+    "Among patients who had received at least two previous lines of therapy, one of the trial's primary endpoint populations, median overall survival was 10.0 months with sonesitatug vedotin versus 5.0 months with physician-selected treatment. The hazard ratio for death was 0.47, corresponding to an estimated 53% relative reduction during follow-up. Across the broader second-line or later population, median overall survival was 10.6 versus 6.4 months, with a hazard ratio of 0.58.",
+    "The study included tumours with CLDN18.2 expression in at least 25% of cells, a less restrictive threshold than that used in some other treatment programs. Grade 3 or higher treatment-related adverse events occurred in 36.4% of the experimental group and 44.8% of controls, according to the presented analysis. Gastrointestinal adverse effects remain relevant, and the rate of severe events alone cannot describe the full safety profile.",
+    "An important distinction concerns the trial's endpoints. Although the numerical trend favored the experimental treatment, progression-free survival in the overall population did not meet its prespecified statistical threshold, according to CancerNetwork and AstraZeneca. The study was open-label and sponsor-funded, factors to weigh alongside randomization. The survival findings are encouraging for selected patients, but regulators still need to review the total evidence, including quality of life, durability and safety."
+  ],
+  "facts": [
+    "CLARITY-Gastric01 reported median overall survival of 10.0 versus 5.0 months in its third-line or later population.",
+    "In the broader second-line or later population, median survival was 10.6 versus 6.4 months; the prespecified progression-free survival endpoint did not meet its threshold."
+  ],
+  "perspectives": [
+    "Investigators view the overall-survival gain as a potential advance for previously treated CLDN18.2-positive disease.",
+    "Sponsor AstraZeneca highlights the potentially broader eligible population, but clinical and regulatory decisions require independent assessment."
+  ],
+  "unknowns": [
+    "Longer-term benefit, quality of life and the regulatory assessment of the complete endpoint and safety profile remain uncertain."
+  ],
+  "questions": [
+    {
+      "question": "Which patients are represented by the 10-versus-5-month CLARITY-Gastric01 comparison?",
+      "answer": "It refers to patients with advanced CLDN18.2-positive gastroesophageal cancer who had already received at least two prior treatment lines. The figures are group medians, not predictions for individual patients."
+    },
+    {
+      "question": "Why distinguish overall survival from progression-free survival in CLARITY-Gastric01?",
+      "answer": "Overall survival improved significantly, while the prespecified progression-free survival endpoint in the overall population did not cross its required statistical threshold. They measure different outcomes and both results matter."
+    }
+  ],
+  "impactReason": "Randomized evidence of longer survival in a hard-to-treat population is important, but one endpoint's nonsignificance and pending regulatory review require caution."
+}
