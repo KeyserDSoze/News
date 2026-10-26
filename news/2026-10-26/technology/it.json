@@ -326,8 +326,8 @@
           "answer": "Deviava la sessione su server degli aggressori e mostrava una chiave host inattesa; l'utente che ignorava l'allarme e digitava la password la esponeva all'intercettore."
         },
         {
-          "question": "La compromissione di 333 nodi rende leggibili tutte le connessioni Tor?",
-          "answer": "No. I nodi d'uscita ostili possono manipolare alcuni protocolli e percorsi, ma la cifratura end-to-end valida come HTTPS continua a proteggere il contenuto dalle letture sul nodo."
+          "question": "Quale traffico restava protetto quando i nodi d'uscita Tor erano compromessi?",
+          "answer": "La compromissione permetteva agli aggressori di manipolare connessioni SSH con chiavi host non verificate e alcuni collegamenti email, ma i contenuti trasmessi tramite cifratura end-to-end HTTPS correttamente verificata rimanevano non leggibili ai gestori del nodo d'uscita."
         }
       ],
       "impact": 2.5,
