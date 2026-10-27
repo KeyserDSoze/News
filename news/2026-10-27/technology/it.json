@@ -1,0 +1,381 @@
+{
+  "date": "2026-10-27",
+  "language": "it",
+  "section": "technology",
+  "publishedAt": "2026-10-27T16:30:00Z",
+  "editorialNote": "Testi in lavorazione: approvazione e messa online subordinate al completamento delle quattro rubriche.",
+  "articles": [
+    {
+      "id": "anthropic-sec-s1-filing-ipo",
+      "rank": 1,
+      "category": "technology",
+      "impact": 3,
+      "impactReason": "Il deposito avvicina una delle principali imprese IA ai mercati pubblici e porta sotto scrutinio rischi e governance, senza quotazione già avvenuta.",
+      "tags": [
+        "Anthropic",
+        "Borsa",
+        "SEC"
+      ],
+      "title": "Anthropic deposita il prospetto S-1: prepara la quotazione, non è ancora in Borsa",
+      "dek": "Il documento è arrivato alla SEC il 26 ottobre; prezzi e numero delle azioni da offrire restano da definire.",
+      "summary": "Il 26 ottobre Anthropic ha depositato presso la Securities and Exchange Commission statunitense un modulo S-1 in vista di una possibile offerta pubblica iniziale delle sue azioni ordinarie di classe A. Il registro SEC indica l'accettazione della documentazione quel giorno alle 09:00:11 dell'orario riportato dal sistema. È un passaggio formale e nuovo rispetto alle indiscrezioni sui preparativi diffuse nei giorni precedenti.",
+      "body": [
+        "Il 26 ottobre Anthropic ha depositato presso la Securities and Exchange Commission statunitense un modulo S-1 in vista di una possibile offerta pubblica iniziale delle sue azioni ordinarie di classe A. Il registro SEC indica l'accettazione della documentazione quel giorno alle 09:00:11 dell'orario riportato dal sistema. È un passaggio formale e nuovo rispetto alle indiscrezioni sui preparativi diffuse nei giorni precedenti.",
+        "La società, produttrice della famiglia di modelli Claude, ha indicato l'intenzione di quotarsi sul Nasdaq Global Select Market con il simbolo ANT. Il comunicato aziendale specifica però che numero di azioni e fascia di prezzo non erano ancora stati determinati. Il deposito non significa che l'offerta sia efficace, che le azioni siano vendibili o che il primo giorno di contrattazioni sia fissato.",
+        "AP e Guardian hanno esaminato le dimensioni potenziali dell'operazione e le implicazioni di governance. Le cifre circolate sulle possibili valutazioni restano stime, mentre il prospetto distingue ricavi, perdite contabili e strutture di voto. Una perdita di bilancio straordinaria non coincide automaticamente con la liquidità spesa nello stesso periodo; interpretare i numeri richiede la lettura delle note contabili.",
+        "Per gli investitori le questioni centrali sono accesso al capitale, rischi tecnologici, diritti di voto e sostenibilità delle spese computazionali. Per il pubblico pesa anche l'impatto dei sistemi di IA su lavoro, sicurezza e responsabilità. Saranno i documenti aggiornati della SEC e le condizioni definitive dell'offerta a chiarire quali ipotesi diventano termini vincolanti."
+      ],
+      "facts": [
+        "Anthropic ha depositato un modulo S-1 presso la SEC il 26 ottobre 2026.",
+        "L'azienda propone il simbolo Nasdaq ANT, senza ancora indicare prezzo e numero definitivo delle azioni."
+      ],
+      "perspectives": [
+        "Anthropic presenta la quotazione come possibile strumento di raccolta di capitali per la crescita.",
+        "La stampa economica discute valutazioni prospettiche e la concentrazione del potere di voto."
+      ],
+      "unknowns": [
+        "I termini economici e la data effettiva del debutto non sono stati definiti."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa autorizza concretamente il deposito S-1 di Anthropic?",
+          "answer": "Avvia l'esame informativo e regolamentare dell'offerta potenziale; la stessa Anthropic chiarisce che la registrazione non è ancora efficace e non consente vendite prima dei passaggi previsti."
+        },
+        {
+          "question": "Perché il simbolo ANT non prova che Anthropic sia già quotata?",
+          "answer": "ANT è il ticker proposto per il Nasdaq. Finché la documentazione non diventa efficace e l'offerta non viene lanciata alle condizioni finali, la sigla resta un progetto di quotazione."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk",
+          "url": "https://apnews.com/article/ca2f4c282bef3201a392e59e3df2300c",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Anthropic files for stock market listing",
+          "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "US SEC",
+          "title": "Anthropic PBC S-1 filing 0001628280-26-067168",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/0001628280-26-067168-index.html",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        },
+        {
+          "outlet": "Anthropic",
+          "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+          "url": "https://www.anthropic.com/news/s1-sec",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
+        "alt": "Illustrazione originale simbolica della notizia anthropic-sec-s1-filing-ipo, non fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "meta-equity-offerings-pricing-97-billion",
+      "rank": 2,
+      "category": "economy",
+      "impact": 3,
+      "impactReason": "La scala dei potenziali finanziamenti può incidere su investimenti IA, mercati azionari e proprietà societaria; buona parte resta condizionata.",
+      "tags": [
+        "Meta",
+        "capitale",
+        "infrastrutture"
+      ],
+      "title": "Meta aggiorna il piano di raccolta a 97,5 miliardi di dollari potenziali",
+      "dek": "Offerte già prezzate e programma futuro non sono la stessa cosa: l'annuncio del 27 ottobre modifica quello del 26.",
+      "summary": "Meta Platforms ha annunciato il 26 ottobre un piano per finanziare infrastrutture di intelligenza artificiale attraverso offerte di titoli e un eventuale programma successivo di vendita di azioni. Nell'aggiornamento reso noto tra il 26 e il 27 ottobre, la componente di azioni ordinarie è stata portata da 22,5 a 25 miliardi di dollari, secondo la documentazione ufficiale e Reuters.",
+      "body": [
+        "Meta Platforms ha annunciato il 26 ottobre un piano per finanziare infrastrutture di intelligenza artificiale attraverso offerte di titoli e un eventuale programma successivo di vendita di azioni. Nell'aggiornamento reso noto tra il 26 e il 27 ottobre, la componente di azioni ordinarie è stata portata da 22,5 a 25 miliardi di dollari, secondo la documentazione ufficiale e Reuters.",
+        "Meta ha comunicato il prezzo di 625 dollari per azione ordinaria della relativa offerta e 50 dollari per ciascuna delle 250 milioni di azioni depositarie collegate a titoli privilegiati convertibili. Insieme le due componenti prezzate valgono circa 37,5 miliardi di dollari ai prezzi pubblicati, prima delle opzioni aggiuntive e dei costi; non sono 97,5 miliardi già incassati.",
+        "Il resto del totale massimo, 60 miliardi, è un programma at-the-market contemplato per il futuro in relazione alle azioni di classe C. La società dice che tempi e condizioni non sono ancora stabiliti e che non esiste garanzia che il programma parta o raggiunga il limite. Confondere capacità autorizzata e vendite effettive produrrebbe una misura fuorviante della raccolta.",
+        "L'operazione rende visibile quanto capitale richieda il potenziamento dei centri dati e delle risorse computazionali. Al tempo stesso nuove emissioni possono modificare partecipazioni e diritti economici degli azionisti, con effetti diversi fra azioni ordinarie e privilegiate. L'evoluzione va seguita attraverso condizioni finali, eventuale chiusura delle offerte e programmi realmente attivati."
+      ],
+      "facts": [
+        "L'offerta di azioni ordinarie di Meta è stata aumentata a 25 miliardi e prezzata a 625 dollari per azione.",
+        "Il programma futuro di 60 miliardi è prospettato ma non garantito."
+      ],
+      "perspectives": [
+        "Meta collega il piano alla crescita delle infrastrutture per l'intelligenza artificiale.",
+        "Gli osservatori del mercato si interrogano sugli effetti per gli azionisti e sui ritorni degli investimenti."
+      ],
+      "unknowns": [
+        "Non sono determinati importo effettivamente collocato del programma futuro e sua data di avvio."
+      ],
+      "questions": [
+        {
+          "question": "Da quali componenti deriva il potenziale totale di 97,5 miliardi di Meta?",
+          "answer": "Dalle offerte già prezzate per circa 37,5 miliardi, inclusi 25 miliardi in azioni ordinarie e 12,5 in depositary shares, più un programma futuro fino a 60 miliardi, non ancora avviato."
+        },
+        {
+          "question": "Perché il programma at-the-market non va contato come denaro già raccolto?",
+          "answer": "Permetterebbe vendite graduali ai prezzi di mercato solo se istituito e utilizzato. Meta dichiara che potrebbe non essere avviato o essere usato soltanto in parte."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Meta eyes record $97.5 billion equity raise to fund AI expansion",
+          "url": "https://live.euronext.com/en/financial-news/meta-eyes-record-975-billion-equity-raise-fund-ai-expansion",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Meta launches large equity raise to fund AI expansion",
+          "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Meta Investor Relations",
+          "title": "Meta announces pricing of common and preferred stock offerings",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Pricing-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
+        "alt": "Illustrazione originale simbolica della notizia meta-equity-offerings-pricing-97-billion, non fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "microsoft-voluntary-exit-60000-eligible",
+      "rank": 3,
+      "category": "technology",
+      "impact": 3,
+      "impactReason": "L'ampia platea potenziale incide sul lavoro nel settore tecnologico e sulla riorganizzazione IA, ma la riduzione effettiva resta sconosciuta.",
+      "tags": [
+        "Microsoft",
+        "lavoro",
+        "IA"
+      ],
+      "title": "Microsoft propone uscite volontarie a circa 60 mila dipendenti idonei",
+      "dek": "L'offerta non equivale a 60 mila licenziamenti: accettazioni e uscite dipenderanno dalle scelte dei lavoratori.",
+      "summary": "Il 26 ottobre Microsoft ha avviato un programma a tempo di uscita volontaria per determinati gruppi di dipendenti in Stati Uniti, Canada, Regno Unito e India. Circa 60 mila persone, secondo Business Insider e informazioni confermate a TechCrunch, potrebbero ricevere un'offerta. I destinatari sono idonei a valutare condizioni economiche di uscita: non è un annuncio di 60 mila licenziamenti già effettuati.",
+      "body": [
+        "Il 26 ottobre Microsoft ha avviato un programma a tempo di uscita volontaria per determinati gruppi di dipendenti in Stati Uniti, Canada, Regno Unito e India. Circa 60 mila persone, secondo Business Insider e informazioni confermate a TechCrunch, potrebbero ricevere un'offerta. I destinatari sono idonei a valutare condizioni economiche di uscita: non è un annuncio di 60 mila licenziamenti già effettuati.",
+        "Una comunicazione della responsabile delle risorse umane Amy Coleman ha descritto il programma come un'opzione per chi valuta un futuro fuori dall'azienda e come mezzo per adattare le organizzazioni. Le aree interessate includono, secondo i resoconti, alcuni team collegati a Copilot, Windows, Xbox e funzioni amministrative, ma non tutte le divisioni sono coinvolte. Le condizioni differiscono per livello e anzianità.",
+        "Business Insider ha esaminato condizioni di indennizzo collegate alla retribuzione base, mentre altri editori hanno riportato la tempistica e l'estensione. Microsoft contava circa 223 mila dipendenti a giugno: la quota potenzialmente interessata è dunque consistente. Tuttavia il tasso di adesione non è comunicato e qualsiasi confronto con licenziamenti obbligatori richiede di distinguere programmi differenti.",
+        "La proposta arriva mentre Microsoft investe in infrastrutture di intelligenza artificiale e riorganizza competenze e costi. Gli effetti su carichi di lavoro e prodotti dipenderanno da quanti dipendenti aderiranno e da come saranno sostituite o redistribuite le funzioni. Valutare la misura come riduzione già realizzata falserebbe il dato occupazionale disponibile al 27 ottobre."
+      ],
+      "facts": [
+        "Le offerte sono volontarie e dirette a una platea stimata di circa 60 mila addetti.",
+        "L'azienda aveva circa 223 mila dipendenti a giugno 2026."
+      ],
+      "perspectives": [
+        "Amy Coleman presenta l'opzione come sostegno alle transizioni individuali e alla flessibilità dei gruppi di lavoro.",
+        "I giornali economici collegano la misura alla pressione dei costi e agli investimenti in IA."
+      ],
+      "unknowns": [
+        "Il numero di dipendenti che accetteranno l'offerta non è stato comunicato."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa significa precisamente che 60 mila lavoratori Microsoft sono idonei al buyout?",
+          "answer": "Significa che rientrano nella platea a cui può essere proposta un'uscita con indennità, non che debbano lasciare l'azienda. Solo le adesioni effettive determineranno quante persone usciranno."
+        },
+        {
+          "question": "Come vengono determinate le condizioni economiche delle uscite?",
+          "answer": "I resoconti di Business Insider descrivono indennità legate al livello e all'anzianità, insieme ad altri benefici. Non esiste quindi un unico importo uguale per tutti i lavoratori idonei."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Business Insider",
+          "title": "Here's what Microsoft's buyout offers actually include",
+          "url": "https://www.businessinsider.com/microsoft-employee-buyout-offer-2026-10",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TechCrunch",
+          "title": "Microsoft offers buyouts to around 60,000 employees",
+          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Microsoft is offering buyouts around 60,000 employees",
+          "url": "https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
+        "alt": "Illustrazione originale simbolica della notizia microsoft-voluntary-exit-60000-eligible, non fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "cadence-maestro-ai-chip-design",
+      "rank": 4,
+      "category": "technology",
+      "impact": 2.5,
+      "impactReason": "La progettazione elettronica è un'infrastruttura tecnologica fondamentale, ma il nuovo modello è ancora in accesso selettivo e i benchmark sono aziendali.",
+      "tags": [
+        "Cadence",
+        "semiconduttori",
+        "modelli"
+      ],
+      "title": "Cadence lancia Maestro: modelli IA specializzati per progettare semiconduttori",
+      "dek": "I clienti potranno usare modelli nei propri centri dati; vantaggi dichiarati dal produttore ancora da misurare fuori dai test iniziali.",
+      "summary": "Il 26 ottobre Cadence Design Systems ha presentato Maestro, una famiglia di modelli di intelligenza artificiale specializzati in flussi di progettazione di chip e sistemi elettronici. Reuters e Tom's Hardware ne hanno riferito separatamente, quest'ultimo intervistando dirigenti dell'azienda. Il prodotto nasce per lavorare con agenti software che assistono ingegneri nell'uso di strumenti EDA, non per sostituire da solo l'intero processo di verifica industriale.",
+      "body": [
+        "Il 26 ottobre Cadence Design Systems ha presentato Maestro, una famiglia di modelli di intelligenza artificiale specializzati in flussi di progettazione di chip e sistemi elettronici. Reuters e Tom's Hardware ne hanno riferito separatamente, quest'ultimo intervistando dirigenti dell'azienda. Il prodotto nasce per lavorare con agenti software che assistono ingegneri nell'uso di strumenti EDA, non per sostituire da solo l'intero processo di verifica industriale.",
+        "L'azienda sostiene che i clienti potranno adottare Maestro sul cloud di Cadence, su cloud pubblici oppure in centri dati propri dietro il firewall aziendale. Questa flessibilità è rilevante perché i progetti dei semiconduttori contengono proprietà intellettuale e informazioni industriali sensibili. L'architettura consentirebbe inoltre adattamenti dei modelli su dati e flussi del singolo cliente.",
+        "Cadence cita risultati preliminari fino al 30% migliori per la qualità di specifiche attività e fino a cinque volte l'efficienza in termini di token rispetto a modelli generici. Sono benchmark presentati dal venditore: mancano conferme estese da prove comparabili condotte da clienti indipendenti. Inoltre 'fino a' indica il migliore risultato di un insieme di test, non il guadagno medio per ogni progetto.",
+        "Le prime versioni sono destinate a clienti selezionati nel quarto trimestre 2026. Reuters e Tom's Hardware notano il contrasto con l'approccio dell'avversaria Synopsys, che collabora con OpenAI su modelli ospitati esternamente. Il valore reale di Maestro dipenderà dalla sicurezza del flusso dati, dall'integrazione con strumenti esistenti e dalla riproducibilità delle prestazioni su chip complessi."
+      ],
+      "facts": [
+        "Maestro è stato annunciato il 26 ottobre con possibilità di utilizzo on-premises.",
+        "Le cifre 30% e 5× sono risultati iniziali rivendicati da Cadence."
+      ],
+      "perspectives": [
+        "Cadence considera i modelli specializzati più efficienti su attività EDA rispetto ai modelli generalisti.",
+        "Tom's Hardware sottolinea la differenza fra accesso iniziale e disponibilità generale."
+      ],
+      "unknowns": [
+        "Non sono pubblicati benchmark indipendenti ampi che confermino i guadagni su tutti i casi d'uso."
+      ],
+      "questions": [
+        {
+          "question": "Perché un progettista di chip può voler eseguire Cadence Maestro sul proprio hardware?",
+          "answer": "Per conservare disegni e dati proprietari all'interno delle infrastrutture aziendali, invece di inviarli necessariamente a un servizio remoto; ciò non esime dal verificare sicurezza e permessi dei sistemi locali."
+        },
+        {
+          "question": "Come vanno interpretati i miglioramenti del 30% e di 5 volte annunciati da Cadence?",
+          "answer": "Sono massimi osservati nei test iniziali dell'azienda, rispettivamente per la qualità e l'efficienza dei token. Non dimostrano prestazioni identiche su ogni chip né sostituiscono misure indipendenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house",
+          "url": "https://www.reuters.com/business/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Tom's Hardware",
+          "title": "Cadence reveals Maestro, fine-tuned AI models for chip design",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Cadence",
+          "title": "Cadence introduces Maestro AI model portfolio",
+          "url": "https://newsroom.cadence.com/press-releases/press-release-details/2026/Cadence-Introduces-Maestro-a-Domain-Specialized-AI-Model-Portfolio-to-Revolutionize-Agentic-Chip-and-System-Design/default.aspx",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
+        "alt": "Illustrazione originale simbolica della notizia cadence-maestro-ai-chip-design, non fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "temu-eu-dsa-action-plan-acceptance",
+      "rank": 5,
+      "category": "technology",
+      "impact": 3,
+      "impactReason": "Le misure riguardano un grande marketplace e la sicurezza degli acquisti nell'Unione, pur senza prova ancora della loro efficacia.",
+      "tags": [
+        "Temu",
+        "consumatori",
+        "DSA"
+      ],
+      "title": "Temu, la Commissione UE accetta il piano sui rischi di prodotti illegali",
+      "dek": "Dopo la sanzione di maggio, il marketplace deve valutare moderazione e raccomandazioni; accettare il piano non certifica la conformità.",
+      "summary": "Il 26 ottobre la Commissione europea ha comunicato di aver accettato il piano d'azione di Temu per affrontare carenze nella valutazione dei rischi di vendita di prodotti illegali ai sensi del Digital Services Act. La decisione segue una multa da 200 milioni di euro inflitta a maggio 2026. Reuters, ANSA ed Euronews hanno riportato l'aggiornamento, e la Commissione ne ha pubblicato i contenuti ufficiali.",
+      "body": [
+        "Il 26 ottobre la Commissione europea ha comunicato di aver accettato il piano d'azione di Temu per affrontare carenze nella valutazione dei rischi di vendita di prodotti illegali ai sensi del Digital Services Act. La decisione segue una multa da 200 milioni di euro inflitta a maggio 2026. Reuters, ANSA ed Euronews hanno riportato l'aggiornamento, e la Commissione ne ha pubblicato i contenuti ufficiali.",
+        "Il piano prevede cinque misure, tra cui una valutazione specifica dei rischi del marketplace e indicatori per misurare l'efficacia delle azioni correttive. Temu dovrà esaminare i limiti della moderazione, il funzionamento delle raccomandazioni e possibili strategie dei venditori per amplificare annunci problematici. Una piattaforma può infatti aumentare la visibilità dei prodotti attraverso ranking automatici e suggerimenti personalizzati.",
+        "Secondo la Commissione, Temu dispone di quattro mesi per una valutazione intermedia che coprirà un periodo fino al 30 novembre 2026. Il piano sarà inoltre sottoposto a controllo esterno indipendente. Il rapporto fra calendario della valutazione e sua conclusione non va appiattito: la data di riferimento dei dati non coincide necessariamente con il giorno in cui l'analisi sarà consegnata.",
+        "Temu ha accolto positivamente l'accettazione del piano, dichiarando di voler migliorare la sicurezza degli acquisti. Bruxelles ha però soltanto approvato un percorso di correzione e continua a verificarne l'attuazione. Una conclusione diversa — che ogni prodotto della piattaforma sia già sicuro o legale — non deriva dall'atto annunciato."
+      ],
+      "facts": [
+        "Il piano Temu è stato accettato dalla Commissione il 26 ottobre 2026.",
+        "La misura segue una sanzione da 200 milioni di euro comunicata a maggio."
+      ],
+      "perspectives": [
+        "La Commissione descrive il piano come un passo verso una migliore protezione degli utenti.",
+        "Temu afferma di investire in una maggiore capacità di conformità ai requisiti europei."
+      ],
+      "unknowns": [
+        "I risultati della verifica indipendente e l'efficacia concreta delle misure non sono ancora disponibili."
+      ],
+      "questions": [
+        {
+          "question": "In che modo i sistemi di raccomandazione di Temu entrano nel piano DSA?",
+          "answer": "La Commissione chiede di misurare se le raccomandazioni amplificano la visibilità di inserzioni di beni illegali, oltre a controllare la moderazione e la manipolazione intenzionale degli annunci."
+        },
+        {
+          "question": "Che significato ha l'accettazione del piano dopo la multa di 200 milioni?",
+          "answer": "Il regolatore ha ritenuto il programma correttivo una base accettabile per intervenire. Restano da eseguire le misure e un controllo indipendente: non equivale a una certificazione generale della sicurezza dei prodotti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "EU accepts Temu plan to remedy Digital Services Act breach",
+          "url": "https://www.reuters.com/business/retail-consumer/eu-accepts-temu-plan-remedy-digital-services-act-breach-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Ok Ue al piano della cinese Temu contro i prodotti illegali online",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/26/ok-ue-al-piano-della-cinese-temu-contro-i-prodotti-illegali-online_97b060b8-3cf3-4dfb-ade8-d9ae437d3a5e.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "European Commission",
+          "title": "La Commissione accetta il piano d'azione di Temu",
+          "url": "https://italy.representation.ec.europa.eu/notizie-ed-eventi/notizie/la-commissione-accetta-il-piano-dazione-di-temu-porre-rimedio-alla-violazione-del-regolamento-sui-2026-10-26_it",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
+        "alt": "Illustrazione originale simbolica della notizia temu-eu-dsa-action-plan-acceptance, non fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
