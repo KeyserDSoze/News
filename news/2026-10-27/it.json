@@ -3,7 +3,7 @@
   "language": "it",
   "section": "world",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "editorialNote": "Edizione Mondo del 27 ottobre: fatti e aggiornamenti datati; tutte le verifiche e la pubblicazione restano soggette ai controlli editoriali e tecnici.",
+  "editorialNote": "Rassegna del 27 ottobre 2026: sviluppi datati, dichiarazioni attribuite e limiti delle prove esplicitati in ogni notizia.",
   "articles": [
     {
       "id": "congo-ebola-10060-cases-oct27",
@@ -18,7 +18,7 @@
       ],
       "title": "RDC, oltre diecimila casi di Ebola: il bilancio ufficiale sale a 4.887 morti",
       "dek": "Il rapporto sanitario del 27 ottobre documenta 10.060 infezioni confermate; i timori di propagazione richiedono dati paese per paese.",
-      "summary": "Il 27 ottobre l'istituto di sanità pubblica della Repubblica democratica del Congo ha comunicato 10.060 casi confermati di Ebola e 4.887 decessi. La cifra rappresenta un nuovo aggiornamento dell'epidemia da virus Bundibugyo iniziata nel maggio 2026: Reuters e Associated Press riportano separatamente il superamento della soglia dei diecimila casi. Il dato non deve essere mescolato ai 9.964 casi censiti da ECDC al 24 ottobre.",
+      "summary": "Il 27 ottobre le autorità della RDC hanno riportato 10.060 casi di Ebola e 4.887 decessi, superando la soglia dei diecimila contagi confermati. L'epidemia da virus Bundibugyo è ora la più vasta documentata nel paese; i casi segnalati altrove in Africa richiedono indagini epidemiologiche distinte.",
       "body": [
         "Il 27 ottobre l'istituto di sanità pubblica della Repubblica democratica del Congo ha comunicato 10.060 casi confermati di Ebola e 4.887 decessi. La cifra rappresenta un nuovo aggiornamento dell'epidemia da virus Bundibugyo iniziata nel maggio 2026: Reuters e Associated Press riportano separatamente il superamento della soglia dei diecimila casi. Il dato non deve essere mescolato ai 9.964 casi censiti da ECDC al 24 ottobre.",
         "I conteggi collocano l'epidemia attuale sopra quella congolese del 2018–2020 per dimensioni e mortalità e, secondo Reuters, al secondo posto mondiale dopo quella dell'Africa occidentale del 2014–2016. Un confronto storico va però circoscritto alle categorie dichiarate: infezioni confermate, morti riportati e periodo di osservazione. Il numero dei morti non descrive da solo la probabilità individuale di decesso di ogni paziente.",
@@ -72,7 +72,7 @@
         "src": "news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
         "alt": "Illustrazione editoriale simbolica originale per congo-ebola-10060-cases-oct27; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -90,7 +90,7 @@
       ],
       "title": "Israele al voto: affluenza del 55,7% alle 16, nessun risultato definitivo",
       "dek": "La commissione elettorale segnala una partecipazione elevata; per governare servono almeno 61 seggi su 120.",
-      "summary": "Martedì 27 ottobre gli israeliani votano per rinnovare la Knesset dopo un periodo segnato da guerre e forti fratture politiche. La Commissione elettorale centrale ha comunicato un'affluenza del 55,7% alle 16 locali, contro il 47,5% alla stessa ora del voto del 2022. Il dato è riportato dal Times of Israel, mentre Guardian e Reuters seguono separatamente il processo elettorale. Si tratta di una fotografia parziale della giornata, non dell'affluenza definitiva.",
+      "summary": "Le elezioni israeliane del 27 ottobre registrano il 55,7% di affluenza alle ore 16 locali, il livello più alto rilevato a quell'ora. Il voto è ancora in corso e non esiste un esito definitivo: i blocchi dovranno raggiungere almeno 61 dei 120 seggi della Knesset per sostenere un governo.",
       "body": [
         "Martedì 27 ottobre gli israeliani votano per rinnovare la Knesset dopo un periodo segnato da guerre e forti fratture politiche. La Commissione elettorale centrale ha comunicato un'affluenza del 55,7% alle 16 locali, contro il 47,5% alla stessa ora del voto del 2022. Il dato è riportato dal Times of Israel, mentre Guardian e Reuters seguono separatamente il processo elettorale. Si tratta di una fotografia parziale della giornata, non dell'affluenza definitiva.",
         "Le urne sono aperte dalle 7 alle 22 locali e chi arriva in tempo può votare anche se è ancora in fila. Il confronto vede il Likud di Benjamin Netanyahu, i suoi alleati e una coalizione di opposizione che include l'ex capo dell'esercito Gadi Eisenkot. Le rilevazioni antecedenti mostrano una competizione aperta; proiezioni costruite su sondaggi precedenti non sono seggi effettivamente assegnati.",
@@ -145,7 +145,7 @@
         "src": "news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
         "alt": "Illustrazione editoriale simbolica originale per israel-election-high-turnout-voting-oct27; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -163,7 +163,7 @@
       ],
       "title": "Nuovi missili su Kyiv: vittime e danni a strutture civili il 26 ottobre",
       "dek": "Le cronache aggiornano il bilancio fra la notte e il mattino; l'attacco è distinto da quello del 22 ottobre.",
-      "summary": "Nella serata di lunedì 26 ottobre missili russi hanno colpito più punti di Kyiv, secondo le autorità ucraine e i resoconti di Reuters e Guardian. Il sindaco Vitali Klitschko ha riferito esplosioni, danni a strutture mediche e problemi in prossimità di un'infrastruttura di trasporto; Volodymyr Zelenskyy ha parlato di un impatto nell'area di un campus universitario. Questa cronologia si riferisce all'attacco del 26 ottobre, non a quello del 22 già presente nell'archivio.",
+      "summary": "Un attacco missilistico russo del 26 ottobre ha ucciso almeno una persona a Kyiv e danneggiato luoghi civili secondo le autorità ucraine. Le cronache riportano aggiornamenti diversi sui feriti, da otto a dieci; il bombardamento è distinto da quello del 22 ottobre e dalla tregua locale a Oleshky.",
       "body": [
         "Nella serata di lunedì 26 ottobre missili russi hanno colpito più punti di Kyiv, secondo le autorità ucraine e i resoconti di Reuters e Guardian. Il sindaco Vitali Klitschko ha riferito esplosioni, danni a strutture mediche e problemi in prossimità di un'infrastruttura di trasporto; Volodymyr Zelenskyy ha parlato di un impatto nell'area di un campus universitario. Questa cronologia si riferisce all'attacco del 26 ottobre, non a quello del 22 già presente nell'archivio.",
         "I bollettini delle ore immediatamente successive parlavano di almeno una persona uccisa e diversi feriti. Il Guardian ha indicato otto feriti nell'aggiornamento pubblicato la notte fra lunedì e martedì, mentre Reuters ha riportato successivamente fino a dieci feriti. La differenza può derivare dai tempi della verifica e non va appiattita in un totale unico attribuito indistintamente a entrambe le testate.",
@@ -210,7 +210,7 @@
         "src": "news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
         "alt": "Illustrazione editoriale simbolica originale per kyiv-strike-oct26-metro-healthcare; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -228,7 +228,7 @@
       ],
       "title": "Brasile, il 26 ottobre Ibovespa perde il 13,88% e scatta il circuit breaker",
       "dek": "Reazione finanziaria alla rielezione di Lula: dollaro a 5,403 real secondo Agência Brasil, senza confondere minimo e chiusura.",
-      "summary": "La borsa brasiliana ha avuto un lunedì 26 ottobre di forte volatilità dopo la rielezione di Luiz Inácio Lula da Silva nel ballottaggio del giorno prima. Agência Brasil e Folha de S.Paulo indicano una perdita di chiusura del 13,88% per l'Ibovespa, fino a circa 176.608 punti. L'evento nuovo della giornata è la reazione finanziaria e non l'esito elettorale, già trattato in precedenza.",
+      "summary": "Il 26 ottobre, dopo la rielezione di Lula, l'Ibovespa ha perso il 13,88% in chiusura e le negoziazioni sono state sospese temporaneamente da un circuit breaker. Il dollaro è salito fino a circa 5,403 real secondo Agência Brasil; il minimo infragiornaliero della borsa era stato ancora più basso.",
       "body": [
         "La borsa brasiliana ha avuto un lunedì 26 ottobre di forte volatilità dopo la rielezione di Luiz Inácio Lula da Silva nel ballottaggio del giorno prima. Agência Brasil e Folha de S.Paulo indicano una perdita di chiusura del 13,88% per l'Ibovespa, fino a circa 176.608 punti. L'evento nuovo della giornata è la reazione finanziaria e non l'esito elettorale, già trattato in precedenza.",
         "Il mercato ha interrotto temporaneamente le contrattazioni mediante il cosiddetto circuit breaker dopo un calo intraday che ha superato il 17% nel punto più basso, intorno a 169.516 punti. Le perdite di fine seduta sono risultate inferiori al minimo registrato durante la mattinata. Un titolo che parla di una caduta del 17% può quindi riferirsi a una fase del giorno e non alla chiusura ufficiale.",
@@ -282,7 +282,7 @@
         "src": "news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
         "alt": "Illustrazione editoriale simbolica originale per brazil-markets-post-election-circuit-breaker; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -300,7 +300,7 @@
       ],
       "title": "Oleshky, Russia e Ucraina confermano l'avvio della tregua umanitaria locale",
       "dek": "Il 27 ottobre stop alle ostilità nel settore della città occupata per consentire aiuti ed evacuazioni; il conflitto prosegue altrove.",
-      "summary": "Nelle prime ore del 27 ottobre Russia e Ucraina hanno dichiarato avviata una cessazione locale del fuoco nel settore di Oleshky, città occupata dai russi nell'oblast di Kherson. Reuters ha raccolto la conferma del ministero della Difesa russo e del difensore civico ucraino Dmytro Lubinets; Deutsche Welle ha seguito l'avvio della misura umanitaria. L'entrata in vigore è lo sviluppo nuovo rispetto all'accordo annunciato il 23 ottobre.",
+      "summary": "Russia e Ucraina hanno confermato l'avvio il 27 ottobre di una tregua locale a Oleshky, città occupata nella regione di Kherson. L'obiettivo è far entrare acqua, cibo e farmaci e consentire evacuazioni dopo operazioni di sminamento; l'effettivo arrivo dei soccorsi resta da confermare.",
       "body": [
         "Nelle prime ore del 27 ottobre Russia e Ucraina hanno dichiarato avviata una cessazione locale del fuoco nel settore di Oleshky, città occupata dai russi nell'oblast di Kherson. Reuters ha raccolto la conferma del ministero della Difesa russo e del difensore civico ucraino Dmytro Lubinets; Deutsche Welle ha seguito l'avvio della misura umanitaria. L'entrata in vigore è lo sviluppo nuovo rispetto all'accordo annunciato il 23 ottobre.",
         "La sospensione dovrebbe permettere il trasporto di alimenti, acqua e medicinali e l'evacuazione di residenti rimasti isolati da combattimenti, allagamenti e mine. Lubinets ha spiegato che le strade terrestri necessitano di sminamento prima che convogli e mezzi di emergenza possano raggiungere le persone. Le autorità stimano in circa duemila gli abitanti ancora presenti, ma non esiste un conteggio indipendente aggiornato per ogni quartiere.",
@@ -355,7 +355,7 @@
         "src": "news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
         "alt": "Illustrazione editoriale simbolica originale per oleshky-humanitarian-ceasefire-begins; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -373,7 +373,7 @@
       ],
       "title": "Romania, gli inquirenti attribuiscono a una rete coordinata dalla Russia l'incendio di Brașov",
       "dek": "Il 26 ottobre intelligence e procura illustrano le prove sul rogo del 14 settembre e tre indagati: attribuzioni giudiziarie, non sentenze.",
-      "summary": "Il 26 ottobre il Serviciul Român de Informații, servizio di intelligence romeno, e i procuratori anticriminalità DIICOT hanno reso noti nuovi risultati dell'indagine su un incendio scoppiato il 14 settembre nella piattaforma industriale Carfil di Brașov. Le autorità sostengono che l'episodio sia stato organizzato da una rete di sabotaggio coordinata dalla Federazione Russa. Reuters, Agerpres e Romania Insider hanno documentato la comunicazione, che non equivale a una condanna definitiva.",
+      "summary": "Il 26 ottobre intelligence e magistratura romene hanno accusato una rete coordinata dalla Russia di aver provocato l'incendio del 14 settembre nella piattaforma industriale Carfil di Brașov. Tre sospettati sono ricercati tramite mandati di arresto europei: le accuse restano soggette a verifica giudiziaria.",
       "body": [
         "Il 26 ottobre il Serviciul Român de Informații, servizio di intelligence romeno, e i procuratori anticriminalità DIICOT hanno reso noti nuovi risultati dell'indagine su un incendio scoppiato il 14 settembre nella piattaforma industriale Carfil di Brașov. Le autorità sostengono che l'episodio sia stato organizzato da una rete di sabotaggio coordinata dalla Federazione Russa. Reuters, Agerpres e Romania Insider hanno documentato la comunicazione, che non equivale a una condanna definitiva.",
         "Secondo DIICOT, le indagini riguardano tre cittadini stranieri residenti nell'Unione europea, due bielorussi e un ucraino. Due persone sono state rintracciate e poste in custodia cautelare in Germania; una terza si trova in Polonia. La magistratura romena ha emesso mandati di arresto europei e sta perseguendo procedure di estradizione. La nazionalità dei sospettati non dimostra da sola l'identità degli organizzatori.",
@@ -435,7 +435,7 @@
         "src": "news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
         "alt": "Illustrazione editoriale simbolica originale per romania-carfil-fire-sabotage-probe; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -453,7 +453,7 @@
       ],
       "title": "Iran, Arabia Saudita, Turchia e Pakistan si impegnano a proseguire i colloqui",
       "dek": "Dopo l'incontro del 26 ottobre a Teheran, una dichiarazione riferisce dialogo sulla sicurezza; non è un trattato di pace.",
-      "summary": "Delegazioni ad alto livello di Arabia Saudita, Turchia e Pakistan hanno incontrato il 26 ottobre le autorità iraniane a Teheran. La visita è avvenuta mentre attacchi degli Houthi verso l'Arabia Saudita e tensioni fra Iran, Stati Uniti e Israele alimentano la crisi regionale. Associated Press e Reuters hanno ricostruito separatamente la composizione delle delegazioni e gli obiettivi dichiarati.",
+      "summary": "Delegazioni di Iran, Arabia Saudita, Turchia e Pakistan si sono riunite il 26 ottobre a Teheran mentre la regione affronta nuove tensioni militari. Un comunicato riferisce l'intenzione di proseguire il dialogo su sicurezza e pace, senza stabilire un cessate il fuoco né un nuovo patto di difesa.",
       "body": [
         "Delegazioni ad alto livello di Arabia Saudita, Turchia e Pakistan hanno incontrato il 26 ottobre le autorità iraniane a Teheran. La visita è avvenuta mentre attacchi degli Houthi verso l'Arabia Saudita e tensioni fra Iran, Stati Uniti e Israele alimentano la crisi regionale. Associated Press e Reuters hanno ricostruito separatamente la composizione delle delegazioni e gli obiettivi dichiarati.",
         "Fra i partecipanti indicati dai governi figurano il ministro della Difesa saudita Khalid bin Salman, il capo dell'esercito pakistano Asim Munir e il direttore dell'intelligence turca Ibrahim Kalın. La diplomazia iraniana ha accolto le delegazioni, e fonti ufficiali iraniane hanno riferito una dichiarazione finale sulla volontà di continuare la cooperazione per pace e sicurezza. IranWire ha verificato il testo riferito dalla stampa di Stato.",
@@ -508,7 +508,7 @@
         "src": "news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
         "alt": "Illustrazione editoriale simbolica originale per tehran-four-country-regional-security-talks; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -526,7 +526,7 @@
       ],
       "title": "Emirati, immagini del 24 ottobre mostrano l'espansione della chiazza di petrolio",
       "dek": "Al largo di Umm Al Quwain e Sharjah proseguono interventi e chiusure; causa e nave esatta non confermate ufficialmente.",
-      "summary": "Immagini satellitari Copernicus Sentinel-2 acquisite il 24 ottobre mostrano l'allargamento di una chiazza petrolifera al largo delle coste settentrionali degli Emirati Arabi Uniti. Reuters ha riferito il 26 ottobre dell'estensione verso Umm Al Quwain e di ulteriori chiusure costiere. Testate locali come Gulf News e The National hanno seguito i provvedimenti e le operazioni di pulizia, distinguibili dalla valutazione delle immagini satellitari.",
+      "summary": "Immagini Copernicus del 24 ottobre mostrano l'espansione di una chiazza di petrolio vicino a Umm Al Quwain, negli Emirati. Le autorità hanno chiuso precauzionalmente varie spiagge e avviato valutazioni ambientali; l'identità ufficiale della petroliera e la causa della perdita non sono accertate.",
       "body": [
         "Immagini satellitari Copernicus Sentinel-2 acquisite il 24 ottobre mostrano l'allargamento di una chiazza petrolifera al largo delle coste settentrionali degli Emirati Arabi Uniti. Reuters ha riferito il 26 ottobre dell'estensione verso Umm Al Quwain e di ulteriori chiusure costiere. Testate locali come Gulf News e The National hanno seguito i provvedimenti e le operazioni di pulizia, distinguibili dalla valutazione delle immagini satellitari.",
         "Le autorità degli Emirati avevano annunciato il 23 ottobre la chiusura temporanea delle spiagge di Umm Al Quwain mentre esperti valutavano il danno. Sharjah ha limitato l'accesso alla spiaggia di Al Hamriyah e Ras Al Khaimah ha comunicato altre sospensioni precauzionali. Le chiusure proteggono frequentatori e operatori mentre la distribuzione della contaminazione può cambiare con correnti e condizioni del mare.",
@@ -581,7 +581,7 @@
         "src": "news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
         "alt": "Illustrazione editoriale simbolica originale per uae-oil-spill-widens-sentinel2-oct24; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -599,7 +599,7 @@
       ],
       "title": "Le Pen apre la campagna presidenziale e propone di riaprire la ricerca petrolifera in Francia",
       "dek": "Nel comizio del 25 ottobre promette di abolire il divieto del 2017; si tratta di programma politico, non di legge modificata.",
-      "summary": "Marine Le Pen ha lanciato il 25 ottobre a Orléans la propria campagna per le presidenziali francesi del 2027, in un evento del Rassemblement national. Associated Press e Le Monde hanno ripreso il discorso il 26 ottobre, mentre Reuters ha descritto l'impianto politico dell'intervento. La candidata ha collegato le questioni energetiche a un programma più ampio su economia, sicurezza e immigrazione.",
+      "summary": "Marine Le Pen ha avviato il 25 ottobre a Orléans la sua campagna per le presidenziali francesi del 2027, proponendo di riaprire nuove esplorazioni petrolifere. Per farlo vuole abrogare i divieti introdotti dalla legge del 2017: è una proposta elettorale, non una modifica già approvata.",
       "body": [
         "Marine Le Pen ha lanciato il 25 ottobre a Orléans la propria campagna per le presidenziali francesi del 2027, in un evento del Rassemblement national. Associated Press e Le Monde hanno ripreso il discorso il 26 ottobre, mentre Reuters ha descritto l'impianto politico dell'intervento. La candidata ha collegato le questioni energetiche a un programma più ampio su economia, sicurezza e immigrazione.",
         "Tra le proposte Le Pen ha chiesto la revoca della legge del 2017 che vieta il rilascio di nuovi permessi di ricerca di idrocarburi e limita l'esplorazione di shale gas. Ha criticato la norma associata all'ex ministro dell'Ambiente Nicolas Hulot, presentando la riapertura delle attività estrattive come strumento di autonomia energetica. Non risultano modifiche già approvate alla legislazione francese per effetto del comizio.",
@@ -654,7 +654,7 @@
         "src": "news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
         "alt": "Illustrazione editoriale simbolica originale per le-pen-campaign-oil-exploration-oct25; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -672,7 +672,7 @@
       ],
       "title": "Midterm USA, Trump fa campagna in Mississippi per difendere un seggio al Senato",
       "dek": "La visita del 26 ottobre sostiene Cindy Hyde-Smith contro Scott Colom, a una settimana dal voto del 3 novembre.",
-      "summary": "Il presidente statunitense Donald Trump è arrivato in Mississippi lunedì 26 ottobre per sostenere la senatrice repubblicana Cindy Hyde-Smith nella campagna per le elezioni di metà mandato del 3 novembre. Associated Press e Reuters hanno seguito la visita e il ruolo inatteso di uno Stato normalmente favorevole ai repubblicani. Lo sfidante democratico Scott Colom, procuratore locale, cerca di trasformare il disagio economico in una competizione più equilibrata.",
+      "summary": "Donald Trump ha fatto campagna in Mississippi il 26 ottobre a sostegno della senatrice Cindy Hyde-Smith contro il democratico Scott Colom. La visita sottolinea la competizione per il controllo del Congresso prima delle elezioni del 3 novembre; i voti anticipati nazionali non indicano chi vincerà il seggio.",
       "body": [
         "Il presidente statunitense Donald Trump è arrivato in Mississippi lunedì 26 ottobre per sostenere la senatrice repubblicana Cindy Hyde-Smith nella campagna per le elezioni di metà mandato del 3 novembre. Associated Press e Reuters hanno seguito la visita e il ruolo inatteso di uno Stato normalmente favorevole ai repubblicani. Lo sfidante democratico Scott Colom, procuratore locale, cerca di trasformare il disagio economico in una competizione più equilibrata.",
         "I repubblicani difendono una maggioranza congressuale risicata mentre i democratici cercano di conquistare seggi alla Camera e al Senato. Reuters ricorda che sono in palio tutti i 435 seggi della Camera e 35 dei 100 seggi del Senato. Una campagna presidenziale in uno Stato considerato sicuro segnala l'attenzione dei partiti, ma non è una prova che uno dei due candidati sia già in vantaggio.",
@@ -727,7 +727,7 @@
         "src": "news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
         "alt": "Illustrazione editoriale simbolica originale per us-midterms-mississippi-trump-senate-race; non è una fotografia",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }

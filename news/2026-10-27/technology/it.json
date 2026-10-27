@@ -3,7 +3,7 @@
   "language": "it",
   "section": "technology",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "editorialNote": "Testi in lavorazione: approvazione e messa online subordinate al completamento delle quattro rubriche.",
+  "editorialNote": "Rassegna del 27 ottobre 2026: sviluppi datati, dichiarazioni attribuite e limiti delle prove esplicitati in ogni notizia.",
   "articles": [
     {
       "id": "anthropic-sec-s1-filing-ipo",
@@ -18,7 +18,7 @@
       ],
       "title": "Anthropic deposita il prospetto S-1: prepara la quotazione, non è ancora in Borsa",
       "dek": "Il documento è arrivato alla SEC il 26 ottobre; prezzi e numero delle azioni da offrire restano da definire.",
-      "summary": "Il 26 ottobre Anthropic ha depositato presso la Securities and Exchange Commission statunitense un modulo S-1 in vista di una possibile offerta pubblica iniziale delle sue azioni ordinarie di classe A. Il registro SEC indica l'accettazione della documentazione quel giorno alle 09:00:11 dell'orario riportato dal sistema. È un passaggio formale e nuovo rispetto alle indiscrezioni sui preparativi diffuse nei giorni precedenti.",
+      "summary": "Anthropic ha depositato presso la SEC il 26 ottobre un prospetto S-1 per una possibile IPO delle azioni di classe A, indicando ANT come ticker Nasdaq proposto. Il deposito è un passo formale verso i mercati pubblici, ma prezzo, dimensioni e data della quotazione restano da definire.",
       "body": [
         "Il 26 ottobre Anthropic ha depositato presso la Securities and Exchange Commission statunitense un modulo S-1 in vista di una possibile offerta pubblica iniziale delle sue azioni ordinarie di classe A. Il registro SEC indica l'accettazione della documentazione quel giorno alle 09:00:11 dell'orario riportato dal sistema. È un passaggio formale e nuovo rispetto alle indiscrezioni sui preparativi diffuse nei giorni precedenti.",
         "La società, produttrice della famiglia di modelli Claude, ha indicato l'intenzione di quotarsi sul Nasdaq Global Select Market con il simbolo ANT. Il comunicato aziendale specifica però che numero di azioni e fascia di prezzo non erano ancora stati determinati. Il deposito non significa che l'offerta sia efficace, che le azioni siano vendibili o che il primo giorno di contrattazioni sia fissato.",
@@ -80,7 +80,7 @@
         "src": "news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
         "alt": "Illustrazione originale simbolica della notizia anthropic-sec-s1-filing-ipo, non fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -98,7 +98,7 @@
       ],
       "title": "Meta aggiorna il piano di raccolta a 97,5 miliardi di dollari potenziali",
       "dek": "Offerte già prezzate e programma futuro non sono la stessa cosa: l'annuncio del 27 ottobre modifica quello del 26.",
-      "summary": "Meta Platforms ha annunciato il 26 ottobre un piano per finanziare infrastrutture di intelligenza artificiale attraverso offerte di titoli e un eventuale programma successivo di vendita di azioni. Nell'aggiornamento reso noto tra il 26 e il 27 ottobre, la componente di azioni ordinarie è stata portata da 22,5 a 25 miliardi di dollari, secondo la documentazione ufficiale e Reuters.",
+      "summary": "Meta ha aggiornato il piano di finanziamento per infrastrutture IA con offerte prezzate per circa 37,5 miliardi di dollari e un possibile programma futuro fino a 60 miliardi. Il totale potenziale di 97,5 miliardi non è denaro già incassato: l'attivazione del programma futuro non è garantita.",
       "body": [
         "Meta Platforms ha annunciato il 26 ottobre un piano per finanziare infrastrutture di intelligenza artificiale attraverso offerte di titoli e un eventuale programma successivo di vendita di azioni. Nell'aggiornamento reso noto tra il 26 e il 27 ottobre, la componente di azioni ordinarie è stata portata da 22,5 a 25 miliardi di dollari, secondo la documentazione ufficiale e Reuters.",
         "Meta ha comunicato il prezzo di 625 dollari per azione ordinaria della relativa offerta e 50 dollari per ciascuna delle 250 milioni di azioni depositarie collegate a titoli privilegiati convertibili. Insieme le due componenti prezzate valgono circa 37,5 miliardi di dollari ai prezzi pubblicati, prima delle opzioni aggiuntive e dei costi; non sono 97,5 miliardi già incassati.",
@@ -153,7 +153,7 @@
         "src": "news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
         "alt": "Illustrazione originale simbolica della notizia meta-equity-offerings-pricing-97-billion, non fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -171,7 +171,7 @@
       ],
       "title": "Microsoft propone uscite volontarie a circa 60 mila dipendenti idonei",
       "dek": "L'offerta non equivale a 60 mila licenziamenti: accettazioni e uscite dipenderanno dalle scelte dei lavoratori.",
-      "summary": "Il 26 ottobre Microsoft ha avviato un programma a tempo di uscita volontaria per determinati gruppi di dipendenti in Stati Uniti, Canada, Regno Unito e India. Circa 60 mila persone, secondo Business Insider e informazioni confermate a TechCrunch, potrebbero ricevere un'offerta. I destinatari sono idonei a valutare condizioni economiche di uscita: non è un annuncio di 60 mila licenziamenti già effettuati.",
+      "summary": "Microsoft ha offerto il 26 ottobre un programma di uscita volontaria a circa 60 mila lavoratori idonei in quattro paesi. Indennità e condizioni variano; la platea di destinatari non equivale al numero di licenziamenti, che dipenderà dalle adesioni.",
       "body": [
         "Il 26 ottobre Microsoft ha avviato un programma a tempo di uscita volontaria per determinati gruppi di dipendenti in Stati Uniti, Canada, Regno Unito e India. Circa 60 mila persone, secondo Business Insider e informazioni confermate a TechCrunch, potrebbero ricevere un'offerta. I destinatari sono idonei a valutare condizioni economiche di uscita: non è un annuncio di 60 mila licenziamenti già effettuati.",
         "Una comunicazione della responsabile delle risorse umane Amy Coleman ha descritto il programma come un'opzione per chi valuta un futuro fuori dall'azienda e come mezzo per adattare le organizzazioni. Le aree interessate includono, secondo i resoconti, alcuni team collegati a Copilot, Windows, Xbox e funzioni amministrative, ma non tutte le divisioni sono coinvolte. Le condizioni differiscono per livello e anzianità.",
@@ -226,7 +226,7 @@
         "src": "news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
         "alt": "Illustrazione originale simbolica della notizia microsoft-voluntary-exit-60000-eligible, non fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -244,7 +244,7 @@
       ],
       "title": "Cadence lancia Maestro: modelli IA specializzati per progettare semiconduttori",
       "dek": "I clienti potranno usare modelli nei propri centri dati; vantaggi dichiarati dal produttore ancora da misurare fuori dai test iniziali.",
-      "summary": "Il 26 ottobre Cadence Design Systems ha presentato Maestro, una famiglia di modelli di intelligenza artificiale specializzati in flussi di progettazione di chip e sistemi elettronici. Reuters e Tom's Hardware ne hanno riferito separatamente, quest'ultimo intervistando dirigenti dell'azienda. Il prodotto nasce per lavorare con agenti software che assistono ingegneri nell'uso di strumenti EDA, non per sostituire da solo l'intero processo di verifica industriale.",
+      "summary": "Cadence ha annunciato il 26 ottobre Maestro, modelli IA specializzati per assistere la progettazione di chip e utilizzabili anche nei centri dati dei clienti. Miglioramenti fino al 30% nella qualità e cinque volte nell'efficienza sono risultati iniziali dichiarati dall'azienda, non benchmark indipendenti.",
       "body": [
         "Il 26 ottobre Cadence Design Systems ha presentato Maestro, una famiglia di modelli di intelligenza artificiale specializzati in flussi di progettazione di chip e sistemi elettronici. Reuters e Tom's Hardware ne hanno riferito separatamente, quest'ultimo intervistando dirigenti dell'azienda. Il prodotto nasce per lavorare con agenti software che assistono ingegneri nell'uso di strumenti EDA, non per sostituire da solo l'intero processo di verifica industriale.",
         "L'azienda sostiene che i clienti potranno adottare Maestro sul cloud di Cadence, su cloud pubblici oppure in centri dati propri dietro il firewall aziendale. Questa flessibilità è rilevante perché i progetti dei semiconduttori contengono proprietà intellettuale e informazioni industriali sensibili. L'architettura consentirebbe inoltre adattamenti dei modelli su dati e flussi del singolo cliente.",
@@ -299,7 +299,7 @@
         "src": "news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
         "alt": "Illustrazione originale simbolica della notizia cadence-maestro-ai-chip-design, non fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -317,7 +317,7 @@
       ],
       "title": "Temu, la Commissione UE accetta il piano sui rischi di prodotti illegali",
       "dek": "Dopo la sanzione di maggio, il marketplace deve valutare moderazione e raccomandazioni; accettare il piano non certifica la conformità.",
-      "summary": "Il 26 ottobre la Commissione europea ha comunicato di aver accettato il piano d'azione di Temu per affrontare carenze nella valutazione dei rischi di vendita di prodotti illegali ai sensi del Digital Services Act. La decisione segue una multa da 200 milioni di euro inflitta a maggio 2026. Reuters, ANSA ed Euronews hanno riportato l'aggiornamento, e la Commissione ne ha pubblicato i contenuti ufficiali.",
+      "summary": "La Commissione europea ha accettato il 26 ottobre il piano di Temu per affrontare rischi legati a prodotti illegali sotto il Digital Services Act, dopo una sanzione di maggio. Il programma comprende valutazioni e verifiche indipendenti; l'accettazione non certifica che tutte le inserzioni siano conformi.",
       "body": [
         "Il 26 ottobre la Commissione europea ha comunicato di aver accettato il piano d'azione di Temu per affrontare carenze nella valutazione dei rischi di vendita di prodotti illegali ai sensi del Digital Services Act. La decisione segue una multa da 200 milioni di euro inflitta a maggio 2026. Reuters, ANSA ed Euronews hanno riportato l'aggiornamento, e la Commissione ne ha pubblicato i contenuti ufficiali.",
         "Il piano prevede cinque misure, tra cui una valutazione specifica dei rischi del marketplace e indicatori per misurare l'efficacia delle azioni correttive. Temu dovrà esaminare i limiti della moderazione, il funzionamento delle raccomandazioni e possibili strategie dei venditori per amplificare annunci problematici. Una piattaforma può infatti aumentare la visibilità dei prodotti attraverso ranking automatici e suggerimenti personalizzati.",
@@ -372,7 +372,7 @@
         "src": "news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
         "alt": "Illustrazione originale simbolica della notizia temu-eu-dsa-action-plan-acceptance, non fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }

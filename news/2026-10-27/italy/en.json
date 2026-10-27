@@ -3,7 +3,7 @@
   "language": "en",
   "publishedAt": "2026-10-27T16:30:00Z",
   "section": "italy",
-  "editorialNote": "Edition in progress: five bilingual reports on documented 26–27 October developments; publish only after verification of every desk.",
+  "editorialNote": "27 October 2026 briefing: dated developments, attributed claims and evidence limits in every report.",
   "articles": [
     {
       "id": "electoral-law-25-court-challenges",
@@ -18,7 +18,7 @@
       ],
       "title": "Italian electoral law challenged in 25 courts",
       "dek": "Civil-society groups are challenging the reform; no court has yet ruled it unconstitutional.",
-      "summary": "On 26 October, the Rete per un voto libero e uguale announced coordinated filings in 25 Italian ordinary courts challenging the new electoral law. Organisers say more than 300 citizens joined the action, including former prime minister Romano Prodi. ANSA, RaiNews and la Repubblica reported on the announcement at the Senate.",
+      "summary": "On 26 October a civic network announced coordinated challenges to Italy's new electoral law in 25 courts, involving more than 300 signatories. The claimants object to the majority bonus and other representation rules; no final judicial findings have been issued.",
       "body": [
         "On 26 October, the Rete per un voto libero e uguale announced coordinated filings in 25 Italian ordinary courts challenging the new electoral law. Organisers say more than 300 citizens joined the action, including former prime minister Romano Prodi. ANSA, RaiNews and la Repubblica reported on the announcement at the Senate.",
         "The filings share a common legal framework but remain proceedings before individual courts. Organisers question the majority bonus, the selection of lead candidates, signature requirements for party lists and coalition arrangements. These are constitutional objections advanced by claimants, not conclusions already reached by a court.",
@@ -72,7 +72,7 @@
         "src": "news/2026-10-27/assets/electoral-law-25-court-challenges.svg",
         "alt": "Original symbolic illustration about electoral-law-25-court-challenges; not a documentary photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/electoral-law-25-court-challenges.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/electoral-law-25-court-challenges.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -90,7 +90,7 @@
       ],
       "title": "Mattarella warns on disinformation and defends public healthcare in Florence",
       "dek": "At the 26 October regional forum, the president urges institutional cooperation and appropriate AI rules.",
-      "summary": "Italian President Sergio Mattarella spoke on 26 October at Palazzo Vecchio in Florence, opening the fifth Festival of Regions and Autonomous Provinces. The presidential office's official programme confirms the scheduled noon address. The event brought together regional institutions and the Conference of Regions chaired by Massimiliano Fedriga.",
+      "summary": "At Florence's 26 October Festival of Regions, President Sergio Mattarella defended public healthcare and warned against information manipulation. He called for cooperation between levels of government and appropriate AI rules, without announcing new binding measures.",
       "body": [
         "Italian President Sergio Mattarella spoke on 26 October at Palazzo Vecchio in Florence, opening the fifth Festival of Regions and Autonomous Provinces. The presidential office's official programme confirms the scheduled noon address. The event brought together regional institutions and the Conference of Regions chaired by Massimiliano Fedriga.",
         "Mattarella described safeguarding the national health service as a priority and called for cooperation between central government and regional authorities. This was an institutional position, not an announcement of a newly approved funding allocation. Italian healthcare depends on shared responsibilities and on services and resources whose implementation must be checked locally.",
@@ -144,7 +144,7 @@
         "src": "news/2026-10-27/assets/mattarella-firenze-health-disinformation.svg",
         "alt": "Original symbolic illustration about mattarella-firenze-health-disinformation; not a documentary photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/mattarella-firenze-health-disinformation.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/mattarella-firenze-health-disinformation.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -162,7 +162,7 @@
       ],
       "title": "Italy's Tajani says Ukraine aid package is ready despite Salvini's objections",
       "dek": "The foreign minister announced a planned shipment on 26 October, not a confirmed delivery.",
-      "summary": "On 26 October, during a visit to Milan, Deputy Prime Minister and Foreign Minister Antonio Tajani said a new Italian military assistance package for Ukraine was ready and would be sent as soon as possible. ANSA reported his statement and Sky TG24 published a video of it. The accounts did not establish a detailed inventory of the package.",
+      "summary": "On 26 October Foreign Minister Antonio Tajani said a new Italian military assistance package was ready for shipment to Kyiv. His position contrasts with Matteo Salvini's proposal to stop assistance; actual delivery was not established.",
       "body": [
         "On 26 October, during a visit to Milan, Deputy Prime Minister and Foreign Minister Antonio Tajani said a new Italian military assistance package for Ukraine was ready and would be sent as soon as possible. ANSA reported his statement and Sky TG24 published a video of it. The accounts did not establish a detailed inventory of the package.",
         "Tajani was answering comments from Matteo Salvini at the League party congress the previous day. Salvini had pledged to propose stopping money and weapons shipments to Ukraine; that was a party political position, not a collective cabinet decision. Their disagreement concerns future policy, not a delivery already cancelled.",
@@ -210,7 +210,7 @@
         "src": "news/2026-10-27/assets/tajani-salvini-ukraine-aid-disagreement.svg",
         "alt": "Original symbolic illustration about tajani-salvini-ukraine-aid-disagreement; not a documentary photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/tajani-salvini-ukraine-aid-disagreement.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/tajani-salvini-ukraine-aid-disagreement.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -228,7 +228,7 @@
       ],
       "title": "Italy targets 28 October cabinet meeting for 2027 budget",
       "dek": "Leaders discussed domestic measures and EU energy flexibility on 26 October; approval had not occurred.",
-      "summary": "On 26 October, leaders of Italy's governing coalition met remotely to discuss the draft 2027 budget. ANSA and Il Sole 24 Ore Radiocor reported that the stated aim was to bring the measure to cabinet on Wednesday, 28 October. A target date is not the same as an already completed cabinet approval, let alone a law passed by parliament.",
+      "summary": "Italy's governing coalition discussed the 2027 budget on 26 October, targeting a cabinet meeting on 28 October. Talks cover household support, healthcare and possible EU flexibility for energy measures; no final bill or EU approval had been established.",
       "body": [
         "On 26 October, leaders of Italy's governing coalition met remotely to discuss the draft 2027 budget. ANSA and Il Sole 24 Ore Radiocor reported that the stated aim was to bring the measure to cabinet on Wednesday, 28 October. A target date is not the same as an already completed cabinet approval, let alone a law passed by parliament.",
         "Participants included Prime Minister Giorgia Meloni, Economy Minister Giancarlo Giorgetti, deputy prime ministers Antonio Tajani and Matteo Salvini, and Maurizio Lupi. Discussion covered potential measures for families, middle-income households, businesses and health services. Descriptions supplied by coalition sources are negotiating priorities, not final appropriations.",
@@ -275,7 +275,7 @@
         "src": "news/2026-10-27/assets/budget-2027-cabinet-eu-energy-clause.svg",
         "alt": "Original symbolic illustration about budget-2027-cabinet-eu-energy-clause; not a documentary photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/budget-2027-cabinet-eu-energy-clause.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/budget-2027-cabinet-eu-energy-clause.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -293,7 +293,7 @@
       ],
       "title": "Italian theatre workers strike nationwide over wages and contracts",
       "dek": "Actors, technicians and other staff mobilise over contract terms; unions reject employers' pay offer.",
-      "summary": "27 October is the day of a national strike called by Slc Cgil, Fistel Cisl and Uilfpc Uil for theatre employees and contracted performers and crew. ANSA, la Repubblica and Corriere della Sera reported planned rallies and demonstrations across cities including Rome, Milan, Naples, Turin and Catania. The action follows a breakdown in bargaining with the employers' association Federvivo.",
+      "summary": "Italian theatre performers, technicians and staff called a national strike for 27 October over stalled pay and contract negotiations. Unions dispute employers' proposals, while cancellations and participation depend on individual theatres and productions.",
       "body": [
         "27 October is the day of a national strike called by Slc Cgil, Fistel Cisl and Uilfpc Uil for theatre employees and contracted performers and crew. ANSA, la Repubblica and Corriere della Sera reported planned rallies and demonstrations across cities including Rome, Milan, Naples, Turin and Catania. The action follows a breakdown in bargaining with the employers' association Federvivo.",
         "Unions say the sector's pay arrangements have failed to keep pace with living costs. Figures attributed to the unions by Corriere place average monthly employee pay at €1,433.43 and describe an offered 18% increase over three years, reaching €1,691.44 in 2029. Those are bargaining figures, not salaries already in force.",
@@ -354,7 +354,7 @@
         "src": "news/2026-10-27/assets/theatre-workers-national-strike.svg",
         "alt": "Original symbolic illustration about theatre-workers-national-strike; not a documentary photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/theatre-workers-national-strike.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/theatre-workers-national-strike.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }

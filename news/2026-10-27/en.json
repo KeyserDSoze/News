@@ -3,7 +3,7 @@
   "language": "en",
   "section": "world",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "editorialNote": "World briefing for 27 October: dated facts and updates; editorial and technical gates must pass before publication.",
+  "editorialNote": "27 October 2026 briefing: dated developments, attributed claims and evidence limits in every report.",
   "articles": [
     {
       "id": "congo-ebola-10060-cases-oct27",
@@ -18,7 +18,7 @@
       ],
       "title": "Congo's Ebola outbreak exceeds 10,000 cases, with 4,887 deaths reported",
       "dek": "The 27 October health tally lists 10,060 confirmed infections; cross-border developments need separate country-level counts.",
-      "summary": "On 27 October, the Democratic Republic of Congo's public-health institute reported 10,060 confirmed Ebola cases and 4,887 deaths. This is a new update to the Bundibugyo-virus outbreak first announced in May 2026. Reuters and Associated Press separately reported the milestone, which should not be conflated with ECDC's earlier 9,964-case count as of 24 October.",
+      "summary": "On 27 October Congolese health authorities reported 10,060 confirmed Ebola cases and 4,887 deaths. The Bundibugyo-virus outbreak is now the country's largest on record, while cases reported elsewhere in Africa require separate epidemiological investigation.",
       "body": [
         "On 27 October, the Democratic Republic of Congo's public-health institute reported 10,060 confirmed Ebola cases and 4,887 deaths. This is a new update to the Bundibugyo-virus outbreak first announced in May 2026. Reuters and Associated Press separately reported the milestone, which should not be conflated with ECDC's earlier 9,964-case count as of 24 October.",
         "These figures place the current outbreak above Congo's 2018–2020 epidemic in reported size and deaths and, Reuters says, second worldwide only to West Africa's 2014–2016 outbreak. Such historical comparisons depend on the categories and reporting periods used: confirmed cases, reported deaths and surveillance dates. A crude death-to-case ratio is not an individual patient's survival probability.",
@@ -72,7 +72,7 @@
         "src": "news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
         "alt": "Original symbolic editorial artwork for congo-ebola-10060-cases-oct27, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -90,7 +90,7 @@
       ],
       "title": "Israel votes: 55.7% turnout by 4 p.m., no final result yet",
       "dek": "Election officials report unusually high participation, but any government needs at least 61 of 120 seats.",
-      "summary": "On Tuesday 27 October Israelis are voting for a new Knesset after years marked by war and deep political division. The Central Elections Committee reported 55.7% turnout by 4 p.m. local time, compared with 47.5% at the equivalent point in 2022. The Times of Israel reported the figure, while the Guardian and Reuters separately covered the election. This is an interim turnout update, not the final participation rate.",
+      "summary": "Israel's 27 October election recorded 55.7% turnout at 4 p.m. local time, a record for that point in the day. Voting was still underway at writing time, and forming a government will require support from at least 61 of the Knesset's 120 members.",
       "body": [
         "On Tuesday 27 October Israelis are voting for a new Knesset after years marked by war and deep political division. The Central Elections Committee reported 55.7% turnout by 4 p.m. local time, compared with 47.5% at the equivalent point in 2022. The Times of Israel reported the figure, while the Guardian and Reuters separately covered the election. This is an interim turnout update, not the final participation rate.",
         "Polling stations operate from 7 a.m. until 10 p.m. local time, and eligible voters arriving before closure may still cast their ballots. The contest pits Benjamin Netanyahu's Likud and allies against an opposition field including former army chief Gadi Eisenkot. Pre-election polling suggested a close contest, but projections from earlier surveys are not seats already won.",
@@ -145,7 +145,7 @@
         "src": "news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
         "alt": "Original symbolic editorial artwork for israel-election-high-turnout-voting-oct27, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -163,7 +163,7 @@
       ],
       "title": "New missile strikes hit Kyiv on 26 October, damaging civilian sites",
       "dek": "Reported casualties changed across updates; this strike is distinct from the 22 October attack.",
-      "summary": "During the evening of Monday 26 October, Russian missiles struck several locations in Kyiv, according to Ukrainian officials and reporting from Reuters and the Guardian. Mayor Vitali Klitschko reported explosions and damage near health facilities and transport infrastructure; President Volodymyr Zelenskyy described an impact on university grounds. These events concern the 26 October strike, not the separate 22 October attack already in the archive.",
+      "summary": "A Russian missile strike on Kyiv on 26 October killed at least one person and damaged civilian sites, Ukrainian officials said. Reports gave different injury totals, between eight and ten; this attack is separate from the 22 October strike and from the local Oleshky ceasefire.",
       "body": [
         "During the evening of Monday 26 October, Russian missiles struck several locations in Kyiv, according to Ukrainian officials and reporting from Reuters and the Guardian. Mayor Vitali Klitschko reported explosions and damage near health facilities and transport infrastructure; President Volodymyr Zelenskyy described an impact on university grounds. These events concern the 26 October strike, not the separate 22 October attack already in the archive.",
         "Initial reports described at least one person killed and several injured. The Guardian cited eight injured in its overnight update, while a later Reuters account referred to as many as ten. Differences may reflect the timing of casualty verification and should not be merged into a single count falsely attributed to both outlets.",
@@ -210,7 +210,7 @@
         "src": "news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
         "alt": "Original symbolic editorial artwork for kyiv-strike-oct26-metro-healthcare, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -228,7 +228,7 @@
       ],
       "title": "Brazil's Ibovespa falls 13.88% on 26 October, triggering trading halt",
       "dek": "Markets reacted to Lula's re-election; the session low must be distinguished from the closing index.",
-      "summary": "Brazilian stocks experienced a turbulent Monday, 26 October, after Luiz Inácio Lula da Silva won re-election in the previous day's presidential run-off. Agência Brasil and Folha de S.Paulo report a 13.88% closing fall for the Ibovespa, to roughly 176,608 points. The new development is the market response, not a repeat of the election result already covered.",
+      "summary": "On 26 October, following Lula's re-election, Brazil's Ibovespa closed down 13.88% after a temporary circuit-breaker halt. Agência Brasil reported the dollar at roughly 5.403 reais; the stock index's worst intraday decline was even steeper than its closing loss.",
       "body": [
         "Brazilian stocks experienced a turbulent Monday, 26 October, after Luiz Inácio Lula da Silva won re-election in the previous day's presidential run-off. Agência Brasil and Folha de S.Paulo report a 13.88% closing fall for the Ibovespa, to roughly 176,608 points. The new development is the market response, not a repeat of the election result already covered.",
         "Trading was temporarily suspended by a circuit breaker after the index fell more than 17% at its intraday low, around 169,516 points. The final decline was smaller than the steepest morning loss. A headline citing a 17% drop may therefore describe the worst point in the session rather than the closing result.",
@@ -282,7 +282,7 @@
         "src": "news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
         "alt": "Original symbolic editorial artwork for brazil-markets-post-election-circuit-breaker, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -300,7 +300,7 @@
       ],
       "title": "Russia and Ukraine confirm local Oleshky humanitarian ceasefire has begun",
       "dek": "The 27 October pause aims to enable aid and evacuations in an occupied town; fighting continues elsewhere.",
-      "summary": "Early on 27 October, Russia and Ukraine said a local ceasefire had begun around Oleshky, a Russian-occupied town in the Kherson region. Reuters obtained confirmations from Russia's defence ministry and Ukrainian ombudsman Dmytro Lubinets; Deutsche Welle also covered the start. Implementation is the new development beyond the agreement announced on 23 October.",
+      "summary": "Russia and Ukraine confirmed that a local ceasefire began on 27 October around Russian-occupied Oleshky in Kherson. It aims to allow food, water and medicine deliveries and evacuations after demining; actual relief deliveries have not yet been independently confirmed.",
       "body": [
         "Early on 27 October, Russia and Ukraine said a local ceasefire had begun around Oleshky, a Russian-occupied town in the Kherson region. Reuters obtained confirmations from Russia's defence ministry and Ukrainian ombudsman Dmytro Lubinets; Deutsche Welle also covered the start. Implementation is the new development beyond the agreement announced on 23 October.",
         "The pause is meant to allow deliveries of food, water and medicines, and evacuation of residents isolated by fighting, flooding and mines. Lubinets explained that land routes need demining before convoys and emergency vehicles can reach civilians. Authorities estimate roughly 2,000 people remain, but no independently verified house-by-house count is available.",
@@ -355,7 +355,7 @@
         "src": "news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
         "alt": "Original symbolic editorial artwork for oleshky-humanitarian-ceasefire-begins, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -373,7 +373,7 @@
       ],
       "title": "Romanian investigators link Brașov industrial fire to alleged Russia-coordinated network",
       "dek": "On 26 October agencies detailed their case over the 14 September blaze and three suspects; claims are not convictions.",
-      "summary": "On 26 October Romania's intelligence service, SRI, and organised-crime prosecutors, DIICOT, disclosed new findings on a fire that broke out on 14 September at the Carfil industrial platform in Brașov. Officials allege the incident was organised by a sabotage network coordinated from Russia. Reuters, Agerpres and Romania Insider covered the announcement, which does not amount to a final criminal conviction.",
+      "summary": "On 26 October Romanian intelligence and prosecutors alleged a Russia-coordinated network caused a 14 September fire at Brașov's Carfil industrial complex. European arrest warrants concern three suspects, while the allegations still require judicial scrutiny.",
       "body": [
         "On 26 October Romania's intelligence service, SRI, and organised-crime prosecutors, DIICOT, disclosed new findings on a fire that broke out on 14 September at the Carfil industrial platform in Brașov. Officials allege the incident was organised by a sabotage network coordinated from Russia. Reuters, Agerpres and Romania Insider covered the announcement, which does not amount to a final criminal conviction.",
         "DIICOT says the investigation concerns three foreign EU residents, two Belarusian nationals and one Ukrainian. Two were located and remanded in custody in Germany, while a third was located in Poland. Romanian courts issued European arrest warrants and authorities are pursuing extradition. The suspects' nationalities do not by themselves establish who directed the operation.",
@@ -435,7 +435,7 @@
         "src": "news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
         "alt": "Original symbolic editorial artwork for romania-carfil-fire-sabotage-probe, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -453,7 +453,7 @@
       ],
       "title": "Iran, Saudi Arabia, Türkiye and Pakistan agree to continue regional talks",
       "dek": "After the 26 October Tehran meeting, officials announced further security dialogue, not a peace treaty.",
-      "summary": "Senior delegations from Saudi Arabia, Türkiye and Pakistan met Iranian officials in Tehran on 26 October. The meeting came amid Houthi attacks towards Saudi Arabia and tensions involving Iran, the United States and Israel. Associated Press and Reuters independently reported the participants and stated aims of the talks.",
+      "summary": "Iran, Saudi Arabia, Türkiye and Pakistan held senior-level talks in Tehran on 26 October amid renewed regional tension. A reported statement pledges continued dialogue on security and peace, without establishing a ceasefire or a new defence alliance.",
       "body": [
         "Senior delegations from Saudi Arabia, Türkiye and Pakistan met Iranian officials in Tehran on 26 October. The meeting came amid Houthi attacks towards Saudi Arabia and tensions involving Iran, the United States and Israel. Associated Press and Reuters independently reported the participants and stated aims of the talks.",
         "The delegations included Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalın, according to official accounts. Iran hosted the discussions, and Iranian state media reported a closing statement supporting continued cooperation on peace and security. IranWire examined the reported statement.",
@@ -508,7 +508,7 @@
         "src": "news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
         "alt": "Original symbolic editorial artwork for tehran-four-country-regional-security-talks, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -526,7 +526,7 @@
       ],
       "title": "UAE oil slick widens in 24 October satellite images; beaches remain restricted",
       "dek": "Cleanup and beach restrictions continue near Umm Al Quwain and Sharjah; the tanker and cause are not officially confirmed.",
-      "summary": "European Copernicus Sentinel-2 satellite images acquired on 24 October show a widening oil slick off the northern United Arab Emirates. Reuters reported on 26 October that the contamination had spread towards Umm Al Quwain and triggered more coastal restrictions. Local outlets including Gulf News and The National separately covered closures and cleanup measures.",
+      "summary": "Copernicus imagery from 24 October shows an expanding oil slick near Umm Al Quwain in the UAE. Authorities closed several beaches as a precaution and began environmental assessments; the tanker identity and cause have not been officially established.",
       "body": [
         "European Copernicus Sentinel-2 satellite images acquired on 24 October show a widening oil slick off the northern United Arab Emirates. Reuters reported on 26 October that the contamination had spread towards Umm Al Quwain and triggered more coastal restrictions. Local outlets including Gulf News and The National separately covered closures and cleanup measures.",
         "UAE authorities announced temporary closure of Umm Al Quwain's coastline on 23 October while teams assessed contamination. Sharjah restricted access to Al Hamriyah beach, and Ras Al Khaimah later announced precautionary closures. Restrictions protect visitors and workers while currents and sea conditions can move pollution along the coast.",
@@ -581,7 +581,7 @@
         "src": "news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
         "alt": "Original symbolic editorial artwork for uae-oil-spill-widens-sentinel2-oct24, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -599,7 +599,7 @@
       ],
       "title": "Le Pen opens French presidential campaign with proposal to revive oil exploration",
       "dek": "At a 25 October rally she promised to repeal the 2017 exploration ban; it remains a political proposal.",
-      "summary": "Marine Le Pen launched her campaign for France's 2027 presidential election at a Rassemblement National event in Orléans on 25 October. Associated Press and Le Monde reported the address on 26 October, while Reuters examined the broader political messaging. The candidate linked energy policy with wider economic, security and immigration proposals.",
+      "summary": "Marine Le Pen launched her 2027 French presidential campaign in Orléans on 25 October with a proposal to revive oil exploration. She wants to repeal restrictions enacted in 2017, but this remains a campaign pledge rather than a change in law.",
       "body": [
         "Marine Le Pen launched her campaign for France's 2027 presidential election at a Rassemblement National event in Orléans on 25 October. Associated Press and Le Monde reported the address on 26 October, while Reuters examined the broader political messaging. The candidate linked energy policy with wider economic, security and immigration proposals.",
         "Le Pen proposed repealing the 2017 law restricting new hydrocarbon exploration permits and shale-gas development. She criticised the law associated with former environment minister Nicolas Hulot and framed renewed exploration as an energy-independence measure. The rally did not itself change any French law.",
@@ -654,7 +654,7 @@
         "src": "news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
         "alt": "Original symbolic editorial artwork for le-pen-campaign-oil-exploration-oct25, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -672,7 +672,7 @@
       ],
       "title": "US midterms: Trump campaigns in Mississippi as Senate race tightens",
       "dek": "The 26 October rally backs Cindy Hyde-Smith against Scott Colom one week before the 3 November vote.",
-      "summary": "US President Donald Trump travelled to Mississippi on Monday 26 October to campaign for Republican Senator Cindy Hyde-Smith ahead of the 3 November midterm elections. Associated Press and Reuters independently covered the visit and the unusual attention to a normally Republican state. Democratic challenger Scott Colom, a local prosecutor, hopes economic discontent will make the race more competitive.",
+      "summary": "Donald Trump campaigned in Mississippi on 26 October for Republican Senator Cindy Hyde-Smith against Democrat Scott Colom. The visit underlines the fight for control of Congress ahead of 3 November; nationwide early ballots do not establish the race's winner.",
       "body": [
         "US President Donald Trump travelled to Mississippi on Monday 26 October to campaign for Republican Senator Cindy Hyde-Smith ahead of the 3 November midterm elections. Associated Press and Reuters independently covered the visit and the unusual attention to a normally Republican state. Democratic challenger Scott Colom, a local prosecutor, hopes economic discontent will make the race more competitive.",
         "Republicans are defending narrow congressional control while Democrats seek gains in the House and Senate. Reuters notes that all 435 House seats and 35 of 100 Senate seats are on the ballot. A presidential campaign trip to a normally safe state shows strategic attention, but does not prove which candidate leads.",
@@ -727,7 +727,7 @@
         "src": "news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
         "alt": "Original symbolic editorial artwork for us-midterms-mississippi-trump-senate-race, not a documentary photograph",
         "credit": "O — original editorial vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }

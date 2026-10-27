@@ -3,7 +3,7 @@
   "language": "en",
   "section": "technology",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "editorialNote": "Draft reports; release is contingent on verification and completion of all four desks.",
+  "editorialNote": "27 October 2026 briefing: dated developments, attributed claims and evidence limits in every report.",
   "articles": [
     {
       "id": "anthropic-sec-s1-filing-ipo",
@@ -18,7 +18,7 @@
       ],
       "title": "Anthropic files S-1 prospectus for possible Nasdaq IPO",
       "dek": "The 26 October filing starts a regulatory process, with offer size and pricing still undetermined.",
-      "summary": "On 26 October Anthropic filed a Form S-1 registration statement with the US Securities and Exchange Commission for a potential initial public offering of its Class A common stock. The SEC record shows the filing was accepted at 09:00:11 in the system's listed time. This is a concrete regulatory step beyond earlier reporting about preparations.",
+      "summary": "Anthropic filed an S-1 with the SEC on 26 October for a potential Class A share IPO, proposing Nasdaq ticker ANT. The filing is a formal step towards public markets, but offering size, price and listing date remain unsettled.",
       "body": [
         "On 26 October Anthropic filed a Form S-1 registration statement with the US Securities and Exchange Commission for a potential initial public offering of its Class A common stock. The SEC record shows the filing was accepted at 09:00:11 in the system's listed time. This is a concrete regulatory step beyond earlier reporting about preparations.",
         "The maker of Claude models said it intends to list on the Nasdaq Global Select Market under ticker ANT. Its announcement explicitly says the share count and proposed price range have not been determined. Filing does not mean registration has become effective, shares can be sold, or a trading debut has been fixed.",
@@ -80,7 +80,7 @@
         "src": "news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
         "alt": "Original symbolic illustration for anthropic-sec-s1-filing-ipo, not a photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/anthropic-sec-s1-filing-ipo.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -98,7 +98,7 @@
       ],
       "title": "Meta's potential equity fundraising rises to $97.5 billion",
       "dek": "Priced offerings differ from a future, conditional share-sale programme; 27 October updated the prior plan.",
-      "summary": "Meta Platforms announced a financing plan on 26 October to support AI infrastructure through securities offerings and a potential subsequent share-sale programme. In the update released across 26–27 October, the Class A common-stock component rose from $22.5 billion to $25 billion, according to the company's investor release and Reuters.",
+      "summary": "Meta has updated its AI infrastructure financing plan with roughly $37.5 billion in priced offerings and a possible future share-sale programme of up to $60 billion. The potential $97.5 billion total is not cash already received; the later programme may never launch.",
       "body": [
         "Meta Platforms announced a financing plan on 26 October to support AI infrastructure through securities offerings and a potential subsequent share-sale programme. In the update released across 26–27 October, the Class A common-stock component rose from $22.5 billion to $25 billion, according to the company's investor release and Reuters.",
         "Meta reported pricing of $625 per Class A common share and $50 for each of 250 million depositary shares representing mandatory convertible preferred stock. Together these priced components amount to roughly $37.5 billion at the announced prices, before optional allotments and expenses; this is not $97.5 billion already received.",
@@ -153,7 +153,7 @@
         "src": "news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
         "alt": "Original symbolic illustration for meta-equity-offerings-pricing-97-billion, not a photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/meta-equity-offerings-pricing-97-billion.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -171,7 +171,7 @@
       ],
       "title": "Microsoft offers voluntary buyouts to around 60,000 eligible workers",
       "dek": "Eligibility is not the number of job losses; departures depend on workers choosing to accept.",
-      "summary": "On 26 October Microsoft launched a time-limited voluntary exit programme for selected groups of workers in the United States, Canada, the United Kingdom and India. Approximately 60,000 people could be eligible, according to Business Insider and information confirmed to TechCrunch. Eligibility means workers can consider terms for leaving, not that 60,000 people have already lost their jobs.",
+      "summary": "On 26 October Microsoft offered voluntary exit packages to around 60,000 eligible workers across four countries. Terms differ by employee, and eligibility is not an actual layoff count; departures depend on how many accept.",
       "body": [
         "On 26 October Microsoft launched a time-limited voluntary exit programme for selected groups of workers in the United States, Canada, the United Kingdom and India. Approximately 60,000 people could be eligible, according to Business Insider and information confirmed to TechCrunch. Eligibility means workers can consider terms for leaving, not that 60,000 people have already lost their jobs.",
         "Chief people officer Amy Coleman described the programme as an option for those considering their next career step and a way to adapt teams. Coverage reportedly includes selected Copilot, Windows, Xbox and administrative groups, but not every division. Terms vary by grade and tenure.",
@@ -226,7 +226,7 @@
         "src": "news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
         "alt": "Original symbolic illustration for microsoft-voluntary-exit-60000-eligible, not a photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/microsoft-voluntary-exit-60000-eligible.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -244,7 +244,7 @@
       ],
       "title": "Cadence launches Maestro chip-design AI models for local deployment",
       "dek": "Customers may run models on premises, but reported performance gains come from early company evaluations.",
-      "summary": "On 26 October Cadence Design Systems introduced Maestro, a portfolio of AI models specialised for chip and electronic-system design workflows. Reuters and Tom's Hardware covered the release separately, with the latter interviewing company executives. The models are intended to power software agents assisting engineers with EDA tools, not autonomously replace the entire industrial verification process.",
+      "summary": "On 26 October Cadence announced Maestro, specialised AI models to assist chip design that customers can also run in their own data centres. Claimed gains of up to 30% in quality and fivefold in token efficiency come from the company's early tests, not broad independent benchmarks.",
       "body": [
         "On 26 October Cadence Design Systems introduced Maestro, a portfolio of AI models specialised for chip and electronic-system design workflows. Reuters and Tom's Hardware covered the release separately, with the latter interviewing company executives. The models are intended to power software agents assisting engineers with EDA tools, not autonomously replace the entire industrial verification process.",
         "Cadence says customers will be able to deploy Maestro in its cloud, public clouds or their own data centres behind corporate firewalls. That matters because semiconductor designs contain sensitive proprietary intellectual property. The architecture is also intended to support adapting models to a customer's own data and workflows.",
@@ -299,7 +299,7 @@
         "src": "news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
         "alt": "Original symbolic illustration for cadence-maestro-ai-chip-design, not a photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/cadence-maestro-ai-chip-design.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -317,7 +317,7 @@
       ],
       "title": "EU accepts Temu's action plan on illegal-product risks",
       "dek": "After a May fine, the platform must examine moderation and recommendations; acceptance does not certify compliance.",
-      "summary": "On 26 October the European Commission said it had accepted Temu's action plan to address shortcomings in assessing risks related to illegal products under the Digital Services Act. The move follows a €200 million fine imposed in May 2026. Reuters, ANSA and Euronews reported on the development, and the Commission published the official conditions.",
+      "summary": "On 26 October the European Commission accepted Temu's plan to address illegal-product risks under the Digital Services Act following a May fine. Assessments and independent checks still lie ahead; acceptance does not certify all listings as compliant.",
       "body": [
         "On 26 October the European Commission said it had accepted Temu's action plan to address shortcomings in assessing risks related to illegal products under the Digital Services Act. The move follows a €200 million fine imposed in May 2026. Reuters, ANSA and Euronews reported on the development, and the Commission published the official conditions.",
         "The plan sets out five measures, including a marketplace-specific risk assessment and indicators to measure mitigation. Temu must examine weaknesses in moderation, recommender systems and potential tactics used by sellers to amplify problematic listings. Ranking and recommendation systems can increase a product's visibility, making their effects relevant to risk control.",
@@ -372,7 +372,7 @@
         "src": "news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
         "alt": "Original symbolic illustration for temu-eu-dsa-action-plan-acceptance, not a photograph",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/temu-eu-dsa-action-plan-acceptance.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }

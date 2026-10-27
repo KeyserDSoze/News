@@ -3,7 +3,7 @@
   "language": "it",
   "section": "science",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "editorialNote": "Bozze scientifiche: distinguere studi pubblicati prima del 27 dagli approfondimenti odierni; non pubblicare senza tutti i controlli.",
+  "editorialNote": "Rassegna del 27 ottobre 2026: sviluppi datati, dichiarazioni attribuite e limiti delle prove esplicitati in ogni notizia.",
   "articles": [
     {
       "id": "trofuse005-endometrial-survival-results",
@@ -18,7 +18,7 @@
       ],
       "title": "TroFuse-005: sac-TMT prolunga la sopravvivenza mediana nel tumore endometriale avanzato",
       "dek": "Nei 776 pazienti confrontati con chemioterapia, 19 mesi contro 12,1; eventi avversi gravi più frequenti.",
-      "summary": "Il 26 ottobre sono stati presentati al congresso ESMO i risultati completi della sperimentazione internazionale di fase 3 TroFuse-005 sul sacituzumab tirumotecan, detto sac-TMT, per il tumore endometriale avanzato o recidivato. Lo studio ha arruolato 776 persone già trattate con chemioterapia a base di platino e immunoterapia anti-PD-1 o PD-L1, assegnandole casualmente al farmaco sperimentale o a una chemioterapia scelta dai medici.",
+      "summary": "Nel trial di fase 3 TroFuse-005, presentato il 26 ottobre, sacituzumab tirumotecan ha portato la sopravvivenza mediana a 19 mesi contro 12,1 con chemioterapia in pazienti pretrattate. Il beneficio randomizzato si accompagna a una maggiore frequenza di effetti avversi di grado elevato; la revisione FDA non è ancora un'approvazione.",
       "body": [
         "Il 26 ottobre sono stati presentati al congresso ESMO i risultati completi della sperimentazione internazionale di fase 3 TroFuse-005 sul sacituzumab tirumotecan, detto sac-TMT, per il tumore endometriale avanzato o recidivato. Lo studio ha arruolato 776 persone già trattate con chemioterapia a base di platino e immunoterapia anti-PD-1 o PD-L1, assegnandole casualmente al farmaco sperimentale o a una chemioterapia scelta dai medici.",
         "La sopravvivenza complessiva mediana riferita è stata di 19,0 mesi nel gruppo sac-TMT e 12,1 mesi nel gruppo di confronto. L'hazard ratio per morte è 0,68, associato a una riduzione relativa del rischio istantaneo stimato del 32% durante il follow-up. Le mediane descrivono il momento in cui metà dei pazienti di ciascun gruppo ha avuto l'evento, non la durata di vita garantita a ogni individuo.",
@@ -80,7 +80,7 @@
         "src": "news/2026-10-27/assets/trofuse005-endometrial-survival-results.svg",
         "alt": "Illustrazione concettuale originale sulla ricerca trofuse005-endometrial-survival-results, non una fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/trofuse005-endometrial-survival-results.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/trofuse005-endometrial-survival-results.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -98,7 +98,7 @@
       ],
       "title": "Nei calamari modifiche dell'RNA alterano la funzione di migliaia di proteine",
       "dek": "Analisi proteomica pubblicata su Cell identifica circa 8 mila siti di ricodifica; il DNA rimane invariato.",
-      "summary": "Un gruppo guidato da ricercatori della University of California, San Francisco ha studiato come l'editing dell'RNA modifica le proteine prodotte nel calamaro Doryteuthis pealeii. La ricerca, pubblicata sulla rivista Cell, è stata ripresa da ScienceAlert il 25 ottobre e da People il 27 ottobre. Il lavoro riguarda un meccanismo di regolazione molecolare, non una riscrittura del patrimonio genetico permanente dell'animale.",
+      "summary": "Uno studio del proteoma dei calamari ha trovato 7.997 siti di ricodifica dell'RNA in 2.091 proteine, mostrando come possano cambiare le proprietà proteiche senza modificare il DNA. La ricerca su Cell amplia la comprensione dell'editing molecolare; non prova che tutte le varianti teoriche esistano nell'animale.",
       "body": [
         "Un gruppo guidato da ricercatori della University of California, San Francisco ha studiato come l'editing dell'RNA modifica le proteine prodotte nel calamaro Doryteuthis pealeii. La ricerca, pubblicata sulla rivista Cell, è stata ripresa da ScienceAlert il 25 ottobre e da People il 27 ottobre. Il lavoro riguarda un meccanismo di regolazione molecolare, non una riscrittura del patrimonio genetico permanente dell'animale.",
         "Le istruzioni trascritte dal DNA possono essere modificate dagli enzimi della famiglia ADAR prima della produzione delle proteine. Gli autori hanno individuato 7.997 siti di ricodifica dell'RNA in 2.091 proteine, analizzando il proteoma di diversi tessuti. Tali cambiamenti possono creare varianti proteiche con proprietà differenti a partire dalla stessa sequenza genetica.",
@@ -152,7 +152,7 @@
         "src": "news/2026-10-27/assets/squid-rna-editing-proteome-cell-study.svg",
         "alt": "Illustrazione concettuale originale sulla ricerca squid-rna-editing-proteome-cell-study, non una fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/squid-rna-editing-proteome-cell-study.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/squid-rna-editing-proteome-cell-study.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -170,7 +170,7 @@
       ],
       "title": "Ragni saltatori: osservati sonno REM-simile e recupero dopo l'interruzione",
       "dek": "La ricerca su Portia fimbriata documenta movimenti oculari e compensazione del riposo, non prova che i ragni sognino.",
-      "summary": "Uno studio pubblicato il 27 ottobre sulla rivista PNAS ha esaminato il riposo del ragno saltatore australiano Portia fimbriata. Ricercatori collegati all'Università di Bonn hanno registrato con telecamere a infrarossi il comportamento notturno e sperimentato stimoli per verificare se la scarsa attività fosse vero sonno. ABC Science e ScienceAlert hanno riportato autonomamente la ricerca e interpellato gli studiosi.",
+      "summary": "Ricercatori hanno osservato in Portia fimbriata fasi di sonno REM-simile con movimenti oculari e un recupero dopo disturbo notturno. L'aumento dei comportamenti REM-simili il giorno seguente sostiene l'esistenza di sonno regolato, non la presenza dimostrata di sogni.",
       "body": [
         "Uno studio pubblicato il 27 ottobre sulla rivista PNAS ha esaminato il riposo del ragno saltatore australiano Portia fimbriata. Ricercatori collegati all'Università di Bonn hanno registrato con telecamere a infrarossi il comportamento notturno e sperimentato stimoli per verificare se la scarsa attività fosse vero sonno. ABC Science e ScienceAlert hanno riportato autonomamente la ricerca e interpellato gli studiosi.",
         "Le riprese mostrano periodi di quiete alternati a movimenti delle strutture oculari e a contrazioni di zampe e altre parti del corpo. Durante queste fasi i ragni rispondevano con maggiore lentezza agli stimoli rispetto alla veglia. Tale combinazione sostiene l'esistenza di uno stato REM-simile, ma nei ragni non è disponibile la stessa misura diretta delle onde cerebrali usata per classificare il sonno umano.",
@@ -225,7 +225,7 @@
         "src": "news/2026-10-27/assets/portia-spider-rem-sleep-rebound.svg",
         "alt": "Illustrazione concettuale originale sulla ricerca portia-spider-rem-sleep-rebound, non una fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/portia-spider-rem-sleep-rebound.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/portia-spider-rem-sleep-rebound.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -243,7 +243,7 @@
       ],
       "title": "AGC 322753, due radiotelescopi trovano un possibile sistema ricco di gas e povero di stelle",
       "dek": "Massa di idrogeno stimata in due miliardi di soli; l'assenza di una controparte ottica resta un limite osservativo.",
-      "summary": "Uno studio pubblicato il 1° ottobre su Monthly Notices of the Royal Astronomical Society, tornato al centro di approfondimenti il 26 ottobre, propone AGC 322753 come candidata galassia oscura. Il gruppo ha incrociato dati radio dell'indagine ALFALFA effettuata con Arecibo e della rilevazione FASHI con il radiotelescopio FAST. Le due osservazioni indipendenti dello stesso segnale riducono il rischio di interferenze strumentali.",
+      "summary": "Arecibo e FAST hanno rilevato segnali compatibili di idrogeno neutro da AGC 322753, con massa stimata in due miliardi di soli. La mancanza di una controparte ottica evidente la rende candidata galassia oscura, ma non esclude stelle troppo deboli per gli strumenti attuali.",
       "body": [
         "Uno studio pubblicato il 1° ottobre su Monthly Notices of the Royal Astronomical Society, tornato al centro di approfondimenti il 26 ottobre, propone AGC 322753 come candidata galassia oscura. Il gruppo ha incrociato dati radio dell'indagine ALFALFA effettuata con Arecibo e della rilevazione FASHI con il radiotelescopio FAST. Le due osservazioni indipendenti dello stesso segnale riducono il rischio di interferenze strumentali.",
         "Le misure dell'idrogeno neutro H I convergono su una massa di circa due miliardi di volte quella del Sole. Il profilo spettrale a doppio picco suggerisce movimento ordinato del gas, mentre le immagini disponibili in varie bande ottiche e infrarosse non mostrano una controparte stellare evidente nel punto probabile del segnale. Non rilevare luce non significa dimostrare che non esista alcuna stella.",
@@ -297,7 +297,7 @@
         "src": "news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
         "alt": "Illustrazione concettuale originale sulla ricerca agc322753-hydrogen-dark-galaxy-candidate, non una fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
@@ -315,7 +315,7 @@
       ],
       "title": "Un laser ricrea in laboratorio un meccanismo che potrebbe contribuire a scaldare la corona solare",
       "dek": "La riconnessione magnetica prodotta da instabilità ha riscaldato elettroni di plasma; non è una misurazione del Sole.",
-      "summary": "Un esperimento pubblicato su Physical Review Letters e raccontato fra il 25 e il 26 ottobre da ScienceAlert e Phys.org ha studiato un possibile contributo al riscaldamento della corona solare. Il gruppo guidato da Wei Sun ha usato il dispositivo laser Shenguang-II in Cina per creare plasma a partire da bersagli di plastica con superfici ondulate. La domanda di partenza è perché l'atmosfera esterna del Sole sia molto più calda della superficie visibile.",
+      "summary": "Con il laser Shenguang-II, ricercatori hanno prodotto plasma con instabilità e riconnessione magnetica che ha raggiunto temperature elettroniche circa doppie rispetto al controllo. La prova di laboratorio offre una possibile spiegazione parziale del riscaldamento della corona solare, senza riprodurre integralmente le condizioni del Sole.",
       "body": [
         "Un esperimento pubblicato su Physical Review Letters e raccontato fra il 25 e il 26 ottobre da ScienceAlert e Phys.org ha studiato un possibile contributo al riscaldamento della corona solare. Il gruppo guidato da Wei Sun ha usato il dispositivo laser Shenguang-II in Cina per creare plasma a partire da bersagli di plastica con superfici ondulate. La domanda di partenza è perché l'atmosfera esterna del Sole sia molto più calda della superficie visibile.",
         "L'espansione del plasma ha prodotto strutture instabili che hanno avvicinato regioni di campo magnetico di orientamento opposto. Questo processo può favorire la riconnessione magnetica, nella quale energia immagazzinata nei campi viene trasferita alle particelle. Il gruppo ha confrontato il plasma generato con bersagli ondulati con quello ottenuto usando superfici piatte, dove le instabilità risultavano molto meno marcate.",
@@ -362,7 +362,7 @@
         "src": "news/2026-10-27/assets/solar-corona-laser-reconnection-prl.svg",
         "alt": "Illustrazione concettuale originale sulla ricerca solar-corona-laser-reconnection-prl, non una fotografia",
         "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/solar-corona-laser-reconnection-prl.svg",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/solar-corona-laser-reconnection-prl.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
