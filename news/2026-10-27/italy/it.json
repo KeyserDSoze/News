@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-27",
+  "language": "it",
+  "publishedAt": "2026-10-27T16:30:00Z",
+  "section": "italy",
+  "editorialNote": "Edizione in lavorazione: cinque testi bilingui basati su eventi documentati il 26–27 ottobre; pubblicare solo con tutte le rubriche verificate.",
+  "articles": [
+    {
+      "id": "electoral-law-25-court-challenges",
+      "rank": 1,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "La contestazione può incidere sulle regole di rappresentanza nazionale, ma è ancora una controversia appena avviata.",
+      "tags": [
+        "elezioni",
+        "ricorsi",
+        "Costituzione"
+      ],
+      "title": "Legge elettorale, ricorsi coordinati depositati in 25 tribunali",
+      "dek": "La rete civica contesta la riforma; nessun giudice ne ha ancora dichiarato l'incostituzionalità.",
+      "summary": "Il 26 ottobre la Rete per un voto libero e uguale ha annunciato il deposito coordinato di ricorsi davanti a 25 tribunali ordinari italiani contro la nuova legge elettorale. L'iniziativa coinvolge, secondo i promotori, più di 300 cittadini, tra cui l'ex presidente del Consiglio Romano Prodi. ANSA, RaiNews e Repubblica hanno riferito della conferenza stampa al Senato.",
+      "body": [
+        "Il 26 ottobre la Rete per un voto libero e uguale ha annunciato il deposito coordinato di ricorsi davanti a 25 tribunali ordinari italiani contro la nuova legge elettorale. L'iniziativa coinvolge, secondo i promotori, più di 300 cittadini, tra cui l'ex presidente del Consiglio Romano Prodi. ANSA, RaiNews e Repubblica hanno riferito della conferenza stampa al Senato.",
+        "I ricorsi usano una traccia comune ma restano procedimenti presentati a singoli uffici giudiziari. Fra i punti contestati dai promotori figurano il premio di maggioranza, la scelta dei capilista, le firme per la presentazione delle liste e la disciplina delle coalizioni. Sono rilievi formulati dai ricorrenti, non conclusioni già raggiunte da un organo giurisdizionale.",
+        "Un giudice ordinario investito di una controversia può valutare se la questione costituzionale sia rilevante per decidere il caso e non manifestamente infondata. Se soddisfa queste condizioni, può rimettere la questione alla Corte costituzionale; non è automatico che tutti i 25 fascicoli arrivino alla Consulta, né che un eventuale esame porti all'annullamento.",
+        "L'azione giudiziaria è distinta dal dibattito parlamentare che ha portato all'approvazione della riforma. I promotori la considerano uno strumento per tutelare il voto libero e uguale; i tribunali dovranno invece pronunciarsi secondo i criteri processuali e costituzionali pertinenti. Per misurare il seguito conteranno le ordinanze e le decisioni effettivamente pubblicate."
+      ],
+      "facts": [
+        "Il 26 ottobre sono stati annunciati ricorsi coordinati in 25 tribunali ordinari.",
+        "I promotori hanno indicato oltre 300 ricorrenti, incluso Romano Prodi."
+      ],
+      "perspectives": [
+        "Roberto Zaccaria e la rete promotrice descrivono l'iniziativa come una tutela dell'eguaglianza del voto."
+      ],
+      "unknowns": [
+        "Non sono noti gli esiti delle verifiche di ammissibilità nei singoli tribunali né eventuali rinvii alla Corte costituzionale."
+      ],
+      "questions": [
+        {
+          "question": "Perché i ricorsi alla legge elettorale sono passati da 25 tribunali ordinari?",
+          "answer": "La rete ha depositato atti coordinati nelle sedi giudiziarie competenti per le controversie: ciascun giudice deve valutare la rilevanza e la non manifesta infondatezza della questione prima di un eventuale rinvio alla Consulta."
+        },
+        {
+          "question": "Il deposito simultaneo può sospendere da solo le regole del prossimo voto?",
+          "answer": "No. Il deposito apre procedimenti giudiziari; non modifica né sospende automaticamente la legge. Eventuali effetti dipenderebbero da provvedimenti adottati dagli organi competenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Depositati i ricorsi in 25 tribunali contro la legge elettorale",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/26/depositati-i-ricorsi-in-25-tribunali-contro-la-legge-elettorale_4798eaca-c8b8-4a6f-a88d-3fb2ee3b0327.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Legge elettorale, presentati simultaneamente ricorsi in 25 Tribunali",
+          "url": "https://www.rainews.it/articoli/2026/10/legge-elettorale-presentati-simultaneamente-ricorsi-in-25-tribunali-melonellum-b0148f98-0e87-4471-a8bf-5b24489eff98.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Melonellum: depositati i ricorsi in 25 tribunali, firma anche Prodi",
+          "url": "https://www.repubblica.it/politica/2026/10/26/news/melonellum_depositati_ricorsi_tribunali_firma_prodi_legge_elettorale-425676174/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/electoral-law-25-court-challenges.svg",
+        "alt": "Illustrazione simbolica originale sull'argomento electoral-law-25-court-challenges; non è una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/electoral-law-25-court-challenges.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "mattarella-firenze-health-disinformation",
+      "rank": 2,
+      "category": "politics",
+      "impact": 2.5,
+      "impactReason": "La posizione del capo dello Stato riguarda sanità e informazione, temi nazionali, ma non introduce da sola nuove misure.",
+      "tags": [
+        "Mattarella",
+        "sanità",
+        "disinformazione"
+      ],
+      "title": "Mattarella a Firenze collega tutela della sanità e rischi della disinformazione",
+      "dek": "Al Festival delle Regioni del 26 ottobre il presidente invita a cooperazione istituzionale e regole appropriate per l'IA.",
+      "summary": "Sergio Mattarella è intervenuto il 26 ottobre a Palazzo Vecchio, a Firenze, all'apertura del quinto Festival delle Regioni e delle Province autonome. Il programma ufficiale del Quirinale conferma l'intervento di mezzogiorno. Nella cerimonia erano presenti rappresentanti delle istituzioni regionali, con la Conferenza delle Regioni presieduta da Massimiliano Fedriga.",
+      "body": [
+        "Sergio Mattarella è intervenuto il 26 ottobre a Palazzo Vecchio, a Firenze, all'apertura del quinto Festival delle Regioni e delle Province autonome. Il programma ufficiale del Quirinale conferma l'intervento di mezzogiorno. Nella cerimonia erano presenti rappresentanti delle istituzioni regionali, con la Conferenza delle Regioni presieduta da Massimiliano Fedriga.",
+        "Mattarella ha indicato nella tutela del Servizio sanitario nazionale una priorità e ha richiamato la necessità di collaborazione fra Stato e autonomie territoriali. Si tratta di un indirizzo istituzionale, non dell'annuncio di un nuovo finanziamento già deliberato. L'organizzazione sanitaria italiana dipende infatti da responsabilità condivise e da risorse e servizi da verificare sul territorio.",
+        "Nello stesso discorso il capo dello Stato ha avvertito che la manipolazione informativa, comprese le notizie false diffuse in rete, può condizionare opinioni e scelte. Ha descritto l'intelligenza artificiale come una tecnologia dalle grandi opportunità, chiedendo però regole capaci di limitarne gli usi impropri e incontrollati. ANSA e RaiNews riportano queste dichiarazioni.",
+        "Il nesso politico fra sanità, informazione affidabile e cooperazione istituzionale riguarda la capacità delle persone di esercitare diritti e prendere decisioni informate. Non ne deriva che un singolo intervento presidenziale introduca obblighi nuovi per piattaforme o servizi sanitari. Eventuali effetti normativi e di bilancio richiedono atti successivi e misurabili."
+      ],
+      "facts": [
+        "Mattarella ha parlato al Festival delle Regioni a Firenze il 26 ottobre.",
+        "Nel discorso ha evocato tutela della sanità pubblica e rischi di manipolazione dell'informazione."
+      ],
+      "perspectives": [
+        "Mattarella chiede collaborazione leale tra livelli di governo e regole adeguate per l'IA."
+      ],
+      "unknowns": [
+        "Non risulta dal discorso alcun nuovo stanziamento o provvedimento già approvato sui temi citati."
+      ],
+      "questions": [
+        {
+          "question": "Quale ruolo hanno le Regioni nella tutela della sanità evocata da Mattarella?",
+          "answer": "Il Servizio sanitario nazionale è organizzato con responsabilità statali e regionali: lo Stato definisce gli indirizzi e i livelli essenziali, mentre le Regioni organizzano gran parte dell'erogazione. Per questo la cooperazione incide sull'accesso concreto ai servizi."
+        },
+        {
+          "question": "Che conseguenza immediata ha il richiamo del presidente ai rischi dell'intelligenza artificiale?",
+          "answer": "Il richiamo orienta il confronto pubblico ma non è di per sé una norma: regole e sanzioni richiedono provvedimenti delle istituzioni competenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Mattarella: Le fake news manipolano già oggi l'informazione",
+          "url": "https://www.ansa.it/amp/sito/notizie/politica/2026/10/26/mattarella-le-fake-news-manipolano-gia-oggi-linformazione_a149c2e4-7d3d-4486-bf33-fd916eb414cf.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Mattarella a Firenze: Fake news manipolano già oggi l'informazione",
+          "url": "https://www.rainews.it/amp/articoli/2026/10/mattarella-a-firenze-fake-news-manipolano-gia-oggi-informazione-e-condizionano-opinioni-festival-regioni--bdfcbca9-3028-4730-b63b-2c44f02ecb46.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Quirinale",
+          "title": "Mattarella a Firenze, cerimonia di apertura del Festival delle Regioni",
+          "url": "https://www.quirinale.it/it/notizie/mattarella-firenze-cerimonia-apertura-5-festival-regioni-province-autonome",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/mattarella-firenze-health-disinformation.svg",
+        "alt": "Illustrazione simbolica originale sull'argomento mattarella-firenze-health-disinformation; non è una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/mattarella-firenze-health-disinformation.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "tajani-salvini-ukraine-aid-disagreement",
+      "rank": 3,
+      "category": "politics",
+      "impact": 2.5,
+      "impactReason": "Le decisioni sugli aiuti interessano la politica estera nazionale e la coalizione, ma l'annuncio non conferma cambiamenti operativi.",
+      "tags": [
+        "Ucraina",
+        "Tajani",
+        "governo"
+      ],
+      "title": "Aiuti a Kiev, Tajani annuncia un pacchetto pronto e prende le distanze da Salvini",
+      "dek": "Il ministro degli Esteri parla di una nuova fornitura il 26 ottobre; la spedizione non risulta ancora eseguita.",
+      "summary": "Il 26 ottobre, durante una visita a Milano, il vicepremier e ministro degli Esteri Antonio Tajani ha dichiarato che un nuovo pacchetto di aiuti militari italiani per l'Ucraina era pronto e sarebbe stato inviato quanto prima. ANSA ha riportato l'intervento e Sky TG24 ne ha pubblicato una registrazione video. Non sono stati resi noti nel resoconto quantità e sistemi specifici.",
+      "body": [
+        "Il 26 ottobre, durante una visita a Milano, il vicepremier e ministro degli Esteri Antonio Tajani ha dichiarato che un nuovo pacchetto di aiuti militari italiani per l'Ucraina era pronto e sarebbe stato inviato quanto prima. ANSA ha riportato l'intervento e Sky TG24 ne ha pubblicato una registrazione video. Non sono stati resi noti nel resoconto quantità e sistemi specifici.",
+        "Tajani rispondeva alle dichiarazioni rese da Matteo Salvini al congresso della Lega il giorno precedente. Salvini aveva promesso di proporre al governo uno stop all'invio di armi e denaro all'Ucraina; la sua iniziativa era una posizione politica del partito, non una deliberazione collegiale. La divergenza emerge dunque su un atto futuro, non su una spedizione già annullata.",
+        "L'Italia partecipa ai meccanismi di sostegno internazionale a Kiev, ma un pacchetto annunciato deve essere distinto da atti autorizzativi, trasferimenti fisici e conferme ucraine della ricezione. Per ragioni di sicurezza le descrizioni pubbliche dei materiali possono restare parziali. La formula usata da Tajani non consente quindi di affermare che la consegna sia avvenuta il 26 ottobre.",
+        "L'episodio evidenzia tensioni programmatiche all'interno della coalizione italiana, ma non equivale a una crisi di governo formalizzata. Per valutare conseguenze effettive occorrerà verificare gli atti istituzionali successivi e l'eventuale calendario della consegna. Il dibattito si colloca nel contesto di nuovi attacchi russi e delle esigenze di difesa ucraine documentate nello stesso periodo."
+      ],
+      "facts": [
+        "Tajani ha dichiarato il 26 ottobre di avere pronto un nuovo pacchetto di aiuti militari.",
+        "Salvini aveva proposto al congresso della Lega una linea di interruzione degli aiuti."
+      ],
+      "perspectives": [
+        "Tajani sostiene la continuità dell'assistenza italiana all'Ucraina.",
+        "Salvini chiede un'inversione di rotta sulle forniture e sui finanziamenti."
+      ],
+      "unknowns": [
+        "Non è pubblicamente accertata la data di consegna del nuovo pacchetto né il suo elenco dettagliato."
+      ],
+      "questions": [
+        {
+          "question": "Qual è la differenza fra il pacchetto per Kiev annunciato da Tajani e una consegna effettuata?",
+          "answer": "Tajani ha dichiarato che il pacchetto era pronto per essere inviato. Una consegna richiederebbe ulteriori passaggi e conferme della spedizione e della ricezione, che il solo annuncio non documenta."
+        },
+        {
+          "question": "Il congresso della Lega può fermare le forniture militari italiane all'Ucraina?",
+          "answer": "No: può indicare la posizione del partito e sollecitare una scelta dell'esecutivo, ma modificare gli aiuti richiede decisioni istituzionali, non un voto interno di partito."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Tajani: Salvini? Pronto un nuovo pacchetto di aiuti militari a Kiev",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/26/tajani-salvini-pronto-un-nuovo-pacchetto-di-aiuti-militari-a-kiev_b41eeca9-3f34-44c2-958c-91dbda471622.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Tajani: Pronto nuovo pacchetto di aiuti militari a Kiev (video)",
+          "url": "https://tg24.sky.it/politica/video/2026/10/26/tajani-pronto-nuovo-pacchetto-di-aiuti-militari-a-kiev-1134845",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/tajani-salvini-ukraine-aid-disagreement.svg",
+        "alt": "Illustrazione simbolica originale sull'argomento tajani-salvini-ukraine-aid-disagreement; non è una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/tajani-salvini-ukraine-aid-disagreement.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "budget-2027-cabinet-eu-energy-clause",
+      "rank": 4,
+      "category": "economy",
+      "impact": 3,
+      "impactReason": "Il bilancio incide su famiglie, servizi e finanza nazionale, ma al 27 ottobre il testo resta in negoziazione.",
+      "tags": [
+        "manovra",
+        "energia",
+        "Bruxelles"
+      ],
+      "title": "Manovra 2027, la maggioranza punta al Consiglio dei ministri del 28 ottobre",
+      "dek": "Il vertice del 26 ottobre discute misure interne e margini europei sull'energia; non è ancora un'approvazione.",
+      "summary": "Il 26 ottobre i leader della maggioranza di governo italiana hanno discusso da remoto il disegno della manovra economica per il 2027. Secondo ANSA e Il Sole 24 Ore Radiocor, l'obiettivo dichiarato è portare il provvedimento al Consiglio dei ministri mercoledì 28 ottobre. Una data-obiettivo non va confusa con una seduta già conclusa né con una legge approvata dal Parlamento.",
+      "body": [
+        "Il 26 ottobre i leader della maggioranza di governo italiana hanno discusso da remoto il disegno della manovra economica per il 2027. Secondo ANSA e Il Sole 24 Ore Radiocor, l'obiettivo dichiarato è portare il provvedimento al Consiglio dei ministri mercoledì 28 ottobre. Una data-obiettivo non va confusa con una seduta già conclusa né con una legge approvata dal Parlamento.",
+        "Al confronto hanno partecipato la presidente del Consiglio Giorgia Meloni, il ministro dell'Economia Giancarlo Giorgetti, i vicepremier Antonio Tajani e Matteo Salvini e Maurizio Lupi. Il vertice ha affrontato il perimetro delle misure per famiglie, redditi medi, imprese e sanità. Le formule diffuse da fonti della maggioranza restano priorità negoziali, non stanziamenti definitivi.",
+        "Un nodo riguarda le interlocuzioni con la Commissione europea sull'eventuale flessibilità di bilancio per misure nel settore energetico. Le cronache riferiscono di una risposta preliminare da Bruxelles e di chiarimenti ancora necessari su interventi ammissibili e margini disponibili. Questo non documenta un via libera generale dell'Unione europea a tutte le proposte del governo.",
+        "La manovra deve combinare obiettivi di sostegno economico e vincoli dei conti pubblici. Anche dopo un eventuale assenso del Consiglio dei ministri seguono l'iter parlamentare, emendamenti e votazioni. La valutazione degli effetti concreti richiederà il testo ufficiale e le tabelle finanziarie, non le sole indiscrezioni emerse dopo la riunione."
+      ],
+      "facts": [
+        "Il 26 ottobre la maggioranza ha indicato il 28 ottobre come obiettivo per il via libera del CdM.",
+        "La discussione con la Commissione europea riguarda anche misure energetiche e possibili margini di flessibilità."
+      ],
+      "perspectives": [
+        "Le fonti di maggioranza definiscono costruttivo il confronto e indicano sostegno al potere d'acquisto fra le priorità."
+      ],
+      "unknowns": [
+        "Il testo definitivo della manovra e l'esito della trattativa sulla clausola energia non erano stati pubblicati."
+      ],
+      "questions": [
+        {
+          "question": "Perché il 28 ottobre non è ancora la data di approvazione della manovra 2027?",
+          "answer": "È la data indicata come obiettivo per un futuro Consiglio dei ministri. La legge di bilancio richiede poi anche il percorso parlamentare: la riunione annunciata non equivale all'approvazione definitiva."
+        },
+        {
+          "question": "Che cosa deve chiarire Bruxelles sulla clausola per l'energia?",
+          "answer": "Il confronto riguarda quali interventi energetici possano rientrare nella flessibilità richiesta e con quali margini sui conti. Una risposta preliminare non equivale a un assenso definitivo su ogni misura."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Mercoledì il cdm sulla manovra. L'Ue risponde ma ancora nodi da sciogliere",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/26/mercoledi-il-cdm-sulla-manovra.-lue-risponde-ma-ancora-nodi-da-sciogliere_d8929f9e-cae5-4b75-a4ce-ccd9d2236aaf.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Manovra: prosegue confronto costruttivo maggioranza, obiettivo ok Cdm mercoledì",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/manovra-prosegue-confronto--costruttivo--maggioranza-obiettivo-ok-cdm-mercoledi--nRC_26102026_2100_635144866.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/budget-2027-cabinet-eu-energy-clause.svg",
+        "alt": "Illustrazione simbolica originale sull'argomento budget-2027-cabinet-eu-energy-clause; non è una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/budget-2027-cabinet-eu-energy-clause.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "theatre-workers-national-strike",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "impactReason": "La vertenza tocca condizioni di lavoro e accesso a servizi culturali in molte città, pur restando circoscritta al settore.",
+      "tags": [
+        "teatri",
+        "sciopero",
+        "contratti"
+      ],
+      "title": "Teatri in sciopero nazionale il 27 ottobre per il contratto e le retribuzioni",
+      "dek": "La mobilitazione coinvolge attori, tecnici e maestranze; sindacati contestano la proposta economica di Federvivo.",
+      "summary": "Il 27 ottobre è la giornata di sciopero nazionale proclamata da Slc Cgil, Fistel Cisl e Uilfpc Uil per i lavoratori dei teatri e il personale scritturato. Le cronache di ANSA, la Repubblica e Corriere della Sera riferiscono di iniziative e presìdi annunciati in numerose città, tra cui Roma, Milano, Napoli, Torino e Catania. Il movimento segue la rottura delle trattative con Federvivo.",
+      "body": [
+        "Il 27 ottobre è la giornata di sciopero nazionale proclamata da Slc Cgil, Fistel Cisl e Uilfpc Uil per i lavoratori dei teatri e il personale scritturato. Le cronache di ANSA, la Repubblica e Corriere della Sera riferiscono di iniziative e presìdi annunciati in numerose città, tra cui Roma, Milano, Napoli, Torino e Catania. Il movimento segue la rottura delle trattative con Federvivo.",
+        "I sindacati segnalano che la disciplina contrattuale del settore non è stata aggiornata alle condizioni economiche attuali e lamentano salari erosi dall'inflazione. Secondo i dati sindacali citati dal Corriere, per i dipendenti con paga mensile media di 1.433,43 euro l'offerta di incremento è del 18% in tre anni, fino a 1.691,44 euro nel 2029. Si tratta di valori della vertenza, non di nuove paghe già in vigore.",
+        "Per il personale scritturato il confronto riguarda anche i minimi giornalieri e il riconoscimento degli arretrati. I sindacati considerano insufficiente un aumento proposto del 20% distribuito in tre anni. La dichiarazione di sciopero non implica però che ogni teatro italiano sia rimasto chiuso: adesioni, repliche cancellate e servizi agli spettatori dipendono dalle singole strutture.",
+        "Alcuni teatri hanno segnalato possibili riprogrammazioni o rimborsi, fra cui il Teatro di Napoli con una comunicazione del 23 ottobre. La mobilitazione sindacale si estende in forme differenziate fino al 30 ottobre, mentre una manifestazione nazionale è annunciata per il 9 novembre. La misura della partecipazione effettiva richiede comunicazioni finali di singoli teatri e organizzatori."
+      ],
+      "facts": [
+        "Le tre sigle sindacali hanno indetto lo sciopero nazionale del 27 ottobre.",
+        "Il Teatro di Napoli ha avvertito il pubblico di possibili modifiche agli spettacoli."
+      ],
+      "perspectives": [
+        "I sindacati sostengono che le offerte di aumento non recuperino la perdita del potere d'acquisto."
+      ],
+      "unknowns": [
+        "Il numero definitivo degli spettacoli cancellati e l'adesione complessiva non sono ancora consolidati."
+      ],
+      "questions": [
+        {
+          "question": "Come si traduce l'offerta salariale del 18% contestata dai dipendenti dei teatri?",
+          "answer": "Nei calcoli sindacali l'incremento medio mensile passa da 1.433,43 a 1.691,44 euro entro il 2029, circa 258 euro distribuiti su tre anni; i sindacati osservano che il lungo periodo senza rinnovo ne riduce il valore reale."
+        },
+        {
+          "question": "Perché lo sciopero del 27 ottobre non comporta necessariamente la chiusura di ogni teatro?",
+          "answer": "L'adesione è legata ai lavoratori e alle singole produzioni; alcune strutture possono riorganizzare la programmazione, mentre altre sospendono le repliche. Occorre consultare gli avvisi dei teatri per biglietti e rimborsi."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Sipari abbassati domani per lo sciopero nazionale di Teatri e scritturati",
+          "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/10/26/sipari-abbassati-domani-per-lo-sciopero-nazionale-di-teatri-e-scritturati_58d9e418-516a-453e-ba31-7c7fec61532c.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Sciopero nazionale dei teatri martedì 27 ottobre: motivi e retribuzioni",
+          "url": "https://www.corriere.it/economia/lavoro/26_ottobre_27/sciopero-nazionale-dei-teatri-martedi-27-ottobre-i-motivi-contratto-fermo-dal-2018-stipendio-medio-a-1-400-euro-e-58-euro-per-963296e0-9fb6-4083-8d6a-d054e872bxlk.shtml",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Giù il sipario, teatri in sciopero: mobilitazione nazionale",
+          "url": "https://www.repubblica.it/spettacoli/teatro-danza/2026/10/27/news/teatri_sciopero_nazionale_contratto_lavoro-425676817/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Teatro di Napoli",
+          "title": "Comunicazione sciopero nazionale",
+          "url": "https://www.teatrodinapoli.it/2026/comunicazione-sciopero-nazionale/",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/theatre-workers-national-strike.svg",
+        "alt": "Illustrazione simbolica originale sull'argomento theatre-workers-national-strike; non è una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/theatre-workers-national-strike.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
