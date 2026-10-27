@@ -238,75 +238,76 @@
       }
     },
     {
-      "id": "agc322753-hydrogen-dark-galaxy-candidate",
+      "id": "vangogh-starry-night-july-sky-hypothesis",
       "rank": 4,
       "category": "society",
-      "impact": 2,
-      "impactReason": "L'oggetto può aiutare a verificare teorie sulla formazione delle galassie, ma l'identificazione resta preliminare e lo studio è del 1° ottobre.",
+      "impact": 2.5,
+      "impactReason": "Il confronto fra astronomia quantitativa e documentazione artistica propone una nuova lettura di un'opera celebre, ma la datazione resta controversa.",
       "tags": [
-        "galassie",
-        "idrogeno",
-        "radiotelescopi"
+        "Van Gogh",
+        "astronomia",
+        "storia dell'arte"
       ],
-      "title": "AGC 322753, due radiotelescopi trovano un possibile sistema ricco di gas e povero di stelle",
-      "dek": "Massa di idrogeno stimata in due miliardi di soli; l'assenza di una controparte ottica resta un limite osservativo.",
-      "summary": "Arecibo e FAST hanno rilevato segnali compatibili di idrogeno neutro da AGC 322753, con massa stimata in due miliardi di soli. La mancanza di una controparte ottica evidente la rende candidata galassia oscura, ma non esclude stelle troppo deboli per gli strumenti attuali.",
+      "title": "La Notte stellata, uno studio astronomico propone il cielo del 22 luglio 1889",
+      "dek": "L'allineamento di Luna, Venere e Iadi è compatibile con il dipinto di Van Gogh; il museo contesta la nuova cronologia.",
+      "summary": "Uno studio pubblicato il 22 ottobre su Scientific Reports propone che il cielo della Notte stellata di Van Gogh sia ispirato a un'alba vicina al 22 luglio 1889, non solo al periodo di giugno tradizionalmente attribuito all'opera. Simulazioni astronomiche e lettere dell'artista sostengono la proposta, ma il Van Gogh Museum e astronomi esterni ne contestano l'interpretazione.",
       "body": [
-        "Uno studio pubblicato il 1° ottobre su Monthly Notices of the Royal Astronomical Society, tornato al centro di approfondimenti il 26 ottobre, propone AGC 322753 come candidata galassia oscura. Il gruppo ha incrociato dati radio dell'indagine ALFALFA effettuata con Arecibo e della rilevazione FASHI con il radiotelescopio FAST. Le due osservazioni indipendenti dello stesso segnale riducono il rischio di interferenze strumentali.",
-        "Le misure dell'idrogeno neutro H I convergono su una massa di circa due miliardi di volte quella del Sole. Il profilo spettrale a doppio picco suggerisce movimento ordinato del gas, mentre le immagini disponibili in varie bande ottiche e infrarosse non mostrano una controparte stellare evidente nel punto probabile del segnale. Non rilevare luce non significa dimostrare che non esista alcuna stella.",
-        "Gli autori hanno simulato la presenza di possibili galassie deboli nelle immagini per stimare un limite superiore di massa stellare intorno a 50 milioni di masse solari. Rimane possibile che il segnale descriva una nube di gas con origine mareale, benché alcune caratteristiche di isolamento e rotazione rendano questa interpretazione meno semplice. La parola 'candidata' resta quindi essenziale.",
-        "L'interesse scientifico è capire se possano esistere grandi aloni ricchi di gas in cui la formazione stellare sia stata estremamente inefficiente. Osservazioni radio più risolte e immagini profonde potrebbero distinguere meglio struttura, dinamica e popolazioni stellari deboli. Phys.org e altri specialisti hanno trattato il risultato come ipotesi sostenuta da indizi, non come identificazione definitiva."
+        "Una ricerca interdisciplinare pubblicata il 22 ottobre 2026 su Scientific Reports propone che la disposizione delle stelle e dei pianeti rappresentata nella Notte stellata di Vincent van Gogh possa corrispondere al cielo osservabile prima dell'alba intorno al 22 luglio 1889 presso Saint-Rémy-de-Provence. La proposta è stata esaminata in resoconti originali di Associated Press e Guardian. Non costituisce una nuova datazione accettata unanimemente: la cronologia tradizionale colloca il dipinto nel giugno 1889.",
+        "Il gruppo guidato da Elijah Jeong-hyun Kim ha confrontato una precedente veduta disegnata dal pittore con il profilo del paesaggio, ricostruendo il possibile campo visivo. Ha poi simulato le posizioni della Luna, di Venere e dell'ammasso delle Iadi. L'allineamento risulta vicino a quello raffigurato in alcune mattine intorno al 22 luglio; il disco lunare illuminato stimato per quella data è vicino al 28%. Le corrispondenze geometriche dipendono però dal campo visivo ricostruito.",
+        "Gli autori hanno incrociato il risultato con informazioni meteorologiche ottocentesche e lettere dell'artista, incluse osservazioni su caldo, cicale e condizioni del vento. Hanno inoltre proposto una revisione dell'epoca della crisi di salute di Van Gogh, utilizzata per valutare se fosse in grado di osservare il cielo a fine luglio. La ricostruzione combina indizi indiretti: non dispone di un diario che attesti che Van Gogh abbia dipinto l'intera tela in quella notte.",
+        "Il Guardian ha raccolto obiezioni del Van Gogh Museum, che mantiene la datazione a giugno anche sulla base dei documenti relativi all'invio dell'opera e di un disegno precedente. L'astronomo Donald Olson ha criticato anche la ricostruzione della posizione delle stelle. Lo studio stesso ammette che impressioni raccolte in più notti potrebbero essere state unite nella composizione. Il risultato è dunque una nuova ipotesi quantitativa verificabile, non una dimostrazione che la lettura storica precedente sia falsa."
       ],
       "facts": [
-        "ALFALFA e FASHI rilevano un segnale compatibile di idrogeno neutro di AGC 322753.",
-        "Gli autori stimano circa due miliardi di masse solari di H I e un limite superiore alla componente stellare."
+        "La ricerca è stata pubblicata su Scientific Reports il 22 ottobre 2026.",
+        "Gli autori identificano il cielo vicino al 22 luglio 1889 come una possibile corrispondenza astronomica, non come data certa di esecuzione."
       ],
       "perspectives": [
-        "Gli astronomi interpretano il sistema come candidata galassia scura ma mantengono alternative fisiche."
+        "Il gruppo di Kim ritiene che la combinazione di simulazioni celesti, paesaggio e documenti storici renda credibile l'ipotesi di luglio.",
+        "Il Van Gogh Museum e l'astronomo Donald Olson contestano aspetti della datazione e dell'identificazione degli astri."
       ],
       "unknowns": [
-        "La natura definitiva dell'oggetto e l'eventuale presenza di stelle estremamente deboli non sono risolte."
+        "Non è dimostrato che il pittore abbia osservato tutti gli astri nello stesso momento né che la tela sia stata completata in luglio."
       ],
       "questions": [
         {
-          "question": "Perché i dati di Arecibo e FAST rafforzano il caso di AGC 322753?",
-          "answer": "Due strumenti separati hanno osservato idrogeno alla stessa velocità recessiva e con profili simili. La concordanza limita l'ipotesi di un semplice disturbo radio prodotto da un singolo telescopio."
+          "question": "Quali astri hanno portato i ricercatori a proporre il 22 luglio 1889 per La Notte stellata?",
+          "answer": "Hanno simulato le posizioni della Luna calante, di Venere e dell'ammasso stellare delle Iadi nel campo visivo ricostruito da un disegno del paesaggio. La loro disposizione intorno all'alba del 22 luglio è compatibile con parti della composizione dipinta."
         },
         {
-          "question": "Perché il limite di 50 milioni di masse solari di stelle non prova che la galassia sia completamente buia?",
-          "answer": "È un tetto stimato sulla massa stellare non rilevata dalle immagini attuali, non una misura pari a zero. Stelle troppo deboli potrebbero sfuggire alle osservazioni disponibili."
+          "question": "Perché il Van Gogh Museum non accetta automaticamente la nuova datazione astronomica?",
+          "answer": "La cronologia museale poggia anche su corrispondenza, un disegno già inviato e documenti sul trasferimento della tela. Inoltre il dipinto può combinare osservazioni di notti diverse, e la simulazione dipende da assunzioni sul punto di osservazione e sul campo visivo."
         }
       ],
       "sources": [
         {
-          "outlet": "Phys.org",
-          "title": "FAST and Arecibo point to possible dark galaxy with vast hydrogen reservoir",
-          "url": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
-          "publishedAt": "2026-10-26",
+          "outlet": "Associated Press",
+          "title": "New study traces Van Gogh's famed Starry Night to 1889 sky",
+          "url": "https://apnews.com/article/6385c8e37f748bddc4137cdda5c76887",
+          "publishedAt": "2026-10-22",
           "role": "reporting"
         },
         {
-          "outlet": "AstronomiAmo APS",
-          "title": "AGC 322753, la candidata galassia oscura ricca di idrogeno vista da FAST e Arecibo",
-          "url": "https://astroblog.astronomiamo.it/ArticoloAstronomia/agc-322753-galassia-oscura-idrogeno-fast-arecibo",
-          "publishedAt": "2026-10-27",
+          "outlet": "The Guardian",
+          "title": "Astronomers challenge dating of Van Gogh's Starry Night",
+          "url": "https://www.theguardian.com/artanddesign/2026/oct/22/astronomy-dating-art-van-gogh-starry-night-painting",
+          "publishedAt": "2026-10-22",
           "role": "reporting"
         },
         {
-          "outlet": "Monthly Notices of the Royal Astronomical Society",
-          "title": "AGC 322753: A dark galaxy candidate detected by ALFALFA and FASHI",
-          "url": "https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag1874/8859321",
-          "publishedAt": "2026-10-01",
+          "outlet": "Scientific Reports",
+          "title": "The actual sky of Van Gogh's Starry Night: a multidisciplinary reconstruction",
+          "url": "https://www.nature.com/articles/s41598-026-73025-5",
+          "publishedAt": "2026-10-22",
           "role": "official"
         }
       ],
       "image": {
-        "src": "news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
-        "alt": "Illustrazione concettuale originale sulla ricerca agc322753-hydrogen-dark-galaxy-candidate, non una fotografia",
-        "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
+        "src": "news/2026-10-27/assets/vangogh-starry-night-july-sky-hypothesis.svg",
+        "alt": "Illustrazione astronomica originale della Luna e di stelle, non riproduzione del dipinto di Van Gogh",
+        "credit": "O — original vector illustration",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
-        "kind": "illustration"
+        "kind": "illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/vangogh-starry-night-july-sky-hypothesis.svg"
       }
     },
     {

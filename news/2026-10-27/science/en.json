@@ -238,75 +238,76 @@
       }
     },
     {
-      "id": "agc322753-hydrogen-dark-galaxy-candidate",
+      "id": "vangogh-starry-night-july-sky-hypothesis",
       "rank": 4,
       "category": "society",
-      "impact": 2,
-      "impactReason": "The candidate can inform galaxy-formation theories, but identification is preliminary and the paper first appeared on 1 October.",
+      "impact": 2.5,
+      "impactReason": "Quantitative astronomy opens a new interpretation of a renowned work, but the chronology remains disputed.",
       "tags": [
-        "galaxies",
-        "hydrogen",
-        "radiotelescopes"
+        "Van Gogh",
+        "astronomy",
+        "art history"
       ],
-      "title": "AGC 322753: two radio surveys point to a star-poor galaxy candidate",
-      "dek": "An estimated two billion solar masses of neutral hydrogen were detected; no clear optical counterpart was found.",
-      "summary": "Arecibo and FAST detected compatible neutral-hydrogen signals from AGC 322753 with an estimated mass of two billion Suns. The lack of an obvious optical counterpart makes it a dark-galaxy candidate, but stars too faint for current imaging remain possible.",
+      "title": "Astronomers propose 22 July 1889 sky as inspiration for Van Gogh's Starry Night",
+      "dek": "Moon, Venus and the Hyades may align with the painting; the Van Gogh Museum disputes the revised timeline.",
+      "summary": "A Scientific Reports study published on 22 October argues that the sky in Vincent van Gogh's Starry Night may reflect a dawn around 22 July 1889 rather than only the painting's conventional June dating. Astronomical simulations and historical letters support the proposal, but the Van Gogh Museum and outside astronomers challenge elements of the reconstruction.",
       "body": [
-        "A paper published on 1 October in Monthly Notices of the Royal Astronomical Society, covered again on 26 October, proposes AGC 322753 as a dark-galaxy candidate. Researchers matched radio data from the ALFALFA survey using Arecibo and the FASHI survey using FAST. Independent detections of the same radio signal reduce the chance of an instrumental artefact.",
-        "Neutral hydrogen measurements converge on a mass of about two billion solar masses. A two-peaked spectral profile suggests organised gas motion, while available optical and infrared images show no obvious stellar counterpart at the likely signal location. Not detecting starlight does not prove that absolutely no stars exist.",
-        "The authors inserted simulated faint galaxies into imaging data to estimate an upper stellar-mass limit around 50 million solar masses. A tidal gas cloud is still possible, although some isolation and rotation features complicate that explanation. Describing the object as a 'candidate' is therefore essential.",
-        "The scientific question is whether large gas-rich haloes can exist with extremely inefficient star formation. Higher-resolution radio observations and deeper imaging could better distinguish structure, dynamics and faint stellar populations. Phys.org and specialist coverage describe the result as an evidence-supported candidate, not a definitive identification."
+        "A multidisciplinary study published in Scientific Reports on 22 October 2026 proposes that the arrangement of stars and planets in Vincent van Gogh's Starry Night may correspond to the pre-dawn sky around 22 July 1889 near Saint-Rémy-de-Provence. Associated Press and the Guardian independently reported the research. It is not a universally accepted new date for the painting: the conventional chronology places the work in June 1889.",
+        "A team led by Elijah Jeong-hyun Kim compared an earlier landscape drawing with nearby terrain to reconstruct a possible viewing angle. Researchers then simulated the positions of the Moon, Venus and the Hyades star cluster. Their alignment is compatible with elements of the painting around dawn on 22 July, when they calculated the Moon was roughly 28% illuminated. However, the geometric match depends on how the viewing frame was reconstructed.",
+        "The authors cross-checked the proposed sky with nineteenth-century weather records and Van Gogh's letters, including remarks about heat, cicadas and wind. They also reconsidered the timeline of one of the artist's health crises to assess whether he could have observed the July dawn sky. These are indirect clues rather than a contemporary record stating he completed the whole canvas on that date.",
+        "The Guardian reported objections from the Van Gogh Museum, which retains the June attribution based partly on the documentary chronology, the dispatch of an associated drawing and the transfer of the canvas. Astronomer Donald Olson also questioned the proposed stellar alignment. The researchers acknowledge that van Gogh could have combined observations from different nights. Their result is a testable quantitative hypothesis, not a conclusive disproof of previous art-historical dating."
       ],
       "facts": [
-        "ALFALFA and FASHI detect compatible neutral-hydrogen signals from AGC 322753.",
-        "The authors estimate about two billion solar masses of H I and an upper limit on stellar mass."
+        "The research appeared in Scientific Reports on 22 October 2026.",
+        "The authors identify the sky around 22 July 1889 as a possible astronomical match, not a certain completion date."
       ],
       "perspectives": [
-        "The astronomers interpret the system as a dark-galaxy candidate while retaining physical alternatives."
+        "Kim's team argues that matching sky geometry, landscape and historical documents makes a July observation plausible.",
+        "The Van Gogh Museum and astronomer Donald Olson question parts of the chronology and celestial reconstruction."
       ],
       "unknowns": [
-        "The object's definitive nature and any extremely faint stars remain unresolved."
+        "There is no proof that the artist observed every depicted celestial feature simultaneously or finished the painting in July."
       ],
       "questions": [
         {
-          "question": "Why do Arecibo and FAST strengthen the case for AGC 322753?",
-          "answer": "Separate instruments detected hydrogen at the same recessional velocity and with similar line profiles. Agreement makes a one-telescope radio interference artefact less likely."
+          "question": "Which celestial objects led researchers to propose a 22 July 1889 sky for Starry Night?",
+          "answer": "They simulated the waning Moon, Venus and the Hyades star cluster within a viewing frame inferred from an earlier landscape sketch. Around dawn on 22 July, their configuration resembled parts of van Gogh's painting."
         },
         {
-          "question": "Why doesn't the 50-million-solar-mass upper limit prove the galaxy is completely dark?",
-          "answer": "It is an estimated ceiling on undetected stellar mass given existing images, not a zero measurement. Very faint stars could remain below current detection limits."
+          "question": "Why does the Van Gogh Museum dispute the astronomical redating of Starry Night?",
+          "answer": "The museum's chronology also relies on letters, an earlier transmitted drawing and records of the canvas's transfer. The painting could combine views from different nights, and the simulations depend on assumptions about viewing position and field of view."
         }
       ],
       "sources": [
         {
-          "outlet": "Phys.org",
-          "title": "FAST and Arecibo point to possible dark galaxy with vast hydrogen reservoir",
-          "url": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
-          "publishedAt": "2026-10-26",
+          "outlet": "Associated Press",
+          "title": "New study traces Van Gogh's famed Starry Night to 1889 sky",
+          "url": "https://apnews.com/article/6385c8e37f748bddc4137cdda5c76887",
+          "publishedAt": "2026-10-22",
           "role": "reporting"
         },
         {
-          "outlet": "AstronomiAmo APS",
-          "title": "AGC 322753, la candidata galassia oscura ricca di idrogeno vista da FAST e Arecibo",
-          "url": "https://astroblog.astronomiamo.it/ArticoloAstronomia/agc-322753-galassia-oscura-idrogeno-fast-arecibo",
-          "publishedAt": "2026-10-27",
+          "outlet": "The Guardian",
+          "title": "Astronomers challenge dating of Van Gogh's Starry Night",
+          "url": "https://www.theguardian.com/artanddesign/2026/oct/22/astronomy-dating-art-van-gogh-starry-night-painting",
+          "publishedAt": "2026-10-22",
           "role": "reporting"
         },
         {
-          "outlet": "Monthly Notices of the Royal Astronomical Society",
-          "title": "AGC 322753: A dark galaxy candidate detected by ALFALFA and FASHI",
-          "url": "https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag1874/8859321",
-          "publishedAt": "2026-10-01",
+          "outlet": "Scientific Reports",
+          "title": "The actual sky of Van Gogh's Starry Night: a multidisciplinary reconstruction",
+          "url": "https://www.nature.com/articles/s41598-026-73025-5",
+          "publishedAt": "2026-10-22",
           "role": "official"
         }
       ],
       "image": {
-        "src": "news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
-        "alt": "Original conceptual illustration for study agc322753-hydrogen-dark-galaxy-candidate, not a photograph",
-        "credit": "O — original vector artwork",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
+        "src": "news/2026-10-27/assets/vangogh-starry-night-july-sky-hypothesis.svg",
+        "alt": "Original astronomical illustration of Moon and stars, not a reproduction of Van Gogh's painting",
+        "credit": "O — original vector illustration",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
-        "kind": "illustration"
+        "kind": "illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/vangogh-starry-night-july-sky-hypothesis.svg"
       }
     },
     {
