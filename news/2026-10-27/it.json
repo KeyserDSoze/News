@@ -204,6 +204,13 @@
           "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
           "publishedAt": "2026-10-27",
           "role": "reporting"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Russia and Ukraine begin local ceasefire in frontline city",
+          "url": "https://www.ft.com/content/9aedc2d9-dc92-4412-bc5a-d5ffecf4d8d9",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
         }
       ],
       "image": {
@@ -304,7 +311,7 @@
       "body": [
         "Nelle prime ore del 27 ottobre Russia e Ucraina hanno dichiarato avviata una cessazione locale del fuoco nel settore di Oleshky, città occupata dai russi nell'oblast di Kherson. Reuters ha raccolto la conferma del ministero della Difesa russo e del difensore civico ucraino Dmytro Lubinets; Deutsche Welle ha seguito l'avvio della misura umanitaria. L'entrata in vigore è lo sviluppo nuovo rispetto all'accordo annunciato il 23 ottobre.",
         "La sospensione dovrebbe permettere il trasporto di alimenti, acqua e medicinali e l'evacuazione di residenti rimasti isolati da combattimenti, allagamenti e mine. Lubinets ha spiegato che le strade terrestri necessitano di sminamento prima che convogli e mezzi di emergenza possano raggiungere le persone. Le autorità stimano in circa duemila gli abitanti ancora presenti, ma non esiste un conteggio indipendente aggiornato per ogni quartiere.",
-        "Secondo i comunicati diffusi, il ministero russo ha detto di aver fermato il fuoco verso Kherson all'ora concordata, mentre Lubinets ha assicurato il rispetto degli impegni da parte ucraina. Sono dichiarazioni delle rispettive parti, non una verifica indipendente e continua su ogni tratto di fronte. Le accuse reciproche precedenti sulla responsabilità delle difficoltà umanitarie restano controverse.",
+        "Secondo i comunicati diffusi, il ministero russo e il difensore civico ucraino hanno confermato l'inizio del cessate il fuoco. La redazione ucraina hromadske ha inoltre raccolto la testimonianza di un portavoce dei marines ucraini secondo cui la tregua era rispettata nella mattina del 27 ottobre, ma l'operazione umanitaria non era ancora cominciata. Si tratta di una verifica locale e limitata nel tempo, non del monitoraggio indipendente di ogni tratto di fronte.",
         "Le stesse cronache riferiscono nuovi attacchi in altre regioni ucraine, compresa Kyiv. L'accordo è delimitato territorialmente e non implica la fine della guerra o l'apertura già realizzata di tutti i corridoi. L'esito umanitario dipenderà dall'accesso verificabile degli aiuti e da evacuazioni sicure, non soltanto dalla data dichiarata d'inizio."
       ],
       "facts": [
@@ -347,6 +354,27 @@
           "outlet": "The Guardian",
           "title": "Ukraine war briefing: truce begins in war-ravaged Oleshky",
           "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Localized ceasefire brokered by Melania Trump starts in southern Ukraine",
+          "url": "https://apnews.com/article/f26143c32e4673686381d0ff87225720",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "Russia and Ukraine begin local ceasefire in frontline city",
+          "url": "https://www.ft.com/content/9aedc2d9-dc92-4412-bc5a-d5ffecf4d8d9",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "hromadske",
+          "title": "Russia observes ceasefire for humanitarian mission in occupied Oleshky, Ukrainian military says",
+          "url": "https://hromadske.ua/en/war/273246-russia-observes-ceasefire-for-humanitarian-mission-in-occupied-oleshky-ukrainian-military-says",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         }
