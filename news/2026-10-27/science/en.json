@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-27",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-10-27T16:30:00Z",
+  "editorialNote": "Science drafts: distinguish earlier research publication from today's reporting; do not publish before all checks.",
+  "articles": [
+    {
+      "id": "trofuse005-endometrial-survival-results",
+      "rank": 1,
+      "category": "society",
+      "impact": 3,
+      "impactReason": "Randomised phase 3 evidence shows meaningful benefit for a defined patient group, alongside important adverse effects.",
+      "tags": [
+        "oncology",
+        "TroFuse-005",
+        "survival"
+      ],
+      "title": "TroFuse-005 reports longer median survival in advanced endometrial cancer",
+      "dek": "Among 776 patients, median overall survival was 19 versus 12.1 months; serious adverse events were more frequent.",
+      "summary": "On 26 October, full results from the international phase 3 TroFuse-005 trial of sacituzumab tirumotecan, or sac-TMT, were presented at the ESMO congress for advanced or recurrent endometrial cancer. The study enrolled 776 people previously treated with platinum chemotherapy and anti-PD-1/PD-L1 immunotherapy, randomly assigning them to the investigational drug or physician-selected chemotherapy.",
+      "body": [
+        "On 26 October, full results from the international phase 3 TroFuse-005 trial of sacituzumab tirumotecan, or sac-TMT, were presented at the ESMO congress for advanced or recurrent endometrial cancer. The study enrolled 776 people previously treated with platinum chemotherapy and anti-PD-1/PD-L1 immunotherapy, randomly assigning them to the investigational drug or physician-selected chemotherapy.",
+        "Reported median overall survival was 19.0 months in the sac-TMT group versus 12.1 months with comparator chemotherapy. The hazard ratio for death was 0.68, corresponding to a 32% relative reduction in estimated instantaneous risk over follow-up. A median marks when half the people in each group have experienced the event; it does not promise a particular survival time for any individual.",
+        "Median progression-free survival was 7.2 versus 3.9 months, while grade 3 or higher treatment-related adverse events affected about 54.4% of sac-TMT recipients and 41.4% of those on chemotherapy. These findings indicate measurable benefit alongside more frequent severe toxicity. Individual treatment decisions require clinical assessment of health status and risks.",
+        "Merck said the US FDA accepted the application for priority review for this indication. Reuters, CancerNetwork and Fierce Pharma covered the result as promising for people with limited options, but priority review is not marketing approval. The trial does not establish identical outcomes for patients who have not received the prior treatments required for entry."
+      ],
+      "facts": [
+        "TroFuse-005 randomised 776 patients previously treated with platinum and immunotherapy.",
+        "Reported median overall survival was 19.0 and 12.1 months."
+      ],
+      "perspectives": [
+        "Investigators regard the result as a potential advance for previously treated patients.",
+        "Clinical interpretation must consider the higher severe-toxicity rate."
+      ],
+      "unknowns": [
+        "The FDA decision remains pending and efficacy in unstudied populations is not established."
+      ],
+      "questions": [
+        {
+          "question": "How is TroFuse-005's 6.9-month median difference different from its 32% lower death hazard?",
+          "answer": "The 6.9 months subtracts the two median survival times, while 32% derives from the 0.68 hazard ratio comparing estimated relative risk over follow-up. Neither gives the same benefit for every patient."
+        },
+        {
+          "question": "What safety trade-off appears for sac-TMT versus chemotherapy?",
+          "answer": "Grade 3 or higher treatment-related adverse events occurred in 54.4% with sac-TMT versus 41.4% with chemotherapy. Survival benefit must therefore be weighed against individual treatment risks."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mercks-therapy-extends-survival-hard-to-treat-uterine-cancer-patients-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CancerNetwork",
+          "title": "Sac-TMT Improves Survival vs Chemotherapy in Pretreated Endometrial Cancer",
+          "url": "https://www.cancernetwork.com/view/sac-tmt-improves-survival-vs-chemotherapy-in-pretreated-endometrial-cancer",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Fierce Pharma",
+          "title": "Merck sees pretty consistent data in sac-TMT first global phase 3",
+          "url": "https://www.fiercepharma.com/pharma/sac-tmt-first-global-phase-3-win-merck-sees-pretty-consistent-data-china",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Merck",
+          "title": "Sac-TMT reduced risk of death by 32% in TroFuse-005",
+          "url": "https://www.merck.com/news/sacituzumab-tirumotecan-sac-tmt-reduced-the-risk-of-death-by-32-and-the-risk-of-disease-progression-or-death-by-41-compared-to-chemotherapy-in-certain-patients-with-advanced-or-recurrent-endometrial/",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/trofuse005-endometrial-survival-results.svg",
+        "alt": "Original conceptual illustration for study trofuse005-endometrial-survival-results, not a photograph",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/trofuse005-endometrial-survival-results.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "squid-rna-editing-proteome-cell-study",
+      "rank": 2,
+      "category": "society",
+      "impact": 3,
+      "impactReason": "Proteomic measurements illuminate a significant biological mechanism without establishing clinical applications.",
+      "tags": [
+        "squid",
+        "RNA",
+        "proteins"
+      ],
+      "title": "RNA editing diversifies thousands of squid proteins, study finds",
+      "dek": "A Cell proteomics study identifies around 8,000 recoding sites without changing the underlying DNA.",
+      "summary": "A team led by University of California, San Francisco researchers examined how RNA editing alters the proteins made by the squid Doryteuthis pealeii. The research appeared in Cell and was covered by ScienceAlert on 25 October and People on 27 October. It concerns a molecular regulation mechanism, not permanent rewriting of the animal's DNA.",
+      "body": [
+        "A team led by University of California, San Francisco researchers examined how RNA editing alters the proteins made by the squid Doryteuthis pealeii. The research appeared in Cell and was covered by ScienceAlert on 25 October and People on 27 October. It concerns a molecular regulation mechanism, not permanent rewriting of the animal's DNA.",
+        "Instructions transcribed from DNA can be modified by ADAR-family enzymes before proteins are produced. The researchers identified 7,997 RNA recoding sites across 2,091 proteins in their tissue proteomics analysis. Such changes can create protein variants with different properties from the same underlying genetic sequence.",
+        "According to the paper, some edits change protein stability, cellular location, activity and interactions, including processes affecting organelles. Reports also describe thousands of small proteins not previously catalogued. Demonstrating selected variants does not establish that every theoretically possible protein combination exists or serves a purpose in living squid.",
+        "Coleoid cephalopods are a striking example of RNA editing, with implications for understanding nervous-system evolution and cellular adaptation. Questions remain about how many edits have functions in natural conditions and how they are regulated across tissues. The work advances basic biology; it does not establish a ready-to-use human treatment."
+      ],
+      "facts": [
+        "The study identifies 7,997 recoding sites in 2,091 squid proteins.",
+        "RNA editing alters the transcribed message without changing DNA."
+      ],
+      "perspectives": [
+        "The authors argue RNA editing has an important role in functional protein diversity."
+      ],
+      "unknowns": [
+        "It is not known how many possible edited products are used in every natural condition."
+      ],
+      "questions": [
+        {
+          "question": "How can ADAR enzymes change squid proteins without altering DNA?",
+          "answer": "They modify RNA molecules after transcription, changing some instructions interpreted during protein synthesis. The original DNA sequence remains unchanged."
+        },
+        {
+          "question": "What do the 7,997 editing sites represent, and what don't they count?",
+          "answer": "They are recoding positions found across 2,091 analysed proteins. They are not 7,997 new genes and do not show that every possible combination of edited variants is produced in living animals."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ScienceAlert",
+          "title": "Squid are even more alien-like than we thought, with an unmatched ability to change genetic expression",
+          "url": "https://www.sciencealert.com/squid-are-even-more-alien-like-than-we-thought-with-an-unmatched-ability-to-change-genetic-expression",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "People",
+          "title": "Squids can edit their own genetics without changing DNA",
+          "url": "https://people.com/squid-edit-rna-to-create-5-000-previously-never-before-seen-proteins-12194925",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Cell",
+          "title": "Functional diversification of the cephalopod proteome by RNA editing",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0092867426011840",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/squid-rna-editing-proteome-cell-study.svg",
+        "alt": "Original conceptual illustration for study squid-rna-editing-proteome-cell-study, not a photograph",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/squid-rna-editing-proteome-cell-study.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "portia-spider-rem-sleep-rebound",
+      "rank": 3,
+      "category": "society",
+      "impact": 2.5,
+      "impactReason": "The experiment adds comparative evidence about sleep evolution, limited to one species and behavioural measures.",
+      "tags": [
+        "spiders",
+        "sleep",
+        "evolution"
+      ],
+      "title": "Jumping spiders show REM-like sleep and rebound after disruption",
+      "dek": "Portia fimbriata showed eye movements and compensatory sleep, which does not demonstrate dreaming.",
+      "summary": "A study published on 27 October in PNAS investigated rest in the Australian jumping spider Portia fimbriata. Researchers associated with the University of Bonn used infrared cameras to record nighttime behaviour and tested responses to stimulation to distinguish sleep from inactivity. ABC Science and ScienceAlert independently covered the research and spoke with scientists.",
+      "body": [
+        "A study published on 27 October in PNAS investigated rest in the Australian jumping spider Portia fimbriata. Researchers associated with the University of Bonn used infrared cameras to record nighttime behaviour and tested responses to stimulation to distinguish sleep from inactivity. ABC Science and ScienceAlert independently covered the research and spoke with scientists.",
+        "Recordings show quiet periods alternating with movements of eye structures and twitches of the legs and other body parts. Spiders reacted more slowly to disturbances during these phases than while awake. This supports a REM-like state, although researchers do not have the same direct brain-wave measurements used to classify human sleep.",
+        "To interrupt rest, researchers introduced live fruit flies into the experimental enclosures. On the following night, ScienceAlert reports nearly 80% more total REM-like behaviour, chiefly through additional episodes rather than longer individual ones. This rebound after disruption is evidence that sleep regulation involves more than mere immobility.",
+        "The observation broadens evolutionary comparisons among animals far removed from vertebrates. Researchers hypothesise a connection with memory or learning, but the study did not measure dreams or prove such a cognitive function. Whether the pattern holds in the wild and across other spider species needs further research."
+      ],
+      "facts": [
+        "Portia fimbriata displayed low-responsiveness periods with REM-like movements.",
+        "After sleep disruption, REM-like episodes increased on the following night."
+      ],
+      "perspectives": [
+        "Researchers suggest that complex sleep states may have deep evolutionary roots.",
+        "An expert interviewed by ABC considers it a strong behavioural case for arachnid sleep."
+      ],
+      "unknowns": [
+        "The observations cannot determine whether the spiders dream or what cognitive function the stage serves."
+      ],
+      "questions": [
+        {
+          "question": "What distinguishes Portia fimbriata sleep from simply remaining still?",
+          "answer": "Researchers found slower responses to stimuli and increased REM-like episodes after a disrupted night, two behavioural indicators of regulated sleep."
+        },
+        {
+          "question": "Why doesn't the nearly 80% rebound demonstrate dreaming in spiders?",
+          "answer": "The figure describes time spent in REM-like behaviour during recovery. It does not measure subjective experience, which would require different evidence."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ABC Science",
+          "title": "Scientists video REM-like sleep in Australian jumping spider species",
+          "url": "https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ScienceAlert",
+          "title": "Spiders can rack up REM-like sleep debt and may even dream",
+          "url": "https://www.sciencealert.com/spiders-can-rack-up-rem-like-sleep-debt-and-may-even-dream-just-like-humans",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Leibniz Institute for Biodiversity Change",
+          "title": "Spiders have different sleep phases",
+          "url": "https://leibniz-lib.de/en/news/spiders-have-different-sleep-phases.html",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/portia-spider-rem-sleep-rebound.svg",
+        "alt": "Original conceptual illustration for study portia-spider-rem-sleep-rebound, not a photograph",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/portia-spider-rem-sleep-rebound.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "agc322753-hydrogen-dark-galaxy-candidate",
+      "rank": 4,
+      "category": "society",
+      "impact": 2,
+      "impactReason": "The candidate can inform galaxy-formation theories, but identification is preliminary and the paper first appeared on 1 October.",
+      "tags": [
+        "galaxies",
+        "hydrogen",
+        "radiotelescopes"
+      ],
+      "title": "AGC 322753: two radio surveys point to a star-poor galaxy candidate",
+      "dek": "An estimated two billion solar masses of neutral hydrogen were detected; no clear optical counterpart was found.",
+      "summary": "A paper published on 1 October in Monthly Notices of the Royal Astronomical Society, covered again on 26 October, proposes AGC 322753 as a dark-galaxy candidate. Researchers matched radio data from the ALFALFA survey using Arecibo and the FASHI survey using FAST. Independent detections of the same radio signal reduce the chance of an instrumental artefact.",
+      "body": [
+        "A paper published on 1 October in Monthly Notices of the Royal Astronomical Society, covered again on 26 October, proposes AGC 322753 as a dark-galaxy candidate. Researchers matched radio data from the ALFALFA survey using Arecibo and the FASHI survey using FAST. Independent detections of the same radio signal reduce the chance of an instrumental artefact.",
+        "Neutral hydrogen measurements converge on a mass of about two billion solar masses. A two-peaked spectral profile suggests organised gas motion, while available optical and infrared images show no obvious stellar counterpart at the likely signal location. Not detecting starlight does not prove that absolutely no stars exist.",
+        "The authors inserted simulated faint galaxies into imaging data to estimate an upper stellar-mass limit around 50 million solar masses. A tidal gas cloud is still possible, although some isolation and rotation features complicate that explanation. Describing the object as a 'candidate' is therefore essential.",
+        "The scientific question is whether large gas-rich haloes can exist with extremely inefficient star formation. Higher-resolution radio observations and deeper imaging could better distinguish structure, dynamics and faint stellar populations. Phys.org and specialist coverage describe the result as an evidence-supported candidate, not a definitive identification."
+      ],
+      "facts": [
+        "ALFALFA and FASHI detect compatible neutral-hydrogen signals from AGC 322753.",
+        "The authors estimate about two billion solar masses of H I and an upper limit on stellar mass."
+      ],
+      "perspectives": [
+        "The astronomers interpret the system as a dark-galaxy candidate while retaining physical alternatives."
+      ],
+      "unknowns": [
+        "The object's definitive nature and any extremely faint stars remain unresolved."
+      ],
+      "questions": [
+        {
+          "question": "Why do Arecibo and FAST strengthen the case for AGC 322753?",
+          "answer": "Separate instruments detected hydrogen at the same recessional velocity and with similar line profiles. Agreement makes a one-telescope radio interference artefact less likely."
+        },
+        {
+          "question": "Why doesn't the 50-million-solar-mass upper limit prove the galaxy is completely dark?",
+          "answer": "It is an estimated ceiling on undetected stellar mass given existing images, not a zero measurement. Very faint stars could remain below current detection limits."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Phys.org",
+          "title": "FAST and Arecibo point to possible dark galaxy with vast hydrogen reservoir",
+          "url": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Orbital Wire",
+          "title": "AGC 322753 dark galaxy candidate",
+          "url": "https://orbital-wire.com/astronomy-astrophysics/agc-322753-candidate-dark-galaxy/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Monthly Notices of the Royal Astronomical Society",
+          "title": "AGC 322753: A dark galaxy candidate detected by ALFALFA and FASHI",
+          "url": "https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag1874/8859321",
+          "publishedAt": "2026-10-01",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
+        "alt": "Original conceptual illustration for study agc322753-hydrogen-dark-galaxy-candidate, not a photograph",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/agc322753-hydrogen-dark-galaxy-candidate.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "solar-corona-laser-reconnection-prl",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "impactReason": "The experiment clarifies a plausible astrophysical mechanism, but its real contribution to the corona remains unmeasured.",
+      "tags": [
+        "Sun",
+        "plasma",
+        "lasers"
+      ],
+      "title": "Laser-plasma experiment tests a possible source of solar coronal heating",
+      "dek": "Magnetic reconnection driven by instabilities heated laboratory plasma electrons, not the Sun itself.",
+      "summary": "An experiment published in Physical Review Letters and covered on 25–26 October by ScienceAlert and Phys.org examined a possible contribution to solar-corona heating. A team led by Wei Sun used China's Shenguang-II laser facility to generate plasma from plastic targets with rippled surfaces. The underlying puzzle is why the Sun's outer atmosphere is much hotter than its visible surface.",
+      "body": [
+        "An experiment published in Physical Review Letters and covered on 25–26 October by ScienceAlert and Phys.org examined a possible contribution to solar-corona heating. A team led by Wei Sun used China's Shenguang-II laser facility to generate plasma from plastic targets with rippled surfaces. The underlying puzzle is why the Sun's outer atmosphere is much hotter than its visible surface.",
+        "Expanding plasma formed unstable structures that brought oppositely directed magnetic regions together. This can trigger magnetic reconnection, converting energy stored in fields into particle heating. Researchers compared plasma from rippled targets with that produced by flat surfaces, where the instabilities were much less prominent.",
+        "Electron temperatures inferred from X-rays in the rippled-target experiment reached around 820,000 degrees in thermal scale, roughly twice the control. Simulations suppressing magnetic-field generation removed much of the extra heating, supporting a magnetic mechanism. These numbers concern millimetre-scale laboratory plasma, not a new direct temperature measurement of the Sun's corona.",
+        "The work provides controlled physical evidence supporting processes resembling tiny solar energy releases called nanoflares. But density, geometry and timescales do not reproduce the full Sun, so it remains unknown how often the mechanism operates there or what share of heating it explains. Solar observations and more realistic experiments will help test its importance."
+      ],
+      "facts": [
+        "The experiment compared rippled and flat plastic targets.",
+        "The unstable plasma reached an estimated electron-temperature peak around 820,000 degrees."
+      ],
+      "perspectives": [
+        "The authors interpret the difference as support for instability-triggered magnetic reconnection."
+      ],
+      "unknowns": [
+        "The contribution of this mechanism to the actual overall solar corona heating is not quantified."
+      ],
+      "questions": [
+        {
+          "question": "What did the rippled laser target change compared with the flat control?",
+          "answer": "It promoted unstable structures that brought opposing magnetic fields together, enabling reconnection and an electron-temperature peak roughly twice that of the control."
+        },
+        {
+          "question": "Why doesn't the roughly 820,000-degree peak by itself solve the Sun's heating puzzle?",
+          "answer": "It was measured in a tiny artificial plasma under specific conditions. The Sun has different scales, densities and timescales; how much coronal energy this process supplies still needs testing."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ScienceAlert",
+          "title": "Scientists simulated solar explosions in the lab",
+          "url": "https://www.sciencealert.com/scientists-simulated-solar-explosions-in-the-lab-and-may-have-solved-one-of-the-suns-biggest-mysteries",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Laser-blasted plasma shows how instabilities could heat the sun's corona",
+          "url": "https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/solar-corona-laser-reconnection-prl.svg",
+        "alt": "Original conceptual illustration for study solar-corona-laser-reconnection-prl, not a photograph",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/solar-corona-laser-reconnection-prl.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
