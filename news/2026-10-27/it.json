@@ -1,0 +1,736 @@
+{
+  "date": "2026-10-27",
+  "language": "it",
+  "section": "world",
+  "publishedAt": "2026-10-27T16:30:00Z",
+  "editorialNote": "Edizione Mondo del 27 ottobre: fatti e aggiornamenti datati; tutte le verifiche e la pubblicazione restano soggette ai controlli editoriali e tecnici.",
+  "articles": [
+    {
+      "id": "congo-ebola-10060-cases-oct27",
+      "rank": 1,
+      "category": "society",
+      "impact": 3.5,
+      "impactReason": "L'epidemia ha dimensioni continentali e importanti conseguenze sanitarie, ma i singoli percorsi di trasmissione devono essere verificati.",
+      "tags": [
+        "Ebola",
+        "Congo",
+        "epidemia"
+      ],
+      "title": "RDC, oltre diecimila casi di Ebola: il bilancio ufficiale sale a 4.887 morti",
+      "dek": "Il rapporto sanitario del 27 ottobre documenta 10.060 infezioni confermate; i timori di propagazione richiedono dati paese per paese.",
+      "summary": "Il 27 ottobre l'istituto di sanità pubblica della Repubblica democratica del Congo ha comunicato 10.060 casi confermati di Ebola e 4.887 decessi. La cifra rappresenta un nuovo aggiornamento dell'epidemia da virus Bundibugyo iniziata nel maggio 2026: Reuters e Associated Press riportano separatamente il superamento della soglia dei diecimila casi. Il dato non deve essere mescolato ai 9.964 casi censiti da ECDC al 24 ottobre.",
+      "body": [
+        "Il 27 ottobre l'istituto di sanità pubblica della Repubblica democratica del Congo ha comunicato 10.060 casi confermati di Ebola e 4.887 decessi. La cifra rappresenta un nuovo aggiornamento dell'epidemia da virus Bundibugyo iniziata nel maggio 2026: Reuters e Associated Press riportano separatamente il superamento della soglia dei diecimila casi. Il dato non deve essere mescolato ai 9.964 casi censiti da ECDC al 24 ottobre.",
+        "I conteggi collocano l'epidemia attuale sopra quella congolese del 2018–2020 per dimensioni e mortalità e, secondo Reuters, al secondo posto mondiale dopo quella dell'Africa occidentale del 2014–2016. Un confronto storico va però circoscritto alle categorie dichiarate: infezioni confermate, morti riportati e periodo di osservazione. Il numero dei morti non descrive da solo la probabilità individuale di decesso di ogni paziente.",
+        "Sono emerse segnalazioni fuori dalla RDC, fra cui casi riferiti in Kenya e un'indagine su un'infezione in Nigeria. Il percorso di contagio della paziente nigeriana, che non avrebbe viaggiato in Congo, non è ancora chiarito; attribuire la sua esposizione a una singola tratta o a un singolo contatto sarebbe un'ipotesi. Ogni Stato aggiorna i propri bollettini con tempi e criteri diversi.",
+        "L'aumento della circolazione rende importanti diagnosi rapide, isolamento sicuro, tracciamento dei contatti e protezione degli operatori. La violenza registrata contro personale sanitario nel nord-est congolese, già riferita da più agenzie, può complicare queste attività, ma la sua incidenza numerica sull'andamento dell'epidemia non è quantificata. Le prossime valutazioni dipenderanno dai bollettini sanitari e dalle indagini epidemiologiche."
+      ],
+      "facts": [
+        "Il rapporto congolese del 27 ottobre riporta 10.060 casi confermati e 4.887 decessi.",
+        "La forma virale identificata per l'epidemia è Bundibugyo."
+      ],
+      "perspectives": [
+        "Le autorità sanitarie concentrano l'attenzione sul contenimento e sulla sorveglianza dei contatti."
+      ],
+      "unknowns": [
+        "La catena epidemiologica di alcuni casi fuori Congo e gli effetti della violenza contro sanitari non sono definiti."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa indica il rapporto fra 10.060 casi e 4.887 morti nell'epidemia congolese?",
+          "answer": "È il rapporto fra decessi e casi confermati cumulativi alla data del bollettino. Non equivale a una prognosi personale, perché tempi di diagnosi, aggiornamenti e condizioni dei malati variano."
+        },
+        {
+          "question": "Perché i casi segnalati in Kenya e Nigeria richiedono indagini distinte?",
+          "answer": "La vicinanza geografica non dimostra una sola catena di trasmissione. Servono cronologie dei contatti, spostamenti, dati clinici e, quando disponibili, confronti genomici per collegare infezioni specifiche."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Congo's Ebola cases surpass 10,000 as fears grow of wider African spread",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-infections-surpass-10000-government-says-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Congo Ebola surpasses 10,000 cases in major outbreak",
+          "url": "https://apnews.com/article/75d315254e5b7f85a706059de6f5024c",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ECDC",
+          "title": "Ebola public health event update 26 October 2026",
+          "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-10-26",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
+        "alt": "Illustrazione editoriale simbolica originale per congo-ebola-10060-cases-oct27; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/congo-ebola-10060-cases-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "israel-election-high-turnout-voting-oct27",
+      "rank": 2,
+      "category": "politics",
+      "impact": 3.5,
+      "impactReason": "L'esito politico può incidere su sicurezza e diplomazia regionale; l'alta affluenza è documentata ma non anticipa il vincitore.",
+      "tags": [
+        "Israele",
+        "elezioni",
+        "affluenza"
+      ],
+      "title": "Israele al voto: affluenza del 55,7% alle 16, nessun risultato definitivo",
+      "dek": "La commissione elettorale segnala una partecipazione elevata; per governare servono almeno 61 seggi su 120.",
+      "summary": "Martedì 27 ottobre gli israeliani votano per rinnovare la Knesset dopo un periodo segnato da guerre e forti fratture politiche. La Commissione elettorale centrale ha comunicato un'affluenza del 55,7% alle 16 locali, contro il 47,5% alla stessa ora del voto del 2022. Il dato è riportato dal Times of Israel, mentre Guardian e Reuters seguono separatamente il processo elettorale. Si tratta di una fotografia parziale della giornata, non dell'affluenza definitiva.",
+      "body": [
+        "Martedì 27 ottobre gli israeliani votano per rinnovare la Knesset dopo un periodo segnato da guerre e forti fratture politiche. La Commissione elettorale centrale ha comunicato un'affluenza del 55,7% alle 16 locali, contro il 47,5% alla stessa ora del voto del 2022. Il dato è riportato dal Times of Israel, mentre Guardian e Reuters seguono separatamente il processo elettorale. Si tratta di una fotografia parziale della giornata, non dell'affluenza definitiva.",
+        "Le urne sono aperte dalle 7 alle 22 locali e chi arriva in tempo può votare anche se è ancora in fila. Il confronto vede il Likud di Benjamin Netanyahu, i suoi alleati e una coalizione di opposizione che include l'ex capo dell'esercito Gadi Eisenkot. Le rilevazioni antecedenti mostrano una competizione aperta; proiezioni costruite su sondaggi precedenti non sono seggi effettivamente assegnati.",
+        "La Knesset comprende 120 deputati e il governo ha normalmente bisogno di una maggioranza di almeno 61. I partiti sotto la soglia nazionale del 3,25% non entrano nell'assemblea, creando effetti significativi sulla distribuzione dei seggi. Per questo l'affluenza nei diversi gruppi di elettori può modificare i rapporti fra blocchi anche senza spostare drasticamente il voto di un singolo partito.",
+        "Durante la giornata esponenti politici hanno avanzato accuse su irregolarità e tentativi di condizionamento. La Commissione elettorale ha dichiarato di non vedere segnali di irregolarità diffuse; affermazioni dei contendenti non sono conclusioni giudiziarie. Exit poll e primi conteggi sono attesi solo dopo la chiusura delle urne, mentre la formazione di eventuali coalizioni richiederà trattative successive."
+      ],
+      "facts": [
+        "Alle 16 locali il 27 ottobre l'affluenza riportata era 55,7%.",
+        "La Knesset ha 120 seggi e la soglia elettorale nazionale è del 3,25%."
+      ],
+      "perspectives": [
+        "Netanyahu e i rivali presentano il voto come scelta decisiva sulla sicurezza e sulla direzione politica del paese.",
+        "L'autorità elettorale invita a distinguere accuse politiche da anomalie documentate."
+      ],
+      "unknowns": [
+        "Il risultato del voto, la distribuzione dei seggi e le possibili maggioranze non erano ancora definitivi al momento di redazione."
+      ],
+      "questions": [
+        {
+          "question": "Perché una percentuale di affluenza elevata può cambiare la distribuzione dei 120 seggi israeliani?",
+          "answer": "Le liste devono superare il 3,25% nazionale per ottenere rappresentanza. Se votano più persone di gruppi differenti, alcuni partiti possono superare o mancare la soglia, cambiando i seggi distribuiti fra le coalizioni."
+        },
+        {
+          "question": "Il 55,7% alle 16 permette di stabilire chi governerà Israele?",
+          "answer": "La cifra misura la partecipazione fino a quell'ora, non i voti ai partiti. La maggioranza richiesta è 61 seggi, e anche con i risultati finali possono servire negoziati fra forze politiche."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Times of Israel",
+          "title": "Turnout hits historic high as Israel votes; election committee rejects claims",
+          "url": "https://www.timesofisrael.com/turnout-hits-historic-high-as-israel-votes-in-national-election-parties-allege-foul-play/amp/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "High turnout as Israel goes to the polls — live updates",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Netanyahu's political survival on the line as Israel votes",
+          "url": "https://www.reuters.com/world/middle-east/netanyahus-political-survival-line-israel-votes-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
+        "alt": "Illustrazione editoriale simbolica originale per israel-election-high-turnout-voting-oct27; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/israel-election-high-turnout-voting-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "kyiv-strike-oct26-metro-healthcare",
+      "rank": 3,
+      "category": "world",
+      "impact": 3,
+      "impactReason": "Danni civili e vittime nella capitale incidono sulla sicurezza e sulla pressione diplomatica, ma cifre e responsabilità specifiche richiedono attribuzione.",
+      "tags": [
+        "Ucraina",
+        "Kyiv",
+        "missili"
+      ],
+      "title": "Nuovi missili su Kyiv: vittime e danni a strutture civili il 26 ottobre",
+      "dek": "Le cronache aggiornano il bilancio fra la notte e il mattino; l'attacco è distinto da quello del 22 ottobre.",
+      "summary": "Nella serata di lunedì 26 ottobre missili russi hanno colpito più punti di Kyiv, secondo le autorità ucraine e i resoconti di Reuters e Guardian. Il sindaco Vitali Klitschko ha riferito esplosioni, danni a strutture mediche e problemi in prossimità di un'infrastruttura di trasporto; Volodymyr Zelenskyy ha parlato di un impatto nell'area di un campus universitario. Questa cronologia si riferisce all'attacco del 26 ottobre, non a quello del 22 già presente nell'archivio.",
+      "body": [
+        "Nella serata di lunedì 26 ottobre missili russi hanno colpito più punti di Kyiv, secondo le autorità ucraine e i resoconti di Reuters e Guardian. Il sindaco Vitali Klitschko ha riferito esplosioni, danni a strutture mediche e problemi in prossimità di un'infrastruttura di trasporto; Volodymyr Zelenskyy ha parlato di un impatto nell'area di un campus universitario. Questa cronologia si riferisce all'attacco del 26 ottobre, non a quello del 22 già presente nell'archivio.",
+        "I bollettini delle ore immediatamente successive parlavano di almeno una persona uccisa e diversi feriti. Il Guardian ha indicato otto feriti nell'aggiornamento pubblicato la notte fra lunedì e martedì, mentre Reuters ha riportato successivamente fino a dieci feriti. La differenza può derivare dai tempi della verifica e non va appiattita in un totale unico attribuito indistintamente a entrambe le testate.",
+        "Secondo i resoconti, fra i luoghi danneggiati figurano l'area universitaria e strutture sanitarie. Zelenskyy ha sostenuto che gli obiettivi colpiti erano luoghi densamente abitati privi di installazioni militari immediate. È una dichiarazione del presidente ucraino; per accertare scopi dell'attacco e circostanze dettagliate servono prove tecniche e indagini indipendenti.",
+        "L'attacco si è verificato a poche ore dall'inizio di una tregua circoscritta a Oleshky, nel sud dell'Ucraina. La coincidenza non rende contraddittori i due eventi: la sospensione delle ostilità negoziata riguarda un'area locale e non equivale a un cessate il fuoco nazionale. La distinzione è essenziale per leggere correttamente le notizie sulla guerra nello stesso giorno."
+      ],
+      "facts": [
+        "L'attacco a Kyiv del 26 ottobre è distinto dai bombardamenti del 22 ottobre.",
+        "Le cronache riportano almeno un morto e aggiornamenti divergenti sul numero di feriti."
+      ],
+      "perspectives": [
+        "Il governo ucraino denuncia attacchi contro luoghi civili; la motivazione militare dichiarata da Mosca non è stabilita nei resoconti consultati."
+      ],
+      "unknowns": [
+        "Il numero finale dei feriti, i bersagli intenzionali e la valutazione indipendente dei danni restano da accertare."
+      ],
+      "questions": [
+        {
+          "question": "Perché i numeri dei feriti a Kyiv differiscono fra Guardian e Reuters?",
+          "answer": "I rapporti sono usciti in momenti diversi dopo l'attacco: il Guardian riportava otto feriti, un aggiornamento Reuters fino a dieci. In eventi rapidi i bilanci possono cambiare con i soccorsi e le verifiche."
+        },
+        {
+          "question": "La tregua a Oleshky vietava gli attacchi a Kyiv del 26 ottobre?",
+          "answer": "L'accordo annunciato riguardava un'operazione umanitaria limitata al settore di Oleshky nella regione di Kherson. Non era un cessate il fuoco generale applicabile a tutta l'Ucraina."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Kyiv under attack, mayor says strike near underground station",
+          "url": "https://www.reuters.com/world/kyiv-under-attack-mayor-says-strike-near-underground-station-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Ukraine war briefing: Russian strikes Kyiv hours before truce begins",
+          "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
+        "alt": "Illustrazione editoriale simbolica originale per kyiv-strike-oct26-metro-healthcare; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/kyiv-strike-oct26-metro-healthcare.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "brazil-markets-post-election-circuit-breaker",
+      "rank": 4,
+      "category": "economy",
+      "impact": 3,
+      "impactReason": "Il crollo azionario e la brusca variazione valutaria hanno effetti finanziari immediati nel maggiore mercato sudamericano.",
+      "tags": [
+        "Brasile",
+        "mercati",
+        "Ibovespa"
+      ],
+      "title": "Brasile, il 26 ottobre Ibovespa perde il 13,88% e scatta il circuit breaker",
+      "dek": "Reazione finanziaria alla rielezione di Lula: dollaro a 5,403 real secondo Agência Brasil, senza confondere minimo e chiusura.",
+      "summary": "La borsa brasiliana ha avuto un lunedì 26 ottobre di forte volatilità dopo la rielezione di Luiz Inácio Lula da Silva nel ballottaggio del giorno prima. Agência Brasil e Folha de S.Paulo indicano una perdita di chiusura del 13,88% per l'Ibovespa, fino a circa 176.608 punti. L'evento nuovo della giornata è la reazione finanziaria e non l'esito elettorale, già trattato in precedenza.",
+      "body": [
+        "La borsa brasiliana ha avuto un lunedì 26 ottobre di forte volatilità dopo la rielezione di Luiz Inácio Lula da Silva nel ballottaggio del giorno prima. Agência Brasil e Folha de S.Paulo indicano una perdita di chiusura del 13,88% per l'Ibovespa, fino a circa 176.608 punti. L'evento nuovo della giornata è la reazione finanziaria e non l'esito elettorale, già trattato in precedenza.",
+        "Il mercato ha interrotto temporaneamente le contrattazioni mediante il cosiddetto circuit breaker dopo un calo intraday che ha superato il 17% nel punto più basso, intorno a 169.516 punti. Le perdite di fine seduta sono risultate inferiori al minimo registrato durante la mattinata. Un titolo che parla di una caduta del 17% può quindi riferirsi a una fase del giorno e non alla chiusura ufficiale.",
+        "Il dollaro statunitense si è apprezzato rispetto al real. Agência Brasil ha registrato +8,21% a 5,403 real per dollaro, mentre alcuni altri resoconti presentano cifre leggermente diverse in base all'istante o alla convenzione di quotazione. Gli investitori hanno rivisto le scommesse sulle prospettive fiscali dopo un risultato politico diverso da quello che una parte del mercato aveva anticipato.",
+        "La volatilità influenza il costo di finanziamento e può pesare su imprese e famiglie, ma un solo giorno non dimostra l'andamento futuro dell'economia brasiliana. Il Tesoro è intervenuto sul mercato del debito attraverso operazioni di sostegno riferite dalla stampa nazionale. La valutazione a medio termine dipende da decisioni di governo, fiducia del mercato, tassi e dati macroeconomici successivi."
+      ],
+      "facts": [
+        "Ibovespa ha chiuso il 26 ottobre a circa 176.608 punti, in calo del 13,88%.",
+        "Il circuit breaker ha interrotto gli scambi in una fase di caduta intraday superiore al 17%."
+      ],
+      "perspectives": [
+        "Diversi analisti collegano le vendite alla revisione delle aspettative fiscali dopo il voto."
+      ],
+      "unknowns": [
+        "Non è possibile attribuire il movimento di ogni titolo al solo risultato politico né prevedere la durata della volatilità."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa ha fatto il circuit breaker durante la caduta dell'Ibovespa?",
+          "answer": "Ha sospeso temporaneamente la negoziazione quando il mercato ha subito una perdita molto rapida, per ridurre gli effetti di scambi disordinati. La seduta è poi ripresa e l'indice ha chiuso a -13,88%."
+        },
+        {
+          "question": "Perché la perdita di oltre il 17% non è il dato finale della borsa brasiliana?",
+          "answer": "Il valore oltre il 17% è il minimo raggiunto durante la mattina, mentre -13,88% misura l'intera seduta fino alla chiusura: le quotazioni sono cambiate fra i due momenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Agência Brasil",
+          "title": "Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Bolsa fecha em queda de 14% após primeiro circuit breaker em seis anos",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-de-mais-de-8-apos-vitoria-de-lula-juros-futuros-disparam.shtml",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UOL Economia",
+          "title": "Com eleição, dólar tem maior alta desde 1999 e Ibovespa despenca 14%",
+          "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/10/26/com-eleicao-de-lula-dolar-fecha-acima-de-r-540-e-ibovespa-despenca-14.ghtm",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
+        "alt": "Illustrazione editoriale simbolica originale per brazil-markets-post-election-circuit-breaker; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/brazil-markets-post-election-circuit-breaker.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "oleshky-humanitarian-ceasefire-begins",
+      "rank": 5,
+      "category": "world",
+      "impact": 3,
+      "impactReason": "Una tregua localizzata può ridurre il rischio per migliaia di civili isolati, pur non modificando la guerra nel resto dell'Ucraina.",
+      "tags": [
+        "Oleshky",
+        "tregua",
+        "umanitario"
+      ],
+      "title": "Oleshky, Russia e Ucraina confermano l'avvio della tregua umanitaria locale",
+      "dek": "Il 27 ottobre stop alle ostilità nel settore della città occupata per consentire aiuti ed evacuazioni; il conflitto prosegue altrove.",
+      "summary": "Nelle prime ore del 27 ottobre Russia e Ucraina hanno dichiarato avviata una cessazione locale del fuoco nel settore di Oleshky, città occupata dai russi nell'oblast di Kherson. Reuters ha raccolto la conferma del ministero della Difesa russo e del difensore civico ucraino Dmytro Lubinets; Deutsche Welle ha seguito l'avvio della misura umanitaria. L'entrata in vigore è lo sviluppo nuovo rispetto all'accordo annunciato il 23 ottobre.",
+      "body": [
+        "Nelle prime ore del 27 ottobre Russia e Ucraina hanno dichiarato avviata una cessazione locale del fuoco nel settore di Oleshky, città occupata dai russi nell'oblast di Kherson. Reuters ha raccolto la conferma del ministero della Difesa russo e del difensore civico ucraino Dmytro Lubinets; Deutsche Welle ha seguito l'avvio della misura umanitaria. L'entrata in vigore è lo sviluppo nuovo rispetto all'accordo annunciato il 23 ottobre.",
+        "La sospensione dovrebbe permettere il trasporto di alimenti, acqua e medicinali e l'evacuazione di residenti rimasti isolati da combattimenti, allagamenti e mine. Lubinets ha spiegato che le strade terrestri necessitano di sminamento prima che convogli e mezzi di emergenza possano raggiungere le persone. Le autorità stimano in circa duemila gli abitanti ancora presenti, ma non esiste un conteggio indipendente aggiornato per ogni quartiere.",
+        "Secondo i comunicati diffusi, il ministero russo ha detto di aver fermato il fuoco verso Kherson all'ora concordata, mentre Lubinets ha assicurato il rispetto degli impegni da parte ucraina. Sono dichiarazioni delle rispettive parti, non una verifica indipendente e continua su ogni tratto di fronte. Le accuse reciproche precedenti sulla responsabilità delle difficoltà umanitarie restano controverse.",
+        "Le stesse cronache riferiscono nuovi attacchi in altre regioni ucraine, compresa Kyiv. L'accordo è delimitato territorialmente e non implica la fine della guerra o l'apertura già realizzata di tutti i corridoi. L'esito umanitario dipenderà dall'accesso verificabile degli aiuti e da evacuazioni sicure, non soltanto dalla data dichiarata d'inizio."
+      ],
+      "facts": [
+        "Entrambe le parti hanno confermato l'avvio della tregua locale il 27 ottobre.",
+        "Il piano mira alla consegna di aiuti e all'evacuazione di civili da Oleshky."
+      ],
+      "perspectives": [
+        "Lubinets sottolinea che la bonifica delle vie di accesso è necessaria prima della consegna degli aiuti.",
+        "Le autorità russe affermano di aver sospeso il fuoco nel settore interessato."
+      ],
+      "unknowns": [
+        "La quantità di aiuti effettivamente entrati, il numero di evacuati e i meccanismi di controllo sul terreno restano da confermare."
+      ],
+      "questions": [
+        {
+          "question": "Perché lo sminamento è un passaggio centrale nella tregua di Oleshky?",
+          "answer": "Le vie terrestri di accesso sono contaminate da mine e ordigni. Anche se cessano gli spari, i mezzi umanitari non possono raggiungere in sicurezza i residenti senza prima bonificare percorsi utilizzabili."
+        },
+        {
+          "question": "Come si può distinguere l'avvio formale della tregua dall'effettivo successo umanitario?",
+          "answer": "L'avvio è documentato dalle dichiarazioni di entrambe le parti. Il successo richiede consegne di acqua, cibo e medicine e evacuazioni realmente compiute, verificate indipendentemente."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "US-brokered ceasefire starts in Ukrainian town facing starvation",
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-begin-localised-ceasefire-allow-humanitarian-operation-oleshky-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Deutsche Welle",
+          "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+          "url": "https://amp.dw.com/en/ukraine-war-russia-melania-trump-usa/a-79771473",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Ukraine war briefing: truce begins in war-ravaged Oleshky",
+          "url": "https://www.theguardian.com/world/2026/oct/27/ukraine-war-briefing-russian-strikes-kyiv-truce-begins-oleshky",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
+        "alt": "Illustrazione editoriale simbolica originale per oleshky-humanitarian-ceasefire-begins; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/oleshky-humanitarian-ceasefire-begins.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "romania-carfil-fire-sabotage-probe",
+      "rank": 6,
+      "category": "world",
+      "impact": 3,
+      "impactReason": "L'accusa tocca infrastrutture industriali e sicurezza NATO/UE, ma resta un procedimento giudiziario non definito.",
+      "tags": [
+        "Romania",
+        "sabotaggio",
+        "indagine"
+      ],
+      "title": "Romania, gli inquirenti attribuiscono a una rete coordinata dalla Russia l'incendio di Brașov",
+      "dek": "Il 26 ottobre intelligence e procura illustrano le prove sul rogo del 14 settembre e tre indagati: attribuzioni giudiziarie, non sentenze.",
+      "summary": "Il 26 ottobre il Serviciul Român de Informații, servizio di intelligence romeno, e i procuratori anticriminalità DIICOT hanno reso noti nuovi risultati dell'indagine su un incendio scoppiato il 14 settembre nella piattaforma industriale Carfil di Brașov. Le autorità sostengono che l'episodio sia stato organizzato da una rete di sabotaggio coordinata dalla Federazione Russa. Reuters, Agerpres e Romania Insider hanno documentato la comunicazione, che non equivale a una condanna definitiva.",
+      "body": [
+        "Il 26 ottobre il Serviciul Român de Informații, servizio di intelligence romeno, e i procuratori anticriminalità DIICOT hanno reso noti nuovi risultati dell'indagine su un incendio scoppiato il 14 settembre nella piattaforma industriale Carfil di Brașov. Le autorità sostengono che l'episodio sia stato organizzato da una rete di sabotaggio coordinata dalla Federazione Russa. Reuters, Agerpres e Romania Insider hanno documentato la comunicazione, che non equivale a una condanna definitiva.",
+        "Secondo DIICOT, le indagini riguardano tre cittadini stranieri residenti nell'Unione europea, due bielorussi e un ucraino. Due persone sono state rintracciate e poste in custodia cautelare in Germania; una terza si trova in Polonia. La magistratura romena ha emesso mandati di arresto europei e sta perseguendo procedure di estradizione. La nazionalità dei sospettati non dimostra da sola l'identità degli organizzatori.",
+        "La piattaforma è vicina a una società del gruppo statale ROMARM e, secondo l'intelligence, gli obiettivi assegnati alla rete avrebbero incluso altri impianti militari e industriali della regione. La ricostruzione pubblicata dalla SRI descrive un meccanismo di reclutamento tramite piccoli incarichi retribuiti e possibili pressioni successive. Le informazioni tecniche complete sulle comunicazioni e le prove raccolte non sono state rese pubbliche integralmente.",
+        "La vicenda si inserisce nelle accuse romene sulle operazioni ibride contro infrastrutture e industrie della difesa europee. Mosca ha respinto in generale accuse di sabotaggio simili, e per questo caso occorre distinguere le affermazioni delle autorità dalle responsabilità stabilite in giudizio. L'interesse pubblico riguarda protezione degli impianti, cooperazione giudiziaria transfrontaliera e qualità delle prove."
+      ],
+      "facts": [
+        "SRI e DIICOT hanno riferito il 26 ottobre sull'incendio del 14 settembre a Brașov.",
+        "Tre persone sono oggetto di mandati di arresto europei secondo le autorità romene."
+      ],
+      "perspectives": [
+        "L'intelligence romena attribuisce il coordinamento della rete a soggetti in Russia.",
+        "La Russia nega in generale le accuse di campagne di sabotaggio rivolte agli Stati europei."
+      ],
+      "unknowns": [
+        "Non sono stati conclusi i procedimenti giudiziari e non sono pubblici tutti gli elementi probatori sull'eventuale catena di comando."
+      ],
+      "questions": [
+        {
+          "question": "Quale funzione hanno i mandati di arresto europei nel caso Carfil di Brașov?",
+          "answer": "Consentono alle autorità romene di chiedere la consegna dei tre indagati rintracciati in altri Stati UE, per proseguire i procedimenti penali. Non sono una sentenza di colpevolezza."
+        },
+        {
+          "question": "Perché il comunicato SRI non basta a stabilire definitivamente il coinvolgimento russo?",
+          "answer": "Presenta risultati investigativi e l'attribuzione proposta dai servizi; una responsabilità penale richiede valutazione delle prove nel contraddittorio giudiziario, e i documenti integrali non sono pubblici."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Russian sabotage network believed to have caused Romanian fire, prosecutors say",
+          "url": "https://www.reuters.com/world/europe/russian-sabotage-network-believed-have-caused-romanian-fire-prosecutors-say-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Romania Insider",
+          "title": "Romanian intelligence links fire at Carfil industrial platform to network",
+          "url": "https://www.romania-insider.com/society/romanian-intelligence-links-fire-carfil-industrial-platform-russian",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AGERPRES",
+          "title": "Carfil Brasov fire, caused by sabotage network coordinated from Russia, officials say",
+          "url": "https://agerpres.ro/english/2026/10/26/carfil-brasov-fire-caused-by-sabotage-network-coordinated-from-russia-diicot-and-sri--1607064",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "SRI via AGERPRES",
+          "title": "Communicat de presă — Serviciul Român de Informații",
+          "url": "https://agerpres.ro/comunicate/2026/10/26/comunicat-de-presa---serviciul-roman-de-informatii--1607028",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
+        "alt": "Illustrazione editoriale simbolica originale per romania-carfil-fire-sabotage-probe; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/romania-carfil-fire-sabotage-probe.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "tehran-four-country-regional-security-talks",
+      "rank": 7,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "Il confronto coinvolge attori chiave della sicurezza del Medio Oriente, ma la dichiarazione conclusiva è politica e preliminare.",
+      "tags": [
+        "Iran",
+        "diplomazia",
+        "Teheran"
+      ],
+      "title": "Iran, Arabia Saudita, Turchia e Pakistan si impegnano a proseguire i colloqui",
+      "dek": "Dopo l'incontro del 26 ottobre a Teheran, una dichiarazione riferisce dialogo sulla sicurezza; non è un trattato di pace.",
+      "summary": "Delegazioni ad alto livello di Arabia Saudita, Turchia e Pakistan hanno incontrato il 26 ottobre le autorità iraniane a Teheran. La visita è avvenuta mentre attacchi degli Houthi verso l'Arabia Saudita e tensioni fra Iran, Stati Uniti e Israele alimentano la crisi regionale. Associated Press e Reuters hanno ricostruito separatamente la composizione delle delegazioni e gli obiettivi dichiarati.",
+      "body": [
+        "Delegazioni ad alto livello di Arabia Saudita, Turchia e Pakistan hanno incontrato il 26 ottobre le autorità iraniane a Teheran. La visita è avvenuta mentre attacchi degli Houthi verso l'Arabia Saudita e tensioni fra Iran, Stati Uniti e Israele alimentano la crisi regionale. Associated Press e Reuters hanno ricostruito separatamente la composizione delle delegazioni e gli obiettivi dichiarati.",
+        "Fra i partecipanti indicati dai governi figurano il ministro della Difesa saudita Khalid bin Salman, il capo dell'esercito pakistano Asim Munir e il direttore dell'intelligence turca Ibrahim Kalın. La diplomazia iraniana ha accolto le delegazioni, e fonti ufficiali iraniane hanno riferito una dichiarazione finale sulla volontà di continuare la cooperazione per pace e sicurezza. IranWire ha verificato il testo riferito dalla stampa di Stato.",
+        "L'incontro è il primo contatto multilaterale di questo livello dopo il patto di difesa sottoscritto ad agosto da Arabia Saudita, Turchia e Pakistan alla Mecca. Un patto di mutua difesa fra tre paesi non significa che l'Iran ne sia diventato membro. Anche le ipotesi su una proposta per i rapporti fra Washington e Teheran attribuite a funzionari pakistani restano indiscrezioni, non testi diplomatici pubblicati.",
+        "Secondo IranWire, alla data del 27 ottobre gli altri tre paesi partecipanti non avevano diffuso separati testi ufficiali sull'esito. Non vi è quindi prova di un calendario vincolante, di cessate il fuoco regionale o della soluzione delle controversie sullo stretto di Hormuz. Il valore immediato del vertice è l'apertura o il mantenimento di canali politici fra governi in tensione."
+      ],
+      "facts": [
+        "Il vertice di Teheran si è tenuto il 26 ottobre con delegazioni di quattro Stati.",
+        "Un comunicato riferito dalle autorità iraniane indica l'intenzione di continuare il dialogo."
+      ],
+      "perspectives": [
+        "L'Arabia Saudita presenta l'iniziativa come tentativo di prevenire una nuova escalation militare.",
+        "Funzionari iraniani ne sottolineano il valore di cooperazione regionale autonoma."
+      ],
+      "unknowns": [
+        "Termini negoziali dettagliati, calendario successivo e conferma separata delle delegazioni non sono pubblicamente definiti."
+      ],
+      "questions": [
+        {
+          "question": "Che relazione ha il vertice di Teheran con il patto di difesa firmato alla Mecca?",
+          "answer": "Arabia Saudita, Turchia e Pakistan sono firmatari del patto di agosto e hanno partecipato insieme ai colloqui con l'Iran. Il vertice non ha trasformato quel patto trilaterale in un accordo quadrilaterale."
+        },
+        {
+          "question": "Che cosa cambia concretamente con l'impegno a proseguire il dialogo?",
+          "answer": "Si mantiene un canale diplomatico comune per discutere sicurezza e possibili de-escalation. Senza un testo operativo pubblico, non è possibile attribuire alla dichiarazione cessate il fuoco o obblighi militari nuovi."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Delegations meet in Iran with Mideast on edge over potential for renewed fighting",
+          "url": "https://abcnews.com/International/wireStory/delegations-meet-iran-mideast-region-edge-potential-renewed-137563622",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Saudi defence pact countries push for peace in Tehran as Houthis launch attacks",
+          "url": "https://www.reuters.com/world/middle-east/saudi-defence-pact-countries-push-peace-tehran-houthis-launch-more-attacks-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "IranWire",
+          "title": "Iran, Saudi Arabia, Turkey, and Pakistan Conclude Joint Tehran Summit",
+          "url": "https://iranwire.com/en/news/159398-iran-saudi-arabia-turkey-and-pakistan-conclude-joint-tehran-summit/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
+        "alt": "Illustrazione editoriale simbolica originale per tehran-four-country-regional-security-talks; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/tehran-four-country-regional-security-talks.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "uae-oil-spill-widens-sentinel2-oct24",
+      "rank": 8,
+      "category": "climate",
+      "impact": 2.5,
+      "impactReason": "Il rischio di inquinamento interessa più emirati, habitat marini e attività costiere, ma l'entità precisa è ancora in valutazione.",
+      "tags": [
+        "Emirati",
+        "petrolio",
+        "ambiente"
+      ],
+      "title": "Emirati, immagini del 24 ottobre mostrano l'espansione della chiazza di petrolio",
+      "dek": "Al largo di Umm Al Quwain e Sharjah proseguono interventi e chiusure; causa e nave esatta non confermate ufficialmente.",
+      "summary": "Immagini satellitari Copernicus Sentinel-2 acquisite il 24 ottobre mostrano l'allargamento di una chiazza petrolifera al largo delle coste settentrionali degli Emirati Arabi Uniti. Reuters ha riferito il 26 ottobre dell'estensione verso Umm Al Quwain e di ulteriori chiusure costiere. Testate locali come Gulf News e The National hanno seguito i provvedimenti e le operazioni di pulizia, distinguibili dalla valutazione delle immagini satellitari.",
+      "body": [
+        "Immagini satellitari Copernicus Sentinel-2 acquisite il 24 ottobre mostrano l'allargamento di una chiazza petrolifera al largo delle coste settentrionali degli Emirati Arabi Uniti. Reuters ha riferito il 26 ottobre dell'estensione verso Umm Al Quwain e di ulteriori chiusure costiere. Testate locali come Gulf News e The National hanno seguito i provvedimenti e le operazioni di pulizia, distinguibili dalla valutazione delle immagini satellitari.",
+        "Le autorità degli Emirati avevano annunciato il 23 ottobre la chiusura temporanea delle spiagge di Umm Al Quwain mentre esperti valutavano il danno. Sharjah ha limitato l'accesso alla spiaggia di Al Hamriyah e Ras Al Khaimah ha comunicato altre sospensioni precauzionali. Le chiusure proteggono frequentatori e operatori mentre la distribuzione della contaminazione può cambiare con correnti e condizioni del mare.",
+        "L'origine sembra collegata a una petroliera danneggiata, ma il ministero competente non aveva pubblicamente identificato la nave né specificato la causa. Alcuni esperti marittimi hanno ipotizzato un collegamento con la Gem No. 2; è un'identificazione attribuita a terzi, non una conclusione confermata dallo Stato. Né la presenza della chiazza dimostra da sola che il danneggiamento abbia origine militare.",
+        "La costa ospita attività turistiche e ambienti marini con pesci, tartarughe e coralli, e la contaminazione può interferire con ecosistemi e attività economiche. Per misurare il danno servono analisi dell'acqua, rilievi delle coste e stime della massa di petrolio dispersa: le immagini da satellite documentano l'area apparente, non quantificano da sole il volume scaricato. Le operazioni di contenimento proseguono."
+      ],
+      "facts": [
+        "Le immagini Sentinel-2 del 24 ottobre mostrano l'estensione della contaminazione.",
+        "Le autorità hanno disposto chiusure precauzionali in più località costiere."
+      ],
+      "perspectives": [
+        "Le autorità emiratine descrivono le restrizioni come misure precauzionali durante la valutazione ambientale.",
+        "Gli esperti marittimi ipotizzano una nave specifica ma la fonte del petrolio non è ufficialmente accertata."
+      ],
+      "unknowns": [
+        "Non sono stati confermati pubblicamente causa, nave coinvolta, volume di petrolio e danni ecologici misurati."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa possono stabilire le immagini Copernicus del 24 ottobre sulla marea nera di Umm Al Quwain?",
+          "answer": "Mostrano la posizione e l'estensione apparente della chiazza al momento del passaggio satellitare e permettono confronti con immagini precedenti; non misurano direttamente i barili dispersi né identificano la causa."
+        },
+        {
+          "question": "Perché le autorità hanno chiuso spiagge anche lontane dal punto sospetto di perdita?",
+          "answer": "Il petrolio può essere trasportato da correnti e vento verso diversi tratti di costa. Le chiusure precauzionali limitano l'esposizione mentre vengono verificati distribuzione e livelli di contaminazione."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Oil spill off UAE widens, satellite images show, prompting beach closures",
+          "url": "https://www.reuters.com/world/middle-east/oil-spill-off-uae-widens-satellite-images-show-prompting-more-beach-closures-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Gulf News",
+          "title": "UAE massive beach clean-up after oil spill: concerns and mystery smell",
+          "url": "https://gulfnews.com/uae/uaes-massive-beach-clean-up-after-oil-spill-concerns-and-mystery-smell-all-you-need-to-know-1.500723253",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The National",
+          "title": "Umm Al Quwain beaches closed after tanker oil spill",
+          "url": "https://www.thenationalnews.com/news/uae/2026/10/23/umm-al-quwain-beaches-uae-tanker-oil-spill/",
+          "publishedAt": "2026-10-23",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
+        "alt": "Illustrazione editoriale simbolica originale per uae-oil-spill-widens-sentinel2-oct24; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/uae-oil-spill-widens-sentinel2-oct24.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "le-pen-campaign-oil-exploration-oct25",
+      "rank": 9,
+      "category": "politics",
+      "impact": 2.5,
+      "impactReason": "Le proposte possono modificare la politica energetica francese se adottate, ma al momento sono impegni di campagna.",
+      "tags": [
+        "Francia",
+        "energia",
+        "elezioni"
+      ],
+      "title": "Le Pen apre la campagna presidenziale e propone di riaprire la ricerca petrolifera in Francia",
+      "dek": "Nel comizio del 25 ottobre promette di abolire il divieto del 2017; si tratta di programma politico, non di legge modificata.",
+      "summary": "Marine Le Pen ha lanciato il 25 ottobre a Orléans la propria campagna per le presidenziali francesi del 2027, in un evento del Rassemblement national. Associated Press e Le Monde hanno ripreso il discorso il 26 ottobre, mentre Reuters ha descritto l'impianto politico dell'intervento. La candidata ha collegato le questioni energetiche a un programma più ampio su economia, sicurezza e immigrazione.",
+      "body": [
+        "Marine Le Pen ha lanciato il 25 ottobre a Orléans la propria campagna per le presidenziali francesi del 2027, in un evento del Rassemblement national. Associated Press e Le Monde hanno ripreso il discorso il 26 ottobre, mentre Reuters ha descritto l'impianto politico dell'intervento. La candidata ha collegato le questioni energetiche a un programma più ampio su economia, sicurezza e immigrazione.",
+        "Tra le proposte Le Pen ha chiesto la revoca della legge del 2017 che vieta il rilascio di nuovi permessi di ricerca di idrocarburi e limita l'esplorazione di shale gas. Ha criticato la norma associata all'ex ministro dell'Ambiente Nicolas Hulot, presentando la riapertura delle attività estrattive come strumento di autonomia energetica. Non risultano modifiche già approvate alla legislazione francese per effetto del comizio.",
+        "Il confronto riguarda scelte con effetti ambientali ed economici diversi: estrazione interna, dipendenza dalle importazioni, investimenti nelle rinnovabili e obiettivi sul clima. Per misurare eventuali vantaggi occorrerebbe verificare la disponibilità effettiva di risorse sfruttabili, i costi di sviluppo e gli impatti sulle emissioni. Una promessa di 'più produzione' non dimostra che le riserve commercialmente utilizzabili siano già state accertate.",
+        "Sul piano istituzionale la Francia si prepara a eleggere un successore di Emmanuel Macron, che non può concorrere a un terzo mandato consecutivo. L'esito del voto e la composizione del futuro Parlamento condizioneranno la realizzabilità delle proposte della campagna. Le posizioni di Le Pen sono pertanto notizie su un indirizzo politico, non una previsione certificata delle decisioni francesi del 2027."
+      ],
+      "facts": [
+        "Le Pen ha tenuto il comizio di avvio della campagna a Orléans il 25 ottobre.",
+        "La proposta energetica riguarda il divieto di nuovi permessi di esplorazione del 2017."
+      ],
+      "perspectives": [
+        "Le Pen presenta la produzione nazionale come componente della sovranità energetica.",
+        "I critici delle nuove estrazioni richiamano obiettivi climatici e tempi dell'investimento."
+      ],
+      "unknowns": [
+        "Entità delle riserve economicamente sfruttabili, consenso parlamentare futuro e conseguenze ambientali della proposta non sono accertati."
+      ],
+      "questions": [
+        {
+          "question": "Quale cambiamento alla legge del 2017 propone Le Pen per gli idrocarburi francesi?",
+          "answer": "Vuole tornare a consentire nuovi permessi di esplorazione petrolifera e attività collegate ai combustibili fossili oggi limitate dalla normativa promossa durante il mandato Hulot."
+        },
+        {
+          "question": "La riapertura dei permessi garantirebbe subito più petrolio prodotto in Francia?",
+          "answer": "No: esplorazione, conferma dei giacimenti, autorizzazioni, investimenti e sviluppo industriale sono fasi distinte che possono richiedere anni e non garantiscono risultati commerciali."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Le Pen vows to revive oil prospecting in France, calling 2017 ban stupid",
+          "url": "https://apnews.com/article/f7be845d572b9cf21acdf269ec90eae1",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Le Monde",
+          "title": "2027 French presidential election: Le Pen launches campaign",
+          "url": "https://www.lemonde.fr/en/politics/article/2026/10/26/2027-french-presidential-election-le-pen-launches-campaign-with-mix-of-radicalism-and-optimism_6764353_5.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "France's Le Pen launches presidential bid amid protests",
+          "url": "https://www.investing.com/news/world-news/frances-le-pen-launches-presidential-bid-as-protests-rattle-the-nation-4971235",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
+        "alt": "Illustrazione editoriale simbolica originale per le-pen-campaign-oil-exploration-oct25; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/le-pen-campaign-oil-exploration-oct25.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "us-midterms-mississippi-trump-senate-race",
+      "rank": 10,
+      "category": "politics",
+      "impact": 2.5,
+      "impactReason": "Il controllo del Congresso statunitense ha implicazioni internazionali, ma il fatto del giorno è una tappa della campagna non il risultato.",
+      "tags": [
+        "USA",
+        "Midterm",
+        "Mississippi"
+      ],
+      "title": "Midterm USA, Trump fa campagna in Mississippi per difendere un seggio al Senato",
+      "dek": "La visita del 26 ottobre sostiene Cindy Hyde-Smith contro Scott Colom, a una settimana dal voto del 3 novembre.",
+      "summary": "Il presidente statunitense Donald Trump è arrivato in Mississippi lunedì 26 ottobre per sostenere la senatrice repubblicana Cindy Hyde-Smith nella campagna per le elezioni di metà mandato del 3 novembre. Associated Press e Reuters hanno seguito la visita e il ruolo inatteso di uno Stato normalmente favorevole ai repubblicani. Lo sfidante democratico Scott Colom, procuratore locale, cerca di trasformare il disagio economico in una competizione più equilibrata.",
+      "body": [
+        "Il presidente statunitense Donald Trump è arrivato in Mississippi lunedì 26 ottobre per sostenere la senatrice repubblicana Cindy Hyde-Smith nella campagna per le elezioni di metà mandato del 3 novembre. Associated Press e Reuters hanno seguito la visita e il ruolo inatteso di uno Stato normalmente favorevole ai repubblicani. Lo sfidante democratico Scott Colom, procuratore locale, cerca di trasformare il disagio economico in una competizione più equilibrata.",
+        "I repubblicani difendono una maggioranza congressuale risicata mentre i democratici cercano di conquistare seggi alla Camera e al Senato. Reuters ricorda che sono in palio tutti i 435 seggi della Camera e 35 dei 100 seggi del Senato. Una campagna presidenziale in uno Stato considerato sicuro segnala l'attenzione dei partiti, ma non è una prova che uno dei due candidati sia già in vantaggio.",
+        "Nel discorso e nelle dichiarazioni successive Trump ha sostenuto Hyde-Smith, mentre i democratici hanno insistito su prezzi, spese familiari e conseguenze delle decisioni dell'amministrazione. Le campagne elettorali puntano anche sulla partecipazione anticipata: secondo AP, a livello nazionale più di trenta milioni di americani avevano già votato. Quella cifra non rappresenta i soli elettori del Mississippi né i voti espressi nel giorno del comizio.",
+        "Le elezioni di metà mandato non eleggono un presidente, ma possono cambiare la capacità del governo di far approvare leggi, bilanci e nomine. Il voto effettivo e l'affluenza locale sono ancora da conoscere. Le previsioni dei sondaggisti vanno riferite a date e metodi di rilevazione e non sostituiscono risultati certificati."
+      ],
+      "facts": [
+        "Trump ha sostenuto Hyde-Smith in Mississippi il 26 ottobre.",
+        "Il 3 novembre gli elettori voteranno per tutti i 435 seggi della Camera e 35 del Senato."
+      ],
+      "perspectives": [
+        "I repubblicani presentano Hyde-Smith come sostegno alle priorità della presidenza.",
+        "Colom e i democratici puntano sulle difficoltà economiche e sulla necessità di un contrappeso al governo."
+      ],
+      "unknowns": [
+        "La distribuzione finale dei seggi, l'affluenza locale e la misura della competitività effettiva non sono ancora note."
+      ],
+      "questions": [
+        {
+          "question": "Perché un comizio presidenziale in Mississippi è significativo per il Senato del 2026?",
+          "answer": "Lo Stato tende a votare repubblicano, ma il partito dedica risorse alla difesa del seggio di Hyde-Smith contro Colom. Una visita segnala una priorità strategica, non anticipa il vincitore."
+        },
+        {
+          "question": "Perché oltre trenta milioni di voti anticipati non determinano già il risultato delle midterm?",
+          "answer": "La cifra è un totale nazionale di schede espresse, non voti scrutinati per un partito o per il Mississippi. Solo lo spoglio e le certificazioni nei singoli Stati determinano i seggi."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+          "url": "https://apnews.com/article/ecd5713a939acc8f7ccf171f9a84f250",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Trump campaigns in unexpectedly competitive Mississippi",
+          "url": "https://www.investing.com/news/politics-news/trump-campaigns-in-unexpectedly-competitive-mississippi-4973809",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Roll Call Factba.se",
+          "title": "Transcript: Trump comments after returning from Mississippi rally",
+          "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-press-gaggle-after-air-force-one-arrival-october-26-2026/",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
+        "alt": "Illustrazione editoriale simbolica originale per us-midterms-mississippi-trump-senate-race; non è una fotografia",
+        "credit": "O — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-27/news/2026-10-27/assets/us-midterms-mississippi-trump-senate-race.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
