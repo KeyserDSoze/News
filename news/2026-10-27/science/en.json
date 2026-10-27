@@ -144,7 +144,7 @@
           "outlet": "Cell",
           "title": "Functional diversification of the cephalopod proteome by RNA editing",
           "url": "https://www.sciencedirect.com/science/article/pii/S0092867426011840",
-          "publishedAt": "2026-10-22",
+          "publishedAt": "2026-10-15",
           "role": "official"
         }
       ],
@@ -172,7 +172,7 @@
       "dek": "Portia fimbriata showed eye movements and compensatory sleep, which does not demonstrate dreaming.",
       "summary": "Researchers observed REM-like rest in Portia fimbriata jumping spiders, including eye movements and recovery after disrupted sleep. Increased REM-like behaviour the following night supports regulated sleep but does not demonstrate dreaming.",
       "body": [
-        "A study published on 27 October in PNAS investigated rest in the Australian jumping spider Portia fimbriata. Researchers associated with the University of Bonn used infrared cameras to record nighttime behaviour and tested responses to stimulation to distinguish sleep from inactivity. ABC Science and ScienceAlert independently covered the research and spoke with scientists.",
+        "A study published online on 26 October in PNAS and reported on 27 October investigated rest in the Australian jumping spider Portia fimbriata. Researchers associated with the University of Bonn used infrared cameras to record nighttime behaviour and tested responses to stimulation to distinguish sleep from inactivity. ABC Science and ScienceAlert independently covered the research and spoke with scientists.",
         "Recordings show quiet periods alternating with movements of eye structures and twitches of the legs and other body parts. Spiders reacted more slowly to disturbances during these phases than while awake. This supports a REM-like state, although researchers do not have the same direct brain-wave measurements used to classify human sleep.",
         "To interrupt rest, researchers introduced live fruit flies into the experimental enclosures. On the following night, ScienceAlert reports nearly 80% more total REM-like behaviour, chiefly through additional episodes rather than longer individual ones. This rebound after disruption is evidence that sleep regulation involves more than mere immobility.",
         "The observation broadens evolutionary comparisons among animals far removed from vertebrates. Researchers hypothesise a connection with memory or learning, but the study did not measure dreams or prove such a cognitive function. Whether the pattern holds in the wild and across other spider species needs further research."
@@ -218,6 +218,13 @@
           "title": "Spiders have different sleep phases",
           "url": "https://leibniz-lib.de/en/news/spiders-have-different-sleep-phases.html",
           "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "PNAS",
+          "title": "Behavioral evidence for two-stage sleep in spiders",
+          "url": "https://doi.org/10.1073/pnas.2618030123",
+          "publishedAt": "2026-10-26",
           "role": "official"
         }
       ],
@@ -356,6 +363,13 @@
           "url": "https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html",
           "publishedAt": "2026-10-26",
           "role": "reporting"
+        },
+        {
+          "outlet": "Physical Review Letters",
+          "title": "Laboratory Demonstration of Coronal Heating via Magnetic Reconnection during Nanoflares",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/tmll-l58c",
+          "publishedAt": "2026-10-20",
+          "role": "official"
         }
       ],
       "image": {
