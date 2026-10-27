@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-27",
+  "language": "it",
+  "section": "science",
+  "publishedAt": "2026-10-27T16:30:00Z",
+  "editorialNote": "Rassegna del 27 ottobre 2026: sviluppi datati, dichiarazioni attribuite e limiti delle prove esplicitati in ogni notizia.",
+  "articles": [
+    {
+      "id": "trofuse005-endometrial-survival-results",
+      "rank": 1,
+      "category": "society",
+      "impact": 3,
+      "impactReason": "Dati randomizzati di fase 3 indicano un significativo beneficio in un gruppo clinico specifico, con effetti avversi importanti.",
+      "tags": [
+        "oncologia",
+        "TroFuse-005",
+        "sopravvivenza"
+      ],
+      "title": "TroFuse-005: sac-TMT prolunga la sopravvivenza mediana nel tumore endometriale avanzato",
+      "dek": "Nei 776 pazienti confrontati con chemioterapia, 19 mesi contro 12,1; eventi avversi gravi più frequenti.",
+      "summary": "Nel trial di fase 3 TroFuse-005, presentato il 26 ottobre, sacituzumab tirumotecan ha portato la sopravvivenza mediana a 19 mesi contro 12,1 con chemioterapia in pazienti pretrattate. Il beneficio randomizzato si accompagna a una maggiore frequenza di effetti avversi di grado elevato; la revisione FDA non è ancora un'approvazione.",
+      "body": [
+        "Il 26 ottobre sono stati presentati al congresso ESMO i risultati completi della sperimentazione internazionale di fase 3 TroFuse-005 sul sacituzumab tirumotecan, detto sac-TMT, per il tumore endometriale avanzato o recidivato. Lo studio ha arruolato 776 persone già trattate con chemioterapia a base di platino e immunoterapia anti-PD-1 o PD-L1, assegnandole casualmente al farmaco sperimentale o a una chemioterapia scelta dai medici.",
+        "La sopravvivenza complessiva mediana riferita è stata di 19,0 mesi nel gruppo sac-TMT e 12,1 mesi nel gruppo di confronto. L'hazard ratio per morte è 0,68, associato a una riduzione relativa del rischio istantaneo stimato del 32% durante il follow-up. Le mediane descrivono il momento in cui metà dei pazienti di ciascun gruppo ha avuto l'evento, non la durata di vita garantita a ogni individuo.",
+        "La sopravvivenza libera da progressione mediana è risultata 7,2 contro 3,9 mesi, mentre gli eventi avversi correlati al trattamento di grado almeno 3 hanno interessato circa il 54,4% con sac-TMT e il 41,4% con chemioterapia. Questi dati indicano un beneficio misurabile insieme a tossicità più frequenti; decisioni cliniche individuali richiedono valutazione specialistica di condizioni e rischi.",
+        "Merck ha annunciato che la FDA statunitense ha accettato la domanda di revisione prioritaria per questa indicazione. Reuters, CancerNetwork e Fierce Pharma descrivono il risultato come promettente per una popolazione con poche opzioni, ma l'esame regolatorio non equivale ad autorizzazione commerciale. Lo studio non dimostra gli stessi effetti in pazienti mai sottoposti ai trattamenti precedenti richiesti dai criteri di inclusione."
+      ],
+      "facts": [
+        "TroFuse-005 ha randomizzato 776 pazienti già trattati con platino e immunoterapia.",
+        "Le mediane OS riportate sono 19,0 e 12,1 mesi."
+      ],
+      "perspectives": [
+        "Gli sperimentatori considerano il risultato un possibile avanzamento per pazienti pretrattati.",
+        "La valutazione clinica deve considerare un maggior tasso di tossicità severa."
+      ],
+      "unknowns": [
+        "Non è conclusa la decisione FDA sulla domanda né è stabilita l'efficacia in popolazioni non studiate."
+      ],
+      "questions": [
+        {
+          "question": "Come si distinguono i 6,9 mesi di differenza mediana di TroFuse-005 dal rischio di morte ridotto del 32%?",
+          "answer": "I 6,9 mesi sono la differenza tra le due mediane di sopravvivenza; il 32% deriva dall'hazard ratio 0,68 e confronta il rischio relativo stimato nel tempo. Non si può convertirlo in un guadagno uguale per ogni paziente."
+        },
+        {
+          "question": "Quale compromesso di sicurezza emerge per sac-TMT rispetto alla chemioterapia?",
+          "answer": "Gli eventi avversi correlati al trattamento di grado almeno 3 sono riportati nel 54,4% con sac-TMT contro il 41,4% nel controllo. Il vantaggio di sopravvivenza deve quindi essere ponderato con i rischi individuali."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Merck drug extends survival in endometrial cancer trial, wins US priority review",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/mercks-therapy-extends-survival-hard-to-treat-uterine-cancer-patients-2026-10-26/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CancerNetwork",
+          "title": "Sac-TMT Improves Survival vs Chemotherapy in Pretreated Endometrial Cancer",
+          "url": "https://www.cancernetwork.com/view/sac-tmt-improves-survival-vs-chemotherapy-in-pretreated-endometrial-cancer",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Fierce Pharma",
+          "title": "Merck sees pretty consistent data in sac-TMT first global phase 3",
+          "url": "https://www.fiercepharma.com/pharma/sac-tmt-first-global-phase-3-win-merck-sees-pretty-consistent-data-china",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Merck",
+          "title": "Sac-TMT reduced risk of death by 32% in TroFuse-005",
+          "url": "https://www.merck.com/news/sacituzumab-tirumotecan-sac-tmt-reduced-the-risk-of-death-by-32-and-the-risk-of-disease-progression-or-death-by-41-compared-to-chemotherapy-in-certain-patients-with-advanced-or-recurrent-endometrial/",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/trofuse005-endometrial-survival-results.svg",
+        "alt": "Illustrazione concettuale originale sulla ricerca trofuse005-endometrial-survival-results, non una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/trofuse005-endometrial-survival-results.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "squid-rna-editing-proteome-cell-study",
+      "rank": 2,
+      "category": "society",
+      "impact": 3,
+      "impactReason": "La misurazione proteomica chiarisce un meccanismo biologico significativo, ancora distante dalle applicazioni cliniche.",
+      "tags": [
+        "calamari",
+        "RNA",
+        "proteine"
+      ],
+      "title": "Nei calamari modifiche dell'RNA alterano la funzione di migliaia di proteine",
+      "dek": "Analisi proteomica pubblicata su Cell identifica circa 8 mila siti di ricodifica; il DNA rimane invariato.",
+      "summary": "Uno studio del proteoma dei calamari ha trovato 7.997 siti di ricodifica dell'RNA in 2.091 proteine, mostrando come possano cambiare le proprietà proteiche senza modificare il DNA. La ricerca su Cell amplia la comprensione dell'editing molecolare; non prova che tutte le varianti teoriche esistano nell'animale.",
+      "body": [
+        "Un gruppo guidato da ricercatori della University of California, San Francisco ha studiato come l'editing dell'RNA modifica le proteine prodotte nel calamaro Doryteuthis pealeii. La ricerca, pubblicata sulla rivista Cell, è stata ripresa da ScienceAlert il 25 ottobre e da People il 27 ottobre. Il lavoro riguarda un meccanismo di regolazione molecolare, non una riscrittura del patrimonio genetico permanente dell'animale.",
+        "Le istruzioni trascritte dal DNA possono essere modificate dagli enzimi della famiglia ADAR prima della produzione delle proteine. Gli autori hanno individuato 7.997 siti di ricodifica dell'RNA in 2.091 proteine, analizzando il proteoma di diversi tessuti. Tali cambiamenti possono creare varianti proteiche con proprietà differenti a partire dalla stessa sequenza genetica.",
+        "Secondo l'articolo scientifico, alcune modifiche influenzano stabilità, localizzazione cellulare, attività e interazioni fra proteine, compresi processi che riguardano gli organelli. I giornali riportano inoltre l'identificazione di migliaia di piccole proteine prima non annotate. Il riscontro sperimentale di singole varianti non significa che tutte le combinazioni teoricamente possibili siano presenti o utili in natura.",
+        "I cefalopodi offrono un caso particolarmente ricco di editing dell'RNA, con implicazioni per l'evoluzione dei sistemi nervosi e dell'adattamento cellulare. Restano aperte le domande su quante modifiche siano funzionali in condizioni naturali e su come siano regolate nei diversi tessuti. La scoperta contribuisce alla biologia di base senza costituire una terapia o una tecnica medica già trasferibile all'uomo."
+      ],
+      "facts": [
+        "Lo studio identifica 7.997 siti di ricodifica in 2.091 proteine di calamaro.",
+        "L'editing dell'RNA modifica il messaggio trascritto senza cambiare il DNA."
+      ],
+      "perspectives": [
+        "Gli autori attribuiscono all'editing un ruolo importante nella diversità funzionale delle proteine."
+      ],
+      "unknowns": [
+        "Non è dimostrato quanti dei possibili prodotti di editing vengano usati in ogni condizione naturale."
+      ],
+      "questions": [
+        {
+          "question": "In che modo gli enzimi ADAR cambiano proteine del calamaro senza mutare il DNA?",
+          "answer": "Agiscono sulle molecole di RNA dopo la trascrizione, cambiando alcune istruzioni che saranno lette durante la produzione proteica. La sequenza del DNA di partenza rimane la stessa."
+        },
+        {
+          "question": "Che cosa indicano i 7.997 siti individuati, e che cosa non quantificano?",
+          "answer": "Sono posizioni di ricodifica riscontrate in 2.091 proteine analizzate. Non contano 7.997 geni nuovi né provano che ogni combinazione possibile di varianti venga prodotta in vivo."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ScienceAlert",
+          "title": "Squid are even more alien-like than we thought, with an unmatched ability to change genetic expression",
+          "url": "https://www.sciencealert.com/squid-are-even-more-alien-like-than-we-thought-with-an-unmatched-ability-to-change-genetic-expression",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "People",
+          "title": "Squids can edit their own genetics without changing DNA",
+          "url": "https://people.com/squid-edit-rna-to-create-5-000-previously-never-before-seen-proteins-12194925",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Cell",
+          "title": "Functional diversification of the cephalopod proteome by RNA editing",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0092867426011840",
+          "publishedAt": "2026-10-15",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/squid-rna-editing-proteome-cell-study.svg",
+        "alt": "Illustrazione concettuale originale sulla ricerca squid-rna-editing-proteome-cell-study, non una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/squid-rna-editing-proteome-cell-study.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "portia-spider-rem-sleep-rebound",
+      "rank": 3,
+      "category": "society",
+      "impact": 2.5,
+      "impactReason": "L'esperimento offre nuove prove comparative sull'evoluzione del sonno, circoscritte a una specie e a misure comportamentali.",
+      "tags": [
+        "ragni",
+        "sonno",
+        "evoluzione"
+      ],
+      "title": "Ragni saltatori: osservati sonno REM-simile e recupero dopo l'interruzione",
+      "dek": "La ricerca su Portia fimbriata documenta movimenti oculari e compensazione del riposo, non prova che i ragni sognino.",
+      "summary": "Ricercatori hanno osservato in Portia fimbriata fasi di sonno REM-simile con movimenti oculari e un recupero dopo disturbo notturno. L'aumento dei comportamenti REM-simili il giorno seguente sostiene l'esistenza di sonno regolato, non la presenza dimostrata di sogni.",
+      "body": [
+        "Uno studio pubblicato online il 26 ottobre sulla rivista PNAS e ripreso dai media il 27 ha esaminato il riposo del ragno saltatore australiano Portia fimbriata. Ricercatori collegati all'Università di Bonn hanno registrato con telecamere a infrarossi il comportamento notturno e sperimentato stimoli per verificare se la scarsa attività fosse vero sonno. ABC Science e ScienceAlert hanno riportato autonomamente la ricerca e interpellato gli studiosi.",
+        "Le riprese mostrano periodi di quiete alternati a movimenti delle strutture oculari e a contrazioni di zampe e altre parti del corpo. Durante queste fasi i ragni rispondevano con maggiore lentezza agli stimoli rispetto alla veglia. Tale combinazione sostiene l'esistenza di uno stato REM-simile, ma nei ragni non è disponibile la stessa misura diretta delle onde cerebrali usata per classificare il sonno umano.",
+        "Per interrompere il riposo gli autori hanno introdotto moscerini vivi negli ambienti sperimentali. La notte successiva, secondo ScienceAlert, la durata complessiva dei comportamenti REM-simili è aumentata di quasi l'80%, soprattutto perché gli episodi erano più numerosi. Il recupero dopo la deprivazione, detto rebound, è un segnale che la regolazione del sonno non è soltanto apparente immobilità.",
+        "L'osservazione amplia il confronto evolutivo tra animali lontanissimi dai vertebrati. Gli scienziati ipotizzano un rapporto fra questo stato e processi di memoria o apprendimento, ma lo studio non ha misurato sogni né dimostrato quella funzione cognitiva. L'estensione dei risultati ai ragni in natura e ad altre specie rimane un tema per nuove ricerche."
+      ],
+      "facts": [
+        "Portia fimbriata ha mostrato periodi di bassa reattività con movimenti REM-simili.",
+        "Dopo l'interruzione del riposo gli episodi REM-simili sono aumentati nella notte successiva."
+      ],
+      "perspectives": [
+        "Gli autori propongono che stati di sonno complessi possano avere radici evolutive molto antiche.",
+        "L'esperto citato da ABC considera il caso una forte prova comportamentale di sonno negli aracnidi."
+      ],
+      "unknowns": [
+        "Non è possibile stabilire dalle osservazioni se i ragni facciano sogni o quale funzione cognitiva svolga la fase."
+      ],
+      "questions": [
+        {
+          "question": "Quali prove distinguono il sonno del Portia fimbriata dalla semplice immobilità?",
+          "answer": "Gli studiosi hanno misurato risposte più lente agli stimoli e osservato un successivo aumento di fasi REM-simili dopo un disturbo notturno: due indicatori comportamentali della regolazione del sonno."
+        },
+        {
+          "question": "Perché l'aumento di quasi l'80% non equivale a dimostrare sogni nei ragni?",
+          "answer": "La cifra descrive il tempo speso in comportamenti REM-simili nella fase di recupero. Non misura esperienze soggettive, che richiederebbero prove di natura diversa."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ABC Science",
+          "title": "Scientists video REM-like sleep in Australian jumping spider species",
+          "url": "https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ScienceAlert",
+          "title": "Spiders can rack up REM-like sleep debt and may even dream",
+          "url": "https://www.sciencealert.com/spiders-can-rack-up-rem-like-sleep-debt-and-may-even-dream-just-like-humans",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Leibniz Institute for Biodiversity Change",
+          "title": "Spiders have different sleep phases",
+          "url": "https://leibniz-lib.de/en/news/spiders-have-different-sleep-phases.html",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "PNAS",
+          "title": "Behavioral evidence for two-stage sleep in spiders",
+          "url": "https://doi.org/10.1073/pnas.2618030123",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/portia-spider-rem-sleep-rebound.svg",
+        "alt": "Illustrazione concettuale originale sulla ricerca portia-spider-rem-sleep-rebound, non una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/portia-spider-rem-sleep-rebound.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "vangogh-starry-night-july-sky-hypothesis",
+      "rank": 4,
+      "category": "society",
+      "impact": 2.5,
+      "impactReason": "Il confronto fra astronomia quantitativa e documentazione artistica propone una nuova lettura di un'opera celebre, ma la datazione resta controversa.",
+      "tags": [
+        "Van-Gogh",
+        "astronomia",
+        "storia-arte"
+      ],
+      "title": "La Notte stellata, uno studio astronomico propone il cielo del 22 luglio 1889",
+      "dek": "L'allineamento di Luna, Venere e Iadi è compatibile con il dipinto di Van Gogh; il museo contesta la nuova cronologia.",
+      "summary": "Uno studio pubblicato il 22 ottobre su Scientific Reports propone che il cielo della Notte stellata di Van Gogh sia ispirato a un'alba vicina al 22 luglio 1889, non solo al periodo di giugno tradizionalmente attribuito all'opera. Simulazioni astronomiche e lettere dell'artista sostengono la proposta, ma il Van Gogh Museum e astronomi esterni ne contestano l'interpretazione.",
+      "body": [
+        "Una ricerca interdisciplinare pubblicata il 22 ottobre 2026 su Scientific Reports propone che la disposizione delle stelle e dei pianeti rappresentata nella Notte stellata di Vincent van Gogh possa corrispondere al cielo osservabile prima dell'alba intorno al 22 luglio 1889 presso Saint-Rémy-de-Provence. La proposta è stata esaminata in resoconti originali di Associated Press e Guardian. Non costituisce una nuova datazione accettata unanimemente: la cronologia tradizionale colloca il dipinto nel giugno 1889.",
+        "Il gruppo guidato da Elijah Jeong-hyun Kim ha confrontato una precedente veduta disegnata dal pittore con il profilo del paesaggio, ricostruendo il possibile campo visivo. Ha poi simulato le posizioni della Luna, di Venere e dell'ammasso delle Iadi. L'allineamento risulta vicino a quello raffigurato in alcune mattine intorno al 22 luglio; il disco lunare illuminato stimato per quella data è vicino al 28%. Le corrispondenze geometriche dipendono però dal campo visivo ricostruito.",
+        "Gli autori hanno incrociato il risultato con informazioni meteorologiche ottocentesche e lettere dell'artista, incluse osservazioni su caldo, cicale e condizioni del vento. Hanno inoltre proposto una revisione dell'epoca della crisi di salute di Van Gogh, utilizzata per valutare se fosse in grado di osservare il cielo a fine luglio. La ricostruzione combina indizi indiretti: non dispone di un diario che attesti che Van Gogh abbia dipinto l'intera tela in quella notte.",
+        "Il Guardian ha raccolto obiezioni del Van Gogh Museum, che mantiene la datazione a giugno anche sulla base dei documenti relativi all'invio dell'opera e di un disegno precedente. L'astronomo Donald Olson ha criticato anche la ricostruzione della posizione delle stelle. Lo studio stesso ammette che impressioni raccolte in più notti potrebbero essere state unite nella composizione. Il risultato è dunque una nuova ipotesi quantitativa verificabile, non una dimostrazione che la lettura storica precedente sia falsa."
+      ],
+      "facts": [
+        "La ricerca è stata pubblicata su Scientific Reports il 22 ottobre 2026.",
+        "Gli autori identificano il cielo vicino al 22 luglio 1889 come una possibile corrispondenza astronomica, non come data certa di esecuzione."
+      ],
+      "perspectives": [
+        "Il gruppo di Kim ritiene che la combinazione di simulazioni celesti, paesaggio e documenti storici renda credibile l'ipotesi di luglio.",
+        "Il Van Gogh Museum e l'astronomo Donald Olson contestano aspetti della datazione e dell'identificazione degli astri."
+      ],
+      "unknowns": [
+        "Non è dimostrato che il pittore abbia osservato tutti gli astri nello stesso momento né che la tela sia stata completata in luglio."
+      ],
+      "questions": [
+        {
+          "question": "Quali astri hanno portato i ricercatori a proporre il 22 luglio 1889 per La Notte stellata?",
+          "answer": "Hanno simulato le posizioni della Luna calante, di Venere e dell'ammasso stellare delle Iadi nel campo visivo ricostruito da un disegno del paesaggio. La loro disposizione intorno all'alba del 22 luglio è compatibile con parti della composizione dipinta."
+        },
+        {
+          "question": "Perché il Van Gogh Museum non accetta automaticamente la nuova datazione astronomica?",
+          "answer": "La cronologia museale poggia anche su corrispondenza, un disegno già inviato e documenti sul trasferimento della tela. Inoltre il dipinto può combinare osservazioni di notti diverse, e la simulazione dipende da assunzioni sul punto di osservazione e sul campo visivo."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "New study traces Van Gogh's famed Starry Night to 1889 sky",
+          "url": "https://apnews.com/article/6385c8e37f748bddc4137cdda5c76887",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Astronomers challenge dating of Van Gogh's Starry Night",
+          "url": "https://www.theguardian.com/artanddesign/2026/oct/22/astronomy-dating-art-van-gogh-starry-night-painting",
+          "publishedAt": "2026-10-22",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Scientific Reports",
+          "title": "The actual sky of Van Gogh's Starry Night: a multidisciplinary reconstruction",
+          "url": "https://www.nature.com/articles/s41598-026-73025-5",
+          "publishedAt": "2026-10-22",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/vangogh-starry-night-july-sky-hypothesis.svg",
+        "alt": "Illustrazione astronomica originale della Luna e di stelle, non riproduzione del dipinto di Van Gogh",
+        "credit": "O — original vector illustration",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/vangogh-starry-night-july-sky-hypothesis.svg"
+      }
+    },
+    {
+      "id": "solar-corona-laser-reconnection-prl",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "impactReason": "La prova sperimentale chiarisce un meccanismo astrofisico plausibile, ma la sua importanza per la corona resta da quantificare.",
+      "tags": [
+        "Sole",
+        "plasma",
+        "laser"
+      ],
+      "title": "Un laser ricrea in laboratorio un meccanismo che potrebbe contribuire a scaldare la corona solare",
+      "dek": "La riconnessione magnetica prodotta da instabilità ha riscaldato elettroni di plasma; non è una misurazione del Sole.",
+      "summary": "Con il laser Shenguang-II, ricercatori hanno prodotto plasma con instabilità e riconnessione magnetica che ha raggiunto temperature elettroniche circa doppie rispetto al controllo. La prova di laboratorio offre una possibile spiegazione parziale del riscaldamento della corona solare, senza riprodurre integralmente le condizioni del Sole.",
+      "body": [
+        "Un esperimento pubblicato su Physical Review Letters e raccontato fra il 25 e il 26 ottobre da ScienceAlert e Phys.org ha studiato un possibile contributo al riscaldamento della corona solare. Il gruppo guidato da Wei Sun ha usato il dispositivo laser Shenguang-II in Cina per creare plasma a partire da bersagli di plastica con superfici ondulate. La domanda di partenza è perché l'atmosfera esterna del Sole sia molto più calda della superficie visibile.",
+        "L'espansione del plasma ha prodotto strutture instabili che hanno avvicinato regioni di campo magnetico di orientamento opposto. Questo processo può favorire la riconnessione magnetica, nella quale energia immagazzinata nei campi viene trasferita alle particelle. Il gruppo ha confrontato il plasma generato con bersagli ondulati con quello ottenuto usando superfici piatte, dove le instabilità risultavano molto meno marcate.",
+        "Le temperature elettroniche inferite dai raggi X nel caso ondulato hanno raggiunto un massimo di circa 820 mila gradi in scala termica, approssimativamente il doppio rispetto al controllo. Simulazioni che sopprimevano la formazione dei campi magnetici riducevano gran parte del calore supplementare, sostenendo la spiegazione elettromagnetica. I numeri appartengono al plasma da laboratorio su scala millimetrica, non a una misura nuova della corona del Sole.",
+        "Il risultato offre una prova fisica controllata a favore di processi simili ai piccoli rilasci energetici chiamati nanoflares. Ma densità, geometria e tempi sperimentali non riproducono interamente il Sole: non è ancora dimostrato quanto spesso il meccanismo operi nello spazio o quale frazione del riscaldamento totale possa spiegare. Osservazioni solari e esperimenti tridimensionali serviranno per stabilirne la portata."
+      ],
+      "facts": [
+        "Il confronto sperimentale prevedeva bersagli di plastica ondulati e piatti.",
+        "Nel plasma con instabilità è stato stimato un picco elettronico di circa 820 mila gradi."
+      ],
+      "perspectives": [
+        "Gli autori interpretano la differenza come sostegno a una riconnessione magnetica innescata da instabilità."
+      ],
+      "unknowns": [
+        "Non è quantificato il contributo di questo meccanismo al riscaldamento reale dell'intera corona solare."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa ha aggiunto il bersaglio ondulato al test laser rispetto a quello piatto?",
+          "answer": "Ha favorito strutture instabili che avvicinano campi magnetici opposti, facilitando la riconnessione e un picco di temperatura degli elettroni circa doppio rispetto al controllo."
+        },
+        {
+          "question": "Perché il picco vicino a 820 mila gradi non risolve da solo l'enigma del Sole?",
+          "answer": "La misura riguarda un piccolo plasma artificiale in condizioni specifiche. Il Sole ha densità, scale e tempi differenti, e resta da stabilire quanta energia il processo trasferisca davvero alla sua corona."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ScienceAlert",
+          "title": "Scientists simulated solar explosions in the lab",
+          "url": "https://www.sciencealert.com/scientists-simulated-solar-explosions-in-the-lab-and-may-have-solved-one-of-the-suns-biggest-mysteries",
+          "publishedAt": "2026-10-25",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Laser-blasted plasma shows how instabilities could heat the sun's corona",
+          "url": "https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Physical Review Letters",
+          "title": "Laboratory Demonstration of Coronal Heating via Magnetic Reconnection during Nanoflares",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/tmll-l58c",
+          "publishedAt": "2026-10-20",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-27/assets/solar-corona-laser-reconnection-prl.svg",
+        "alt": "Illustrazione concettuale originale sulla ricerca solar-corona-laser-reconnection-prl, non una fotografia",
+        "credit": "O — original vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-27/assets/solar-corona-laser-reconnection-prl.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
