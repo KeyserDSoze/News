@@ -144,7 +144,7 @@
           "outlet": "Cell",
           "title": "Functional diversification of the cephalopod proteome by RNA editing",
           "url": "https://www.sciencedirect.com/science/article/pii/S0092867426011840",
-          "publishedAt": "2026-10-22",
+          "publishedAt": "2026-10-15",
           "role": "official"
         }
       ],
@@ -172,7 +172,7 @@
       "dek": "La ricerca su Portia fimbriata documenta movimenti oculari e compensazione del riposo, non prova che i ragni sognino.",
       "summary": "Ricercatori hanno osservato in Portia fimbriata fasi di sonno REM-simile con movimenti oculari e un recupero dopo disturbo notturno. L'aumento dei comportamenti REM-simili il giorno seguente sostiene l'esistenza di sonno regolato, non la presenza dimostrata di sogni.",
       "body": [
-        "Uno studio pubblicato il 27 ottobre sulla rivista PNAS ha esaminato il riposo del ragno saltatore australiano Portia fimbriata. Ricercatori collegati all'Università di Bonn hanno registrato con telecamere a infrarossi il comportamento notturno e sperimentato stimoli per verificare se la scarsa attività fosse vero sonno. ABC Science e ScienceAlert hanno riportato autonomamente la ricerca e interpellato gli studiosi.",
+        "Uno studio pubblicato online il 26 ottobre sulla rivista PNAS e ripreso dai media il 27 ha esaminato il riposo del ragno saltatore australiano Portia fimbriata. Ricercatori collegati all'Università di Bonn hanno registrato con telecamere a infrarossi il comportamento notturno e sperimentato stimoli per verificare se la scarsa attività fosse vero sonno. ABC Science e ScienceAlert hanno riportato autonomamente la ricerca e interpellato gli studiosi.",
         "Le riprese mostrano periodi di quiete alternati a movimenti delle strutture oculari e a contrazioni di zampe e altre parti del corpo. Durante queste fasi i ragni rispondevano con maggiore lentezza agli stimoli rispetto alla veglia. Tale combinazione sostiene l'esistenza di uno stato REM-simile, ma nei ragni non è disponibile la stessa misura diretta delle onde cerebrali usata per classificare il sonno umano.",
         "Per interrompere il riposo gli autori hanno introdotto moscerini vivi negli ambienti sperimentali. La notte successiva, secondo ScienceAlert, la durata complessiva dei comportamenti REM-simili è aumentata di quasi l'80%, soprattutto perché gli episodi erano più numerosi. Il recupero dopo la deprivazione, detto rebound, è un segnale che la regolazione del sonno non è soltanto apparente immobilità.",
         "L'osservazione amplia il confronto evolutivo tra animali lontanissimi dai vertebrati. Gli scienziati ipotizzano un rapporto fra questo stato e processi di memoria o apprendimento, ma lo studio non ha misurato sogni né dimostrato quella funzione cognitiva. L'estensione dei risultati ai ragni in natura e ad altre specie rimane un tema per nuove ricerche."
@@ -218,6 +218,13 @@
           "title": "Spiders have different sleep phases",
           "url": "https://leibniz-lib.de/en/news/spiders-have-different-sleep-phases.html",
           "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "PNAS",
+          "title": "Behavioral evidence for two-stage sleep in spiders",
+          "url": "https://doi.org/10.1073/pnas.2618030123",
+          "publishedAt": "2026-10-26",
           "role": "official"
         }
       ],
@@ -356,6 +363,13 @@
           "url": "https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html",
           "publishedAt": "2026-10-26",
           "role": "reporting"
+        },
+        {
+          "outlet": "Physical Review Letters",
+          "title": "Laboratory Demonstration of Coronal Heating via Magnetic Reconnection during Nanoflares",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/tmll-l58c",
+          "publishedAt": "2026-10-20",
+          "role": "official"
         }
       ],
       "image": {
