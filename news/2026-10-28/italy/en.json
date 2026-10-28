@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-28",
+  "language": "en",
+  "section": "italy",
+  "publishedAt": "2026-10-28T08:00:00Z",
+  "editorialNote": "28 October 2026 briefing: dated events, at least two distinct reporting sources per story, attributed claims and evidence limits. Original artwork is illustrative, not photography.",
+  "articles": [
+    {
+      "id": "camera-parliamentary-email-attack-oct27",
+      "rank": 1,
+      "category": "politics",
+      "impact": 2.5,
+      "title": "Italy's Chamber email systems targeted, including Meloni's parliamentary account",
+      "dek": "The Chamber reports protective measures; unauthorized access to the prime minister's account has not been established.",
+      "summary": "On 27 October, parliamentary sources reported hostile activity targeting email systems of Italy's Chamber of Deputies, including Giorgia Meloni's account as a lawmaker. Her office clarified that the address is not used for government business. Public reporting does not establish that the account was breached.",
+      "body": [
+        "On 27 October 2026 Reuters and ANSA reported cyberattacks directed at Italy's Chamber of Deputies IT systems in recent days. Among the email addresses targeted was one assigned to Giorgia Meloni in her role as a member of parliament. ANSA also identified accounts linked to Andrea Delmastro and Paolo Formentini. The named targets should not be confused with the total number of attempts against parliamentary infrastructure.",
+        "A Chamber source told Reuters they could not specify whether unauthorized parties had actually accessed Meloni's account. Being targeted does not prove a successful breach or the theft of messages. Meloni's office also clarified that the parliamentary address is not the one she uses for government communications, making the distinction between roles relevant to the possible scope.",
+        "Sources at Montecitorio told ANSA the situation was not an emergency and that protective steps had been activated with Italy's National Cybersecurity Agency. Those steps may include temporarily disabling certain IT functions. Such containment is standard security practice and does not in itself show that an attacker succeeded in accessing protected messages or systems. The scale of disrupted access was not quantified in that announcement.",
+        "According to ANSA, prosecutors in Rome were awaiting an initial report from the postal police before assessing the opening of an investigation. That preliminary stage establishes neither the responsible actors nor any political or geographical origin. Forensic checks would need to distinguish blocked attempts from confirmed unauthorized access and any actual loss of data. Investigative announcements must therefore be read separately from any eventual forensic findings."
+      ],
+      "facts": [
+        "Chamber sources reported hostile activity against parliamentary systems, with Meloni's parliamentary email among the targets.",
+        "Meloni's office said the address was not used for government communications."
+      ],
+      "perspectives": [
+        "Chamber sources described the situation as non-emergency and said protection measures had been activated with the national cyber agency.",
+        "Prosecutors were waiting for technical information before making an investigative assessment."
+      ],
+      "unknowns": [
+        "It has not been publicly confirmed that outsiders accessed Meloni's account or obtained its messages.",
+        "The origin, technique and overall extent of any successful intrusion have not been publicly established."
+      ],
+      "questions": [
+        {
+          "question": "What separates an attempted attack on a parliamentary email address from a confirmed compromise?",
+          "answer": "An attempted attack means hostile activity targeted an account or service and might have been blocked. A compromise requires evidence of unauthorized access or lost control of the account; such evidence has not been made public for the address discussed."
+        },
+        {
+          "question": "Why did Meloni's office specify what her targeted email address was used for?",
+          "answer": "The address belongs to her parliamentary role, whereas government business uses other channels. This distinction narrows the category of communications potentially at risk without showing that any parliamentary messages were read."
+        }
+      ],
+      "impactReason": "Attempts against parliamentary email infrastructure matter for institutional security, but the extent of any data compromise has not been established.",
+      "tags": [
+        "Parliament",
+        "cybersecurity",
+        "lawmakers"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+        "alt": "Original conceptual illustration about Italy's Chamber email systems targeted, including Meloni's parliamentary account; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Meloni's email targeted in cyberattack on Italian lower house",
+          "url": "https://www.reuters.com/legal/litigation/melonis-email-targeted-cyberattack-italian-lower-house-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Hacker nelle caselle mail della Camera, anche di Giorgia Meloni",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/hacker-nelle-caselle-mail-della-camera-anche-di-giorgia-meloni_8e6c4a5b-ef5b-42ed-ac4b-ede46bf891d9.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "valle-aosta-testolin-appeal-ruling",
+      "rank": 2,
+      "category": "politics",
+      "impact": 2,
+      "title": "Valle d'Aosta appeal court removes regional president Renzo Testolin",
+      "dek": "A ruling filed on 27 October finds that a fourth consecutive term in regional executive office breached term limits.",
+      "summary": "The Turin Court of Appeal upheld Renzo Testolin's ineligibility to serve as president of Italy's Valle d'Aosta region on 27 October 2026. It ruled that he had exceeded the regional limits on successive executive appointments. The ruling, following a 13 October hearing, takes effect and opens a regional government crisis.",
+      "body": [
+        "On 27 October 2026 the Turin Court of Appeal filed a ruling upholding an earlier judgment by the Aosta tribunal: Renzo Testolin, of the Union Valdôtaine party, was not eligible to become president of the autonomous region because of limits on consecutive executive mandates. The appeal hearing took place on 13 October, but the ruling was published and took effect on 27 October. ANSA and regional RaiNews reported the chronology independently.",
+        "The legal issue is the 2007 regional law and how membership of the regional executive is counted, including service in different roles and terms that did not last a full legislature. Judges determined that Testolin had already served in the regional cabinet during the 14th, 15th and 16th legislatures, so his new appointment in the 17th crossed the applicable limit. The court rejected a competing reading put forward by his legal team concerning his constitutional right to stand for office.",
+        "An appeal had previously suspended the effect of the original Aosta judgment. The new appellate decision makes the removal effective. RaiNews said assembly president Stefano Aggravi was responsible for formally informing the regional council. The cabinet's future is also affected by the president's departure, requiring governing parties to consider how they will manage the institutional change.",
+        "A further appeal to Italy's Court of Cassation on legal grounds is theoretically possible, but it would not automatically undo the appellate ruling. La Stampa described a sixty-day period in which parties could try to reconstitute a regional government rather than face early elections. The reporting does not establish that a new governing arrangement has already been agreed: the court's decision and coalition negotiations are distinct events."
+      ],
+      "facts": [
+        "The appellate judgment was filed on 27 October, after a hearing on 13 October.",
+        "It confirmed the finding that Testolin was ineligible for the presidency of the 17th regional legislature."
+      ],
+      "perspectives": [
+        "Testolin's legal team argued for a different reading of the term-limit law and eligibility rights.",
+        "The Green and Left Alliance, which brought the challenge, welcomed the appeal court's decision."
+      ],
+      "unknowns": [
+        "Regional parties had not finalized a new majority and presidential replacement.",
+        "It was not known whether Testolin would pursue a further legal appeal."
+      ],
+      "questions": [
+        {
+          "question": "Why did the appeal court count Testolin's earlier service as an assessor against his eligibility?",
+          "answer": "The regional rule concerns membership of the executive across successive legislatures rather than years as president alone. Judges counted his service in the 14th, 15th and 16th legislatures when assessing the appointment in the 17th."
+        },
+        {
+          "question": "What happens to Valle d'Aosta's institutions after Testolin's removal?",
+          "answer": "The regional council is formally notified and the governing parties must decide whether they can put together a new majority and cabinet. Forming one within the prescribed period could avoid early elections."
+        }
+      ],
+      "impactReason": "The ruling removes the head of a regional administration and sets in motion a political process that could produce a new cabinet or early elections.",
+      "tags": [
+        "Valle-Aosta",
+        "Testolin",
+        "term-limits"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+        "alt": "Original conceptual illustration about Valle d'Aosta appeal court removes regional president Renzo Testolin; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "RaiNews TGR Valle d'Aosta",
+          "title": "Testolin decaduto dalla carica di presidente",
+          "url": "https://www.rainews.it/tgr/vda/articoli/2026/10/per-la-corte-dappello-di-torino-testolin-era-ineleggibile-b0d26f60-1a43-4329-b405-e96c4714d341.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Appello conferma decadenza del presidente della Regione Valle d'Aosta",
+          "url": "https://www.ansa.it/valledaosta/notizie/2026/10/27/appello-conferma-decadenza-del-presidente-della-regione-valle-daosta_0ac6f233-0724-469c-9350-7b89ab4556b1.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "La Stampa",
+          "title": "Valle d’Aosta, Testolin decade da presidente. Anche l’appello gli dà torto",
+          "url": "https://www.lastampa.it/aosta/2026/10/28/news/valle_d_aosta_testolin_decade_da_presidente_anche_l_appello_gli_da_torto-15779876/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "italy-chamber-doctors-reinstatement-vote",
+      "rank": 3,
+      "category": "politics",
+      "impact": 2,
+      "title": "Italy's lower house narrowly backs clause on reinstating doctors struck off over Covid vaccination",
+      "dek": "Lawmakers approve Article 8 by 126 votes to 113; the proposal is not yet law.",
+      "summary": "On 27 October Italy's Chamber of Deputies approved Article 8 of a bill on healthcare professions by 126 votes to 113. It would enable doctors removed from professional registers over Covid-era vaccination refusal to apply for reinstatement. The measure still faces legislative steps and exposed political divisions within the governing camp.",
+      "body": [
+        "On 27 October 2026 Italy's Chamber of Deputies approved Article 8 of a bill on healthcare professions, introducing a route for doctors struck off professional registers over Covid-era vaccine refusal to seek reinstatement. The recorded result was 126 votes in favour and 113 against, a majority of just thirteen. ANSA, Corriere della Sera and la Repubblica reported the parliamentary count and the argument surrounding it.",
+        "The vote concerned a clause in a bill and does not by itself put a new legal framework into force. The legislation must complete the required parliamentary process before its provisions can have binding effect. The exact procedures for applying and assessing requests will therefore depend on the final legislation and its implementation, not simply on comments given in the chamber after the vote.",
+        "According to parliamentary reporting, some Forza Italia lawmakers did not take part, describing their position in terms of freedom of conscience. The Futuro Nazionale group claimed its eight supportive votes were decisive to the result. The closeness of the recorded vote shows the political importance of small groups, but arithmetic alone cannot establish how other members would have behaved under a different voting scenario.",
+        "Opposition parties argued that the proposal undermines public health responsibility and the lessons of the pandemic. Government-side lawmakers defended the possibility of professional reintegration. Those are competing political and ethical interpretations rather than disputed vote totals. Approval of a clause does not mean that an individual doctor is already reinstated, nor does it dispense with whatever review the final legal procedure may require."
+      ],
+      "facts": [
+        "On 27 October the chamber approved Article 8 of the healthcare professions bill by 126 to 113 votes.",
+        "The clause would provide a route to request reinstatement for doctors struck off during the Covid period."
+      ],
+      "perspectives": [
+        "Opposition lawmakers warned about the professional and symbolic implications of reinstatement.",
+        "Futuro Nazionale claimed that its eight votes mattered, while some Forza Italia members declined to participate."
+      ],
+      "unknowns": [
+        "The final wording and date of legal effect depend on the remainder of the legislative process.",
+        "The number of future applicants and outcomes of individual cases is not established."
+      ],
+      "questions": [
+        {
+          "question": "What exactly did Italy's Chamber approve for doctors removed from the register on 27 October?",
+          "answer": "The chamber approved Article 8 of a bill on healthcare professions, with 126 votes for and 113 against. It proposes a route to apply for reinstatement, but the passage of one clause is not the completion of legislation."
+        },
+        {
+          "question": "Why did Futuro Nazionale's eight votes become a focus of the debate?",
+          "answer": "The actual margin was thirteen votes, and the group portrayed its votes as a decisive contribution. The close outcome reveals political leverage, although it cannot prove how everyone else would have voted in a hypothetical alternative."
+        }
+      ],
+      "impactReason": "The vote advances a proposal affecting medical professional standards, but the measure has not yet become an operative law.",
+      "tags": [
+        "Chamber",
+        "healthcare",
+        "reinstatement"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+        "alt": "Original conceptual illustration about Italy's lower house narrowly backs clause on reinstating doctors struck off over Covid vaccination; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Ok della Camera al reintegro dei medici no vax, determinante il sì di Fnv",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/ok-della-camera-al-reintegro-dei-medici-no-vax-determinante-il-si-di-fnv_412f6177-a0ed-40a9-87a5-10f5a83f1b92.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Reintegro dei medici no vax, sì alla Camera: è scontro",
+          "url": "https://roma.corriere.it/notizie/politica/26_ottobre_27/reintegro-medici-no-vax-si-camera-scontro-c47e6a4f-e01d-4fda-b317-fe49591c7xlk.shtml?intcmp=AREA_H_AMP_nd_210926_corriere_ss_COR_AMP",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Ok dalla Camera al reintegro dei medici no vax con solo 13 voti di scarto: è polemica",
+          "url": "https://www.repubblica.it/politica/2026/10/27/news/medici_no_vax_reintegro_ddl_camera_polemica_opposizioni-425679736/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "intesa-sanpaolo-mps-ecb-approval-oct27",
+      "rank": 4,
+      "category": "economy",
+      "impact": 2.5,
+      "title": "ECB clears Intesa to control Monte dei Paschi, but takeover still faces other hurdles",
+      "dek": "The 27 October permission addresses prudential rules; offer documentation, competition review and shareholder decisions remain.",
+      "summary": "On 27 October 2026 Intesa Sanpaolo announced European Central Bank approval to acquire control of Monte dei Paschi di Siena through a cash-and-share tender offer. The transaction, valued around €32 billion, is not completed: market regulator Consob, competition authorities and shareholders still have roles to play.",
+      "body": [
+        "Intesa Sanpaolo announced on 27 October 2026 that the European Central Bank had granted preliminary approval for its proposed acquisition of control over Monte dei Paschi di Siena. The permission covers a cash-and-share public takeover offer first announced in June and valued at approximately €32 billion by Reuters. ANSA independently reported the development and the bank published the formal regulatory disclosure for investors.",
+        "The ECB decision addresses whether an acquiring bank may hold significant interests in regulated financial institutions. Because of MPS's existing structure, the approval also covers prospective indirect control over Mediobanca and other financial entities. It is not equivalent to permission from every relevant authority: Consob still reviews the offering documents, and Italy's competition watchdog examines the transaction's market consequences.",
+        "Reuters said Consob's response to the offer document was expected in early November and a competition decision later that month. Intesa has agreed in principle to sell part of the MPS branch network to insurer Unipol, with branches to be combined with those of BPER, to tackle potential retail banking concerns. The precise number of branches ultimately sold may change during regulatory review.",
+        "The insurance market adds another complication. MPS controls Mediobanca, which holds shares in insurer Generali; the combination would leave Intesa indirectly owning 13.4% of Generali, according to Reuters. Competition officials may require safeguards ensuring this remains a financial interest rather than control of a competitor. Intesa's CEO Carlo Messina says the bank wants Generali to stay independent, but that commitment does not replace regulatory assessment."
+      ],
+      "facts": [
+        "On 27 October the ECB granted Intesa preliminary permission to acquire a controlling interest in MPS.",
+        "Reuters valued the proposed cash-and-share offer at about €32 billion."
+      ],
+      "perspectives": [
+        "Intesa says it intends to respect Generali's independence.",
+        "Competition authorities are reviewing potential banking and insurance remedies."
+      ],
+      "unknowns": [
+        "Shareholder acceptances and final completion of the offer remain to be determined.",
+        "The ultimate competition conditions and number of branches to be divested have not been set."
+      ],
+      "questions": [
+        {
+          "question": "Why doesn't ECB approval mean that Intesa already owns Monte dei Paschi?",
+          "answer": "The ECB assesses prudential permission to acquire control. The shareholder offer must still go through Consob's documentation review, acceptance by investors and competition scrutiny. Preliminary ECB clearance completes only one regulatory stage."
+        },
+        {
+          "question": "Why does the indirect 13.4% Generali stake matter to Italy's competition watchdog?",
+          "answer": "Acquiring MPS would expose Intesa, through Mediobanca, to a significant holding in Generali, which competes in insurance businesses. Regulators must judge whether the stake stays a passive financial asset or creates opportunities to influence competition."
+        }
+      ],
+      "impactReason": "A potential merger of major Italian banks matters for customers, competition and insurance markets, but prudential approval alone does not complete the transaction.",
+      "tags": [
+        "Intesa",
+        "Mps",
+        "ECB"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+        "alt": "Original conceptual illustration about ECB clears Intesa to control Monte dei Paschi, but takeover still faces other hurdles; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Italy's Intesa gets ECB authorisation to take over Monte dei Paschi",
+          "url": "https://www.reuters.com/business/finance/italys-intesa-gets-ecb-authorisation-take-over-monte-dei-paschi-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Dalla Bce via libera a Intesa Sanpaolo all'acquisizione di Mps",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/dalla-bce-via-libera-a-intesa-sanpaolo-allacquisizione-di-mps_aeb6b178-cb0b-41a2-beef-12578feb5794.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Intesa Sanpaolo",
+          "title": "Autorizzazione preventiva BCE all'acquisizione del controllo di MPS",
+          "url": "https://group.intesasanpaolo.com/it/investor-relations/comunicati-stampa-price-sensitive/2026/10/20261027-bce-it",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "istat-bes-2026-regional-wellbeing-gap",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "title": "Italy's well-being report finds 54 indicators improving, but regional gaps persist",
+      "dek": "Published on 26 October, the ISTAT report covers 148 measures across 12 domains; 132 are comparable with the previous year.",
+      "summary": "In ISTAT's 2026 equitable and sustainable well-being report, published on 26 October, 54 of 132 comparable indicators improved, 55 were stable and 23 worsened. The full framework uses 148 indicators covering health, work, income, education and services, while more than 5.4 million people still face absolute poverty and major north-south differences persist.",
+      "body": [
+        "On Monday, 26 October 2026, Italy's national statistical office ISTAT published the thirteenth edition of its Equitable and Sustainable Well-being report, known as BES. The survey brings together 148 indicators across twelve areas, from health to service quality, to measure aspects of life beyond gross domestic product. Corriere della Sera and RaiNews reported the main findings and the geographic contrasts identified by the statistical office.",
+        "Only 132 of the 148 indicators can be compared with the previous year: 54 improved, 55 were essentially unchanged and 23 deteriorated. The counts add to 132 and do not mean that life improved uniformly for everyone. Some series describe 2025 and others refer to different years according to data availability; 26 October was the publication date, not the reference year of every statistic in the report.",
+        "More than 5.4 million people were in absolute poverty despite improvements in some measures of income, employment and life expectancy. The at-risk-of-poverty indicator uses a different, relative income threshold and remains higher than the European Union average. The BES report also shows that national progress can coexist with persistent differences by education, age and employment situation, complicating one-dimensional interpretations of well-being.",
+        "The report finds that most southern regions score below the Italian average in a majority of areas, whereas almost all regions in the centre and north exceed it in at least half of the available measures. Such comparisons do not by themselves establish causes, which may involve jobs, infrastructure and access to services. ISTAT is supplying comparable outcomes, not a simple political league table of regional administrations."
+      ],
+      "facts": [
+        "The BES report was published on 26 October 2026 with 148 indicators across 12 domains.",
+        "Among 132 indicators allowing year-on-year comparison, 54 improved, 55 were stable and 23 deteriorated."
+      ],
+      "perspectives": [
+        "ISTAT emphasizes overall progress alongside continuing territorial inequality.",
+        "Corriere and RaiNews highlight poverty risk and the gap with European Union averages."
+      ],
+      "unknowns": [
+        "The report alone cannot attribute changes causally to a particular government measure.",
+        "Indicators with differing reference periods cannot be treated as a single uniform 2026 outcome."
+      ],
+      "questions": [
+        {
+          "question": "Why does the 2026 BES report cover 148 indicators but compare only 132 with the previous year?",
+          "answer": "The full framework has 148 measures in twelve domains, but only 132 have comparable readings from the preceding period. The counts of 54 improving, 55 stable and 23 worsening apply solely to those 132 measures."
+        },
+        {
+          "question": "How can many BES measures improve while more than 5.4 million Italians remain in absolute poverty?",
+          "answer": "The indicators cover different subjects and population groups: advances in health, employment or average income do not automatically remove severe material deprivation. National averages also conceal large geographic and social disparities that the report measures separately."
+        }
+      ],
+      "impactReason": "The figures offer a broad view of living conditions and inequality in Italy and inform public policy on employment, education and services.",
+      "tags": [
+        "ISTAT",
+        "wellbeing",
+        "poverty"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+        "alt": "Original conceptual illustration about Italy's well-being report finds 54 indicators improving, but regional gaps persist; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Istat, migliora il benessere in Italia ma 5,4 milioni di persone restano in povertà",
+          "url": "https://www.corriere.it/economia/finanza/26_ottobre_26/istat-migliora-il-benessere-in-italia-ma-5-4-milioni-di-persone-restano-in-poverta-il-divario-con-l-europa-e-il-nord-sud-42ab6c72-dc00-4b42-a73d-84bcf1e30xlk.shtml",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Istat, migliorano gli indicatori benessere in Italia, ma il rischio povertà è sopra la media Ue",
+          "url": "https://www.rainews.it/articoli/2026/10/istat-migliorano-gli-indicatori-benessere-in-italia-ma-il-rischio-poverta-e-sopra-la-media-ue--2c73df52-e89a-40c4-afef-389018677373.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ISTAT",
+          "title": "Nota stampa Rapporto sul Benessere equo e sostenibile 2026",
+          "url": "https://www.istat.it/comunicato-stampa/nota-stampa-rapporto-bes-edizione-2026/",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ]
+    }
+  ]
+}

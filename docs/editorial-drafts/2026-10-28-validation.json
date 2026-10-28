@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-28",
+  "result": "PASSED structural preflight; official repository tests also required",
+  "edition": "25 distinct story IDs, 50 localized full-length articles, 8 edition JSON files",
+  "perDesk": {
+    "world": 10,
+    "italy": 5,
+    "technology": 5,
+    "science": 5
+  },
+  "localizedStories": 50,
+  "paragraphs": {
+    "it": 100,
+    "en": 100
+  },
+  "questions": {
+    "it": 50,
+    "en": 50
+  },
+  "illustrations": 25,
+  "newsFiles": [
+    {
+      "path": "news/2026-10-28/it.json",
+      "articles": 10
+    },
+    {
+      "path": "news/2026-10-28/en.json",
+      "articles": 10
+    },
+    {
+      "path": "news/2026-10-28/italy/it.json",
+      "articles": 5
+    },
+    {
+      "path": "news/2026-10-28/italy/en.json",
+      "articles": 5
+    },
+    {
+      "path": "news/2026-10-28/technology/it.json",
+      "articles": 5
+    },
+    {
+      "path": "news/2026-10-28/technology/en.json",
+      "articles": 5
+    },
+    {
+      "path": "news/2026-10-28/science/it.json",
+      "articles": 5
+    },
+    {
+      "path": "news/2026-10-28/science/en.json",
+      "articles": 5
+    }
+  ],
+  "sourceMethod": "Each record contains at least two differently authored report outlets plus primary records where available; Reuters/AFP were substituted for Reuters/Al Jazeera on Sudan, and Popular Science was added for TOI-561b. Independent editorial authorship still deserves final source-level scrutiny.",
+  "translationQA": "Every pair has two specific topic-grounded questions and informative answers with the same quantitative and interpretive concepts in Italian and English. Superficial or generic questions manually rejected as drafted; structural cross-check does not replace review.",
+  "previousEditionAudit": "Compared prior-world titles from 22-27 October and relevant Italy/technology/science desk files (available 22,24-27); Brazil, Israel and GMO are documented updates on different dates.",
+  "ci": {
+    "firstRun": 40651269164,
+    "firstRunResult": "failure due to ubuntu-26.04 unsupported by Playwright 1.51.0, despite editorial tests and build success",
+    "secondRun": 40651537802,
+    "secondRunResult": "in progress at report time on pinned ubuntu-24.04"
+  },
+  "issues": [],
+  "releaseApproval": "BLOCKED until final CI including Playwright succeeds and published URL can be verified"
+}

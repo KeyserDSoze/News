@@ -1,0 +1,400 @@
+{
+  "date": "2026-10-28",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-10-28T08:00:00Z",
+  "editorialNote": "28 October 2026 briefing: dated events, at least two distinct reporting sources per story, attributed claims and evidence limits. Original artwork is illustrative, not photography.",
+  "articles": [
+    {
+      "id": "wmo-greenhouse-gas-bulletin-2025-records",
+      "rank": 1,
+      "category": "climate",
+      "impact": 3,
+      "title": "WMO finds record atmospheric CO₂, methane and nitrous oxide in 2025",
+      "dek": "The bulletin issued on 27 October 2026 measures the previous year: 426.8 ppm of CO₂, not a live reading.",
+      "summary": "The World Meteorological Organization released Greenhouse Gas Bulletin No. 22 on 27 October, drawing on measurements from 2025. Global mean concentrations reached 426.8 ppm for carbon dioxide, 1,948 ppb for methane and 339.1 ppb for nitrous oxide. Those are atmospheric records, not totals for annual emissions.",
+      "body": [
+        "On 27 October 2026 the World Meteorological Organization published Greenhouse Gas Bulletin No. 22, covering measurements made during 2025 through its Global Atmosphere Watch network. Global mean carbon dioxide was 426.8 ± 0.2 parts per million, while methane reached 1,948 ± 2 parts per billion and nitrous oxide 339.1 ± 0.1 parts per billion. Reuters and Folha de S.Paulo also reported the bulletin's figures.",
+        "These numbers express concentrations in the atmosphere, not the volume of greenhouse gases emitted by human activity during 2025 alone. Atmospheric stocks accumulate over time according to the balance between emissions and absorption by oceans, soils and vegetation. A slower year-on-year rise can therefore coincide with an absolute concentration record, provided the balance still adds gas.",
+        "The WMO puts the 2025 CO₂ concentration at 153% of the pre-industrial reference before 1750; the corresponding figures are 267% for methane and 126% for nitrous oxide. The CO₂ increase from 2024 was lower than the unusually large 2023–2024 jump, but slightly higher than the preceding decade's mean annual growth. Such comparisons need consistent units and stated baselines.",
+        "The WMO emphasizes that CO₂ persists for very long periods and can influence warming well beyond the year of release. Reuters also highlighted the organization's concern about how natural sinks may behave during climate events such as El Niño. Forecasts of further increases during 2026 must not be presented as measurements from a year that has yet to end."
+      ],
+      "facts": [
+        "WMO Bulletin No. 22 was published on 27 October 2026 and reports global annual averages from 2025.",
+        "CO₂ was 426.8 ± 0.2 ppm, methane 1,948 ± 2 ppb and nitrous oxide 339.1 ± 0.1 ppb."
+      ],
+      "perspectives": [
+        "The WMO links the longevity of greenhouse gases to persistent climate risks.",
+        "Reuters and Folha distinguish measured records from conditional expectations about future increases."
+      ],
+      "unknowns": [
+        "The full-year 2026 global averages cannot be determined from this 2025 bulletin.",
+        "The quantitative impact of any new El Niño on subsequent natural absorption is not established by these measurements."
+      ],
+      "questions": [
+        {
+          "question": "What does the WMO's 2025 figure of 426.8 ppm of carbon dioxide mean?",
+          "answer": "It represents approximately 426.8 molecules of carbon dioxide per million molecules of dry air, on a global average. It is an atmospheric concentration rather than the amount of CO₂ emitted during 2025."
+        },
+        {
+          "question": "How can CO₂ reach another record when its annual increase is slower than in 2024?",
+          "answer": "Concentration measures an accumulated stock: if additions still exceed the quantity absorbed by natural sinks, the total continues rising. A smaller positive increase is still an increase and can produce a fresh record."
+        }
+      ],
+      "impactReason": "Global records for persistent greenhouse gases carry broad scientific and public significance because of their long-term influence on climate.",
+      "tags": [
+        "WMO",
+        "greenhouse-gases",
+        "concentrations"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+        "alt": "Original conceptual illustration about WMO finds record atmospheric CO₂, methane and nitrous oxide in 2025; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Greenhouse gases hit record highs, further rise expected with El Niño, UN weather agency says",
+          "url": "https://www.reuters.com/sustainability/cop/greenhouse-gases-hit-record-highs-further-rise-expected-with-el-nio-un-weather-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Gases de efeito estufa atingem níveis sem precedentes, diz ONU",
+          "url": "https://www1.folha.uol.com.br/ambiente/2026/10/gases-de-efeito-estufa-atingem-niveis-sem-precedentes-diz-onu.shtml",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "World Meteorological Organization",
+          "title": "WMO Greenhouse Gas Bulletin - No. 22",
+          "url": "https://wmo.int/resources/publication-series/greenhouse-gas-bulletin/no-22",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "gerrothorax-maritimus-marine-amphibian",
+      "rank": 2,
+      "category": "society",
+      "impact": 2.5,
+      "title": "Triassic fossils reveal an ancient amphibian adapted to life at sea",
+      "dek": "Gerrothorax maritimus, described on 26 October, is known from two near-complete skeletons found in marine deposits in China.",
+      "summary": "A study published in Nature Ecology & Evolution on 26 October 2026 describes Gerrothorax maritimus, an early amphibian that lived around 237 million years ago in what was then a marine environment in China's Guizhou province. The fossils and bone chemistry support an ocean-dwelling life; exactly how the animal handled salt remains hypothetical.",
+      "body": [
+        "A paper published in Nature Ecology & Evolution on 26 October 2026 describes Gerrothorax maritimus, a newly identified early amphibian species from about 237 million years ago in the Triassic. Researchers examined two almost complete skeletons recovered in China's southern Guizhou province, from rocks laid down when the area was covered by sea. The proposed species name highlights the unusual ability of an amphibian lineage to occupy an environment far from fresh water.",
+        "The preserved skeletons show a flattened, heavily armoured animal approximately 74–75 centimetres long, according to reconstructions discussed by Reuters and Nature News. A broad skull and mouth suggest a seafloor ambush predator that may have sucked prey into its mouth. The fossil bones document anatomy directly; its feeding behaviour is inferred from shape and comparisons with living animals, not observed.",
+        "A marine location alone would not rule out a body washed out from a river after death. The authors combined the geological setting with chemical signatures preserved in the bones, which they interpreted as consistent with growth in marine conditions. This independent line of evidence strengthens the case that the species actually lived in salt water, rather than merely having its remains deposited there.",
+        "Modern amphibians generally have permeable skin that complicates survival in salty water through uncontrolled movement of water and salts. The research team proposes that bony armour reduced skin exposure and that gills might have helped eliminate excess salt. These are physiological explanations inferred from hard parts, not observations of preserved soft organs. The discovery points to an evolutionary solution not previously documented in the fossil record without demonstrating every component of that solution."
+      ],
+      "facts": [
+        "The 26 October research paper identifies two near-complete skeletons of Gerrothorax maritimus dated to around 237 million years ago.",
+        "The fossils occur in marine rocks in Guizhou, and bone chemistry supports growth under marine conditions."
+      ],
+      "perspectives": [
+        "The paper's authors present the animal as the first known fully marine stem amphibian.",
+        "Nature News and Reuters distinguish fossil anatomy from proposed explanations for salt tolerance."
+      ],
+      "unknowns": [
+        "The precise physiology of salt and water exchange cannot be directly observed from the preserved bones.",
+        "The respective contributions of armour and gills to salt regulation have not been quantified."
+      ],
+      "questions": [
+        {
+          "question": "Why does the bone chemistry of Gerrothorax maritimus matter alongside its marine fossil location?",
+          "answer": "An animal's body might have washed into a marine deposit after death. Chemical signals in its bones help indicate the environment in which it grew and, together with the geological setting, support an interpretation of life at sea."
+        },
+        {
+          "question": "How might Gerrothorax's bony armour have made saltwater life possible?",
+          "answer": "Researchers propose that its bony covering reduced the exposure of permeable skin and so limited uncontrolled water and salt exchange. The armour is preserved, but the actual physiological control of salt remains a hypothesis rather than a direct measurement."
+        }
+      ],
+      "impactReason": "The finding expands the fossil evidence for ancient amphibians living permanently at sea, although their physiological adaptations remain incompletely understood.",
+      "tags": [
+        "Triassic",
+        "amphibians",
+        "fossils"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+        "alt": "Original conceptual illustration about Triassic fossils reveal an ancient amphibian adapted to life at sea; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Ancient armored bottom-feeder is first seagoing amphibian",
+          "url": "https://www.reuters.com/business/environment/ancient-armored-bottom-feeder-is-first-seagoing-amphibian-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature News",
+          "title": "Evolutionary 'game-changer': weird armoured amphibian lived in ancient seas",
+          "url": "https://www.nature.com/articles/d41586-026-03440-1",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Popular Science",
+          "title": "Earth’s first fully-marine amphibian stalked the seafloor with a chunky, bony body",
+          "url": "https://www.popsci.com/environment/first-fully-marine-amphibian-china/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature Ecology & Evolution",
+          "title": "A fully marine stem amphibian from the Late Triassic of China",
+          "url": "https://www.nature.com/articles/s41559-026-03209-9",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "lumina-early-universe-frontier-simulation",
+      "rank": 3,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "Lumina supercomputer model reconstructs the early universe's first two billion years",
+      "dek": "The 26 October study follows gas, galaxies and radiation across 500 megaparsecs; it is a simulation, not a direct photograph.",
+      "summary": "Researchers at Harvard-Smithsonian and MIT presented Lumina, a cosmological simulation published on 26 October in Monthly Notices of the Royal Astronomical Society. Using around 15,000 GPUs on the Frontier supercomputer, the model spans part of the first two billion years and follows two eras of reionization, making predictions for telescopes to test.",
+      "body": [
+        "On 26 October 2026 researchers introduced Lumina, a simulation of the first two billion years of the universe developed at the Center for Astrophysics Harvard & Smithsonian with MIT collaborators. ANSA independently described the project on the 26th, and UOL Tilt reported it the following day. The associated research appears in Monthly Notices of the Royal Astronomical Society.",
+        "The simulation covers a volume approximately 500 megaparsecs across, equivalent to about 1.6 billion light-years. Its initial conditions are physical reconstructions that are evolved computationally, not observations of every star and galaxy. Lumina tracks dark matter, gas, radiation and emerging cosmic structures, seeking fine spatial detail while representing an enormous fraction of the early universe.",
+        "The group used the Frontier supercomputer at Oak Ridge, employing approximately 15,000 graphics processors at peak scale. One distinctive feature is the treatment of both hydrogen reionization, driven by early luminous objects, and later helium reionization associated with highly energetic sources such as quasars. Those processes change the electrical state and temperature of the gas between galaxies.",
+        "Researchers hope to compare Lumina's predictions with observations from the James Webb Space Telescope and the forthcoming Nancy Grace Roman observatory. Computational volume alone does not prove that every assumption is correct. The model must be assessed against measured distributions of gas, light and galaxies, and discrepancies could reveal either missing physics or limitations in the approximations."
+      ],
+      "facts": [
+        "Lumina was published on 26 October and covers roughly two billion years of early cosmic evolution.",
+        "Its volume is around 500 megaparsecs across, with approximately 15,000 Frontier GPUs used for computation."
+      ],
+      "perspectives": [
+        "The team sees Lumina as a tool for interpreting Webb observations and testing cosmological assumptions.",
+        "ANSA and UOL distinguish its computing scale from direct astronomical observation."
+      ],
+      "unknowns": [
+        "Quantitative agreement with all new telescopic datasets remains a topic for research.",
+        "Some early-universe processes are represented through assumed initial conditions and model parameters."
+      ],
+      "questions": [
+        {
+          "question": "What does the 500-megaparsec scale of Lumina actually represent?",
+          "answer": "It is the side length of the simulated cosmic volume, about 1.6 billion light-years. The model has not observed every object inside it; it evolves inferred early conditions using physical equations and numerical approximations."
+        },
+        {
+          "question": "Why does Lumina model both hydrogen and helium reionization?",
+          "answer": "Early stars and galaxies mainly reionized hydrogen, whereas later energetic sources such as quasars helped reionize helium. Following both allows researchers to study the evolving temperature and electrical state of gas between galaxies."
+        }
+      ],
+      "impactReason": "Combining two ionization phases on a vast simulated scale is a useful advance for cosmology, but the model's reliability depends on observational comparisons.",
+      "tags": [
+        "Lumina",
+        "cosmology",
+        "supercomputers"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/lumina-early-universe-frontier-simulation.svg",
+        "alt": "Original conceptual illustration about Lumina supercomputer model reconstructs the early universe's first two billion years; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/lumina-early-universe-frontier-simulation.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Pronta la più grande simulazione del baby universo",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/26/pronta-la-piu-grande-simulazione-del-baby-universo-video_c4b3b6ba-97d1-4a9b-a31a-913ad31a75ec.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UOL Tilt",
+          "title": "Simulação com supercomputador recria 2 bilhões de anos do Universo jovem",
+          "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/10/27/supercomputador-simula-os-primeiros-2-bilhoes-de-anos-do-universo-jovem.ghtm",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Monthly Notices of the Royal Astronomical Society",
+          "title": "Introducing the lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization",
+          "url": "https://doi.org/10.1093/mnras/stag1469",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        },
+        {
+          "outlet": "MIT News",
+          "title": "Watch the universe emerge from the dark ages, with Lumina",
+          "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "macaque-binocular-rivalry-15hz-preprint",
+      "rank": 4,
+      "category": "society",
+      "impact": 1.5,
+      "title": "Preprint reports 15-times-per-second switching in macaque visual brain signals",
+      "dek": "The Berkeley study discussed on 27 October compares perceived and suppressed visual representations but is not peer reviewed.",
+      "summary": "An October preprint from Berkeley researchers reports neural patterns associated with perceived and suppressed faces alternating around 15 times per second during a macaque visual task. Nature covered the result on 27 October after a ScienceAlert analysis on 24 October. It is not evidence that all human consciousness operates at that rhythm.",
+      "body": [
+        "A preprint posted on 15 October 2026 by Janis Hesse, Doris Tsao and colleagues at the University of California, Berkeley drew fresh reporting from ScienceAlert on 24 October and Nature on the 27th. The group recorded neurons in macaque brain regions involved in face recognition during a visual task designed to present different facial images to the animals' two eyes.",
+        "The experiment uses visual suppression: when a new image is shown to one eye it may dominate perception, even though another remains physically present in the other eye. Researchers separately recorded neural responses to each face so they could recognize their patterns during the combined task. The animals' subjective perception is inferred from the experimental setup rather than explained verbally by the monkeys.",
+        "Within the observed activity, patterns representing the dominant face and the suppressed face alternated approximately fifteen times each second. Nature reported that the team could reconstruct information about both stimuli from different neural time windows. That does not imply the animal consciously experienced a new face fifteen times a second; the measured switching occurred in cortical representations, which may not be identical to awareness.",
+        "The work has not yet passed peer review, and Nature quoted specialists warning against dramatic interpretations of consciousness. A macaque experiment focused on faces cannot establish a universal frequency of awareness in humans or prove that everyday experience switches between images in the same way. Independent replications and additional experimental designs are needed to test broader claims."
+      ],
+      "facts": [
+        "The bioRxiv preprint appeared on 15 October, with Nature reporting on it on 27 October.",
+        "The researchers reported about 15 Hz switching between neural representations of two visual stimuli in macaques."
+      ],
+      "perspectives": [
+        "The study authors view the patterns as a possible clue to conscious visual access.",
+        "Nature consulted scientists who cautioned against equating this preliminary result with a complete theory of consciousness."
+      ],
+      "unknowns": [
+        "The study still awaits formal peer review and independent replication.",
+        "The link between recorded signal alternation and human subjective experience is unresolved."
+      ],
+      "questions": [
+        {
+          "question": "How does binocular suppression let researchers separate two face signals in macaque brains?",
+          "answer": "Each eye receives a different image, and researchers first map neuronal responses to the individual faces. They can then recognize which signal is present during competition, including a stimulus that is not dominant in perception."
+        },
+        {
+          "question": "Why doesn't 15 Hz neural switching mean a macaque consciously sees fifteen different images each second?",
+          "answer": "The frequency describes patterns measured in visual brain circuits, not a direct report of subjective experience. Neural representations may contain a suppressed stimulus even while a different image dominates awareness."
+        }
+      ],
+      "impactReason": "The experimental signal could inform theories of visual representation, but the preliminary status and uncertain interpretation constrain the finding's impact.",
+      "tags": [
+        "neuroscience",
+        "macaques",
+        "perception"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/macaque-binocular-rivalry-15hz-preprint.svg",
+        "alt": "Original conceptual illustration about Preprint reports 15-times-per-second switching in macaque visual brain signals; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/macaque-binocular-rivalry-15hz-preprint.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Nature News",
+          "title": "Mysterious flickering brain signals could help to unlock secrets of consciousness",
+          "url": "https://www.nature.com/articles/d41586-026-03384-6",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ScienceAlert",
+          "title": "Your Brain May Be Switching Between Two Versions of Reality 15 Times a Second",
+          "url": "https://www.sciencealert.com/your-brain-may-be-switching-between-two-versions-of-reality-15-times-a-second",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "bioRxiv",
+          "title": "Rapid alternation of conscious and suppressed stimulus representations in the primate brain",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759299v1",
+          "publishedAt": "2026-10-15",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "toi561b-jwst-reflective-atmosphere",
+      "rank": 5,
+      "category": "climate",
+      "impact": 2.5,
+      "title": "Webb observations point to a reflective atmosphere around lava world TOI-561 b",
+      "dek": "A 37-hour observation suggests roughly three-quarters of starlight is reflected; silicate clouds remain a model-based explanation.",
+      "summary": "A James Webb study, available in preprint form before October and discussed in new reports on 26–27 October, suggests that rocky exoplanet TOI-561 b reflects around 74–75% of incoming starlight. Changes in brightness over nearly four orbits indicate an atmosphere and some heat redistribution, but atmospheric composition and individual clouds have not been directly observed.",
+      "body": [
+        "A new analysis of James Webb Space Telescope data from TOI-561 b, about 280 light-years from Earth, attracted fresh coverage and institutional explanations on 26–27 October 2026. Orbital Wire and Martin Cid Magazine described the result, and the University of Birmingham explained the team's findings. The underlying scientific preprint had already appeared in August; the recent development is the new research coverage and publication discussion.",
+        "The telescope monitored the system for approximately thirty-seven hours, covering almost four revolutions around the star. Researchers measured infrared brightness as the visible proportion of the planet's illuminated and dark hemispheres changed. This phase-curve method helps constrain reflected energy and heat movement without producing a spatially resolved photograph of the planet's surface. These variations are inferred from the total light arriving at the telescope.",
+        "TOI-561 b's dayside appears much cooler than expected for dark bare rock without an atmosphere. Its night side is not warm enough to account for the full difference merely through heat transport. The researchers therefore infer that the planet reflects around 74–75% of incoming starlight, consistent with a highly reflective atmosphere above an extremely hot rocky surface.",
+        "Climate calculations suggest that clouds composed of silicate minerals could create such high reflectivity above a likely molten surface. No individual cloud particles were directly imaged, and the gas's exact chemical composition remains uncertain. Researchers mention carbon dioxide and sulfur-bearing possibilities; further Webb measurements at other wavelengths could help distinguish the proposed atmospheric mixtures. The proposed mineral chemistry remains an explanation for the measurement, not an independent observation."
+      ],
+      "facts": [
+        "JWST observed TOI-561 b for 37 hours across nearly four orbital periods.",
+        "The phase curve is interpreted as requiring reflectivity of roughly three-quarters of incoming starlight."
+      ],
+      "perspectives": [
+        "The research team led by Lisa Dang treats the result as evidence for a substantial atmosphere.",
+        "Independent specialist coverage distinguishes measured light changes from modelled silicate cloud formation."
+      ],
+      "unknowns": [
+        "Atmospheric composition and the presence and structure of specific clouds were not directly established.",
+        "The mechanism that preserves gas in such intense stellar radiation remains under investigation."
+      ],
+      "questions": [
+        {
+          "question": "What did Webb's 37-hour phase curve add to the earlier dayside temperature of TOI-561 b?",
+          "answer": "Almost four orbits let researchers estimate the temperature of the permanent night side as well. Because that side was not warm enough to explain all the missing dayside heat, they inferred that much incoming starlight must be reflected."
+        },
+        {
+          "question": "Why are silicate clouds on TOI-561 b a model-based explanation rather than a direct image?",
+          "answer": "The high reflectivity comes from observed brightness changes and energy-balance calculations. Climate models show that silicate particles could produce it, but Webb did not resolve cloud grains or uniquely measure the atmosphere's composition."
+        }
+      ],
+      "impactReason": "Evidence for an atmosphere on an intensely irradiated rocky world could reshape exoplanet models, though its chemistry remains inferred rather than directly confirmed.",
+      "tags": [
+        "Webb",
+        "exoplanets",
+        "atmospheres"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/toi561b-jwst-reflective-atmosphere.svg",
+        "alt": "Original conceptual illustration about Webb observations point to a reflective atmosphere around lava world TOI-561 b; not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/toi561b-jwst-reflective-atmosphere.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Popular Science",
+          "title": "This lava planet shouldn’t have an atmosphere—but it does",
+          "url": "https://www.popsci.com/science/lava-planet-atmosphere/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Martin Cid Magazine",
+          "title": "A lava planet that should be bare rock reflects 74% of its starlight, Webb finds",
+          "url": "https://www.martincid.com/science/toi-561-b-lava-planet-reflective-atmosphere-jwst/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Astronomical Journal",
+          "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curves",
+          "url": "https://doi.org/10.3847/1538-3881/ae9763",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        },
+        {
+          "outlet": "University of Birmingham",
+          "title": "Shiny lava planet challenges astronomers' expectations",
+          "url": "https://www.birmingham.ac.uk/news/2026/shiny-lava-planet-challenges-astronomers-expectations",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    }
+  ]
+}

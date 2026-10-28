@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-28",
+  "language": "it",
+  "section": "technology",
+  "publishedAt": "2026-10-28T08:00:00Z",
+  "editorialNote": "Rassegna del 28 ottobre 2026: cronologie esplicite, almeno due editori distinti per ogni notizia, attribuzioni e limiti delle prove. Le illustrazioni originali non sono fotografie.",
+  "articles": [
+    {
+      "id": "google-deepmind-genie4-research-preview",
+      "rank": 1,
+      "category": "technology",
+      "impact": 2,
+      "title": "DeepMind presenta Genie 4: simulazioni interattive con audio, ma accesso ancora ristretto",
+      "dek": "Il nuovo modello consente modifiche in tempo reale; la coerenza delle scene resta limitata e i video dimostrativi non sono test indipendenti.",
+      "summary": "Il 27 ottobre Google DeepMind ha annunciato Genie 4, modello capace di generare ambienti visivi interattivi, suoni e dialoghi e di rispondere a istruzioni inserite durante la simulazione. L'accesso iniziale è riservato a un gruppo selezionato di tester. La società stessa riconosce limiti di continuità e accuratezza.",
+      "body": [
+        "Google DeepMind ha presentato Genie 4 il 27 ottobre 2026 come un nuovo modello per simulare ambienti che reagiscono alle azioni dell'utente. Rispetto a un video generato una volta per tutte, il sistema permette di modificare durante l'esecuzione condizioni come visuale, oggetti, persone e meteo. TechCrunch e Ars Technica descrivono separatamente queste capacità sulla base di dimostrazioni e spiegazioni fornite durante l'annuncio.",
+        "Il modello integra la generazione di suoni ambientali, musica e dialoghi, associandoli al mondo simulato. Un componente della famiglia Gemini è utilizzato per orientare l'evoluzione della scena e collegare le istruzioni dell'utente ai fotogrammi successivi. Questo non equivale a un motore fisico con leggi scientifiche garantite: le interazioni sono generate da un modello statistico addestrato su dati.",
+        "Secondo TechCrunch, le simulazioni possono mantenere continuità per circa due minuti, all'incirca il doppio del predecessore, ma dettagli e oggetti possono cambiare con il tempo. I ricercatori di Google hanno inoltre riconosciuto difficoltà con la precisione dell'audio e la leggibilità delle scritte dentro la scena. Le affermazioni sul maggiore realismo non sono ancora accompagnate da una valutazione comparativa indipendente pubblicata nel materiale consultato.",
+        "Al lancio il prodotto è una ricerca in anteprima per tester selezionati, non un servizio accessibile a tutti. Google prospetta successive fasi per abbonati Google AI Ultra e partner delle API Gemini, senza un calendario pubblico definitivo. Robotica, prototipazione creativa e formazione sono possibili applicazioni, ma usarne le demo come prova di affidabilità in ambienti reali confonderebbe capacità sperimentali e risultati sul campo."
+      ],
+      "facts": [
+        "Google DeepMind ha annunciato Genie 4 il 27 ottobre 2026 in anteprima di ricerca.",
+        "Il modello combina simulazione visiva in tempo reale, modifica tramite istruzioni e audio generato."
+      ],
+      "perspectives": [
+        "Google presenta la simulazione come un possibile strumento per agenti, robotica e produzione creativa.",
+        "TechCrunch e Ars Technica sottolineano i limiti di persistenza delle scene e l'accesso ristretto."
+      ],
+      "unknowns": [
+        "Non sono disponibili nelle fonti consultate prove indipendenti di affidabilità fisica o sonora per impieghi critici.",
+        "Prezzi definitivi e calendario di distribuzione generale non sono stati pubblicati."
+      ],
+      "questions": [
+        {
+          "question": "In che modo la modifica in tempo reale distingue Genie 4 da un normale video sintetico?",
+          "answer": "In un video già generato la sequenza dei fotogrammi è fissa; Genie 4 produce la scena mentre l'utente la esplora e può incorporare istruzioni successive, per esempio spostare la camera o cambiare il tempo meteorologico."
+        },
+        {
+          "question": "Che cosa comporta il limite di circa due minuti nella continuità di Genie 4?",
+          "answer": "Oggetti e dettagli di una scena possono perdere coerenza nelle simulazioni più lunghe. È quindi difficile assumere che un percorso esteso riproduca condizioni costanti, soprattutto per test che richiedono precisione e ripetibilità."
+        }
+      ],
+      "impactReason": "La generazione interattiva multimodale potrebbe ampliare strumenti creativi e test simulati, ma l'accesso limitato e le prestazioni non indipendentemente validate riducono l'impatto già accertato.",
+      "tags": [
+        "DeepMind",
+        "simulazione",
+        "intelligenza-artificiale"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+        "alt": "Illustrazione simbolica originale relativa a DeepMind presenta Genie 4: simulazioni interattive con audio, ma accesso ancora ristretto; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+          "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Google DeepMind",
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "oracle-ai-chips-google-nvidia-cerebras-oct27",
+      "rank": 2,
+      "category": "technology",
+      "impact": 3,
+      "title": "Oracle amplia il cloud AI a chip Nvidia, TPU Google e sistemi Cerebras",
+      "dek": "Il progetto presentato il 27 ottobre include capacità multi-gigawatt, ma il valore dei nuovi accordi non è dichiarato.",
+      "summary": "Oracle ha annunciato il 27 ottobre accordi per ampliare l'uso dei server Nvidia Vera Rubin e introdurre chip TPU Google, Cerebras e SambaNova nella piattaforma Oracle Cloud Infrastructure. I fornitori coprono funzioni differenti nell'intelligenza artificiale; una parte delle installazioni è prevista per il 2027, senza un valore contrattuale globale reso pubblico.",
+      "body": [
+        "Durante Oracle AI World del 27 ottobre 2026 l'azienda ha annunciato l'estensione dei propri accordi infrastrutturali con Nvidia, prevedendo sistemi Vera Rubin su scala multi-gigawatt. Reuters e The Register hanno riportato in modo indipendente il progetto e l'arrivo di chip concorrenti. La scala in gigawatt indica la potenza di infrastruttura prevista, non una quantità di processori già consegnati.",
+        "Oracle ha presentato l'arrivo dei Tensor Processing Unit di Google nel proprio cloud, con disponibilità indicativa dal 2027. I TPU sono acceleratori progettati per carichi di intelligenza artificiale, alternativi a diverse offerte di GPU Nvidia ma non automaticamente superiori in ogni attività. Oracle prevede inoltre reti Acceleron sviluppate internamente per una parte dei sistemi, differenziando le componenti dell'infrastruttura.",
+        "Il gruppo intende integrare anche acceleratori Cerebras e SambaNova per l'inferenza, ossia l'esecuzione di modelli già addestrati per produrre risposte e risultati. Le necessità di latenza, costo e memoria di questa fase differiscono spesso da quelle del lungo addestramento iniziale. I vantaggi dichiarati dai fornitori non sono confronti indipendenti effettuati sugli stessi modelli e con le stesse condizioni.",
+        "Reuters precisa che non è stato comunicato il valore dei contratti né un piano finanziario specifico per ciascuna fornitura. Oracle ha ribadito un obiettivo di investimento complessivo di circa 90–95 miliardi di dollari nell'esercizio fiscale 2027, una somma che non deve essere trasformata nel prezzo dell'intesa Nvidia. Tempi reali di messa in servizio e rendimenti andranno verificati successivamente."
+      ],
+      "facts": [
+        "L'annuncio Oracle del 27 ottobre comprende capacità Nvidia Vera Rubin multi-gigawatt e TPU Google dal 2027.",
+        "Oracle prevede chip Cerebras e SambaNova per l'inferenza; l'importo dell'espansione Nvidia non è stato dichiarato."
+      ],
+      "perspectives": [
+        "Oracle afferma che una scelta più ampia di acceleratori serve carichi di lavoro differenti.",
+        "Reuters richiama l'attenzione sugli investimenti e sul finanziamento delle espansioni."
+      ],
+      "unknowns": [
+        "Numero effettivo dei chip, costi contrattuali e tempi finali di installazione non sono definiti.",
+        "Non vi sono test indipendenti comparabili dei nuovi sistemi in OCI."
+      ],
+      "questions": [
+        {
+          "question": "Perché Oracle propone sia i TPU Google sia le GPU Nvidia su OCI?",
+          "answer": "TPU e GPU utilizzano architetture e strumenti diversi, che possono avere costi e prestazioni differenti in addestramento e inferenza. Offrirli entrambi lascia ai clienti la scelta della piattaforma adatta senza presupporre un unico vincitore."
+        },
+        {
+          "question": "Quale grandezza indica la scala multi-gigawatt dei sistemi Nvidia Vera Rubin?",
+          "answer": "Descrive la dimensione pianificata della capacità infrastrutturale ed elettrica, non il numero esatto di server acquistati né il valore finanziario dei contratti. Oracle e Nvidia non hanno comunicato l'importo dell'espansione."
+        }
+      ],
+      "impactReason": "Diversificare l'offerta di acceleratori di un grande cloud può incidere sulla concorrenza e sui costi dei servizi AI, ma i nuovi sistemi non sono tutti operativi.",
+      "tags": [
+        "Oracle",
+        "cloud",
+        "acceleratori"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/oracle-ai-chips-google-nvidia-cerebras-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Oracle amplia il cloud AI a chip Nvidia, TPU Google e sistemi Cerebras; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/oracle-ai-chips-google-nvidia-cerebras-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
+          "url": "https://www.reuters.com/business/oracle-expands-chip-supply-deal-with-nvidia-adds-google-cerebras-offerings-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Register",
+          "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
+          "url": "https://assets.theregister.com/2026/10/27/202620/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Oracle",
+          "title": "Building the Next Decade of Oracle Cloud Infrastructure",
+          "url": "https://www.oracle.com/news/announcement/blog/ai-world-building-the-next-decade-of-oracle-cloud-infrastructure-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "gmo-onamae-customer-data-update-oct27",
+      "rank": 3,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "GMO verifica la pubblicazione di dati attribuiti ai clienti dopo l'attacco cloud",
+      "dek": "I 26.739 server citati nelle misure cautelative non sono tutti confermati infettati; l'aggiornamento è del 27 ottobre.",
+      "summary": "GMO Internet ha comunicato il 27 ottobre di esaminare la pubblicazione di dati che un gruppo criminale attribuisce ai clienti del servizio Onamae.com Desktop Cloud. L'attacco iniziale era emerso la settimana precedente. Il gestore verifica autenticità e perimetro del materiale e non ha certificato che tutti i 26.739 server potenzialmente interessati siano compromessi.",
+      "body": [
+        "Il 27 ottobre 2026 GMO Internet ha fornito un aggiornamento sull'incidente di sicurezza del servizio Onamae.com Desktop Cloud emerso il 20–21 ottobre. TechCrunch riferisce che un gruppo criminale ha pubblicato informazioni presentate come sottratte ai clienti. L'operatore ha dichiarato di verificare autenticità e portata dei file, distinguendo la rivendicazione degli aggressori dall'esito delle indagini interne.",
+        "BleepingComputer aveva descritto i precedenti avvisi ai clienti, con istruzioni per interrompere precauzionalmente alcuni utilizzi e seguire le procedure del gestore. GMO aveva segnalato un perimetro potenzialmente interessato di 26.739 server Windows collegati al servizio desktop remoto. Il numero identifica sistemi toccati dalle restrizioni e dai controlli, non 26.739 macchine con malware confermato. Questo chiarimento è essenziale per una valutazione prudente del rischio.",
+        "Gli accessi da remoto possono coinvolgere credenziali e dati aziendali, rendendo prudente un contenimento esteso anche quando gli specialisti non hanno ancora stabilito quale singolo sistema sia stato violato. L'eventuale pubblicazione di file comporterebbe un rischio ulteriore rispetto all'interruzione del servizio, ma non basta un archivio rivendicato da un criminale a confermarne l'origine o la completezza.",
+        "La notizia nuova del 27 riguarda dunque la diffusione asserita di dati, non la scoperta dell'attacco precedente. Per determinare l'effetto sui clienti servono riscontri forensi, eventuali comunicazioni personalizzate e un calendario verificato di ripristino. Le dichiarazioni sul riscatto e sulle quantità sottratte vanno attribuite ai ricattatori finché non esiste conferma indipendente. L'indagine forense resta quindi distinta dalle informazioni pubblicate dagli aggressori."
+      ],
+      "facts": [
+        "GMO ha pubblicato il 27 ottobre un aggiornamento sui file rivendicati online dagli aggressori.",
+        "Il dato di 26.739 server indica il perimetro potenzialmente coinvolto nelle misure del servizio."
+      ],
+      "perspectives": [
+        "GMO sostiene di verificare il contenuto dei file e il reale coinvolgimento degli utenti.",
+        "Le testate di cybersicurezza raccomandano di distinguere le rivendicazioni dei criminali da prove forensi."
+      ],
+      "unknowns": [
+        "Autenticità completa dei file e numero finale di account realmente esposti non sono accertati.",
+        "Il ripristino integrale del servizio non ha una data definitiva pubblica."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa rappresentano i 26.739 server indicati da GMO per Onamae Desktop Cloud?",
+          "answer": "Rappresentano la platea potenziale di server inclusi nelle misure precauzionali dell'operatore. Non è un conteggio verificato di infezioni né di clienti i cui file siano stati sottratti."
+        },
+        {
+          "question": "Perché la pubblicazione asserita di dati aumenta i rischi rispetto a un semplice fermo del cloud?",
+          "answer": "Se gli archivi pubblicati contengono davvero informazioni dei clienti, il danno può proseguire anche dopo la riattivazione del servizio. Occorre verificare origine e contenuto dei file prima di dichiarare un'esposizione specifica."
+        }
+      ],
+      "impactReason": "La possibile diffusione di dati di clienti di un grande servizio remoto è rilevante per la sicurezza, pur restando da determinare la compromissione effettiva.",
+      "tags": [
+        "GMO",
+        "ransomware",
+        "desktop-remoto"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/gmo-onamae-customer-data-update-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a GMO verifica la pubblicazione di dati attribuiti ai clienti dopo l'attacco cloud; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/gmo-onamae-customer-data-update-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Japan internet giant GMO says hackers posted stolen customer data",
+          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "BleepingComputer",
+          "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+          "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "GMO Internet",
+          "title": "Information regarding the security incident update",
+          "url": "https://internet.gmo/en/news/article/256",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "apple-ios-272-security-update-oct26",
+      "rank": 4,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "Apple distribuisce iOS 27.2 con oltre 160 correzioni di sicurezza",
+      "dek": "La versione è uscita il 26 ottobre, anche se alcuni resoconti sono del 27; Siri AI si amplia ma resta soggetta a limiti regionali.",
+      "summary": "Apple ha rilasciato iOS e iPadOS 27.2 il 26 ottobre 2026, con oltre 160 correzioni di sicurezza indicate dalla stampa specializzata. L'aggiornamento estende anche le lingue beta di Siri AI. Le funzioni dell'assistente dipendono da hardware e paese: installare una patch non garantisce automaticamente accesso all'AI avanzata.",
+      "body": [
+        "Apple ha pubblicato iOS 27.2 e iPadOS 27.2 lunedì 26 ottobre 2026, come confermano il registro degli aggiornamenti e il bollettino sicurezza. MacRumors ha analizzato le patch lo stesso giorno; TechCrunch ha approfondito alcune funzioni il 27 ottobre. La data della seconda cronaca non è la data del rilascio e va distinta nei titoli e nelle ricostruzioni.",
+        "MacRumors riferisce più di 160 vulnerabilità corrette, distribuite tra WebKit, kernel, gestione degli account e altre componenti del sistema. Il documento ufficiale Apple illustra condizioni di rischio e identificativi CVE per numerosi difetti. Una correzione non implica necessariamente un attacco già avvenuto: per la serie principale del rilascio Apple non ha dichiarato sfruttamenti attivi generalizzati.",
+        "Il pacchetto amplia Siri AI in beta a francese, giapponese, coreano, portoghese e spagnolo e introduce funzioni di memoria e contestualizzazione. Queste capacità non sono garantite su ogni telefono che riceva gli aggiornamenti. La disponibilità dipende dal modello, dalle impostazioni e dal mercato; nell'Unione europea alcune funzioni Siri AI non sono disponibili con gli stessi tempi di altri territori.",
+        "Apple ha inoltre pubblicato aggiornamenti di sicurezza per prodotti che continuano a usare iOS 26 e alcune versioni precedenti. Questo consente ai dispositivi compatibili di ricevere protezioni senza installare necessariamente ogni nuova funzione. Gli utenti devono consultare la lista ufficiale di modelli supportati e installare la versione proposta nelle impostazioni, distinguendo le patch dalle nuove funzioni sperimentali."
+      ],
+      "facts": [
+        "Apple ha rilasciato iOS e iPadOS 27.2 il 26 ottobre 2026.",
+        "MacRumors e TechCrunch riferiscono più di 160 correzioni; il bollettino Apple elenca le vulnerabilità."
+      ],
+      "perspectives": [
+        "Apple raccomanda gli aggiornamenti e documenta i dispositivi supportati.",
+        "Le testate specializzate distinguono patch note, disponibilità delle funzioni e sfruttamento reale."
+      ],
+      "unknowns": [
+        "I bollettini non quantificano quante persone siano state colpite dalle singole vulnerabilità.",
+        "Non è annunciato un calendario universale per la disponibilità delle funzioni Siri AI in ogni paese."
+      ],
+      "questions": [
+        {
+          "question": "Perché le oltre 160 correzioni di iOS 27.2 non indicano 160 attacchi confermati?",
+          "answer": "Il conteggio riguarda i difetti di sicurezza per cui il software offre rimedi, non il numero di campagne criminali. L'esistenza di una CVE non dimostra che sia stata utilizzata contro utenti reali."
+        },
+        {
+          "question": "Perché un iPhone aggiornato a iOS 27.2 potrebbe non ricevere le nuove funzioni Siri AI?",
+          "answer": "Le patch di sicurezza e l'assistente avanzato hanno requisiti diversi. Siri AI dipende anche da compatibilità hardware, lingua e disponibilità nella regione: ricevere una versione del sistema non abilita automaticamente ogni servizio."
+        }
+      ],
+      "impactReason": "Le numerose correzioni interessano una vasta base di dispositivi e la protezione di informazioni personali, con ricadute concrete.",
+      "tags": [
+        "Apple",
+        "iOS",
+        "sicurezza"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/apple-ios-272-security-update-oct26.svg",
+        "alt": "Illustrazione simbolica originale relativa a Apple distribuisce iOS 27.2 con oltre 160 correzioni di sicurezza; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/apple-ios-272-security-update-oct26.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "MacRumors",
+          "title": "iOS 27.2 Fixes Over 160 Security Vulnerabilities",
+          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TechCrunch",
+          "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+          "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Apple Support",
+          "title": "About the security content of iOS 27.2 and iPadOS 27.2",
+          "url": "https://support.apple.com/en-us/149230",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "opera-webai-local-browser-preview-oct27",
+      "rank": 5,
+      "category": "technology",
+      "impact": 2,
+      "title": "Opera apre l'anteprima WebAI: modelli AI locali nel browser",
+      "dek": "La tecnologia opzionale è disponibile inizialmente in Opera One su Windows 64 bit e Mac Apple Silicon, non è uno standard universale.",
+      "summary": "Opera ha presentato il 27 ottobre 2026 WebAI, un'interfaccia proposta che permette a siti ed estensioni autorizzate di richiedere operazioni a modelli AI eseguiti sul dispositivo. L'anteprima parte da Opera One su computer compatibili e richiede un'attivazione volontaria; privacy, prestazioni e sicurezza dipendono dalle impostazioni e dalle autorizzazioni.",
+      "body": [
+        "Opera ha annunciato il 27 ottobre 2026 l'anteprima di WebAI per il browser Opera One. L'interfaccia consente ai siti e alle estensioni autorizzati di utilizzare modelli che eseguono il calcolo direttamente sul computer, invece di inviare ogni richiesta a fornitori di servizi remoti. TechCrunch e 9to5Mac hanno analizzato separatamente le capacità annunciate e il contesto dei modelli locali.",
+        "WebAI prevede interfacce per generare testo, classificare contenuti e riconoscere affinità semantiche. Opera cita modelli Gemma di Google e, su Mac supportati, il modello locale di Apple. L'utente deve attivare la funzione, scaricare componenti compatibili e concedere permessi separati ai siti, senza presumere che qualunque pagina possa accedere ai dati del dispositivo automaticamente. È un passaggio fondamentale per delimitare l'uso dei dati.",
+        "L'anteprima iniziale è disponibile su computer Windows a 64 bit con CPU Intel o AMD e su Mac basati su Apple Silicon. Opera GX e Neon sono indicati come sviluppi successivi. Questo non rende WebAI uno standard già implementato da tutti i browser: disponibilità effettiva e prestazioni dipendono dall'hardware e dalla compatibilità dei modelli usati.",
+        "Elaborare contenuti localmente può evitare il trasferimento verso un servizio di inferenza esterno, un beneficio potenziale per la riservatezza e per le applicazioni senza connessione. Restano però possibili rischi da permessi troppo ampi o estensioni non affidabili. I test dimostrativi del produttore non provano che modelli di dimensioni diverse abbiano accuratezza, velocità o consumi equivalenti su ogni macchina."
+      ],
+      "facts": [
+        "Opera ha annunciato WebAI il 27 ottobre come anteprima opzionale di Opera One.",
+        "La compatibilità iniziale comprende Windows 64 bit Intel/AMD e Mac Apple Silicon."
+      ],
+      "perspectives": [
+        "Opera presenta l'inferenza locale come alternativa per risparmiare chiamate cloud e limitare trasferimenti.",
+        "TechCrunch e 9to5Mac evidenziano che diffusione, standard e prestazioni sono ancora preliminari."
+      ],
+      "unknowns": [
+        "Non esiste un calendario definitivo per il supporto su tutti i sistemi e browser.",
+        "Non sono disponibili benchmark indipendenti su ogni combinazione di hardware e modello."
+      ],
+      "questions": [
+        {
+          "question": "Come usa un'estensione Opera One l'interfaccia WebAI per l'inferenza locale?",
+          "answer": "Dopo l'attivazione e il download di un modello compatibile, l'estensione autorizzata può richiedere generazione di testo o classificazione tramite le API del browser. Il calcolo avviene sul computer invece di richiedere una chiamata cloud per ogni richiesta."
+        },
+        {
+          "question": "Perché l'elaborazione WebAI sul dispositivo richiede comunque permessi ai siti?",
+          "answer": "La localizzazione dei calcoli riduce alcuni trasferimenti, ma non garantisce che ogni sito o estensione tratti correttamente le informazioni accessibili. Le autorizzazioni delimitano quali pagine possono utilizzare il modello e proteggono l'utente da accessi non necessari."
+        }
+      ],
+      "impactReason": "L'inferenza locale potrebbe ridurre costi cloud e trasferimenti di dati in alcune applicazioni, ma WebAI è ancora una proposta con supporto iniziale ristretto.",
+      "tags": [
+        "Opera",
+        "WebAI",
+        "privacy"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/opera-webai-local-browser-preview-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Opera apre l'anteprima WebAI: modelli AI locali nel browser; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/opera-webai-local-browser-preview-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "9to5Mac",
+          "title": "Opera One now lets Mac users run Apple's foundation model directly in the browser",
+          "url": "https://9to5mac.com/2026/10/27/opera-one-now-lets-mac-users-run-apples-foundation-model-directly-in-the-browser/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Opera Newsroom",
+          "title": "Opera doubles down on local AI, shipping models directly in its browsers",
+          "url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    }
+  ]
+}

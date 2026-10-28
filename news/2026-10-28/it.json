@@ -1,0 +1,714 @@
+{
+  "date": "2026-10-28",
+  "language": "it",
+  "section": "world",
+  "publishedAt": "2026-10-28T08:00:00Z",
+  "editorialNote": "Rassegna del 28 ottobre 2026: cronologie esplicite, almeno due editori distinti per ogni notizia, attribuzioni e limiti delle prove. Le illustrazioni originali non sono fotografie.",
+  "articles": [
+    {
+      "id": "israel-exit-polls-no-majority-oct27",
+      "rank": 1,
+      "category": "politics",
+      "impact": 3,
+      "title": "Israele, gli exit poll del 27 ottobre non assegnano una maggioranza",
+      "dek": "Nessuno dei due blocchi raggiunge i 61 seggi: il conteggio e la formazione di una coalizione restano passaggi distinti.",
+      "summary": "Dopo la chiusura delle urne israeliane il 27 ottobre, le proiezioni televisive non hanno attribuito a Benjamin Netanyahu né a Gadi Eisenkot i 61 seggi necessari per controllare la Knesset. L'affluenza comunicata dalla commissione elettorale ha raggiunto il 77,7%. Gli exit poll sono stime, non la ripartizione definitiva dei seggi.",
+      "body": [
+        "Le urne israeliane si sono chiuse alle 22 locali di martedì 27 ottobre 2026. Le principali reti televisive hanno pubblicato exit poll che indicavano un confronto senza maggioranza fra lo schieramento del primo ministro Benjamin Netanyahu e quello guidato dall'ex capo dell'esercito Gadi Eisenkot. Reuters e Associated Press concordano sul dato essenziale: nessun blocco risultava in grado di ottenere autonomamente almeno 61 seggi.",
+        "La Knesset è composta da 120 deputati e il voto è assegnato a liste di partito, non direttamente a un candidato premier. La commissione elettorale ha riportato un'affluenza del 77,7%, la più alta in oltre due decenni secondo Reuters. I primi scrutini parziali pubblicati il 28 ottobre non sono equivalenti alla distribuzione definitiva dei seggi e possono modificare le proiezioni televisive.",
+        "I partiti arabi, che restano fuori dai due principali raggruppamenti negli exit poll, potrebbero incidere sulla costruzione di una maggioranza. La loro forza parlamentare prevista non implica automaticamente l'ingresso in un governo: le possibili alleanze dipendono da decisioni esplicite dei dirigenti. Reuters rileva che Eisenkot ha escluso quasi del tutto un'intesa di governo con queste formazioni, complicando la sua strada verso 61 deputati.",
+        "Eisenkot ha interpretato le proiezioni come un rifiuto della leadership di Netanyahu; quest'ultimo ha rivendicato il primato del Likud e non ha riconosciuto una sconfitta. Sono affermazioni politiche, non risultati certificati. Una volta completato il conteggio, il presidente Isaac Herzog dovrà individuare chi dispone delle migliori possibilità di formare un governo; nel frattempo Netanyahu resta primo ministro ad interim."
+      ],
+      "facts": [
+        "Le urne si sono chiuse il 27 ottobre 2026 alle 22 locali e gli exit poll non hanno assegnato 61 seggi a uno dei due blocchi.",
+        "La commissione elettorale ha comunicato il 77,7% di affluenza."
+      ],
+      "perspectives": [
+        "Eisenkot ha presentato il risultato provvisorio come un segnale favorevole al cambiamento.",
+        "Netanyahu ha sottolineato il vantaggio del Likud come singola lista e la necessità di attendere i conteggi."
+      ],
+      "unknowns": [
+        "La ripartizione finale dei 120 seggi, incluse le schede conteggiate più tardi, non era definita al momento della verifica.",
+        "Non esiste ancora un accordo di coalizione che consenta di prevedere un governo."
+      ],
+      "questions": [
+        {
+          "question": "Perché la soglia di 61 seggi è decisiva anche se il Likud è la lista più votata?",
+          "answer": "La Knesset ha 120 membri e un governo deve poter contare su una maggioranza parlamentare. Il primato di una lista non determina chi governa: servono accordi con altri partiti per raggiungere almeno 61 deputati."
+        },
+        {
+          "question": "Quale ruolo potrebbero avere i partiti arabi nelle trattative tra Netanyahu ed Eisenkot?",
+          "answer": "Se nessuno dei due blocchi principali raggiunge la maggioranza, i loro seggi possono risultare determinanti per sostenere o impedire una coalizione. La possibilità concreta dipende però dalle scelte dei partiti, e Eisenkot ha espresso forti riserve su un'intesa con essi."
+        }
+      ],
+      "impactReason": "L'incertezza sul governo israeliano può influire sulla politica e sulla diplomazia regionale; gli exit poll non bastano però a stabilire l'esecutivo.",
+      "tags": [
+        "Israele",
+        "Knesset",
+        "coalizioni"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Israele, gli exit poll del 27 ottobre non assegnano una maggioranza; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "The Latest: As votes are counted, no clear winner emerges in Israel's election",
+          "url": "https://apnews.com/article/52c6f5a0a720a4ffc08633229e796415",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Israeli exit polls show deadlock, point to setback for Netanyahu",
+          "url": "https://www.reuters.com/world/middle-east/netanyahus-political-survival-line-israel-votes-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "cyclone-arnab-india-oct28-landfall",
+      "rank": 2,
+      "category": "climate",
+      "impact": 2.5,
+      "title": "Il ciclone Arnab raggiunge l'Andhra Pradesh: evacuazioni e trasporti sospesi",
+      "dek": "Reuters riferisce oltre 180mila persone evacuate in due Stati; i dati AP su un solo Stato non vanno sommati.",
+      "summary": "Il ciclone Arnab ha raggiunto la costa orientale dell'India il 28 ottobre 2026 dopo gli ordini di evacuazione del 27. Le autorità hanno segnalato danni, interruzioni elettriche e sospensioni dei trasporti, senza vittime confermate nella prima fase. I bilanci delle evacuazioni cambiano a seconda della regione e del momento rilevato.",
+      "body": [
+        "Il ciclone Arnab, formatosi nel golfo del Bengala, ha raggiunto la costa dell'Andhra Pradesh nella mattina di mercoledì 28 ottobre 2026, dopo due giorni di preparativi e progressiva intensificazione. Reuters riferisce che le squadre di emergenza sono intervenute su alberi e pali elettrici abbattuti, mentre Associated Press documenta rifugi aperti e trasporti cancellati in previsione del passaggio. Le cronache distinguono correttamente la fase dell'allerta del 27 dall'approdo del 28.",
+        "Secondo Reuters, più di 180mila persone erano state evacuate complessivamente dall'Andhra Pradesh e dall'Odisha prima del passaggio. Associated Press riportava una cifra di almeno 89mila evacuati nel solo Andhra Pradesh, in un momento precedente della risposta. Le due misure non descrivono necessariamente lo stesso territorio o la stessa ora: sommarle come se fossero gruppi diversi produrrebbe un totale fuorviante.",
+        "L'India Meteorological Department aveva previsto venti sostenuti tra 125 e 135 chilometri orari, raffiche fino a 150 chilometri e un innalzamento del mare fino a un metro e mezzo rispetto alla marea normale nelle zone basse. Questi valori sono previsioni e non misurazioni uniformi in tutti i centri colpiti. Chiusure scolastiche, sospensioni aeroportuali, rotte ferroviarie cancellate e divieti per i pescatori sono stati adottati come precauzioni.",
+        "Al momento dei primi resoconti non risultavano morti confermati nei due Stati, ma i danni a case, coltivazioni e reti elettriche richiedevano ulteriori verifiche. L'estensione dei danni non può essere stimata soltanto dalle immagini di strade bloccate. La perturbazione ha spinto anche il Nepal a sospendere temporaneamente permessi di trekking in alta quota a causa del rischio previsto di piogge, bufere e valanghe."
+      ],
+      "facts": [
+        "Il ciclone ha raggiunto l'Andhra Pradesh il 28 ottobre dopo le evacuazioni annunciate il 27.",
+        "Reuters riporta oltre 180mila evacuati tra Andhra Pradesh e Odisha; AP ne riporta almeno 89mila nell'Andhra Pradesh."
+      ],
+      "perspectives": [
+        "La meteorologia indiana ha sottolineato i rischi di vento, mareggiate e allagamenti costieri.",
+        "Le autorità dei due Stati hanno privilegiato evacuazioni e restrizioni ai trasporti prima del passaggio."
+      ],
+      "unknowns": [
+        "La valutazione finale dei danni alle infrastrutture e all'agricoltura non era disponibile nella prima mattina del 28 ottobre.",
+        "I conteggi di evacuati, interruzioni di servizio e possibili feriti potrebbero essere rivisti."
+      ],
+      "questions": [
+        {
+          "question": "Perché le cifre di 89mila e 180mila evacuati per Arnab non indicano una contraddizione?",
+          "answer": "Associated Press ha riportato almeno 89mila persone spostate nell'Andhra Pradesh, mentre Reuters ha contato oltre 180mila evacuazioni nell'insieme di Andhra Pradesh e Odisha. Per confrontarle servono lo stesso orario di rilevazione e la stessa area geografica."
+        },
+        {
+          "question": "In che modo la mareggiata prevista può aggravare gli allagamenti causati da Arnab?",
+          "answer": "Un livello del mare fino a 1–1,5 metri sopra la marea normale spinge acqua salata nelle aree costiere basse proprio mentre arrivano piogge intense. Può quindi ostacolare il drenaggio e rendere vulnerabili abitazioni, strade e campi vicini alla costa."
+        }
+      ],
+      "impactReason": "L'evento interessa una fascia costiera densamente popolata e causa danni e disservizi; le misure preventive riducono il rischio ma il bilancio è ancora iniziale.",
+      "tags": [
+        "India",
+        "Arnab",
+        "cicloni"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/cyclone-arnab-india-oct28-landfall.svg",
+        "alt": "Illustrazione simbolica originale relativa a Il ciclone Arnab raggiunge l'Andhra Pradesh: evacuazioni e trasporti sospesi; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/cyclone-arnab-india-oct28-landfall.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "India evacuates over 180,000 as Cyclone Arnab hits coast",
+          "url": "https://www.reuters.com/business/environment/cyclone-arnab-begins-making-landfall-indias-andhra-pradesh-state-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Cyclone Arnab hits India's Andhra Pradesh state as tens of thousands evacuate",
+          "url": "https://apnews.com/article/96277efc4371cf379c24b7694dfa9f62",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "hispaniola-floods-haiti-dominican-oct27",
+      "rank": 3,
+      "category": "society",
+      "impact": 2,
+      "title": "Piogge e alluvioni sull'isola di Hispaniola: quattro morti segnalati ad Haiti",
+      "dek": "La Protezione civile haitiana segnala anche due dispersi e 3.209 famiglie colpite; almeno 30 comunità isolate nella Repubblica Dominicana.",
+      "summary": "Piogge persistenti dal 24 ottobre hanno causato alluvioni e frane ad Haiti e nella vicina Repubblica Dominicana. Il 27 ottobre la Protezione civile haitiana indicava provvisoriamente quattro morti, due dispersi e 3.209 famiglie colpite. Dall'altra parte della frontiera, le autorità dominicane riferivano che alcune comunità erano rimaste isolate.",
+      "body": [
+        "Le piogge che hanno colpito l'isola caraibica di Hispaniola a partire da sabato 24 ottobre 2026 hanno provocato esondazioni, frane e danni a case e strade. Il 27 ottobre la Direzione generale della Protezione civile di Haiti ha comunicato quattro morti e due persone disperse come bilancio provvisorio. Associated Press e Caribbean Media Corporation riportano separatamente questi dati, attribuendoli all'autorità di protezione civile.",
+        "Per Haiti la stessa agenzia conta 3.209 famiglie interessate in 21 comuni. Caribbean Media Corporation specifica 2.130 abitazioni allagate, 847 distrutte e altre 219 danneggiate in zone di Nippes, Grand'Anse, Sud e Ovest. I numeri descrivono categorie differenti: le famiglie non equivalgono alle abitazioni e un edificio allagato non è necessariamente classificato come distrutto. I soccorritori distinguono inoltre i danni parziali da quelli irreversibili nella classificazione delle abitazioni.",
+        "Anche la Repubblica Dominicana, che condivide Hispaniola con Haiti, ha registrato effetti significativi delle piogge. Secondo Associated Press le autorità dominicane segnalavano almeno trenta comunità rimaste isolate e oltre cento case allagate. Le cifre dei due paesi sono prodotte da organismi diversi e non possono essere trasformate in un unico dato nazionale o in un totale indistinto di vittime.",
+        "Le strade interrotte, le comunicazioni difficili e le coltivazioni danneggiate possono ostacolare i soccorsi e la ripresa economica, specialmente nelle aree rurali. I bilanci comunicati nelle prime giornate riflettono le informazioni pervenute dalle amministrazioni locali e possono cambiare con il ripristino dei collegamenti. Non ci sono elementi per attribuire ogni singola frana o decesso a un unico meccanismo meteorologico senza indagini sul posto."
+      ],
+      "facts": [
+        "Il 27 ottobre la Protezione civile haitiana riferiva quattro morti, due dispersi e 3.209 famiglie colpite.",
+        "La Repubblica Dominicana segnalava almeno trenta comunità temporaneamente isolate."
+      ],
+      "perspectives": [
+        "La Protezione civile di Haiti presenta il bilancio come provvisorio a causa delle difficoltà di accesso.",
+        "Gli organismi di soccorso dominicani evidenziano il rischio di isolamento e le necessità logistiche."
+      ],
+      "unknowns": [
+        "L'entità complessiva delle perdite agricole e del numero finale di persone colpite non è ancora accertata.",
+        "Non tutte le località isolate erano state raggiunte dai soccorritori al momento dei primi resoconti."
+      ],
+      "questions": [
+        {
+          "question": "Perché le 3.209 famiglie colpite dalle alluvioni ad Haiti non equivalgono a 3.209 case distrutte?",
+          "answer": "Le famiglie sono nuclei di persone che hanno subito conseguenze; il conteggio delle case riguarda invece edifici e gradi di danno. La Protezione civile distingue 2.130 case allagate, 847 distrutte e 219 danneggiate, quindi le categorie non sono intercambiabili."
+        },
+        {
+          "question": "Quale effetto ha l'isolamento di almeno 30 comunità dominicane sui soccorsi?",
+          "answer": "Le frane e l'acqua che interrompono le strade possono rallentare l'arrivo di forniture, ambulanze e squadre di valutazione. Questo rende più difficile sia assistere le persone sia ottenere un bilancio tempestivo dei danni."
+        }
+      ],
+      "impactReason": "Le alluvioni hanno provocato vittime, perdita di abitazioni e interruzioni dei collegamenti in comunità vulnerabili di due paesi caraibici.",
+      "tags": [
+        "Haiti",
+        "alluvioni",
+        "Hispaniola"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/hispaniola-floods-haiti-dominican-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Piogge e alluvioni sull'isola di Hispaniola: quattro morti segnalati ad Haiti; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/hispaniola-floods-haiti-dominican-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Flooding in Haiti and the Dominican Republic causes deaths and destroys homes, officials say",
+          "url": "https://apnews.com/article/012fa128cea57defc8d2ce7735ec1e9c",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caribbean Media Corporation",
+          "title": "Four killed as heavy rains batter Haiti",
+          "url": "https://www.cananews.com/four-killed-as-heavy-rains-batter-haiti/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "eu-frontex-reform-proposal-oct27",
+      "rank": 4,
+      "category": "politics",
+      "impact": 2.5,
+      "title": "La Commissione Ue propone di rafforzare Frontex fino a 30mila agenti",
+      "dek": "Il piano del 27 ottobre amplia il ruolo nei rimpatri e introduce una riserva di 17mila unità; Parlamento e Consiglio devono ancora negoziarlo.",
+      "summary": "Il 27 ottobre 2026 la Commissione europea ha proposto nuove norme per Frontex, con un corpo permanente fino a 30mila agenti, una nuova riserva europea e maggiore capacità di coordinare i rimpatri. Il progetto include risposta rapida alle crisi e digitalizzazione delle procedure. È una proposta legislativa, non una modifica già in vigore.",
+      "body": [
+        "La Commissione europea ha presentato il 27 ottobre 2026 un pacchetto di proposte che modifica i compiti dell'agenzia di frontiera Frontex. L'obiettivo dichiarato dall'esecutivo è migliorare il coordinamento tra gli Stati Schengen e la capacità operativa in situazioni di crisi. Reuters e ANSA hanno esaminato il disegno, mentre la comunicazione ufficiale della Commissione ne documenta le componenti; si tratta ancora di testo da negoziare.",
+        "Il piano punta a un corpo permanente che raggiunga gradualmente 30mila unità e prevede, al suo interno, una nuova riserva di 17mila agenti. Reuters specifica un orizzonte di attuazione fino al 2041 e segnala un progetto di bilancio di 11,8 miliardi di euro per il periodo 2028–2034. Questi numeri indicano obiettivi e stanziamenti proposti, non personale già assunto o spesa già effettuata.",
+        "La Commissione vorrebbe attribuire a Frontex funzioni più incisive nel coordinamento dei rimpatri, compreso il supporto a operazioni tra paesi terzi secondo gli accordi applicabili. Prevede inoltre una forza di reazione rapida, un centro per coordinare i rimpatri e uno per monitorare online i segnali di rischio. Un progetto parallelo intende digitalizzare le procedure di rimpatrio, riammissione e reintegrazione, incidendo sullo scambio di dati tra autorità.",
+        "Reuters riferisce anche critiche di difensori dei diritti alla possibile riduzione del controllo interno su alcune operazioni e alla responsabilità nei trasferimenti fuori dall'Unione. Le istituzioni europee dovranno valutare efficacia operativa, garanzie giuridiche, protezione dei dati e controllo democratico. L'eventuale entrata in vigore richiede l'accordo di Parlamento europeo e Consiglio: le dichiarazioni politiche del 27 ottobre non trasformano da sole la proposta in legge."
+      ],
+      "facts": [
+        "La Commissione ha presentato il 27 ottobre una proposta di riforma del mandato di Frontex.",
+        "Il piano prevede 30mila agenti nel corpo permanente, con una nuova riserva di 17mila persone."
+      ],
+      "perspectives": [
+        "La Commissione sostiene che una risposta coordinata migliorerebbe la gestione delle crisi alle frontiere.",
+        "Organizzazioni per i diritti e alcuni rappresentanti politici temono minori garanzie nelle operazioni fuori dal territorio dell'Ue."
+      ],
+      "unknowns": [
+        "Non sono definitivi il testo normativo, le risorse approvate e il calendario concreto delle assunzioni.",
+        "La ripartizione finale delle responsabilità di controllo e tutela dei diritti dipenderà dai negoziati."
+      ],
+      "questions": [
+        {
+          "question": "Che rapporto c'è tra i 30mila agenti Frontex e la nuova riserva di 17mila?",
+          "answer": "I 30mila rappresentano l'obiettivo complessivo per il corpo permanente proposto; la riserva europea di 17mila rientrerebbe nell'architettura rafforzata. Non si tratta di 47mila agenti già disponibili, ma di un piano di incremento graduale."
+        },
+        {
+          "question": "Perché l'ampliamento del ruolo di Frontex nei rimpatri richiede verifiche sulle tutele?",
+          "answer": "Operazioni coordinate fra Stati e anche fra paesi esterni all'Unione coinvolgono decisioni su asilo, rischio individuale e responsabilità per eventuali violazioni. La definizione dei poteri e dei meccanismi di controllo sarà decisiva per valutare le garanzie effettive."
+        }
+      ],
+      "impactReason": "La riforma ipotizzata interessa la gestione comune delle frontiere e dei rimpatri dell'Unione, con effetti potenziali su risorse, competenze e tutele.",
+      "tags": [
+        "Frontex",
+        "frontiere",
+        "rimpatri"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/eu-frontex-reform-proposal-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a La Commissione Ue propone di rafforzare Frontex fino a 30mila agenti; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/eu-frontex-reform-proposal-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "EU proposes major Frontex expansion, curbs internal rights oversight",
+          "url": "https://www.reuters.com/world/eu-commission-proposes-expanding-powers-border-police-force-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "L'Ue propone la riforma di Frontex, 'braccio operativo per i rimpatri'",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/27/lue-propone-la-riforma-di-frontex-braccio-operativo-per-i-rimpatri_3a0b862f-7205-4972-966b-434f07958bd9.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "European Commission",
+          "title": "Reinforcing Frontex for stronger protection of the EU's external borders",
+          "url": "https://commission.europa.eu/news-and-media/news/reinforcing-frontex-stronger-protection-eus-external-borders-2026-10-27_en",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "flavio-bolsonaro-united-states-passport-order",
+      "rank": 5,
+      "category": "politics",
+      "impact": 2.5,
+      "title": "Brasile, Flávio Bolsonaro lascia il Paese dopo l'ordine di consegnare i passaporti",
+      "dek": "Fonti Reuters e CNN Brasil riferiscono il viaggio verso gli Stati Uniti; la via d'uscita dal Brasile e lo status negli USA non sono documentati integralmente.",
+      "summary": "Il 27 ottobre fonti vicine a Flávio Bolsonaro hanno riferito che il senatore brasiliano ha lasciato il Paese dopo aver perso il ballottaggio presidenziale del 25. L'uscita è avvenuta mentre una decisione della Corte suprema gli imponeva di consegnare i passaporti nell'ambito di un'inchiesta, e il Dipartimento di Stato USA ha annunciato l'intenzione di concedere visti alla famiglia.",
+      "body": [
+        "Il 27 ottobre 2026 Reuters ha riferito, citando fonti vicine al politico e al governo statunitense, che il senatore Flávio Bolsonaro aveva lasciato il Brasile dopo la sconfitta nel ballottaggio di domenica 25 contro Luiz Inácio Lula da Silva. CNN Brasil ha raccolto racconti indipendenti di alleati che lo collocavano fuori dal Paese. Il suo percorso preciso, indicato in alcune ricostruzioni come passaggio dall'Argentina, non era confermato da documenti ufficiali.",
+        "Il giorno precedente il giudice Alexandre de Moraes, del Supremo tribunale federale, aveva disposto il ritiro dei passaporti di Bolsonaro e il divieto di uscire dal Paese, nell'ambito di indagini su sospetto riciclaggio di denaro. Il senatore nega ogni illecito. Folha de S.Paulo ha accertato che entro la scadenza delle 11 del 27 ottobre i documenti non erano stati consegnati alla polizia federale, che ne aveva disposto l'annullamento.",
+        "Una fonte di alto livello del Dipartimento di Stato americano ha detto a Reuters che gli Stati Uniti avrebbero rilasciato visti a Flávio Bolsonaro e ai familiari. Questa dichiarazione su un futuro visto non dimostra quale fosse lo status migratorio effettivo a ogni tappa del viaggio. Alcuni alleati sostengono che la famiglia sia arrivata in Florida, ma la cronologia esatta degli spostamenti resta incompleta.",
+        "Bolsonaro aveva annunciato il 26 ottobre che non sarebbe partito e che avrebbe guidato l'opposizione al nuovo mandato di Lula; la successiva notizia della sua uscita ha smentito quell'intenzione dichiarata. Lula ha criticato il gesto, mentre il presidente statunitense Donald Trump ha espresso sostegno al senatore. È un aggiornamento distinto dall'esito elettorale del 25 ottobre, e non consente di dedurre un arresto già disposto o una colpevolezza nell'inchiesta."
+      ],
+      "facts": [
+        "Il 27 ottobre alleati hanno riferito la partenza di Bolsonaro verso gli Stati Uniti dopo il ballottaggio del 25.",
+        "Folha ha registrato la mancata consegna dei passaporti entro le 11 del 27 ottobre; il Dipartimento di Stato USA ha dichiarato che avrebbe rilasciato visti."
+      ],
+      "perspectives": [
+        "Il senatore respinge i sospetti investigativi e aveva negato di voler lasciare il Brasile.",
+        "Lula ha criticato la partenza, mentre Donald Trump ha manifestato sostegno a Bolsonaro."
+      ],
+      "unknowns": [
+        "Il percorso esatto del viaggio e lo status amministrativo negli Stati Uniti non erano interamente documentati.",
+        "Le indagini per riciclaggio non sono giunte a una decisione definitiva sulla responsabilità del senatore."
+      ],
+      "questions": [
+        {
+          "question": "Quale provvedimento di Alexandre de Moraes precedeva la partenza di Flávio Bolsonaro?",
+          "answer": "Il magistrato aveva ordinato la consegna dei passaporti e vietato l'uscita dal Brasile nell'ambito di un'indagine per sospetto riciclaggio. Folha ha riferito che i documenti non sono stati consegnati entro le 11 del 27 ottobre."
+        },
+        {
+          "question": "Perché l'annuncio statunitense di concedere visti non chiarisce tutta la vicenda giudiziaria brasiliana?",
+          "answer": "Un visto riguarda la possibilità di entrare negli Stati Uniti secondo le regole americane, non cancella un obbligo di consegna dei documenti disposto dalla giustizia brasiliana. Neppure permette di dedurre un esito dell'inchiesta penale."
+        }
+      ],
+      "impactReason": "La partenza di un candidato presidenziale sconfitto durante un'inchiesta può avere conseguenze giudiziarie e diplomatiche tra Brasile e Stati Uniti.",
+      "tags": [
+        "Brasile",
+        "Bolsonaro",
+        "giustizia"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/flavio-bolsonaro-united-states-passport-order.svg",
+        "alt": "Illustrazione simbolica originale relativa a Brasile, Flávio Bolsonaro lascia il Paese dopo l'ordine di consegnare i passaporti; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/flavio-bolsonaro-united-states-passport-order.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
+          "url": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CNN Brasil",
+          "title": "Aliados dizem que Flávio Bolsonaro está fora do Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/aliados-dizem-que-flavio-bolsonaro-esta-fora-do-brasil/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Flávio Bolsonaro descumpre determinação de Moraes e não entrega passaporte à PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-descumpre-determinacao-de-moraes-e-nao-entrega-passaporte-a-pf.shtml",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "us-trump-methane-regulation-reversal-oct27",
+      "rank": 6,
+      "category": "climate",
+      "impact": 3,
+      "title": "USA, Trump annuncia il ritiro delle regole sul metano degli impianti petroliferi",
+      "dek": "Il presidente promette risparmi da 45 miliardi di dollari; sono stime dell'amministrazione, non effetti già misurati o una norma automaticamente abrogata.",
+      "summary": "In un comizio in Texas il 27 ottobre Donald Trump ha annunciato la volontà di cancellare limiti alle perdite di metano dalle operazioni petrolifere e del gas introdotti nell'era Biden. L'amministrazione cita risparmi e maggiore produzione; gruppi ambientalisti avvertono di più emissioni. L'annuncio politico va distinto dal procedimento formale necessario a modificare le norme.",
+      "body": [
+        "Durante un comizio il 27 ottobre 2026 a Lubbock, in Texas, il presidente statunitense Donald Trump ha annunciato l'intenzione della sua amministrazione di eliminare restrizioni dell'era Biden alle emissioni di metano da impianti di petrolio e gas. Associated Press e The Guardian hanno riportato l'annuncio e le reazioni contrapposte. Il linguaggio usato al comizio non dimostra da solo che tutte le disposizioni interessate siano state formalmente abrogate in quel momento.",
+        "Le regole EPA del 2024 imponevano a molte attività petrolifere e del gas misure per individuare e riparare fughe, comprese alcune fonti più piccole. La proposta di revisione citata dall'amministrazione riguarda anche il programma Super Emitter, progettato per segnalare perdite rilevanti. Il metano può avere una forte influenza sul riscaldamento nel breve periodo e la sua fuoriuscita rappresenta anche gas naturale non commercializzato.",
+        "Trump ha stimato risparmi complessivi per 45 miliardi di dollari e la disponibilità di ulteriori 210 milioni di barili di petrolio grazie a regole meno restrittive. Sono valutazioni dell'esecutivo legate a scenari economici, non somme già risparmiate né barili già estratti. L'amministratore EPA Lee Zeldin sostiene che gli obblighi attuali impongano costi eccessivi al settore.",
+        "Le associazioni ambientaliste hanno contestato il piano perché minori controlli potrebbero aumentare le dispersioni di metano e il danno climatico. Le stime dell'amministrazione precedente sui benefici della riduzione delle perdite seguivano ipotesi differenti. Per accertare il futuro effetto occorre vedere quali testi regolamentari siano finalizzati, quando entrino in vigore e come cambino i dati effettivi di emissione."
+      ],
+      "facts": [
+        "Il 27 ottobre Trump ha annunciato a Lubbock un piano per revocare limiti EPA alle emissioni di metano.",
+        "L'amministrazione ha citato un risparmio atteso di 45 miliardi e 210 milioni di barili, come stime non osservazioni."
+      ],
+      "perspectives": [
+        "L'EPA di Trump considera le regole esistenti un costo per i produttori.",
+        "Organizzazioni ambientaliste ritengono che la loro eliminazione favorirebbe fughe di metano e danni climatici."
+      ],
+      "unknowns": [
+        "La versione finale delle modifiche regolamentari e le relative scadenze non sono definite dall'annuncio.",
+        "Risparmi, nuova produzione e variazione reale delle emissioni non sono ancora misurati."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa facevano le regole sul metano del 2024 che Trump vuole cambiare?",
+          "answer": "Imponendo monitoraggio e interventi sulle perdite nelle installazioni di petrolio e gas, puntavano a limitare il metano disperso anche da alcune fonti minori. Il programma Super Emitter aiutava a individuare fughe particolarmente grandi."
+        },
+        {
+          "question": "Perché i 45 miliardi di dollari e i 210 milioni di barili citati da Trump non sono risultati del 27 ottobre?",
+          "answer": "Sono proiezioni dell'amministrazione su possibili effetti di un allentamento futuro, non quantità già risparmiate o prodotte. Dipenderanno da regolamenti effettivi, scelte delle imprese, prezzi e condizioni operative."
+        }
+      ],
+      "impactReason": "Le norme riguardano un gas serra potente su orizzonti brevi e l'industria petrolifera statunitense; modifiche effettive avrebbero conseguenze climatiche ed economiche rilevanti.",
+      "tags": [
+        "Stati-Uniti",
+        "metano",
+        "regolazione"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/us-trump-methane-regulation-reversal-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a USA, Trump annuncia il ritiro delle regole sul metano degli impianti petroliferi; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/us-trump-methane-regulation-reversal-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+          "url": "https://apnews.com/article/257f28c07cda5146a40dbf7a2c8ba790",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Trump says government to 'terminate' Biden-era methane emissions rules",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "nordic-leaders-putin-call-oct27",
+      "rank": 7,
+      "category": "politics",
+      "impact": 2,
+      "title": "Stubb e Støre parlano con Putin: colloquio sull'Ucraina in vista di Abu Dhabi",
+      "dek": "Il 27 ottobre Finlandia e Norvegia hanno avviato una telefonata concordata con Kyiv; i due leader non rappresentavano tutta l'Europa.",
+      "summary": "Il presidente finlandese Alexander Stubb e il premier norvegese Jonas Gahr Støre hanno parlato al telefono con Vladimir Putin da Helsinki il 27 ottobre. Il contatto, consultato con l'Ucraina, ha riguardato la guerra e le trattative previste ad Abu Dhabi. Non è stato annunciato alcun cessate il fuoco né un mandato negoziale a nome dell'Unione europea.",
+      "body": [
+        "Il 27 ottobre 2026 il presidente della Finlandia Alexander Stubb e il primo ministro norvegese Jonas Gahr Støre hanno chiamato da Helsinki il presidente russo Vladimir Putin. L'ufficio del premier norvegese ha confermato che l'iniziativa era stata presa dai due leader dopo consultazioni con l'Ucraina. Reuters ed Euronews hanno seguito l'episodio come un contatto insolito tra Mosca e governi nordici sostenitori di Kyiv.",
+        "Secondo il comunicato ufficiale, la telefonata seguiva un incontro tenuto a Oslo il 20 ottobre ed era collegata alle possibili prossime discussioni tra rappresentanti di Russia, Ucraina e Stati Uniti ad Abu Dhabi. Stubb e Støre hanno richiamato la necessità di porre fine alla guerra e di riprendere trattative. Non hanno comunicato concessioni territoriali, un testo di accordo o una nuova tregua operativa.",
+        "La dichiarazione congiunta precisa che Finlandia e Norvegia intervenivano come Stati sovrani vicini alla Russia, non come portavoce di tutta l'Europa. Reuters ha riferito che il colloquio è durato circa novanta minuti e che successivamente i leader hanno parlato con il presidente ucraino Volodymyr Zelensky. Le conversazioni consultive non equivalgono all'adesione formale di Kyiv a eventuali future proposte.",
+        "Per i due paesi confinanti con la Russia, sicurezza del Baltico e dell'estremo Nord sono motivi di interesse diretto alla de-escalation. Euronews segnala un dibattito crescente in Europa sui contatti diplomatici con il Cremlino. Questa telefonata conferma l'apertura di un canale comunicativo ma non misura da sola la disponibilità di Putin ad accettare condizioni di pace né garantisce una data per i negoziati."
+      ],
+      "facts": [
+        "Stubb e Støre hanno chiamato Putin il 27 ottobre da Helsinki in consultazione con l'Ucraina.",
+        "Il comunicato dei due governi precisa che i leader agivano per Finlandia e Norvegia, non a nome dell'Europa."
+      ],
+      "perspectives": [
+        "Stubb e Støre difendono il contatto diretto come possibile contributo alla fine della guerra.",
+        "La stampa europea sottolinea che il contatto non equivale a una svolta negoziale verificata."
+      ],
+      "unknowns": [
+        "Non è stato divulgato il contenuto integrale della conversazione.",
+        "Le eventuali proposte da presentare ad Abu Dhabi e il loro esito restano da definire."
+      ],
+      "questions": [
+        {
+          "question": "In quale veste Stubb e Støre hanno parlato con Putin il 27 ottobre?",
+          "answer": "Agivano come presidente della Finlandia e premier della Norvegia, due vicini della Russia, dopo aver consultato l'Ucraina. Il loro comunicato esclude esplicitamente che parlassero a nome di tutta l'Europa."
+        },
+        {
+          "question": "Che legame aveva la telefonata con gli incontri annunciati ad Abu Dhabi?",
+          "answer": "I leader volevano trasmettere al Cremlino messaggi sulla ripresa delle trattative in vista dei contatti previsti tra Russia, Ucraina e Stati Uniti. Il collegamento diplomatico non indica che un accordo o un cessate il fuoco sia stato già raggiunto."
+        }
+      ],
+      "impactReason": "Il contatto diretto tra leader confinanti con la Russia e il Cremlino ha valore diplomatico, ma l'effetto sui negoziati resta da dimostrare.",
+      "tags": [
+        "Ucraina",
+        "diplomazia",
+        "Nord-Europa"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/nordic-leaders-putin-call-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Stubb e Støre parlano con Putin: colloquio sull'Ucraina in vista di Abu Dhabi; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/nordic-leaders-putin-call-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
+          "url": "https://www.reuters.com/world/europe/norways-prime-minister-finlands-president-phone-call-with-putin-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Finnish and Norwegian leaders call Putin, urge restart of peace talks",
+          "url": "https://www.euronews.com/2026/10/27/finnish-and-norwegian-leaders-call-putin-urge-restart-of-peace-talks",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Norwegian Prime Minister's Office",
+          "title": "President Stubb and Prime Minister Støre held a call with President Putin",
+          "url": "https://www.regjeringen.no/en/whats-new/president-stubb-and-prime-minster-store-held-a-call-with-president-putin/id3183597/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "sudan-famine-risk-joint-appeal-oct27",
+      "rank": 8,
+      "category": "society",
+      "impact": 3.5,
+      "title": "Sudan, oltre 30 paesi chiedono accesso agli aiuti per scongiurare la carestia",
+      "dek": "L'appello, diffuso originariamente il 23 ottobre e ripreso il 27, cita 19,5 milioni di persone in grave insicurezza alimentare: il rischio futuro non è una carestia nazionale già dichiarata.",
+      "summary": "Oltre trenta governi e un rappresentante della Commissione europea hanno lanciato un appello per evitare un peggioramento della crisi alimentare in Sudan. La dichiarazione, pubblicata il 23 ottobre e ripresa da Reuters e Al Jazeera il 27, segnala 19,5 milioni di persone con grave insicurezza alimentare, tra cui cinque milioni in situazione di emergenza, e chiede accesso umanitario senza ostacoli.",
+      "body": [
+        "Un gruppo di oltre trenta governi, insieme alla Commissione europea, ha diffuso un appello sul rischio di carestia in Sudan pubblicato dalle autorità diplomatiche il 23 ottobre 2026. Reuters e AFP ne hanno riferito il 27 ottobre, richiamando il deterioramento delle condizioni umanitarie. La data del comunicato è distinta da quella dei resoconti giornalistici: non si tratta di una nuova misurazione statistica effettuata il 27.",
+        "Il testo indica circa 19,5 milioni di persone, il 41% della popolazione stimata, in condizioni di alta insicurezza alimentare acuta, comprese cinque milioni a livelli di emergenza. Riporta inoltre una proiezione secondo cui il numero di bambini con malnutrizione acuta grave potrebbe superare 825mila in assenza di interventi. Sono stime di valutazioni umanitarie e scenari futuri, non un conteggio di decessi avvenuti.",
+        "La guerra ha danneggiato reti di distribuzione, produzione agricola, servizi sanitari e capacità di trasportare beni di prima necessità. Il documento denuncia ostacoli ai convogli e chiede alle parti di consentire percorsi terrestri e transfrontalieri, inclusi collegamenti aerei verso il Darfur. La presenza di cibo in un deposito o di fondi promessi non garantisce che gli aiuti possano raggiungere famiglie isolate.",
+        "I firmatari invitano inoltre a proteggere operatori umanitari e infrastrutture civili e a finanziare rapidamente la risposta. Il sistema IPC ha segnalato rischio di carestia nei mesi successivi, non una diagnosi uniforme per ogni distretto del Sudan. Senza dati locali aggiornati e accessi stabili non è possibile attribuire un'identica classificazione a tutto il territorio né prevedere un numero preciso di vittime."
+      ],
+      "facts": [
+        "La dichiarazione internazionale è pubblicata il 23 ottobre e ha ricevuto nuova copertura il 27.",
+        "Il testo cita 19,5 milioni in grave insicurezza alimentare, compresi cinque milioni in situazione di emergenza."
+      ],
+      "perspectives": [
+        "I governi firmatari chiedono alle parti in guerra di rimuovere gli ostacoli e proteggere i soccorritori.",
+        "Le organizzazioni umanitarie evidenziano che accesso e finanziamenti sono condizioni necessarie per prevenire un ulteriore peggioramento."
+      ],
+      "unknowns": [
+        "Gli sviluppi nei singoli distretti dipendono da accesso, raccolti, nuovi combattimenti e aiuti effettivi.",
+        "Il numero definitivo di bambini che soffriranno malnutrizione acuta grave non è un dato già osservato."
+      ],
+      "questions": [
+        {
+          "question": "Che differenza c'è tra i 19,5 milioni di persone in insicurezza alimentare e i cinque milioni in emergenza?",
+          "answer": "I 19,5 milioni sono il totale stimato con livelli elevati di insicurezza alimentare acuta, mentre i cinque milioni rappresentano un sottoinsieme classificato a livello di emergenza. Non sono gruppi da sommare fra loro."
+        },
+        {
+          "question": "Perché l'appello sul Sudan cita specificamente l'accesso aereo verso il Darfur?",
+          "answer": "Il conflitto e le restrizioni ai collegamenti rendono difficile il trasporto di aiuti e l'evacuazione sanitaria in alcune aree. Aprire percorsi anche aerei potrebbe consentire consegne e assistenza dove le rotte terrestri sono bloccate o pericolose."
+        }
+      ],
+      "impactReason": "La crisi riguarda milioni di civili in una guerra prolungata e la possibilità di fame estrema su vasta scala; i problemi di accesso ai soccorsi rendono urgente la risposta.",
+      "tags": [
+        "Sudan",
+        "aiuti",
+        "insicurezza-alimentare"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/sudan-famine-risk-joint-appeal-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Sudan, oltre 30 paesi chiedono accesso agli aiuti per scongiurare la carestia; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/sudan-famine-risk-joint-appeal-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "US, dozens of countries warn of Sudan famine risk, urge aid",
+          "url": "https://www.reuters.com/world/asia-pacific/us-dozens-countries-warn-sudan-famine-risk-urge-aid-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Agence France-Presse",
+          "title": "US, UK among 31 countries warning of 'alarming' Sudan famine",
+          "url": "https://citizen.digital/article/us-uk-among-31-countries-warning-of-alarming-sudan-famine-n392795",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Italian Ministry of Foreign Affairs",
+          "title": "Joint Statement on the Risk of Famine in Sudan",
+          "url": "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/dichiarazione-congiunta-sul-rischio-di-carestia-in-sudan-2/",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "eu-climate-resilience-law-proposal-oct27",
+      "rank": 9,
+      "category": "climate",
+      "impact": 2.5,
+      "title": "L'Ue propone norme per preparare città e infrastrutture a rischi climatici maggiori",
+      "dek": "Il 27 ottobre la Commissione ha presentato un quadro di resilienza: gli scenari di forte riscaldamento sono ipotesi di pianificazione, non una temperatura futura certa.",
+      "summary": "La Commissione europea ha proposto il 27 ottobre una legge quadro sulla resilienza climatica che chiede agli Stati di identificare chi gestisce i rischi e di aggiornare la valutazione di infrastrutture e servizi. Il progetto considera scenari di riscaldamento elevato e non prevede un nuovo fondo diretto per le famiglie. Deve ancora essere discusso dalle istituzioni europee.",
+      "body": [
+        "La Commissione europea ha presentato martedì 27 ottobre 2026 una proposta di legge sulla resilienza climatica per affrontare gli effetti di ondate di calore, alluvioni, incendi e siccità. Euronews ha intervistato il commissario Wopke Hoekstra e POLITICO Europe ha esaminato le componenti legislative; il comunicato ufficiale descrive il nuovo sistema di valutazione. Si tratta di un'iniziativa della Commissione, non di norme già approvate.",
+        "Il piano prevede che gli Stati identifichino quali autorità nazionali, regionali o locali siano responsabili dei diversi rischi, in modo da limitare incertezze operative durante i disastri. Secondo POLITICO, le valutazioni nazionali dovrebbero essere ripetute ogni cinque anni dal 2029 e i piani di adattamento preparati entro il 2030. Le scadenze sono quelle del progetto e possono variare nel negoziato legislativo.",
+        "Hoekstra ha richiamato scenari che considerano una Europa più calda e condizioni estreme molto più frequenti. Il riferimento a tre gradi di riscaldamento verso fine secolo va interpretato come scenario di rischio per progettare strade, ponti e quartieri, non come misura dell'attuale aumento né previsione deterministica del futuro. Continuare a ridurre le emissioni e preparare infrastrutture ai danni sono obiettivi complementari.",
+        "Euronews segnala l'assenza di nuovi fondi specifici per aiutare direttamente le famiglie a sostenere l'adattamento, mentre le risorse future dipendono dal bilancio pluriennale europeo. Alcuni parlamentari temono più burocrazia senza opere concrete, altri considerano le proposte troppo deboli perché non fissano obiettivi vincolanti per i settori maggiormente esposti. Queste valutazioni politiche non definiscono ancora il testo finale."
+      ],
+      "facts": [
+        "La Commissione ha presentato il quadro legislativo sulla resilienza il 27 ottobre 2026.",
+        "Il progetto prevede responsabilità pubbliche esplicite nella gestione dei rischi e valutazioni regolari."
+      ],
+      "perspectives": [
+        "La Commissione ritiene necessario pianificare infrastrutture per condizioni climatiche diverse dal passato.",
+        "Esponenti parlamentari e analisti criticano in direzioni diverse i costi amministrativi e la mancanza di vincoli o fondi."
+      ],
+      "unknowns": [
+        "Il contenuto finale sarà negoziato da Parlamento e Consiglio.",
+        "Il finanziamento dell'adattamento per famiglie e territori resta in parte da definire."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa cambierebbe per gli Stati con le valutazioni dei rischi climatici proposte dall'Ue?",
+          "answer": "Dovrebbero aggiornare periodicamente scenari e vulnerabilità e indicare quali uffici sono responsabili di prevenzione e risposta. Il progetto mira a evitare che, durante un'alluvione o un'ondata di calore, non sia chiaro chi debba intervenire."
+        },
+        {
+          "question": "Perché il riferimento europeo a tre gradi di riscaldamento non è una previsione inevitabile?",
+          "answer": "È uno scenario usato per valutare la robustezza di edifici e infrastrutture in condizioni gravi. Il riscaldamento futuro dipende dalle emissioni e da molti altri fattori; pianificare per un rischio non significa affermare che si realizzerà certamente."
+        }
+      ],
+      "impactReason": "Le nuove regole potrebbero modificare pianificazione di infrastrutture e gestione dei disastri in molti paesi, ma finanziamento e approvazione sono ancora incerti.",
+      "tags": [
+        "Unione-Europea",
+        "adattamento",
+        "clima"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/eu-climate-resilience-law-proposal-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a L'Ue propone norme per preparare città e infrastrutture a rischi climatici maggiori; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/eu-climate-resilience-law-proposal-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "title": "Europe must prepare for a 3°C warmer world, EU climate chief warns",
+          "url": "https://www.euronews.com/2026/10/27/europe-must-prepare-for-a-3c-warmer-world-eu-climate-chief-warns",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "POLITICO Europe",
+          "title": "EU prepares for a grim future with new climate-proofing law",
+          "url": "https://www.politico.eu/article/eu-prepare-future-new-climate-proofing-law/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "European Commission",
+          "title": "Protecting Europe with stronger climate-resilience",
+          "url": "https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "ethiopia-oromia-church-reports-60-killed",
+      "rank": 10,
+      "category": "society",
+      "impact": 3,
+      "title": "Etiopia, la Chiesa ortodossa denuncia almeno 60 morti in due attacchi nell'Oromia",
+      "dek": "Il 27 ottobre le testate riportano un bilancio relativo ad attacchi del 20 e 24 ottobre; governi e gruppi armati si accusano senza prove conclusive pubbliche.",
+      "summary": "La Chiesa ortodossa etiope ha denunciato il 26 ottobre che due attacchi del 20 e 24 nell'Oromia avevano ucciso almeno sessanta fedeli. Associated Press e Reuters hanno riportato il 27 il bilancio di quattordici vittime a Merti e quarantasei a Shirka, oltre a feriti e case bruciate. Le attribuzioni di responsabilità avanzate dalle parti in conflitto restano contestate.",
+      "body": [
+        "Il Santo Sinodo della Chiesa ortodossa etiope Tewahedo ha denunciato, in un comunicato del 26 ottobre 2026, due attacchi che avrebbero ucciso almeno sessanta cristiani ortodossi nella zona di Arsi della regione Oromia. Associated Press e Reuters ne hanno dato notizia il giorno successivo. Secondo il dettaglio comunicato dalla Chiesa, quattordici fedeli sono stati uccisi a Merti il 20 ottobre e quarantasei a Shirka il 24.",
+        "L'organizzazione religiosa segnala oltre venti feriti gravi e almeno venti abitazioni incendiate. Associated Press ha intervistato residenti e un sacerdote, che hanno descritto l'arrivo dei feriti negli ospedali e le difficoltà della popolazione. I numeri provengono principalmente dalla Chiesa e dalle testimonianze locali: non rappresentano un conteggio forense indipendente completato in tutti i villaggi coinvolti.",
+        "Il portavoce del governo regionale Hailu Adugna ha attribuito gli attacchi all'Esercito di Liberazione Oromo e ai suoi alleati, sostenendo che intendessero provocare tensioni religiose ed etniche. Associated Press precisa che l'accusa non era accompagnata da prove pubbliche. Reuters riferisce anche una controaccusa formulata da una fonte vicina a un'alleanza ribelle, che attribuisce al governo la responsabilità: anche questa versione è non verificata.",
+        "L'Oromia è teatro da anni di scontri tra forze governative, ribelli e altri gruppi armati, con gravi limitazioni per i giornalisti e interruzioni delle comunicazioni. Il conflitto rende difficili verifiche sul luogo degli episodi. La denuncia del 27 ottobre riguarda dunque fatti attribuiti al 20 e 24 e richiede indagini sulle responsabilità, senza dedurre che l'identità religiosa delle vittime basti a stabilire il movente degli aggressori."
+      ],
+      "facts": [
+        "Il comunicato della Chiesa elenca 14 vittime il 20 ottobre a Merti e 46 il 24 a Shirka.",
+        "AP e Reuters hanno ripreso il 27 ottobre la denuncia e riferito di feriti e abitazioni incendiate."
+      ],
+      "perspectives": [
+        "La Chiesa ortodossa chiede protezione per i civili e accertamento degli autori.",
+        "Governo regionale e fonti ribelli presentano accuse di responsabilità contrapposte senza prove pubbliche conclusive."
+      ],
+      "unknowns": [
+        "L'identità degli aggressori e il movente preciso non sono stati accertati pubblicamente.",
+        "Il bilancio definitivo e i danni complessivi richiedono accesso e indagini indipendenti."
+      ],
+      "questions": [
+        {
+          "question": "In quali giorni e distretti sarebbero avvenuti gli attacchi denunciati dalla Chiesa etiope?",
+          "answer": "Secondo il Santo Sinodo, quattordici persone sono state uccise a Merti il 20 ottobre e quarantasei a Shirka il 24 ottobre, entrambi nell'area di Arsi nell'Oromia. Il 27 ottobre è la data dei principali resoconti, non dei due attacchi."
+        },
+        {
+          "question": "Perché le accuse del governo dell'Oromia contro l'OLA non permettono ancora di attribuire le uccisioni?",
+          "answer": "Il governo regionale ha indicato l'OLA, ma non ha diffuso prove pubbliche sufficienti; una fonte vicina ai ribelli ha formulato una versione opposta. Le responsabilità richiedono verifiche autonome sul campo, non soltanto dichiarazioni delle parti."
+        }
+      ],
+      "impactReason": "Le violenze hanno provocato numerose vittime civili e sottolineano la gravità del conflitto regionale, anche se gli autori non sono stati identificati in modo indipendente.",
+      "tags": [
+        "Etiopia",
+        "Oromia",
+        "civili"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/ethiopia-oromia-church-reports-60-killed.svg",
+        "alt": "Illustrazione simbolica originale relativa a Etiopia, la Chiesa ortodossa denuncia almeno 60 morti in due attacchi nell'Oromia; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/ethiopia-oromia-church-reports-60-killed.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
+          "url": "https://apnews.com/article/2619e078e655a87f0f29cd1e8dd9db5d",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says",
+          "url": "https://www.reuters.com/world/africa/attackers-kill-60-people-ethiopias-conflict-hit-oromiya-region-orthodox-church-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    }
+  ]
+}
