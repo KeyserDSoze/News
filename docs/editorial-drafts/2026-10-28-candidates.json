@@ -3,8 +3,8 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "Twelve bilingual substantial working drafts; full publication gates not met.",
-    "Six original assets, thirteen full articles and nineteen illustrations remaining, plus final eight JSONs.",
+    "Sixteen substantial bilingual working drafts, not final edition.",
+    "6 original illustrations; 9 further articles and 19 illustrations required; eight final JSONs absent.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -1375,6 +1375,438 @@
           {
             "question": "How can many BES measures improve while more than 5.4 million Italians remain in absolute poverty?",
             "answer": "The indicators cover different subjects and population groups: advances in health, employment or average income do not automatically remove severe material deprivation. National averages also conceal large geographic and social disparities that the report measures separately."
+          }
+        ]
+      }
+    },
+    {
+      "section": "technology",
+      "rank": 2,
+      "id": "oracle-ai-chips-google-nvidia-cerebras-oct27",
+      "category": "technology",
+      "impact": 3,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
+          "url": "https://www.reuters.com/business/oracle-expands-chip-supply-deal-with-nvidia-adds-google-cerebras-offerings-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Yahoo Finance",
+          "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras and SambaNova",
+          "url": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Oracle",
+          "title": "Building the Next Decade of Oracle Cloud Infrastructure",
+          "url": "https://www.oracle.com/news/announcement/blog/ai-world-building-the-next-decade-of-oracle-cloud-infrastructure-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Oracle amplia il cloud AI a chip Nvidia, TPU Google e sistemi Cerebras",
+        "dek": "Il progetto presentato il 27 ottobre include capacità multi-gigawatt, ma il valore dei nuovi accordi non è dichiarato.",
+        "summary": "Oracle ha annunciato il 27 ottobre accordi per ampliare l'uso dei server Nvidia Vera Rubin e introdurre chip TPU Google, Cerebras e SambaNova nella piattaforma Oracle Cloud Infrastructure. I fornitori coprono funzioni differenti nell'intelligenza artificiale; una parte delle installazioni è prevista per il 2027, senza un valore contrattuale globale reso pubblico.",
+        "impactReason": "Diversificare l'offerta di acceleratori di un grande cloud può incidere sulla concorrenza e sui costi dei servizi AI, ma i nuovi sistemi non sono tutti operativi.",
+        "tags": [
+          "Oracle",
+          "cloud",
+          "acceleratori"
+        ],
+        "body": [
+          "Durante Oracle AI World del 27 ottobre 2026 l'azienda ha annunciato l'estensione dei propri accordi infrastrutturali con Nvidia, prevedendo sistemi Vera Rubin su scala multi-gigawatt. Reuters e Yahoo Finance hanno riportato in modo indipendente il progetto e l'arrivo di chip concorrenti. La scala in gigawatt indica la potenza di infrastruttura prevista, non una quantità di processori già consegnati.",
+          "Oracle ha presentato l'arrivo dei Tensor Processing Unit di Google nel proprio cloud, con disponibilità indicativa dal 2027. I TPU sono acceleratori progettati per carichi di intelligenza artificiale, alternativi a diverse offerte di GPU Nvidia ma non automaticamente superiori in ogni attività. Oracle prevede inoltre reti Acceleron sviluppate internamente per una parte dei sistemi, differenziando le componenti dell'infrastruttura.",
+          "Il gruppo intende integrare anche acceleratori Cerebras e SambaNova per l'inferenza, ossia l'esecuzione di modelli già addestrati per produrre risposte e risultati. Le necessità di latenza, costo e memoria di questa fase differiscono spesso da quelle del lungo addestramento iniziale. I vantaggi dichiarati dai fornitori non sono confronti indipendenti effettuati sugli stessi modelli e con le stesse condizioni.",
+          "Reuters precisa che non è stato comunicato il valore dei contratti né un piano finanziario specifico per ciascuna fornitura. Oracle ha ribadito un obiettivo di investimento complessivo di circa 90–95 miliardi di dollari nell'esercizio fiscale 2027, una somma che non deve essere trasformata nel prezzo dell'intesa Nvidia. Tempi reali di messa in servizio e rendimenti andranno verificati successivamente."
+        ],
+        "facts": [
+          "L'annuncio Oracle del 27 ottobre comprende capacità Nvidia Vera Rubin multi-gigawatt e TPU Google dal 2027.",
+          "Oracle prevede chip Cerebras e SambaNova per l'inferenza; l'importo dell'espansione Nvidia non è stato dichiarato."
+        ],
+        "perspectives": [
+          "Oracle afferma che una scelta più ampia di acceleratori serve carichi di lavoro differenti.",
+          "Reuters richiama l'attenzione sugli investimenti e sul finanziamento delle espansioni."
+        ],
+        "unknowns": [
+          "Numero effettivo dei chip, costi contrattuali e tempi finali di installazione non sono definiti.",
+          "Non vi sono test indipendenti comparabili dei nuovi sistemi in OCI."
+        ],
+        "questions": [
+          {
+            "question": "Perché Oracle propone sia i TPU Google sia le GPU Nvidia su OCI?",
+            "answer": "TPU e GPU utilizzano architetture e strumenti diversi, che possono avere costi e prestazioni differenti in addestramento e inferenza. Offrirli entrambi lascia ai clienti la scelta della piattaforma adatta senza presupporre un unico vincitore."
+          },
+          {
+            "question": "Quale grandezza indica la scala multi-gigawatt dei sistemi Nvidia Vera Rubin?",
+            "answer": "Descrive la dimensione pianificata della capacità infrastrutturale ed elettrica, non il numero esatto di server acquistati né il valore finanziario dei contratti. Oracle e Nvidia non hanno comunicato l'importo dell'espansione."
+          }
+        ]
+      },
+      "en": {
+        "title": "Oracle widens AI chip lineup with Nvidia, Google TPUs and Cerebras",
+        "dek": "The 27 October plan includes multi-gigawatt expansion, but the value of the new contracts was not disclosed.",
+        "summary": "On 27 October Oracle announced plans to expand Nvidia Vera Rubin installations and add Google TPUs, Cerebras and SambaNova accelerators to Oracle Cloud Infrastructure. The suppliers address different computing needs. Some of the deployments are targeted for 2027, and no overall contract value was announced.",
+        "impactReason": "Diversification among cloud accelerator suppliers could reshape competition and costs for AI services, but many of the planned systems are not yet running.",
+        "tags": [
+          "Oracle",
+          "cloud",
+          "accelerators"
+        ],
+        "body": [
+          "At Oracle AI World on 27 October 2026, the company announced an expansion of its infrastructure relationship with Nvidia, targeting multi-gigawatt capacity for Vera Rubin systems. Reuters and Yahoo Finance independently reported the project alongside the addition of alternative chip suppliers. A figure expressed in gigawatts describes intended infrastructure power rather than a confirmed number of processors already delivered.",
+          "Oracle plans to offer Google's Tensor Processing Units in its cloud starting in 2027. TPUs are accelerators designed for artificial intelligence workloads that offer an alternative to certain Nvidia GPU deployments but are not automatically faster for every task. Oracle also plans to use its own Acceleron networking components in some systems, reducing dependence on a single infrastructure provider.",
+          "The cloud firm also intends to integrate Cerebras and SambaNova chips for inference, the process of running a trained model to produce answers or perform requested operations. Inference workloads often prioritize response latency and operating costs differently from initial model training. Supplier claims about speed or efficiency cannot substitute for independent benchmarking on identical workloads.",
+          "Reuters noted that Oracle disclosed neither the value of the new agreements nor a specific financing plan for every purchase. Oracle reiterated a fiscal 2027 overall capital-spending target of roughly $90 billion to $95 billion; this is not the price of its Nvidia deal. Actual deployment schedules, service availability and financial returns will require later confirmation."
+        ],
+        "facts": [
+          "Oracle announced multi-gigawatt Nvidia Vera Rubin plans and Google TPUs expected in 2027.",
+          "It also proposed Cerebras and SambaNova inference systems without disclosing an overall Nvidia deal value."
+        ],
+        "perspectives": [
+          "Oracle argues that multiple chip types allow customers to choose appropriate computing infrastructure.",
+          "Reuters highlights capital spending and unanswered financing questions."
+        ],
+        "unknowns": [
+          "Final chip counts, contractual costs and precise deployment schedules have not been announced.",
+          "Comparable independent performance tests of the new OCI configurations are not available."
+        ],
+        "questions": [
+          {
+            "question": "Why does Oracle plan to offer both Google TPUs and Nvidia GPUs?",
+            "answer": "These accelerators use different architectures and tools, with costs and performance that can vary between training and inference workloads. Supporting both gives cloud customers options rather than assuming that one design is best for every task."
+          },
+          {
+            "question": "What does multi-gigawatt scale mean for Oracle's Nvidia Vera Rubin plans?",
+            "answer": "It describes intended power and infrastructure capacity, not an exact purchase count or the dollar value of the agreement. Neither Oracle nor Nvidia disclosed a total contract price for this expansion."
+          }
+        ]
+      }
+    },
+    {
+      "section": "technology",
+      "rank": 3,
+      "id": "gmo-onamae-customer-data-update-oct27",
+      "category": "technology",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Japan internet giant GMO says hackers posted stolen customer data",
+          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "BleepingComputer",
+          "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+          "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "GMO Internet",
+          "title": "Information regarding the security incident update",
+          "url": "https://internet.gmo/en/news/article/256",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "GMO verifica la pubblicazione di dati attribuiti ai clienti dopo l'attacco cloud",
+        "dek": "I 26.739 server citati nelle misure cautelative non sono tutti confermati infettati; l'aggiornamento è del 27 ottobre.",
+        "summary": "GMO Internet ha comunicato il 27 ottobre di esaminare la pubblicazione di dati che un gruppo criminale attribuisce ai clienti del servizio Onamae.com Desktop Cloud. L'attacco iniziale era emerso la settimana precedente. Il gestore verifica autenticità e perimetro del materiale e non ha certificato che tutti i 26.739 server potenzialmente interessati siano compromessi.",
+        "impactReason": "La possibile diffusione di dati di clienti di un grande servizio remoto è rilevante per la sicurezza, pur restando da determinare la compromissione effettiva.",
+        "tags": [
+          "GMO",
+          "ransomware",
+          "desktop-remoto"
+        ],
+        "body": [
+          "Il 27 ottobre 2026 GMO Internet ha fornito un aggiornamento sull'incidente di sicurezza del servizio Onamae.com Desktop Cloud emerso il 20–21 ottobre. TechCrunch riferisce che un gruppo criminale ha pubblicato informazioni presentate come sottratte ai clienti. L'operatore ha dichiarato di verificare autenticità e portata dei file, distinguendo la rivendicazione degli aggressori dall'esito delle indagini interne.",
+          "BleepingComputer aveva descritto i precedenti avvisi ai clienti, con istruzioni per interrompere precauzionalmente alcuni utilizzi e seguire le procedure del gestore. GMO aveva segnalato un perimetro potenzialmente interessato di 26.739 server Windows collegati al servizio desktop remoto. Il numero identifica sistemi toccati dalle restrizioni e dai controlli, non 26.739 macchine con malware confermato.",
+          "Gli accessi da remoto possono coinvolgere credenziali e dati aziendali, rendendo prudente un contenimento esteso anche quando gli specialisti non hanno ancora stabilito quale singolo sistema sia stato violato. L'eventuale pubblicazione di file comporterebbe un rischio ulteriore rispetto all'interruzione del servizio, ma non basta un archivio rivendicato da un criminale a confermarne l'origine o la completezza.",
+          "La notizia nuova del 27 riguarda dunque la diffusione asserita di dati, non la scoperta dell'attacco precedente. Per determinare l'effetto sui clienti servono riscontri forensi, eventuali comunicazioni personalizzate e un calendario verificato di ripristino. Le dichiarazioni sul riscatto e sulle quantità sottratte vanno attribuite ai ricattatori finché non esiste conferma indipendente."
+        ],
+        "facts": [
+          "GMO ha pubblicato il 27 ottobre un aggiornamento sui file rivendicati online dagli aggressori.",
+          "Il dato di 26.739 server indica il perimetro potenzialmente coinvolto nelle misure del servizio."
+        ],
+        "perspectives": [
+          "GMO sostiene di verificare il contenuto dei file e il reale coinvolgimento degli utenti.",
+          "Le testate di cybersicurezza raccomandano di distinguere le rivendicazioni dei criminali da prove forensi."
+        ],
+        "unknowns": [
+          "Autenticità completa dei file e numero finale di account realmente esposti non sono accertati.",
+          "Il ripristino integrale del servizio non ha una data definitiva pubblica."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa rappresentano i 26.739 server indicati da GMO per Onamae Desktop Cloud?",
+            "answer": "Rappresentano la platea potenziale di server inclusi nelle misure precauzionali dell'operatore. Non è un conteggio verificato di infezioni né di clienti i cui file siano stati sottratti."
+          },
+          {
+            "question": "Perché la pubblicazione asserita di dati aumenta i rischi rispetto a un semplice fermo del cloud?",
+            "answer": "Se gli archivi pubblicati contengono davvero informazioni dei clienti, il danno può proseguire anche dopo la riattivazione del servizio. Occorre verificare origine e contenuto dei file prima di dichiarare un'esposizione specifica."
+          }
+        ]
+      },
+      "en": {
+        "title": "GMO investigates online data claims following remote-desktop cloud attack",
+        "dek": "The 26,739 servers covered by precautions are not all confirmed infected; the new disclosure was reported on 27 October.",
+        "summary": "On 27 October GMO Internet said it was assessing files posted online and claimed by criminals to originate from users of Onamae.com Desktop Cloud. The first intrusion had been reported the previous week. The provider is checking authenticity and scope, and has not confirmed that all 26,739 potentially affected servers were compromised.",
+        "impactReason": "A possible customer-data exposure at a large remote service raises significant security concerns, although the actual compromise remains unconfirmed.",
+        "tags": [
+          "GMO",
+          "ransomware",
+          "remote-desktop"
+        ],
+        "body": [
+          "On 27 October 2026 GMO Internet updated its account of the security incident affecting Onamae.com Desktop Cloud since 20–21 October. TechCrunch reported that an extortion group had posted information it claimed was stolen from customers. The operator said it was reviewing the authenticity and scale of the material, distinguishing the attackers' assertions from conclusions established through its own investigation.",
+          "BleepingComputer had described earlier instructions urging customers to stop certain uses temporarily and follow the provider's security procedures. GMO had identified a potentially affected service population of 26,739 Windows servers used for remote desktop access. That number describes the systems covered by precautionary controls, not a confirmed tally of 26,739 infected machines or data leaks.",
+          "Remote access environments can hold credentials and commercially sensitive information, so broad precautions may be appropriate even before analysts determine which specific machines were breached. A genuine posting of stolen records would create a risk beyond service downtime. But an archive advertised by criminals does not by itself prove where the material originated or whether all the records are authentic.",
+          "The new event on 27 October is the alleged disclosure rather than discovery of the original intrusion, which was already known. Determining the effects on users requires forensic results, targeted notices and a verified restoration schedule. Claims about ransom sums or the amount of stolen information should remain attributed to the extortionists until supported independently."
+        ],
+        "facts": [
+          "GMO issued an update on 27 October regarding data allegedly posted by the attackers.",
+          "The 26,739-server figure described a potentially affected service scope covered by precautions."
+        ],
+        "perspectives": [
+          "GMO says it is checking the files and the extent of customer involvement.",
+          "Cybersecurity reporters distinguish criminal assertions from forensic confirmation."
+        ],
+        "unknowns": [
+          "The full authenticity of the files and the final number of exposed accounts are not established.",
+          "A definitive public date for complete restoration is unavailable."
+        ],
+        "questions": [
+          {
+            "question": "What does GMO's figure of 26,739 Onamae Desktop Cloud servers measure?",
+            "answer": "It is the potential number of servers within the provider's precautionary response. It is not a verified tally of malware infections or customer accounts whose data was stolen."
+          },
+          {
+            "question": "Why would a genuine online data dump increase the impact of GMO's cloud outage?",
+            "answer": "If the posted files truly contain customers' information, exposure can persist after service is restored. The operator needs to verify the records' origin and content before asserting a specific data leak."
+          }
+        ]
+      }
+    },
+    {
+      "section": "technology",
+      "rank": 4,
+      "id": "apple-ios-272-security-update-oct26",
+      "category": "technology",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "MacRumors",
+          "title": "iOS 27.2 Fixes Over 160 Security Vulnerabilities",
+          "url": "https://www.macrumors.com/2026/10/26/ios-27-2-security-fixes/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TechCrunch",
+          "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+          "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Apple Support",
+          "title": "About the security content of iOS 27.2 and iPadOS 27.2",
+          "url": "https://support.apple.com/en-us/149230",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Apple distribuisce iOS 27.2 con oltre 160 correzioni di sicurezza",
+        "dek": "La versione è uscita il 26 ottobre, anche se alcuni resoconti sono del 27; Siri AI si amplia ma resta soggetta a limiti regionali.",
+        "summary": "Apple ha rilasciato iOS e iPadOS 27.2 il 26 ottobre 2026, con oltre 160 correzioni di sicurezza indicate dalla stampa specializzata. L'aggiornamento estende anche le lingue beta di Siri AI. Le funzioni dell'assistente dipendono da hardware e paese: installare una patch non garantisce automaticamente accesso all'AI avanzata.",
+        "impactReason": "Le numerose correzioni interessano una vasta base di dispositivi e la protezione di informazioni personali, con ricadute concrete.",
+        "tags": [
+          "Apple",
+          "iOS",
+          "sicurezza"
+        ],
+        "body": [
+          "Apple ha pubblicato iOS 27.2 e iPadOS 27.2 lunedì 26 ottobre 2026, come confermano il registro degli aggiornamenti e il bollettino sicurezza. MacRumors ha analizzato le patch lo stesso giorno; TechCrunch ha approfondito alcune funzioni il 27 ottobre. La data della seconda cronaca non è la data del rilascio e va distinta nei titoli e nelle ricostruzioni.",
+          "MacRumors riferisce più di 160 vulnerabilità corrette, distribuite tra WebKit, kernel, gestione degli account e altre componenti del sistema. Il documento ufficiale Apple illustra condizioni di rischio e identificativi CVE per numerosi difetti. Una correzione non implica necessariamente un attacco già avvenuto: per la serie principale del rilascio Apple non ha dichiarato sfruttamenti attivi generalizzati.",
+          "Il pacchetto amplia Siri AI in beta a francese, giapponese, coreano, portoghese e spagnolo e introduce funzioni di memoria e contestualizzazione. Queste capacità non sono garantite su ogni telefono che riceva gli aggiornamenti. La disponibilità dipende dal modello, dalle impostazioni e dal mercato; nell'Unione europea alcune funzioni Siri AI non sono disponibili con gli stessi tempi di altri territori.",
+          "Apple ha inoltre pubblicato aggiornamenti di sicurezza per prodotti che continuano a usare iOS 26 e alcune versioni precedenti. Questo consente ai dispositivi compatibili di ricevere protezioni senza installare necessariamente ogni nuova funzione. Gli utenti devono consultare la lista ufficiale di modelli supportati e installare la versione proposta nelle impostazioni, distinguendo le patch dalle nuove funzioni sperimentali."
+        ],
+        "facts": [
+          "Apple ha rilasciato iOS e iPadOS 27.2 il 26 ottobre 2026.",
+          "MacRumors e TechCrunch riferiscono più di 160 correzioni; il bollettino Apple elenca le vulnerabilità."
+        ],
+        "perspectives": [
+          "Apple raccomanda gli aggiornamenti e documenta i dispositivi supportati.",
+          "Le testate specializzate distinguono patch note, disponibilità delle funzioni e sfruttamento reale."
+        ],
+        "unknowns": [
+          "I bollettini non quantificano quante persone siano state colpite dalle singole vulnerabilità.",
+          "Non è annunciato un calendario universale per la disponibilità delle funzioni Siri AI in ogni paese."
+        ],
+        "questions": [
+          {
+            "question": "Perché le oltre 160 correzioni di iOS 27.2 non indicano 160 attacchi confermati?",
+            "answer": "Il conteggio riguarda i difetti di sicurezza per cui il software offre rimedi, non il numero di campagne criminali. L'esistenza di una CVE non dimostra che sia stata utilizzata contro utenti reali."
+          },
+          {
+            "question": "Perché un iPhone aggiornato a iOS 27.2 potrebbe non ricevere le nuove funzioni Siri AI?",
+            "answer": "Le patch di sicurezza e l'assistente avanzato hanno requisiti diversi. Siri AI dipende anche da compatibilità hardware, lingua e disponibilità nella regione: ricevere una versione del sistema non abilita automaticamente ogni servizio."
+          }
+        ]
+      },
+      "en": {
+        "title": "Apple releases iOS 27.2 with over 160 security fixes",
+        "dek": "The update launched on 26 October, even though some reporting appeared on the 27th; Siri AI expansions depend on regional availability.",
+        "summary": "Apple issued iOS and iPadOS 27.2 on 26 October 2026, with more than 160 security fixes reported by specialist outlets. The update also adds beta languages for Siri AI. Advanced assistant features depend on hardware and geography, so receiving software patches does not automatically provide access to every AI function.",
+        "impactReason": "Numerous patches across widely used devices matter for information security and personal privacy at large scale.",
+        "tags": [
+          "Apple",
+          "iOS",
+          "security"
+        ],
+        "body": [
+          "Apple released iOS 27.2 and iPadOS 27.2 on Monday, 26 October 2026, according to official security and developer records. MacRumors examined the fixes that day; TechCrunch covered additional features on 27 October. The later article's publication date should not be confused with the software's actual release date when reconstructing the sequence of events.",
+          "MacRumors counted more than 160 corrected weaknesses across WebKit, the kernel, accounts and other operating-system components. Apple's official advisory describes technical risks and assigns CVE identifiers where applicable. A patch does not automatically establish that the weakness was exploited in the wild, and Apple did not say the main set of 27.2 flaws had all been used in active attacks.",
+          "The release expands beta Siri AI coverage to French, Japanese, Korean, Portuguese and Spanish, alongside contextual memory features. These capabilities are not guaranteed on every phone able to install the system update. Access depends on device specifications, settings and market availability; some advanced Siri functionality is subject to additional restrictions in European Union countries.",
+          "Apple also distributed security updates for products still using iOS 26 and selected older software branches. Compatible owners may therefore receive protections without adopting every feature of a new operating-system generation. Users should consult Apple's supported-device list and the update offered in Settings, separating essential security improvements from optional advanced assistant capabilities."
+        ],
+        "facts": [
+          "Apple released iOS and iPadOS 27.2 on 26 October 2026.",
+          "MacRumors and TechCrunch report over 160 fixes, while Apple's advisory documents the vulnerabilities."
+        ],
+        "perspectives": [
+          "Apple recommends applying supported updates and publishes device compatibility details.",
+          "Specialist publications distinguish disclosed vulnerabilities from evidence of exploitation."
+        ],
+        "unknowns": [
+          "The notices cannot establish how many people were exposed to each individual security flaw.",
+          "A universal rollout date for advanced Siri AI in every market has not been announced."
+        ],
+        "questions": [
+          {
+            "question": "Why don't the 160-plus fixes in iOS 27.2 amount to 160 confirmed attacks?",
+            "answer": "They count software flaws addressed by patches rather than criminal campaigns. A CVE description can identify a possible method of exploitation without proving anyone used it against a real device."
+          },
+          {
+            "question": "Why might an iPhone running iOS 27.2 lack Siri AI's new capabilities?",
+            "answer": "Security patches and advanced assistant services have separate requirements. Siri AI also depends on hardware compatibility, supported language and regional availability, so an operating system update does not unlock every feature."
+          }
+        ]
+      }
+    },
+    {
+      "section": "technology",
+      "rank": 5,
+      "id": "opera-webai-local-browser-preview-oct27",
+      "category": "technology",
+      "impact": 2,
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "9to5Mac",
+          "title": "Opera One now lets Mac users run Apple's foundation model directly in the browser",
+          "url": "https://9to5mac.com/2026/10/27/opera-one-now-lets-mac-users-run-apples-foundation-model-directly-in-the-browser/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Opera Newsroom",
+          "title": "Opera doubles down on local AI, shipping models directly in its browsers",
+          "url": "https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Opera apre l'anteprima WebAI: modelli AI locali nel browser",
+        "dek": "La tecnologia opzionale è disponibile inizialmente in Opera One su Windows 64 bit e Mac Apple Silicon, non è uno standard universale.",
+        "summary": "Opera ha presentato il 27 ottobre 2026 WebAI, un'interfaccia proposta che permette a siti ed estensioni autorizzate di richiedere operazioni a modelli AI eseguiti sul dispositivo. L'anteprima parte da Opera One su computer compatibili e richiede un'attivazione volontaria; privacy, prestazioni e sicurezza dipendono dalle impostazioni e dalle autorizzazioni.",
+        "impactReason": "L'inferenza locale potrebbe ridurre costi cloud e trasferimenti di dati in alcune applicazioni, ma WebAI è ancora una proposta con supporto iniziale ristretto.",
+        "tags": [
+          "Opera",
+          "WebAI",
+          "privacy"
+        ],
+        "body": [
+          "Opera ha annunciato il 27 ottobre 2026 l'anteprima di WebAI per il browser Opera One. L'interfaccia consente ai siti e alle estensioni autorizzati di utilizzare modelli che eseguono il calcolo direttamente sul computer, invece di inviare ogni richiesta a fornitori di servizi remoti. TechCrunch e 9to5Mac hanno analizzato separatamente le capacità annunciate e il contesto dei modelli locali.",
+          "WebAI prevede interfacce per generare testo, classificare contenuti e riconoscere affinità semantiche. Opera cita modelli Gemma di Google e, su Mac supportati, il modello locale di Apple. L'utente deve attivare la funzione, scaricare componenti compatibili e concedere permessi separati ai siti, senza presumere che qualunque pagina possa accedere ai dati del dispositivo automaticamente.",
+          "L'anteprima iniziale è disponibile su computer Windows a 64 bit con CPU Intel o AMD e su Mac basati su Apple Silicon. Opera GX e Neon sono indicati come sviluppi successivi. Questo non rende WebAI uno standard già implementato da tutti i browser: disponibilità effettiva e prestazioni dipendono dall'hardware e dalla compatibilità dei modelli usati.",
+          "Elaborare contenuti localmente può evitare il trasferimento verso un servizio di inferenza esterno, un beneficio potenziale per la riservatezza e per le applicazioni senza connessione. Restano però possibili rischi da permessi troppo ampi o estensioni non affidabili. I test dimostrativi del produttore non provano che modelli di dimensioni diverse abbiano accuratezza, velocità o consumi equivalenti su ogni macchina."
+        ],
+        "facts": [
+          "Opera ha annunciato WebAI il 27 ottobre come anteprima opzionale di Opera One.",
+          "La compatibilità iniziale comprende Windows 64 bit Intel/AMD e Mac Apple Silicon."
+        ],
+        "perspectives": [
+          "Opera presenta l'inferenza locale come alternativa per risparmiare chiamate cloud e limitare trasferimenti.",
+          "TechCrunch e 9to5Mac evidenziano che diffusione, standard e prestazioni sono ancora preliminari."
+        ],
+        "unknowns": [
+          "Non esiste un calendario definitivo per il supporto su tutti i sistemi e browser.",
+          "Non sono disponibili benchmark indipendenti su ogni combinazione di hardware e modello."
+        ],
+        "questions": [
+          {
+            "question": "Come usa un'estensione Opera One l'interfaccia WebAI per l'inferenza locale?",
+            "answer": "Dopo l'attivazione e il download di un modello compatibile, l'estensione autorizzata può richiedere generazione di testo o classificazione tramite le API del browser. Il calcolo avviene sul computer invece di richiedere una chiamata cloud per ogni richiesta."
+          },
+          {
+            "question": "Perché l'elaborazione WebAI sul dispositivo richiede comunque permessi ai siti?",
+            "answer": "La localizzazione dei calcoli riduce alcuni trasferimenti, ma non garantisce che ogni sito o estensione tratti correttamente le informazioni accessibili. Le autorizzazioni delimitano quali pagine possono utilizzare il modello e proteggono l'utente da accessi non necessari."
+          }
+        ]
+      },
+      "en": {
+        "title": "Opera begins WebAI preview with local models accessible to browser extensions",
+        "dek": "The opt-in technology starts in Opera One on 64-bit Windows and Apple Silicon Macs, rather than across every web browser.",
+        "summary": "Opera introduced WebAI on 27 October 2026 as a proposed interface enabling authorized sites and browser extensions to use locally running AI models. The preview begins in Opera One on supported computers and requires opt-in activation. Privacy, security and performance depend on user permissions and the local hardware.",
+        "impactReason": "On-device AI could reduce cloud costs and some data transfers, but WebAI is a proposed interface with restricted initial support.",
+        "tags": [
+          "Opera",
+          "WebAI",
+          "privacy"
+        ],
+        "body": [
+          "On 27 October 2026 Opera announced a WebAI preview for its Opera One browser. The interface allows authorised websites and extensions to use models that compute on the user's device instead of sending every task to external providers. TechCrunch and 9to5Mac separately reported the new capabilities and examined their context within the broader movement toward local artificial intelligence.",
+          "WebAI provides interfaces for generating text, classifying information and finding semantic similarities. Opera points to Google's Gemma models and, on compatible Macs, Apple's on-device foundation model. Users must enable the system, download compatible model files and grant permissions to specific websites, rather than giving every open page unrestricted access to the computer's information.",
+          "The initial preview runs on 64-bit Windows PCs with Intel or AMD processors and Apple Silicon Macs. Opera GX and Neon are described as later targets. This does not make WebAI a universal browser standard already supported everywhere: both practical availability and response times depend on hardware, operating system and the chosen model.",
+          "Computing on-device can avoid transmitting selected information to a remote inference service, potentially benefiting privacy and offline use. Risks nevertheless remain if a site has excessive permissions or an untrusted extension misuses access. Company demonstrations do not establish identical accuracy, speed or battery impact across different local models and computers, which require proper independent evaluation."
+        ],
+        "facts": [
+          "Opera introduced an optional WebAI preview for Opera One on 27 October 2026.",
+          "Early compatibility covers 64-bit Intel/AMD Windows PCs and Apple Silicon Macs."
+        ],
+        "perspectives": [
+          "Opera argues that local inference can reduce cloud dependence and data transmission.",
+          "TechCrunch and 9to5Mac emphasize the early scope of the feature and its hardware constraints."
+        ],
+        "unknowns": [
+          "There is no final adoption timetable for all browsers and operating systems.",
+          "Independent benchmarks across models and hardware configurations are not established."
+        ],
+        "questions": [
+          {
+            "question": "How can an Opera One extension use WebAI to run a model locally?",
+            "answer": "After the user enables WebAI and downloads a compatible model, an authorized extension can invoke browser APIs for tasks such as text generation or classification. Computation can then take place on the device rather than requiring cloud inference for each request."
+          },
+          {
+            "question": "Why does on-device processing through WebAI still require website permissions?",
+            "answer": "Local processing avoids some data transfers, but does not ensure that every site or extension handles information responsibly. Permissions limit which pages can call the model and help prevent unnecessary access to the user's information."
           }
         ]
       }
