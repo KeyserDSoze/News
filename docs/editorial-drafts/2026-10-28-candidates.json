@@ -91,7 +91,7 @@
           "Israel's polls closed at 10 p.m. local time on Tuesday, 27 October 2026. The main television networks published exit polls suggesting that neither Prime Minister Benjamin Netanyahu's camp nor the bloc led by former military chief Gadi Eisenkot had won a parliamentary majority. Reuters and Associated Press agreed on the central point: neither side was projected to secure the 61 seats needed to govern alone.",
           "The Knesset has 120 members, and Israelis vote for party lists rather than electing a prime minister directly. The Central Elections Committee reported turnout of 77.7%, which Reuters described as the highest in more than two decades. Initial partial counts released on 28 October do not by themselves establish the final seat distribution and may change projections issued after voting ended.",
           "Arab-led parties, positioned outside the two main blocs in the exit polls, could become influential in negotiations to form a majority. Their projected representation does not mean they will automatically join any cabinet: coalition agreements require political decisions. Reuters noted that Eisenkot had largely ruled out governing with those parties, creating an obstacle to reaching the necessary 61 votes.",
-          "Eisenkot portrayed the projections as a rejection of Netanyahu's leadership, while Netanyahu emphasized Likud's position as the leading individual party. Both are political interpretations, not certified electoral outcomes. Once counting is complete, President Isaac Herzog will select the person judged best placed to build a coalition; Netanyahu remains caretaker prime minister during that process."
+          "Eisenkot portrayed the projections as a rejection of Netanyahu's leadership, while Netanyahu emphasized Likud's position as the leading individual party. Both are political interpretations, not certified electoral outcomes. Once counting is complete, President Isaac Herzog will select the person judged best placed to build a coalition; Netanyahu remains caretaker prime minister during that process. Final talks depend on the certified party-by-party seat totals."
         ],
         "facts": [
           "Polls closed on 27 October at 10 p.m. local time, and exit polls did not give either main bloc 61 seats.",
@@ -161,7 +161,7 @@
           "Il 27 ottobre 2026 Reuters e ANSA hanno riferito di attacchi informatici rivolti ai sistemi della Camera dei deputati nei giorni precedenti. Tra gli indirizzi di posta presi di mira figura la casella assegnata a Giorgia Meloni nella sua qualità di parlamentare. ANSA cita anche indirizzi riconducibili ad Andrea Delmastro e Paolo Formentini, ma occorre distinguere le caselle individuate come bersaglio dal numero complessivo di tentativi contro l'infrastruttura.",
           "Una fonte della Camera ha detto a Reuters di non poter specificare se l'account di Meloni fosse stato effettivamente aperto da soggetti non autorizzati. Il fatto che un indirizzo sia stato preso di mira non dimostra il successo di un attacco né la sottrazione di messaggi. Palazzo Chigi ha inoltre precisato che quell'account non è utilizzato dalla presidente del Consiglio per le comunicazioni di governo.",
           "Fonti di Montecitorio citate da ANSA hanno descritto l'episodio come non emergenziale, spiegando che le misure di protezione sono state attivate anche in collaborazione con l'Agenzia per la cybersicurezza nazionale. Fra le procedure possibili rientra la sospensione temporanea di alcune funzioni: è una modalità di contenimento, non di per sé una prova che una casella sia stata compromessa.",
-          "La Procura di Roma, secondo ANSA, attendeva un'informativa della Polizia postale per valutare l'apertura di un fascicolo. Questa fase non identifica responsabili né attribuisce un'origine geografica o politica ai tentativi. Le verifiche tecniche dovranno distinguere traffico ostile, accessi riusciti, eventuale disponibilità di dati e misure intraprese, senza trasformare le ipotesi investigative in conclusioni."
+          "La Procura di Roma, secondo ANSA, attendeva un'informativa della Polizia postale per valutare l'apertura di un fascicolo. Questa fase non identifica responsabili né attribuisce un'origine geografica o politica ai tentativi. Le verifiche tecniche dovranno distinguere traffico ostile, accessi riusciti, eventuale disponibilità di dati e misure intraprese, senza trasformare le ipotesi investigative in conclusioni. È necessario leggere i risultati delle analisi forensi prima di valutare possibili danni."
         ],
         "facts": [
           "La Camera ha confermato attività ostili contro i sistemi parlamentari e tra i bersagli figura l'account di Meloni come deputata.",
@@ -207,8 +207,8 @@
         "body": [
           "On 27 October 2026 Reuters and ANSA reported cyberattacks directed at Italy's Chamber of Deputies IT systems in recent days. Among the email addresses targeted was one assigned to Giorgia Meloni in her role as a member of parliament. ANSA also identified accounts linked to Andrea Delmastro and Paolo Formentini. The named targets should not be confused with the total number of attempts against parliamentary infrastructure.",
           "A Chamber source told Reuters they could not specify whether unauthorized parties had actually accessed Meloni's account. Being targeted does not prove a successful breach or the theft of messages. Meloni's office also clarified that the parliamentary address is not the one she uses for government communications, making the distinction between roles relevant to the possible scope.",
-          "Sources at Montecitorio told ANSA the situation was not an emergency and that protective steps had been activated with Italy's National Cybersecurity Agency. Those steps may include temporarily disabling certain IT functions. Such containment is standard security practice and does not in itself show that an attacker succeeded in accessing protected messages or systems.",
-          "According to ANSA, prosecutors in Rome were awaiting an initial report from the postal police before assessing the opening of an investigation. That preliminary stage establishes neither the responsible actors nor any political or geographical origin. Forensic checks would need to distinguish blocked attempts from confirmed unauthorized access and any actual loss of data."
+          "Sources at Montecitorio told ANSA the situation was not an emergency and that protective steps had been activated with Italy's National Cybersecurity Agency. Those steps may include temporarily disabling certain IT functions. Such containment is standard security practice and does not in itself show that an attacker succeeded in accessing protected messages or systems. The scale of disrupted access was not quantified in that announcement.",
+          "According to ANSA, prosecutors in Rome were awaiting an initial report from the postal police before assessing the opening of an investigation. That preliminary stage establishes neither the responsible actors nor any political or geographical origin. Forensic checks would need to distinguish blocked attempts from confirmed unauthorized access and any actual loss of data. Investigative announcements must therefore be read separately from any eventual forensic findings."
         ],
         "facts": [
           "Chamber sources reported hostile activity against parliamentary systems, with Meloni's parliamentary email among the targets.",
@@ -332,7 +332,7 @@
           "Google DeepMind introduced Genie 4 on 27 October 2026 as a model that generates environments responding to user actions. Unlike a video produced as a fixed sequence, a simulation can be altered while it runs, including its viewpoint, objects, characters and weather. TechCrunch and Ars Technica independently covered the capabilities using company demonstrations and briefings delivered at launch.",
           "The system also generates ambient sound, music and dialogue alongside the simulated scene. A Gemini-family component helps guide the model's next frames in response to user instructions. This does not turn the system into a verified physics engine: its interactions are produced by a trained generative model, rather than a guarantee that every response follows real-world laws.",
           "TechCrunch reported that a simulation can preserve coherence for roughly two minutes, about twice the predecessor's duration, while details and objects may drift over longer runs. Google researchers also acknowledged difficulties with precise audio and legible in-world text. Claims of improved realism have not been supported by independent, comparative evaluation in the material examined for this draft.",
-          "At announcement, Genie 4 was a research preview for selected testers, not a universally available product. Google envisaged later phases for Google AI Ultra subscribers and Gemini API partners without committing to a final general-release date. Robotics, creative prototyping and education are possible applications, but launch demonstrations cannot establish performance in safety-critical real-world environments."
+          "At announcement, Genie 4 was a research preview for selected testers, not a universally available product. Google envisaged later phases for Google AI Ultra subscribers and Gemini API partners without committing to a final general-release date. Robotics, creative prototyping and education are possible applications, but launch demonstrations cannot establish performance in safety-critical real-world environments. Research demonstrations alone do not resolve this distinction."
         ],
         "facts": [
           "Google DeepMind announced the Genie 4 research preview on 27 October 2026.",
@@ -525,7 +525,7 @@
         "summary": "La Corte d'appello di Torino ha confermato il 27 ottobre 2026 l'ineleggibilità di Renzo Testolin alla presidenza della Valle d'Aosta per il superamento dei limiti regionali ai mandati di giunta. La pronuncia, successiva all'udienza del 13 ottobre, rende efficace la decadenza e apre una crisi nella maggioranza regionale.",
         "impactReason": "La pronuncia cambia la guida dell'amministrazione regionale e avvia una procedura politica che può portare a una nuova giunta o a elezioni anticipate.",
         "tags": [
-          "Valle-d'Aosta",
+          "Valle-Aosta",
           "Testolin",
           "mandati"
         ],
@@ -572,7 +572,7 @@
         "summary": "The Turin Court of Appeal upheld Renzo Testolin's ineligibility to serve as president of Italy's Valle d'Aosta region on 27 October 2026. It ruled that he had exceeded the regional limits on successive executive appointments. The ruling, following a 13 October hearing, takes effect and opens a regional government crisis.",
         "impactReason": "The ruling removes the head of a regional administration and sets in motion a political process that could produce a new cabinet or early elections.",
         "tags": [
-          "Valle-d'Aosta",
+          "Valle-Aosta",
           "Testolin",
           "term-limits"
         ],
