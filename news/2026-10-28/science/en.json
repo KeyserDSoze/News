@@ -367,6 +367,13 @@
       },
       "sources": [
         {
+          "outlet": "Popular Science",
+          "title": "This lava planet shouldn’t have an atmosphere—but it does",
+          "url": "https://www.popsci.com/science/lava-planet-atmosphere/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
           "outlet": "Martin Cid Magazine",
           "title": "A lava planet that should be bare rock reflects 74% of its starlight, Webb finds",
           "url": "https://www.martincid.com/science/toi-561-b-lava-planet-reflective-atmosphere-jwst/",
@@ -374,17 +381,10 @@
           "role": "reporting"
         },
         {
-          "outlet": "Orbital Wire",
-          "title": "JWST finds reflective silicate clouds on lava planet TOI-561 b",
-          "url": "https://orbital-wire.com/astronomy-astrophysics/reflective-silicate-clouds-lava-planet-toi-561-b/",
-          "publishedAt": "2026-10-26",
-          "role": "reporting"
-        },
-        {
           "outlet": "The Astronomical Journal",
-          "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curve",
-          "url": "https://arxiv.org/abs/2608.21519",
-          "publishedAt": "2026-08-21",
+          "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curves",
+          "url": "https://doi.org/10.3847/1538-3881/ae9763",
+          "publishedAt": "2026-10-26",
           "role": "official"
         },
         {
