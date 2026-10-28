@@ -88,7 +88,7 @@
       "dek": "Il progetto presentato il 27 ottobre include capacità multi-gigawatt, ma il valore dei nuovi accordi non è dichiarato.",
       "summary": "Oracle ha annunciato il 27 ottobre accordi per ampliare l'uso dei server Nvidia Vera Rubin e introdurre chip TPU Google, Cerebras e SambaNova nella piattaforma Oracle Cloud Infrastructure. I fornitori coprono funzioni differenti nell'intelligenza artificiale; una parte delle installazioni è prevista per il 2027, senza un valore contrattuale globale reso pubblico.",
       "body": [
-        "Durante Oracle AI World del 27 ottobre 2026 l'azienda ha annunciato l'estensione dei propri accordi infrastrutturali con Nvidia, prevedendo sistemi Vera Rubin su scala multi-gigawatt. Reuters e Yahoo Finance hanno riportato in modo indipendente il progetto e l'arrivo di chip concorrenti. La scala in gigawatt indica la potenza di infrastruttura prevista, non una quantità di processori già consegnati.",
+        "Durante Oracle AI World del 27 ottobre 2026 l'azienda ha annunciato l'estensione dei propri accordi infrastrutturali con Nvidia, prevedendo sistemi Vera Rubin su scala multi-gigawatt. Reuters e The Register hanno riportato in modo indipendente il progetto e l'arrivo di chip concorrenti. La scala in gigawatt indica la potenza di infrastruttura prevista, non una quantità di processori già consegnati.",
         "Oracle ha presentato l'arrivo dei Tensor Processing Unit di Google nel proprio cloud, con disponibilità indicativa dal 2027. I TPU sono acceleratori progettati per carichi di intelligenza artificiale, alternativi a diverse offerte di GPU Nvidia ma non automaticamente superiori in ogni attività. Oracle prevede inoltre reti Acceleron sviluppate internamente per una parte dei sistemi, differenziando le componenti dell'infrastruttura.",
         "Il gruppo intende integrare anche acceleratori Cerebras e SambaNova per l'inferenza, ossia l'esecuzione di modelli già addestrati per produrre risposte e risultati. Le necessità di latenza, costo e memoria di questa fase differiscono spesso da quelle del lungo addestramento iniziale. I vantaggi dichiarati dai fornitori non sono confronti indipendenti effettuati sugli stessi modelli e con le stesse condizioni.",
         "Reuters precisa che non è stato comunicato il valore dei contratti né un piano finanziario specifico per ciascuna fornitura. Oracle ha ribadito un obiettivo di investimento complessivo di circa 90–95 miliardi di dollari nell'esercizio fiscale 2027, una somma che non deve essere trasformata nel prezzo dell'intesa Nvidia. Tempi reali di messa in servizio e rendimenti andranno verificati successivamente."
@@ -138,9 +138,9 @@
           "role": "reporting"
         },
         {
-          "outlet": "Yahoo Finance",
-          "title": "Oracle, in effort to reduce reliance on Nvidia, adds AI chips from Google, Cerebras and SambaNova",
-          "url": "https://finance.yahoo.com/technology/article/oracle-in-effort-to-reduce-reliance-on-nvidia-adds-ai-chips-from-google-cerebras-and-sambanova-160000593.html",
+          "outlet": "The Register",
+          "title": "Big Red gets cozy with Google to offer TPUs to AI customers",
+          "url": "https://assets.theregister.com/2026/10/27/202620/",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         },
