@@ -3,8 +3,8 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "Six complete-length bilingual working articles, independently cross-checked at draft level, not certified for publication.",
-    "Six original credited SVG cover illustrations in news/2026-10-28/assets; 19 further articles, assets and 8 final edition JSONs remain incomplete.",
+    "Nine bilingual substantial working drafts, all still pending publication gates.",
+    "Six original cover assets; 16 more articles and 19 cover assets still missing. 0/8 final edition JSONs.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -743,6 +743,316 @@
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
+      }
+    },
+    {
+      "section": "world",
+      "id": "cyclone-arnab-india-oct28-landfall",
+      "rank": 2,
+      "category": "climate",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "India evacuates over 180,000 as Cyclone Arnab hits coast",
+          "url": "https://www.reuters.com/business/environment/cyclone-arnab-begins-making-landfall-indias-andhra-pradesh-state-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Cyclone Arnab hits India's Andhra Pradesh state as tens of thousands evacuate",
+          "url": "https://apnews.com/article/96277efc4371cf379c24b7694dfa9f62",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Il ciclone Arnab raggiunge l'Andhra Pradesh: evacuazioni e trasporti sospesi",
+        "dek": "Reuters riferisce oltre 180mila persone evacuate in due Stati; i dati AP su un solo Stato non vanno sommati.",
+        "summary": "Il ciclone Arnab ha raggiunto la costa orientale dell'India il 28 ottobre 2026 dopo gli ordini di evacuazione del 27. Le autorità hanno segnalato danni, interruzioni elettriche e sospensioni dei trasporti, senza vittime confermate nella prima fase. I bilanci delle evacuazioni cambiano a seconda della regione e del momento rilevato.",
+        "impactReason": "L'evento interessa una fascia costiera densamente popolata e causa danni e disservizi; le misure preventive riducono il rischio ma il bilancio è ancora iniziale.",
+        "tags": [
+          "India",
+          "Arnab",
+          "cicloni"
+        ],
+        "body": [
+          "Il ciclone Arnab, formatosi nel golfo del Bengala, ha raggiunto la costa dell'Andhra Pradesh nella mattina di mercoledì 28 ottobre 2026, dopo due giorni di preparativi e progressiva intensificazione. Reuters riferisce che le squadre di emergenza sono intervenute su alberi e pali elettrici abbattuti, mentre Associated Press documenta rifugi aperti e trasporti cancellati in previsione del passaggio. Le cronache distinguono correttamente la fase dell'allerta del 27 dall'approdo del 28.",
+          "Secondo Reuters, più di 180mila persone erano state evacuate complessivamente dall'Andhra Pradesh e dall'Odisha prima del passaggio. Associated Press riportava una cifra di almeno 89mila evacuati nel solo Andhra Pradesh, in un momento precedente della risposta. Le due misure non descrivono necessariamente lo stesso territorio o la stessa ora: sommarle come se fossero gruppi diversi produrrebbe un totale fuorviante.",
+          "L'India Meteorological Department aveva previsto venti sostenuti tra 125 e 135 chilometri orari, raffiche fino a 150 chilometri e un innalzamento del mare fino a un metro e mezzo rispetto alla marea normale nelle zone basse. Questi valori sono previsioni e non misurazioni uniformi in tutti i centri colpiti. Chiusure scolastiche, sospensioni aeroportuali, rotte ferroviarie cancellate e divieti per i pescatori sono stati adottati come precauzioni.",
+          "Al momento dei primi resoconti non risultavano morti confermati nei due Stati, ma i danni a case, coltivazioni e reti elettriche richiedevano ulteriori verifiche. L'estensione dei danni non può essere stimata soltanto dalle immagini di strade bloccate. La perturbazione ha spinto anche il Nepal a sospendere temporaneamente permessi di trekking in alta quota a causa del rischio previsto di piogge, bufere e valanghe."
+        ],
+        "facts": [
+          "Il ciclone ha raggiunto l'Andhra Pradesh il 28 ottobre dopo le evacuazioni annunciate il 27.",
+          "Reuters riporta oltre 180mila evacuati tra Andhra Pradesh e Odisha; AP ne riporta almeno 89mila nell'Andhra Pradesh."
+        ],
+        "perspectives": [
+          "La meteorologia indiana ha sottolineato i rischi di vento, mareggiate e allagamenti costieri.",
+          "Le autorità dei due Stati hanno privilegiato evacuazioni e restrizioni ai trasporti prima del passaggio."
+        ],
+        "unknowns": [
+          "La valutazione finale dei danni alle infrastrutture e all'agricoltura non era disponibile nella prima mattina del 28 ottobre.",
+          "I conteggi di evacuati, interruzioni di servizio e possibili feriti potrebbero essere rivisti."
+        ],
+        "questions": [
+          {
+            "question": "Perché le cifre di 89mila e 180mila evacuati per Arnab non indicano una contraddizione?",
+            "answer": "Associated Press ha riportato almeno 89mila persone spostate nell'Andhra Pradesh, mentre Reuters ha contato oltre 180mila evacuazioni nell'insieme di Andhra Pradesh e Odisha. Per confrontarle servono lo stesso orario di rilevazione e la stessa area geografica."
+          },
+          {
+            "question": "In che modo la mareggiata prevista può aggravare gli allagamenti causati da Arnab?",
+            "answer": "Un livello del mare fino a 1–1,5 metri sopra la marea normale spinge acqua salata nelle aree costiere basse proprio mentre arrivano piogge intense. Può quindi ostacolare il drenaggio e rendere vulnerabili abitazioni, strade e campi vicini alla costa."
+          }
+        ]
+      },
+      "en": {
+        "title": "Cyclone Arnab reaches India's Andhra Pradesh coast after mass evacuations",
+        "dek": "Reuters counts over 180,000 evacuations across two states; AP's earlier single-state figure must not be added to it.",
+        "summary": "Cyclone Arnab made landfall on India's east coast on 28 October 2026, after preparations and evacuations on the 27th. Early reports documented damage, electricity disruptions and transport closures, but no confirmed deaths. Evacuation totals vary with the states included and the time of reporting.",
+        "impactReason": "The storm affects a heavily populated coastal region and disrupts homes and services; preventive action reduces risks, while final damage assessments are still pending.",
+        "tags": [
+          "India",
+          "Arnab",
+          "cyclones"
+        ],
+        "body": [
+          "Cyclone Arnab, which developed over the Bay of Bengal, reached the Andhra Pradesh coastline on the morning of Wednesday, 28 October 2026, following days of preparation and strengthening. Reuters described emergency crews clearing fallen trees and electricity poles, while Associated Press reported the opening of shelters and disruption to transport in advance. These reports distinguish the 27 October warning and evacuation phase from the storm's actual 28 October landfall.",
+          "Reuters reported that more than 180,000 people had been evacuated across Andhra Pradesh and neighbouring Odisha before the storm arrived. Associated Press gave an earlier figure of at least 89,000 evacuees in Andhra Pradesh alone. These counts do not necessarily cover the same territory or reporting time; adding them together as if the groups were separate would produce a misleading headline total.",
+          "India's meteorological service had forecast sustained winds of 125–135 kilometres per hour, gusts reaching 150 kilometres per hour and a storm surge as high as 1.5 metres above normal tides in exposed coastal areas. These are forecasts, not uniformly measured wind speeds in every community. School closures, airport suspensions, disrupted rail routes and warnings to fishermen were designed to lower the exposure of residents and travellers.",
+          "The first reports found no confirmed deaths in the two affected states, but accounts of damaged homes, crops and electricity networks needed further investigation. Photographs of fallen trees and blocked highways cannot substitute for a systematic loss estimate. The cyclone also prompted Nepal to suspend some high-altitude trekking permits because officials anticipated heavy rain, snowstorms and avalanche hazards in mountain areas."
+        ],
+        "facts": [
+          "Cyclone Arnab reached Andhra Pradesh on 28 October following evacuation efforts on 27 October.",
+          "Reuters counted over 180,000 evacuees across Andhra Pradesh and Odisha; AP cited at least 89,000 in Andhra Pradesh."
+        ],
+        "perspectives": [
+          "India's meteorological agency emphasized threats from high winds, storm surge and coastal flooding.",
+          "State authorities prioritized evacuations and travel restrictions ahead of landfall."
+        ],
+        "unknowns": [
+          "A full accounting of damage to infrastructure and farming was not yet available in the first reports on 28 October.",
+          "Evacuation, service interruption and injury figures may be revised as access improves."
+        ],
+        "questions": [
+          {
+            "question": "Why are figures of 89,000 and 180,000 evacuees for Arnab not necessarily contradictory?",
+            "answer": "Associated Press reported at least 89,000 evacuees in Andhra Pradesh, while Reuters counted over 180,000 across Andhra Pradesh and Odisha. Meaningful comparison requires the same geographical area and the same reporting time."
+          },
+          {
+            "question": "How could Arnab's forecast storm surge intensify flooding on India's coast?",
+            "answer": "A surge of up to 1–1.5 metres above normal tides can drive seawater into low-lying communities just as heavy rainfall arrives. It also slows drainage, putting coastal homes, roads and farmland at additional risk."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "id": "hispaniola-floods-haiti-dominican-oct27",
+      "rank": 3,
+      "category": "society",
+      "impact": 2,
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Flooding in Haiti and the Dominican Republic causes deaths and destroys homes, officials say",
+          "url": "https://apnews.com/article/012fa128cea57defc8d2ce7735ec1e9c",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caribbean Media Corporation",
+          "title": "Four killed as heavy rains batter Haiti",
+          "url": "https://www.cananews.com/four-killed-as-heavy-rains-batter-haiti/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Piogge e alluvioni sull'isola di Hispaniola: quattro morti segnalati ad Haiti",
+        "dek": "La Protezione civile haitiana segnala anche due dispersi e 3.209 famiglie colpite; almeno 30 comunità isolate nella Repubblica Dominicana.",
+        "summary": "Piogge persistenti dal 24 ottobre hanno causato alluvioni e frane ad Haiti e nella vicina Repubblica Dominicana. Il 27 ottobre la Protezione civile haitiana indicava provvisoriamente quattro morti, due dispersi e 3.209 famiglie colpite. Dall'altra parte della frontiera, le autorità dominicane riferivano che alcune comunità erano rimaste isolate.",
+        "impactReason": "Le alluvioni hanno provocato vittime, perdita di abitazioni e interruzioni dei collegamenti in comunità vulnerabili di due paesi caraibici.",
+        "tags": [
+          "Haiti",
+          "alluvioni",
+          "Hispaniola"
+        ],
+        "body": [
+          "Le piogge che hanno colpito l'isola caraibica di Hispaniola a partire da sabato 24 ottobre 2026 hanno provocato esondazioni, frane e danni a case e strade. Il 27 ottobre la Direzione generale della Protezione civile di Haiti ha comunicato quattro morti e due persone disperse come bilancio provvisorio. Associated Press e Caribbean Media Corporation riportano separatamente questi dati, attribuendoli all'autorità di protezione civile.",
+          "Per Haiti la stessa agenzia conta 3.209 famiglie interessate in 21 comuni. Caribbean Media Corporation specifica 2.130 abitazioni allagate, 847 distrutte e altre 219 danneggiate in zone di Nippes, Grand'Anse, Sud e Ovest. I numeri descrivono categorie differenti: le famiglie non equivalgono alle abitazioni e un edificio allagato non è necessariamente classificato come distrutto.",
+          "Anche la Repubblica Dominicana, che condivide Hispaniola con Haiti, ha registrato effetti significativi delle piogge. Secondo Associated Press le autorità dominicane segnalavano almeno trenta comunità rimaste isolate e oltre cento case allagate. Le cifre dei due paesi sono prodotte da organismi diversi e non possono essere trasformate in un unico dato nazionale o in un totale indistinto di vittime.",
+          "Le strade interrotte, le comunicazioni difficili e le coltivazioni danneggiate possono ostacolare i soccorsi e la ripresa economica, specialmente nelle aree rurali. I bilanci comunicati nelle prime giornate riflettono le informazioni pervenute dalle amministrazioni locali e possono cambiare con il ripristino dei collegamenti. Non ci sono elementi per attribuire ogni singola frana o decesso a un unico meccanismo meteorologico senza indagini sul posto."
+        ],
+        "facts": [
+          "Il 27 ottobre la Protezione civile haitiana riferiva quattro morti, due dispersi e 3.209 famiglie colpite.",
+          "La Repubblica Dominicana segnalava almeno trenta comunità temporaneamente isolate."
+        ],
+        "perspectives": [
+          "La Protezione civile di Haiti presenta il bilancio come provvisorio a causa delle difficoltà di accesso.",
+          "Gli organismi di soccorso dominicani evidenziano il rischio di isolamento e le necessità logistiche."
+        ],
+        "unknowns": [
+          "L'entità complessiva delle perdite agricole e del numero finale di persone colpite non è ancora accertata.",
+          "Non tutte le località isolate erano state raggiunte dai soccorritori al momento dei primi resoconti."
+        ],
+        "questions": [
+          {
+            "question": "Perché le 3.209 famiglie colpite dalle alluvioni ad Haiti non equivalgono a 3.209 case distrutte?",
+            "answer": "Le famiglie sono nuclei di persone che hanno subito conseguenze; il conteggio delle case riguarda invece edifici e gradi di danno. La Protezione civile distingue 2.130 case allagate, 847 distrutte e 219 danneggiate, quindi le categorie non sono intercambiabili."
+          },
+          {
+            "question": "Quale effetto ha l'isolamento di almeno 30 comunità dominicane sui soccorsi?",
+            "answer": "Le frane e l'acqua che interrompono le strade possono rallentare l'arrivo di forniture, ambulanze e squadre di valutazione. Questo rende più difficile sia assistere le persone sia ottenere un bilancio tempestivo dei danni."
+          }
+        ]
+      },
+      "en": {
+        "title": "Floods hit Hispaniola, with four deaths reported in Haiti",
+        "dek": "Haiti's civil protection agency also lists two missing and 3,209 families affected; at least 30 Dominican communities were cut off.",
+        "summary": "Persistent rain since 24 October caused flooding and landslides in Haiti and the neighbouring Dominican Republic. On 27 October Haiti's civil protection authority provisionally reported four deaths, two missing people and 3,209 families affected. Dominican officials reported communities cut off by flooding and damaged roads.",
+        "impactReason": "Flooding has caused deaths, destroyed homes and cut transport links in vulnerable communities across two Caribbean countries.",
+        "tags": [
+          "Haiti",
+          "flooding",
+          "Hispaniola"
+        ],
+        "body": [
+          "Rainfall affecting the Caribbean island of Hispaniola since Saturday, 24 October 2026 caused overflowing rivers, landslides and damage to houses and roads. On 27 October Haiti's General Directorate of Civil Protection reported a preliminary toll of four deaths and two missing people. Associated Press and Caribbean Media Corporation separately described these figures, attributing the counts to the country's civil protection agency.",
+          "The Haitian agency said 3,209 families had been affected across 21 communes. Caribbean Media Corporation listed 2,130 homes flooded, 847 destroyed and a further 219 damaged in parts of Nippes, Grand'Anse, South and West departments. Those are different statistical categories: a family is not the same as a housing unit, and a flooded house has not necessarily been classified as destroyed.",
+          "The Dominican Republic, which shares Hispaniola with Haiti, also reported severe effects from the rainfall. Associated Press said Dominican emergency authorities counted at least thirty communities isolated and more than one hundred homes flooded. The two countries' figures come from separate agencies and should not be merged into an undifferentiated national total or interpreted as one common casualty count.",
+          "Blocked roads, disrupted communications and damaged farmland may slow relief work and future recovery, particularly in rural locations. Early damage and casualty figures reflect which communities authorities have been able to reach, so they can change as access improves. The reporting does not establish a single meteorological mechanism for every individual injury or landslide without further local investigation."
+        ],
+        "facts": [
+          "On 27 October Haiti's civil protection agency reported four deaths, two missing people and 3,209 affected families.",
+          "Dominican authorities reported at least thirty temporarily isolated communities."
+        ],
+        "perspectives": [
+          "Haiti's civil protection agency describes the figures as preliminary because access remains limited.",
+          "Dominican emergency authorities emphasize the logistical problems caused by isolated settlements."
+        ],
+        "unknowns": [
+          "The full agricultural loss and final number of affected residents have not been established.",
+          "Some communities cut off by rain had not yet been completely assessed at the time of the first reports."
+        ],
+        "questions": [
+          {
+            "question": "Why don't Haiti's 3,209 affected families mean that 3,209 homes were destroyed?",
+            "answer": "The family count measures households that experienced impacts, whereas the building counts classify physical damage. Haiti's civil protection agency separately listed 2,130 flooded homes, 847 destroyed and 219 damaged, so the measures cannot be substituted for one another."
+          },
+          {
+            "question": "How does the isolation of at least 30 Dominican communities affect relief operations?",
+            "answer": "Landslides and flooded roads can delay food supplies, ambulances and damage-assessment teams. That slows both the delivery of assistance and the production of reliable estimates of needs and losses."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "id": "eu-frontex-reform-proposal-oct27",
+      "rank": 4,
+      "category": "politics",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "EU proposes major Frontex expansion, curbs internal rights oversight",
+          "url": "https://www.reuters.com/world/eu-commission-proposes-expanding-powers-border-police-force-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "L'Ue propone la riforma di Frontex, 'braccio operativo per i rimpatri'",
+          "url": "https://www.ansa.it/sito/notizie/mondo/2026/10/27/lue-propone-la-riforma-di-frontex-braccio-operativo-per-i-rimpatri_3a0b862f-7205-4972-966b-434f07958bd9.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "European Commission",
+          "title": "Reinforcing Frontex for stronger protection of the EU's external borders",
+          "url": "https://commission.europa.eu/news-and-media/news/reinforcing-frontex-stronger-protection-eus-external-borders-2026-10-27_en",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "La Commissione Ue propone di rafforzare Frontex fino a 30mila agenti",
+        "dek": "Il piano del 27 ottobre amplia il ruolo nei rimpatri e introduce una riserva di 17mila unità; Parlamento e Consiglio devono ancora negoziarlo.",
+        "summary": "Il 27 ottobre 2026 la Commissione europea ha proposto nuove norme per Frontex, con un corpo permanente fino a 30mila agenti, una nuova riserva europea e maggiore capacità di coordinare i rimpatri. Il progetto include risposta rapida alle crisi e digitalizzazione delle procedure. È una proposta legislativa, non una modifica già in vigore.",
+        "impactReason": "La riforma ipotizzata interessa la gestione comune delle frontiere e dei rimpatri dell'Unione, con effetti potenziali su risorse, competenze e tutele.",
+        "tags": [
+          "Frontex",
+          "frontiere",
+          "rimpatri"
+        ],
+        "body": [
+          "La Commissione europea ha presentato il 27 ottobre 2026 un pacchetto di proposte che modifica i compiti dell'agenzia di frontiera Frontex. L'obiettivo dichiarato dall'esecutivo è migliorare il coordinamento tra gli Stati Schengen e la capacità operativa in situazioni di crisi. Reuters e ANSA hanno esaminato il disegno, mentre la comunicazione ufficiale della Commissione ne documenta le componenti; si tratta ancora di testo da negoziare.",
+          "Il piano punta a un corpo permanente che raggiunga gradualmente 30mila unità e prevede, al suo interno, una nuova riserva di 17mila agenti. Reuters specifica un orizzonte di attuazione fino al 2041 e segnala un progetto di bilancio di 11,8 miliardi di euro per il periodo 2028–2034. Questi numeri indicano obiettivi e stanziamenti proposti, non personale già assunto o spesa già effettuata.",
+          "La Commissione vorrebbe attribuire a Frontex funzioni più incisive nel coordinamento dei rimpatri, compreso il supporto a operazioni tra paesi terzi secondo gli accordi applicabili. Prevede inoltre una forza di reazione rapida, un centro per coordinare i rimpatri e uno per monitorare online i segnali di rischio. Un progetto parallelo intende digitalizzare le procedure di rimpatrio, riammissione e reintegrazione, incidendo sullo scambio di dati tra autorità.",
+          "Reuters riferisce anche critiche di difensori dei diritti alla possibile riduzione del controllo interno su alcune operazioni e alla responsabilità nei trasferimenti fuori dall'Unione. Le istituzioni europee dovranno valutare efficacia operativa, garanzie giuridiche, protezione dei dati e controllo democratico. L'eventuale entrata in vigore richiede l'accordo di Parlamento europeo e Consiglio: le dichiarazioni politiche del 27 ottobre non trasformano da sole la proposta in legge."
+        ],
+        "facts": [
+          "La Commissione ha presentato il 27 ottobre una proposta di riforma del mandato di Frontex.",
+          "Il piano prevede 30mila agenti nel corpo permanente, con una nuova riserva di 17mila persone."
+        ],
+        "perspectives": [
+          "La Commissione sostiene che una risposta coordinata migliorerebbe la gestione delle crisi alle frontiere.",
+          "Organizzazioni per i diritti e alcuni rappresentanti politici temono minori garanzie nelle operazioni fuori dal territorio dell'Ue."
+        ],
+        "unknowns": [
+          "Non sono definitivi il testo normativo, le risorse approvate e il calendario concreto delle assunzioni.",
+          "La ripartizione finale delle responsabilità di controllo e tutela dei diritti dipenderà dai negoziati."
+        ],
+        "questions": [
+          {
+            "question": "Che rapporto c'è tra i 30mila agenti Frontex e la nuova riserva di 17mila?",
+            "answer": "I 30mila rappresentano l'obiettivo complessivo per il corpo permanente proposto; la riserva europea di 17mila rientrerebbe nell'architettura rafforzata. Non si tratta di 47mila agenti già disponibili, ma di un piano di incremento graduale."
+          },
+          {
+            "question": "Perché l'ampliamento del ruolo di Frontex nei rimpatri richiede verifiche sulle tutele?",
+            "answer": "Operazioni coordinate fra Stati e anche fra paesi esterni all'Unione coinvolgono decisioni su asilo, rischio individuale e responsabilità per eventuali violazioni. La definizione dei poteri e dei meccanismi di controllo sarà decisiva per valutare le garanzie effettive."
+          }
+        ]
+      },
+      "en": {
+        "title": "European Commission proposes expanding Frontex to 30,000 personnel",
+        "dek": "The 27 October plan adds a reserve of 17,000 and broader return powers; Parliament and Council have yet to agree on the rules.",
+        "summary": "On 27 October 2026 the European Commission proposed major changes to the EU border agency Frontex, including a standing corps of up to 30,000 people, a new reserve and a stronger role coordinating returns. Rapid crisis response and digitalised return procedures are also part of the plan. These are legislative proposals, not measures already enacted.",
+        "impactReason": "The proposed reform could affect the EU-wide management of borders and returns, altering powers, resources and rights safeguards.",
+        "tags": [
+          "Frontex",
+          "borders",
+          "returns"
+        ],
+        "body": [
+          "On 27 October 2026 the European Commission proposed a package to expand the duties of the EU's border agency Frontex. The executive says the goal is to coordinate Schengen countries more effectively and improve operational capacity during emergencies. Reuters and ANSA reported on the initiative, while the Commission's original announcement sets out its components. The package is still awaiting negotiation and must not be described as law already in force.",
+          "The proposal envisages a standing corps gradually reaching 30,000 personnel and a new European reserve comprising 17,000 officers within the strengthened structure. Reuters identified a timeline stretching to 2041 and proposed funding of €11.8 billion for 2028–2034. These are planning targets and budget requests rather than police officers already hired or expenditure that has already taken place.",
+          "Brussels wants Frontex to take a greater part in organizing return operations, including support between non-EU countries where agreements and international rules permit. The draft also includes a quick-reaction force, a returns coordination centre and a new online monitoring facility. A parallel measure would digitalise return, readmission and reintegration procedures, potentially changing how states gather and exchange information.",
+          "Reuters reported concerns from rights advocates about reduced internal oversight in some operations and the accountability of actions outside EU territory. Lawmakers will need to assess border management, legal safeguards, privacy and democratic scrutiny together. The European Parliament and the Council must negotiate and approve the legislation; statements made by Commissioners on 27 October alone cannot give these changes legal effect."
+        ],
+        "facts": [
+          "The Commission presented a Frontex reform proposal on 27 October 2026.",
+          "The proposed standing corps would rise to 30,000 people, including a new reserve of 17,000."
+        ],
+        "perspectives": [
+          "The European Commission argues that stronger coordination would improve emergency responses at borders.",
+          "Rights advocates and some lawmakers warn that overseas operations could weaken accountability and legal safeguards."
+        ],
+        "unknowns": [
+          "The final text, approved resources and actual hiring timetable remain undecided.",
+          "Negotiations will determine the final allocation of oversight duties and fundamental-rights protection."
+        ],
+        "questions": [
+          {
+            "question": "How does Frontex's proposed 17,000-person reserve relate to the 30,000 headline target?",
+            "answer": "The 30,000 target covers the proposed overall standing corps, into which the 17,000-person reserve would fit. It does not mean 47,000 officers are already available; staffing would increase gradually if the measures pass."
+          },
+          {
+            "question": "Why do Frontex's proposed return powers raise questions about legal safeguards?",
+            "answer": "Coordinated removals across states, including potentially outside EU territory, engage asylum decisions, individual risks and responsibility for misconduct. The eventual division of powers and oversight mechanisms will determine how reliably those legal protections work."
+          }
+        ]
       }
     }
   ],
