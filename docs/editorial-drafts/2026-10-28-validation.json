@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "status": "draft structural review with issues",
+  "status": "Draft structural review PASSED for 6 working articles only; final publication gates pending",
   "scope": "Only six working drafts, NOT all 25 required articles",
   "articles": 6,
   "desks": {
@@ -30,12 +30,6 @@
     "ci": "NOT RUN for daily JSON edition",
     "liveDeployment": "NOT ATTEMPTED"
   },
-  "problems": [
-    "israel-exit-polls-no-majority-oct27 en paragraph depth",
-    "camera-parliamentary-email-attack-oct27 it paragraph depth",
-    "camera-parliamentary-email-attack-oct27 en paragraph depth",
-    "google-deepmind-genie4-research-preview en paragraph depth",
-    "valle-aosta-testolin-appeal-ruling it tags",
-    "valle-aosta-testolin-appeal-ruling en tags"
-  ]
+  "problems": [],
+  "auditNote": "All 6 working articles have 4 explanatory paragraphs per language (>=55 words each), 2 subject-specific Q&As per language, exactly 3 valid tags and credited local SVG illustrations. This bespoke audit does not replace repository test:content, external fact-checking or CI."
 }
