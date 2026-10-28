@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-28",
+  "status": "draft structural review with issues",
+  "scope": "Only six working drafts, NOT all 25 required articles",
+  "articles": 6,
+  "desks": {
+    "world": 1,
+    "italy": 2,
+    "technology": 1,
+    "science": 2
+  },
+  "locales": {
+    "it": {
+      "articles": 6,
+      "qa": 12,
+      "paragraphs": 24
+    },
+    "en": {
+      "articles": 6,
+      "qa": 12,
+      "paragraphs": 24
+    }
+  },
+  "independentSourceAudit": "Source outlets checked at draft level; comprehensive full-text independence and factual review for 25 complete articles NOT finished",
+  "imageRights": "Six original SVGs created by O; all marked illustration, not documentary photography",
+  "technicalGates": {
+    "repoTestContent": "NOT RUN — no valid eight-file edition",
+    "npmBuild": "NOT RUN",
+    "playwright": "NOT RUN",
+    "ci": "NOT RUN for daily JSON edition",
+    "liveDeployment": "NOT ATTEMPTED"
+  },
+  "problems": [
+    "israel-exit-polls-no-majority-oct27 en paragraph depth",
+    "camera-parliamentary-email-attack-oct27 it paragraph depth",
+    "camera-parliamentary-email-attack-oct27 en paragraph depth",
+    "google-deepmind-genie4-research-preview en paragraph depth",
+    "valle-aosta-testolin-appeal-ruling it tags",
+    "valle-aosta-testolin-appeal-ruling en tags"
+  ]
+}
