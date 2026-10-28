@@ -2234,6 +2234,13 @@
       "impact": 2.5,
       "sources": [
         {
+          "outlet": "Popular Science",
+          "title": "This lava planet shouldn’t have an atmosphere—but it does",
+          "url": "https://www.popsci.com/science/lava-planet-atmosphere/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
           "outlet": "Martin Cid Magazine",
           "title": "A lava planet that should be bare rock reflects 74% of its starlight, Webb finds",
           "url": "https://www.martincid.com/science/toi-561-b-lava-planet-reflective-atmosphere-jwst/",
@@ -2241,17 +2248,10 @@
           "role": "reporting"
         },
         {
-          "outlet": "Orbital Wire",
-          "title": "JWST finds reflective silicate clouds on lava planet TOI-561 b",
-          "url": "https://orbital-wire.com/astronomy-astrophysics/reflective-silicate-clouds-lava-planet-toi-561-b/",
-          "publishedAt": "2026-10-26",
-          "role": "reporting"
-        },
-        {
           "outlet": "The Astronomical Journal",
-          "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curve",
-          "url": "https://arxiv.org/abs/2608.21519",
-          "publishedAt": "2026-08-21",
+          "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curves",
+          "url": "https://doi.org/10.3847/1538-3881/ae9763",
+          "publishedAt": "2026-10-26",
           "role": "official"
         },
         {
@@ -2731,15 +2731,15 @@
       "sources": [
         {
           "outlet": "Reuters",
-          "title": "US and dozens of countries warn of famine risk in Sudan, call for aid",
+          "title": "US, dozens of countries warn of Sudan famine risk, urge aid",
           "url": "https://www.reuters.com/world/asia-pacific/us-dozens-countries-warn-sudan-famine-risk-urge-aid-2026-10-27/",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         },
         {
-          "outlet": "Al Jazeera",
-          "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
-          "url": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid",
+          "outlet": "Agence France-Presse",
+          "title": "US, UK among 31 countries warning of 'alarming' Sudan famine",
+          "url": "https://citizen.digital/article/us-uk-among-31-countries-warning-of-alarming-sudan-famine-n392795",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         },
@@ -2762,7 +2762,7 @@
           "insicurezza-alimentare"
         ],
         "body": [
-          "Un gruppo di oltre trenta governi, insieme alla Commissione europea, ha diffuso un appello sul rischio di carestia in Sudan pubblicato dalle autorità diplomatiche il 23 ottobre 2026. Reuters e Al Jazeera ne hanno riferito il 27 ottobre, richiamando il deterioramento delle condizioni umanitarie. La data del comunicato è distinta da quella dei resoconti giornalistici: non si tratta di una nuova misurazione statistica effettuata il 27.",
+          "Un gruppo di oltre trenta governi, insieme alla Commissione europea, ha diffuso un appello sul rischio di carestia in Sudan pubblicato dalle autorità diplomatiche il 23 ottobre 2026. Reuters e AFP ne hanno riferito il 27 ottobre, richiamando il deterioramento delle condizioni umanitarie. La data del comunicato è distinta da quella dei resoconti giornalistici: non si tratta di una nuova misurazione statistica effettuata il 27.",
           "Il testo indica circa 19,5 milioni di persone, il 41% della popolazione stimata, in condizioni di alta insicurezza alimentare acuta, comprese cinque milioni a livelli di emergenza. Riporta inoltre una proiezione secondo cui il numero di bambini con malnutrizione acuta grave potrebbe superare 825mila in assenza di interventi. Sono stime di valutazioni umanitarie e scenari futuri, non un conteggio di decessi avvenuti.",
           "La guerra ha danneggiato reti di distribuzione, produzione agricola, servizi sanitari e capacità di trasportare beni di prima necessità. Il documento denuncia ostacoli ai convogli e chiede alle parti di consentire percorsi terrestri e transfrontalieri, inclusi collegamenti aerei verso il Darfur. La presenza di cibo in un deposito o di fondi promessi non garantisce che gli aiuti possano raggiungere famiglie isolate.",
           "I firmatari invitano inoltre a proteggere operatori umanitari e infrastrutture civili e a finanziare rapidamente la risposta. Il sistema IPC ha segnalato rischio di carestia nei mesi successivi, non una diagnosi uniforme per ogni distretto del Sudan. Senza dati locali aggiornati e accessi stabili non è possibile attribuire un'identica classificazione a tutto il territorio né prevedere un numero preciso di vittime."
@@ -2809,7 +2809,7 @@
           "food-insecurity"
         ],
         "body": [
-          "More than thirty governments, alongside a representative of the European Commission, issued a joint warning about famine risks in Sudan that diplomatic authorities published on 23 October 2026. Reuters and Al Jazeera covered the appeal on 27 October, highlighting worsening humanitarian conditions. The original statement's date is not the same as the date of subsequent reporting, and its statistics were not newly collected on the 27th.",
+          "More than thirty governments, alongside a representative of the European Commission, issued a joint warning about famine risks in Sudan that diplomatic authorities published on 23 October 2026. Reuters and AFP covered the appeal on 27 October, highlighting worsening humanitarian conditions. The original statement's date is not the same as the date of subsequent reporting, and its statistics were not newly collected on the 27th.",
           "The statement estimates that 19.5 million people, about 41% of the population, face high levels of acute food insecurity, including five million at emergency levels. It also projects that the number of children with severe acute malnutrition could exceed 825,000 without urgent action. These are humanitarian estimates and future scenarios, not a count of deaths or conditions already measured in every locality.",
           "Warfare has damaged distribution networks, agriculture, health services and the ability to move essential supplies. The signatories describe impediments to relief convoys and request safe routes across front lines and borders, including air access to Darfur. Food stored in warehouses or money pledged by foreign governments cannot prevent hunger unless assistance reaches families in isolated and conflict-affected areas.",
           "The statement also calls for protection of aid workers and civilian infrastructure and for immediate funding. The IPC classification framework warns about famine risks in the coming months rather than declaring every Sudanese district in the same current category. Without updated local data and sustained humanitarian access, a uniform nationwide classification or precise future death toll would be unjustified."
