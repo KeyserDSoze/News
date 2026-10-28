@@ -3,8 +3,8 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "Nine bilingual substantial working drafts, all still pending publication gates.",
-    "Six original cover assets; 16 more articles and 19 cover assets still missing. 0/8 final edition JSONs.",
+    "Twelve bilingual substantial working drafts; full publication gates not met.",
+    "Six original assets, thirteen full articles and nineteen illustrations remaining, plus final eight JSONs.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -1051,6 +1051,330 @@
           {
             "question": "Why do Frontex's proposed return powers raise questions about legal safeguards?",
             "answer": "Coordinated removals across states, including potentially outside EU territory, engage asylum decisions, individual risks and responsibility for misconduct. The eventual division of powers and oversight mechanisms will determine how reliably those legal protections work."
+          }
+        ]
+      }
+    },
+    {
+      "section": "italy",
+      "id": "italy-chamber-doctors-reinstatement-vote",
+      "rank": 3,
+      "category": "politics",
+      "impact": 2,
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Ok della Camera al reintegro dei medici no vax, determinante il sì di Fnv",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/ok-della-camera-al-reintegro-dei-medici-no-vax-determinante-il-si-di-fnv_412f6177-a0ed-40a9-87a5-10f5a83f1b92.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Reintegro dei medici no vax, sì alla Camera: è scontro",
+          "url": "https://roma.corriere.it/notizie/politica/26_ottobre_27/reintegro-medici-no-vax-si-camera-scontro-c47e6a4f-e01d-4fda-b317-fe49591c7xlk.shtml?intcmp=AREA_H_AMP_nd_210926_corriere_ss_COR_AMP",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Ok dalla Camera al reintegro dei medici no vax con solo 13 voti di scarto: è polemica",
+          "url": "https://www.repubblica.it/politica/2026/10/27/news/medici_no_vax_reintegro_ddl_camera_polemica_opposizioni-425679736/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Camera, passa per 13 voti l'articolo sul reintegro dei medici radiati per il vaccino",
+        "dek": "L'Aula approva l'articolo 8 del disegno sulle professioni sanitarie con 126 sì e 113 no; non è ancora una legge in vigore.",
+        "summary": "Il 27 ottobre la Camera ha approvato con 126 favorevoli e 113 contrari l'articolo 8 di un disegno di legge sulle professioni sanitarie che consentirebbe a medici radiati durante l'emergenza Covid per il rifiuto della vaccinazione di chiedere il reintegro. La disposizione resta nel percorso legislativo e ha provocato una frattura politica nella maggioranza.",
+        "impactReason": "Il voto modifica il percorso di un provvedimento che interessa la professione medica e la deontologia, ma la norma non è ancora applicabile come legge definitiva.",
+        "tags": [
+          "Camera",
+          "sanita",
+          "reintegro"
+        ],
+        "body": [
+          "L'Aula della Camera ha approvato il 27 ottobre 2026 l'articolo 8 del disegno di legge sulle professioni sanitarie, che introduce una procedura per richiedere il reintegro nell'albo dei medici radiati in relazione al rifiuto delle vaccinazioni durante l'emergenza Covid. Il risultato annunciato è stato di 126 voti favorevoli e 113 contrari, una differenza di appena tredici voti. ANSA, Corriere della Sera e la Repubblica concordano sul conteggio rilevante.",
+          "La votazione riguarda un articolo di un disegno di legge e non costituisce da sola l'entrata in vigore di una nuova disciplina. Il testo complessivo deve completare l'iter parlamentare prima di poter produrre effetti vincolanti. Le modalità concrete di richiesta e valutazione del reintegro dipenderanno dunque dalla versione finale della legge e dalle procedure applicative, non dalle sole dichiarazioni politiche dopo il voto.",
+          "Secondo le ricostruzioni parlamentari, alcuni deputati di Forza Italia non hanno partecipato alla votazione per ragioni presentate come libertà di coscienza. Il gruppo Futuro Nazionale ha rivendicato che gli otto voti dei suoi deputati sono stati determinanti per l'esito. La maggioranza aritmetica non dimostra però quale sarebbe stato il comportamento degli altri deputati in uno scenario controfattuale diverso.",
+          "Le opposizioni hanno criticato il provvedimento sostenendo che indebolisca il messaggio di responsabilità sanitaria lasciato dalla pandemia. Deputati della maggioranza hanno risposto difendendo l'opportunità di prevedere una via per il reinserimento professionale. Si tratta di posizioni politiche e di valutazioni deontologiche distinte dai dati sul voto. Un reintegro individuale non sarebbe automatico soltanto perché un articolo è stato approvato in Aula."
+        ],
+        "facts": [
+          "Il 27 ottobre la Camera ha approvato l'articolo 8 del ddl professioni sanitarie con 126 sì e 113 no.",
+          "Il testo in discussione riguarda la possibilità di chiedere il reintegro per medici radiati durante il periodo Covid."
+        ],
+        "perspectives": [
+          "Le opposizioni contestano l'effetto simbolico e professionale del reintegro.",
+          "Futuro Nazionale ha rivendicato il peso dei propri otto voti, mentre parte di Forza Italia si è astenuta dal partecipare."
+        ],
+        "unknowns": [
+          "Il testo definitivo e l'eventuale data di entrata in vigore dipendono dal completamento dell'iter legislativo.",
+          "Il numero di professionisti che presenterà domanda e gli esiti delle singole pratiche non è noto."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa è stato approvato davvero il 27 ottobre alla Camera per i medici radiati?",
+            "answer": "L'Aula ha votato l'articolo 8 di un disegno di legge sulle professioni sanitarie, con 126 sì e 113 no. La disposizione prevede una possibilità di domanda di reintegro, ma il voto di un singolo articolo non conclude l'iter della legge."
+          },
+          {
+            "question": "Perché gli otto voti di Futuro Nazionale sono entrati nel dibattito sulla maggioranza?",
+            "answer": "Il margine reale è stato di tredici voti e i deputati del gruppo hanno sostenuto che il loro contributo abbia permesso al testo di passare. È una rivendicazione del peso politico nel voto, non una prova su come tutti gli altri avrebbero votato in uno scenario alternativo."
+          }
+        ]
+      },
+      "en": {
+        "title": "Italy's lower house narrowly backs clause on reinstating doctors struck off over Covid vaccination",
+        "dek": "Lawmakers approve Article 8 by 126 votes to 113; the proposal is not yet law.",
+        "summary": "On 27 October Italy's Chamber of Deputies approved Article 8 of a bill on healthcare professions by 126 votes to 113. It would enable doctors removed from professional registers over Covid-era vaccination refusal to apply for reinstatement. The measure still faces legislative steps and exposed political divisions within the governing camp.",
+        "impactReason": "The vote advances a proposal affecting medical professional standards, but the measure has not yet become an operative law.",
+        "tags": [
+          "Chamber",
+          "healthcare",
+          "reinstatement"
+        ],
+        "body": [
+          "On 27 October 2026 Italy's Chamber of Deputies approved Article 8 of a bill on healthcare professions, introducing a route for doctors struck off professional registers over Covid-era vaccine refusal to seek reinstatement. The recorded result was 126 votes in favour and 113 against, a majority of just thirteen. ANSA, Corriere della Sera and la Repubblica reported the parliamentary count and the argument surrounding it.",
+          "The vote concerned a clause in a bill and does not by itself put a new legal framework into force. The legislation must complete the required parliamentary process before its provisions can have binding effect. The exact procedures for applying and assessing requests will therefore depend on the final legislation and its implementation, not simply on comments given in the chamber after the vote.",
+          "According to parliamentary reporting, some Forza Italia lawmakers did not take part, describing their position in terms of freedom of conscience. The Futuro Nazionale group claimed its eight supportive votes were decisive to the result. The closeness of the recorded vote shows the political importance of small groups, but arithmetic alone cannot establish how other members would have behaved under a different voting scenario.",
+          "Opposition parties argued that the proposal undermines public health responsibility and the lessons of the pandemic. Government-side lawmakers defended the possibility of professional reintegration. Those are competing political and ethical interpretations rather than disputed vote totals. Approval of a clause does not mean that an individual doctor is already reinstated, nor does it dispense with whatever review the final legal procedure may require."
+        ],
+        "facts": [
+          "On 27 October the chamber approved Article 8 of the healthcare professions bill by 126 to 113 votes.",
+          "The clause would provide a route to request reinstatement for doctors struck off during the Covid period."
+        ],
+        "perspectives": [
+          "Opposition lawmakers warned about the professional and symbolic implications of reinstatement.",
+          "Futuro Nazionale claimed that its eight votes mattered, while some Forza Italia members declined to participate."
+        ],
+        "unknowns": [
+          "The final wording and date of legal effect depend on the remainder of the legislative process.",
+          "The number of future applicants and outcomes of individual cases is not established."
+        ],
+        "questions": [
+          {
+            "question": "What exactly did Italy's Chamber approve for doctors removed from the register on 27 October?",
+            "answer": "The chamber approved Article 8 of a bill on healthcare professions, with 126 votes for and 113 against. It proposes a route to apply for reinstatement, but the passage of one clause is not the completion of legislation."
+          },
+          {
+            "question": "Why did Futuro Nazionale's eight votes become a focus of the debate?",
+            "answer": "The actual margin was thirteen votes, and the group portrayed its votes as a decisive contribution. The close outcome reveals political leverage, although it cannot prove how everyone else would have voted in a hypothetical alternative."
+          }
+        ]
+      }
+    },
+    {
+      "section": "italy",
+      "id": "intesa-sanpaolo-mps-ecb-approval-oct27",
+      "rank": 4,
+      "category": "economy",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Italy's Intesa gets ECB authorisation to take over Monte dei Paschi",
+          "url": "https://www.reuters.com/business/finance/italys-intesa-gets-ecb-authorisation-take-over-monte-dei-paschi-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Dalla Bce via libera a Intesa Sanpaolo all'acquisizione di Mps",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/dalla-bce-via-libera-a-intesa-sanpaolo-allacquisizione-di-mps_aeb6b178-cb0b-41a2-beef-12578feb5794.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Intesa Sanpaolo",
+          "title": "Autorizzazione preventiva BCE all'acquisizione del controllo di MPS",
+          "url": "https://group.intesasanpaolo.com/it/investor-relations/comunicati-stampa-price-sensitive/2026/10/20261027-bce-it",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Intesa-Mps, la Bce autorizza il controllo: offerta e antitrust restano passaggi separati",
+        "dek": "Il via libera del 27 ottobre riguarda i requisiti prudenziali; per completare l'operazione servono altri atti e la risposta degli azionisti.",
+        "summary": "Il 27 ottobre 2026 Intesa Sanpaolo ha annunciato l'autorizzazione preventiva della Banca centrale europea ad acquisire il controllo di Monte dei Paschi di Siena attraverso un'offerta pubblica di acquisto e scambio. Il piano da circa 32 miliardi di euro non è ancora concluso: restano il prospetto Consob, la concorrenza e le adesioni dei soci.",
+        "impactReason": "Una possibile concentrazione tra grandi banche italiane tocca clienti, concorrenza e mercato assicurativo; il nuovo permesso prudenziale non perfeziona la fusione.",
+        "tags": [
+          "Intesa",
+          "Mps",
+          "Bce"
+        ],
+        "body": [
+          "Intesa Sanpaolo ha comunicato il 27 ottobre 2026 di avere ricevuto dalla Banca centrale europea l'autorizzazione preventiva all'acquisizione del controllo di Banca Monte dei Paschi di Siena. Il via libera rientra nell'offerta pubblica di acquisto e scambio annunciata a giugno, valutata circa 32 miliardi di euro secondo Reuters. ANSA ha confermato l'annuncio, che si trova anche nella comunicazione ufficiale dell'istituto offerente.",
+          "Il provvedimento della Bce riguarda la capacità dell'acquirente di detenere partecipazioni rilevanti nel sistema bancario. Include, per effetto della struttura del gruppo Mps, il controllo indiretto di Mediobanca e altre società finanziarie. Non equivale al via libera di tutte le autorità: Consob deve approvare la documentazione dell'offerta, mentre l'Antitrust deve valutare gli effetti della concentrazione sulla concorrenza.",
+          "Reuters riferisce che la decisione Consob sul documento d'offerta è attesa a inizio novembre e quella dell'autorità garante della concorrenza nella seconda metà del mese. Intesa ha previsto la cessione di parte delle filiali Mps a Unipol, che intende integrarle con Bper, per affrontare possibili obiezioni sulla rete bancaria. La dimensione finale delle cessioni potrebbe cambiare in base alle condizioni dell'istruttoria.",
+          "Esiste anche un tema assicurativo: attraverso Mediobanca, Intesa arriverebbe a possedere indirettamente una quota del 13,4% di Generali. L'autorità della concorrenza valuta se siano necessarie garanzie affinché tale partecipazione resti finanziaria e non si traduca in controllo operativo. L'amministratore Carlo Messina sostiene di voler tutelare l'indipendenza di Generali; è un impegno dichiarato, non una verifica già completata dagli organi di controllo."
+        ],
+        "facts": [
+          "Il 27 ottobre la BCE ha dato a Intesa l'autorizzazione preventiva ad acquisire una partecipazione di controllo in MPS.",
+          "L'operazione proposta è un'OPAS dal valore riportato da Reuters di circa 32 miliardi di euro."
+        ],
+        "perspectives": [
+          "Intesa dichiara che manterrebbe l'indipendenza operativa di Generali.",
+          "Le autorità di concorrenza esaminano filiali e intrecci assicurativi, con possibili rimedi."
+        ],
+        "unknowns": [
+          "Numero di adesioni degli azionisti e completamento dell'offerta non sono ancora determinati.",
+          "Le condizioni definitive dell'Antitrust e l'eventuale numero di filiali da cedere non sono decisi."
+        ],
+        "questions": [
+          {
+            "question": "Perché il via libera Bce non significa che Intesa abbia già acquisito Mps?",
+            "answer": "La BCE valuta l'acquisizione del controllo dal punto di vista prudenziale. L'offerta ai soci deve ancora passare dalla documentazione Consob, dal processo di adesione e dall'esame della concorrenza: l'autorizzazione preventiva copre solo una parte del percorso."
+          },
+          {
+            "question": "Perché la partecipazione indiretta del 13,4% in Generali è rilevante per l'Antitrust?",
+            "answer": "L'acquisizione di Mps darebbe a Intesa, tramite Mediobanca, una quota significativa in Generali, che compete con attività assicurative del gruppo. L'autorità deve valutare se la posizione resti un investimento finanziario o crei possibilità di influenzare la concorrenza."
+          }
+        ]
+      },
+      "en": {
+        "title": "ECB clears Intesa to control Monte dei Paschi, but takeover still faces other hurdles",
+        "dek": "The 27 October permission addresses prudential rules; offer documentation, competition review and shareholder decisions remain.",
+        "summary": "On 27 October 2026 Intesa Sanpaolo announced European Central Bank approval to acquire control of Monte dei Paschi di Siena through a cash-and-share tender offer. The transaction, valued around €32 billion, is not completed: market regulator Consob, competition authorities and shareholders still have roles to play.",
+        "impactReason": "A potential merger of major Italian banks matters for customers, competition and insurance markets, but prudential approval alone does not complete the transaction.",
+        "tags": [
+          "Intesa",
+          "Mps",
+          "ECB"
+        ],
+        "body": [
+          "Intesa Sanpaolo announced on 27 October 2026 that the European Central Bank had granted preliminary approval for its proposed acquisition of control over Monte dei Paschi di Siena. The permission covers a cash-and-share public takeover offer first announced in June and valued at approximately €32 billion by Reuters. ANSA independently reported the development and the bank published the formal regulatory disclosure for investors.",
+          "The ECB decision addresses whether an acquiring bank may hold significant interests in regulated financial institutions. Because of MPS's existing structure, the approval also covers prospective indirect control over Mediobanca and other financial entities. It is not equivalent to permission from every relevant authority: Consob still reviews the offering documents, and Italy's competition watchdog examines the transaction's market consequences.",
+          "Reuters said Consob's response to the offer document was expected in early November and a competition decision later that month. Intesa has agreed in principle to sell part of the MPS branch network to insurer Unipol, with branches to be combined with those of BPER, to tackle potential retail banking concerns. The precise number of branches ultimately sold may change during regulatory review.",
+          "The insurance market adds another complication. MPS controls Mediobanca, which holds shares in insurer Generali; the combination would leave Intesa indirectly owning 13.4% of Generali, according to Reuters. Competition officials may require safeguards ensuring this remains a financial interest rather than control of a competitor. Intesa's CEO Carlo Messina says the bank wants Generali to stay independent, but that commitment does not replace regulatory assessment."
+        ],
+        "facts": [
+          "On 27 October the ECB granted Intesa preliminary permission to acquire a controlling interest in MPS.",
+          "Reuters valued the proposed cash-and-share offer at about €32 billion."
+        ],
+        "perspectives": [
+          "Intesa says it intends to respect Generali's independence.",
+          "Competition authorities are reviewing potential banking and insurance remedies."
+        ],
+        "unknowns": [
+          "Shareholder acceptances and final completion of the offer remain to be determined.",
+          "The ultimate competition conditions and number of branches to be divested have not been set."
+        ],
+        "questions": [
+          {
+            "question": "Why doesn't ECB approval mean that Intesa already owns Monte dei Paschi?",
+            "answer": "The ECB assesses prudential permission to acquire control. The shareholder offer must still go through Consob's documentation review, acceptance by investors and competition scrutiny. Preliminary ECB clearance completes only one regulatory stage."
+          },
+          {
+            "question": "Why does the indirect 13.4% Generali stake matter to Italy's competition watchdog?",
+            "answer": "Acquiring MPS would expose Intesa, through Mediobanca, to a significant holding in Generali, which competes in insurance businesses. Regulators must judge whether the stake stays a passive financial asset or creates opportunities to influence competition."
+          }
+        ]
+      }
+    },
+    {
+      "section": "italy",
+      "id": "istat-bes-2026-regional-wellbeing-gap",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Istat, migliora il benessere in Italia ma 5,4 milioni di persone restano in povertà",
+          "url": "https://www.corriere.it/economia/finanza/26_ottobre_26/istat-migliora-il-benessere-in-italia-ma-5-4-milioni-di-persone-restano-in-poverta-il-divario-con-l-europa-e-il-nord-sud-42ab6c72-dc00-4b42-a73d-84bcf1e30xlk.shtml",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Istat, migliorano gli indicatori benessere in Italia, ma il rischio povertà è sopra la media Ue",
+          "url": "https://www.rainews.it/articoli/2026/10/istat-migliorano-gli-indicatori-benessere-in-italia-ma-il-rischio-poverta-e-sopra-la-media-ue--2c73df52-e89a-40c4-afef-389018677373.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ISTAT",
+          "title": "Nota stampa Rapporto sul Benessere equo e sostenibile 2026",
+          "url": "https://www.istat.it/comunicato-stampa/nota-stampa-rapporto-bes-edizione-2026/",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Bes Istat, 54 indicatori migliorano ma restano divari economici e territoriali",
+        "dek": "Pubblicato il 26 ottobre, il rapporto valuta 148 misure in 12 ambiti; 132 sono confrontabili con l'anno precedente.",
+        "summary": "Nel rapporto Bes 2026 pubblicato da Istat il 26 ottobre, 54 indicatori su 132 confrontabili migliorano, 55 restano stabili e 23 peggiorano. Il quadro aggregato comprende 148 misure su salute, lavoro, reddito, istruzione e servizi, ma la povertà assoluta interessa ancora oltre 5,4 milioni di persone e persistono ampie differenze fra Nord e Sud.",
+        "impactReason": "I dati descrivono in modo multidimensionale condizioni di vita e disuguaglianze nel Paese e possono guidare politiche su lavoro, scuola e servizi.",
+        "tags": [
+          "Istat",
+          "benessere",
+          "poverta"
+        ],
+        "body": [
+          "L'Istat ha pubblicato lunedì 26 ottobre 2026 la tredicesima edizione del Rapporto sul Benessere equo e sostenibile, noto come Bes. Il documento riunisce 148 indicatori distribuiti in dodici ambiti, dalla salute alla qualità dei servizi, per misurare aspetti della vita che non si esauriscono nel prodotto interno lordo. Corriere della Sera e RaiNews hanno approfondito i risultati e il divario territoriale illustrato dall'ente statistico.",
+          "Solo 132 delle 148 misure consentono il confronto con l'anno precedente: tra queste, 54 migliorano, 55 non presentano cambiamenti sostanziali e 23 peggiorano. Le tre quantità sommano esattamente a 132 e non significano che tutto il Paese sia migliorato in misura uniforme. Alcune serie riguardano il 2025, altre periodi differenti in base alla disponibilità dei dati; il 26 ottobre è la data di pubblicazione del rapporto, non l'anno di tutti i fenomeni osservati.",
+          "Il dato sulle persone in povertà assoluta supera 5,4 milioni e convive con avanzamenti in redditi, occupazione e speranza di vita. Il rischio di povertà, che utilizza una soglia relativa di reddito, è una misura differente e rimane superiore alla media dell'Unione europea. Secondo il rapporto, il miglioramento nazionale nasconde differenze consistenti anche per titolo di studio, età e condizione lavorativa.",
+          "Il Bes documenta che il Mezzogiorno presenta livelli inferiori alla media italiana nella maggior parte dei domini, mentre quasi tutte le regioni del Centro e del Nord superano la media in almeno metà degli indicatori disponibili. Questi confronti territoriali non spiegano da soli le cause, che possono comprendere occupazione, infrastrutture e accesso ai servizi. Istat fornisce una fotografia comparabile dei risultati, non una graduatoria semplice di merito politico delle amministrazioni."
+        ],
+        "facts": [
+          "Il rapporto Bes è uscito il 26 ottobre 2026 e include 148 indicatori in 12 domini.",
+          "Fra 132 indicatori confrontabili: 54 migliorano, 55 sono stabili e 23 peggiorano."
+        ],
+        "perspectives": [
+          "Istat evidenzia i progressi complessivi, ma anche disuguaglianze territoriali persistenti.",
+          "Le analisi di Corriere e RaiNews richiamano il rischio di povertà e il divario con la media Ue."
+        ],
+        "unknowns": [
+          "Il rapporto non permette di attribuire causalmente i cambiamenti a una singola politica.",
+          "Gli indicatori con periodi di riferimento diversi non consentono una lettura come unico bilancio del 2026."
+        ],
+        "questions": [
+          {
+            "question": "Perché il Bes 2026 conta 148 indicatori ma ne confronta soltanto 132 con il 2025?",
+            "answer": "Il rapporto comprende 148 misure in dodici domini, ma soltanto 132 dispongono di dati comparabili rispetto alla rilevazione precedente. Le categorie di 54 in miglioramento, 55 stabili e 23 in peggioramento si riferiscono esclusivamente a queste 132 serie."
+          },
+          {
+            "question": "Come possono migliorare molti indicatori Bes mentre oltre 5,4 milioni di persone restano in povertà assoluta?",
+            "answer": "Gli indicatori misurano aspetti diversi e gruppi diversi della popolazione: progressi in salute, occupazione o reddito medio non eliminano automaticamente le privazioni più gravi. Il rapporto mostra inoltre che le medie nazionali nascondono ampi divari geografici e sociali."
+          }
+        ]
+      },
+      "en": {
+        "title": "Italy's well-being report finds 54 indicators improving, but regional gaps persist",
+        "dek": "Published on 26 October, the ISTAT report covers 148 measures across 12 domains; 132 are comparable with the previous year.",
+        "summary": "In ISTAT's 2026 equitable and sustainable well-being report, published on 26 October, 54 of 132 comparable indicators improved, 55 were stable and 23 worsened. The full framework uses 148 indicators covering health, work, income, education and services, while more than 5.4 million people still face absolute poverty and major north-south differences persist.",
+        "impactReason": "The figures offer a broad view of living conditions and inequality in Italy and inform public policy on employment, education and services.",
+        "tags": [
+          "ISTAT",
+          "wellbeing",
+          "poverty"
+        ],
+        "body": [
+          "On Monday, 26 October 2026, Italy's national statistical office ISTAT published the thirteenth edition of its Equitable and Sustainable Well-being report, known as BES. The survey brings together 148 indicators across twelve areas, from health to service quality, to measure aspects of life beyond gross domestic product. Corriere della Sera and RaiNews reported the main findings and the geographic contrasts identified by the statistical office.",
+          "Only 132 of the 148 indicators can be compared with the previous year: 54 improved, 55 were essentially unchanged and 23 deteriorated. The counts add to 132 and do not mean that life improved uniformly for everyone. Some series describe 2025 and others refer to different years according to data availability; 26 October was the publication date, not the reference year of every statistic in the report.",
+          "More than 5.4 million people were in absolute poverty despite improvements in some measures of income, employment and life expectancy. The at-risk-of-poverty indicator uses a different, relative income threshold and remains higher than the European Union average. The BES report also shows that national progress can coexist with persistent differences by education, age and employment situation, complicating one-dimensional interpretations of well-being.",
+          "The report finds that most southern regions score below the Italian average in a majority of areas, whereas almost all regions in the centre and north exceed it in at least half of the available measures. Such comparisons do not by themselves establish causes, which may involve jobs, infrastructure and access to services. ISTAT is supplying comparable outcomes, not a simple political league table of regional administrations."
+        ],
+        "facts": [
+          "The BES report was published on 26 October 2026 with 148 indicators across 12 domains.",
+          "Among 132 indicators allowing year-on-year comparison, 54 improved, 55 were stable and 23 deteriorated."
+        ],
+        "perspectives": [
+          "ISTAT emphasizes overall progress alongside continuing territorial inequality.",
+          "Corriere and RaiNews highlight poverty risk and the gap with European Union averages."
+        ],
+        "unknowns": [
+          "The report alone cannot attribute changes causally to a particular government measure.",
+          "Indicators with differing reference periods cannot be treated as a single uniform 2026 outcome."
+        ],
+        "questions": [
+          {
+            "question": "Why does the 2026 BES report cover 148 indicators but compare only 132 with the previous year?",
+            "answer": "The full framework has 148 measures in twelve domains, but only 132 have comparable readings from the preceding period. The counts of 54 improving, 55 stable and 23 worsening apply solely to those 132 measures."
+          },
+          {
+            "question": "How can many BES measures improve while more than 5.4 million Italians remain in absolute poverty?",
+            "answer": "The indicators cover different subjects and population groups: advances in health, employment or average income do not automatically remove severe material deprivation. National averages also conceal large geographic and social disparities that the report measures separately."
           }
         ]
       }
