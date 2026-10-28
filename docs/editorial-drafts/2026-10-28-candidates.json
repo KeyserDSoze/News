@@ -3,8 +3,8 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "Sixteen substantial bilingual working drafts, not final edition.",
-    "6 original illustrations; 9 further articles and 19 illustrations required; eight final JSONs absent.",
+    "Nineteen bilingual working articles, NOT final edition.",
+    "Six original illustrations saved; six World stories and nineteen more illustrations still missing; 0/8 final JSONs.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -1807,6 +1807,344 @@
           {
             "question": "Why does on-device processing through WebAI still require website permissions?",
             "answer": "Local processing avoids some data transfers, but does not ensure that every site or extension handles information responsibly. Permissions limit which pages can call the model and help prevent unnecessary access to the user's information."
+          }
+        ]
+      }
+    },
+    {
+      "section": "science",
+      "rank": 3,
+      "id": "lumina-early-universe-frontier-simulation",
+      "category": "technology",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Pronta la più grande simulazione del baby universo",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/26/pronta-la-piu-grande-simulazione-del-baby-universo-video_c4b3b6ba-97d1-4a9b-a31a-913ad31a75ec.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UOL Tilt",
+          "title": "Simulação com supercomputador recria 2 bilhões de anos do Universo jovem",
+          "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/10/27/supercomputador-simula-os-primeiros-2-bilhoes-de-anos-do-universo-jovem.ghtm",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Monthly Notices of the Royal Astronomical Society",
+          "title": "Introducing the lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization",
+          "url": "https://doi.org/10.1093/mnras/stag1469",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        },
+        {
+          "outlet": "MIT News",
+          "title": "Watch the universe emerge from the dark ages, with Lumina",
+          "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Lumina ricostruisce al supercomputer i primi due miliardi di anni del cosmo",
+        "dek": "Il modello pubblicato il 26 ottobre segue gas, galassie e radiazione in 500 megaparsec: è una simulazione, non una fotografia del passato.",
+        "summary": "Un gruppo Harvard-Smithsonian e MIT ha presentato Lumina, simulazione cosmologica descritta su Monthly Notices of the Royal Astronomical Society il 26 ottobre. Utilizzando fino a circa 15mila GPU del supercomputer Frontier, il modello ricostruisce parte dei primi due miliardi di anni dell'universo e due processi di reionizzazione, fornendo ipotesi da confrontare con i telescopi.",
+        "impactReason": "Una simulazione che integra per la prima volta su grande scala due fasi di reionizzazione è uno strumento importante per la cosmologia, ma resta un modello da confrontare con i dati.",
+        "tags": [
+          "Lumina",
+          "cosmologia",
+          "supercomputer"
+        ],
+        "body": [
+          "La ricerca presentata il 26 ottobre 2026 descrive Lumina, una simulazione dei primi due miliardi di anni di storia dell'universo realizzata da un'équipe del Center for Astrophysics Harvard & Smithsonian e del MIT. ANSA ha pubblicato un'analisi scientifica il 26, UOL Tilt ha descritto il progetto il 27. Il paper compare su Monthly Notices of the Royal Astronomical Society.",
+          "Lumina rappresenta un volume cubico largo circa 500 megaparsec, equivalenti a circa 1,6 miliardi di anni luce. Le sue condizioni iniziali sono ricostruzioni fisiche che il modello lascia evolvere nel tempo; non sono osservazioni dirette di ogni stella o galassia. La simulazione segue materia oscura, gas e radiazione, cercando di risolvere strutture molto differenti fra loro senza perdere il quadro d'insieme.",
+          "Il gruppo ha usato il supercomputer Frontier del laboratorio Oak Ridge, arrivando a impiegare circa 15mila processori grafici. Una caratteristica distintiva è il trattamento sia della reionizzazione dell'idrogeno prodotta dai primi sistemi luminosi sia della successiva ionizzazione dell'elio associata a sorgenti molto energetiche come i quasar. Questi processi cambiano temperatura e stato elettrico del gas intergalattico.",
+          "Gli scienziati vogliono utilizzare Lumina per formulare previsioni da confrontare con dati osservativi raccolti da strumenti come il James Webb e il futuro Nancy Grace Roman. La dimensione del calcolo non dimostra automaticamente che tutte le ipotesi incorporate siano corrette. La qualità scientifica dipende dal confronto fra le distribuzioni simulate e i fenomeni reali, incluse le discrepanze che potranno richiedere nuovi modelli."
+        ],
+        "facts": [
+          "Il lavoro Lumina è pubblicato il 26 ottobre e simula circa due miliardi di anni della storia cosmica.",
+          "Il dominio modellato è di circa 500 megaparsec e l'elaborazione ha impiegato circa 15mila GPU sul supercomputer Frontier."
+        ],
+        "perspectives": [
+          "Gli autori vedono Lumina come strumento per interpretare dati del James Webb e testare ipotesi cosmologiche.",
+          "ANSA e UOL spiegano la distinzione fra la scala raggiunta e le osservazioni astronomiche effettive."
+        ],
+        "unknowns": [
+          "La concordanza quantitativa con tutti i nuovi dati osservativi è ancora oggetto di ricerca.",
+          "Alcune proprietà fisiche del cosmo primordiale sono ipotesi inserite come condizioni o parametri del modello."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa rappresentano i 500 megaparsec modellati da Lumina?",
+            "answer": "È la larghezza del volume cosmologico simulato, circa 1,6 miliardi di anni luce in unità di distanza. Non significa che Lumina abbia osservato direttamente ogni struttura: il calcolo fa evolvere condizioni fisiche iniziali secondo le equazioni del modello."
+          },
+          {
+            "question": "Perché Lumina simula separatamente la reionizzazione di idrogeno ed elio?",
+            "answer": "Le prime stelle e galassie ionizzano soprattutto l'idrogeno, mentre sorgenti molto energetiche come i quasar contribuiscono in una fase successiva all'elio. Rappresentare entrambi i processi aiuta a studiare come evolvano gas e radiazione tra le galassie."
+          }
+        ]
+      },
+      "en": {
+        "title": "Lumina supercomputer model reconstructs the early universe's first two billion years",
+        "dek": "The 26 October study follows gas, galaxies and radiation across 500 megaparsecs; it is a simulation, not a direct photograph.",
+        "summary": "Researchers at Harvard-Smithsonian and MIT presented Lumina, a cosmological simulation published on 26 October in Monthly Notices of the Royal Astronomical Society. Using around 15,000 GPUs on the Frontier supercomputer, the model spans part of the first two billion years and follows two eras of reionization, making predictions for telescopes to test.",
+        "impactReason": "Combining two ionization phases on a vast simulated scale is a useful advance for cosmology, but the model's reliability depends on observational comparisons.",
+        "tags": [
+          "Lumina",
+          "cosmology",
+          "supercomputers"
+        ],
+        "body": [
+          "On 26 October 2026 researchers introduced Lumina, a simulation of the first two billion years of the universe developed at the Center for Astrophysics Harvard & Smithsonian with MIT collaborators. ANSA independently described the project on the 26th, and UOL Tilt reported it the following day. The associated research appears in Monthly Notices of the Royal Astronomical Society.",
+          "The simulation covers a volume approximately 500 megaparsecs across, equivalent to about 1.6 billion light-years. Its initial conditions are physical reconstructions that are evolved computationally, not observations of every star and galaxy. Lumina tracks dark matter, gas, radiation and emerging cosmic structures, seeking fine spatial detail while representing an enormous fraction of the early universe.",
+          "The group used the Frontier supercomputer at Oak Ridge, employing approximately 15,000 graphics processors at peak scale. One distinctive feature is the treatment of both hydrogen reionization, driven by early luminous objects, and later helium reionization associated with highly energetic sources such as quasars. Those processes change the electrical state and temperature of the gas between galaxies.",
+          "Researchers hope to compare Lumina's predictions with observations from the James Webb Space Telescope and the forthcoming Nancy Grace Roman observatory. Computational volume alone does not prove that every assumption is correct. The model must be assessed against measured distributions of gas, light and galaxies, and discrepancies could reveal either missing physics or limitations in the approximations."
+        ],
+        "facts": [
+          "Lumina was published on 26 October and covers roughly two billion years of early cosmic evolution.",
+          "Its volume is around 500 megaparsecs across, with approximately 15,000 Frontier GPUs used for computation."
+        ],
+        "perspectives": [
+          "The team sees Lumina as a tool for interpreting Webb observations and testing cosmological assumptions.",
+          "ANSA and UOL distinguish its computing scale from direct astronomical observation."
+        ],
+        "unknowns": [
+          "Quantitative agreement with all new telescopic datasets remains a topic for research.",
+          "Some early-universe processes are represented through assumed initial conditions and model parameters."
+        ],
+        "questions": [
+          {
+            "question": "What does the 500-megaparsec scale of Lumina actually represent?",
+            "answer": "It is the side length of the simulated cosmic volume, about 1.6 billion light-years. The model has not observed every object inside it; it evolves inferred early conditions using physical equations and numerical approximations."
+          },
+          {
+            "question": "Why does Lumina model both hydrogen and helium reionization?",
+            "answer": "Early stars and galaxies mainly reionized hydrogen, whereas later energetic sources such as quasars helped reionize helium. Following both allows researchers to study the evolving temperature and electrical state of gas between galaxies."
+          }
+        ]
+      }
+    },
+    {
+      "section": "science",
+      "rank": 4,
+      "id": "macaque-binocular-rivalry-15hz-preprint",
+      "category": "society",
+      "impact": 1.5,
+      "sources": [
+        {
+          "outlet": "Nature News",
+          "title": "Mysterious flickering brain signals could help to unlock secrets of consciousness",
+          "url": "https://www.nature.com/articles/d41586-026-03384-6",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ScienceAlert",
+          "title": "Your Brain May Be Switching Between Two Versions of Reality 15 Times a Second",
+          "url": "https://www.sciencealert.com/your-brain-may-be-switching-between-two-versions-of-reality-15-times-a-second",
+          "publishedAt": "2026-10-24",
+          "role": "reporting"
+        },
+        {
+          "outlet": "bioRxiv",
+          "title": "Rapid alternation of conscious and suppressed stimulus representations in the primate brain",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759299v1",
+          "publishedAt": "2026-10-15",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Uno studio preliminare osserva segnali visivi alternati 15 volte al secondo nei macachi",
+        "dek": "Il preprint di Berkeley discusso il 27 ottobre confronta segnali neurali consapevoli e soppressi, ma non è stato sottoposto a peer review.",
+        "summary": "Un preprint diffuso in ottobre da ricercatori di Berkeley descrive un'alternanza di circa 15 cicli al secondo tra schemi neurali relativi a volti percepiti e a immagini visive soppresse in macachi. Nature ha discusso lo studio il 27 ottobre dopo un'analisi di ScienceAlert del 24. L'esperimento non dimostra un equivalente ritmo generale della coscienza umana.",
+        "impactReason": "Il risultato sperimentale suggerisce un meccanismo interessante di rappresentazione visiva, ma si tratta di ricerca preliminare e il legame con la coscienza resta dibattuto.",
+        "tags": [
+          "neuroscienze",
+          "macachi",
+          "percezione"
+        ],
+        "body": [
+          "Il preprint pubblicato il 15 ottobre 2026 da Janis Hesse, Doris Tsao e colleghi della University of California, Berkeley, ha attirato nuove analisi di ScienceAlert il 24 e di Nature il 27 ottobre. Il gruppo ha registrato l'attività di neuroni di macachi in aree corticali legate al riconoscimento dei volti, durante un compito progettato per presentare immagini differenti ai due occhi.",
+          "L'esperimento sfrutta la soppressione visiva: quando un'immagine nuova entra in un occhio, può dominare la percezione mentre l'altra continua a essere presente sul piano fisico. I ricercatori hanno registrato separatamente le risposte neurali associate ai due volti per riconoscere quale contenuto fosse rappresentato in ogni momento. La percezione dei macachi viene inferita dal compito sperimentale e non descritta verbalmente dagli animali.",
+          "Nel materiale analizzato gli schemi di attività alternano rappresentazioni compatibili con il volto dominante e con quello soppresso circa quindici volte al secondo. Nature sottolinea che gli autori sono riusciti a ricostruire informazioni su entrambi gli stimoli da finestre neurali differenti. Non significa che il soggetto abbia coscientemente visto un volto diverso quindici volte: il segnale alternante riguarda le rappresentazioni corticali.",
+          "Lo studio non è ancora sottoposto a revisione paritaria, e Nature riporta anche le riserve di esperti rispetto a interpretazioni eccessivamente ampie. Una rilevazione su macachi e in uno specifico compito di volti non basta a definire il funzionamento universale della coscienza, né prova che esperienze umane quotidiane alternino immagini in quel modo. Repliche indipendenti e metodi sperimentali diversi saranno essenziali."
+        ],
+        "facts": [
+          "Il preprint su bioRxiv è datato 15 ottobre e Nature ne ha discusso le implicazioni il 27.",
+          "Nel compito con macachi i ricercatori riportano un'alternanza di circa 15 Hz tra rappresentazioni neurali di immagini visive."
+        ],
+        "perspectives": [
+          "Gli autori considerano i segnali una chiave per studiare l'accesso consapevole alle immagini.",
+          "Nature cita specialisti che invitano a non trattare l'interpretazione della coscienza come conclusione già raggiunta."
+        ],
+        "unknowns": [
+          "I risultati devono ancora superare peer review e repliche indipendenti.",
+          "Il rapporto fra alternanza dei segnali e esperienza soggettiva nell'uomo non è dimostrato."
+        ],
+        "questions": [
+          {
+            "question": "Come permette il compito di soppressione binoculare di distinguere i due volti nel cervello dei macachi?",
+            "answer": "Ogni occhio riceve un'immagine diversa e il gruppo misura prima l'impronta neuronale di ciascun volto. Durante il conflitto visivo può poi identificare quale rappresentazione è più attiva, compresa quella dello stimolo non dominante."
+          },
+          {
+            "question": "Perché l'alternanza a 15 Hz non significa che il macaco cambi coscientemente immagine 15 volte al secondo?",
+            "answer": "La frequenza riguarda schemi registrati nei neuroni delle aree visive. Il contenuto rappresentato nei circuiti può differire dall'immagine che domina la percezione, perciò la misura non è una lettura diretta del vissuto soggettivo."
+          }
+        ]
+      },
+      "en": {
+        "title": "Preprint reports 15-times-per-second switching in macaque visual brain signals",
+        "dek": "The Berkeley study discussed on 27 October compares perceived and suppressed visual representations but is not peer reviewed.",
+        "summary": "An October preprint from Berkeley researchers reports neural patterns associated with perceived and suppressed faces alternating around 15 times per second during a macaque visual task. Nature covered the result on 27 October after a ScienceAlert analysis on 24 October. It is not evidence that all human consciousness operates at that rhythm.",
+        "impactReason": "The experimental signal could inform theories of visual representation, but the preliminary status and uncertain interpretation constrain the finding's impact.",
+        "tags": [
+          "neuroscience",
+          "macaques",
+          "perception"
+        ],
+        "body": [
+          "A preprint posted on 15 October 2026 by Janis Hesse, Doris Tsao and colleagues at the University of California, Berkeley drew fresh reporting from ScienceAlert on 24 October and Nature on the 27th. The group recorded neurons in macaque brain regions involved in face recognition during a visual task designed to present different facial images to the animals' two eyes.",
+          "The experiment uses visual suppression: when a new image is shown to one eye it may dominate perception, even though another remains physically present in the other eye. Researchers separately recorded neural responses to each face so they could recognize their patterns during the combined task. The animals' subjective perception is inferred from the experimental setup rather than explained verbally by the monkeys.",
+          "Within the observed activity, patterns representing the dominant face and the suppressed face alternated approximately fifteen times each second. Nature reported that the team could reconstruct information about both stimuli from different neural time windows. That does not imply the animal consciously experienced a new face fifteen times a second; the measured switching occurred in cortical representations, which may not be identical to awareness.",
+          "The work has not yet passed peer review, and Nature quoted specialists warning against dramatic interpretations of consciousness. A macaque experiment focused on faces cannot establish a universal frequency of awareness in humans or prove that everyday experience switches between images in the same way. Independent replications and additional experimental designs are needed to test broader claims."
+        ],
+        "facts": [
+          "The bioRxiv preprint appeared on 15 October, with Nature reporting on it on 27 October.",
+          "The researchers reported about 15 Hz switching between neural representations of two visual stimuli in macaques."
+        ],
+        "perspectives": [
+          "The study authors view the patterns as a possible clue to conscious visual access.",
+          "Nature consulted scientists who cautioned against equating this preliminary result with a complete theory of consciousness."
+        ],
+        "unknowns": [
+          "The study still awaits formal peer review and independent replication.",
+          "The link between recorded signal alternation and human subjective experience is unresolved."
+        ],
+        "questions": [
+          {
+            "question": "How does binocular suppression let researchers separate two face signals in macaque brains?",
+            "answer": "Each eye receives a different image, and researchers first map neuronal responses to the individual faces. They can then recognize which signal is present during competition, including a stimulus that is not dominant in perception."
+          },
+          {
+            "question": "Why doesn't 15 Hz neural switching mean a macaque consciously sees fifteen different images each second?",
+            "answer": "The frequency describes patterns measured in visual brain circuits, not a direct report of subjective experience. Neural representations may contain a suppressed stimulus even while a different image dominates awareness."
+          }
+        ]
+      }
+    },
+    {
+      "section": "science",
+      "rank": 5,
+      "id": "toi561b-jwst-reflective-atmosphere",
+      "category": "climate",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Martin Cid Magazine",
+          "title": "A lava planet that should be bare rock reflects 74% of its starlight, Webb finds",
+          "url": "https://www.martincid.com/science/toi-561-b-lava-planet-reflective-atmosphere-jwst/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Orbital Wire",
+          "title": "JWST finds reflective silicate clouds on lava planet TOI-561 b",
+          "url": "https://orbital-wire.com/astronomy-astrophysics/reflective-silicate-clouds-lava-planet-toi-561-b/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Astronomical Journal",
+          "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curve",
+          "url": "https://arxiv.org/abs/2608.21519",
+          "publishedAt": "2026-08-21",
+          "role": "official"
+        },
+        {
+          "outlet": "University of Birmingham",
+          "title": "Shiny lava planet challenges astronomers' expectations",
+          "url": "https://www.birmingham.ac.uk/news/2026/shiny-lava-planet-challenges-astronomers-expectations",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Il telescopio Webb indica un'atmosfera riflettente sul pianeta di lava TOI-561 b",
+        "dek": "Trentasette ore di osservazioni suggeriscono che il pianeta rifletta circa tre quarti della luce stellare; le nubi di silicati restano un'ipotesi modellistica.",
+        "summary": "Uno studio su osservazioni del James Webb, diffuso nella sua forma scientifica prima di ottobre e rilanciato il 26–27 ottobre, indica che il pianeta roccioso TOI-561 b riflette circa il 74–75% della radiazione stellare. La variazione di luminosità durante quasi quattro orbite suggerisce un'atmosfera e una redistribuzione del calore; composizione e nubi non sono state osservate direttamente.",
+        "impactReason": "La misura di un'atmosfera possibile su una roccia estremamente irradiata amplia le conoscenze sugli esopianeti, ma la chimica è inferita e non confermata direttamente.",
+        "tags": [
+          "Webb",
+          "esopianeti",
+          "atmosfere"
+        ],
+        "body": [
+          "Un'analisi delle osservazioni del telescopio James Webb del pianeta TOI-561 b, a circa 280 anni luce dalla Terra, è stata divulgata da diversi gruppi di ricerca il 26–27 ottobre 2026. Orbital Wire e Martin Cid Magazine hanno raccontato il risultato, mentre l'Università di Birmingham ha illustrato i dati dello studio. La ricerca era già disponibile come preprint da agosto: la notizia recente riguarda la discussione e pubblicazione dei risultati.",
+          "Il telescopio ha seguito il sistema per circa trentasette ore, coprendo quasi quattro orbite del pianeta intorno alla sua stella. I ricercatori hanno misurato come cambia la luminosità infrarossa quando vengono osservate proporzioni diverse dell'emisfero illuminato e di quello buio. Questa tecnica, detta curva di fase, permette di stimare riflessione e trasporto di calore senza ottenere una fotografia risolta della superficie.",
+          "Il lato diurno di TOI-561 b risulta più freddo di quanto ci si aspetterebbe da una roccia scura priva di atmosfera. La temperatura notturna non è abbastanza elevata da spiegare interamente la differenza con un semplice trasferimento di calore. Il gruppo ricava così una riflettività globale vicina al 74–75% della luce incidente, un valore che rende plausibile un involucro atmosferico molto luminoso.",
+          "I modelli climatici propongono nubi di minerali di silicato sopra una superficie probabilmente fusa come possibile spiegazione della riflettività. Non sono state identificate direttamente singole particelle di nube, e la composizione esatta del gas è ancora discussa. I ricercatori citano scenari con anidride carbonica o composti dello zolfo e intendono utilizzare altre lunghezze d'onda per distinguere le ipotesi."
+        ],
+        "facts": [
+          "Le osservazioni JWST coprono 37 ore e quasi quattro orbite del pianeta TOI-561 b.",
+          "La curva di fase indica una riflettività globale di circa tre quarti della luce in arrivo, secondo il modello dei ricercatori."
+        ],
+        "perspectives": [
+          "Il gruppo guidato da Lisa Dang interpreta i dati come indizio di un'atmosfera sostanziale.",
+          "Gli articoli specialistici distinguono la curva di luce misurata dalle nubi mineralogiche proposte nei modelli."
+        ],
+        "unknowns": [
+          "Composizione chimica dell'atmosfera e natura delle eventuali nubi non sono determinate direttamente.",
+          "Non è chiaro quale meccanismo abbia mantenuto l'atmosfera malgrado l'irraggiamento estremo."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa aggiungono le 37 ore di curva di fase JWST rispetto alla sola temperatura diurna di TOI-561 b?",
+            "answer": "Seguendo quasi quattro orbite, il telescopio stima anche l'emissione del lato notturno. Poiché questo non è abbastanza caldo da assorbire tutto il calore mancante sul lato diurno, gli autori inferiscono che molta luce stellare venga riflessa."
+          },
+          {
+            "question": "Perché le nubi di silicati su TOI-561 b sono una spiegazione e non una fotografia?",
+            "answer": "L'alta riflettività deriva dalle variazioni osservate della luce e dai calcoli energetici. Le simulazioni mostrano che particelle di silicato potrebbero produrla, ma il telescopio non ha risolto direttamente i granelli né identificato in modo univoco la composizione atmosferica."
+          }
+        ]
+      },
+      "en": {
+        "title": "Webb observations point to a reflective atmosphere around lava world TOI-561 b",
+        "dek": "A 37-hour observation suggests roughly three-quarters of starlight is reflected; silicate clouds remain a model-based explanation.",
+        "summary": "A James Webb study, available in preprint form before October and discussed in new reports on 26–27 October, suggests that rocky exoplanet TOI-561 b reflects around 74–75% of incoming starlight. Changes in brightness over nearly four orbits indicate an atmosphere and some heat redistribution, but atmospheric composition and individual clouds have not been directly observed.",
+        "impactReason": "Evidence for an atmosphere on an intensely irradiated rocky world could reshape exoplanet models, though its chemistry remains inferred rather than directly confirmed.",
+        "tags": [
+          "Webb",
+          "exoplanets",
+          "atmospheres"
+        ],
+        "body": [
+          "A new analysis of James Webb Space Telescope data from TOI-561 b, about 280 light-years from Earth, attracted fresh coverage and institutional explanations on 26–27 October 2026. Orbital Wire and Martin Cid Magazine described the result, and the University of Birmingham explained the team's findings. The underlying scientific preprint had already appeared in August; the recent development is the new research coverage and publication discussion.",
+          "The telescope monitored the system for approximately thirty-seven hours, covering almost four revolutions around the star. Researchers measured infrared brightness as the visible proportion of the planet's illuminated and dark hemispheres changed. This phase-curve method helps constrain reflected energy and heat movement without producing a spatially resolved photograph of the planet's surface.",
+          "TOI-561 b's dayside appears much cooler than expected for dark bare rock without an atmosphere. Its night side is not warm enough to account for the full difference merely through heat transport. The researchers therefore infer that the planet reflects around 74–75% of incoming starlight, consistent with a highly reflective atmosphere above an extremely hot rocky surface.",
+          "Climate calculations suggest that clouds composed of silicate minerals could create such high reflectivity above a likely molten surface. No individual cloud particles were directly imaged, and the gas's exact chemical composition remains uncertain. Researchers mention carbon dioxide and sulfur-bearing possibilities; further Webb measurements at other wavelengths could help distinguish the proposed atmospheric mixtures."
+        ],
+        "facts": [
+          "JWST observed TOI-561 b for 37 hours across nearly four orbital periods.",
+          "The phase curve is interpreted as requiring reflectivity of roughly three-quarters of incoming starlight."
+        ],
+        "perspectives": [
+          "The research team led by Lisa Dang treats the result as evidence for a substantial atmosphere.",
+          "Independent specialist coverage distinguishes measured light changes from modelled silicate cloud formation."
+        ],
+        "unknowns": [
+          "Atmospheric composition and the presence and structure of specific clouds were not directly established.",
+          "The mechanism that preserves gas in such intense stellar radiation remains under investigation."
+        ],
+        "questions": [
+          {
+            "question": "What did Webb's 37-hour phase curve add to the earlier dayside temperature of TOI-561 b?",
+            "answer": "Almost four orbits let researchers estimate the temperature of the permanent night side as well. Because that side was not warm enough to explain all the missing dayside heat, they inferred that much incoming starlight must be reflected."
+          },
+          {
+            "question": "Why are silicate clouds on TOI-561 b a model-based explanation rather than a direct image?",
+            "answer": "The high reflectivity comes from observed brightness changes and energy-balance calculations. Climate models show that silicate particles could produce it, but Webb did not resolve cloud grains or uniquely measure the atmosphere's composition."
           }
         ]
       }
