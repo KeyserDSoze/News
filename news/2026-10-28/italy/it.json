@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-28",
+  "language": "it",
+  "section": "italy",
+  "publishedAt": "2026-10-28T08:00:00Z",
+  "editorialNote": "Rassegna del 28 ottobre 2026: cronologie esplicite, almeno due editori distinti per ogni notizia, attribuzioni e limiti delle prove. Le illustrazioni originali non sono fotografie.",
+  "articles": [
+    {
+      "id": "camera-parliamentary-email-attack-oct27",
+      "rank": 1,
+      "category": "politics",
+      "impact": 2.5,
+      "title": "Camera, attacchi alle caselle dei deputati: coinvolto l'indirizzo parlamentare di Meloni",
+      "dek": "Le fonti della Camera parlano di misure di protezione; non risulta dimostrato l'accesso non autorizzato alla casella della premier.",
+      "summary": "Il 27 ottobre fonti parlamentari hanno riferito tentativi di attacco ai sistemi della Camera e ad alcune caselle istituzionali, compreso l'indirizzo di Giorgia Meloni come deputata. Palazzo Chigi ha precisato che non è l'account usato per le comunicazioni del governo. Le fonti non attestano una violazione effettiva della sua casella.",
+      "body": [
+        "Il 27 ottobre 2026 Reuters e ANSA hanno riferito di attacchi informatici rivolti ai sistemi della Camera dei deputati nei giorni precedenti. Tra gli indirizzi di posta presi di mira figura la casella assegnata a Giorgia Meloni nella sua qualità di parlamentare. ANSA cita anche indirizzi riconducibili ad Andrea Delmastro e Paolo Formentini, ma occorre distinguere le caselle individuate come bersaglio dal numero complessivo di tentativi contro l'infrastruttura.",
+        "Una fonte della Camera ha detto a Reuters di non poter specificare se l'account di Meloni fosse stato effettivamente aperto da soggetti non autorizzati. Il fatto che un indirizzo sia stato preso di mira non dimostra il successo di un attacco né la sottrazione di messaggi. Palazzo Chigi ha inoltre precisato che quell'account non è utilizzato dalla presidente del Consiglio per le comunicazioni di governo.",
+        "Fonti di Montecitorio citate da ANSA hanno descritto l'episodio come non emergenziale, spiegando che le misure di protezione sono state attivate anche in collaborazione con l'Agenzia per la cybersicurezza nazionale. Fra le procedure possibili rientra la sospensione temporanea di alcune funzioni: è una modalità di contenimento, non di per sé una prova che una casella sia stata compromessa.",
+        "La Procura di Roma, secondo ANSA, attendeva un'informativa della Polizia postale per valutare l'apertura di un fascicolo. Questa fase non identifica responsabili né attribuisce un'origine geografica o politica ai tentativi. Le verifiche tecniche dovranno distinguere traffico ostile, accessi riusciti, eventuale disponibilità di dati e misure intraprese, senza trasformare le ipotesi investigative in conclusioni. È necessario leggere i risultati delle analisi forensi prima di valutare possibili danni."
+      ],
+      "facts": [
+        "La Camera ha confermato attività ostili contro i sistemi parlamentari e tra i bersagli figura l'account di Meloni come deputata.",
+        "Palazzo Chigi afferma che l'indirizzo coinvolto non è usato per le comunicazioni di governo."
+      ],
+      "perspectives": [
+        "Fonti della Camera escludono lo stato di emergenza e dichiarano di aver attivato misure di protezione con ACN.",
+        "Gli inquirenti attendono informazioni tecniche prima di definire le eventuali contestazioni."
+      ],
+      "unknowns": [
+        "Non è pubblicamente confermato che la casella di Meloni sia stata aperta da terzi o che siano stati sottratti messaggi.",
+        "Non sono stati accertati pubblicamente autore, tecnica di accesso e portata complessiva dell'attacco."
+      ],
+      "questions": [
+        {
+          "question": "Che differenza c'è tra una casella parlamentare presa di mira e una casella compromessa?",
+          "answer": "Nel primo caso un indirizzo o un servizio riceve tentativi ostili, che i controlli possono fermare. Una compromissione richiede invece evidenze di accesso non autorizzato o perdita di controllo sull'account, elementi non confermati per la casella citata."
+        },
+        {
+          "question": "Perché Palazzo Chigi ha specificato la funzione dell'indirizzo di Giorgia Meloni?",
+          "answer": "La casella segnalata è associata al mandato parlamentare, mentre le comunicazioni dell'esecutivo passano da canali diversi. La distinzione delimita il tipo di comunicazioni potenzialmente esposte senza dimostrare che quelle parlamentari siano state lette."
+        }
+      ],
+      "impactReason": "Un incidente che coinvolge la posta del Parlamento richiede attenzione per la sicurezza istituzionale, ma la compromissione dei dati non è accertata.",
+      "tags": [
+        "Camera",
+        "cybersicurezza",
+        "parlamentari"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Camera, attacchi alle caselle dei deputati: coinvolto l'indirizzo parlamentare di Meloni; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Meloni's email targeted in cyberattack on Italian lower house",
+          "url": "https://www.reuters.com/legal/litigation/melonis-email-targeted-cyberattack-italian-lower-house-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Hacker nelle caselle mail della Camera, anche di Giorgia Meloni",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/hacker-nelle-caselle-mail-della-camera-anche-di-giorgia-meloni_8e6c4a5b-ef5b-42ed-ac4b-ede46bf891d9.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "valle-aosta-testolin-appeal-ruling",
+      "rank": 2,
+      "category": "politics",
+      "impact": 2,
+      "title": "Valle d'Aosta, la Corte d'appello conferma la decadenza di Renzo Testolin",
+      "dek": "La sentenza depositata il 27 ottobre giudica incompatibile la quarta presenza consecutiva in giunta con i limiti regionali.",
+      "summary": "La Corte d'appello di Torino ha confermato il 27 ottobre 2026 l'ineleggibilità di Renzo Testolin alla presidenza della Valle d'Aosta per il superamento dei limiti regionali ai mandati di giunta. La pronuncia, successiva all'udienza del 13 ottobre, rende efficace la decadenza e apre una crisi nella maggioranza regionale.",
+      "body": [
+        "Il 27 ottobre 2026 la Corte d'appello di Torino ha depositato una sentenza che conferma il giudizio di primo grado del Tribunale di Aosta: Renzo Testolin, esponente dell'Union valdôtaine, non poteva essere eletto presidente della Regione autonoma Valle d'Aosta per il limite ai mandati consecutivi. L'udienza d'appello si era tenuta il 13 ottobre, ma la decisione è diventata pubblica e operativa soltanto il 27. ANSA e RaiNews TGR Valle d'Aosta hanno ricostruito separatamente la cronologia.",
+        "Il punto giuridico riguarda la legge regionale n. 21 del 2007 e il computo degli incarichi nella giunta, anche quando sono stati ricoperti ruoli differenti o il mandato non è stato esercitato per l'intera legislatura. Secondo i giudici, Testolin era già stato componente dell'esecutivo nelle legislature XIV, XV e XVI, e la sua nuova nomina nella XVII violava il limite applicabile. Le motivazioni respingono la lettura alternativa avanzata dalla difesa, che aveva richiamato anche il diritto costituzionale all'elettorato passivo.",
+        "La sentenza del Tribunale di Aosta era stata inizialmente sospesa in ragione del ricorso di Testolin. La pronuncia d'appello invece rende efficace la decadenza. RaiNews riferisce che spetta al presidente dell'assemblea Stefano Aggravi comunicare formalmente la situazione al Consiglio regionale. Anche la giunta risente della perdita del presidente, e le forze che sostenevano la maggioranza devono valutare una soluzione istituzionale.",
+        "Il ricorso alla Corte di cassazione per questioni di legittimità rimane in linea teorica una strada processuale, ma non equivale a una sospensione automatica della decadenza. La Stampa indica una finestra di sessanta giorni per ricostituire un governo regionale ed evitare elezioni anticipate. Nessuna delle cronache consultate dimostra che sia stata già raggiunta un'intesa su un successore: restano distinti gli effetti giudiziari della decisione e le decisioni politiche ancora da prendere."
+      ],
+      "facts": [
+        "La sentenza della Corte d'appello è stata depositata il 27 ottobre dopo l'udienza del 13 ottobre.",
+        "Il giudizio conferma l'ineleggibilità e la decadenza di Testolin rispetto alla XVII legislatura."
+      ],
+      "perspectives": [
+        "La difesa di Testolin ha sostenuto una diversa interpretazione del limite e del diritto a essere eletto.",
+        "Alleanza Verdi Sinistra, promotrice del ricorso, ha accolto favorevolmente la conferma del primo grado."
+      ],
+      "unknowns": [
+        "Non è stata ancora definita una nuova maggioranza con un successore alla presidenza.",
+        "Non è noto se Testolin proporrà ricorso in Cassazione."
+      ],
+      "questions": [
+        {
+          "question": "Perché la Corte d'appello ha conteggiato anche i precedenti incarichi di Testolin come assessore?",
+          "answer": "La legge regionale riguarda il servizio nella giunta nelle legislature consecutive, non soltanto gli anni trascorsi alla sua presidenza. I giudici hanno così considerato gli incarichi svolti nelle legislature XIV, XV e XVI prima della nuova nomina."
+        },
+        {
+          "question": "Quale passaggio istituzionale segue la decadenza di Testolin in Valle d'Aosta?",
+          "answer": "Il presidente del Consiglio regionale deve comunicare la decisione all'assemblea, mentre i partiti valutano se ricostituire una maggioranza e una giunta. La ricostituzione entro la finestra prevista potrebbe evitare elezioni anticipate."
+        }
+      ],
+      "impactReason": "La pronuncia cambia la guida dell'amministrazione regionale e avvia una procedura politica che può portare a una nuova giunta o a elezioni anticipate.",
+      "tags": [
+        "Valle-Aosta",
+        "Testolin",
+        "mandati"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+        "alt": "Illustrazione simbolica originale relativa a Valle d'Aosta, la Corte d'appello conferma la decadenza di Renzo Testolin; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "RaiNews TGR Valle d'Aosta",
+          "title": "Testolin decaduto dalla carica di presidente",
+          "url": "https://www.rainews.it/tgr/vda/articoli/2026/10/per-la-corte-dappello-di-torino-testolin-era-ineleggibile-b0d26f60-1a43-4329-b405-e96c4714d341.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Appello conferma decadenza del presidente della Regione Valle d'Aosta",
+          "url": "https://www.ansa.it/valledaosta/notizie/2026/10/27/appello-conferma-decadenza-del-presidente-della-regione-valle-daosta_0ac6f233-0724-469c-9350-7b89ab4556b1.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "La Stampa",
+          "title": "Valle d’Aosta, Testolin decade da presidente. Anche l’appello gli dà torto",
+          "url": "https://www.lastampa.it/aosta/2026/10/28/news/valle_d_aosta_testolin_decade_da_presidente_anche_l_appello_gli_da_torto-15779876/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "italy-chamber-doctors-reinstatement-vote",
+      "rank": 3,
+      "category": "politics",
+      "impact": 2,
+      "title": "Camera, passa per 13 voti l'articolo sul reintegro dei medici radiati per il vaccino",
+      "dek": "L'Aula approva l'articolo 8 del disegno sulle professioni sanitarie con 126 sì e 113 no; non è ancora una legge in vigore.",
+      "summary": "Il 27 ottobre la Camera ha approvato con 126 favorevoli e 113 contrari l'articolo 8 di un disegno di legge sulle professioni sanitarie che consentirebbe a medici radiati durante l'emergenza Covid per il rifiuto della vaccinazione di chiedere il reintegro. La disposizione resta nel percorso legislativo e ha provocato una frattura politica nella maggioranza.",
+      "body": [
+        "L'Aula della Camera ha approvato il 27 ottobre 2026 l'articolo 8 del disegno di legge sulle professioni sanitarie, che introduce una procedura per richiedere il reintegro nell'albo dei medici radiati in relazione al rifiuto delle vaccinazioni durante l'emergenza Covid. Il risultato annunciato è stato di 126 voti favorevoli e 113 contrari, una differenza di appena tredici voti. ANSA, Corriere della Sera e la Repubblica concordano sul conteggio rilevante.",
+        "La votazione riguarda un articolo di un disegno di legge e non costituisce da sola l'entrata in vigore di una nuova disciplina. Il testo complessivo deve completare l'iter parlamentare prima di poter produrre effetti vincolanti. Le modalità concrete di richiesta e valutazione del reintegro dipenderanno dunque dalla versione finale della legge e dalle procedure applicative, non dalle sole dichiarazioni politiche dopo il voto.",
+        "Secondo le ricostruzioni parlamentari, alcuni deputati di Forza Italia non hanno partecipato alla votazione per ragioni presentate come libertà di coscienza. Il gruppo Futuro Nazionale ha rivendicato che gli otto voti dei suoi deputati sono stati determinanti per l'esito. La maggioranza aritmetica non dimostra però quale sarebbe stato il comportamento degli altri deputati in uno scenario controfattuale diverso.",
+        "Le opposizioni hanno criticato il provvedimento sostenendo che indebolisca il messaggio di responsabilità sanitaria lasciato dalla pandemia. Deputati della maggioranza hanno risposto difendendo l'opportunità di prevedere una via per il reinserimento professionale. Si tratta di posizioni politiche e di valutazioni deontologiche distinte dai dati sul voto. Un reintegro individuale non sarebbe automatico soltanto perché un articolo è stato approvato in Aula."
+      ],
+      "facts": [
+        "Il 27 ottobre la Camera ha approvato l'articolo 8 del ddl professioni sanitarie con 126 sì e 113 no.",
+        "Il testo in discussione riguarda la possibilità di chiedere il reintegro per medici radiati durante il periodo Covid."
+      ],
+      "perspectives": [
+        "Le opposizioni contestano l'effetto simbolico e professionale del reintegro.",
+        "Futuro Nazionale ha rivendicato il peso dei propri otto voti, mentre parte di Forza Italia si è astenuta dal partecipare."
+      ],
+      "unknowns": [
+        "Il testo definitivo e l'eventuale data di entrata in vigore dipendono dal completamento dell'iter legislativo.",
+        "Il numero di professionisti che presenterà domanda e gli esiti delle singole pratiche non è noto."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa è stato approvato davvero il 27 ottobre alla Camera per i medici radiati?",
+          "answer": "L'Aula ha votato l'articolo 8 di un disegno di legge sulle professioni sanitarie, con 126 sì e 113 no. La disposizione prevede una possibilità di domanda di reintegro, ma il voto di un singolo articolo non conclude l'iter della legge."
+        },
+        {
+          "question": "Perché gli otto voti di Futuro Nazionale sono entrati nel dibattito sulla maggioranza?",
+          "answer": "Il margine reale è stato di tredici voti e i deputati del gruppo hanno sostenuto che il loro contributo abbia permesso al testo di passare. È una rivendicazione del peso politico nel voto, non una prova su come tutti gli altri avrebbero votato in uno scenario alternativo."
+        }
+      ],
+      "impactReason": "Il voto modifica il percorso di un provvedimento che interessa la professione medica e la deontologia, ma la norma non è ancora applicabile come legge definitiva.",
+      "tags": [
+        "Camera",
+        "sanita",
+        "reintegro"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+        "alt": "Illustrazione simbolica originale relativa a Camera, passa per 13 voti l'articolo sul reintegro dei medici radiati per il vaccino; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Ok della Camera al reintegro dei medici no vax, determinante il sì di Fnv",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/ok-della-camera-al-reintegro-dei-medici-no-vax-determinante-il-si-di-fnv_412f6177-a0ed-40a9-87a5-10f5a83f1b92.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Reintegro dei medici no vax, sì alla Camera: è scontro",
+          "url": "https://roma.corriere.it/notizie/politica/26_ottobre_27/reintegro-medici-no-vax-si-camera-scontro-c47e6a4f-e01d-4fda-b317-fe49591c7xlk.shtml?intcmp=AREA_H_AMP_nd_210926_corriere_ss_COR_AMP",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Ok dalla Camera al reintegro dei medici no vax con solo 13 voti di scarto: è polemica",
+          "url": "https://www.repubblica.it/politica/2026/10/27/news/medici_no_vax_reintegro_ddl_camera_polemica_opposizioni-425679736/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "intesa-sanpaolo-mps-ecb-approval-oct27",
+      "rank": 4,
+      "category": "economy",
+      "impact": 2.5,
+      "title": "Intesa-Mps, la Bce autorizza il controllo: offerta e antitrust restano passaggi separati",
+      "dek": "Il via libera del 27 ottobre riguarda i requisiti prudenziali; per completare l'operazione servono altri atti e la risposta degli azionisti.",
+      "summary": "Il 27 ottobre 2026 Intesa Sanpaolo ha annunciato l'autorizzazione preventiva della Banca centrale europea ad acquisire il controllo di Monte dei Paschi di Siena attraverso un'offerta pubblica di acquisto e scambio. Il piano da circa 32 miliardi di euro non è ancora concluso: restano il prospetto Consob, la concorrenza e le adesioni dei soci.",
+      "body": [
+        "Intesa Sanpaolo ha comunicato il 27 ottobre 2026 di avere ricevuto dalla Banca centrale europea l'autorizzazione preventiva all'acquisizione del controllo di Banca Monte dei Paschi di Siena. Il via libera rientra nell'offerta pubblica di acquisto e scambio annunciata a giugno, valutata circa 32 miliardi di euro secondo Reuters. ANSA ha confermato l'annuncio, che si trova anche nella comunicazione ufficiale dell'istituto offerente.",
+        "Il provvedimento della Bce riguarda la capacità dell'acquirente di detenere partecipazioni rilevanti nel sistema bancario. Include, per effetto della struttura del gruppo Mps, il controllo indiretto di Mediobanca e altre società finanziarie. Non equivale al via libera di tutte le autorità: Consob deve approvare la documentazione dell'offerta, mentre l'Antitrust deve valutare gli effetti della concentrazione sulla concorrenza.",
+        "Reuters riferisce che la decisione Consob sul documento d'offerta è attesa a inizio novembre e quella dell'autorità garante della concorrenza nella seconda metà del mese. Intesa ha previsto la cessione di parte delle filiali Mps a Unipol, che intende integrarle con Bper, per affrontare possibili obiezioni sulla rete bancaria. La dimensione finale delle cessioni potrebbe cambiare in base alle condizioni dell'istruttoria.",
+        "Esiste anche un tema assicurativo: attraverso Mediobanca, Intesa arriverebbe a possedere indirettamente una quota del 13,4% di Generali. L'autorità della concorrenza valuta se siano necessarie garanzie affinché tale partecipazione resti finanziaria e non si traduca in controllo operativo. L'amministratore Carlo Messina sostiene di voler tutelare l'indipendenza di Generali; è un impegno dichiarato, non una verifica già completata dagli organi di controllo."
+      ],
+      "facts": [
+        "Il 27 ottobre la BCE ha dato a Intesa l'autorizzazione preventiva ad acquisire una partecipazione di controllo in MPS.",
+        "L'operazione proposta è un'OPAS dal valore riportato da Reuters di circa 32 miliardi di euro."
+      ],
+      "perspectives": [
+        "Intesa dichiara che manterrebbe l'indipendenza operativa di Generali.",
+        "Le autorità di concorrenza esaminano filiali e intrecci assicurativi, con possibili rimedi."
+      ],
+      "unknowns": [
+        "Numero di adesioni degli azionisti e completamento dell'offerta non sono ancora determinati.",
+        "Le condizioni definitive dell'Antitrust e l'eventuale numero di filiali da cedere non sono decisi."
+      ],
+      "questions": [
+        {
+          "question": "Perché il via libera Bce non significa che Intesa abbia già acquisito Mps?",
+          "answer": "La BCE valuta l'acquisizione del controllo dal punto di vista prudenziale. L'offerta ai soci deve ancora passare dalla documentazione Consob, dal processo di adesione e dall'esame della concorrenza: l'autorizzazione preventiva copre solo una parte del percorso."
+        },
+        {
+          "question": "Perché la partecipazione indiretta del 13,4% in Generali è rilevante per l'Antitrust?",
+          "answer": "L'acquisizione di Mps darebbe a Intesa, tramite Mediobanca, una quota significativa in Generali, che compete con attività assicurative del gruppo. L'autorità deve valutare se la posizione resti un investimento finanziario o crei possibilità di influenzare la concorrenza."
+        }
+      ],
+      "impactReason": "Una possibile concentrazione tra grandi banche italiane tocca clienti, concorrenza e mercato assicurativo; il nuovo permesso prudenziale non perfeziona la fusione.",
+      "tags": [
+        "Intesa",
+        "Mps",
+        "Bce"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+        "alt": "Illustrazione simbolica originale relativa a Intesa-Mps, la Bce autorizza il controllo: offerta e antitrust restano passaggi separati; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Italy's Intesa gets ECB authorisation to take over Monte dei Paschi",
+          "url": "https://www.reuters.com/business/finance/italys-intesa-gets-ecb-authorisation-take-over-monte-dei-paschi-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Dalla Bce via libera a Intesa Sanpaolo all'acquisizione di Mps",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/27/dalla-bce-via-libera-a-intesa-sanpaolo-allacquisizione-di-mps_aeb6b178-cb0b-41a2-beef-12578feb5794.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Intesa Sanpaolo",
+          "title": "Autorizzazione preventiva BCE all'acquisizione del controllo di MPS",
+          "url": "https://group.intesasanpaolo.com/it/investor-relations/comunicati-stampa-price-sensitive/2026/10/20261027-bce-it",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ]
+    },
+    {
+      "id": "istat-bes-2026-regional-wellbeing-gap",
+      "rank": 5,
+      "category": "society",
+      "impact": 2.5,
+      "title": "Bes Istat, 54 indicatori migliorano ma restano divari economici e territoriali",
+      "dek": "Pubblicato il 26 ottobre, il rapporto valuta 148 misure in 12 ambiti; 132 sono confrontabili con l'anno precedente.",
+      "summary": "Nel rapporto Bes 2026 pubblicato da Istat il 26 ottobre, 54 indicatori su 132 confrontabili migliorano, 55 restano stabili e 23 peggiorano. Il quadro aggregato comprende 148 misure su salute, lavoro, reddito, istruzione e servizi, ma la povertà assoluta interessa ancora oltre 5,4 milioni di persone e persistono ampie differenze fra Nord e Sud.",
+      "body": [
+        "L'Istat ha pubblicato lunedì 26 ottobre 2026 la tredicesima edizione del Rapporto sul Benessere equo e sostenibile, noto come Bes. Il documento riunisce 148 indicatori distribuiti in dodici ambiti, dalla salute alla qualità dei servizi, per misurare aspetti della vita che non si esauriscono nel prodotto interno lordo. Corriere della Sera e RaiNews hanno approfondito i risultati e il divario territoriale illustrato dall'ente statistico.",
+        "Solo 132 delle 148 misure consentono il confronto con l'anno precedente: tra queste, 54 migliorano, 55 non presentano cambiamenti sostanziali e 23 peggiorano. Le tre quantità sommano esattamente a 132 e non significano che tutto il Paese sia migliorato in misura uniforme. Alcune serie riguardano il 2025, altre periodi differenti in base alla disponibilità dei dati; il 26 ottobre è la data di pubblicazione del rapporto, non l'anno di tutti i fenomeni osservati.",
+        "Il dato sulle persone in povertà assoluta supera 5,4 milioni e convive con avanzamenti in redditi, occupazione e speranza di vita. Il rischio di povertà, che utilizza una soglia relativa di reddito, è una misura differente e rimane superiore alla media dell'Unione europea. Secondo il rapporto, il miglioramento nazionale nasconde differenze consistenti anche per titolo di studio, età e condizione lavorativa.",
+        "Il Bes documenta che il Mezzogiorno presenta livelli inferiori alla media italiana nella maggior parte dei domini, mentre quasi tutte le regioni del Centro e del Nord superano la media in almeno metà degli indicatori disponibili. Questi confronti territoriali non spiegano da soli le cause, che possono comprendere occupazione, infrastrutture e accesso ai servizi. Istat fornisce una fotografia comparabile dei risultati, non una graduatoria semplice di merito politico delle amministrazioni."
+      ],
+      "facts": [
+        "Il rapporto Bes è uscito il 26 ottobre 2026 e include 148 indicatori in 12 domini.",
+        "Fra 132 indicatori confrontabili: 54 migliorano, 55 sono stabili e 23 peggiorano."
+      ],
+      "perspectives": [
+        "Istat evidenzia i progressi complessivi, ma anche disuguaglianze territoriali persistenti.",
+        "Le analisi di Corriere e RaiNews richiamano il rischio di povertà e il divario con la media Ue."
+      ],
+      "unknowns": [
+        "Il rapporto non permette di attribuire causalmente i cambiamenti a una singola politica.",
+        "Gli indicatori con periodi di riferimento diversi non consentono una lettura come unico bilancio del 2026."
+      ],
+      "questions": [
+        {
+          "question": "Perché il Bes 2026 conta 148 indicatori ma ne confronta soltanto 132 con il 2025?",
+          "answer": "Il rapporto comprende 148 misure in dodici domini, ma soltanto 132 dispongono di dati comparabili rispetto alla rilevazione precedente. Le categorie di 54 in miglioramento, 55 stabili e 23 in peggioramento si riferiscono esclusivamente a queste 132 serie."
+        },
+        {
+          "question": "Come possono migliorare molti indicatori Bes mentre oltre 5,4 milioni di persone restano in povertà assoluta?",
+          "answer": "Gli indicatori misurano aspetti diversi e gruppi diversi della popolazione: progressi in salute, occupazione o reddito medio non eliminano automaticamente le privazioni più gravi. Il rapporto mostra inoltre che le medie nazionali nascondono ampi divari geografici e sociali."
+        }
+      ],
+      "impactReason": "I dati descrivono in modo multidimensionale condizioni di vita e disuguaglianze nel Paese e possono guidare politiche su lavoro, scuola e servizi.",
+      "tags": [
+        "Istat",
+        "benessere",
+        "poverta"
+      ],
+      "image": {
+        "src": "news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+        "alt": "Illustrazione simbolica originale relativa a Bes Istat, 54 indicatori migliorano ma restano divari economici e territoriali; non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      },
+      "sources": [
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Istat, migliora il benessere in Italia ma 5,4 milioni di persone restano in povertà",
+          "url": "https://www.corriere.it/economia/finanza/26_ottobre_26/istat-migliora-il-benessere-in-italia-ma-5-4-milioni-di-persone-restano-in-poverta-il-divario-con-l-europa-e-il-nord-sud-42ab6c72-dc00-4b42-a73d-84bcf1e30xlk.shtml",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Istat, migliorano gli indicatori benessere in Italia, ma il rischio povertà è sopra la media Ue",
+          "url": "https://www.rainews.it/articoli/2026/10/istat-migliorano-gli-indicatori-benessere-in-italia-ma-il-rischio-poverta-e-sopra-la-media-ue--2c73df52-e89a-40c4-afef-389018677373.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ISTAT",
+          "title": "Nota stampa Rapporto sul Benessere equo e sostenibile 2026",
+          "url": "https://www.istat.it/comunicato-stampa/nota-stampa-rapporto-bes-edizione-2026/",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ]
+    }
+  ]
+}
