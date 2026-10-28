@@ -3,8 +3,8 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "Nineteen bilingual working articles, NOT final edition.",
-    "Six original illustrations saved; six World stories and nineteen more illustrations still missing; 0/8 final JSONs.",
+    "22 sourced bilingual complete-length working drafts, no final edition.",
+    "Three World items and nineteen cover illustrations outstanding; zero of eight final edition JSONs.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -2145,6 +2145,323 @@
           {
             "question": "Why are silicate clouds on TOI-561 b a model-based explanation rather than a direct image?",
             "answer": "The high reflectivity comes from observed brightness changes and energy-balance calculations. Climate models show that silicate particles could produce it, but Webb did not resolve cloud grains or uniquely measure the atmosphere's composition."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "rank": 5,
+      "id": "flavio-bolsonaro-united-states-passport-order",
+      "category": "politics",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
+          "url": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CNN Brasil",
+          "title": "Aliados dizem que Flávio Bolsonaro está fora do Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/aliados-dizem-que-flavio-bolsonaro-esta-fora-do-brasil/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Flávio Bolsonaro descumpre determinação de Moraes e não entrega passaporte à PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-descumpre-determinacao-de-moraes-e-nao-entrega-passaporte-a-pf.shtml",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Brasile, Flávio Bolsonaro lascia il Paese dopo l'ordine di consegnare i passaporti",
+        "dek": "Fonti Reuters e CNN Brasil riferiscono il viaggio verso gli Stati Uniti; la via d'uscita dal Brasile e lo status negli USA non sono documentati integralmente.",
+        "summary": "Il 27 ottobre fonti vicine a Flávio Bolsonaro hanno riferito che il senatore brasiliano ha lasciato il Paese dopo aver perso il ballottaggio presidenziale del 25. L'uscita è avvenuta mentre una decisione della Corte suprema gli imponeva di consegnare i passaporti nell'ambito di un'inchiesta, e il Dipartimento di Stato USA ha annunciato l'intenzione di concedere visti alla famiglia.",
+        "impactReason": "La partenza di un candidato presidenziale sconfitto durante un'inchiesta può avere conseguenze giudiziarie e diplomatiche tra Brasile e Stati Uniti.",
+        "tags": [
+          "Brasile",
+          "Bolsonaro",
+          "giustizia"
+        ],
+        "body": [
+          "Il 27 ottobre 2026 Reuters ha riferito, citando fonti vicine al politico e al governo statunitense, che il senatore Flávio Bolsonaro aveva lasciato il Brasile dopo la sconfitta nel ballottaggio di domenica 25 contro Luiz Inácio Lula da Silva. CNN Brasil ha raccolto racconti indipendenti di alleati che lo collocavano fuori dal Paese. Il suo percorso preciso, indicato in alcune ricostruzioni come passaggio dall'Argentina, non era confermato da documenti ufficiali.",
+          "Il giorno precedente il giudice Alexandre de Moraes, del Supremo tribunale federale, aveva disposto il ritiro dei passaporti di Bolsonaro e il divieto di uscire dal Paese, nell'ambito di indagini su sospetto riciclaggio di denaro. Il senatore nega ogni illecito. Folha de S.Paulo ha accertato che entro la scadenza delle 11 del 27 ottobre i documenti non erano stati consegnati alla polizia federale, che ne aveva disposto l'annullamento.",
+          "Una fonte di alto livello del Dipartimento di Stato americano ha detto a Reuters che gli Stati Uniti avrebbero rilasciato visti a Flávio Bolsonaro e ai familiari. Questa dichiarazione su un futuro visto non dimostra quale fosse lo status migratorio effettivo a ogni tappa del viaggio. Alcuni alleati sostengono che la famiglia sia arrivata in Florida, ma la cronologia esatta degli spostamenti resta incompleta.",
+          "Bolsonaro aveva annunciato il 26 ottobre che non sarebbe partito e che avrebbe guidato l'opposizione al nuovo mandato di Lula; la successiva notizia della sua uscita ha smentito quell'intenzione dichiarata. Lula ha criticato il gesto, mentre il presidente statunitense Donald Trump ha espresso sostegno al senatore. È un aggiornamento distinto dall'esito elettorale del 25 ottobre, e non consente di dedurre un arresto già disposto o una colpevolezza nell'inchiesta."
+        ],
+        "facts": [
+          "Il 27 ottobre alleati hanno riferito la partenza di Bolsonaro verso gli Stati Uniti dopo il ballottaggio del 25.",
+          "Folha ha registrato la mancata consegna dei passaporti entro le 11 del 27 ottobre; il Dipartimento di Stato USA ha dichiarato che avrebbe rilasciato visti."
+        ],
+        "perspectives": [
+          "Il senatore respinge i sospetti investigativi e aveva negato di voler lasciare il Brasile.",
+          "Lula ha criticato la partenza, mentre Donald Trump ha manifestato sostegno a Bolsonaro."
+        ],
+        "unknowns": [
+          "Il percorso esatto del viaggio e lo status amministrativo negli Stati Uniti non erano interamente documentati.",
+          "Le indagini per riciclaggio non sono giunte a una decisione definitiva sulla responsabilità del senatore."
+        ],
+        "questions": [
+          {
+            "question": "Quale provvedimento di Alexandre de Moraes precedeva la partenza di Flávio Bolsonaro?",
+            "answer": "Il magistrato aveva ordinato la consegna dei passaporti e vietato l'uscita dal Brasile nell'ambito di un'indagine per sospetto riciclaggio. Folha ha riferito che i documenti non sono stati consegnati entro le 11 del 27 ottobre."
+          },
+          {
+            "question": "Perché l'annuncio statunitense di concedere visti non chiarisce tutta la vicenda giudiziaria brasiliana?",
+            "answer": "Un visto riguarda la possibilità di entrare negli Stati Uniti secondo le regole americane, non cancella un obbligo di consegna dei documenti disposto dalla giustizia brasiliana. Neppure permette di dedurre un esito dell'inchiesta penale."
+          }
+        ]
+      },
+      "en": {
+        "title": "Brazil's Flávio Bolsonaro leaves country after passport-surrender order",
+        "dek": "Reuters and CNN Brasil sources describe a journey towards the US; his exact route and immigration status are not fully documented.",
+        "summary": "On 27 October sources close to Flávio Bolsonaro said the Brazilian senator had left the country after losing the 25 October presidential runoff. A Supreme Court judge had ordered him to surrender his passports amid an investigation, while a US State Department official said his family would receive visas. The journey and judicial inquiry remain distinct.",
+        "impactReason": "Departure by a defeated presidential candidate under investigation could have legal and diplomatic consequences for Brazil and the United States.",
+        "tags": [
+          "Brazil",
+          "Bolsonaro",
+          "judiciary"
+        ],
+        "body": [
+          "On 27 October 2026 Reuters reported, citing sources close to the politician and the US administration, that Senator Flávio Bolsonaro had left Brazil following his defeat by Luiz Inácio Lula da Silva in Sunday's presidential runoff. CNN Brasil independently spoke to allies who placed Bolsonaro outside the country. His precise route, described by some sources as involving Argentina, had not been established by definitive official travel records.",
+          "On the preceding day, Supreme Federal Court judge Alexandre de Moraes ordered Bolsonaro to surrender his passports and barred him from leaving Brazil as part of a suspected money-laundering investigation. The senator denies wrongdoing. Folha de S.Paulo verified that the documents had not been delivered to federal police by the 11 a.m. deadline on 27 October, and reported that Brazilian passports were subsequently cancelled.",
+          "A senior US State Department official told Reuters that American visas would be issued to Flávio Bolsonaro and his relatives. Such a statement about future visas does not establish the immigration status held at every point in the journey. Some allies said family members reached Florida, but the exact sequence and documentary details of their movements had not been independently verified.",
+          "Bolsonaro had said on 26 October that he would not depart and would instead organize opposition to Lula's new administration; reports of his departure contradicted that stated intention. Lula criticized the action, while US President Donald Trump voiced support. This is a new development after the 25 October election outcome, not proof of a final criminal judgment or confirmation of a separate arrest order."
+        ],
+        "facts": [
+          "On 27 October sources described Bolsonaro's departure after the 25 October election defeat.",
+          "Folha documented his missed 11 a.m. passport deadline; a State Department official said US visas would be provided."
+        ],
+        "perspectives": [
+          "Bolsonaro rejects the allegations and previously denied plans to leave Brazil.",
+          "Lula criticized the departure, while Donald Trump expressed support for Bolsonaro."
+        ],
+        "unknowns": [
+          "His precise route and immigration status in the United States were not completely documented.",
+          "The money-laundering inquiry has not resulted in a final finding of criminal responsibility."
+        ],
+        "questions": [
+          {
+            "question": "What order from judge Alexandre de Moraes preceded Flávio Bolsonaro's reported departure?",
+            "answer": "The judge ordered Bolsonaro to hand over his passports and prohibited foreign travel during a suspected money-laundering investigation. Folha reported that the documents had not been surrendered by the 27 October deadline."
+          },
+          {
+            "question": "Why doesn't the US offer of visas resolve the legal implications in Brazil?",
+            "answer": "A US visa concerns permission to enter under American immigration law, whereas a Brazilian court's passport-surrender order is a separate legal obligation. The visa announcement also cannot determine the outcome of the underlying criminal investigation."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "rank": 6,
+      "id": "us-trump-methane-regulation-reversal-oct27",
+      "category": "climate",
+      "impact": 3,
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+          "url": "https://apnews.com/article/257f28c07cda5146a40dbf7a2c8ba790",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Trump says government to 'terminate' Biden-era methane emissions rules",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "USA, Trump annuncia il ritiro delle regole sul metano degli impianti petroliferi",
+        "dek": "Il presidente promette risparmi da 45 miliardi di dollari; sono stime dell'amministrazione, non effetti già misurati o una norma automaticamente abrogata.",
+        "summary": "In un comizio in Texas il 27 ottobre Donald Trump ha annunciato la volontà di cancellare limiti alle perdite di metano dalle operazioni petrolifere e del gas introdotti nell'era Biden. L'amministrazione cita risparmi e maggiore produzione; gruppi ambientalisti avvertono di più emissioni. L'annuncio politico va distinto dal procedimento formale necessario a modificare le norme.",
+        "impactReason": "Le norme riguardano un gas serra potente su orizzonti brevi e l'industria petrolifera statunitense; modifiche effettive avrebbero conseguenze climatiche ed economiche rilevanti.",
+        "tags": [
+          "Stati-Uniti",
+          "metano",
+          "regolazione"
+        ],
+        "body": [
+          "Durante un comizio il 27 ottobre 2026 a Lubbock, in Texas, il presidente statunitense Donald Trump ha annunciato l'intenzione della sua amministrazione di eliminare restrizioni dell'era Biden alle emissioni di metano da impianti di petrolio e gas. Associated Press e The Guardian hanno riportato l'annuncio e le reazioni contrapposte. Il linguaggio usato al comizio non dimostra da solo che tutte le disposizioni interessate siano state formalmente abrogate in quel momento.",
+          "Le regole EPA del 2024 imponevano a molte attività petrolifere e del gas misure per individuare e riparare fughe, comprese alcune fonti più piccole. La proposta di revisione citata dall'amministrazione riguarda anche il programma Super Emitter, progettato per segnalare perdite rilevanti. Il metano può avere una forte influenza sul riscaldamento nel breve periodo e la sua fuoriuscita rappresenta anche gas naturale non commercializzato.",
+          "Trump ha stimato risparmi complessivi per 45 miliardi di dollari e la disponibilità di ulteriori 210 milioni di barili di petrolio grazie a regole meno restrittive. Sono valutazioni dell'esecutivo legate a scenari economici, non somme già risparmiate né barili già estratti. L'amministratore EPA Lee Zeldin sostiene che gli obblighi attuali impongano costi eccessivi al settore.",
+          "Le associazioni ambientaliste hanno contestato il piano perché minori controlli potrebbero aumentare le dispersioni di metano e il danno climatico. Le stime dell'amministrazione precedente sui benefici della riduzione delle perdite seguivano ipotesi differenti. Per accertare il futuro effetto occorre vedere quali testi regolamentari siano finalizzati, quando entrino in vigore e come cambino i dati effettivi di emissione."
+        ],
+        "facts": [
+          "Il 27 ottobre Trump ha annunciato a Lubbock un piano per revocare limiti EPA alle emissioni di metano.",
+          "L'amministrazione ha citato un risparmio atteso di 45 miliardi e 210 milioni di barili, come stime non osservazioni."
+        ],
+        "perspectives": [
+          "L'EPA di Trump considera le regole esistenti un costo per i produttori.",
+          "Organizzazioni ambientaliste ritengono che la loro eliminazione favorirebbe fughe di metano e danni climatici."
+        ],
+        "unknowns": [
+          "La versione finale delle modifiche regolamentari e le relative scadenze non sono definite dall'annuncio.",
+          "Risparmi, nuova produzione e variazione reale delle emissioni non sono ancora misurati."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa facevano le regole sul metano del 2024 che Trump vuole cambiare?",
+            "answer": "Imponendo monitoraggio e interventi sulle perdite nelle installazioni di petrolio e gas, puntavano a limitare il metano disperso anche da alcune fonti minori. Il programma Super Emitter aiutava a individuare fughe particolarmente grandi."
+          },
+          {
+            "question": "Perché i 45 miliardi di dollari e i 210 milioni di barili citati da Trump non sono risultati del 27 ottobre?",
+            "answer": "Sono proiezioni dell'amministrazione su possibili effetti di un allentamento futuro, non quantità già risparmiate o prodotte. Dipenderanno da regolamenti effettivi, scelte delle imprese, prezzi e condizioni operative."
+          }
+        ]
+      },
+      "en": {
+        "title": "Trump announces plan to roll back US methane leak rules for oil and gas",
+        "dek": "The president cites projected $45 billion savings, but those are administration estimates, not measured outcomes or proof the regulations have already changed.",
+        "summary": "At a Texas rally on 27 October Donald Trump said his administration intended to end Biden-era restrictions on methane releases from oil and gas operations. The administration forecasts lower costs and higher production, while environmental organisations warn that leaks could rise. The political announcement is distinct from formal regulatory steps needed to amend existing rules.",
+        "impactReason": "The regulation affects a potent short-term greenhouse gas and the US fossil-fuel industry, so enacted changes could carry major environmental and economic consequences.",
+        "tags": [
+          "United-States",
+          "methane",
+          "regulation"
+        ],
+        "body": [
+          "At a campaign event in Lubbock, Texas, on 27 October 2026, US President Donald Trump announced plans to remove Biden-era limits on methane emissions from the oil and gas industry. Associated Press and The Guardian independently reported the remarks and the opposing responses. Statements at a rally do not alone establish that every affected regulatory provision was formally repealed on the same day.",
+          "The Environmental Protection Agency's 2024 rules required many operators to detect and repair leaks, including at certain smaller oil and gas facilities. The administration's intended changes also target the Super Emitter Program designed to identify particularly large releases. Methane is a powerful greenhouse gas over shorter time periods, and leaked gas is also natural gas that cannot be sold.",
+          "Trump estimated that changing the rules would save $45 billion and unlock another 210 million barrels of oil. Those figures are projections from the administration, not savings already realized or production already delivered. EPA chief Lee Zeldin argued that existing requirements imposed excessive costs on companies, whereas former federal officials had calculated substantial benefits from leak prevention.",
+          "Environmental organisations warned that weaker standards could increase methane losses and associated climate damage. The two administrations' cost-benefit estimates use different assumptions and cannot be treated as simultaneous measured outcomes. Assessing the policy's real impact will require the final regulatory texts, their effective dates and observed emissions after any changes are implemented."
+        ],
+        "facts": [
+          "Trump announced a plan to remove methane restrictions during a 27 October rally in Lubbock.",
+          "The $45 billion savings and 210 million oil barrels were administration estimates, not measured results."
+        ],
+        "perspectives": [
+          "Trump's EPA portrays the previous rules as costly for energy producers.",
+          "Environmental groups argue that loosening leak controls would increase climate pollution."
+        ],
+        "unknowns": [
+          "The final legal amendments and their implementation dates were not settled by the campaign announcement.",
+          "Actual savings, additional oil output and emissions changes remain unmeasured."
+        ],
+        "questions": [
+          {
+            "question": "What did the 2024 methane regulations require oil and gas operators to do?",
+            "answer": "They required leak detection and repairs at a range of facilities, including certain smaller sources. The Super Emitter Program was designed to identify and prompt responses to unusually large methane releases."
+          },
+          {
+            "question": "Why are Trump's $45 billion and 210 million barrel claims not outcomes from 27 October?",
+            "answer": "They are forecasts of how producers might respond to future deregulation, not completed savings or extraction. The eventual figures depend on actual rule changes, company decisions, prices and operating conditions."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "rank": 7,
+      "id": "nordic-leaders-putin-call-oct27",
+      "category": "politics",
+      "impact": 2,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
+          "url": "https://www.reuters.com/world/europe/norways-prime-minister-finlands-president-phone-call-with-putin-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Finnish and Norwegian leaders call Putin, urge restart of peace talks",
+          "url": "https://www.euronews.com/2026/10/27/finnish-and-norwegian-leaders-call-putin-urge-restart-of-peace-talks",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Norwegian Prime Minister's Office",
+          "title": "President Stubb and Prime Minister Støre held a call with President Putin",
+          "url": "https://www.regjeringen.no/en/whats-new/president-stubb-and-prime-minster-store-held-a-call-with-president-putin/id3183597/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Stubb e Støre parlano con Putin: colloquio sull'Ucraina in vista di Abu Dhabi",
+        "dek": "Il 27 ottobre Finlandia e Norvegia hanno avviato una telefonata concordata con Kyiv; i due leader non rappresentavano tutta l'Europa.",
+        "summary": "Il presidente finlandese Alexander Stubb e il premier norvegese Jonas Gahr Støre hanno parlato al telefono con Vladimir Putin da Helsinki il 27 ottobre. Il contatto, consultato con l'Ucraina, ha riguardato la guerra e le trattative previste ad Abu Dhabi. Non è stato annunciato alcun cessate il fuoco né un mandato negoziale a nome dell'Unione europea.",
+        "impactReason": "Il contatto diretto tra leader confinanti con la Russia e il Cremlino ha valore diplomatico, ma l'effetto sui negoziati resta da dimostrare.",
+        "tags": [
+          "Ucraina",
+          "diplomazia",
+          "Nord-Europa"
+        ],
+        "body": [
+          "Il 27 ottobre 2026 il presidente della Finlandia Alexander Stubb e il primo ministro norvegese Jonas Gahr Støre hanno chiamato da Helsinki il presidente russo Vladimir Putin. L'ufficio del premier norvegese ha confermato che l'iniziativa era stata presa dai due leader dopo consultazioni con l'Ucraina. Reuters ed Euronews hanno seguito l'episodio come un contatto insolito tra Mosca e governi nordici sostenitori di Kyiv.",
+          "Secondo il comunicato ufficiale, la telefonata seguiva un incontro tenuto a Oslo il 20 ottobre ed era collegata alle possibili prossime discussioni tra rappresentanti di Russia, Ucraina e Stati Uniti ad Abu Dhabi. Stubb e Støre hanno richiamato la necessità di porre fine alla guerra e di riprendere trattative. Non hanno comunicato concessioni territoriali, un testo di accordo o una nuova tregua operativa.",
+          "La dichiarazione congiunta precisa che Finlandia e Norvegia intervenivano come Stati sovrani vicini alla Russia, non come portavoce di tutta l'Europa. Reuters ha riferito che il colloquio è durato circa novanta minuti e che successivamente i leader hanno parlato con il presidente ucraino Volodymyr Zelensky. Le conversazioni consultive non equivalgono all'adesione formale di Kyiv a eventuali future proposte.",
+          "Per i due paesi confinanti con la Russia, sicurezza del Baltico e dell'estremo Nord sono motivi di interesse diretto alla de-escalation. Euronews segnala un dibattito crescente in Europa sui contatti diplomatici con il Cremlino. Questa telefonata conferma l'apertura di un canale comunicativo ma non misura da sola la disponibilità di Putin ad accettare condizioni di pace né garantisce una data per i negoziati."
+        ],
+        "facts": [
+          "Stubb e Støre hanno chiamato Putin il 27 ottobre da Helsinki in consultazione con l'Ucraina.",
+          "Il comunicato dei due governi precisa che i leader agivano per Finlandia e Norvegia, non a nome dell'Europa."
+        ],
+        "perspectives": [
+          "Stubb e Støre difendono il contatto diretto come possibile contributo alla fine della guerra.",
+          "La stampa europea sottolinea che il contatto non equivale a una svolta negoziale verificata."
+        ],
+        "unknowns": [
+          "Non è stato divulgato il contenuto integrale della conversazione.",
+          "Le eventuali proposte da presentare ad Abu Dhabi e il loro esito restano da definire."
+        ],
+        "questions": [
+          {
+            "question": "In quale veste Stubb e Støre hanno parlato con Putin il 27 ottobre?",
+            "answer": "Agivano come presidente della Finlandia e premier della Norvegia, due vicini della Russia, dopo aver consultato l'Ucraina. Il loro comunicato esclude esplicitamente che parlassero a nome di tutta l'Europa."
+          },
+          {
+            "question": "Che legame aveva la telefonata con gli incontri annunciati ad Abu Dhabi?",
+            "answer": "I leader volevano trasmettere al Cremlino messaggi sulla ripresa delle trattative in vista dei contatti previsti tra Russia, Ucraina e Stati Uniti. Il collegamento diplomatico non indica che un accordo o un cessate il fuoco sia stato già raggiunto."
+          }
+        ]
+      },
+      "en": {
+        "title": "Finland's Stubb and Norway's Støre call Putin over Ukraine ahead of Abu Dhabi talks",
+        "dek": "The 27 October call was coordinated with Kyiv, and the leaders explicitly did not speak for all of Europe.",
+        "summary": "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre spoke with Vladimir Putin by telephone from Helsinki on 27 October. The contact, made in consultation with Ukraine, addressed the war and potential negotiations in Abu Dhabi. No ceasefire or authority to negotiate for the entire European Union was announced.",
+        "impactReason": "Direct communication between Nordic neighbours of Russia and the Kremlin has diplomatic significance, but its impact on negotiations is unproven.",
+        "tags": [
+          "Ukraine",
+          "diplomacy",
+          "Nordics"
+        ],
+        "body": [
+          "On 27 October 2026 Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre called Russian President Vladimir Putin from Helsinki. The Norwegian prime minister's office confirmed the initiative was theirs and had been prepared in consultation with Ukraine. Reuters and Euronews separately covered the unusual direct contact between Moscow and two Nordic governments strongly supportive of Kyiv.",
+          "According to the official release, the call followed a meeting in Oslo on 20 October and was linked to possible forthcoming talks involving Russian, Ukrainian and American representatives in Abu Dhabi. The leaders urged an end to the war and a return to negotiations. Neither an operational ceasefire nor territorial concessions or a draft settlement were announced as results of the conversation.",
+          "The two governments explicitly said Stubb and Støre were speaking for their respective countries, not on behalf of Europe as a whole. Reuters reported a conversation lasting around ninety minutes, followed by a call with Ukrainian President Volodymyr Zelensky. Consultation and subsequent communication are diplomatically important but do not imply that Kyiv has accepted any undisclosed settlement proposals.",
+          "For countries bordering Russia, the security of the Baltic region and High North gives a direct interest in reducing escalation. Euronews placed the initiative within a wider debate about whether European leaders should speak directly to the Kremlin. The call demonstrates a communication channel, not proof that Putin has agreed to peace conditions or that the announced negotiating timetable will be fulfilled."
+        ],
+        "facts": [
+          "Stubb and Støre called Putin from Helsinki on 27 October in consultation with Ukraine.",
+          "Their governments explicitly said they spoke for Finland and Norway, not Europe as a whole."
+        ],
+        "perspectives": [
+          "The Nordic leaders argue that direct messages can help efforts to end the war.",
+          "European reporting notes that contact does not establish a negotiating breakthrough."
+        ],
+        "unknowns": [
+          "The full substance of the call has not been published.",
+          "Any concrete proposals for Abu Dhabi and their outcome remain unsettled."
+        ],
+        "questions": [
+          {
+            "question": "Whom did Stubb and Støre represent during their 27 October conversation with Putin?",
+            "answer": "They spoke as the leaders of Finland and Norway, two countries neighbouring Russia, after consulting Ukraine. Their joint statement explicitly says they did not negotiate on behalf of Europe as a whole."
+          },
+          {
+            "question": "How was the call connected to prospective Abu Dhabi negotiations?",
+            "answer": "It was intended to convey messages to Putin about resuming diplomacy ahead of contacts involving Russia, Ukraine and the United States. That diplomatic link does not establish that a ceasefire or peace agreement was already reached."
           }
         ]
       }
