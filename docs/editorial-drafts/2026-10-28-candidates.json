@@ -3,9 +3,9 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "TWENTY-FIVE substantive bilingual research drafts ready for full factual, rights, localization and repository editorial audits; NOT approved for publication.",
-    "Six original illustrations exist; nineteen still to create. Zero of eight release JSONs until complete validation.",
-    "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
+    "25 complete-length bilingual working drafts, subject to final source verification, semantic Q&A audit and technical tests.",
+    "25 original credited illustrations saved as local SVG assets; zero of eight final JSON documents exist until they are created.",
+    "No publication or CI outcome asserted here."
   ],
   "articles": [
     {
@@ -70,10 +70,10 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
-          "alt": "Illustrazione originale per Israele, gli exit poll del 27 ottobre non assegnano una maggioranza, non una fotografia",
-          "credit": "O — illustrazione vettoriale originale © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
-          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "alt": "Illustrazione simbolica originale relativa a Israele, gli exit poll del 27 ottobre non assegnano una maggioranza; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
       },
@@ -117,9 +117,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
-          "alt": "Original editorial vector depicting israel's 27 october exit polls point to no governing majority, not a photograph",
+          "alt": "Original conceptual illustration about Israel's 27 October exit polls point to no governing majority; not a photograph",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -187,10 +187,10 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
-          "alt": "Illustrazione originale per Camera, attacchi alle caselle dei deputati: coinvolto l'indirizzo parlamentare di Meloni, non una fotografia",
-          "credit": "O — illustrazione vettoriale originale © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
-          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "alt": "Illustrazione simbolica originale relativa a Camera, attacchi alle caselle dei deputati: coinvolto l'indirizzo parlamentare di Meloni; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
       },
@@ -234,9 +234,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
-          "alt": "Original editorial vector depicting italy's chamber email systems targeted, including meloni's parliamentary account, not a photograph",
+          "alt": "Original conceptual illustration about Italy's Chamber email systems targeted, including Meloni's parliamentary account; not a photograph",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -311,10 +311,10 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
-          "alt": "Illustrazione originale per DeepMind presenta Genie 4: simulazioni interattive con audio, ma accesso ancora ristretto, non una fotografia",
-          "credit": "O — illustrazione vettoriale originale © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
-          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "alt": "Illustrazione simbolica originale relativa a DeepMind presenta Genie 4: simulazioni interattive con audio, ma accesso ancora ristretto; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
       },
@@ -358,9 +358,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
-          "alt": "Original editorial vector depicting deepmind unveils genie 4 with interactive audio worlds, but access remains limited, not a photograph",
+          "alt": "Original conceptual illustration about DeepMind unveils Genie 4 with interactive audio worlds, but access remains limited; not a photograph",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -435,10 +435,10 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
-          "alt": "Illustrazione originale per OMM, nel 2025 nuovi massimi di CO₂, metano e protossido di azoto in atmosfera, non una fotografia",
-          "credit": "O — illustrazione vettoriale originale © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
-          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "alt": "Illustrazione simbolica originale relativa a OMM, nel 2025 nuovi massimi di CO₂, metano e protossido di azoto in atmosfera; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
       },
@@ -482,9 +482,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
-          "alt": "Original editorial vector depicting wmo finds record atmospheric co₂, methane and nitrous oxide in 2025, not a photograph",
+          "alt": "Original conceptual illustration about WMO finds record atmospheric CO₂, methane and nitrous oxide in 2025; not a photograph",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -559,9 +559,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
-          "alt": "Illustrazione simbolica originale di Valle d'Aosta, la Corte d'appello conferma la decadenza di Renzo Testolin; non è una fotografia",
+          "alt": "Illustrazione simbolica originale relativa a Valle d'Aosta, la Corte d'appello conferma la decadenza di Renzo Testolin; non fotografia",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -606,9 +606,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
-          "alt": "Original symbolic illustration of Valle d'Aosta appeal court removes regional president Renzo Testolin; not a photograph",
+          "alt": "Original conceptual illustration about Valle d'Aosta appeal court removes regional president Renzo Testolin; not a photograph",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -690,9 +690,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
-          "alt": "Illustrazione simbolica originale di Fossili del Triassico rivelano un antico anfibio adattato alla vita marina; non è una fotografia",
+          "alt": "Illustrazione simbolica originale relativa a Fossili del Triassico rivelano un antico anfibio adattato alla vita marina; non fotografia",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -737,9 +737,9 @@
         ],
         "image": {
           "src": "news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
-          "alt": "Original symbolic illustration of Triassic fossils reveal an ancient amphibian adapted to life at sea; not a photograph",
+          "alt": "Original conceptual illustration about Triassic fossils reveal an ancient amphibian adapted to life at sea; not a photograph",
           "credit": "O — original vector illustration © 2026 O",
-          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
           "license": "© 2026 O — original editorial illustration; all rights reserved",
           "kind": "illustration"
         }
@@ -804,7 +804,15 @@
             "question": "In che modo la mareggiata prevista può aggravare gli allagamenti causati da Arnab?",
             "answer": "Un livello del mare fino a 1–1,5 metri sopra la marea normale spinge acqua salata nelle aree costiere basse proprio mentre arrivano piogge intense. Può quindi ostacolare il drenaggio e rendere vulnerabili abitazioni, strade e campi vicini alla costa."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/cyclone-arnab-india-oct28-landfall.svg",
+          "alt": "Illustrazione simbolica originale relativa a Il ciclone Arnab raggiunge l'Andhra Pradesh: evacuazioni e trasporti sospesi; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/cyclone-arnab-india-oct28-landfall.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Cyclone Arnab reaches India's Andhra Pradesh coast after mass evacuations",
@@ -843,7 +851,15 @@
             "question": "How could Arnab's forecast storm surge intensify flooding on India's coast?",
             "answer": "A surge of up to 1–1.5 metres above normal tides can drive seawater into low-lying communities just as heavy rainfall arrives. It also slows drainage, putting coastal homes, roads and farmland at additional risk."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/cyclone-arnab-india-oct28-landfall.svg",
+          "alt": "Original conceptual illustration about Cyclone Arnab reaches India's Andhra Pradesh coast after mass evacuations; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/cyclone-arnab-india-oct28-landfall.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -905,7 +921,15 @@
             "question": "Quale effetto ha l'isolamento di almeno 30 comunità dominicane sui soccorsi?",
             "answer": "Le frane e l'acqua che interrompono le strade possono rallentare l'arrivo di forniture, ambulanze e squadre di valutazione. Questo rende più difficile sia assistere le persone sia ottenere un bilancio tempestivo dei danni."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/hispaniola-floods-haiti-dominican-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a Piogge e alluvioni sull'isola di Hispaniola: quattro morti segnalati ad Haiti; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/hispaniola-floods-haiti-dominican-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Floods hit Hispaniola, with four deaths reported in Haiti",
@@ -944,7 +968,15 @@
             "question": "How does the isolation of at least 30 Dominican communities affect relief operations?",
             "answer": "Landslides and flooded roads can delay food supplies, ambulances and damage-assessment teams. That slows both the delivery of assistance and the production of reliable estimates of needs and losses."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/hispaniola-floods-haiti-dominican-oct27.svg",
+          "alt": "Original conceptual illustration about Floods hit Hispaniola, with four deaths reported in Haiti; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/hispaniola-floods-haiti-dominican-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1013,7 +1045,15 @@
             "question": "Perché l'ampliamento del ruolo di Frontex nei rimpatri richiede verifiche sulle tutele?",
             "answer": "Operazioni coordinate fra Stati e anche fra paesi esterni all'Unione coinvolgono decisioni su asilo, rischio individuale e responsabilità per eventuali violazioni. La definizione dei poteri e dei meccanismi di controllo sarà decisiva per valutare le garanzie effettive."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/eu-frontex-reform-proposal-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a La Commissione Ue propone di rafforzare Frontex fino a 30mila agenti; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/eu-frontex-reform-proposal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "European Commission proposes expanding Frontex to 30,000 personnel",
@@ -1052,7 +1092,15 @@
             "question": "Why do Frontex's proposed return powers raise questions about legal safeguards?",
             "answer": "Coordinated removals across states, including potentially outside EU territory, engage asylum decisions, individual risks and responsibility for misconduct. The eventual division of powers and oversight mechanisms will determine how reliably those legal protections work."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/eu-frontex-reform-proposal-oct27.svg",
+          "alt": "Original conceptual illustration about European Commission proposes expanding Frontex to 30,000 personnel; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/eu-frontex-reform-proposal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1121,7 +1169,15 @@
             "question": "Perché gli otto voti di Futuro Nazionale sono entrati nel dibattito sulla maggioranza?",
             "answer": "Il margine reale è stato di tredici voti e i deputati del gruppo hanno sostenuto che il loro contributo abbia permesso al testo di passare. È una rivendicazione del peso politico nel voto, non una prova su come tutti gli altri avrebbero votato in uno scenario alternativo."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+          "alt": "Illustrazione simbolica originale relativa a Camera, passa per 13 voti l'articolo sul reintegro dei medici radiati per il vaccino; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Italy's lower house narrowly backs clause on reinstating doctors struck off over Covid vaccination",
@@ -1160,7 +1216,15 @@
             "question": "Why did Futuro Nazionale's eight votes become a focus of the debate?",
             "answer": "The actual margin was thirteen votes, and the group portrayed its votes as a decisive contribution. The close outcome reveals political leverage, although it cannot prove how everyone else would have voted in a hypothetical alternative."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+          "alt": "Original conceptual illustration about Italy's lower house narrowly backs clause on reinstating doctors struck off over Covid vaccination; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/italy-chamber-doctors-reinstatement-vote.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1229,7 +1293,15 @@
             "question": "Perché la partecipazione indiretta del 13,4% in Generali è rilevante per l'Antitrust?",
             "answer": "L'acquisizione di Mps darebbe a Intesa, tramite Mediobanca, una quota significativa in Generali, che compete con attività assicurative del gruppo. L'autorità deve valutare se la posizione resti un investimento finanziario o crei possibilità di influenzare la concorrenza."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a Intesa-Mps, la Bce autorizza il controllo: offerta e antitrust restano passaggi separati; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "ECB clears Intesa to control Monte dei Paschi, but takeover still faces other hurdles",
@@ -1268,7 +1340,15 @@
             "question": "Why does the indirect 13.4% Generali stake matter to Italy's competition watchdog?",
             "answer": "Acquiring MPS would expose Intesa, through Mediobanca, to a significant holding in Generali, which competes in insurance businesses. Regulators must judge whether the stake stays a passive financial asset or creates opportunities to influence competition."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+          "alt": "Original conceptual illustration about ECB clears Intesa to control Monte dei Paschi, but takeover still faces other hurdles; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/intesa-sanpaolo-mps-ecb-approval-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1337,7 +1417,15 @@
             "question": "Come possono migliorare molti indicatori Bes mentre oltre 5,4 milioni di persone restano in povertà assoluta?",
             "answer": "Gli indicatori misurano aspetti diversi e gruppi diversi della popolazione: progressi in salute, occupazione o reddito medio non eliminano automaticamente le privazioni più gravi. Il rapporto mostra inoltre che le medie nazionali nascondono ampi divari geografici e sociali."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+          "alt": "Illustrazione simbolica originale relativa a Bes Istat, 54 indicatori migliorano ma restano divari economici e territoriali; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Italy's well-being report finds 54 indicators improving, but regional gaps persist",
@@ -1376,7 +1464,15 @@
             "question": "How can many BES measures improve while more than 5.4 million Italians remain in absolute poverty?",
             "answer": "The indicators cover different subjects and population groups: advances in health, employment or average income do not automatically remove severe material deprivation. National averages also conceal large geographic and social disparities that the report measures separately."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+          "alt": "Original conceptual illustration about Italy's well-being report finds 54 indicators improving, but regional gaps persist; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/istat-bes-2026-regional-wellbeing-gap.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1445,7 +1541,15 @@
             "question": "Quale grandezza indica la scala multi-gigawatt dei sistemi Nvidia Vera Rubin?",
             "answer": "Descrive la dimensione pianificata della capacità infrastrutturale ed elettrica, non il numero esatto di server acquistati né il valore finanziario dei contratti. Oracle e Nvidia non hanno comunicato l'importo dell'espansione."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/oracle-ai-chips-google-nvidia-cerebras-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a Oracle amplia il cloud AI a chip Nvidia, TPU Google e sistemi Cerebras; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/oracle-ai-chips-google-nvidia-cerebras-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Oracle widens AI chip lineup with Nvidia, Google TPUs and Cerebras",
@@ -1484,7 +1588,15 @@
             "question": "What does multi-gigawatt scale mean for Oracle's Nvidia Vera Rubin plans?",
             "answer": "It describes intended power and infrastructure capacity, not an exact purchase count or the dollar value of the agreement. Neither Oracle nor Nvidia disclosed a total contract price for this expansion."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/oracle-ai-chips-google-nvidia-cerebras-oct27.svg",
+          "alt": "Original conceptual illustration about Oracle widens AI chip lineup with Nvidia, Google TPUs and Cerebras; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/oracle-ai-chips-google-nvidia-cerebras-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1553,7 +1665,15 @@
             "question": "Perché la pubblicazione asserita di dati aumenta i rischi rispetto a un semplice fermo del cloud?",
             "answer": "Se gli archivi pubblicati contengono davvero informazioni dei clienti, il danno può proseguire anche dopo la riattivazione del servizio. Occorre verificare origine e contenuto dei file prima di dichiarare un'esposizione specifica."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/gmo-onamae-customer-data-update-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a GMO verifica la pubblicazione di dati attribuiti ai clienti dopo l'attacco cloud; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/gmo-onamae-customer-data-update-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "GMO investigates online data claims following remote-desktop cloud attack",
@@ -1592,7 +1712,15 @@
             "question": "Why would a genuine online data dump increase the impact of GMO's cloud outage?",
             "answer": "If the posted files truly contain customers' information, exposure can persist after service is restored. The operator needs to verify the records' origin and content before asserting a specific data leak."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/gmo-onamae-customer-data-update-oct27.svg",
+          "alt": "Original conceptual illustration about GMO investigates online data claims following remote-desktop cloud attack; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/gmo-onamae-customer-data-update-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1661,7 +1789,15 @@
             "question": "Perché un iPhone aggiornato a iOS 27.2 potrebbe non ricevere le nuove funzioni Siri AI?",
             "answer": "Le patch di sicurezza e l'assistente avanzato hanno requisiti diversi. Siri AI dipende anche da compatibilità hardware, lingua e disponibilità nella regione: ricevere una versione del sistema non abilita automaticamente ogni servizio."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/apple-ios-272-security-update-oct26.svg",
+          "alt": "Illustrazione simbolica originale relativa a Apple distribuisce iOS 27.2 con oltre 160 correzioni di sicurezza; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/apple-ios-272-security-update-oct26.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Apple releases iOS 27.2 with over 160 security fixes",
@@ -1700,7 +1836,15 @@
             "question": "Why might an iPhone running iOS 27.2 lack Siri AI's new capabilities?",
             "answer": "Security patches and advanced assistant services have separate requirements. Siri AI also depends on hardware compatibility, supported language and regional availability, so an operating system update does not unlock every feature."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/apple-ios-272-security-update-oct26.svg",
+          "alt": "Original conceptual illustration about Apple releases iOS 27.2 with over 160 security fixes; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/apple-ios-272-security-update-oct26.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1769,7 +1913,15 @@
             "question": "Perché l'elaborazione WebAI sul dispositivo richiede comunque permessi ai siti?",
             "answer": "La localizzazione dei calcoli riduce alcuni trasferimenti, ma non garantisce che ogni sito o estensione tratti correttamente le informazioni accessibili. Le autorizzazioni delimitano quali pagine possono utilizzare il modello e proteggono l'utente da accessi non necessari."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/opera-webai-local-browser-preview-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a Opera apre l'anteprima WebAI: modelli AI locali nel browser; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/opera-webai-local-browser-preview-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Opera begins WebAI preview with local models accessible to browser extensions",
@@ -1808,7 +1960,15 @@
             "question": "Why does on-device processing through WebAI still require website permissions?",
             "answer": "Local processing avoids some data transfers, but does not ensure that every site or extension handles information responsibly. Permissions limit which pages can call the model and help prevent unnecessary access to the user's information."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/opera-webai-local-browser-preview-oct27.svg",
+          "alt": "Original conceptual illustration about Opera begins WebAI preview with local models accessible to browser extensions; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/opera-webai-local-browser-preview-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1884,7 +2044,15 @@
             "question": "Perché Lumina simula separatamente la reionizzazione di idrogeno ed elio?",
             "answer": "Le prime stelle e galassie ionizzano soprattutto l'idrogeno, mentre sorgenti molto energetiche come i quasar contribuiscono in una fase successiva all'elio. Rappresentare entrambi i processi aiuta a studiare come evolvano gas e radiazione tra le galassie."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/lumina-early-universe-frontier-simulation.svg",
+          "alt": "Illustrazione simbolica originale relativa a Lumina ricostruisce al supercomputer i primi due miliardi di anni del cosmo; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/lumina-early-universe-frontier-simulation.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Lumina supercomputer model reconstructs the early universe's first two billion years",
@@ -1923,7 +2091,15 @@
             "question": "Why does Lumina model both hydrogen and helium reionization?",
             "answer": "Early stars and galaxies mainly reionized hydrogen, whereas later energetic sources such as quasars helped reionize helium. Following both allows researchers to study the evolving temperature and electrical state of gas between galaxies."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/lumina-early-universe-frontier-simulation.svg",
+          "alt": "Original conceptual illustration about Lumina supercomputer model reconstructs the early universe's first two billion years; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/lumina-early-universe-frontier-simulation.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -1992,7 +2168,15 @@
             "question": "Perché l'alternanza a 15 Hz non significa che il macaco cambi coscientemente immagine 15 volte al secondo?",
             "answer": "La frequenza riguarda schemi registrati nei neuroni delle aree visive. Il contenuto rappresentato nei circuiti può differire dall'immagine che domina la percezione, perciò la misura non è una lettura diretta del vissuto soggettivo."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/macaque-binocular-rivalry-15hz-preprint.svg",
+          "alt": "Illustrazione simbolica originale relativa a Uno studio preliminare osserva segnali visivi alternati 15 volte al secondo nei macachi; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/macaque-binocular-rivalry-15hz-preprint.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Preprint reports 15-times-per-second switching in macaque visual brain signals",
@@ -2031,7 +2215,15 @@
             "question": "Why doesn't 15 Hz neural switching mean a macaque consciously sees fifteen different images each second?",
             "answer": "The frequency describes patterns measured in visual brain circuits, not a direct report of subjective experience. Neural representations may contain a suppressed stimulus even while a different image dominates awareness."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/macaque-binocular-rivalry-15hz-preprint.svg",
+          "alt": "Original conceptual illustration about Preprint reports 15-times-per-second switching in macaque visual brain signals; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/macaque-binocular-rivalry-15hz-preprint.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -2107,7 +2299,15 @@
             "question": "Perché le nubi di silicati su TOI-561 b sono una spiegazione e non una fotografia?",
             "answer": "L'alta riflettività deriva dalle variazioni osservate della luce e dai calcoli energetici. Le simulazioni mostrano che particelle di silicato potrebbero produrla, ma il telescopio non ha risolto direttamente i granelli né identificato in modo univoco la composizione atmosferica."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/toi561b-jwst-reflective-atmosphere.svg",
+          "alt": "Illustrazione simbolica originale relativa a Il telescopio Webb indica un'atmosfera riflettente sul pianeta di lava TOI-561 b; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/toi561b-jwst-reflective-atmosphere.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Webb observations point to a reflective atmosphere around lava world TOI-561 b",
@@ -2146,7 +2346,15 @@
             "question": "Why are silicate clouds on TOI-561 b a model-based explanation rather than a direct image?",
             "answer": "The high reflectivity comes from observed brightness changes and energy-balance calculations. Climate models show that silicate particles could produce it, but Webb did not resolve cloud grains or uniquely measure the atmosphere's composition."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/toi561b-jwst-reflective-atmosphere.svg",
+          "alt": "Original conceptual illustration about Webb observations point to a reflective atmosphere around lava world TOI-561 b; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/toi561b-jwst-reflective-atmosphere.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -2215,7 +2423,15 @@
             "question": "Perché l'annuncio statunitense di concedere visti non chiarisce tutta la vicenda giudiziaria brasiliana?",
             "answer": "Un visto riguarda la possibilità di entrare negli Stati Uniti secondo le regole americane, non cancella un obbligo di consegna dei documenti disposto dalla giustizia brasiliana. Neppure permette di dedurre un esito dell'inchiesta penale."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/flavio-bolsonaro-united-states-passport-order.svg",
+          "alt": "Illustrazione simbolica originale relativa a Brasile, Flávio Bolsonaro lascia il Paese dopo l'ordine di consegnare i passaporti; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/flavio-bolsonaro-united-states-passport-order.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Brazil's Flávio Bolsonaro leaves country after passport-surrender order",
@@ -2254,7 +2470,15 @@
             "question": "Why doesn't the US offer of visas resolve the legal implications in Brazil?",
             "answer": "A US visa concerns permission to enter under American immigration law, whereas a Brazilian court's passport-surrender order is a separate legal obligation. The visa announcement also cannot determine the outcome of the underlying criminal investigation."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/flavio-bolsonaro-united-states-passport-order.svg",
+          "alt": "Original conceptual illustration about Brazil's Flávio Bolsonaro leaves country after passport-surrender order; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/flavio-bolsonaro-united-states-passport-order.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -2316,7 +2540,15 @@
             "question": "Perché i 45 miliardi di dollari e i 210 milioni di barili citati da Trump non sono risultati del 27 ottobre?",
             "answer": "Sono proiezioni dell'amministrazione su possibili effetti di un allentamento futuro, non quantità già risparmiate o prodotte. Dipenderanno da regolamenti effettivi, scelte delle imprese, prezzi e condizioni operative."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/us-trump-methane-regulation-reversal-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a USA, Trump annuncia il ritiro delle regole sul metano degli impianti petroliferi; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/us-trump-methane-regulation-reversal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Trump announces plan to roll back US methane leak rules for oil and gas",
@@ -2355,7 +2587,15 @@
             "question": "Why are Trump's $45 billion and 210 million barrel claims not outcomes from 27 October?",
             "answer": "They are forecasts of how producers might respond to future deregulation, not completed savings or extraction. The eventual figures depend on actual rule changes, company decisions, prices and operating conditions."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/us-trump-methane-regulation-reversal-oct27.svg",
+          "alt": "Original conceptual illustration about Trump announces plan to roll back US methane leak rules for oil and gas; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/us-trump-methane-regulation-reversal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -2424,7 +2664,15 @@
             "question": "Che legame aveva la telefonata con gli incontri annunciati ad Abu Dhabi?",
             "answer": "I leader volevano trasmettere al Cremlino messaggi sulla ripresa delle trattative in vista dei contatti previsti tra Russia, Ucraina e Stati Uniti. Il collegamento diplomatico non indica che un accordo o un cessate il fuoco sia stato già raggiunto."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/nordic-leaders-putin-call-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a Stubb e Støre parlano con Putin: colloquio sull'Ucraina in vista di Abu Dhabi; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/nordic-leaders-putin-call-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Finland's Stubb and Norway's Støre call Putin over Ukraine ahead of Abu Dhabi talks",
@@ -2463,7 +2711,15 @@
             "question": "How was the call connected to prospective Abu Dhabi negotiations?",
             "answer": "It was intended to convey messages to Putin about resuming diplomacy ahead of contacts involving Russia, Ukraine and the United States. That diplomatic link does not establish that a ceasefire or peace agreement was already reached."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/nordic-leaders-putin-call-oct27.svg",
+          "alt": "Original conceptual illustration about Finland's Stubb and Norway's Støre call Putin over Ukraine ahead of Abu Dhabi talks; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/nordic-leaders-putin-call-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -2532,7 +2788,15 @@
             "question": "Perché l'appello sul Sudan cita specificamente l'accesso aereo verso il Darfur?",
             "answer": "Il conflitto e le restrizioni ai collegamenti rendono difficile il trasporto di aiuti e l'evacuazione sanitaria in alcune aree. Aprire percorsi anche aerei potrebbe consentire consegne e assistenza dove le rotte terrestri sono bloccate o pericolose."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/sudan-famine-risk-joint-appeal-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a Sudan, oltre 30 paesi chiedono accesso agli aiuti per scongiurare la carestia; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/sudan-famine-risk-joint-appeal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "More than 30 governments seek Sudan aid access to avert famine risk",
@@ -2571,7 +2835,15 @@
             "question": "Why does the international appeal specifically call for air access into Darfur?",
             "answer": "Conflict and transport restrictions make it difficult to deliver relief or evacuate patients from some areas. Air corridors could allow supplies and medical assistance to reach places where overland routes are blocked or dangerous."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/sudan-famine-risk-joint-appeal-oct27.svg",
+          "alt": "Original conceptual illustration about More than 30 governments seek Sudan aid access to avert famine risk; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/sudan-famine-risk-joint-appeal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -2640,7 +2912,15 @@
             "question": "Perché il riferimento europeo a tre gradi di riscaldamento non è una previsione inevitabile?",
             "answer": "È uno scenario usato per valutare la robustezza di edifici e infrastrutture in condizioni gravi. Il riscaldamento futuro dipende dalle emissioni e da molti altri fattori; pianificare per un rischio non significa affermare che si realizzerà certamente."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/eu-climate-resilience-law-proposal-oct27.svg",
+          "alt": "Illustrazione simbolica originale relativa a L'Ue propone norme per preparare città e infrastrutture a rischi climatici maggiori; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/eu-climate-resilience-law-proposal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "EU Commission proposes climate resilience law for cities and infrastructure",
@@ -2679,7 +2959,15 @@
             "question": "Why isn't the EU's three-degree warming scenario an inevitable prediction?",
             "answer": "It is a severe scenario used to test whether infrastructure and communities can withstand future risks. Actual warming depends on emissions and other factors; planning for an outcome does not establish that it will certainly happen."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/eu-climate-resilience-law-proposal-oct27.svg",
+          "alt": "Original conceptual illustration about EU Commission proposes climate resilience law for cities and infrastructure; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/eu-climate-resilience-law-proposal-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -2741,7 +3029,15 @@
             "question": "Perché le accuse del governo dell'Oromia contro l'OLA non permettono ancora di attribuire le uccisioni?",
             "answer": "Il governo regionale ha indicato l'OLA, ma non ha diffuso prove pubbliche sufficienti; una fonte vicina ai ribelli ha formulato una versione opposta. Le responsabilità richiedono verifiche autonome sul campo, non soltanto dichiarazioni delle parti."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/ethiopia-oromia-church-reports-60-killed.svg",
+          "alt": "Illustrazione simbolica originale relativa a Etiopia, la Chiesa ortodossa denuncia almeno 60 morti in due attacchi nell'Oromia; non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/ethiopia-oromia-church-reports-60-killed.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Ethiopian Orthodox Church reports at least 60 killed in two Oromia attacks",
@@ -2780,7 +3076,15 @@
             "question": "Why can't Oromia's government's allegations against the OLA be treated as proven responsibility?",
             "answer": "The government accused the OLA without presenting conclusive public evidence, while a rebel-linked source offered a conflicting accusation. Determining responsibility requires independent investigation rather than accepting either side's statements."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/ethiopia-oromia-church-reports-60-killed.svg",
+          "alt": "Original conceptual illustration about Ethiopian Orthodox Church reports at least 60 killed in two Oromia attacks; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-28/assets/ethiopia-oromia-church-reports-60-killed.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     }
   ],
