@@ -20,7 +20,7 @@ concurrency:
   cancel-in-progress: true
 jobs:
   validate-and-build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       VITE_BASE_PATH: '/'
       PUBLIC_SITE_ORIGIN: 'https://onews.app'
@@ -53,7 +53,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: validate-and-build
     steps:
       - name: Deploy to GitHub Pages
