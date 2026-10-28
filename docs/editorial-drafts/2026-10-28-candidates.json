@@ -4,7 +4,7 @@
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
     "Four substantial IT/EN working articles based on original independently edited sources, not certified newsroom-ready final texts.",
-    "Image assets, remaining 21 subjects, comprehensive source rights checks, edition JSON and CI tests are NOT complete.",
+    "Four original credited SVG cover illustrations created in news/2026-10-28/assets; 21 additional story illustrations and final news JSONs remain incomplete.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -67,7 +67,15 @@
             "question": "Quale ruolo potrebbero avere i partiti arabi nelle trattative tra Netanyahu ed Eisenkot?",
             "answer": "Se nessuno dei due blocchi principali raggiunge la maggioranza, i loro seggi possono risultare determinanti per sostenere o impedire una coalizione. La possibilità concreta dipende però dalle scelte dei partiti, e Eisenkot ha espresso forti riserve su un'intesa con essi."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+          "alt": "Illustrazione originale per Israele, gli exit poll del 27 ottobre non assegnano una maggioranza, non una fotografia",
+          "credit": "O — illustrazione vettoriale originale © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Israel's 27 October exit polls point to no governing majority",
@@ -106,7 +114,15 @@
             "question": "How could Arab-led parties affect coalition talks between Netanyahu and Eisenkot?",
             "answer": "When neither main bloc has a majority, their seats could make the difference between a viable coalition and a failed one. Their actual role depends on the parties' decisions, and Eisenkot has voiced strong reservations about an arrangement involving them."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+          "alt": "Original editorial vector depicting israel's 27 october exit polls point to no governing majority, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/israel-exit-polls-no-majority-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -168,7 +184,15 @@
             "question": "Perché Palazzo Chigi ha specificato la funzione dell'indirizzo di Giorgia Meloni?",
             "answer": "La casella segnalata è associata al mandato parlamentare, mentre le comunicazioni dell'esecutivo passano da canali diversi. La distinzione delimita il tipo di comunicazioni potenzialmente esposte senza dimostrare che quelle parlamentari siano state lette."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+          "alt": "Illustrazione originale per Camera, attacchi alle caselle dei deputati: coinvolto l'indirizzo parlamentare di Meloni, non una fotografia",
+          "credit": "O — illustrazione vettoriale originale © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Italy's Chamber email systems targeted, including Meloni's parliamentary account",
@@ -207,7 +231,15 @@
             "question": "Why did Meloni's office specify what her targeted email address was used for?",
             "answer": "The address belongs to her parliamentary role, whereas government business uses other channels. This distinction narrows the category of communications potentially at risk without showing that any parliamentary messages were read."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+          "alt": "Original editorial vector depicting italy's chamber email systems targeted, including meloni's parliamentary account, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/camera-parliamentary-email-attack-oct27.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -276,7 +308,15 @@
             "question": "Che cosa comporta il limite di circa due minuti nella continuità di Genie 4?",
             "answer": "Oggetti e dettagli di una scena possono perdere coerenza nelle simulazioni più lunghe. È quindi difficile assumere che un percorso esteso riproduca condizioni costanti, soprattutto per test che richiedono precisione e ripetibilità."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+          "alt": "Illustrazione originale per DeepMind presenta Genie 4: simulazioni interattive con audio, ma accesso ancora ristretto, non una fotografia",
+          "credit": "O — illustrazione vettoriale originale © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "DeepMind unveils Genie 4 with interactive audio worlds, but access remains limited",
@@ -315,7 +355,15 @@
             "question": "Why does Genie 4's roughly two-minute coherence limit matter for testing?",
             "answer": "Objects and details can drift in longer simulations. Tests that depend on constant conditions and repeatable outcomes cannot assume those qualities solely from a short demonstration of an interactive world."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+          "alt": "Original editorial vector depicting deepmind unveils genie 4 with interactive audio worlds, but access remains limited, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/google-deepmind-genie4-research-preview.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -384,7 +432,15 @@
             "question": "Perché il record di CO₂ può crescere anche se l'aumento annuo rallenta rispetto al 2024?",
             "answer": "La concentrazione misura uno stock accumulato: se le emissioni aggiungono ancora più gas di quanto i sistemi naturali assorbano, il totale sale. Un incremento inferiore a quello dell'anno precedente resta un incremento e può dunque stabilire un nuovo massimo."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+          "alt": "Illustrazione originale per OMM, nel 2025 nuovi massimi di CO₂, metano e protossido di azoto in atmosfera, non una fotografia",
+          "credit": "O — illustrazione vettoriale originale © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+          "license": "© 2026 O — illustrazione editoriale originale; tutti i diritti riservati",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "WMO finds record atmospheric CO₂, methane and nitrous oxide in 2025",
@@ -423,8 +479,32 @@
             "question": "How can CO₂ reach another record when its annual increase is slower than in 2024?",
             "answer": "Concentration measures an accumulated stock: if additions still exceed the quantity absorbed by natural sinks, the total continues rising. A smaller positive increase is still an increase and can produce a fresh record."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+          "alt": "Original editorial vector depicting wmo finds record atmospheric co₂, methane and nitrous oxide in 2025, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/wmo-greenhouse-gas-bulletin-2025-records.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     }
-  ]
+  ],
+  "structuralCheck": {
+    "it": {
+      "articles": 4,
+      "questions": 8,
+      "repeatedQuestions": 0,
+      "bodyParagraphs": 16,
+      "illustrations": 4
+    },
+    "en": {
+      "articles": 4,
+      "questions": 8,
+      "repeatedQuestions": 0,
+      "bodyParagraphs": 16,
+      "illustrations": 4
+    }
+  }
 }
