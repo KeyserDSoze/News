@@ -3,8 +3,8 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "Four substantial IT/EN working articles based on original independently edited sources, not certified newsroom-ready final texts.",
-    "Four original credited SVG cover illustrations created in news/2026-10-28/assets; 21 additional story illustrations and final news JSONs remain incomplete.",
+    "Six complete-length bilingual working articles, independently cross-checked at draft level, not certified for publication.",
+    "Four original credited SVGs are in news/2026-10-28/assets; two additional illustrated covers and 19 other full stories remain outstanding.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -489,22 +489,241 @@
           "kind": "illustration"
         }
       }
+    },
+    {
+      "section": "italy",
+      "id": "valle-aosta-testolin-appeal-ruling",
+      "rank": 2,
+      "category": "politics",
+      "impact": 2,
+      "sources": [
+        {
+          "outlet": "RaiNews TGR Valle d'Aosta",
+          "title": "Testolin decaduto dalla carica di presidente",
+          "url": "https://www.rainews.it/tgr/vda/articoli/2026/10/per-la-corte-dappello-di-torino-testolin-era-ineleggibile-b0d26f60-1a43-4329-b405-e96c4714d341.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Appello conferma decadenza del presidente della Regione Valle d'Aosta",
+          "url": "https://www.ansa.it/valledaosta/notizie/2026/10/27/appello-conferma-decadenza-del-presidente-della-regione-valle-daosta_0ac6f233-0724-469c-9350-7b89ab4556b1.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "La Stampa",
+          "title": "Valle d’Aosta, Testolin decade da presidente. Anche l’appello gli dà torto",
+          "url": "https://www.lastampa.it/aosta/2026/10/28/news/valle_d_aosta_testolin_decade_da_presidente_anche_l_appello_gli_da_torto-15779876/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Valle d'Aosta, la Corte d'appello conferma la decadenza di Renzo Testolin",
+        "dek": "La sentenza depositata il 27 ottobre giudica incompatibile la quarta presenza consecutiva in giunta con i limiti regionali.",
+        "summary": "La Corte d'appello di Torino ha confermato il 27 ottobre 2026 l'ineleggibilità di Renzo Testolin alla presidenza della Valle d'Aosta per il superamento dei limiti regionali ai mandati di giunta. La pronuncia, successiva all'udienza del 13 ottobre, rende efficace la decadenza e apre una crisi nella maggioranza regionale.",
+        "impactReason": "La pronuncia cambia la guida dell'amministrazione regionale e avvia una procedura politica che può portare a una nuova giunta o a elezioni anticipate.",
+        "tags": [
+          "Valle-d'Aosta",
+          "Testolin",
+          "mandati"
+        ],
+        "body": [
+          "Il 27 ottobre 2026 la Corte d'appello di Torino ha depositato una sentenza che conferma il giudizio di primo grado del Tribunale di Aosta: Renzo Testolin, esponente dell'Union valdôtaine, non poteva essere eletto presidente della Regione autonoma Valle d'Aosta per il limite ai mandati consecutivi. L'udienza d'appello si era tenuta il 13 ottobre, ma la decisione è diventata pubblica e operativa soltanto il 27. ANSA e RaiNews TGR Valle d'Aosta hanno ricostruito separatamente la cronologia.",
+          "Il punto giuridico riguarda la legge regionale n. 21 del 2007 e il computo degli incarichi nella giunta, anche quando sono stati ricoperti ruoli differenti o il mandato non è stato esercitato per l'intera legislatura. Secondo i giudici, Testolin era già stato componente dell'esecutivo nelle legislature XIV, XV e XVI, e la sua nuova nomina nella XVII violava il limite applicabile. Le motivazioni respingono la lettura alternativa avanzata dalla difesa, che aveva richiamato anche il diritto costituzionale all'elettorato passivo.",
+          "La sentenza del Tribunale di Aosta era stata inizialmente sospesa in ragione del ricorso di Testolin. La pronuncia d'appello invece rende efficace la decadenza. RaiNews riferisce che spetta al presidente dell'assemblea Stefano Aggravi comunicare formalmente la situazione al Consiglio regionale. Anche la giunta risente della perdita del presidente, e le forze che sostenevano la maggioranza devono valutare una soluzione istituzionale.",
+          "Il ricorso alla Corte di cassazione per questioni di legittimità rimane in linea teorica una strada processuale, ma non equivale a una sospensione automatica della decadenza. La Stampa indica una finestra di sessanta giorni per ricostituire un governo regionale ed evitare elezioni anticipate. Nessuna delle cronache consultate dimostra che sia stata già raggiunta un'intesa su un successore: restano distinti gli effetti giudiziari della decisione e le decisioni politiche ancora da prendere."
+        ],
+        "facts": [
+          "La sentenza della Corte d'appello è stata depositata il 27 ottobre dopo l'udienza del 13 ottobre.",
+          "Il giudizio conferma l'ineleggibilità e la decadenza di Testolin rispetto alla XVII legislatura."
+        ],
+        "perspectives": [
+          "La difesa di Testolin ha sostenuto una diversa interpretazione del limite e del diritto a essere eletto.",
+          "Alleanza Verdi Sinistra, promotrice del ricorso, ha accolto favorevolmente la conferma del primo grado."
+        ],
+        "unknowns": [
+          "Non è stata ancora definita una nuova maggioranza con un successore alla presidenza.",
+          "Non è noto se Testolin proporrà ricorso in Cassazione."
+        ],
+        "questions": [
+          {
+            "question": "Perché la Corte d'appello ha conteggiato anche i precedenti incarichi di Testolin come assessore?",
+            "answer": "La legge regionale riguarda il servizio nella giunta nelle legislature consecutive, non soltanto gli anni trascorsi alla sua presidenza. I giudici hanno così considerato gli incarichi svolti nelle legislature XIV, XV e XVI prima della nuova nomina."
+          },
+          {
+            "question": "Quale passaggio istituzionale segue la decadenza di Testolin in Valle d'Aosta?",
+            "answer": "Il presidente del Consiglio regionale deve comunicare la decisione all'assemblea, mentre i partiti valutano se ricostituire una maggioranza e una giunta. La ricostituzione entro la finestra prevista potrebbe evitare elezioni anticipate."
+          }
+        ]
+      },
+      "en": {
+        "title": "Valle d'Aosta appeal court removes regional president Renzo Testolin",
+        "dek": "A ruling filed on 27 October finds that a fourth consecutive term in regional executive office breached term limits.",
+        "summary": "The Turin Court of Appeal upheld Renzo Testolin's ineligibility to serve as president of Italy's Valle d'Aosta region on 27 October 2026. It ruled that he had exceeded the regional limits on successive executive appointments. The ruling, following a 13 October hearing, takes effect and opens a regional government crisis.",
+        "impactReason": "The ruling removes the head of a regional administration and sets in motion a political process that could produce a new cabinet or early elections.",
+        "tags": [
+          "Valle-d'Aosta",
+          "Testolin",
+          "term-limits"
+        ],
+        "body": [
+          "On 27 October 2026 the Turin Court of Appeal filed a ruling upholding an earlier judgment by the Aosta tribunal: Renzo Testolin, of the Union Valdôtaine party, was not eligible to become president of the autonomous region because of limits on consecutive executive mandates. The appeal hearing took place on 13 October, but the ruling was published and took effect on 27 October. ANSA and regional RaiNews reported the chronology independently.",
+          "The legal issue is the 2007 regional law and how membership of the regional executive is counted, including service in different roles and terms that did not last a full legislature. Judges determined that Testolin had already served in the regional cabinet during the 14th, 15th and 16th legislatures, so his new appointment in the 17th crossed the applicable limit. The court rejected a competing reading put forward by his legal team concerning his constitutional right to stand for office.",
+          "An appeal had previously suspended the effect of the original Aosta judgment. The new appellate decision makes the removal effective. RaiNews said assembly president Stefano Aggravi was responsible for formally informing the regional council. The cabinet's future is also affected by the president's departure, requiring governing parties to consider how they will manage the institutional change.",
+          "A further appeal to Italy's Court of Cassation on legal grounds is theoretically possible, but it would not automatically undo the appellate ruling. La Stampa described a sixty-day period in which parties could try to reconstitute a regional government rather than face early elections. The reporting does not establish that a new governing arrangement has already been agreed: the court's decision and coalition negotiations are distinct events."
+        ],
+        "facts": [
+          "The appellate judgment was filed on 27 October, after a hearing on 13 October.",
+          "It confirmed the finding that Testolin was ineligible for the presidency of the 17th regional legislature."
+        ],
+        "perspectives": [
+          "Testolin's legal team argued for a different reading of the term-limit law and eligibility rights.",
+          "The Green and Left Alliance, which brought the challenge, welcomed the appeal court's decision."
+        ],
+        "unknowns": [
+          "Regional parties had not finalized a new majority and presidential replacement.",
+          "It was not known whether Testolin would pursue a further legal appeal."
+        ],
+        "questions": [
+          {
+            "question": "Why did the appeal court count Testolin's earlier service as an assessor against his eligibility?",
+            "answer": "The regional rule concerns membership of the executive across successive legislatures rather than years as president alone. Judges counted his service in the 14th, 15th and 16th legislatures when assessing the appointment in the 17th."
+          },
+          {
+            "question": "What happens to Valle d'Aosta's institutions after Testolin's removal?",
+            "answer": "The regional council is formally notified and the governing parties must decide whether they can put together a new majority and cabinet. Forming one within the prescribed period could avoid early elections."
+          }
+        ]
+      }
+    },
+    {
+      "section": "science",
+      "id": "gerrothorax-maritimus-marine-amphibian",
+      "rank": 2,
+      "category": "society",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Ancient armored bottom-feeder is first seagoing amphibian",
+          "url": "https://www.reuters.com/business/environment/ancient-armored-bottom-feeder-is-first-seagoing-amphibian-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature News",
+          "title": "Evolutionary 'game-changer': weird armoured amphibian lived in ancient seas",
+          "url": "https://www.nature.com/articles/d41586-026-03440-1",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Popular Science",
+          "title": "Earth’s first fully-marine amphibian stalked the seafloor with a chunky, bony body",
+          "url": "https://www.popsci.com/environment/first-fully-marine-amphibian-china/",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature Ecology & Evolution",
+          "title": "A fully marine stem amphibian from the Late Triassic of China",
+          "url": "https://www.nature.com/articles/s41559-026-03209-9",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Fossili del Triassico rivelano un antico anfibio adattato alla vita marina",
+        "dek": "Gerrothorax maritimus, descritto il 26 ottobre, è noto da due scheletri quasi completi trovati in sedimenti marini cinesi.",
+        "summary": "Uno studio pubblicato su Nature Ecology & Evolution il 26 ottobre 2026 descrive Gerrothorax maritimus, un anfibio arcaico vissuto circa 237 milioni di anni fa in un ambiente marino nell'attuale Guizhou, in Cina. I fossili e la chimica delle ossa sostengono una vita in mare; il modo esatto in cui l'animale gestiva il sale resta un'ipotesi.",
+        "impactReason": "La scoperta modifica il quadro fossile delle capacità degli antichi anfibi di vivere stabilmente nel mare, ma i meccanismi fisiologici restano da ricostruire.",
+        "tags": [
+          "Triassico",
+          "anfibi",
+          "fossili"
+        ],
+        "body": [
+          "Uno studio pubblicato il 26 ottobre 2026 su Nature Ecology & Evolution presenta Gerrothorax maritimus, una nuova specie di anfibio arcaico vissuta circa 237 milioni di anni fa durante il Triassico. L'équipe ha studiato due scheletri quasi completi recuperati in provincia di Guizhou, nella Cina meridionale, all'interno di rocce deposte quando la regione era sommersa dal mare. Il nome proposto indica la particolarità di un anfibio che poteva vivere lontano dall'acqua dolce.",
+          "Il materiale scheletrico descrive un animale appiattito e corazzato, lungo circa 74–75 centimetri secondo le ricostruzioni riportate da Reuters e Nature News. Il cranio ampio e la bocca suggeriscono un predatore da agguato sul fondo marino, capace probabilmente di aspirare le prede. Le ossa fossili mostrano l'anatomia; il comportamento alimentare deriva invece da inferenze sulla forma e dai confronti con animali moderni, non da osservazioni dirette.",
+          "Il luogo del ritrovamento da solo non sarebbe sufficiente a escludere che una carcassa sia stata trasportata in mare. Gli autori combinano il contesto geologico con segnali chimici nelle ossa, interpretati come compatibili con una crescita avvenuta nell'ambiente marino. Questa convergenza è cruciale: l'ipotesi di un vero adattamento permanente è più forte di quella che si tratterebbe soltanto di resti trascinati dai fiumi dopo la morte.",
+          "Gli anfibi moderni in genere perdono acqua o assorbono sali attraverso la pelle permeabile, una barriera alla vita nell'oceano. Il gruppo di ricerca propone che la corazzatura ossea potesse ridurre gli scambi d'acqua e che le branchie contribuissero all'eliminazione del sale; sono ipotesi fisiologiche, non organi molli conservati nei reperti. La nuova specie indica dunque un esperimento evolutivo finora non documentato per questi vertebrati, senza dimostrare come funzionasse ogni suo adattamento."
+        ],
+        "facts": [
+          "Lo studio del 26 ottobre descrive due scheletri quasi completi di Gerrothorax maritimus risalenti a circa 237 milioni di anni fa.",
+          "I fossili provengono da rocce marine del Guizhou e l'analisi delle ossa avvalora una crescita in ambiente salato."
+        ],
+        "perspectives": [
+          "Gli autori interpretano il ritrovamento come prova del primo anfibio arcaico documentato come pienamente marino.",
+          "Nature News e Reuters distinguono l'anatomia fossile dai possibili meccanismi di tolleranza al sale."
+        ],
+        "unknowns": [
+          "La fisiologia esatta degli scambi di sali e acqua non è direttamente osservabile nei reperti.",
+          "Il ruolo relativo della corazzatura e delle branchie nella gestione della salinità non è quantificato."
+        ],
+        "questions": [
+          {
+            "question": "Perché la chimica ossea di Gerrothorax maritimus è importante oltre al luogo del fossile?",
+            "answer": "Un corpo potrebbe essere stato trasportato in un deposito marino dopo la morte. I segnali chimici delle ossa permettono di valutare l'ambiente in cui l'animale è cresciuto e rafforzano, insieme alla geologia, l'interpretazione di una vita in mare."
+          },
+          {
+            "question": "In che modo la corazzatura di Gerrothorax potrebbe aver facilitato la vita in acqua salata?",
+            "answer": "I ricercatori ipotizzano che la protezione ossea limitasse l'esposizione della pelle permeabile, riducendo gli scambi incontrollati con l'acqua salata. La corazzatura è conservata, ma il meccanismo di regolazione dei sali resta una spiegazione proposta, non una misura diretta."
+          }
+        ]
+      },
+      "en": {
+        "title": "Triassic fossils reveal an ancient amphibian adapted to life at sea",
+        "dek": "Gerrothorax maritimus, described on 26 October, is known from two near-complete skeletons found in marine deposits in China.",
+        "summary": "A study published in Nature Ecology & Evolution on 26 October 2026 describes Gerrothorax maritimus, an early amphibian that lived around 237 million years ago in what was then a marine environment in China's Guizhou province. The fossils and bone chemistry support an ocean-dwelling life; exactly how the animal handled salt remains hypothetical.",
+        "impactReason": "The finding expands the fossil evidence for ancient amphibians living permanently at sea, although their physiological adaptations remain incompletely understood.",
+        "tags": [
+          "Triassic",
+          "amphibians",
+          "fossils"
+        ],
+        "body": [
+          "A paper published in Nature Ecology & Evolution on 26 October 2026 describes Gerrothorax maritimus, a newly identified early amphibian species from about 237 million years ago in the Triassic. Researchers examined two almost complete skeletons recovered in China's southern Guizhou province, from rocks laid down when the area was covered by sea. The proposed species name highlights the unusual ability of an amphibian lineage to occupy an environment far from fresh water.",
+          "The preserved skeletons show a flattened, heavily armoured animal approximately 74–75 centimetres long, according to reconstructions discussed by Reuters and Nature News. A broad skull and mouth suggest a seafloor ambush predator that may have sucked prey into its mouth. The fossil bones document anatomy directly; its feeding behaviour is inferred from shape and comparisons with living animals, not observed.",
+          "A marine location alone would not rule out a body washed out from a river after death. The authors combined the geological setting with chemical signatures preserved in the bones, which they interpreted as consistent with growth in marine conditions. This independent line of evidence strengthens the case that the species actually lived in salt water, rather than merely having its remains deposited there.",
+          "Modern amphibians generally have permeable skin that complicates survival in salty water through uncontrolled movement of water and salts. The research team proposes that bony armour reduced skin exposure and that gills might have helped eliminate excess salt. These are physiological explanations inferred from hard parts, not observations of preserved soft organs. The discovery points to an evolutionary solution not previously documented in the fossil record without demonstrating every component of that solution."
+        ],
+        "facts": [
+          "The 26 October research paper identifies two near-complete skeletons of Gerrothorax maritimus dated to around 237 million years ago.",
+          "The fossils occur in marine rocks in Guizhou, and bone chemistry supports growth under marine conditions."
+        ],
+        "perspectives": [
+          "The paper's authors present the animal as the first known fully marine stem amphibian.",
+          "Nature News and Reuters distinguish fossil anatomy from proposed explanations for salt tolerance."
+        ],
+        "unknowns": [
+          "The precise physiology of salt and water exchange cannot be directly observed from the preserved bones.",
+          "The respective contributions of armour and gills to salt regulation have not been quantified."
+        ],
+        "questions": [
+          {
+            "question": "Why does the bone chemistry of Gerrothorax maritimus matter alongside its marine fossil location?",
+            "answer": "An animal's body might have washed into a marine deposit after death. Chemical signals in its bones help indicate the environment in which it grew and, together with the geological setting, support an interpretation of life at sea."
+          },
+          {
+            "question": "How might Gerrothorax's bony armour have made saltwater life possible?",
+            "answer": "Researchers propose that its bony covering reduced the exposure of permeable skin and so limited uncontrolled water and salt exchange. The armour is preserved, but the actual physiological control of salt remains a hypothesis rather than a direct measurement."
+          }
+        ]
+      }
     }
   ],
   "structuralCheck": {
     "it": {
-      "articles": 4,
-      "questions": 8,
-      "repeatedQuestions": 0,
-      "bodyParagraphs": 16,
-      "illustrations": 4
+      "articles": 6,
+      "questions": 12,
+      "paragraphs": 24
     },
     "en": {
-      "articles": 4,
-      "questions": 8,
-      "repeatedQuestions": 0,
-      "bodyParagraphs": 16,
-      "illustrations": 4
+      "articles": 6,
+      "questions": 12,
+      "paragraphs": 24
     }
   }
 }
