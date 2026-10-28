@@ -1,0 +1,430 @@
+{
+  "status": "WORKING DRAFTS, NOT A PUBLISHABLE EDITION",
+  "date": "2026-10-28",
+  "reviewedAt": "2026-10-28 morning Europe/Rome",
+  "notes": [
+    "Four substantial IT/EN working articles based on original independently edited sources, not certified newsroom-ready final texts.",
+    "Image assets, remaining 21 subjects, comprehensive source rights checks, edition JSON and CI tests are NOT complete.",
+    "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
+  ],
+  "articles": [
+    {
+      "section": "world",
+      "id": "israel-exit-polls-no-majority-oct27",
+      "rank": 1,
+      "category": "politics",
+      "impact": 3,
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "The Latest: As votes are counted, no clear winner emerges in Israel's election",
+          "url": "https://apnews.com/article/52c6f5a0a720a4ffc08633229e796415",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Israeli exit polls show deadlock, point to setback for Netanyahu",
+          "url": "https://www.reuters.com/world/middle-east/netanyahus-political-survival-line-israel-votes-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Israele, gli exit poll del 27 ottobre non assegnano una maggioranza",
+        "dek": "Nessuno dei due blocchi raggiunge i 61 seggi: il conteggio e la formazione di una coalizione restano passaggi distinti.",
+        "summary": "Dopo la chiusura delle urne israeliane il 27 ottobre, le proiezioni televisive non hanno attribuito a Benjamin Netanyahu né a Gadi Eisenkot i 61 seggi necessari per controllare la Knesset. L'affluenza comunicata dalla commissione elettorale ha raggiunto il 77,7%. Gli exit poll sono stime, non la ripartizione definitiva dei seggi.",
+        "impactReason": "L'incertezza sul governo israeliano può influire sulla politica e sulla diplomazia regionale; gli exit poll non bastano però a stabilire l'esecutivo.",
+        "tags": [
+          "Israele",
+          "Knesset",
+          "coalizioni"
+        ],
+        "body": [
+          "Le urne israeliane si sono chiuse alle 22 locali di martedì 27 ottobre 2026. Le principali reti televisive hanno pubblicato exit poll che indicavano un confronto senza maggioranza fra lo schieramento del primo ministro Benjamin Netanyahu e quello guidato dall'ex capo dell'esercito Gadi Eisenkot. Reuters e Associated Press concordano sul dato essenziale: nessun blocco risultava in grado di ottenere autonomamente almeno 61 seggi.",
+          "La Knesset è composta da 120 deputati e il voto è assegnato a liste di partito, non direttamente a un candidato premier. La commissione elettorale ha riportato un'affluenza del 77,7%, la più alta in oltre due decenni secondo Reuters. I primi scrutini parziali pubblicati il 28 ottobre non sono equivalenti alla distribuzione definitiva dei seggi e possono modificare le proiezioni televisive.",
+          "I partiti arabi, che restano fuori dai due principali raggruppamenti negli exit poll, potrebbero incidere sulla costruzione di una maggioranza. La loro forza parlamentare prevista non implica automaticamente l'ingresso in un governo: le possibili alleanze dipendono da decisioni esplicite dei dirigenti. Reuters rileva che Eisenkot ha escluso quasi del tutto un'intesa di governo con queste formazioni, complicando la sua strada verso 61 deputati.",
+          "Eisenkot ha interpretato le proiezioni come un rifiuto della leadership di Netanyahu; quest'ultimo ha rivendicato il primato del Likud e non ha riconosciuto una sconfitta. Sono affermazioni politiche, non risultati certificati. Una volta completato il conteggio, il presidente Isaac Herzog dovrà individuare chi dispone delle migliori possibilità di formare un governo; nel frattempo Netanyahu resta primo ministro ad interim."
+        ],
+        "facts": [
+          "Le urne si sono chiuse il 27 ottobre 2026 alle 22 locali e gli exit poll non hanno assegnato 61 seggi a uno dei due blocchi.",
+          "La commissione elettorale ha comunicato il 77,7% di affluenza."
+        ],
+        "perspectives": [
+          "Eisenkot ha presentato il risultato provvisorio come un segnale favorevole al cambiamento.",
+          "Netanyahu ha sottolineato il vantaggio del Likud come singola lista e la necessità di attendere i conteggi."
+        ],
+        "unknowns": [
+          "La ripartizione finale dei 120 seggi, incluse le schede conteggiate più tardi, non era definita al momento della verifica.",
+          "Non esiste ancora un accordo di coalizione che consenta di prevedere un governo."
+        ],
+        "questions": [
+          {
+            "question": "Perché la soglia di 61 seggi è decisiva anche se il Likud è la lista più votata?",
+            "answer": "La Knesset ha 120 membri e un governo deve poter contare su una maggioranza parlamentare. Il primato di una lista non determina chi governa: servono accordi con altri partiti per raggiungere almeno 61 deputati."
+          },
+          {
+            "question": "Quale ruolo potrebbero avere i partiti arabi nelle trattative tra Netanyahu ed Eisenkot?",
+            "answer": "Se nessuno dei due blocchi principali raggiunge la maggioranza, i loro seggi possono risultare determinanti per sostenere o impedire una coalizione. La possibilità concreta dipende però dalle scelte dei partiti, e Eisenkot ha espresso forti riserve su un'intesa con essi."
+          }
+        ]
+      },
+      "en": {
+        "title": "Israel's 27 October exit polls point to no governing majority",
+        "dek": "Neither bloc reaches 61 seats in the projections; counting ballots and forming a coalition are separate steps.",
+        "summary": "After polls closed in Israel on 27 October, television exit polls gave neither Benjamin Netanyahu's camp nor Gadi Eisenkot's a majority of the Knesset's 120 seats. Official turnout reached 77.7%. Exit polls are estimates rather than a certified seat allocation.",
+        "impactReason": "Uncertainty over Israel's next government has regional political and diplomatic significance, but exit polls cannot establish who will govern.",
+        "tags": [
+          "Israel",
+          "Knesset",
+          "coalitions"
+        ],
+        "body": [
+          "Israel's polls closed at 10 p.m. local time on Tuesday, 27 October 2026. The main television networks published exit polls suggesting that neither Prime Minister Benjamin Netanyahu's camp nor the bloc led by former military chief Gadi Eisenkot had won a parliamentary majority. Reuters and Associated Press agreed on the central point: neither side was projected to secure the 61 seats needed to govern alone.",
+          "The Knesset has 120 members, and Israelis vote for party lists rather than electing a prime minister directly. The Central Elections Committee reported turnout of 77.7%, which Reuters described as the highest in more than two decades. Initial partial counts released on 28 October do not by themselves establish the final seat distribution and may change projections issued after voting ended.",
+          "Arab-led parties, positioned outside the two main blocs in the exit polls, could become influential in negotiations to form a majority. Their projected representation does not mean they will automatically join any cabinet: coalition agreements require political decisions. Reuters noted that Eisenkot had largely ruled out governing with those parties, creating an obstacle to reaching the necessary 61 votes.",
+          "Eisenkot portrayed the projections as a rejection of Netanyahu's leadership, while Netanyahu emphasized Likud's position as the leading individual party. Both are political interpretations, not certified electoral outcomes. Once counting is complete, President Isaac Herzog will select the person judged best placed to build a coalition; Netanyahu remains caretaker prime minister during that process."
+        ],
+        "facts": [
+          "Polls closed on 27 October at 10 p.m. local time, and exit polls did not give either main bloc 61 seats.",
+          "The election commission reported turnout of 77.7%."
+        ],
+        "perspectives": [
+          "Eisenkot described the early picture as support for a change of government.",
+          "Netanyahu stressed Likud's strength as an individual party and urged attention to the count."
+        ],
+        "unknowns": [
+          "The final allocation of the Knesset's 120 seats, including later-counted ballots, was not established at the time checked.",
+          "No coalition agreement had yet determined who could govern."
+        ],
+        "questions": [
+          {
+            "question": "Why are 61 seats decisive even if Likud becomes the largest single party?",
+            "answer": "The Knesset has 120 members and a government needs a parliamentary majority. Coming first as one party does not settle who governs: a candidate must secure agreements that deliver at least 61 seats."
+          },
+          {
+            "question": "How could Arab-led parties affect coalition talks between Netanyahu and Eisenkot?",
+            "answer": "When neither main bloc has a majority, their seats could make the difference between a viable coalition and a failed one. Their actual role depends on the parties' decisions, and Eisenkot has voiced strong reservations about an arrangement involving them."
+          }
+        ]
+      }
+    },
+    {
+      "section": "italy",
+      "id": "camera-parliamentary-email-attack-oct27",
+      "rank": 1,
+      "category": "politics",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Meloni's email targeted in cyberattack on Italian lower house",
+          "url": "https://www.reuters.com/legal/litigation/melonis-email-targeted-cyberattack-italian-lower-house-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Hacker nelle caselle mail della Camera, anche di Giorgia Meloni",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/10/27/hacker-nelle-caselle-mail-della-camera-anche-di-giorgia-meloni_8e6c4a5b-ef5b-42ed-ac4b-ede46bf891d9.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Camera, attacchi alle caselle dei deputati: coinvolto l'indirizzo parlamentare di Meloni",
+        "dek": "Le fonti della Camera parlano di misure di protezione; non risulta dimostrato l'accesso non autorizzato alla casella della premier.",
+        "summary": "Il 27 ottobre fonti parlamentari hanno riferito tentativi di attacco ai sistemi della Camera e ad alcune caselle istituzionali, compreso l'indirizzo di Giorgia Meloni come deputata. Palazzo Chigi ha precisato che non è l'account usato per le comunicazioni del governo. Le fonti non attestano una violazione effettiva della sua casella.",
+        "impactReason": "Un incidente che coinvolge la posta del Parlamento richiede attenzione per la sicurezza istituzionale, ma la compromissione dei dati non è accertata.",
+        "tags": [
+          "Camera",
+          "cybersicurezza",
+          "parlamentari"
+        ],
+        "body": [
+          "Il 27 ottobre 2026 Reuters e ANSA hanno riferito di attacchi informatici rivolti ai sistemi della Camera dei deputati nei giorni precedenti. Tra gli indirizzi di posta presi di mira figura la casella assegnata a Giorgia Meloni nella sua qualità di parlamentare. ANSA cita anche indirizzi riconducibili ad Andrea Delmastro e Paolo Formentini, ma occorre distinguere le caselle individuate come bersaglio dal numero complessivo di tentativi contro l'infrastruttura.",
+          "Una fonte della Camera ha detto a Reuters di non poter specificare se l'account di Meloni fosse stato effettivamente aperto da soggetti non autorizzati. Il fatto che un indirizzo sia stato preso di mira non dimostra il successo di un attacco né la sottrazione di messaggi. Palazzo Chigi ha inoltre precisato che quell'account non è utilizzato dalla presidente del Consiglio per le comunicazioni di governo.",
+          "Fonti di Montecitorio citate da ANSA hanno descritto l'episodio come non emergenziale, spiegando che le misure di protezione sono state attivate anche in collaborazione con l'Agenzia per la cybersicurezza nazionale. Fra le procedure possibili rientra la sospensione temporanea di alcune funzioni: è una modalità di contenimento, non di per sé una prova che una casella sia stata compromessa.",
+          "La Procura di Roma, secondo ANSA, attendeva un'informativa della Polizia postale per valutare l'apertura di un fascicolo. Questa fase non identifica responsabili né attribuisce un'origine geografica o politica ai tentativi. Le verifiche tecniche dovranno distinguere traffico ostile, accessi riusciti, eventuale disponibilità di dati e misure intraprese, senza trasformare le ipotesi investigative in conclusioni."
+        ],
+        "facts": [
+          "La Camera ha confermato attività ostili contro i sistemi parlamentari e tra i bersagli figura l'account di Meloni come deputata.",
+          "Palazzo Chigi afferma che l'indirizzo coinvolto non è usato per le comunicazioni di governo."
+        ],
+        "perspectives": [
+          "Fonti della Camera escludono lo stato di emergenza e dichiarano di aver attivato misure di protezione con ACN.",
+          "Gli inquirenti attendono informazioni tecniche prima di definire le eventuali contestazioni."
+        ],
+        "unknowns": [
+          "Non è pubblicamente confermato che la casella di Meloni sia stata aperta da terzi o che siano stati sottratti messaggi.",
+          "Non sono stati accertati pubblicamente autore, tecnica di accesso e portata complessiva dell'attacco."
+        ],
+        "questions": [
+          {
+            "question": "Che differenza c'è tra una casella parlamentare presa di mira e una casella compromessa?",
+            "answer": "Nel primo caso un indirizzo o un servizio riceve tentativi ostili, che i controlli possono fermare. Una compromissione richiede invece evidenze di accesso non autorizzato o perdita di controllo sull'account, elementi non confermati per la casella citata."
+          },
+          {
+            "question": "Perché Palazzo Chigi ha specificato la funzione dell'indirizzo di Giorgia Meloni?",
+            "answer": "La casella segnalata è associata al mandato parlamentare, mentre le comunicazioni dell'esecutivo passano da canali diversi. La distinzione delimita il tipo di comunicazioni potenzialmente esposte senza dimostrare che quelle parlamentari siano state lette."
+          }
+        ]
+      },
+      "en": {
+        "title": "Italy's Chamber email systems targeted, including Meloni's parliamentary account",
+        "dek": "The Chamber reports protective measures; unauthorized access to the prime minister's account has not been established.",
+        "summary": "On 27 October, parliamentary sources reported hostile activity targeting email systems of Italy's Chamber of Deputies, including Giorgia Meloni's account as a lawmaker. Her office clarified that the address is not used for government business. Public reporting does not establish that the account was breached.",
+        "impactReason": "Attempts against parliamentary email infrastructure matter for institutional security, but the extent of any data compromise has not been established.",
+        "tags": [
+          "Parliament",
+          "cybersecurity",
+          "lawmakers"
+        ],
+        "body": [
+          "On 27 October 2026 Reuters and ANSA reported cyberattacks directed at Italy's Chamber of Deputies IT systems in recent days. Among the email addresses targeted was one assigned to Giorgia Meloni in her role as a member of parliament. ANSA also identified accounts linked to Andrea Delmastro and Paolo Formentini. The named targets should not be confused with the total number of attempts against parliamentary infrastructure.",
+          "A Chamber source told Reuters they could not specify whether unauthorized parties had actually accessed Meloni's account. Being targeted does not prove a successful breach or the theft of messages. Meloni's office also clarified that the parliamentary address is not the one she uses for government communications, making the distinction between roles relevant to the possible scope.",
+          "Sources at Montecitorio told ANSA the situation was not an emergency and that protective steps had been activated with Italy's National Cybersecurity Agency. Those steps may include temporarily disabling certain IT functions. Such containment is standard security practice and does not in itself show that an attacker succeeded in accessing protected messages or systems.",
+          "According to ANSA, prosecutors in Rome were awaiting an initial report from the postal police before assessing the opening of an investigation. That preliminary stage establishes neither the responsible actors nor any political or geographical origin. Forensic checks would need to distinguish blocked attempts from confirmed unauthorized access and any actual loss of data."
+        ],
+        "facts": [
+          "Chamber sources reported hostile activity against parliamentary systems, with Meloni's parliamentary email among the targets.",
+          "Meloni's office said the address was not used for government communications."
+        ],
+        "perspectives": [
+          "Chamber sources described the situation as non-emergency and said protection measures had been activated with the national cyber agency.",
+          "Prosecutors were waiting for technical information before making an investigative assessment."
+        ],
+        "unknowns": [
+          "It has not been publicly confirmed that outsiders accessed Meloni's account or obtained its messages.",
+          "The origin, technique and overall extent of any successful intrusion have not been publicly established."
+        ],
+        "questions": [
+          {
+            "question": "What separates an attempted attack on a parliamentary email address from a confirmed compromise?",
+            "answer": "An attempted attack means hostile activity targeted an account or service and might have been blocked. A compromise requires evidence of unauthorized access or lost control of the account; such evidence has not been made public for the address discussed."
+          },
+          {
+            "question": "Why did Meloni's office specify what her targeted email address was used for?",
+            "answer": "The address belongs to her parliamentary role, whereas government business uses other channels. This distinction narrows the category of communications potentially at risk without showing that any parliamentary messages were read."
+          }
+        ]
+      }
+    },
+    {
+      "section": "technology",
+      "id": "google-deepmind-genie4-research-preview",
+      "rank": 1,
+      "category": "technology",
+      "impact": 2,
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+          "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Google DeepMind",
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "DeepMind presenta Genie 4: simulazioni interattive con audio, ma accesso ancora ristretto",
+        "dek": "Il nuovo modello consente modifiche in tempo reale; la coerenza delle scene resta limitata e i video dimostrativi non sono test indipendenti.",
+        "summary": "Il 27 ottobre Google DeepMind ha annunciato Genie 4, modello capace di generare ambienti visivi interattivi, suoni e dialoghi e di rispondere a istruzioni inserite durante la simulazione. L'accesso iniziale è riservato a un gruppo selezionato di tester. La società stessa riconosce limiti di continuità e accuratezza.",
+        "impactReason": "La generazione interattiva multimodale potrebbe ampliare strumenti creativi e test simulati, ma l'accesso limitato e le prestazioni non indipendentemente validate riducono l'impatto già accertato.",
+        "tags": [
+          "DeepMind",
+          "simulazione",
+          "intelligenza-artificiale"
+        ],
+        "body": [
+          "Google DeepMind ha presentato Genie 4 il 27 ottobre 2026 come un nuovo modello per simulare ambienti che reagiscono alle azioni dell'utente. Rispetto a un video generato una volta per tutte, il sistema permette di modificare durante l'esecuzione condizioni come visuale, oggetti, persone e meteo. TechCrunch e Ars Technica descrivono separatamente queste capacità sulla base di dimostrazioni e spiegazioni fornite durante l'annuncio.",
+          "Il modello integra la generazione di suoni ambientali, musica e dialoghi, associandoli al mondo simulato. Un componente della famiglia Gemini è utilizzato per orientare l'evoluzione della scena e collegare le istruzioni dell'utente ai fotogrammi successivi. Questo non equivale a un motore fisico con leggi scientifiche garantite: le interazioni sono generate da un modello statistico addestrato su dati.",
+          "Secondo TechCrunch, le simulazioni possono mantenere continuità per circa due minuti, all'incirca il doppio del predecessore, ma dettagli e oggetti possono cambiare con il tempo. I ricercatori di Google hanno inoltre riconosciuto difficoltà con la precisione dell'audio e la leggibilità delle scritte dentro la scena. Le affermazioni sul maggiore realismo non sono ancora accompagnate da una valutazione comparativa indipendente pubblicata nel materiale consultato.",
+          "Al lancio il prodotto è una ricerca in anteprima per tester selezionati, non un servizio accessibile a tutti. Google prospetta successive fasi per abbonati Google AI Ultra e partner delle API Gemini, senza un calendario pubblico definitivo. Robotica, prototipazione creativa e formazione sono possibili applicazioni, ma usarne le demo come prova di affidabilità in ambienti reali confonderebbe capacità sperimentali e risultati sul campo."
+        ],
+        "facts": [
+          "Google DeepMind ha annunciato Genie 4 il 27 ottobre 2026 in anteprima di ricerca.",
+          "Il modello combina simulazione visiva in tempo reale, modifica tramite istruzioni e audio generato."
+        ],
+        "perspectives": [
+          "Google presenta la simulazione come un possibile strumento per agenti, robotica e produzione creativa.",
+          "TechCrunch e Ars Technica sottolineano i limiti di persistenza delle scene e l'accesso ristretto."
+        ],
+        "unknowns": [
+          "Non sono disponibili nelle fonti consultate prove indipendenti di affidabilità fisica o sonora per impieghi critici.",
+          "Prezzi definitivi e calendario di distribuzione generale non sono stati pubblicati."
+        ],
+        "questions": [
+          {
+            "question": "In che modo la modifica in tempo reale distingue Genie 4 da un normale video sintetico?",
+            "answer": "In un video già generato la sequenza dei fotogrammi è fissa; Genie 4 produce la scena mentre l'utente la esplora e può incorporare istruzioni successive, per esempio spostare la camera o cambiare il tempo meteorologico."
+          },
+          {
+            "question": "Che cosa comporta il limite di circa due minuti nella continuità di Genie 4?",
+            "answer": "Oggetti e dettagli di una scena possono perdere coerenza nelle simulazioni più lunghe. È quindi difficile assumere che un percorso esteso riproduca condizioni costanti, soprattutto per test che richiedono precisione e ripetibilità."
+          }
+        ]
+      },
+      "en": {
+        "title": "DeepMind unveils Genie 4 with interactive audio worlds, but access remains limited",
+        "dek": "The new model can change scenes in real time; continuity is short-lived and company demos are not independent tests.",
+        "summary": "On 27 October Google DeepMind announced Genie 4, a world model that generates interactive visual environments, sounds and dialogue and accepts instructions while a simulation is running. Initial access is limited to selected testers. The developer acknowledges shortcomings in coherence and accuracy.",
+        "impactReason": "Interactive multimodal generation could broaden creative and simulated-testing tools, but limited access and a lack of independently verified performance constrain its demonstrated impact.",
+        "tags": [
+          "DeepMind",
+          "simulation",
+          "artificial-intelligence"
+        ],
+        "body": [
+          "Google DeepMind introduced Genie 4 on 27 October 2026 as a model that generates environments responding to user actions. Unlike a video produced as a fixed sequence, a simulation can be altered while it runs, including its viewpoint, objects, characters and weather. TechCrunch and Ars Technica independently covered the capabilities using company demonstrations and briefings delivered at launch.",
+          "The system also generates ambient sound, music and dialogue alongside the simulated scene. A Gemini-family component helps guide the model's next frames in response to user instructions. This does not turn the system into a verified physics engine: its interactions are produced by a trained generative model, rather than a guarantee that every response follows real-world laws.",
+          "TechCrunch reported that a simulation can preserve coherence for roughly two minutes, about twice the predecessor's duration, while details and objects may drift over longer runs. Google researchers also acknowledged difficulties with precise audio and legible in-world text. Claims of improved realism have not been supported by independent, comparative evaluation in the material examined for this draft.",
+          "At announcement, Genie 4 was a research preview for selected testers, not a universally available product. Google envisaged later phases for Google AI Ultra subscribers and Gemini API partners without committing to a final general-release date. Robotics, creative prototyping and education are possible applications, but launch demonstrations cannot establish performance in safety-critical real-world environments."
+        ],
+        "facts": [
+          "Google DeepMind announced the Genie 4 research preview on 27 October 2026.",
+          "The model combines interactive real-time scene generation, instruction-driven edits and generated audio."
+        ],
+        "perspectives": [
+          "Google describes world simulation as potentially useful for agents, robotics and creative production.",
+          "TechCrunch and Ars Technica emphasize the limited duration of scene coherence and constrained access."
+        ],
+        "unknowns": [
+          "Independent evidence of physical or audio reliability in critical applications was not available in the sources reviewed.",
+          "Final pricing and a general rollout date have not been announced."
+        ],
+        "questions": [
+          {
+            "question": "How does real-time steering make Genie 4 different from a conventional generated video?",
+            "answer": "A conventional completed video has fixed frames, whereas Genie 4 creates the scene as a user explores it and can incorporate new commands, such as moving the camera or changing the weather, while the simulation continues."
+          },
+          {
+            "question": "Why does Genie 4's roughly two-minute coherence limit matter for testing?",
+            "answer": "Objects and details can drift in longer simulations. Tests that depend on constant conditions and repeatable outcomes cannot assume those qualities solely from a short demonstration of an interactive world."
+          }
+        ]
+      }
+    },
+    {
+      "section": "science",
+      "id": "wmo-greenhouse-gas-bulletin-2025-records",
+      "rank": 1,
+      "category": "climate",
+      "impact": 3,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Greenhouse gases hit record highs, further rise expected with El Niño, UN weather agency says",
+          "url": "https://www.reuters.com/sustainability/cop/greenhouse-gases-hit-record-highs-further-rise-expected-with-el-nio-un-weather-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Gases de efeito estufa atingem níveis sem precedentes, diz ONU",
+          "url": "https://www1.folha.uol.com.br/ambiente/2026/10/gases-de-efeito-estufa-atingem-niveis-sem-precedentes-diz-onu.shtml",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "World Meteorological Organization",
+          "title": "WMO Greenhouse Gas Bulletin - No. 22",
+          "url": "https://wmo.int/resources/publication-series/greenhouse-gas-bulletin/no-22",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "OMM, nel 2025 nuovi massimi di CO₂, metano e protossido di azoto in atmosfera",
+        "dek": "Il bollettino pubblicato il 27 ottobre 2026 misura l'anno precedente: 426,8 ppm di CO₂, non una lettura istantanea.",
+        "summary": "L'Organizzazione meteorologica mondiale ha pubblicato il 27 ottobre il bollettino n. 22 sui gas serra, basato su osservazioni del 2025. Le concentrazioni medie globali hanno raggiunto 426,8 ppm di CO₂, 1.948 ppb di metano e 339,1 ppb di protossido di azoto. Sono livelli record, non misure delle emissioni annuali.",
+        "impactReason": "Le concentrazioni globali record riguardano gas persistenti che influenzano il clima a lungo termine, con rilevanza scientifica e pubblica ampia.",
+        "tags": [
+          "OMM",
+          "gas-serra",
+          "concentrazioni"
+        ],
+        "body": [
+          "Il 27 ottobre 2026 l'Organizzazione meteorologica mondiale ha pubblicato il Greenhouse Gas Bulletin n. 22, dedicato alle concentrazioni rilevate nel 2025 dalla rete Global Atmosphere Watch. La media globale dell'anidride carbonica è pari a 426,8 ± 0,2 parti per milione; quelle del metano e del protossido di azoto raggiungono rispettivamente 1.948 ± 2 e 339,1 ± 0,1 parti per miliardo. Reuters e Folha de S.Paulo hanno riportato i risultati del bollettino.",
+          "I valori indicano concentrazioni nell'aria, non il volume dei gas emessi da attività umane nel solo 2025. Le molecole presenti nell'atmosfera si accumulano nel tempo in funzione delle emissioni e degli assorbimenti da oceani, suoli e vegetazione. Per questo anche una riduzione del ritmo di crescita annuale può accompagnarsi a un nuovo massimo assoluto di concentrazione.",
+          "L'OMM colloca il livello di CO₂ del 2025 al 153% del riferimento preindustriale precedente al 1750; per il metano il valore corrisponde al 267% e per il protossido di azoto al 126%. L'aumento annuo del CO₂ è inferiore a quello eccezionale del 2023–2024 ma leggermente superiore alla media dell'ultimo decennio. Questi confronti richiedono la stessa unità di misura e una base temporale dichiarata.",
+          "Il bollettino ricorda che il CO₂ rimane attivo per periodi molto lunghi e contribuisce quindi al riscaldamento futuro anche dopo l'anno in cui è stato emesso. Reuters riferisce inoltre l'attenzione dell'OMM per l'andamento degli assorbimenti naturali durante fasi climatiche come El Niño. Non è corretto trasformare la previsione di ulteriori incrementi nel 2026 in una misurazione già conclusa di quell'anno."
+        ],
+        "facts": [
+          "Il bollettino OMM n. 22 pubblicato il 27 ottobre 2026 descrive medie globali riferite al 2025.",
+          "CO₂ 426,8 ± 0,2 ppm; metano 1.948 ± 2 ppb; protossido di azoto 339,1 ± 0,1 ppb."
+        ],
+        "perspectives": [
+          "L'OMM collega la permanenza dei gas serra alla persistenza del rischio climatico.",
+          "Reuters e Folha sottolineano la differenza tra i record misurati e le proiezioni condizionate sul futuro."
+        ],
+        "unknowns": [
+          "Le concentrazioni medie annuali del 2026 non possono essere tratte da questo bollettino sul 2025.",
+          "L'effetto quantitativo di un eventuale nuovo El Niño sui futuri assorbimenti non è determinato dai dati pubblicati."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa significa il valore OMM di 426,8 ppm di CO₂ nel 2025?",
+            "answer": "In media, circa 426,8 molecole su un milione di molecole d'aria secca erano anidride carbonica, secondo la rete di osservazione globale. È una concentrazione atmosferica, non una quantità di CO₂ emessa nel corso dell'anno."
+          },
+          {
+            "question": "Perché il record di CO₂ può crescere anche se l'aumento annuo rallenta rispetto al 2024?",
+            "answer": "La concentrazione misura uno stock accumulato: se le emissioni aggiungono ancora più gas di quanto i sistemi naturali assorbano, il totale sale. Un incremento inferiore a quello dell'anno precedente resta un incremento e può dunque stabilire un nuovo massimo."
+          }
+        ]
+      },
+      "en": {
+        "title": "WMO finds record atmospheric CO₂, methane and nitrous oxide in 2025",
+        "dek": "The bulletin issued on 27 October 2026 measures the previous year: 426.8 ppm of CO₂, not a live reading.",
+        "summary": "The World Meteorological Organization released Greenhouse Gas Bulletin No. 22 on 27 October, drawing on measurements from 2025. Global mean concentrations reached 426.8 ppm for carbon dioxide, 1,948 ppb for methane and 339.1 ppb for nitrous oxide. Those are atmospheric records, not totals for annual emissions.",
+        "impactReason": "Global records for persistent greenhouse gases carry broad scientific and public significance because of their long-term influence on climate.",
+        "tags": [
+          "WMO",
+          "greenhouse-gases",
+          "concentrations"
+        ],
+        "body": [
+          "On 27 October 2026 the World Meteorological Organization published Greenhouse Gas Bulletin No. 22, covering measurements made during 2025 through its Global Atmosphere Watch network. Global mean carbon dioxide was 426.8 ± 0.2 parts per million, while methane reached 1,948 ± 2 parts per billion and nitrous oxide 339.1 ± 0.1 parts per billion. Reuters and Folha de S.Paulo also reported the bulletin's figures.",
+          "These numbers express concentrations in the atmosphere, not the volume of greenhouse gases emitted by human activity during 2025 alone. Atmospheric stocks accumulate over time according to the balance between emissions and absorption by oceans, soils and vegetation. A slower year-on-year rise can therefore coincide with an absolute concentration record, provided the balance still adds gas.",
+          "The WMO puts the 2025 CO₂ concentration at 153% of the pre-industrial reference before 1750; the corresponding figures are 267% for methane and 126% for nitrous oxide. The CO₂ increase from 2024 was lower than the unusually large 2023–2024 jump, but slightly higher than the preceding decade's mean annual growth. Such comparisons need consistent units and stated baselines.",
+          "The WMO emphasizes that CO₂ persists for very long periods and can influence warming well beyond the year of release. Reuters also highlighted the organization's concern about how natural sinks may behave during climate events such as El Niño. Forecasts of further increases during 2026 must not be presented as measurements from a year that has yet to end."
+        ],
+        "facts": [
+          "WMO Bulletin No. 22 was published on 27 October 2026 and reports global annual averages from 2025.",
+          "CO₂ was 426.8 ± 0.2 ppm, methane 1,948 ± 2 ppb and nitrous oxide 339.1 ± 0.1 ppb."
+        ],
+        "perspectives": [
+          "The WMO links the longevity of greenhouse gases to persistent climate risks.",
+          "Reuters and Folha distinguish measured records from conditional expectations about future increases."
+        ],
+        "unknowns": [
+          "The full-year 2026 global averages cannot be determined from this 2025 bulletin.",
+          "The quantitative impact of any new El Niño on subsequent natural absorption is not established by these measurements."
+        ],
+        "questions": [
+          {
+            "question": "What does the WMO's 2025 figure of 426.8 ppm of carbon dioxide mean?",
+            "answer": "It represents approximately 426.8 molecules of carbon dioxide per million molecules of dry air, on a global average. It is an atmospheric concentration rather than the amount of CO₂ emitted during 2025."
+          },
+          {
+            "question": "How can CO₂ reach another record when its annual increase is slower than in 2024?",
+            "answer": "Concentration measures an accumulated stock: if additions still exceed the quantity absorbed by natural sinks, the total continues rising. A smaller positive increase is still an increase and can produce a fresh record."
+          }
+        ]
+      }
+    }
+  ]
+}
