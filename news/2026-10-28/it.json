@@ -504,7 +504,7 @@
       "dek": "L'appello, diffuso originariamente il 23 ottobre e ripreso il 27, cita 19,5 milioni di persone in grave insicurezza alimentare: il rischio futuro non è una carestia nazionale già dichiarata.",
       "summary": "Oltre trenta governi e un rappresentante della Commissione europea hanno lanciato un appello per evitare un peggioramento della crisi alimentare in Sudan. La dichiarazione, pubblicata il 23 ottobre e ripresa da Reuters e Al Jazeera il 27, segnala 19,5 milioni di persone con grave insicurezza alimentare, tra cui cinque milioni in situazione di emergenza, e chiede accesso umanitario senza ostacoli.",
       "body": [
-        "Un gruppo di oltre trenta governi, insieme alla Commissione europea, ha diffuso un appello sul rischio di carestia in Sudan pubblicato dalle autorità diplomatiche il 23 ottobre 2026. Reuters e Al Jazeera ne hanno riferito il 27 ottobre, richiamando il deterioramento delle condizioni umanitarie. La data del comunicato è distinta da quella dei resoconti giornalistici: non si tratta di una nuova misurazione statistica effettuata il 27.",
+        "Un gruppo di oltre trenta governi, insieme alla Commissione europea, ha diffuso un appello sul rischio di carestia in Sudan pubblicato dalle autorità diplomatiche il 23 ottobre 2026. Reuters e AFP ne hanno riferito il 27 ottobre, richiamando il deterioramento delle condizioni umanitarie. La data del comunicato è distinta da quella dei resoconti giornalistici: non si tratta di una nuova misurazione statistica effettuata il 27.",
         "Il testo indica circa 19,5 milioni di persone, il 41% della popolazione stimata, in condizioni di alta insicurezza alimentare acuta, comprese cinque milioni a livelli di emergenza. Riporta inoltre una proiezione secondo cui il numero di bambini con malnutrizione acuta grave potrebbe superare 825mila in assenza di interventi. Sono stime di valutazioni umanitarie e scenari futuri, non un conteggio di decessi avvenuti.",
         "La guerra ha danneggiato reti di distribuzione, produzione agricola, servizi sanitari e capacità di trasportare beni di prima necessità. Il documento denuncia ostacoli ai convogli e chiede alle parti di consentire percorsi terrestri e transfrontalieri, inclusi collegamenti aerei verso il Darfur. La presenza di cibo in un deposito o di fondi promessi non garantisce che gli aiuti possano raggiungere famiglie isolate.",
         "I firmatari invitano inoltre a proteggere operatori umanitari e infrastrutture civili e a finanziare rapidamente la risposta. Il sistema IPC ha segnalato rischio di carestia nei mesi successivi, non una diagnosi uniforme per ogni distretto del Sudan. Senza dati locali aggiornati e accessi stabili non è possibile attribuire un'identica classificazione a tutto il territorio né prevedere un numero preciso di vittime."
@@ -548,15 +548,15 @@
       "sources": [
         {
           "outlet": "Reuters",
-          "title": "US and dozens of countries warn of famine risk in Sudan, call for aid",
+          "title": "US, dozens of countries warn of Sudan famine risk, urge aid",
           "url": "https://www.reuters.com/world/asia-pacific/us-dozens-countries-warn-sudan-famine-risk-urge-aid-2026-10-27/",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         },
         {
-          "outlet": "Al Jazeera",
-          "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
-          "url": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid",
+          "outlet": "Agence France-Presse",
+          "title": "US, UK among 31 countries warning of 'alarming' Sudan famine",
+          "url": "https://citizen.digital/article/us-uk-among-31-countries-warning-of-alarming-sudan-famine-n392795",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         },
