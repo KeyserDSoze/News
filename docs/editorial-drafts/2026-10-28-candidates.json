@@ -3,8 +3,8 @@
   "date": "2026-10-28",
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
-    "22 sourced bilingual complete-length working drafts, no final edition.",
-    "Three World items and nineteen cover illustrations outstanding; zero of eight final edition JSONs.",
+    "TWENTY-FIVE substantive bilingual research drafts ready for full factual, rights, localization and repository editorial audits; NOT approved for publication.",
+    "Six original illustrations exist; nineteen still to create. Zero of eight release JSONs until complete validation.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -2462,6 +2462,323 @@
           {
             "question": "How was the call connected to prospective Abu Dhabi negotiations?",
             "answer": "It was intended to convey messages to Putin about resuming diplomacy ahead of contacts involving Russia, Ukraine and the United States. That diplomatic link does not establish that a ceasefire or peace agreement was already reached."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "rank": 8,
+      "id": "sudan-famine-risk-joint-appeal-oct27",
+      "category": "society",
+      "impact": 3.5,
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "US and dozens of countries warn of famine risk in Sudan, call for aid",
+          "url": "https://www.reuters.com/world/asia-pacific/us-dozens-countries-warn-sudan-famine-risk-urge-aid-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+          "url": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Italian Ministry of Foreign Affairs",
+          "title": "Joint Statement on the Risk of Famine in Sudan",
+          "url": "https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/2026/10/dichiarazione-congiunta-sul-rischio-di-carestia-in-sudan-2/",
+          "publishedAt": "2026-10-23",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "Sudan, oltre 30 paesi chiedono accesso agli aiuti per scongiurare la carestia",
+        "dek": "L'appello, diffuso originariamente il 23 ottobre e ripreso il 27, cita 19,5 milioni di persone in grave insicurezza alimentare: il rischio futuro non è una carestia nazionale già dichiarata.",
+        "summary": "Oltre trenta governi e un rappresentante della Commissione europea hanno lanciato un appello per evitare un peggioramento della crisi alimentare in Sudan. La dichiarazione, pubblicata il 23 ottobre e ripresa da Reuters e Al Jazeera il 27, segnala 19,5 milioni di persone con grave insicurezza alimentare, tra cui cinque milioni in situazione di emergenza, e chiede accesso umanitario senza ostacoli.",
+        "impactReason": "La crisi riguarda milioni di civili in una guerra prolungata e la possibilità di fame estrema su vasta scala; i problemi di accesso ai soccorsi rendono urgente la risposta.",
+        "tags": [
+          "Sudan",
+          "aiuti",
+          "insicurezza-alimentare"
+        ],
+        "body": [
+          "Un gruppo di oltre trenta governi, insieme alla Commissione europea, ha diffuso un appello sul rischio di carestia in Sudan pubblicato dalle autorità diplomatiche il 23 ottobre 2026. Reuters e Al Jazeera ne hanno riferito il 27 ottobre, richiamando il deterioramento delle condizioni umanitarie. La data del comunicato è distinta da quella dei resoconti giornalistici: non si tratta di una nuova misurazione statistica effettuata il 27.",
+          "Il testo indica circa 19,5 milioni di persone, il 41% della popolazione stimata, in condizioni di alta insicurezza alimentare acuta, comprese cinque milioni a livelli di emergenza. Riporta inoltre una proiezione secondo cui il numero di bambini con malnutrizione acuta grave potrebbe superare 825mila in assenza di interventi. Sono stime di valutazioni umanitarie e scenari futuri, non un conteggio di decessi avvenuti.",
+          "La guerra ha danneggiato reti di distribuzione, produzione agricola, servizi sanitari e capacità di trasportare beni di prima necessità. Il documento denuncia ostacoli ai convogli e chiede alle parti di consentire percorsi terrestri e transfrontalieri, inclusi collegamenti aerei verso il Darfur. La presenza di cibo in un deposito o di fondi promessi non garantisce che gli aiuti possano raggiungere famiglie isolate.",
+          "I firmatari invitano inoltre a proteggere operatori umanitari e infrastrutture civili e a finanziare rapidamente la risposta. Il sistema IPC ha segnalato rischio di carestia nei mesi successivi, non una diagnosi uniforme per ogni distretto del Sudan. Senza dati locali aggiornati e accessi stabili non è possibile attribuire un'identica classificazione a tutto il territorio né prevedere un numero preciso di vittime."
+        ],
+        "facts": [
+          "La dichiarazione internazionale è pubblicata il 23 ottobre e ha ricevuto nuova copertura il 27.",
+          "Il testo cita 19,5 milioni in grave insicurezza alimentare, compresi cinque milioni in situazione di emergenza."
+        ],
+        "perspectives": [
+          "I governi firmatari chiedono alle parti in guerra di rimuovere gli ostacoli e proteggere i soccorritori.",
+          "Le organizzazioni umanitarie evidenziano che accesso e finanziamenti sono condizioni necessarie per prevenire un ulteriore peggioramento."
+        ],
+        "unknowns": [
+          "Gli sviluppi nei singoli distretti dipendono da accesso, raccolti, nuovi combattimenti e aiuti effettivi.",
+          "Il numero definitivo di bambini che soffriranno malnutrizione acuta grave non è un dato già osservato."
+        ],
+        "questions": [
+          {
+            "question": "Che differenza c'è tra i 19,5 milioni di persone in insicurezza alimentare e i cinque milioni in emergenza?",
+            "answer": "I 19,5 milioni sono il totale stimato con livelli elevati di insicurezza alimentare acuta, mentre i cinque milioni rappresentano un sottoinsieme classificato a livello di emergenza. Non sono gruppi da sommare fra loro."
+          },
+          {
+            "question": "Perché l'appello sul Sudan cita specificamente l'accesso aereo verso il Darfur?",
+            "answer": "Il conflitto e le restrizioni ai collegamenti rendono difficile il trasporto di aiuti e l'evacuazione sanitaria in alcune aree. Aprire percorsi anche aerei potrebbe consentire consegne e assistenza dove le rotte terrestri sono bloccate o pericolose."
+          }
+        ]
+      },
+      "en": {
+        "title": "More than 30 governments seek Sudan aid access to avert famine risk",
+        "dek": "The appeal, first issued on 23 October and reported again on the 27th, cites 19.5 million people in severe food insecurity, not a confirmed nationwide famine.",
+        "summary": "More than thirty governments and a European Commission representative called for action to stop Sudan's hunger crisis worsening. Their statement, issued on 23 October and covered by Reuters and Al Jazeera on the 27th, estimates 19.5 million people in high acute food insecurity, including five million in emergency conditions, and demands unobstructed humanitarian access.",
+        "impactReason": "Millions of civilians are affected by prolonged conflict and the threat of extreme hunger, while access constraints make aid delivery urgent.",
+        "tags": [
+          "Sudan",
+          "humanitarian-aid",
+          "food-insecurity"
+        ],
+        "body": [
+          "More than thirty governments, alongside a representative of the European Commission, issued a joint warning about famine risks in Sudan that diplomatic authorities published on 23 October 2026. Reuters and Al Jazeera covered the appeal on 27 October, highlighting worsening humanitarian conditions. The original statement's date is not the same as the date of subsequent reporting, and its statistics were not newly collected on the 27th.",
+          "The statement estimates that 19.5 million people, about 41% of the population, face high levels of acute food insecurity, including five million at emergency levels. It also projects that the number of children with severe acute malnutrition could exceed 825,000 without urgent action. These are humanitarian estimates and future scenarios, not a count of deaths or conditions already measured in every locality.",
+          "Warfare has damaged distribution networks, agriculture, health services and the ability to move essential supplies. The signatories describe impediments to relief convoys and request safe routes across front lines and borders, including air access to Darfur. Food stored in warehouses or money pledged by foreign governments cannot prevent hunger unless assistance reaches families in isolated and conflict-affected areas.",
+          "The statement also calls for protection of aid workers and civilian infrastructure and for immediate funding. The IPC classification framework warns about famine risks in the coming months rather than declaring every Sudanese district in the same current category. Without updated local data and sustained humanitarian access, a uniform nationwide classification or precise future death toll would be unjustified."
+        ],
+        "facts": [
+          "The joint appeal appeared on 23 October and was reported by international outlets on 27 October.",
+          "Its figures include 19.5 million people in high acute food insecurity, five million of them at emergency levels."
+        ],
+        "perspectives": [
+          "Signatory governments demand the removal of barriers and protection for relief personnel.",
+          "Humanitarian organisations stress that safe access and funding are essential to preventing further deterioration."
+        ],
+        "unknowns": [
+          "Conditions in individual areas will depend on access, harvests, fighting and actual assistance.",
+          "The eventual number of children affected by severe acute malnutrition is projected, not yet measured."
+        ],
+        "questions": [
+          {
+            "question": "How do Sudan's 19.5 million food-insecure people relate to the five million at emergency levels?",
+            "answer": "The 19.5 million figure covers people estimated to face high acute food insecurity. The five million in emergency conditions are part of that total, not an additional group to be added to it."
+          },
+          {
+            "question": "Why does the international appeal specifically call for air access into Darfur?",
+            "answer": "Conflict and transport restrictions make it difficult to deliver relief or evacuate patients from some areas. Air corridors could allow supplies and medical assistance to reach places where overland routes are blocked or dangerous."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "rank": 9,
+      "id": "eu-climate-resilience-law-proposal-oct27",
+      "category": "climate",
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Euronews",
+          "title": "Europe must prepare for a 3°C warmer world, EU climate chief warns",
+          "url": "https://www.euronews.com/2026/10/27/europe-must-prepare-for-a-3c-warmer-world-eu-climate-chief-warns",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "POLITICO Europe",
+          "title": "EU prepares for a grim future with new climate-proofing law",
+          "url": "https://www.politico.eu/article/eu-prepare-future-new-climate-proofing-law/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "European Commission",
+          "title": "Protecting Europe with stronger climate-resilience",
+          "url": "https://commission.europa.eu/news-and-media/news/protecting-europe-stronger-climate-resilience-2026-10-27_en",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "it": {
+        "title": "L'Ue propone norme per preparare città e infrastrutture a rischi climatici maggiori",
+        "dek": "Il 27 ottobre la Commissione ha presentato un quadro di resilienza: gli scenari di forte riscaldamento sono ipotesi di pianificazione, non una temperatura futura certa.",
+        "summary": "La Commissione europea ha proposto il 27 ottobre una legge quadro sulla resilienza climatica che chiede agli Stati di identificare chi gestisce i rischi e di aggiornare la valutazione di infrastrutture e servizi. Il progetto considera scenari di riscaldamento elevato e non prevede un nuovo fondo diretto per le famiglie. Deve ancora essere discusso dalle istituzioni europee.",
+        "impactReason": "Le nuove regole potrebbero modificare pianificazione di infrastrutture e gestione dei disastri in molti paesi, ma finanziamento e approvazione sono ancora incerti.",
+        "tags": [
+          "Unione-Europea",
+          "adattamento",
+          "clima"
+        ],
+        "body": [
+          "La Commissione europea ha presentato martedì 27 ottobre 2026 una proposta di legge sulla resilienza climatica per affrontare gli effetti di ondate di calore, alluvioni, incendi e siccità. Euronews ha intervistato il commissario Wopke Hoekstra e POLITICO Europe ha esaminato le componenti legislative; il comunicato ufficiale descrive il nuovo sistema di valutazione. Si tratta di un'iniziativa della Commissione, non di norme già approvate.",
+          "Il piano prevede che gli Stati identifichino quali autorità nazionali, regionali o locali siano responsabili dei diversi rischi, in modo da limitare incertezze operative durante i disastri. Secondo POLITICO, le valutazioni nazionali dovrebbero essere ripetute ogni cinque anni dal 2029 e i piani di adattamento preparati entro il 2030. Le scadenze sono quelle del progetto e possono variare nel negoziato legislativo.",
+          "Hoekstra ha richiamato scenari che considerano una Europa più calda e condizioni estreme molto più frequenti. Il riferimento a tre gradi di riscaldamento verso fine secolo va interpretato come scenario di rischio per progettare strade, ponti e quartieri, non come misura dell'attuale aumento né previsione deterministica del futuro. Continuare a ridurre le emissioni e preparare infrastrutture ai danni sono obiettivi complementari.",
+          "Euronews segnala l'assenza di nuovi fondi specifici per aiutare direttamente le famiglie a sostenere l'adattamento, mentre le risorse future dipendono dal bilancio pluriennale europeo. Alcuni parlamentari temono più burocrazia senza opere concrete, altri considerano le proposte troppo deboli perché non fissano obiettivi vincolanti per i settori maggiormente esposti. Queste valutazioni politiche non definiscono ancora il testo finale."
+        ],
+        "facts": [
+          "La Commissione ha presentato il quadro legislativo sulla resilienza il 27 ottobre 2026.",
+          "Il progetto prevede responsabilità pubbliche esplicite nella gestione dei rischi e valutazioni regolari."
+        ],
+        "perspectives": [
+          "La Commissione ritiene necessario pianificare infrastrutture per condizioni climatiche diverse dal passato.",
+          "Esponenti parlamentari e analisti criticano in direzioni diverse i costi amministrativi e la mancanza di vincoli o fondi."
+        ],
+        "unknowns": [
+          "Il contenuto finale sarà negoziato da Parlamento e Consiglio.",
+          "Il finanziamento dell'adattamento per famiglie e territori resta in parte da definire."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa cambierebbe per gli Stati con le valutazioni dei rischi climatici proposte dall'Ue?",
+            "answer": "Dovrebbero aggiornare periodicamente scenari e vulnerabilità e indicare quali uffici sono responsabili di prevenzione e risposta. Il progetto mira a evitare che, durante un'alluvione o un'ondata di calore, non sia chiaro chi debba intervenire."
+          },
+          {
+            "question": "Perché il riferimento europeo a tre gradi di riscaldamento non è una previsione inevitabile?",
+            "answer": "È uno scenario usato per valutare la robustezza di edifici e infrastrutture in condizioni gravi. Il riscaldamento futuro dipende dalle emissioni e da molti altri fattori; pianificare per un rischio non significa affermare che si realizzerà certamente."
+          }
+        ]
+      },
+      "en": {
+        "title": "EU Commission proposes climate resilience law for cities and infrastructure",
+        "dek": "The 27 October framework uses severe warming scenarios for planning, not as a guaranteed future temperature.",
+        "summary": "On 27 October the European Commission proposed a climate resilience framework requiring governments to clarify responsibility for climate risks and regularly assess infrastructure and services. It considers high-warming scenarios but creates no dedicated new direct household fund. Parliament and Council still need to negotiate and approve any binding rules.",
+        "impactReason": "The proposal could change infrastructure planning and disaster management across the EU, but approval and funding remain uncertain.",
+        "tags": [
+          "European-Union",
+          "adaptation",
+          "climate"
+        ],
+        "body": [
+          "On Tuesday, 27 October 2026, the European Commission proposed a climate resilience law aimed at limiting damage from heatwaves, floods, wildfires and drought. Euronews interviewed Climate Commissioner Wopke Hoekstra, while POLITICO Europe examined the legislative design; the Commission released its original framework announcement. It remains a proposal from the EU executive rather than binding law adopted by member states.",
+          "The plan would require governments to designate responsible national, regional or local authorities for major climate risks, reducing uncertainty over who must act before and during disasters. According to POLITICO, national assessments would be repeated every five years from 2029 and adaptation plans prepared by 2030. Those dates describe the proposal and could be changed during legislative negotiation.",
+          "Hoekstra referred to planning scenarios with considerably warmer conditions and more frequent extreme events. A three-degree warming scenario towards the end of the century is a risk-planning assumption for roads, bridges and communities, not a measurement of current warming or a deterministic forecast. Cutting emissions remains essential even when governments also prepare systems to withstand future hazards.",
+          "Euronews found that the strategy did not provide new direct financial assistance to households for adaptation, while future spending depends on European budget negotiations. Some lawmakers worry about bureaucracy without actual protection, while others argue the proposal is too limited because it lacks binding targets in vulnerable sectors. Neither view establishes the final legal package or its practical effect."
+        ],
+        "facts": [
+          "The Commission proposed the European climate resilience law on 27 October 2026.",
+          "The plan requires clear public responsibility for climate risk management and periodic assessments."
+        ],
+        "perspectives": [
+          "The Commission argues that infrastructure should be designed for future rather than historical climate conditions.",
+          "Lawmakers disagree over administrative burdens and the adequacy of financing and binding goals."
+        ],
+        "unknowns": [
+          "Parliament and Council have not agreed on the final legislative text.",
+          "Funding for adaptation by households and local authorities remains partly unresolved."
+        ],
+        "questions": [
+          {
+            "question": "What would the EU's proposed recurring climate-risk assessments change for member states?",
+            "answer": "Authorities would need to update their understanding of local vulnerabilities and name which agencies are responsible for prevention and response. This is intended to reduce confusion over duties during events such as floods and heatwaves."
+          },
+          {
+            "question": "Why isn't the EU's three-degree warming scenario an inevitable prediction?",
+            "answer": "It is a severe scenario used to test whether infrastructure and communities can withstand future risks. Actual warming depends on emissions and other factors; planning for an outcome does not establish that it will certainly happen."
+          }
+        ]
+      }
+    },
+    {
+      "section": "world",
+      "rank": 10,
+      "id": "ethiopia-oromia-church-reports-60-killed",
+      "category": "society",
+      "impact": 3,
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Attacks kill at least 60 Orthodox Christians in Ethiopia, church says",
+          "url": "https://apnews.com/article/2619e078e655a87f0f29cd1e8dd9db5d",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says",
+          "url": "https://www.reuters.com/world/africa/attackers-kill-60-people-ethiopias-conflict-hit-oromiya-region-orthodox-church-2026-10-27/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        }
+      ],
+      "it": {
+        "title": "Etiopia, la Chiesa ortodossa denuncia almeno 60 morti in due attacchi nell'Oromia",
+        "dek": "Il 27 ottobre le testate riportano un bilancio relativo ad attacchi del 20 e 24 ottobre; governi e gruppi armati si accusano senza prove conclusive pubbliche.",
+        "summary": "La Chiesa ortodossa etiope ha denunciato il 26 ottobre che due attacchi del 20 e 24 nell'Oromia avevano ucciso almeno sessanta fedeli. Associated Press e Reuters hanno riportato il 27 il bilancio di quattordici vittime a Merti e quarantasei a Shirka, oltre a feriti e case bruciate. Le attribuzioni di responsabilità avanzate dalle parti in conflitto restano contestate.",
+        "impactReason": "Le violenze hanno provocato numerose vittime civili e sottolineano la gravità del conflitto regionale, anche se gli autori non sono stati identificati in modo indipendente.",
+        "tags": [
+          "Etiopia",
+          "Oromia",
+          "civili"
+        ],
+        "body": [
+          "Il Santo Sinodo della Chiesa ortodossa etiope Tewahedo ha denunciato, in un comunicato del 26 ottobre 2026, due attacchi che avrebbero ucciso almeno sessanta cristiani ortodossi nella zona di Arsi della regione Oromia. Associated Press e Reuters ne hanno dato notizia il giorno successivo. Secondo il dettaglio comunicato dalla Chiesa, quattordici fedeli sono stati uccisi a Merti il 20 ottobre e quarantasei a Shirka il 24.",
+          "L'organizzazione religiosa segnala oltre venti feriti gravi e almeno venti abitazioni incendiate. Associated Press ha intervistato residenti e un sacerdote, che hanno descritto l'arrivo dei feriti negli ospedali e le difficoltà della popolazione. I numeri provengono principalmente dalla Chiesa e dalle testimonianze locali: non rappresentano un conteggio forense indipendente completato in tutti i villaggi coinvolti.",
+          "Il portavoce del governo regionale Hailu Adugna ha attribuito gli attacchi all'Esercito di Liberazione Oromo e ai suoi alleati, sostenendo che intendessero provocare tensioni religiose ed etniche. Associated Press precisa che l'accusa non era accompagnata da prove pubbliche. Reuters riferisce anche una controaccusa formulata da una fonte vicina a un'alleanza ribelle, che attribuisce al governo la responsabilità: anche questa versione è non verificata.",
+          "L'Oromia è teatro da anni di scontri tra forze governative, ribelli e altri gruppi armati, con gravi limitazioni per i giornalisti e interruzioni delle comunicazioni. Il conflitto rende difficili verifiche sul luogo degli episodi. La denuncia del 27 ottobre riguarda dunque fatti attribuiti al 20 e 24 e richiede indagini sulle responsabilità, senza dedurre che l'identità religiosa delle vittime basti a stabilire il movente degli aggressori."
+        ],
+        "facts": [
+          "Il comunicato della Chiesa elenca 14 vittime il 20 ottobre a Merti e 46 il 24 a Shirka.",
+          "AP e Reuters hanno ripreso il 27 ottobre la denuncia e riferito di feriti e abitazioni incendiate."
+        ],
+        "perspectives": [
+          "La Chiesa ortodossa chiede protezione per i civili e accertamento degli autori.",
+          "Governo regionale e fonti ribelli presentano accuse di responsabilità contrapposte senza prove pubbliche conclusive."
+        ],
+        "unknowns": [
+          "L'identità degli aggressori e il movente preciso non sono stati accertati pubblicamente.",
+          "Il bilancio definitivo e i danni complessivi richiedono accesso e indagini indipendenti."
+        ],
+        "questions": [
+          {
+            "question": "In quali giorni e distretti sarebbero avvenuti gli attacchi denunciati dalla Chiesa etiope?",
+            "answer": "Secondo il Santo Sinodo, quattordici persone sono state uccise a Merti il 20 ottobre e quarantasei a Shirka il 24 ottobre, entrambi nell'area di Arsi nell'Oromia. Il 27 ottobre è la data dei principali resoconti, non dei due attacchi."
+          },
+          {
+            "question": "Perché le accuse del governo dell'Oromia contro l'OLA non permettono ancora di attribuire le uccisioni?",
+            "answer": "Il governo regionale ha indicato l'OLA, ma non ha diffuso prove pubbliche sufficienti; una fonte vicina ai ribelli ha formulato una versione opposta. Le responsabilità richiedono verifiche autonome sul campo, non soltanto dichiarazioni delle parti."
+          }
+        ]
+      },
+      "en": {
+        "title": "Ethiopian Orthodox Church reports at least 60 killed in two Oromia attacks",
+        "dek": "On 27 October reporters described attacks dated 20 and 24 October; government and rebel claims about responsibility remain unproven.",
+        "summary": "Ethiopia's Orthodox Church said on 26 October that attacks on the 20th and 24th had killed at least sixty worshippers in Oromia. Associated Press and Reuters reported the alleged toll on 27 October: fourteen deaths in Merti and forty-six in Shirka, with injuries and burned homes. Competing allegations about the perpetrators have not been independently established.",
+        "impactReason": "The incidents reportedly killed many civilians and illustrate severe regional violence, but attribution of responsibility has yet to be verified independently.",
+        "tags": [
+          "Ethiopia",
+          "Oromia",
+          "civilians"
+        ],
+        "body": [
+          "The Holy Synod of the Ethiopian Orthodox Tewahedo Church said in a statement on 26 October 2026 that two attacks had killed at least sixty Orthodox Christian civilians in Oromia's Arsi Zone. Associated Press and Reuters independently covered the allegations the next day. According to the church's breakdown, fourteen people were killed in Merti district on 20 October and forty-six in Shirka on the 24th.",
+          "The religious organisation reported more than twenty people seriously wounded and at least twenty homes burned. Associated Press interviewed residents and a priest who described injured people reaching hospitals and the difficulties confronting communities. The numbers chiefly reflect the church's statement and local testimony rather than a completed independent forensic count in every affected settlement.",
+          "Oromia regional government spokesperson Hailu Adugna accused the Oromo Liberation Army and its allies, alleging an attempt to provoke ethnic and religious conflict. Associated Press noted that the accusation was not supported with publicly presented evidence. Reuters also quoted a source linked to a rebel alliance accusing the regional government instead, a conflicting account that had likewise not been independently verified.",
+          "Oromia has experienced years of fighting involving government security forces, rebels and other armed groups, with restrictions on journalism and disrupted communications. These conditions make on-site verification difficult. The 27 October reports therefore concern incidents dated 20 and 24 October and call for investigation, without assuming that the victims' religion alone establishes the attackers' identity or motives."
+        ],
+        "facts": [
+          "The church reported fourteen deaths in Merti on 20 October and forty-six in Shirka on 24 October.",
+          "AP and Reuters covered the allegations on 27 October, along with injuries and homes reportedly burned."
+        ],
+        "perspectives": [
+          "The Orthodox Church demands protection for civilians and accountability.",
+          "Regional government and rebel-linked sources make competing claims without conclusive public evidence."
+        ],
+        "unknowns": [
+          "The perpetrators and specific motive have not been established publicly.",
+          "A final casualty and damage toll requires independent access and investigation."
+        ],
+        "questions": [
+          {
+            "question": "When and where did the two attacks reported by Ethiopia's Orthodox Church allegedly take place?",
+            "answer": "According to the church, fourteen people died in Merti district on 20 October and forty-six in Shirka on 24 October, both in Oromia's Arsi Zone. The major news reports appeared on 27 October, after the events themselves."
+          },
+          {
+            "question": "Why can't Oromia's government's allegations against the OLA be treated as proven responsibility?",
+            "answer": "The government accused the OLA without presenting conclusive public evidence, while a rebel-linked source offered a conflicting accusation. Determining responsibility requires independent investigation rather than accepting either side's statements."
           }
         ]
       }
