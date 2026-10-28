@@ -504,7 +504,7 @@
       "dek": "The appeal, first issued on 23 October and reported again on the 27th, cites 19.5 million people in severe food insecurity, not a confirmed nationwide famine.",
       "summary": "More than thirty governments and a European Commission representative called for action to stop Sudan's hunger crisis worsening. Their statement, issued on 23 October and covered by Reuters and Al Jazeera on the 27th, estimates 19.5 million people in high acute food insecurity, including five million in emergency conditions, and demands unobstructed humanitarian access.",
       "body": [
-        "More than thirty governments, alongside a representative of the European Commission, issued a joint warning about famine risks in Sudan that diplomatic authorities published on 23 October 2026. Reuters and Al Jazeera covered the appeal on 27 October, highlighting worsening humanitarian conditions. The original statement's date is not the same as the date of subsequent reporting, and its statistics were not newly collected on the 27th.",
+        "More than thirty governments, alongside a representative of the European Commission, issued a joint warning about famine risks in Sudan that diplomatic authorities published on 23 October 2026. Reuters and AFP covered the appeal on 27 October, highlighting worsening humanitarian conditions. The original statement's date is not the same as the date of subsequent reporting, and its statistics were not newly collected on the 27th.",
         "The statement estimates that 19.5 million people, about 41% of the population, face high levels of acute food insecurity, including five million at emergency levels. It also projects that the number of children with severe acute malnutrition could exceed 825,000 without urgent action. These are humanitarian estimates and future scenarios, not a count of deaths or conditions already measured in every locality.",
         "Warfare has damaged distribution networks, agriculture, health services and the ability to move essential supplies. The signatories describe impediments to relief convoys and request safe routes across front lines and borders, including air access to Darfur. Food stored in warehouses or money pledged by foreign governments cannot prevent hunger unless assistance reaches families in isolated and conflict-affected areas.",
         "The statement also calls for protection of aid workers and civilian infrastructure and for immediate funding. The IPC classification framework warns about famine risks in the coming months rather than declaring every Sudanese district in the same current category. Without updated local data and sustained humanitarian access, a uniform nationwide classification or precise future death toll would be unjustified."
@@ -548,15 +548,15 @@
       "sources": [
         {
           "outlet": "Reuters",
-          "title": "US and dozens of countries warn of famine risk in Sudan, call for aid",
+          "title": "US, dozens of countries warn of Sudan famine risk, urge aid",
           "url": "https://www.reuters.com/world/asia-pacific/us-dozens-countries-warn-sudan-famine-risk-urge-aid-2026-10-27/",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         },
         {
-          "outlet": "Al Jazeera",
-          "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
-          "url": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid",
+          "outlet": "Agence France-Presse",
+          "title": "US, UK among 31 countries warning of 'alarming' Sudan famine",
+          "url": "https://citizen.digital/article/us-uk-among-31-countries-warning-of-alarming-sudan-famine-n392795",
           "publishedAt": "2026-10-27",
           "role": "reporting"
         },
