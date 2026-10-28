@@ -4,7 +4,7 @@
   "reviewedAt": "2026-10-28 morning Europe/Rome",
   "notes": [
     "Six complete-length bilingual working articles, independently cross-checked at draft level, not certified for publication.",
-    "Four original credited SVGs are in news/2026-10-28/assets; two additional illustrated covers and 19 other full stories remain outstanding.",
+    "Six original credited SVG cover illustrations in news/2026-10-28/assets; 19 further articles, assets and 8 final edition JSONs remain incomplete.",
     "The two localized records share stable IDs/ranks per section; final editorial checks and archive thread alignment are still required."
   ],
   "articles": [
@@ -556,7 +556,15 @@
             "question": "Quale passaggio istituzionale segue la decadenza di Testolin in Valle d'Aosta?",
             "answer": "Il presidente del Consiglio regionale deve comunicare la decisione all'assemblea, mentre i partiti valutano se ricostituire una maggioranza e una giunta. La ricostituzione entro la finestra prevista potrebbe evitare elezioni anticipate."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+          "alt": "Illustrazione simbolica originale di Valle d'Aosta, la Corte d'appello conferma la decadenza di Renzo Testolin; non è una fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Valle d'Aosta appeal court removes regional president Renzo Testolin",
@@ -595,7 +603,15 @@
             "question": "What happens to Valle d'Aosta's institutions after Testolin's removal?",
             "answer": "The regional council is formally notified and the governing parties must decide whether they can put together a new majority and cabinet. Forming one within the prescribed period could avoid early elections."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+          "alt": "Original symbolic illustration of Valle d'Aosta appeal court removes regional president Renzo Testolin; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/valle-aosta-testolin-appeal-ruling.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     },
     {
@@ -671,7 +687,15 @@
             "question": "In che modo la corazzatura di Gerrothorax potrebbe aver facilitato la vita in acqua salata?",
             "answer": "I ricercatori ipotizzano che la protezione ossea limitasse l'esposizione della pelle permeabile, riducendo gli scambi incontrollati con l'acqua salata. La corazzatura è conservata, ma il meccanismo di regolazione dei sali resta una spiegazione proposta, non una misura diretta."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+          "alt": "Illustrazione simbolica originale di Fossili del Triassico rivelano un antico anfibio adattato alla vita marina; non è una fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       },
       "en": {
         "title": "Triassic fossils reveal an ancient amphibian adapted to life at sea",
@@ -710,7 +734,15 @@
             "question": "How might Gerrothorax's bony armour have made saltwater life possible?",
             "answer": "Researchers propose that its bony covering reduced the exposure of permeable skin and so limited uncontrolled water and salt exchange. The armour is preserved, but the actual physiological control of salt remains a hypothesis rather than a direct measurement."
           }
-        ]
+        ],
+        "image": {
+          "src": "news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+          "alt": "Original symbolic illustration of Triassic fossils reveal an ancient amphibian adapted to life at sea; not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-28/news/2026-10-28/assets/gerrothorax-maritimus-marine-amphibian.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
       }
     }
   ],
