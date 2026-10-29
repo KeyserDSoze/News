@@ -1,0 +1,95 @@
+{
+  "id": "pentagon-starshield-ukraine-investigation-declined-oct28",
+  "impact": 3,
+  "category": "politics",
+  "src": [
+    [
+      "Associated Press",
+      "Pentagon watchdog tells lawmakers it won't investigate Starlink slowdowns to Ukraine",
+      "https://apnews.com/article/starlink-ukraine-russia-trump-musk-pentagon-investigation-293f5a4cd7e3e1736058a252e5ec067b",
+      "2026-10-28",
+      "reporting"
+    ],
+    [
+      "CNN",
+      "Pentagon watchdog declines bipartisan request to investigate Starshield slowdowns in Ukraine",
+      "https://kvia.com/politics/cnn-us-politics/2026/10/28/pentagon-watchdog-declines-bipartisan-request-to-investigate-starshield-slowdowns-in-ukraine/",
+      "2026-10-28",
+      "reporting"
+    ]
+  ],
+  "it": {
+    "title": "Starshield in Ucraina, l'ispettorato del Pentagono rifiuta l'indagine richiesta da nove senatori",
+    "dek": "La mancata apertura dell'accertamento non stabilisce se i rallentamenti dei servizi satellitari fossero volontari.",
+    "summary": "Il 28 ottobre l'ufficio dell'ispettore generale del Pentagono ha rifiutato di aprire un'indagine, sollecitata da nove senatori di entrambi i partiti, sui rallentamenti segnalati nelle comunicazioni Starlink e Starshield per l'Ucraina. Il rifiuto non certifica né esclude interferenze o decisioni deliberate sui servizi di SpaceX.",
+    "body": [
+      "Il 28 ottobre 2026 Associated Press e CNN hanno riferito che il watchdog indipendente del Dipartimento della Difesa statunitense ha declinato la richiesta dei senatori di indagare sui rallentamenti dei servizi di connettività SpaceX destinati all'Ucraina. La decisione è stata comunicata in una lettera. È un nuovo atto amministrativo successivo ai problemi di servizio già segnalati nelle settimane precedenti, non la scoperta di un ulteriore rallentamento.",
+      "La richiesta proveniva da nove senatori repubblicani e democratici, fra cui Thom Tillis e Jeanne Shaheen. I parlamentari chiedevano se la riduzione delle prestazioni di Starlink commerciale e Starshield, sistema orientato a impieghi governativi e militari, fosse dovuta a decisioni del fornitore o ad altre circostanze. Una richiesta di accertamento documenta una preoccupazione istituzionale, non una prova di illecito.",
+      "L'ispettorato ha scelto di non aprire l'inchiesta sollecitata. Questo non significa che un'indagine abbia dimostrato l'assenza di limitazioni intenzionali: semplicemente l'indagine richiesta non si svolgerà. Per distinguere difetti tecnici, vincoli contrattuali o modifiche deliberate al servizio occorrerebbe analizzare dati di rete, log operativi, istruzioni e comunicazioni fra gli interessati.",
+      "Il caso mette in evidenza la dipendenza dalle reti satellitari commerciali in situazioni di guerra, dove la continuità delle comunicazioni può essere essenziale. I senatori hanno sollevato domande sull'obbligo di rendiconto di un fornitore privato e sui limiti degli strumenti di controllo pubblico. Finché i fatti tecnici non saranno ricostruiti, l'effetto certo della lettera resta la mancata indagine e non una conclusione sulle responsabilità."
+    ],
+    "facts": [
+      "L'ispettorato del Pentagono ha rifiutato il 28 ottobre l'indagine chiesta da nove senatori bipartisan.",
+      "La richiesta riguardava presunti rallentamenti di Starlink e Starshield usati nelle comunicazioni in Ucraina."
+    ],
+    "perspectives": [
+      "I senatori vogliono maggiore trasparenza sui servizi critici; il watchdog ha deciso di non attivare l'indagine richiesta."
+    ],
+    "unknowns": [
+      "La causa dei disservizi e la presenza di decisioni intenzionali non vengono accertate dal rifiuto di aprire un fascicolo."
+    ],
+    "questions": [
+      {
+        "question": "Quali aspetti dei sistemi Starlink e Starshield volevano verificare i senatori USA?",
+        "answer": "Chiedevano se i rallentamenti denunciati nelle comunicazioni ucraine dipendessero da limitazioni del fornitore e se le decisioni fossero compatibili con gli obblighi di servizio. Starlink comprende connettività commerciale, mentre Starshield è destinato soprattutto a contratti governativi e militari."
+      },
+      {
+        "question": "Perché il rifiuto dell'ispettore generale non dimostra che SpaceX non abbia limitato i collegamenti?",
+        "answer": "Non aprire un'indagine non significa avere esaminato e confutato tutte le ipotesi. L'attribuzione di una causa richiede registri tecnici, dati sulle prestazioni e documenti contrattuali, elementi che la lettera di rifiuto non sostituisce."
+      }
+    ],
+    "impactReason": "La vicenda riguarda infrastrutture essenziali per la sicurezza dell'Ucraina e la responsabilità dei fornitori privati, pur senza aver chiarito la causa dei disservizi.",
+    "tags": [
+      "Starshield",
+      "Ucraina",
+      "satelliti"
+    ]
+  },
+  "en": {
+    "title": "Pentagon watchdog declines nine senators' request to probe Ukraine Starshield disruptions",
+    "dek": "Declining the investigation does not establish whether any satellite-service slowdowns were deliberate.",
+    "summary": "On 28 October the Pentagon inspector general declined a request by nine senators from both parties to investigate reported Starlink and Starshield slowdowns affecting communications in Ukraine. The refusal neither confirms nor rules out intentional limits on SpaceX services.",
+    "body": [
+      "Associated Press and CNN reported on 28 October 2026 that the Defense Department's independent watchdog declined to investigate alleged satellite-connectivity slowdowns affecting Ukraine. A letter conveyed the decision to senators. This is a new administrative response to disruptions reported earlier, not a new technical finding that another disruption occurred.",
+      "Nine Republican and Democratic senators, including Thom Tillis and Jeanne Shaheen, had asked whether reduced performance of commercial Starlink and government- and military-focused Starshield resulted from provider decisions or other causes. Their request documents institutional concern, not proof that anyone acted improperly.",
+      "The inspector general chose not to launch the proposed review. That is not equivalent to an investigation clearing SpaceX of intentionally limiting service, because no such inquiry was undertaken. Distinguishing network faults, contractual restrictions and deliberate changes would require technical logs, performance data and communications between the relevant parties.",
+      "The dispute illustrates reliance on private satellite networks during war, when reliable communications may be critical. Senators questioned the accountability of a private supplier and the limits of public oversight. Until technical evidence is examined, the confirmed effect of the letter is simply the absence of this requested investigation, not a finding about responsibility."
+    ],
+    "facts": [
+      "The Pentagon inspector general declined the bipartisan nine-senator investigation request on 28 October.",
+      "The request addressed alleged Starlink and Starshield slowdowns affecting communications in Ukraine."
+    ],
+    "perspectives": [
+      "The senators seek transparency on critical service provision, while the watchdog has declined the proposed inquiry."
+    ],
+    "unknowns": [
+      "The technical cause and whether any restrictions were intentional were not settled by the refusal."
+    ],
+    "questions": [
+      {
+        "question": "What did US senators want to establish about Starlink and Starshield in Ukraine?",
+        "answer": "They wanted to examine whether reported slowdowns reflected provider-imposed limits and whether service decisions met applicable obligations. Starlink includes commercial connectivity while Starshield is aimed mainly at governmental and military contracts."
+      },
+      {
+        "question": "Why does the inspector general's decision not prove SpaceX avoided deliberately limiting service?",
+        "answer": "Declining to investigate does not mean the competing explanations have been tested and dismissed. Identifying a cause requires network logs, performance records and contract documents, which the refusal letter cannot replace."
+      }
+    ],
+    "impactReason": "The case affects critical communications in Ukraine and oversight of private military infrastructure, though service causation remains unresolved.",
+    "tags": [
+      "Starshield",
+      "Ukraine",
+      "satellites"
+    ]
+  }
+}
