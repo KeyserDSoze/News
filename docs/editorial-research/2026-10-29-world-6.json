@@ -1,0 +1,95 @@
+{
+  "id": "israel-election-2026-count-86percent-oct28",
+  "impact": 3,
+  "category": "politics",
+  "src": [
+    [
+      "Reuters",
+      "Netanyahu set to remain caretaker after inconclusive Israeli election",
+      "https://www.reuters.com/world/middle-east/netanyahu-eisenkot-stake-rival-claims-lead-israel-after-deadlocked-vote-2026-10-28/",
+      "2026-10-28",
+      "reporting"
+    ],
+    [
+      "Associated Press",
+      "Takeaways from Israel's inconclusive election",
+      "https://apnews.com/article/ee0ae31d2b8f546192a03e432766dfd7",
+      "2026-10-28",
+      "reporting"
+    ]
+  ],
+  "it": {
+    "title": "Israele, scrutinio al 86%: Netanyahu avanti ma ancora senza maggioranza alla Knesset",
+    "dek": "Le proiezioni del 28 ottobre assegnano 53 seggi al blocco del premier, 48 a Eisenkot e 19 ai partiti arabi.",
+    "summary": "A un giorno dal voto israeliano del 27 ottobre, le proiezioni fondate su quasi l'86% dei voti scrutinati indicano 53 seggi al blocco di Netanyahu, 48 all'opposizione di Eisenkot e 19 ai partiti arabi. Nessuno dei primi due raggruppamenti raggiunge i 61 seggi necessari nella Knesset di 120 membri. Sono stime provvisorie, non risultati certificati o accordi di coalizione.",
+    "body": [
+      "Il 28 ottobre 2026, a quasi l'86% dello scrutinio delle elezioni israeliane del giorno precedente, le principali televisioni hanno proiettato 53 seggi per lo schieramento del premier Benjamin Netanyahu, 48 per il fronte di Gadi Eisenkot e 19 per le liste rappresentative degli arabi israeliani. Reuters e Associated Press hanno seguito il nuovo conteggio. Questo è un avanzamento delle proiezioni del 27 ottobre, già riportate nell'archivio, non una seconda elezione.",
+      "La Knesset comprende 120 parlamentari e una maggioranza richiede almeno 61 seggi. Anche se il blocco Netanyahu si confermasse il più numeroso, 53 rappresenterebbero un deficit di otto deputati. Per Eisenkot la distanza è più ampia. I seggi previsti delle liste arabe non appartengono automaticamente a un'alleanza: il sostegno deve essere negoziato con i rispettivi partiti.",
+      "Netanyahu ha sottolineato il risultato del Likud e la possibilità di proseguire la guida del paese. Eisenkot ha richiamato il mancato raggiungimento della maggioranza del blocco uscente. Queste sono interpretazioni politiche, non attestazioni del capo dello Stato. I partiti arabi possono essere determinanti aritmeticamente, ma alcuni dirigenti di altri schieramenti hanno escluso o ostacolato un'alleanza.",
+      "Una volta disponibili i risultati ufficiali, il presidente dovrà svolgere consultazioni e individuare il candidato con le migliori prospettive di formare un governo. Nel frattempo Netanyahu resta primo ministro ad interim. Mancano ancora voti da conteggiare e le trattative potrebbero richiedere settimane: il vantaggio momentaneo non basta per annunciare una nuova coalizione."
+    ],
+    "facts": [
+      "Al 28 ottobre le emittenti stimavano 53 seggi al blocco Netanyahu, 48 a Eisenkot e 19 ai partiti arabi, su circa l'86% dei voti conteggiati.",
+      "La soglia della maggioranza in un Parlamento di 120 membri è di 61 seggi."
+    ],
+    "perspectives": [
+      "Netanyahu rivendica il primato del Likud; Eisenkot sottolinea la perdita della maggioranza del blocco uscente."
+    ],
+    "unknowns": [
+      "Risultati finali, possibili accordi fra i partiti e identità del prossimo esecutivo non risultavano definitivi."
+    ],
+    "questions": [
+      {
+        "question": "Perché 53 seggi stimati per il blocco Netanyahu non bastano a formare un governo?",
+        "answer": "Nella Knesset di 120 membri sono necessari almeno 61 deputati per una maggioranza. Anche un blocco che arriva primo deve trovare altri otto sostenitori: il risultato relativo non attribuisce automaticamente il governo."
+      },
+      {
+        "question": "Che ruolo possono giocare i 19 seggi stimati delle liste arabe nelle trattative di Eisenkot?",
+        "answer": "Possono rendere possibile, in termini numerici, una maggioranza diversa da quella del premier. Ma la cooperazione dipende da intese politiche esplicite e alcune forze dell'opposizione hanno sollevato obiezioni; le proiezioni non descrivono ancora una coalizione."
+      }
+    ],
+    "impactReason": "Lo scrutinio e la formazione del governo israeliano possono incidere sulla stabilità interna e sulle crisi regionali, ma le stime restano provvisorie.",
+    "tags": [
+      "Israele",
+      "Knesset",
+      "scrutinio"
+    ]
+  },
+  "en": {
+    "title": "Israel's vote count puts Netanyahu's bloc ahead but short of a Knesset majority",
+    "dek": "At 86% counted on 28 October, projections show Netanyahu's camp at 53 seats, Eisenkot's at 48 and Arab-led lists at 19.",
+    "summary": "A day after Israel's 27 October vote, projections based on nearly 86% of counted ballots show 53 seats for Netanyahu's bloc, 48 for Eisenkot's opposition and 19 for Arab-led parties. Neither main camp reaches the 61 seats needed in the 120-member Knesset. These are provisional forecasts, not certified totals or a coalition agreement.",
+    "body": [
+      "By 28 October 2026 nearly 86% of votes from the previous day's Israeli election had been counted. Major broadcasters projected 53 seats for Prime Minister Benjamin Netanyahu's bloc, 48 for opposition parties led by Gadi Eisenkot and 19 for Arab-led lists. Reuters and Associated Press independently covered the count. The figures advance the picture from 27 October exit polls, rather than representing a new election.",
+      "The Knesset has 120 lawmakers, so at least 61 seats are needed for a majority. A projected 53 leaves Netanyahu's camp eight seats short, despite its lead over the opposition. Eisenkot faces an even wider gap. The seats projected for Arab-led parties cannot be allocated to either camp without explicit political negotiations.",
+      "Netanyahu pointed to Likud's strength and his ability to remain in office; Eisenkot emphasized that the outgoing government bloc lacked a majority. These are political readings, not a formal presidential appointment. Arab-led parties could be mathematically decisive, but leaders elsewhere have expressed significant objections to forming alliances with them.",
+      "After official results are established, the president must consult the parties and choose a politician to attempt government formation. Netanyahu remains caretaker prime minister meanwhile. With ballots outstanding and coalition talks still to come, the projected lead cannot be reported as a completed governing arrangement."
+    ],
+    "facts": [
+      "Projections based on roughly 86% counted on 28 October gave Netanyahu's bloc 53 seats, Eisenkot's 48 and Arab-led parties 19.",
+      "A majority in the 120-seat Knesset requires 61 seats."
+    ],
+    "perspectives": [
+      "Netanyahu emphasizes Likud's lead; Eisenkot stresses the loss of a majority by the outgoing government camp."
+    ],
+    "unknowns": [
+      "Final results, party agreements and the identity of the next government had not been settled."
+    ],
+    "questions": [
+      {
+        "question": "Why are 53 projected seats insufficient for Netanyahu to form an Israeli government?",
+        "answer": "A majority of the Knesset's 120 members requires at least 61 lawmakers. Even the leading bloc would need eight additional supporters, since finishing first does not automatically confer a governing majority."
+      },
+      {
+        "question": "How might 19 projected seats for Arab-led parties affect Eisenkot's negotiations?",
+        "answer": "They could make an alternative majority mathematically possible, but political agreements are required. Some opposition politicians have rejected such cooperation, so projected totals do not yet represent a working coalition."
+      }
+    ],
+    "impactReason": "Israel's vote and government formation affect domestic politics and regional crises, although the figures and alliances remain provisional.",
+    "tags": [
+      "Israel",
+      "Knesset",
+      "count"
+    ]
+  }
+}

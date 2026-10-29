@@ -1,0 +1,505 @@
+{
+  "date": "2026-10-29",
+  "section": "world",
+  "status": "editorial-draft-not-published",
+  "stories": [
+    {
+      "id": "spain-urda-high-speed-train-collision-oct28",
+      "impact": 4,
+      "category": "society",
+      "src": [
+        [
+          "Reuters",
+          "At least 68 people dead in Spain's second major train crash this year",
+          "https://www.reuters.com/world/two-high-speed-trains-rear-end-spain-rail-operator-says-2026-10-28/",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "Associated Press",
+          "High-speed train collision kills at least 68 in Spain's 2nd deadly rail crash this year",
+          "https://apnews.com/article/4f65471a0e36f448d7ee9efe0768cd77",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "The Guardian",
+          "Death toll rises to 68 after high-speed train collision in Spain",
+          "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+          "2026-10-28",
+          "reporting"
+        ]
+      ],
+      "it": {
+        "title": "Spagna, due treni ad alta velocità si scontrano presso Urda: almeno 68 morti",
+        "dek": "Dopo il fermo causato da un problema di segnalamento, un convoglio ha urtato quello davanti; la sequenza delle autorizzazioni è sotto indagine.",
+        "summary": "Il 28 ottobre due treni ad alta velocità diretti verso l'Andalusia si sono scontrati nei pressi di Urda, provincia di Toledo. Il bilancio provvisorio riportato da autorità e redazioni è di almeno 68 morti. Il ministro dei Trasporti ha descritto un'avaria del sistema di segnalamento e la successiva ripartenza autorizzata dalla centrale, ma le responsabilità e la dinamica completa sono oggetto d'indagine.",
+        "body": [
+          "La mattina del 28 ottobre 2026, sulla linea ad alta velocità fra Madrid e Siviglia, un treno RENFE ha urtato la parte posteriore di un convoglio IRYO fermo nei pressi di Urda, in provincia di Toledo. I vagoni hanno subito gravi danni e alcuni sono deragliati. Reuters, Associated Press e The Guardian hanno aggiornato le loro cronache durante la giornata, riportando almeno 68 morti, mentre i soccorritori proseguivano la ricerca fra le carrozze.",
+          "Secondo i dati raccolti da Associated Press, a bordo dei due convogli viaggiavano 397 persone su RENFE e 147 su IRYO. L'autorità regionale ha riferito 58 persone in trattamento ospedaliero; altre cronache riportavano cifre diverse per la categoria più ampia dei feriti, talvolta riferendosi a orari differenti. Questi numeri non vanno sommati né equiparati: una persona ferita non coincide necessariamente con un ricovero nello stesso aggiornamento.",
+          "Il ministro dei Trasporti Óscar Puente ha riferito che un malfunzionamento informatico aveva interrotto il funzionamento di un sistema di segnalamento sul tratto e fermato la circolazione. Secondo la sua ricostruzione iniziale, un centro di controllo avrebbe poi autorizzato la ripartenza del treno RENFE nonostante la persistenza di un'indicazione di arresto. Gli inquirenti stanno studiando l'intervallo precedente all'impatto, inclusi velocità, comunicazioni e procedure: la versione del ministro non costituisce una sentenza sulle responsabilità.",
+          "Il premier Pedro Sánchez ha annunciato tre giorni di lutto nazionale e promesso accertamenti, mentre il traffico sulla tratta verso l'Andalusia è stato sospeso. L'incidente segue un'altra collisione mortale di alta velocità avvenuta in gennaio, ma la vicinanza cronologica non dimostra una causa comune. La priorità pubblica è chiarire il funzionamento delle protezioni di linea e la catena decisionale, senza anticipare le conclusioni dell'indagine."
+        ],
+        "facts": [
+          "Due treni ad alta velocità si sono scontrati vicino a Urda il 28 ottobre 2026; le autorità hanno riferito almeno 68 morti nel bilancio provvisorio.",
+          "Associated Press ha riportato 58 persone in trattamento ospedaliero, una categoria diversa dai conteggi complessivi dei feriti."
+        ],
+        "perspectives": [
+          "Il ministro Puente ha descritto un guasto del segnalamento e una ripartenza autorizzata dalla centrale; gli investigatori devono verificare le cause e le responsabilità.",
+          "Sánchez ha dichiarato il lutto nazionale e promesso una revisione della sicurezza ferroviaria."
+        ],
+        "unknowns": [
+          "Il numero definitivo delle vittime e la responsabilità specifica per la ripartenza in presenza del segnale di arresto non erano accertati nei resoconti del 28 ottobre."
+        ],
+        "questions": [
+          {
+            "question": "Quale sequenza di eventi sul segnalamento di Urda stanno esaminando gli investigatori?",
+            "answer": "Il ministro ha ricostruito un blocco del sistema di segnalamento che ha fermato la circolazione, seguito da un'autorizzazione centrale a ripartire benché un segnale indicasse ancora l'arresto. Gli investigatori devono confrontare registri, comunicazioni e velocità per stabilire perché il RENFE abbia raggiunto l'IRYO fermo."
+          },
+          {
+            "question": "Perché i 58 pazienti ospedalieri e i circa 80 feriti riportati sullo scontro non sono conteggi necessariamente contraddittori?",
+            "answer": "I 58 indicano persone assistite in ospedale in un preciso aggiornamento delle autorità regionali, mentre la stima più ampia dei feriti può includere pazienti trattati altrove o registrati in orari diversi. Non descrivono necessariamente la stessa popolazione e vanno citati con fonte e data."
+          }
+        ],
+        "impactReason": "Almeno 68 vite perse, centinaia di passeggeri coinvolti e l'interruzione di una grande linea ferroviaria costituiscono una tragedia eccezionale con ricadute nazionali e sulla sicurezza dei trasporti.",
+        "tags": [
+          "Spagna",
+          "Urda",
+          "ferrovie"
+        ]
+      },
+      "en": {
+        "title": "At least 68 killed as two high-speed trains collide near Urda in Spain",
+        "dek": "After a signaling failure stopped traffic, one train struck another; investigators are examining the restart authorization and speed.",
+        "summary": "Two high-speed trains bound toward Andalusia collided near Urda in Toledo province on 28 October, with authorities reporting at least 68 dead in provisional figures. Spain's transport minister described a signaling-system malfunction and a subsequent restart authorized by a control center. The complete sequence and any responsibility for the collision remain under investigation.",
+        "body": [
+          "On the morning of 28 October 2026, a RENFE high-speed service struck the rear of a stationary IRYO train near Urda, on the Madrid–Seville line in Spain's Toledo province. Carriages were badly damaged and derailed. Reuters, Associated Press and The Guardian published updates throughout the day, reporting a provisional death toll of at least 68 while emergency teams continued searching the wreckage.",
+          "According to Associated Press, the RENFE train carried 397 passengers and the IRYO train 147. Regional authorities reported 58 people receiving hospital care; other reports gave different totals for the broader category of injured passengers or described different update times. Those numbers must not be added together or treated as equivalent because being injured and receiving hospital treatment are not identical measures.",
+          "Transport Minister Óscar Puente said a computer-related failure had disrupted signaling on a stretch of track and brought trains to a halt. In his initial account, central controllers later authorized RENFE's train to resume despite an active stop indication. Investigators are examining the period before the collision, including speed, communications and operating procedures. The minister's account is a reported explanation, not a final determination of fault.",
+          "Prime Minister Pedro Sánchez announced three days of national mourning and promised a thorough investigation as services toward Andalusia were suspended. A separate deadly high-speed collision had occurred in January, but proximity in time does not prove a shared cause. Establishing the operation of safety safeguards and decision-making at the control center is crucial before assigning responsibility."
+        ],
+        "facts": [
+          "Two high-speed trains collided near Urda on 28 October 2026; authorities gave a provisional death toll of at least 68.",
+          "Associated Press reported 58 people receiving hospital care, a narrower category than broader injury counts."
+        ],
+        "perspectives": [
+          "Puente described a signaling failure and a control-center authorization to move; investigators must independently establish the cause and responsibility.",
+          "Sánchez declared national mourning and called for rail-safety scrutiny."
+        ],
+        "unknowns": [
+          "The final death toll and specific responsibility for restarting despite a stop indication were not established in 28 October reports."
+        ],
+        "questions": [
+          {
+            "question": "What signaling sequence near Urda are investigators examining after the Spanish rail collision?",
+            "answer": "The transport minister described a signaling-system failure that stopped traffic, followed by central authorization for RENFE to proceed even though a stop signal remained active. Investigators need to compare control logs, communications and train speed to explain how it reached the stopped IRYO service."
+          },
+          {
+            "question": "Why need the 58 hospital patients and reports of roughly 80 injured in the Urda crash not conflict?",
+            "answer": "The figure of 58 describes people treated in hospital in one regional-authority update, whereas broader injury estimates can include people treated elsewhere or recorded at different times. The categories are not necessarily identical and should retain their source and timestamp."
+          }
+        ],
+        "impactReason": "The loss of at least 68 lives, hundreds of affected passengers and disruption of a major rail corridor make this an extraordinary tragedy with national transport-safety consequences.",
+        "tags": [
+          "Spain",
+          "Urda",
+          "rail"
+        ]
+      }
+    },
+    {
+      "id": "un-cuba-embargo-vote-2026-oct28",
+      "impact": 3,
+      "category": "politics",
+      "src": [
+        [
+          "Reuters",
+          "US gets more countries to oppose UN resolution condemning its Cuba embargo",
+          "https://www.reuters.com/world/americas/us-gets-more-countries-oppose-un-resolution-condemning-its-cuba-embargo-2026-10-28/",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "Associated Press",
+          "UN General Assembly again calls for an end to the US embargo on Cuba",
+          "https://apnews.com/article/us-cuba-embargo-un-general-assembly-trump-52ab17ec75d26cd9d1893915ce18f414",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "United Nations News",
+          "Backing for UN call to end Cuba embargo falls to 20-year low",
+          "https://news.un.org/en/story/2026/10/1166754",
+          "2026-10-28",
+          "official"
+        ]
+      ],
+      "it": {
+        "title": "Embargo a Cuba, l'Assemblea ONU chiede la fine delle sanzioni: 130 voti favorevoli",
+        "dek": "Crescono i contrari a 17 e gli astenuti a 25; la risoluzione non è vincolante e non modifica da sola le leggi statunitensi.",
+        "summary": "Il 28 ottobre l'Assemblea generale delle Nazioni Unite ha approvato con 130 voti favorevoli, 17 contrari e 25 astensioni la richiesta annuale di porre fine all'embargo economico statunitense su Cuba. I favorevoli sono scesi dai 165 del 2025. L'esito segnala un cambiamento diplomatico ma non elimina, sul piano giuridico, le restrizioni in vigore.",
+        "body": [
+          "L'Assemblea generale dell'ONU ha votato il 28 ottobre 2026 una nuova risoluzione che chiede la cessazione dell'embargo economico, commerciale e finanziario degli Stati Uniti contro Cuba. Il testo ha raccolto 130 sì, 17 no e 25 astensioni. Reuters e Associated Press hanno seguito il voto e le pressioni diplomatiche che lo hanno preceduto, mentre le Nazioni Unite hanno pubblicato i risultati ufficiali.",
+          "Nel 2025 lo stesso tipo di risoluzione aveva ottenuto 165 voti favorevoli, 7 contrari e 12 astensioni. Il confronto indica che un numero maggiore di governi ha scelto quest'anno di votare contro o di non prendere posizione. Paesi come Italia e Germania si sono astenuti, secondo Reuters. Il dato descrive le scelte di voto degli Stati, non un sondaggio sulla popolazione mondiale.",
+          "Le risoluzioni di questo tipo dell'Assemblea generale hanno un peso politico e diplomatico ma non ordinano direttamente al Congresso statunitense di modificare le proprie leggi. L'embargo comprende norme nazionali e provvedimenti esecutivi differenti; per cambiarne le componenti legislative serve un processo istituzionale negli Stati Uniti. Non sarebbe corretto dire che l'ONU ha 'abolito' le sanzioni.",
+          "Il governo cubano considera l'embargo una causa importante delle difficoltà economiche dell'isola; Washington attribuisce alle proprie misure obiettivi di politica estera e sicurezza. Queste interpretazioni vanno distinte dai dati verificabili sulla votazione e dai problemi energetici affrontati dalla popolazione cubana. L'atto del 28 ottobre segnala la persistenza del conflitto diplomatico e un sostegno internazionale meno ampio rispetto agli anni precedenti."
+        ],
+        "facts": [
+          "La risoluzione ONU del 28 ottobre 2026 è passata con 130 sì, 17 no e 25 astenuti.",
+          "Il confronto ufficiale 2025 è 165 favorevoli, 7 contrari e 12 astenuti; la risoluzione dell'Assemblea generale non è vincolante."
+        ],
+        "perspectives": [
+          "Cuba considera le sanzioni responsabili di parte della crisi economica; gli Stati Uniti difendono la propria politica come misura di pressione internazionale."
+        ],
+        "unknowns": [
+          "Il voto non determina se o quando il Congresso e l'esecutivo statunitense cambieranno le misure in vigore."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa cambia giuridicamente dopo i 130 voti favorevoli sulla richiesta ONU di fine embargo a Cuba?",
+            "answer": "Il voto rafforza una richiesta diplomatica ma non cancella le disposizioni federali statunitensi. Per eliminare le parti dell'embargo previste dalla legge serve l'azione delle istituzioni degli Stati Uniti, in particolare del Congresso per gli elementi legislativi."
+          },
+          {
+            "question": "Qual è il significato del passaggio da 165 a 130 voti favorevoli tra 2025 e 2026?",
+            "answer": "Indica che 35 delegazioni in meno hanno sostenuto la risoluzione, mentre sono aumentati sia i contrari sia gli astenuti. È un mutamento della distribuzione diplomatica dei voti, non una misura diretta dell'efficacia dell'embargo o delle opinioni dei cittadini cubani."
+          }
+        ],
+        "impactReason": "La posizione dell'Assemblea influenza le relazioni multilaterali e il dibattito sulle sanzioni che incidono su milioni di cubani, pur senza cambiare la legge statunitense.",
+        "tags": [
+          "ONU",
+          "Cuba",
+          "embargo"
+        ]
+      },
+      "en": {
+        "title": "UN votes 130 to 17 to urge an end to US embargo on Cuba, with 25 abstentions",
+        "dek": "Support for the annual resolution falls from 165 countries in 2025; the measure is nonbinding and does not repeal US law.",
+        "summary": "The UN General Assembly voted on 28 October to call for an end to the US economic embargo on Cuba, with 130 in favor, 17 opposed and 25 abstaining. Support had stood at 165 votes in 2025. The change signals a shift in diplomatic alignment but does not legally remove the restrictions.",
+        "body": [
+          "On 28 October 2026 the United Nations General Assembly adopted its annual resolution calling for an end to the United States' economic, commercial and financial embargo against Cuba. The tally was 130 votes in favor, 17 against and 25 abstentions. Reuters and Associated Press independently covered the debate and diplomatic pressure surrounding it; the UN released the official result.",
+          "The corresponding 2025 vote had been 165 in favor, seven against and 12 abstaining. The comparison shows more governments either opposing the text or declining to take a side this year. Reuters reported that Italy and Germany abstained. These are choices by government delegations, not a direct measurement of worldwide public opinion.",
+          "General Assembly resolutions of this type carry diplomatic significance but cannot order the US Congress to repeal national legislation. The embargo consists of several legal and executive measures with different routes for change. It would be inaccurate to state that the UN vote has abolished the economic restrictions.",
+          "Cuba's government views the embargo as a major contributor to the island's economic difficulties, while Washington describes its measures through foreign-policy and security objectives. Such perspectives should be distinguished from the recorded vote and the energy difficulties facing Cubans. The October decision highlights both the lasting dispute and the narrower international support for the resolution."
+        ],
+        "facts": [
+          "The UN resolution passed on 28 October 2026 with 130 in favor, 17 against and 25 abstaining.",
+          "The 2025 result was 165–7 with 12 abstentions, and General Assembly resolutions of this type are nonbinding."
+        ],
+        "perspectives": [
+          "Cuba argues the embargo deepens its economic crisis; the United States presents its sanctions as foreign-policy pressure."
+        ],
+        "unknowns": [
+          "The vote does not establish whether or when US lawmakers or the administration will alter existing restrictions."
+        ],
+        "questions": [
+          {
+            "question": "What legal effect does the UN's 130-vote call to end the Cuba embargo have?",
+            "answer": "The resolution expresses a diplomatic position but does not invalidate US federal law. Lifting statutory components of the embargo requires action within the US political system, including Congress for measures set by legislation."
+          },
+          {
+            "question": "What does the fall in supporting votes from 165 in 2025 to 130 in 2026 reveal?",
+            "answer": "Thirty-five fewer delegations backed the text, as both opposition and abstentions increased. This records a shift in governments' voting behavior; it does not directly measure the embargo's economic effects or the views of Cuban citizens."
+          }
+        ],
+        "impactReason": "The vote shapes a major diplomatic dispute over sanctions affecting millions of Cubans, even though it cannot change US law on its own.",
+        "tags": [
+          "UN",
+          "Cuba",
+          "embargo"
+        ]
+      }
+    },
+    {
+      "id": "aden-airport-houthi-strike-warning-oct28",
+      "impact": 3,
+      "category": "world",
+      "src": [
+        [
+          "Reuters",
+          "Houthis strike Yemen's Aden airport after evacuation warning",
+          "https://www.reuters.com/world/middle-east/yemens-houthis-call-immediate-evacuation-aden-airport-2026-10-28/",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "Associated Press",
+          "Yemen's airport struck amid renewed Houthi conflict",
+          "https://apnews.com/article/c032db4b09725fea0f6320eec49de5d4",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "CBS News / AFP",
+          "Live updates from Iran war, Houthi missile at Aden airport",
+          "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+          "2026-10-28",
+          "reporting"
+        ]
+      ],
+      "it": {
+        "title": "Yemen, colpita l'area dell'aeroporto di Aden dopo un avvertimento degli Houthi",
+        "dek": "Le forze governative segnalano feriti civili e danni, mentre i ribelli parlano di un presunto carico militare saudita non verificato.",
+        "summary": "Il 28 ottobre un missile ha colpito l'area aeroportuale di Aden, nello Yemen meridionale, e gli Houthi hanno diffuso un avviso di evacuazione. Autorità governative riferiscono feriti e danni; il gruppo ribelle giustifica l'azione sostenendo la presenza di un aereo con armi saudite, un'affermazione non verificata. Il traffico aereo è stato interrotto.",
+        "body": [
+          "Il 28 ottobre 2026 lo scalo internazionale di Aden, controllato dalle autorità yemenite riconosciute internazionalmente, è stato interessato da un attacco missilistico nell'area aeroportuale. Le forze governative hanno comunicato feriti civili e danni e il traffico è stato sospeso. Reuters e Associated Press hanno seguito l'episodio; CBS News ha riportato separatamente un resoconto AFP sul missile caduto nel perimetro.",
+          "Il portavoce militare degli Houthi Yahya Saree ha invitato alla rapida evacuazione dello scalo e ha sostenuto che fosse presente un aereo cargo militare saudita con armamenti. La dichiarazione è della parte belligerante e non dimostra né la natura del carico né la liceità di un eventuale bersaglio. Secondo un resoconto AFP, il velivolo citato non è stato colpito e sarebbe decollato poco dopo.",
+          "L'aeroporto di Aden è un collegamento importante per l'ingresso di personale umanitario, medicinali e rifornimenti nella parte meridionale del Paese. La chiusura dei voli e l'aumento del rischio per i movimenti del personale possono complicare operazioni di assistenza già difficili. Gli operatori umanitari consultati da Reuters hanno indicato che alcuni membri del personale internazionale erano al sicuro.",
+          "Lo scontro avviene mentre le ostilità fra gli Houthi, il governo appoggiato dall'Arabia Saudita e le forze della coalizione si intensificano. Le dichiarazioni sulle ragioni militari dell'attacco non vanno trattate come risultati investigativi. Il numero definitivo dei feriti, la durata della chiusura e i danni alle infrastrutture richiederanno conferme successive."
+        ],
+        "facts": [
+          "Il 28 ottobre un missile ha colpito l'area dell'aeroporto di Aden e le autorità hanno sospeso il traffico, riferendo feriti civili e danni.",
+          "Gli Houthi hanno diramato un allarme di evacuazione e dichiarato che vi fosse un aereo militare saudita, circostanza non verificata indipendentemente."
+        ],
+        "perspectives": [
+          "Il portavoce Houthi ha descritto un presunto obiettivo militare; le autorità governative yemenite denunciano i danni a uno scalo usato anche per assistenza umanitaria."
+        ],
+        "unknowns": [
+          "La natura esatta del carico dell'aereo citato, il bilancio definitivo dei feriti e la durata dell'interruzione dei collegamenti non sono stabiliti."
+        ],
+        "questions": [
+          {
+            "question": "Perché l'aeroporto di Aden è essenziale anche per gli aiuti civili in Yemen?",
+            "answer": "Lo scalo collega lo Yemen meridionale alle missioni di assistenza, consentendo movimenti di operatori, medicinali ed equipaggiamenti. Anche un'interruzione temporanea può rendere più difficili rotazioni e consegne in un contesto già segnato dalla guerra."
+          },
+          {
+            "question": "Che cosa distingue l'avvertimento Houthi su un aereo saudita dalla prova che lo scalo fosse un obiettivo militare?",
+            "answer": "Il comunicato di Yahya Saree descrive l'affermazione di un belligerante, ma non contiene verifiche indipendenti sulla natura delle merci o sull'uso di un'infrastruttura civile. Stabilire un obiettivo specifico richiede elementi documentali e valutazioni giuridiche ulteriori."
+          }
+        ],
+        "impactReason": "Colpire uno scalo umanitario e interromperne le operazioni può aggravare la crisi civile yemenita e la sicurezza regionale, pur con conseguenze ancora da quantificare.",
+        "tags": [
+          "Yemen",
+          "Aden",
+          "Houthi"
+        ]
+      },
+      "en": {
+        "title": "Missile strikes Aden airport area after Houthi evacuation warning in Yemen",
+        "dek": "Government forces report civilian injuries and damage; Houthi claims about Saudi military cargo have not been independently verified.",
+        "summary": "A missile hit the area of Aden airport in southern Yemen on 28 October, as the Houthis issued an evacuation warning. Government forces reported civilian injuries and damage, while the armed group said a Saudi military aircraft carrying weapons was present, a claim not independently verified. Air traffic was disrupted.",
+        "body": [
+          "On 28 October 2026 a missile struck the international airport area of Aden, controlled by Yemen's internationally recognized authorities. Government forces reported civilian injuries and damage, and flights were suspended. Reuters and Associated Press covered the incident; CBS News also carried an AFP account of a missile landing inside the airport perimeter.",
+          "Houthi military spokesperson Yahya Saree urged people to evacuate and alleged a Saudi military cargo plane carrying weapons was at the site. This statement comes from a party to the conflict and does not itself establish the nature of the cargo or whether a particular target would be lawful. According to AFP reporting cited by CBS, the aircraft was not struck and departed shortly afterward.",
+          "Aden airport is an important gateway for humanitarian workers, medicines and equipment reaching southern Yemen. Flight suspensions and threats to staff movement can complicate already difficult aid operations. Humanitarian sources quoted by Reuters said some international staff had departed safely, while other organizations confirmed the safety of their personnel.",
+          "The attack comes amid intensifying hostilities involving the Houthis, the Saudi-backed government and coalition forces. Claims about a military reason for the strike are allegations rather than final investigative conclusions. The confirmed casualty total, infrastructure damage and length of the airport closure will require further updates."
+        ],
+        "facts": [
+          "A missile hit the Aden airport area on 28 October and authorities suspended flights while reporting civilian injuries and damage.",
+          "The Houthis issued an evacuation warning and alleged the presence of Saudi military cargo, which was not independently established."
+        ],
+        "perspectives": [
+          "Houthi spokesperson Yahya Saree asserted a military justification; Yemeni government authorities emphasized damage to an airport also used for humanitarian access."
+        ],
+        "unknowns": [
+          "The aircraft's exact cargo, final injury toll and duration of flight disruption were not determined in the initial reporting."
+        ],
+        "questions": [
+          {
+            "question": "Why is Aden airport important for civilian aid operations in Yemen?",
+            "answer": "It provides a route for humanitarian staff, medical supplies and other equipment into southern Yemen. Even temporary closures can delay personnel rotations and deliveries in a country already facing severe constraints caused by war."
+          },
+          {
+            "question": "Why does the Houthi warning about a Saudi aircraft not establish that the airport was a military target?",
+            "answer": "Yahya Saree's statement records a belligerent's allegation but does not independently verify the cargo or use of civilian infrastructure. Identifying a specific military objective requires additional evidence and a separate legal assessment."
+          }
+        ],
+        "impactReason": "An attack disrupting a humanitarian gateway in Yemen may worsen civilian access and regional security, though the full consequences are not yet measured.",
+        "tags": [
+          "Yemen",
+          "Aden",
+          "Houthis"
+        ]
+      }
+    },
+    {
+      "id": "serbia-belgrade-embassy-knife-attack-oct28",
+      "impact": 2.5,
+      "category": "society",
+      "src": [
+        [
+          "Reuters",
+          "Policeman kills knife attacker outside Israel's embassy in Serbia",
+          "https://www.reuters.com/world/policeman-kills-knife-attacker-outside-israels-embassy-serbia-2026-10-28/",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "Associated Press",
+          "Serbian police say assailant killed after attacking officer outside Israeli Embassy",
+          "https://apnews.com/article/5b6d28dc67b691d73b4ee6e4eae760e1",
+          "2026-10-28",
+          "reporting"
+        ]
+      ],
+      "it": {
+        "title": "Belgrado, assalto a un agente davanti all'ambasciata israeliana: aggressore ucciso",
+        "dek": "L'agente ha riportato ferite lievi; il governo serbo innalza l'allerta al massimo livello e parla di ipotesi terroristica.",
+        "summary": "Nella notte del 28 ottobre, un aggressore con due coltelli ha ferito un agente di guardia all'ambasciata israeliana a Belgrado ed è stato ucciso dall'agente. Il ministro dell'Interno serbo Ivica Dačić ha alzato l'allerta di sicurezza al livello rosso e definito l'episodio un possibile attacco terroristico. Identità e movente richiedono verifiche investigative.",
+        "body": [
+          "Poco dopo la mezzanotte del 28 ottobre 2026, una persona armata di coltelli ha aggredito un poliziotto appartenente alla Gendarmeria serba davanti all'ambasciata israeliana a Belgrado. L'agente è rimasto lievemente ferito e ha ucciso l'assalitore con la propria arma. Reuters e Associated Press hanno raccolto le dichiarazioni del ministero dell'Interno e della Procura locale; il personale dell'ambasciata non risultava coinvolto.",
+          "Il ministro dell'Interno uscente Ivica Dačić ha detto che l'aggressore sarebbe stato minorenne e proveniente dall'area di Šabac, precisando inizialmente che l'identità non era accertata. Ha inoltre indicato elementi che, secondo i servizi serbi, suggerirebbero simpatie per lo Stato islamico. Sono informazioni fornite dalle autorità e non un riconoscimento giudiziario definitivo del movente.",
+          "Le autorità hanno elevato al livello rosso, il più alto, l'allerta antiterrorismo e annunciato una maggiore presenza di forze di sicurezza presso obiettivi sensibili. Questa decisione operativa può incidere su controlli e protezione di edifici pubblici e diplomatici, ma non equivale all'accertamento in tribunale che l'azione sia stata organizzata da un gruppo terroristico.",
+          "L'episodio ricorda un precedente attacco del 2024 contro un agente di guardia alla stessa sede diplomatica. La somiglianza del luogo non prova contatti fra gli aggressori dei due casi. Le indagini dovranno chiarire identità, preparazione e possibili collegamenti, mantenendo distinta la ricostruzione immediata delle forze dell'ordine dalle prove definitivamente acquisite."
+        ],
+        "facts": [
+          "Un poliziotto è stato ferito lievemente da un aggressore armato di coltelli il 28 ottobre davanti all'ambasciata israeliana di Belgrado; l'aggressore è stato ucciso.",
+          "Il ministro serbo dell'Interno ha elevato l'allerta al massimo livello rosso dopo l'episodio."
+        ],
+        "perspectives": [
+          "Le autorità serbe parlano di possibile terrorismo e riferiscono presunti segnali di radicalizzazione; un movente definitivo non è stato accertato."
+        ],
+        "unknowns": [
+          "Identità completa, motivazione e eventuali legami organizzativi dell'aggressore non risultavano stabiliti dalle informazioni iniziali."
+        ],
+        "questions": [
+          {
+            "question": "Quali effetti pratici produce il livello d'allerta rosso introdotto in Serbia dopo l'attacco di Belgrado?",
+            "answer": "È il livello massimo di allerta indicato dal ministero dell'Interno e comporta un rafforzamento della presenza di agenti e controlli nei luoghi ritenuti sensibili. È una misura di prevenzione immediata, non una sentenza sulla natura giuridica del reato."
+          },
+          {
+            "question": "Perché gli indizi citati da Dačić su presunte simpatie jihadiste non bastano ad attribuire l'attacco a un'organizzazione?",
+            "answer": "Una dichiarazione sull'ideologia o su contenuti pubblicati online non dimostra da sola ordini, coordinamento o supporto operativo ricevuti da un gruppo. Per attribuire collegamenti organizzativi servono riscontri investigativi separati dalle prime valutazioni delle autorità."
+          }
+        ],
+        "impactReason": "Un attacco mortale contro un agente presso una sede diplomatica e l'innalzamento dell'allerta nazionale hanno conseguenze immediate sulla sicurezza, pur con movente da chiarire.",
+        "tags": [
+          "Belgrado",
+          "Serbia",
+          "sicurezza"
+        ]
+      },
+      "en": {
+        "title": "Knife attacker shot dead after injuring guard outside Israeli Embassy in Belgrade",
+        "dek": "The officer suffered minor injuries; Serbia raised its security alert to the highest level and is investigating a possible terrorist motive.",
+        "summary": "Shortly after midnight on 28 October, a knife-wielding assailant wounded an officer guarding the Israeli Embassy in Belgrade and was shot dead by the officer. Outgoing Interior Minister Ivica Dačić raised the national security alert to red and described the incident as a suspected terrorist attack. The attacker's identity and motives require further investigation.",
+        "body": [
+          "Shortly after midnight on 28 October 2026, a person armed with knives attacked a Serbian Gendarmerie officer outside the Israeli Embassy in Belgrade. The guard was slightly injured and fatally shot the assailant. Reuters and Associated Press reported statements from Serbia's Interior Ministry and prosecutors; no embassy staff were reported injured.",
+          "Outgoing Interior Minister Ivica Dačić said the attacker was believed to be a minor from the Šabac region, while acknowledging that the person's identity was not initially established. He also described material that security agencies believed suggested sympathy for Islamic State. These are attributed official claims rather than a judicially established motive.",
+          "Serbian authorities raised the terrorism alert to red, the highest level, and announced more police presence at sensitive sites. This operational response can affect screening and protection around government and diplomatic buildings. However, a decision to increase security does not constitute a court finding that an organized terrorist group directed the attack.",
+          "The incident recalls a separate 2024 attack against an officer at the same embassy. A similar location does not establish any connection between the perpetrators. Investigators must still determine identity, preparation and possible external links, separating early official assessments from independently demonstrated evidence."
+        ],
+        "facts": [
+          "A knife attacker slightly wounded a Serbian officer outside the Israeli Embassy on 28 October and was fatally shot.",
+          "Serbia's interior minister announced the highest red security alert after the incident."
+        ],
+        "perspectives": [
+          "Serbian authorities suspect terrorism and point to alleged signs of radicalization, but the attack's motive has not been judicially established."
+        ],
+        "unknowns": [
+          "The full identity, motivation and any organizational links of the assailant were not confirmed in initial accounts."
+        ],
+        "questions": [
+          {
+            "question": "What practical measures follow Serbia's red security alert after the Belgrade embassy attack?",
+            "answer": "Red is the highest alert described by the Interior Ministry and involves increased police deployment and checks at sensitive locations. It is an immediate preventive response, not a legal verdict on the nature of the offense."
+          },
+          {
+            "question": "Why do Dačić's claims about extremist sympathies not prove an organization directed the knife attack?",
+            "answer": "Statements about ideology or online material do not themselves demonstrate orders, coordination or assistance from a group. Establishing an organizational connection requires investigative evidence beyond an initial assessment of the attacker's beliefs."
+          }
+        ],
+        "impactReason": "A fatal incident at a diplomatic mission and Serbia's immediate security escalation are consequential, even while the motive remains under investigation.",
+        "tags": [
+          "Belgrade",
+          "Serbia",
+          "security"
+        ]
+      }
+    },
+    {
+      "id": "qatar-iran-mediation-unaccepted-draft-oct28",
+      "impact": 3,
+      "category": "politics",
+      "src": [
+        [
+          "Reuters",
+          "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+          "https://www.reuters.com/world/asia-pacific/qatari-mediators-present-iran-with-new-deal-end-war-official-says-2026-10-28/",
+          "2026-10-28",
+          "reporting"
+        ],
+        [
+          "CBS News",
+          "Live Updates: Iran rejects unacceptable ideas as Qatari mediators say they presented draft deal",
+          "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/",
+          "2026-10-28",
+          "reporting"
+        ]
+      ],
+      "it": {
+        "title": "Mediazione Qatar–Iran, una proposta di sette giorni divide le parti: nessun accordo",
+        "dek": "Reuters riferisce una bozza consegnata a Teheran; un alto funzionario iraniano parla invece di idee inaccettabili.",
+        "summary": "Il 28 ottobre, fonti sentite da Reuters hanno descritto una proposta qatariota per fermare il conflitto fra Iran, Stati Uniti e Israele attraverso una sequenza di impegni in sette giorni. Un alto funzionario iraniano ha negato che fosse stata presentata un'offerta accettabile. Il ministro degli Esteri Abbas Araghchi ha dichiarato di continuare a valutare vie diplomatiche: non risulta firmato alcun accordo.",
+        "body": [
+          "Il 28 ottobre 2026 Reuters ha pubblicato la ricostruzione di un funzionario informato sui contatti mediati dal Qatar per interrompere la guerra fra Iran, Stati Uniti e Israele. Secondo quella fonte, a Teheran sarebbe stata consegnata una bozza nel fine settimana, con misure reciproche di fiducia distribuite su sette giorni. CBS News ha seguito lo stesso giorno le dichiarazioni delle parti e le ulteriori evoluzioni diplomatiche.",
+          "Un alto funzionario iraniano ha però detto che Doha aveva presentato soltanto idee inaccettabili, non una proposta formale che Teheran fosse pronta ad accogliere. L'apparente contrasto riflette l'uso di definizioni diverse e fonti che non rendono pubblico il testo negoziale. Non è possibile dedurre dall'esistenza di contatti che le parti abbiano già concordato termini su cessate il fuoco, sanzioni o dossier nucleare.",
+          "Il ministro degli Esteri iraniano Abbas Araghchi ha confermato l'esistenza di contatti con mediatori e richiamato il piano iraniano di sette giorni. Quel riferimento non prova che il piano di Teheran e il calendario attribuito al Qatar siano documenti identici: la sequenza di concessioni e garanzie è parte della controversia negoziale. CBS ha riportato queste dichiarazioni come prese di posizione pubbliche.",
+          "L'esito dei colloqui avrebbe conseguenze sulla sicurezza regionale e sulle rotte energetiche e marittime influenzate dalla guerra. Tuttavia i resoconti del 28 ottobre documentano una fase preliminare con versioni contrastanti, non una tregua firmata. Date, condizioni e soggetti garanti dovranno essere confermati tramite testi ufficiali o dichiarazioni concordi prima di diventare fatti affermati."
+        ],
+        "facts": [
+          "Il 28 ottobre Reuters ha riferito, citando una fonte informata, una proposta qatariota per un processo diplomatico di sette giorni.",
+          "Un alto funzionario iraniano ha contestato la definizione di proposta formale e Araghchi ha confermato contatti diplomatici, non un accordo concluso."
+        ],
+        "perspectives": [
+          "Una fonte vicina alla mediazione presenta il documento come bozza; una fonte iraniana lo riduce a idee inaccettabili e il ministro lascia aperta la diplomazia."
+        ],
+        "unknowns": [
+          "Il testo effettivo delle condizioni, la loro accettazione da parte degli interlocutori e la possibilità di una tregua non risultavano confermati."
+        ],
+        "questions": [
+          {
+            "question": "Che funzione avrebbe il calendario di sette giorni attribuito alla mediazione del Qatar?",
+            "answer": "Secondo la fonte Reuters, servirebbe a distribuire impegni reciproci e gesti di fiducia giorno per giorno, evitando di subordinare ogni passo a una soluzione completa immediata. Il calendario è una bozza riferita da una fonte e non costituisce obblighi sottoscritti."
+          },
+          {
+            "question": "Perché la dichiarazione di Araghchi sui contatti diplomatici non conferma l'accettazione della bozza qatariota?",
+            "answer": "Il ministro ha parlato di continuare a esaminare idee e di un piano iraniano di sette giorni, ma un altro funzionario ha definito inaccettabili le proposte ricevute. Riconoscere la trattativa non significa approvarne testo, sequenza di concessioni o garanzie."
+          }
+        ],
+        "impactReason": "Una possibile via diplomatica in una guerra con effetti su sicurezza ed energia mondiali è di notevole rilievo, ma resta una proposta non accettata.",
+        "tags": [
+          "Qatar",
+          "Iran",
+          "negoziati"
+        ]
+      },
+      "en": {
+        "title": "Qatar's reported seven-day Iran mediation plan meets conflicting responses; no deal reached",
+        "dek": "Reuters describes a draft delivered to Tehran, while a senior Iranian official calls the ideas unacceptable rather than a formal offer.",
+        "summary": "On 28 October, sources cited by Reuters described a Qatari proposal to end the war involving Iran, the United States and Israel through steps over seven days. A senior Iranian official disputed that an acceptable formal offer had been made. Foreign Minister Abbas Araghchi said diplomatic contacts continued. No peace agreement has been signed.",
+        "body": [
+          "Reuters reported on 28 October 2026 that a source briefed on Qatari mediation to end the war involving Iran, the United States and Israel described a draft submitted to Tehran over the weekend. According to that account, the plan sets out reciprocal confidence-building steps over seven days. CBS News separately followed public statements and diplomatic developments on the same day.",
+          "A senior Iranian official, however, said the mediators had presented unacceptable ideas rather than a formal offer Iran was prepared to accept. The discrepancy reflects different characterizations from people whose negotiating document has not been made public. The fact that intermediaries are in contact does not establish agreement on a ceasefire, sanctions or the nuclear dispute.",
+          "Iranian Foreign Minister Abbas Araghchi confirmed continued contacts with mediators and referred to Iran's own seven-day plan. That does not demonstrate that Tehran's plan and the Qatari schedule described by Reuters are the same document; the order of concessions and guarantees is part of what remains contested. CBS reported these statements as positions taken by identifiable parties.",
+          "Any breakthrough would have consequences for regional security and shipping and energy routes disrupted by the conflict. But the 28 October reporting documents preliminary and disputed diplomacy rather than a signed truce. Terms, dates and possible guarantors must be established through direct documents or converging official accounts before being presented as settled."
+        ],
+        "facts": [
+          "Reuters reported a source's description of a Qatari seven-day mediation draft on 28 October.",
+          "A senior Iranian official rejected the characterization of a formal proposal; Araghchi acknowledged diplomatic contacts but not a completed deal."
+        ],
+        "perspectives": [
+          "A source close to mediation describes a draft while an Iranian source calls the ideas unacceptable; the foreign minister says contacts continue."
+        ],
+        "unknowns": [
+          "The full terms, whether the parties would accept them and the prospect of a ceasefire remained unconfirmed."
+        ],
+        "questions": [
+          {
+            "question": "What is the reported purpose of Qatar's proposed seven-day sequence?",
+            "answer": "The Reuters source described daily reciprocal commitments and confidence-building measures intended to make progress possible without resolving the whole dispute at once. This is an account of a draft, not a timetable already binding on the parties."
+          },
+          {
+            "question": "Why does Araghchi's acknowledgement of talks not show Iran accepted the Qatari proposal?",
+            "answer": "He said Iran was still reviewing diplomatic ideas and referred to an Iranian seven-day plan, while another official called the ideas received unacceptable. Recognizing contact does not approve a specific document, its order of concessions or its safeguards."
+          }
+        ],
+        "impactReason": "An avenue toward diplomacy in a war affecting regional security and global energy is significant, although the reported plan has not been accepted.",
+        "tags": [
+          "Qatar",
+          "Iran",
+          "diplomacy"
+        ]
+      }
+    }
+  ]
+}

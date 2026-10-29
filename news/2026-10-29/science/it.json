@@ -1,0 +1,395 @@
+{
+  "date": "2026-10-29",
+  "language": "it",
+  "section": "science",
+  "publishedAt": "2026-10-29T08:00:00+01:00",
+  "editorialNote": "Ricerche e nuovi approfondimenti scientifici raccontati il 28 ottobre; indicazioni distinte sulle date degli studi, sui limiti dei modelli e sulle immagini illustrative.",
+  "articles": [
+    {
+      "id": "rubin-2026ed138-transneptunian-candidate",
+      "rank": 1,
+      "category": "society",
+      "title": "Oltre Nettuno, Rubin individua 2026 ED138: candidato pianeta nano, classificazione da verificare",
+      "dek": "Le osservazioni recenti e d'archivio permettono di stimarne l'orbita; il diametro di 600–1.500 km dipende dalla riflettività ipotizzata.",
+      "summary": "L'Osservatorio Vera C. Rubin ha annunciato il 27 ottobre l'individuazione dell'oggetto transnettuniano 2026 ED138, osservato inizialmente il 13 ottobre e identificato anche in immagini precedenti. Reuters e Space.com ne hanno raccontato il significato il 28. Si tratta di un candidato pianeta nano, non di una classificazione già approvata.",
+      "impact": 2.5,
+      "impactReason": "La survey Rubin amplia la conoscenza del sistema solare esterno e delle sue orbite, ma il ruolo di questo singolo corpo resta ancora specialistico e preliminare.",
+      "tags": [
+        "Rubin",
+        "Nettuno",
+        "orbite"
+      ],
+      "body": [
+        "L'Osservatorio Vera C. Rubin in Cile ha annunciato il 27 ottobre 2026 di avere individuato l'oggetto transnettuniano provvisoriamente denominato 2026 ED138, dopo una rilevazione il 13 ottobre. Reuters e Space.com hanno riferito il 28 ottobre le prime analisi astronomiche. La scoperta aggiorna il catalogo di corpi lontani, ma una designazione osservativa non attribuisce automaticamente lo status ufficiale di pianeta nano.",
+        "Il team ha ricercato l'oggetto in immagini di archivio risalenti anche ad anni precedenti, ottenendo così una sequenza di posizioni molto più lunga. Osservazioni distanziate nel tempo sono essenziali per stimare il percorso orbitale e distinguere un corpo distante da oggetti più vicini con moti apparenti diversi. La retroanalisi di dati dal 2016 al 2026 rende più robusta la ricostruzione rispetto alle sole immagini di ottobre.",
+        "Le stime iniziali indicano una dimensione compresa all'incirca tra 600 e 1.500 chilometri. La fascia è ampia perché gli astronomi ricavano la luminosità osservata, non una fotografia risolta del disco: un corpo molto riflettente può sembrare brillante pur essendo più piccolo, mentre uno scuro deve essere più grande per dare la stessa luce. Una misurazione termica e dati sulla superficie possono ridurre l'incertezza.",
+        "Per qualificarsi come pianeta nano occorre, fra le altre condizioni, una forma resa quasi sferica dalla gravità, che non può essere dimostrata dalla sola brillantezza. Il caso dimostra il valore delle nuove survey e dei loro archivi temporali, non l'individuazione già certa di un nuovo pianeta ufficiale. Sono necessari ulteriori rilevamenti e analisi fisiche."
+      ],
+      "facts": [
+        "Rubin ha annunciato il 27 ottobre 2026 un oggetto osservato inizialmente il 13 ottobre, denominato 2026 ED138.",
+        "Il diametro di circa 600–1.500 km è stimato mediante luminosità e ipotesi sulla riflettività, non misurato direttamente."
+      ],
+      "perspectives": [
+        "L'osservatorio considera 2026 ED138 un promettente candidato pianeta nano; Reuters e Space.com distinguono la scoperta dalla classificazione finale."
+      ],
+      "unknowns": [
+        "La riflettività reale, il diametro preciso e la conferma dei criteri fisici per lo status di pianeta nano non sono disponibili."
+      ],
+      "questions": [
+        {
+          "question": "Perché le immagini d'archivio dal 2016 aiutano a calcolare l'orbita di 2026 ED138?",
+          "answer": "Registrano la posizione dello stesso oggetto in epoche molto distanti: un arco di osservazioni più lungo permette di vincolare meglio velocità e traiettoria orbitale rispetto a pochi giorni di misure effettuate nell'ottobre 2026."
+        },
+        {
+          "question": "Come può 2026 ED138 avere un diametro stimato tra 600 e 1.500 chilometri?",
+          "answer": "La luce riflessa dipende sia dall'area della superficie sia dall'albedo. Se la superficie è scura serve un corpo più grande per spiegare la luminosità rilevata; se è chiara basta un corpo più piccolo. Senza una misura indipendente dell'albedo il diametro resta una stima."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Possible new dwarf planet identified orbiting beyond Pluto",
+          "url": "https://www.reuters.com/science/possible-new-dwarf-planet-identified-orbiting-beyond-pluto-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Space.com",
+          "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+          "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Vera C. Rubin Observatory",
+          "title": "Rubin Observatory identifies its first dwarf-planet candidate",
+          "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/rubin-2026ed138-transneptunian-candidate.svg",
+        "alt": "Illustrazione scientifica concettuale originale: Oltre Nettuno, Rubin individua 2026 ED138: candidato pianeta nano, classificazione da verificare",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/rubin-2026ed138-transneptunian-candidate.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Disegno simbolico, non fotografia dei risultati."
+      }
+    },
+    {
+      "id": "comet-impact-prebiotic-hcn-model-2026",
+      "rank": 2,
+      "category": "society",
+      "title": "Uno studio limita il ruolo delle comete nella consegna di molecole prebiotiche alla Terra",
+      "dek": "Le simulazioni indicano che velocità e angolo degli impatti avrebbero distrutto gran parte dell'acido cianidrico trasportato.",
+      "summary": "Una ricerca pubblicata su Scientific Reports il 28 ottobre ha simulato l'arrivo di molecole prebiotiche attraverso impatti cometari nella Terra primordiale. I risultati suggeriscono che la sopravvivenza e la concentrazione utile dell'acido cianidrico sarebbero state rarissime. Lo studio non identifica l'origine effettiva della vita, né esclude ogni contributo delle comete.",
+      "impact": 2.5,
+      "impactReason": "La simulazione ridimensiona un meccanismo discusso nella ricerca sull'origine della vita, ma non prova quale alternativa si sia verificata.",
+      "tags": [
+        "comete",
+        "origine-vita",
+        "HCN"
+      ],
+      "body": [
+        "Il 28 ottobre 2026 il gruppo guidato da Richard Anslow dell'Università di Cambridge ha pubblicato su Scientific Reports uno studio modellistico sul trasporto di molecole prebiotiche tramite comete. Science News e Media INAF ne hanno esaminato separatamente il significato per le teorie sull'origine della vita. La ricerca riguarda la disponibilità di reagenti chimici, non la dimostrazione che un organismo sia arrivato dallo spazio.",
+        "I ricercatori hanno combinato modelli dinamici delle traiettorie cometarie con simulazioni degli urti e dell'interazione con l'atmosfera. La molecola campione è l'acido cianidrico, HCN, presente anche nelle comete e rilevante per percorsi chimici che possono produrre precursori biologici. Impatti molto veloci o ripidi scaldano violentemente i materiali, distruggendo buona parte dei composti organici fragili.",
+        "Lo studio considera anche quanto un eventuale materiale sopravvissuto si concentrerebbe nei mari o in bacini locali. Consegnare molecole a un pianeta non basta: per partecipare a determinate reazioni devono restare disponibili in quantità e tempi compatibili. Secondo le simulazioni, l'abbinamento di impatto favorevole e concentrazione utile sarebbe eccezionale e le possibilità sarebbero calate nei primi 500 milioni di anni terrestri.",
+        "Gli autori ritengono plausibili altre vie di approvvigionamento, tra cui chimica atmosferica e processi associati agli asteroidi, senza risolvere la questione dell'origine della vita. Anche il confronto modellistico con Marte è un'ipotesi sulle condizioni di impatto, non una prova di biologia marziana. Campioni e nuove misure sui processi di impatto potrebbero modificare le stime."
+      ],
+      "facts": [
+        "Lo studio di Anslow e colleghi è apparso su Scientific Reports il 28 ottobre 2026 ed è basato su simulazioni.",
+        "Le traiettorie e la fisica degli urti riducono fortemente la probabilità di consegnare HCN intatto e concentrato in misura utile sulla Terra antica."
+      ],
+      "perspectives": [
+        "Il gruppo di Cambridge considera gli impatti cometari una sorgente prebiotica improbabile; Science News e Media INAF descrivono il risultato come una revisione di un'ipotesi, non una soluzione completa."
+      ],
+      "unknowns": [
+        "Il percorso specifico che produsse i precursori della vita terrestre e la precisione dei parametri per ogni antico impatto rimangono sconosciuti."
+      ],
+      "questions": [
+        {
+          "question": "Perché il modello di Anslow usa l'acido cianidrico per testare l'apporto delle comete?",
+          "answer": "L'HCN è un composto rilevabile nel materiale cometario che può alimentare reazioni verso molecole prebiotiche. Simularne sopravvivenza e diluizione permette di verificare se gli urti lo avrebbero consegnato in concentrazioni sufficienti a sostenere quelle reazioni."
+        },
+        {
+          "question": "In che modo una cometa che trasporta HCN può non contribuire alla chimica prebiotica terrestre?",
+          "answer": "Se arriva a velocità e angolo elevati, il calore dell'urto può distruggere il composto. Anche una piccola quantità sopravvissuta potrebbe disperdersi nell'acqua prima di raggiungere concentrazioni reattive: consegna fisica e disponibilità chimica sono condizioni separate."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Science News",
+          "title": "Comets probably didn’t deliver life’s building blocks to Earth",
+          "url": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Media INAF",
+          "title": "La vita non piovve dalle comete",
+          "url": "https://www.media.inaf.it/2026/10/28/la-vita-non-piovve-dalle-comete/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Scientific Reports",
+          "title": "Cometary impacts an unlikely pathway towards the origins of life on Earth",
+          "url": "https://www.nature.com/articles/s41598-026-74214-y",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "University of Cambridge",
+          "title": "Comets didn’t seed life on Earth after all, new study suggests",
+          "url": "https://www.cam.ac.uk/research/news/comets-didnt-seed-life-on-earth-after-all-new-study-suggests",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/comet-impact-prebiotic-hcn-model-2026.svg",
+        "alt": "Illustrazione scientifica concettuale originale: Uno studio limita il ruolo delle comete nella consegna di molecole prebiotiche alla Terra",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/comet-impact-prebiotic-hcn-model-2026.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Disegno simbolico, non fotografia dei risultati."
+      }
+    },
+    {
+      "id": "eaton-fire-lead-exposure-study-2026",
+      "rank": 3,
+      "category": "climate",
+      "title": "Incendio Eaton del 2025, lo studio sul fumo stima milioni di persone esposte a piombo",
+      "dek": "La concentrazione misurata nella nube avrebbe superato oltre 80 volte il fondo per circa 24 ore; non sono diagnosi di avvelenamento.",
+      "summary": "Uno studio diffuso il 28 ottobre 2026 analizza il fumo dell'incendio Eaton che colpì l'area di Los Angeles nel gennaio 2025. Combinando misure della nube e stime di diffusione, i ricercatori valutano che circa sette milioni di persone possano essere state esposte per una giornata a concentrazioni di piombo più di 80 volte superiori al fondo. La stima non conta persone ammalate.",
+      "impact": 3,
+      "impactReason": "Il lavoro documenta contaminanti potenzialmente diffusi su una popolazione molto ampia e offre elementi per la prevenzione sanitaria nelle aree urbane colpite dagli incendi.",
+      "tags": [
+        "Eaton",
+        "piombo",
+        "incendi"
+      ],
+      "body": [
+        "Durante l'incendio Eaton del gennaio 2025, nell'area di Los Angeles, la combustione di case, veicoli e infrastrutture ha liberato una miscela chimica diversa dal solo fumo degli alberi. Ricercatori di Caltech hanno pubblicato il 28 ottobre 2026 un'analisi chimica della nube. Associated Press, Eos e Washington Post hanno riportato il nuovo lavoro, separando la data del disastro da quella della ricerca scientifica.",
+        "Il gruppo ha utilizzato strumenti per misurare le specie chimiche presenti nel pennacchio e modelli di trasporto atmosferico per ricostruire la diffusione. Per una fase di circa 24 ore, i valori di piombo nel fumo hanno superato 80 volte il normale fondo in determinate condizioni. I ricercatori stimano che circa sette milioni di persone possano essere state nel bacino di esposizione; non hanno misurato un dosaggio clinico individuale per ciascuna.",
+        "Rispetto a fumi dominati dalla combustione di vegetazione, i campioni urbani mostravano concentrazioni maggiori anche di arsenico e sostanze contenenti alogeni, coerenti con la presenza di materiali artificiali. Questa composizione è importante perché le sostanze inalate e i loro possibili effetti variano con sorgenti e granulometria. La misurazione della nube non dimostra che tutte le persone stimate esposte abbiano respirato la stessa quantità.",
+        "Per quantificare gli effetti sanitari servono dati su durata dell'esposizione personale, condizioni cliniche e ulteriori rilevazioni ambientali. Lo studio offre informazioni utili alla preparazione contro incendi che investono quartieri e strutture, suggerendo che la gestione del rischio non può basarsi soltanto su indicatori generici del particolato. L'evidenza di elevata contaminazione ambientale va distinta dalle diagnosi."
+      ],
+      "facts": [
+        "L'incendio Eaton avvenne nel gennaio 2025; lo studio sulle sostanze nella nube è stato diffuso il 28 ottobre 2026.",
+        "La stima riguarda circa sette milioni di persone potenzialmente esposte e livelli di piombo nella nube che superarono 80 volte il fondo, non casi clinici verificati."
+      ],
+      "perspectives": [
+        "I ricercatori Caltech chiedono di considerare la chimica dei materiali urbani bruciati; la cronaca scientifica sottolinea che esposizione ambientale e danno sanitario sono misure diverse."
+      ],
+      "unknowns": [
+        "Le dosi individuali di piombo e l'effetto sanitario specifico su ogni persona compresa nella stima non sono stati misurati dallo studio."
+      ],
+      "questions": [
+        {
+          "question": "Come hanno collegato i ricercatori il piombo nel fumo dell'Eaton Fire ai materiali urbani bruciati?",
+          "answer": "Hanno misurato la composizione chimica del pennacchio e confrontato i segnali di contaminanti con quelli tipici del fumo di vegetazione. La presenza e l'intensità di piombo e altre sostanze sono coerenti con combustione di abitazioni, veicoli e materiali costruiti."
+        },
+        {
+          "question": "Perché circa sette milioni di esposti al fumo dell'Eaton Fire non significano sette milioni di casi di saturnismo?",
+          "answer": "La cifra è una stima della popolazione raggiunta da concentrazioni atmosferiche elevate, costruita con misure e modelli. Per diagnosticare un'intossicazione servono dosi individuali e accertamenti sanitari: le persone nella nube possono avere esposizioni molto differenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Los Angeles wildfire smoke exposed millions to lead, study estimates",
+          "url": "https://apnews.com/article/b1d86fbb096940500a4c04c5d5bf82dd",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Eos",
+          "title": "Eaton Wildfire Exposed Millions to a Cocktail of Chemicals",
+          "url": "https://eos.org/articles/eaton-wildfire-exposed-millions-to-a-cocktail-of-chemicals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "Millions exposed to high lead levels during L.A. fires, study says",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/28/millions-were-exposed-lead-levels-way-above-normal-during-la-fires-study-says/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caltech",
+          "title": "Chemical data collected from the Eaton fire plume help characterize urban fires",
+          "url": "https://www.caltech.edu/about/news/chemical-data-collected-from-the-eaton-fire-plume-help-characterize-urban-fires",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/eaton-fire-lead-exposure-study-2026.svg",
+        "alt": "Illustrazione scientifica concettuale originale: Incendio Eaton del 2025, lo studio sul fumo stima milioni di persone esposte a piombo",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/eaton-fire-lead-exposure-study-2026.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Disegno simbolico, non fotografia dei risultati."
+      }
+    },
+    {
+      "id": "denisovan-xujiayao-proteins-retrospective-oct28",
+      "rank": 4,
+      "category": "society",
+      "title": "Denisoviani, un'analisi di proteine fossili chiarisce l'aspetto dei resti di Xujiayao",
+      "dek": "Nuova cronaca del 28 ottobre su uno studio del 21: caratteristiche craniche condivise non cancellano le differenze fra antiche popolazioni.",
+      "summary": "Un approfondimento pubblicato il 28 ottobre ricostruisce i risultati di uno studio uscito su Nature il 21 ottobre. L'esame delle proteine di fossili del sito cinese di Xujiayao ha fornito indizi di appartenenza alla linea denisoviana, permettendo confronti anatomici con altri reperti asiatici. Il lavoro non fornisce un ritratto universale di tutti i Denisoviani.",
+      "impact": 2,
+      "impactReason": "L'analisi molecolare e anatomica approfondisce la conoscenza di una linea umana estinta, con effetti specialistici importanti e questioni tassonomiche aperte.",
+      "tags": [
+        "Denisoviani",
+        "proteine",
+        "fossili"
+      ],
+      "body": [
+        "Il 21 ottobre 2026 Nature ha pubblicato un lavoro sui fossili umani di Xujiayao, in Cina settentrionale, che ha contribuito a ricondurli alla linea dei Denisoviani. Nature News ne ha fornito una cronaca originale lo stesso giorno; Live Science ha approfondito la ricostruzione anatomica il 28 ottobre, raccogliendo anche il parere di esperti esterni. La notizia del 28 è un nuovo approfondimento, non la data del ritrovamento o del paper.",
+        "Per identificarne l'affinità evolutiva i ricercatori hanno esaminato antiche proteine, comprese sequenze di collagene, e confrontato marcatori molecolari conservati con quelli di altri gruppi umani. La proteomica può fornire segnali quando il DNA è troppo degradato o non disponibile. Gli autori descrivono una variante in una proteina che supporta l'attribuzione dei campioni analizzati alla linea denisoviana.",
+        "Dopo l'identificazione molecolare, il team ha esaminato forma e dimensioni di frammenti cranici, denti e altre caratteristiche, confrontandoli con reperti del Paleolitico medio asiatico. Emergono una volta cranica bassa, arcate sopracciliari importanti e una combinazione di tratti condivisi con altri ominini. Una ricostruzione illustrata utilizza queste evidenze, ma non può riprodurre con certezza volto, pelle e caratteristiche di ogni individuo vissuto in tempi e luoghi differenti.",
+        "Gli studiosi sottolineano che la diversità genetica e anatomica potrebbe essere stata notevole all'interno della linea denisoviana. Attribuire automaticamente altri reperti asiatici alla stessa popolazione è una proposta da confrontare con nuovi campioni. Le differenze tra fossili e le incertezze tassonomiche restano parte della discussione scientifica, senza togliere valore al collegamento molecolare appena studiato."
+      ],
+      "facts": [
+        "Il paper è stato pubblicato il 21 ottobre 2026; Live Science ne ha pubblicato un approfondimento originale il 28.",
+        "L'identificazione dei fossili Xujiayao si basa su proteine antiche e confronto con marcatori denisoviani, integrati da analisi anatomica."
+      ],
+      "perspectives": [
+        "Gli autori propongono un insieme di caratteristiche craniche riconoscibili; esperti indipendenti ricordano la possibile ampia variabilità fra popolazioni denisoviane."
+      ],
+      "unknowns": [
+        "Aspetto preciso dei singoli individui, variazione completa del gruppo e classificazione di tutti i fossili confrontati non sono definitivi."
+      ],
+      "questions": [
+        {
+          "question": "Quale vantaggio offre il collagene antico nell'identificazione dei fossili di Xujiayao?",
+          "answer": "Le sequenze proteiche possono conservarsi anche quando il DNA non fornisce più dati utilizzabili. Confrontando particolari variazioni degli amminoacidi con quelle note nei Denisoviani, i ricercatori ottengono un'indicazione di parentela indipendente dalla sola forma delle ossa."
+        },
+        {
+          "question": "Perché le caratteristiche craniche di Xujiayao non definiscono il volto di tutti i Denisoviani?",
+          "answer": "Le ossa disponibili sono frammentarie e appartengono a individui e siti specifici. Una linea evolutiva estesa in spazio e tempo può presentare una notevole variabilità; anche un'immagine scientificamente informata deve quindi essere considerata una ricostruzione, non un ritratto certo."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Live Science",
+          "title": "Our extinct cousins the Denisovans had a 'distinctive' appearance, new analysis reveals",
+          "url": "https://www.livescience.com/archaeology/human-evolution/our-extinct-cousins-the-denisovans-had-a-distinctive-appearance-new-analysis-reveals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature News",
+          "title": "This is what the mysterious Denisovans looked like",
+          "url": "https://www.nature.com/articles/d41586-026-03360-0",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature",
+          "title": "The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology",
+          "url": "https://www.nature.com/articles/s41586-026-11132-z",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/denisovan-xujiayao-proteins-retrospective-oct28.svg",
+        "alt": "Illustrazione scientifica concettuale originale: Denisoviani, un'analisi di proteine fossili chiarisce l'aspetto dei resti di Xujiayao",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/denisovan-xujiayao-proteins-retrospective-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Disegno simbolico, non fotografia dei risultati."
+      }
+    },
+    {
+      "id": "infernogallus-jamesi-fruit-jaw-anatomy",
+      "rank": 5,
+      "category": "society",
+      "title": "Infernogallus jamesi, mandibola adatta a schiacciare frutti morbidi",
+      "dek": "Lo studio del 10 ottobre e la nuova cronaca del 28 descrivono un movimento avanti-indietro della mandibola, non un morso particolarmente potente.",
+      "summary": "La comunicazione del Royal Ontario Museum del 28 ottobre riporta l'attenzione su Infernogallus jamesi, un dinosauro senza denti descritto in Nature Communications il 10 ottobre. La ricostruzione del cranio e della mandibola indica adattamenti per schiacciare frutti morbidi e polposi. Non sono state osservate direttamente le abitudini alimentari dell'animale.",
+      "impact": 2,
+      "impactReason": "Il fossile offre indizi sull'evoluzione di strategie alimentari nei dinosauri, un contributo paleontologico circoscritto e ancora inferenziale.",
+      "tags": [
+        "dinosauri",
+        "cranio",
+        "frutta"
+      ],
+      "body": [
+        "Uno studio pubblicato il 10 ottobre 2026 su Nature Communications descrive Infernogallus jamesi, un teropode oviraptorosauro del Cretaceo superiore noto da resti fossili nordamericani. Phys.org ha discusso la scoperta nei giorni seguenti; VEJA e il Royal Ontario Museum l'hanno presentata nuovamente il 28 ottobre. Questa sequenza di date evita di trasformare una nuova comunicazione in un ritrovamento effettuato quel giorno.",
+        "I ricercatori hanno utilizzato tomografia computerizzata e ricostruzioni tridimensionali per analizzare becco, superfici della bocca e punti di attacco dei muscoli mandibolari. Secondo i modelli biomeccanici, la mandibola scorreva avanti e indietro invece di esercitare un morso verticale particolarmente potente. Le creste e i solchi all'interno della bocca avrebbero potuto schiacciare frutti morbidi come un pestello. La somiglianza con alcuni pappagalli moderni sostiene un'ipotesi funzionale, non un'identità di comportamento.",
+        "Il nuovo dinosauro era privo di denti e apparteneva a una linea di animali la cui alimentazione è stata oggetto di discussione. Gli autori propongono una specializzazione per la polpa di frutti teneri, basandosi su movimenti mandibolari ricostruiti e confronti anatomici; riferiscono inoltre l'assenza di gastroliti nel reperto studiato. Non esistono osservazioni dirette della dieta dell'animale e il modello non esclude necessariamente l'assunzione di altri alimenti.",
+        "Se l'ipotesi verrà rafforzata, la ricerca potrà contribuire a ricostruire la diversità ecologica dei dinosauri poco prima dell'estinzione di fine Cretaceo. La capacità di mangiare frutti non dimostra però automaticamente che l'animale disperdesse semi efficacemente: per questo servirebbero prove ulteriori del trattamento del cibo. Modelli e fossili aggiuntivi sono la via per distinguere meglio dieta e funzione ecologica."
+      ],
+      "facts": [
+        "Il paper su Infernogallus jamesi è datato 10 ottobre 2026 e la nuova diffusione ROM e VEJA è del 28 ottobre.",
+        "Gli autori ipotizzano una dieta a base di frutti morbidi usando tomografia, anatomia cranica e modelli del movimento avanti-indietro della mandibola."
+      ],
+      "perspectives": [
+        "I paleontologi descrivono una specializzazione alimentare plausibile; l'interpretazione ecologica va oltre quanto osservato direttamente nei fossili."
+      ],
+      "unknowns": [
+        "La composizione completa della dieta e l'eventuale ruolo nella dispersione dei semi non sono stati osservati."
+      ],
+      "questions": [
+        {
+          "question": "Quale movimento della mandibola di Infernogallus jamesi suggerisce un'alimentazione a base di frutti morbidi?",
+          "answer": "Le scansioni e le ricostruzioni muscolari suggeriscono che la mandibola potesse scorrere avanti e indietro più che chiudersi con un morso potente. Creste e solchi all'interno della bocca avrebbero schiacciato la polpa come un pestello: è un'inferenza biomeccanica, non un pasto fossile osservato."
+        },
+        {
+          "question": "Perché l'analogia con uccelli frugivori non prova che Infernogallus disperdesse semi?",
+          "answer": "La capacità di spezzare o consumare un frutto non indica se i semi venissero trasportati integri e in condizioni adatte a germinare. La dispersione dipende anche dal percorso digestivo e dal comportamento, non ricavabili dalle sole ossa del cranio."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "VEJA",
+          "title": "A nova espécie de dinossauro batizada pelos cientistas de galinha do inferno",
+          "url": "https://veja.abril.com.br/ciencia/a-nova-especie-de-dinossauro-batizada-pelos-cientistas-de-galinha-do-inferno/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Toothless 'hell chicken' dinosaur may have had a taste for fruit",
+          "url": "https://phys.org/news/2026-10-toothless-hell-chicken-dinosaur-fruit.html",
+          "publishedAt": "2026-10-14",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature Communications",
+          "title": "A new oviraptorosaur and the evolution of specialized frugivory",
+          "url": "https://www.nature.com/articles/s41467-026-78343-w",
+          "publishedAt": "2026-10-10",
+          "role": "official"
+        },
+        {
+          "outlet": "Royal Ontario Museum",
+          "title": "Rare fossil discovery reveals a new dinosaur species and specialized fruit eaters",
+          "url": "https://www.rom.on.ca/news-releases/rare-fossil-discovery-reveals-new-dinosaur-species-were-specialized-fruit-eaters",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
+        "alt": "Illustrazione originale: Infernogallus jamesi, mandibola adatta a schiacciare frutti morbidi",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Disegno simbolico, non fotografia dei risultati."
+      }
+    }
+  ]
+}

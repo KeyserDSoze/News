@@ -1,0 +1,102 @@
+{
+  "id": "flavio-bolsonaro-miami-declaration-oct28",
+  "impact": 2.5,
+  "category": "politics",
+  "src": [
+    [
+      "Reuters",
+      "Flavio Bolsonaro declares himself rightful president-elect of Brazil",
+      "https://www.reuters.com/world/americas/flavio-bolsonaro-expected-land-miami-shortly-after-trump-offers-brazil-exit-2026-10-28/",
+      "2026-10-28",
+      "reporting"
+    ],
+    [
+      "Folha de S.Paulo",
+      "Flávio Bolsonaro enfrenta isolamento após carta golpista e operação despiste com fuga para os EUA",
+      "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-enfrenta-isolamento-apos-carta-golpista-e-operacao-despiste-com-fuga-para-os-eua.shtml",
+      "2026-10-28",
+      "reporting"
+    ],
+    [
+      "CBS Miami",
+      "Flávio Bolsonaro claims he was the rightful winner of Brazil's presidential election after landing in Miami",
+      "https://www.cbsnews.com/miami/news/brazil-flavio-bolsonaro-miami-south-florida-presidential-election/",
+      "2026-10-28",
+      "reporting"
+    ]
+  ],
+  "it": {
+    "title": "Flávio Bolsonaro arriva a Miami e si proclama vincitore del voto brasiliano senza presentare prove",
+    "dek": "La lettera del 28 ottobre non cambia la vittoria ufficiale di Lula; alcuni alleati respingono le accuse di brogli.",
+    "summary": "Il senatore brasiliano Flávio Bolsonaro è arrivato a Miami il 28 ottobre, dopo avere lasciato il Paese in seguito alla sconfitta elettorale contro Luiz Inácio Lula da Silva. Ha poi pubblicato una lettera sostenendo di essere il vero presidente eletto, senza documentare frodi capaci di cambiare l'esito ufficiale. L'autoproclamazione è un nuovo sviluppo rispetto alla partenza già raccontata il giorno prima.",
+    "body": [
+      "Il 28 ottobre 2026 Flávio Bolsonaro è arrivato con la famiglia nell'area di Miami, dopo un viaggio dall'America del Sud con tappe in Argentina ed Ecuador. CBS Miami ha ripreso l'arrivo della famiglia e raccolto informazioni sul volo; Reuters e Folha de S.Paulo hanno ricostruito le dichiarazioni precedenti e i passaggi successivi alla sconfitta alle presidenziali del 25 ottobre contro Lula.",
+      "Nel pomeriggio il senatore ha diffuso una lettera proclamandosi presidente eletto e denunciando irregolarità. Non ha presentato prove a sostegno di accuse capaci di ribaltare l'esito ufficiale che attribuisce la vittoria a Luiz Inácio Lula da Silva. Un candidato può contestare un risultato per le vie previste dalla legge, ma una dichiarazione politica non ha lo stesso valore di una decisione degli organismi elettorali.",
+      "Il viaggio è avvenuto dopo una richiesta giudiziaria brasiliana di consegnare i suoi passaporti. Secondo Folha, Bolsonaro non aveva rispettato la scadenza e avrebbe usato un passaporto italiano durante il percorso. La mancata consegna di un documento non significa automaticamente che esista un mandato di arresto: la Polizia federale brasiliana non lo considerava formalmente ricercato secondo la cronaca del giorno.",
+      "Alcuni politici conservatori precedentemente vicini a Bolsonaro hanno chiesto di rispettare il risultato e preso le distanze dalle accuse non documentate. Il governo statunitense ha autorizzato l'ingresso della famiglia, un fatto distinto dal riconoscimento della sua rivendicazione elettorale. La nuova notizia è l'arrivo seguito dall'autoproclamazione, non un cambio accertato di presidente eletto."
+    ],
+    "facts": [
+      "Flávio Bolsonaro è arrivato a Miami il 28 ottobre dopo avere perso il voto presidenziale del 25 ottobre contro Lula.",
+      "La sua lettera ha rivendicato una vittoria senza fornire prove che ribaltassero il risultato ufficiale."
+    ],
+    "perspectives": [
+      "Bolsonaro parla di persecuzione e irregolarità; altri leader anche conservatori invitano al rispetto dell'esito riconosciuto."
+    ],
+    "unknowns": [
+      "Le conseguenze giudiziarie della mancata consegna dei passaporti e l'effetto politico della lettera non sono determinati."
+    ],
+    "questions": [
+      {
+        "question": "Perché la proclamazione di Flávio Bolsonaro del 28 ottobre non vale come risultato elettorale?",
+        "answer": "La dichiarazione personale non sostituisce conteggi e certificazioni delle istituzioni competenti. Per modificare un risultato occorrono ricorsi e prove valutati secondo la legge; le accuse pubbliche di brogli non erano sostenute da riscontri."
+      },
+      {
+        "question": "In che modo l'ordine sui passaporti si distingue dallo status di persona ricercata nel caso Bolsonaro?",
+        "answer": "Un obbligo di consegna dei documenti di viaggio può esistere senza un mandato di arresto. Folha ha riferito il mancato rispetto della scadenza ma anche l'assenza di un mandato, per cui la Polizia federale non lo considerava un ricercato: sono condizioni giuridiche differenti."
+      }
+    ],
+    "impactReason": "La contestazione senza prove di un risultato presidenziale e l'espatrio del candidato hanno effetti sulla fiducia nelle istituzioni brasiliane, pur non cambiando l'esito ufficiale.",
+    "tags": [
+      "Brasile",
+      "Bolsonaro",
+      "elezioni"
+    ]
+  },
+  "en": {
+    "title": "Flávio Bolsonaro arrives in Miami and claims Brazil election victory without evidence",
+    "dek": "His 28 October letter does not change Lula's officially recognized win; some former allies reject the fraud allegations.",
+    "summary": "Brazilian Senator Flávio Bolsonaro arrived in Miami on 28 October after leaving his country following defeat by Luiz Inácio Lula da Silva. He then published a letter describing himself as the rightful president-elect without substantiating fraud allegations that could overturn the official outcome. His self-declaration is a new development after the departure reported the previous day.",
+    "body": [
+      "On 28 October 2026 Flávio Bolsonaro and his family arrived near Miami after traveling through Argentina and Ecuador. CBS Miami filmed the arrival and reported on the flight; Reuters and Folha de S.Paulo reconstructed the sequence and the senator's statements after his loss to incumbent Luiz Inácio Lula da Silva in the 25 October presidential election.",
+      "Bolsonaro subsequently issued a letter claiming he was the president-elect and alleging electoral irregularities. He supplied no evidence capable of overturning the official result recognizing Lula's victory. A candidate may challenge a result through legal procedures, but a personal declaration does not have the same authority as a decision by the electoral institutions.",
+      "The journey occurred after Brazilian judicial authorities ordered the senator to surrender his passports. According to Folha, he had missed that deadline and traveled using an Italian passport. Failure to surrender a travel document does not automatically mean an arrest warrant exists: federal police reportedly did not classify him as wanted in the absence of such a warrant.",
+      "Some conservative politicians previously aligned with Bolsonaro urged respect for the certified result and distanced themselves from unsupported fraud claims. The US government allowed the family to enter, a separate issue from recognizing his claimed electoral status. The new story is his arrival and subsequent self-proclamation, not an established change in the election's winner."
+    ],
+    "facts": [
+      "Flávio Bolsonaro arrived near Miami on 28 October after losing the 25 October presidential election to Lula.",
+      "His letter claimed victory without providing proof that would displace the recognized result."
+    ],
+    "perspectives": [
+      "Bolsonaro alleges persecution and irregularities; other conservative figures urge recognition of the official outcome."
+    ],
+    "unknowns": [
+      "Judicial consequences involving passports and the political impact of the statement have not been determined."
+    ],
+    "questions": [
+      {
+        "question": "Why does Flávio Bolsonaro's 28 October self-declaration not count as Brazil's election result?",
+        "answer": "A personal letter cannot replace the official tally and certification by electoral institutions. Changing the outcome requires lawful challenges supported by evidence, whereas the public fraud allegations were unsubstantiated."
+      },
+      {
+        "question": "How is a passport-surrender order different from being legally wanted in Bolsonaro's case?",
+        "answer": "A duty to surrender travel documents can be imposed without an arrest warrant. Folha reported that the deadline was missed but also that no arrest warrant had been issued and federal police did not classify him as wanted, so the legal statuses are distinct."
+      }
+    ],
+    "impactReason": "An unsubstantiated presidential victory claim and the candidate's departure affect trust in Brazil's electoral institutions, without changing the official outcome.",
+    "tags": [
+      "Brazil",
+      "Bolsonaro",
+      "election"
+    ]
+  }
+}

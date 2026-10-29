@@ -1,0 +1,367 @@
+{
+  "date": "2026-10-29",
+  "language": "en",
+  "section": "technology",
+  "publishedAt": "2026-10-29T08:00:00+01:00",
+  "editorialNote": "Technology updates from 28 October: distinct newsrooms, attributed company claims, explicit limitations and original artwork.",
+  "articles": [
+    {
+      "id": "microsoft-azure-first-dollar-disclosure-oct28",
+      "rank": 1,
+      "category": "technology",
+      "title": "Microsoft discloses Azure quarterly revenue of $33.2 billion for the first time",
+      "dek": "The July–September figure rose 48% year on year; it should not be confused with all Microsoft Cloud revenue or AI infrastructure returns.",
+      "summary": "In results released on 28 October, Microsoft reported approximately $33.2 billion in quarterly Azure revenue, a 48% year-on-year increase. Disclosing the amount rather than only a growth rate makes comparisons easier, but does not by itself reveal profitability or the return on Microsoft's extensive AI-related capital spending.",
+      "impact": 2.5,
+      "impactReason": "More detailed reporting changes how a major cloud market can be compared and financed, although it does not itself guarantee returns from AI investment.",
+      "tags": [
+        "Azure",
+        "Microsoft",
+        "cloud"
+      ],
+      "body": [
+        "Microsoft published results for its first fiscal quarter of 2027, covering July through September 2026, on 28 October. A major change was the first explicit dollar figure for quarterly Azure revenue: approximately $33.2 billion, up 48% from the same period a year earlier. TechCrunch and The Verge independently examined the reporting change and its significance.",
+        "Previously the company emphasized percentage growth and broader cloud aggregates. Azure is an infrastructure business, whereas the Microsoft Cloud total also covers other enterprise services. Comparing Azure alone with a rival's wider cloud segment, or mixing revenue with net income, would therefore yield a misleading assessment of competition.",
+        "Strong demand also reflects businesses' increasing use of AI workloads, according to Microsoft and industry reporting. That demand requires expensive data centers, chips, power and networking capacity. Higher revenue alone does not establish that the new infrastructure earns higher margins or produces an immediate return on invested capital.",
+        "Assessing that investment cycle will require cash-flow information, capacity figures and a clearer breakdown of mature workloads versus new AI commitments. The October disclosure provides a more useful accounting baseline, but it cannot independently verify the eventual economic value of every planned facility."
+      ],
+      "facts": [
+        "Microsoft explicitly disclosed about $33.2 billion in quarterly Azure revenue on 28 October.",
+        "Azure revenue grew 48% year on year for the July–September 2026 period."
+      ],
+      "perspectives": [
+        "Microsoft emphasizes cloud and AI demand; financial reporting highlights the capital costs of supplying that demand."
+      ],
+      "unknowns": [
+        "The announcement does not isolate profits or returns for each AI-related infrastructure project."
+      ],
+      "questions": [
+        {
+          "question": "Why is Microsoft's $33.2 billion Azure figure not the same as Microsoft Cloud revenue?",
+          "answer": "Azure is a specific infrastructure business, while Microsoft Cloud groups several enterprise products and services. The separate figure permits a closer comparison with rival infrastructure businesses only when their reported definitions also match."
+        },
+        {
+          "question": "What else is needed to judge whether Azure's 48% growth pays for Microsoft's data centers?",
+          "answer": "Revenue growth measures sales, not the cost or profitability of new facilities. Capital expenditure, power and hardware costs, operating margins and cash flows over several reporting periods are needed to assess the investment return."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Verge",
+          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Microsoft beats quarterly cloud revenue estimates",
+          "url": "https://www.reuters.com/business/retail-consumer/microsoft-beats-quarterly-cloud-revenue-estimates-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/microsoft-azure-first-dollar-disclosure-oct28.svg",
+        "alt": "Original illustration: Microsoft discloses Azure quarterly revenue of $33.2 billion for the first time",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/microsoft-azure-first-dollar-disclosure-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Conceptual artwork, not photography."
+      }
+    },
+    {
+      "id": "google-ai-mode-sponsored-ads-ten-markets-oct28",
+      "rank": 2,
+      "category": "technology",
+      "title": "Google expands AI Mode ads to ten countries and tests multi-turn placements in the US",
+      "dek": "The rollout accompanies slower but still positive growth in Search advertising; Google says placements will carry a Sponsored label.",
+      "summary": "Google announced on 28 October that AI Mode advertisements would expand to ten additional countries including Canada, India and Australia. The company is also launching multi-turn ad placements for follow-up questions in the United States. Alphabet reported quarterly revenue of $127.6 billion as year-on-year Search ad growth slowed from 17% in the previous quarter to 12%.",
+      "impact": 2.5,
+      "impactReason": "Advertising inside conversational search may change a widely used information interface and its commercial incentives, though outcomes for users remain to be assessed.",
+      "tags": [
+        "Google",
+        "AI-Mode",
+        "advertising"
+      ],
+      "body": [
+        "Google announced on 28 October 2026 that advertising inside AI Mode would expand to Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines and Singapore. In the United States, a new format will allow advertising during follow-up questions. TechCrunch and Search Engine Roundtable have separately examined the economic context and the search-product changes.",
+        "AI Mode lets users pursue a question through a conversation rather than a single conventional search. The company says ads appearing in that experience will be clearly marked Sponsored. That does not mean every answer becomes an advertisement; it changes which parts of a conversational result can carry commercial placements.",
+        "The news accompanied Alphabet's quarterly results, which put group revenue at $127.6 billion, up 25% year on year. Revenue growth in Search advertising was 12% from a year earlier, compared with 17% in the preceding quarter. A slower positive growth rate is not the same as an absolute fall in revenue.",
+        "Google says early advertising engagement signals are encouraging and that users find these placements relevant. Those are company claims, not independent evidence of improved answer quality, consumer choices or competitive effects. An announced market expansion must also be distinguished from the exact functionality visible to any individual user on a particular date."
+      ],
+      "facts": [
+        "Google announced AI Mode ad expansion to ten countries and multi-turn placements in the US on 28 October.",
+        "Alphabet reported $127.6 billion of quarterly revenue and 12% year-on-year growth in Search advertising."
+      ],
+      "perspectives": [
+        "Google stresses relevance to conversational queries, while financial reporting connects the move to moderating Search ad growth."
+      ],
+      "unknowns": [
+        "Independent measurements of the new ads' effects on answer quality and user decisions have not been established."
+      ],
+      "questions": [
+        {
+          "question": "Where will Google AI Mode's ads appear and what makes a placement multi-turn?",
+          "answer": "Ads are placed inside AI Mode's conversational search experience and Google says they will be labeled Sponsored. In the US, a multi-turn ad can be shown during subsequent follow-up questions rather than only alongside the initial query."
+        },
+        {
+          "question": "How can Google's 12% Search ad growth be a slowdown without being a revenue decline?",
+          "answer": "It is below the 17% year-on-year rate reported for the preceding quarter, meaning that revenue continued to grow but at a slower pace. The percentage describes a rate of expansion, not a fall in the total amount earned."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Google expands AI Search ads globally as core ad growth slows",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Search Engine Roundtable",
+          "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
+          "url": "https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Google",
+          "title": "Ads in AI Mode expand to new markets.",
+          "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/google-ai-mode-sponsored-ads-ten-markets-oct28.svg",
+        "alt": "Original illustration: Google expands AI Mode ads to ten countries and tests multi-turn placements in the US",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/google-ai-mode-sponsored-ads-ten-markets-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Conceptual artwork, not photography."
+      }
+    },
+    {
+      "id": "gemini-4-carbon-cybersecurity-preview-oct28",
+      "rank": 3,
+      "category": "technology",
+      "title": "Google introduces Gemini 4 Carbon with a focus on cybersecurity",
+      "dek": "The company claims advances on security tests, but early access is restricted and benchmarks are not deployment guarantees.",
+      "summary": "On 28 October Google introduced Gemini 4 Carbon as a frontier AI model with an emphasis on cybersecurity analysis and defensive tasks. Initial access is limited to selected users and partners. The reported performance should be read as results under stated testing conditions rather than evidence of universal reliability on real systems.",
+      "impact": 2.5,
+      "impactReason": "A frontier model aimed at defensive work could influence security tools, while limited access and controlled tests constrain its immediate practical effect.",
+      "tags": [
+        "Gemini",
+        "cybersecurity",
+        "benchmarks"
+      ],
+      "body": [
+        "Google unveiled Gemini 4 Carbon on 28 October 2026, placing particular emphasis on its reported cybersecurity capabilities. Reuters and The Verge covered the launch and the benchmark results published by Google. The initial preview is limited to selected participants; it should not be described as unrestricted availability for everyone.",
+        "Defensive cybersecurity work can benefit from models that inspect code, identify weaknesses and explain potential intrusion signals. But there is a substantial gap between assisted analysis and automatically making changes to production networks. A model can miss vulnerabilities, generate false alarms or propose unsafe actions without human review and appropriate permissions.",
+        "Google reports improved results on selected technical evaluations. Those rankings describe performance on particular test sets, problem formats and access conditions; they do not measure every live attack or guarantee immunity from exploitation. Some results are the producer's own measurements, so independent replication across realistic environments remains important.",
+        "Google presents the model as a tool for defenders and developers, while broader access and stable commercial terms require separate confirmation. The need for better security analysis is real, but adoption depends as much on error handling, auditability and human oversight as on any benchmark headline."
+      ],
+      "facts": [
+        "Google announced Gemini 4 Carbon on 28 October 2026 with a cybersecurity emphasis.",
+        "Early availability was described as a restricted preview rather than universal access."
+      ],
+      "perspectives": [
+        "Google presents its test outcomes as progress for defensive analysis; technology reporting distinguishes laboratory performance from deployment."
+      ],
+      "unknowns": [
+        "Public independent measurements of reliability across operational settings and a firm general-release schedule have not yet been established."
+      ],
+      "questions": [
+        {
+          "question": "Which cybersecurity tasks is Gemini 4 Carbon intended to support?",
+          "answer": "The model is pitched as an assistant for understanding code, examining vulnerabilities and analyzing threats. Such work can help defenders, but production changes still require authorization, independent checks and human oversight."
+        },
+        {
+          "question": "What can Carbon's published benchmarks establish, and what can they not establish?",
+          "answer": "Benchmarks compare performance on defined tasks and datasets under stated conditions. They do not automatically establish real-world error rates, resistance to malicious input or reliable outcomes on every enterprise network; external replication is needed."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+          "url": "https://www.reuters.com/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Google",
+          "title": "Introducing Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/gemini-4-carbon-cybersecurity-preview-oct28.svg",
+        "alt": "Original illustration: Google introduces Gemini 4 Carbon with a focus on cybersecurity",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/gemini-4-carbon-cybersecurity-preview-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Conceptual artwork, not photography."
+      }
+    },
+    {
+      "id": "scale-ai-outlier-gdpr-complaints-response-oct28",
+      "rank": 4,
+      "category": "technology",
+      "title": "Scale AI rejects European privacy complaints over its Outlier worker platform",
+      "dek": "Five complaints challenge biometric checks and worker tracking; the company's 28 October response is not a regulatory ruling.",
+      "summary": "On 27 October noyb and partners announced five privacy complaints about Scale AI's Outlier platform in France, Italy, the Netherlands and Austria. On 28 October Scale AI denied that it illegally surveils workers. The allegations and the response are documented, but no competent regulator has established a violation on the evidence reported.",
+      "impact": 2,
+      "impactReason": "The dispute concerns privacy standards for AI platform workers and could influence wider industry practices, though no enforcement outcome has been reached.",
+      "tags": [
+        "Outlier",
+        "privacy",
+        "GDPR"
+      ],
+      "body": [
+        "Privacy organization noyb and partner groups announced five complaints against Scale AI on 27 October 2026, targeting its Outlier platform for digital contract workers. The complaints were filed in France, Italy, the Netherlands and Austria. The Register covered the allegations, while Reuters reported Scale AI's public response the following day.",
+        "noyb argues that the platform collects excessive personal information, requires biometric identity checks and subjects workers to intrusive monitoring. Figures cited by the campaigners, including claims about the platform's hundreds of thousands of workers, should be attributed to their source rather than presented as verified counts of individuals affected by a particular practice.",
+        "Scale AI rejects the description of its practices as illegal surveillance. Its response should be presented alongside the complainants' allegations, without treating a denial as proof of compliance or a complaint as proof of infringement. Data-protection authorities will have to examine legal grounds, transparency, necessity and proportionality under GDPR rules.",
+        "The dispute concerns the often invisible labor behind AI systems: people paid to annotate data, evaluate outputs and improve training material. Digital work remains subject to privacy protections. The specific new development on 28 October is the company's answer to complaints filed the previous day; any enforcement decision lies beyond the events documented so far."
+      ],
+      "facts": [
+        "noyb announced five Outlier-related complaints dated 27 October in four European countries.",
+        "Scale AI publicly rejected the unlawful-surveillance allegations on 28 October."
+      ],
+      "perspectives": [
+        "noyb alleges disproportionate worker data collection; Scale AI disputes that description and the accusation of illegality."
+      ],
+      "unknowns": [
+        "The relevant European data-protection authorities have not issued final determinations on the described complaints."
+      ],
+      "questions": [
+        {
+          "question": "Which Outlier practices are challenged in noyb's five GDPR complaints?",
+          "answer": "The complaints focus on collecting and monitoring contractor data, including biometric verification. The legal question is whether each processing operation has an appropriate lawful basis and is transparent, necessary and proportionate to the work."
+        },
+        {
+          "question": "Why does Scale AI's 28 October rebuttal not settle the GDPR dispute?",
+          "answer": "The company can contest the allegations and describe its controls, but the competent authorities must decide whether processing is lawful and proportionate. Neither submitting a complaint nor issuing a denial constitutes a final regulatory determination."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Scale AI rejects claims it illegally surveils AI training workers",
+          "url": "https://www.reuters.com/business/scale-ai-rejects-claims-it-illegally-surveils-ai-training-workers-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Register",
+          "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
+          "url": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "noyb",
+          "title": "AI training platform Outlier illegally surveils European platform workers",
+          "url": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/scale-ai-outlier-gdpr-complaints-response-oct28.svg",
+        "alt": "Original illustration: Scale AI rejects European privacy complaints over its Outlier worker platform",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/scale-ai-outlier-gdpr-complaints-response-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Conceptual artwork, not photography."
+      }
+    },
+    {
+      "id": "south-korea-financial-cyberattacks-oct28",
+      "rank": 5,
+      "category": "technology",
+      "title": "South Korean police investigate breaches at brokerages and a crypto exchange",
+      "dek": "Daishin Securities reports exposure of data on 38,490 customers; other firms describe incidents with different scopes.",
+      "summary": "South Korea's police opened a preliminary inquiry on 28 October into incidents affecting Daishin Securities, Mirae Asset Global Investments and crypto exchange Bithumb. Seoul Economic Daily reports personal and credit information exposure involving 38,490 Daishin customers. Investigators have not established that one actor was responsible for all the incidents.",
+      "impact": 2.5,
+      "impactReason": "Breaches affecting multiple financial firms could expose customers to real risks, while the overall scope and attribution remain under investigation.",
+      "tags": [
+        "Korea",
+        "cyberattacks",
+        "finance"
+      ],
+      "body": [
+        "South Korea's National Office of Investigation opened a preliminary investigation on 28 October 2026 into new security incidents at financial businesses. Seoul Economic Daily and TechCrunch report breaches involving Daishin Securities, Mirae Asset Global Investments and cryptocurrency exchange Bithumb. The inquiry follows earlier attacks on banks and other financial institutions in the country.",
+        "According to the Korean report, information belonging to 38,490 Daishin Securities customers, including personal and credit data, was exposed. At Bithumb, employee information was involved while checks on customer data were continuing. Mirae Asset described exposure related to internal systems but had not confirmed an equivalent disclosure of customer credit information.",
+        "Police are comparing technical indicators from these incidents with those seen in earlier attacks at other financial firms. Assigning the inquiry to the same police unit does not demonstrate a single coordinated campaign. Differences in the systems breached, types of data and timing must be assessed before drawing conclusions about perpetrators.",
+        "For customers it matters whether an incident involved unauthorized system access, disclosure of personal records or a confirmed financial loss: these are not interchangeable outcomes. The companies still need to clarify the scope of affected information and any notifications. As of 28 October, a common attacker and the ultimate size of the breaches had not been established."
+      ],
+      "facts": [
+        "South Korean police opened a preliminary inquiry on 28 October into incidents at Daishin, Mirae Asset and Bithumb.",
+        "Seoul Economic Daily reports exposed personal and credit information for 38,490 Daishin customers."
+      ],
+      "perspectives": [
+        "Investigators are comparing incidents for possible technical links; the companies describe different categories of information involved."
+      ],
+      "unknowns": [
+        "The attackers' identities, any common coordination and the final scope of information taken at each business are not established."
+      ],
+      "questions": [
+        {
+          "question": "What does the figure of 38,490 customers mean in the Daishin Securities breach?",
+          "answer": "It is the number of customers whose personal and credit information was reported exposed. It does not mean that each customer lost money or that an equal number of users was affected at Mirae Asset or Bithumb."
+        },
+        {
+          "question": "Why does a shared police inquiry not prove that the Daishin, Mirae and Bithumb attacks had one perpetrator?",
+          "answer": "Investigators may group cases to compare timing, tools and technical patterns. Identifying a common actor requires forensic and investigative evidence rather than merely similar dates or the fact that all victims work in finance."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Seoul Economic Daily",
+          "title": "Hacking Spreads to Securities, Asset Management Firms and Crypto Exchanges, Police Open Probe",
+          "url": "https://en.sedaily.com/society/2026/10/28/hacking-spreads-to-brokerages-and-crypto-exchanges-police",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TechCrunch",
+          "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+          "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/south-korea-financial-cyberattacks-oct28.svg",
+        "alt": "Original illustration: South Korean police investigate breaches at brokerages and a crypto exchange",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/south-korea-financial-cyberattacks-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Conceptual artwork, not photography."
+      }
+    }
+  ]
+}
