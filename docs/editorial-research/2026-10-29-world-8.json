@@ -1,0 +1,102 @@
+{
+  "id": "indonesia-jakarta-forest-fires-student-protests-oct28",
+  "impact": 2.5,
+  "category": "society",
+  "src": [
+    [
+      "Reuters",
+      "Indonesian students protest over forest fires and Prabowo policies",
+      "https://www.reuters.com/world/asia-pacific/indonesian-students-protest-over-forest-fires-prabowo-policies-2026-10-28/",
+      "2026-10-28",
+      "reporting"
+    ],
+    [
+      "Channel News Asia",
+      "Indonesian students protest rising prices, government's handling of forest fires",
+      "https://www.channelnewsasia.com/asia/indonesia-jakarta-student-protest-prices-forest-fires-6499771",
+      "2026-10-28",
+      "reporting"
+    ],
+    [
+      "AFP",
+      "Eat the rich: Indonesians protest against graft, wildfires",
+      "https://www.afp.com/en/eat-rich-indonesians-protest-against-graft-wildfires-0",
+      "2026-10-28",
+      "reporting"
+    ]
+  ],
+  "it": {
+    "title": "Indonesia, proteste studentesche contro incendi, smog e carovita: governo Prabowo sotto pressione",
+    "dek": "Cortei del 28 ottobre a Giacarta e altre città: richieste su gestione dei roghi e priorità di spesa pubblica.",
+    "summary": "Il 28 ottobre studenti e gruppi civici hanno manifestato in Indonesia contro gli incendi di foreste e torbiere, l'aria inquinata e l'aumento del costo della vita. Reuters, AFP e Channel News Asia hanno raccolto notizie originali dai cortei. Il governo sostiene di aver già avviato interventi e procedimenti legati ai roghi.",
+    "body": [
+      "Mercoledì 28 ottobre 2026 studenti e organizzazioni civiche hanno manifestato a Giacarta, Bandung e Makassar contro le politiche del presidente Prabowo Subianto. Reporter di Reuters, AFP e Channel News Asia hanno seguito proteste legate alla crisi degli incendi, alla corruzione denunciata dai dimostranti e alle difficoltà economiche. Le cifre di partecipazione differiscono fra i resoconti perché descrivono luoghi o momenti diversi: non vanno confuse in un'unica stima nazionale.",
+      "I partecipanti hanno contestato la risposta governativa ai roghi di foreste e torbiere che hanno generato foschie tossiche. Le torbiere possono continuare a bruciare e rilasciare particolato fine anche quando non sono visibili grandi fiamme. Il fumo si sposta con il vento e può peggiorare la qualità dell'aria a centinaia di chilometri di distanza, con conseguenze anche per le comunità dei Paesi vicini.",
+      "Le rivendicazioni non si limitano all'ambiente: comprendono prezzi dei beni di prima necessità, sussidi, libertà di protesta e scelte di spesa pubblica. Una parte dei gruppi contesta il peso dei programmi di pasti gratuiti rispetto alla tutela sanitaria e ambientale. Questa è una posizione dei manifestanti, non un bilancio definitivo della spesa o delle alternative possibili.",
+      "L'ufficio comunicazione del governo ha riferito interventi di aiuto nelle province colpite e procedimenti contro imprese ritenute responsabili di incendi, affermando di voler ascoltare gli studenti. Forze di sicurezza sono state schierate vicino ai cortei e alcune cronache riferiscono tensioni. La risposta istituzionale andrà valutata con indicatori sugli incendi, sull'inquinamento e sugli interventi effettivi, oltre alle dichiarazioni ufficiali."
+    ],
+    "facts": [
+      "Il 28 ottobre si sono tenute manifestazioni studentesche contro gli incendi e il carovita a Giacarta e in altre città indonesiane.",
+      "CNA e AFP hanno realizzato cronache autonome e il governo ha riferito misure contro imprese collegate ai roghi."
+    ],
+    "perspectives": [
+      "I manifestanti chiedono più tutela ambientale e diversa spesa pubblica; il governo rivendica aiuti e sanzioni per chi causa gli incendi."
+    ],
+    "unknowns": [
+      "Non è disponibile un totale nazionale verificato dei partecipanti né una valutazione conclusiva dell'efficacia delle misure annunciate."
+    ],
+    "questions": [
+      {
+        "question": "Perché il fumo degli incendi nelle torbiere indonesiane crea rischi anche fuori dalle aree incendiate?",
+        "answer": "I terreni ricchi di materia organica possono ardere a lungo liberando particolato fine e composti irritanti. Le correnti atmosferiche trasportano questi prodotti della combustione verso città e Paesi limitrofi, anche quando nessun incendio è visibile localmente."
+      },
+      {
+        "question": "Quale nesso stabiliscono i manifestanti fra crisi degli incendi e programmi economici di Prabowo?",
+        "answer": "Alcuni studenti sostengono che il governo dovrebbe destinare più risorse all'emergenza ambientale e alle famiglie in difficoltà invece che a iniziative come i pasti gratuiti. Si tratta di una proposta di priorità di bilancio, non di una dimostrazione che una singola misura abbia causato i roghi."
+      }
+    ],
+    "impactReason": "La crisi del fumo e le proteste attraversano più regioni del Paese, mettendo insieme salute pubblica, priorità economiche e fiducia istituzionale.",
+    "tags": [
+      "Indonesia",
+      "incendi",
+      "studenti"
+    ]
+  },
+  "en": {
+    "title": "Students protest Indonesian wildfires, toxic haze and rising costs under Prabowo",
+    "dek": "Demonstrations in Jakarta and other cities on 28 October seek action on forest fires and public-spending priorities.",
+    "summary": "Students and civil-society groups marched in Indonesia on 28 October over forest and peatland fires, harmful haze and higher living costs. Reuters, AFP and Channel News Asia produced independent coverage from the protests. The government says it has taken action on the fires and welcomed public input.",
+    "body": [
+      "On Wednesday 28 October 2026 student groups and civic organizations demonstrated in Jakarta, Bandung and Makassar against President Prabowo Subianto's policies. Reuters, AFP and Channel News Asia sent reporters to cover anger over wildfires, alleged corruption and economic hardship. Crowd estimates vary because they concern different places and observation times; they should not be merged into a single nationwide attendance figure.",
+      "Protesters criticized the government's handling of extensive forest and peatland fires that have produced toxic haze. Peat can continue smoldering and emitting fine particles even without dramatic visible flames. Winds can carry smoke hundreds of kilometers, damaging air quality in cities and across national borders.",
+      "Demands also involve prices for essentials, subsidies, protest rights and the government's spending choices. Some groups challenge spending on free-meal initiatives when environmental and public-health needs are urgent. This is a political argument about priorities rather than a completed assessment of all program costs and benefits.",
+      "The government's communications office cited aid to affected provinces and proceedings against companies linked to fires, and said it was willing to hear students' concerns. Security personnel were deployed around marches and reporters described occasional tensions. Evaluating the response will require measured fire activity, pollution trends and evidence of enforcement as well as official statements."
+    ],
+    "facts": [
+      "Students protested wildfires and living costs on 28 October in Jakarta and other Indonesian cities.",
+      "AFP and CNA produced separate reporting, while the government said it was pursuing firms linked to fires."
+    ],
+    "perspectives": [
+      "Demonstrators demand more environmental protection and changes to spending, whereas officials point to relief and enforcement action already underway."
+    ],
+    "unknowns": [
+      "A verified nationwide crowd total and the effectiveness of the stated response are not established."
+    ],
+    "questions": [
+      {
+        "question": "Why can Indonesian peatland fires harm people far from the visible flames?",
+        "answer": "Organic-rich soil can smolder for long periods, releasing fine particles and irritating gases. Atmospheric transport can then carry that haze to distant cities and neighboring countries even when no fire is visible nearby."
+      },
+      {
+        "question": "How do student protesters connect the wildfire crisis with Prabowo's economic agenda?",
+        "answer": "Some argue that resources should shift toward environmental emergencies and household hardship rather than programs such as free meals. That is a demand about government priorities, not evidence that any single spending program caused the fires."
+      }
+    ],
+    "impactReason": "The wildfire haze and protests affect multiple Indonesian regions and combine public-health risk with wider debates about government priorities.",
+    "tags": [
+      "Indonesia",
+      "wildfires",
+      "students"
+    ]
+  }
+}
