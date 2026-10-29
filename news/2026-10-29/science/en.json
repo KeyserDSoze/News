@@ -1,0 +1,395 @@
+{
+  "date": "2026-10-29",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-10-29T08:00:00+01:00",
+  "editorialNote": "Science studies and follow-up reporting on 28 October; publication dates, model limitations and illustrative images are explicitly distinguished.",
+  "articles": [
+    {
+      "id": "rubin-2026ed138-transneptunian-candidate",
+      "rank": 1,
+      "category": "society",
+      "title": "Rubin identifies trans-Neptunian object 2026 ED138, a candidate dwarf planet",
+      "dek": "Archive images help reconstruct its orbit, but the estimated 600–1,500 km diameter depends on its unknown reflectivity.",
+      "summary": "The Vera C. Rubin Observatory announced on 27 October the detection of trans-Neptunian object 2026 ED138, first seen on 13 October and later identified in earlier images. Reuters and Space.com reported the finding on 28 October. The body is a candidate dwarf planet, not one whose physical classification has been definitively established.",
+      "impact": 2.5,
+      "impactReason": "Rubin is extending knowledge of the outer Solar System, though the scientific consequences of this individual candidate remain early and specialized.",
+      "tags": [
+        "Rubin",
+        "Neptune",
+        "orbits"
+      ],
+      "body": [
+        "The Vera C. Rubin Observatory in Chile announced on 27 October 2026 that it had identified a trans-Neptunian object provisionally named 2026 ED138 after detecting it on 13 October. Reuters and Space.com reported the astronomy news the following day. The observation expands the inventory of distant Solar System bodies, but an observational designation does not itself grant formal dwarf-planet status.",
+        "Researchers searched historical observations and found images of the same object from earlier years. Positions recorded over a longer span constrain its path much better than a few nights of observations. Measurements extending back to 2016 help reconstruct the orbit and separate the apparent movement of a distant body from that of objects closer to Earth.",
+        "Early size estimates range from roughly 600 to 1,500 kilometers in diameter. That range is wide because astronomers measure reflected light rather than a resolved physical disk. A bright, highly reflective body could be relatively small, while a darker body would need a larger surface to reflect the same amount of sunlight. Thermal measurements could help narrow the range.",
+        "Dwarf-planet classification requires a body to satisfy physical criteria including a nearly rounded shape under its own gravity. Brightness alone cannot establish those conditions. The discovery illustrates the value of wide-field surveys and long observational archives, but further measurements are needed before treating the object as a confirmed dwarf planet."
+      ],
+      "facts": [
+        "Rubin announced 2026 ED138 on 27 October 2026 following an initial detection on 13 October.",
+        "The estimated 600–1,500 km diameter depends on assumptions about reflectivity rather than a direct size measurement."
+      ],
+      "perspectives": [
+        "Rubin describes a promising candidate dwarf planet; independent reporting notes that a provisional discovery and final classification are different."
+      ],
+      "unknowns": [
+        "Actual albedo, precise diameter and whether the body meets the physical definition of a dwarf planet remain unestablished."
+      ],
+      "questions": [
+        {
+          "question": "Why do archive images dating to 2016 improve the orbital estimate for 2026 ED138?",
+          "answer": "They show the object's position at widely separated times, producing a longer observational arc. That helps constrain its velocity and orbital path far better than only using the October 2026 discovery images."
+        },
+        {
+          "question": "How can estimates for 2026 ED138's diameter range from 600 to 1,500 kilometers?",
+          "answer": "Observed brightness reflects both physical size and albedo. A dark surface requires a larger body to produce the detected light, whereas a bright surface allows a smaller one. Independent reflectivity information is needed to narrow the size estimate."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Possible new dwarf planet identified orbiting beyond Pluto",
+          "url": "https://www.reuters.com/science/possible-new-dwarf-planet-identified-orbiting-beyond-pluto-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Space.com",
+          "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+          "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Vera C. Rubin Observatory",
+          "title": "Rubin Observatory identifies its first dwarf-planet candidate",
+          "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/rubin-2026ed138-transneptunian-candidate.svg",
+        "alt": "Original conceptual science art: Rubin identifies trans-Neptunian object 2026 ED138, a candidate dwarf planet",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/rubin-2026ed138-transneptunian-candidate.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Symbolic art, not documentary photography."
+      }
+    },
+    {
+      "id": "comet-impact-prebiotic-hcn-model-2026",
+      "rank": 2,
+      "category": "society",
+      "title": "New models find comet impacts unlikely to supply early Earth with useful prebiotic chemistry",
+      "dek": "Simulated impact speeds and angles suggest most comet-borne hydrogen cyanide would be destroyed or diluted.",
+      "summary": "Research published in Scientific Reports on 28 October modeled whether comets could have delivered useful amounts of prebiotic molecules to early Earth. The simulations suggest that survival and sufficient concentration of hydrogen cyanide were extraordinarily unlikely. They do not establish how life originated or rule out every cometary contribution.",
+      "impact": 2.5,
+      "impactReason": "The modeling challenges a longstanding mechanism in origins-of-life research without establishing which alternative occurred.",
+      "tags": [
+        "comets",
+        "origin-of-life",
+        "HCN"
+      ],
+      "body": [
+        "On 28 October 2026 Richard Anslow and colleagues at Cambridge published a modeling study in Scientific Reports on the delivery of prebiotic compounds by comet impacts. Science News and Media INAF independently discussed its implications for theories of life's origins. The question is whether chemical feedstock could arrive and survive, not whether organisms themselves traveled on comets.",
+        "The researchers combined models of comet dynamics with impact physics and atmospheric interactions. They focused on hydrogen cyanide, HCN, a molecule observed in cometary material and potentially useful in reactions that create biological building blocks. Very fast or steep impacts generate intense heating that destroys most fragile organic compounds before they can participate in chemistry.",
+        "The study also assessed what would happen to surviving material once dispersed in oceans or local reservoirs. Delivering molecules to a planet is not enough: they must be available at concentrations and for periods that permit reactions. The simulations indicate that the conjunction of a survivable impact and enough locally available HCN would have been extremely rare, particularly as impacts declined during Earth's first 500 million years.",
+        "The authors discuss other possible origins of prebiotic chemicals, including atmospheric reactions and asteroid-related processes, without identifying the actual history of Earth's first biology. A model comparison suggesting slightly more favorable cometary delivery conditions on Mars is not evidence that life existed there. Better constraints on ancient impacts could refine the estimates."
+      ],
+      "facts": [
+        "Anslow and colleagues published the simulation-based study in Scientific Reports on 28 October 2026.",
+        "Modeled trajectories and impact conditions make useful concentrations of surviving cometary HCN on early Earth highly improbable."
+      ],
+      "perspectives": [
+        "Cambridge researchers argue cometary supply was unlikely; Science News and Media INAF explain this as a challenge to one hypothesis rather than proof of an alternative origin."
+      ],
+      "unknowns": [
+        "The actual pathway to life's chemical precursors and precise conditions of each ancient impact are unknown."
+      ],
+      "questions": [
+        {
+          "question": "Why did Anslow's team use hydrogen cyanide to test the role of comets?",
+          "answer": "HCN is found in comet material and can contribute to chemical pathways that produce prebiotic compounds. Modeling whether it survives impacts and avoids dilution tests whether comet delivery could supply useful concentrations."
+        },
+        {
+          "question": "How could a comet carrying HCN fail to contribute to early Earth's prebiotic chemistry?",
+          "answer": "The heat of a high-speed or steep impact can destroy the compound. Even surviving molecules may disperse into water before reaching reactive concentrations, so physically delivering HCN and maintaining useful chemical conditions are separate hurdles."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Science News",
+          "title": "Comets probably didn’t deliver life’s building blocks to Earth",
+          "url": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Media INAF",
+          "title": "La vita non piovve dalle comete",
+          "url": "https://www.media.inaf.it/2026/10/28/la-vita-non-piovve-dalle-comete/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Scientific Reports",
+          "title": "Cometary impacts an unlikely pathway towards the origins of life on Earth",
+          "url": "https://www.nature.com/articles/s41598-026-74214-y",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "University of Cambridge",
+          "title": "Comets didn’t seed life on Earth after all, new study suggests",
+          "url": "https://www.cam.ac.uk/research/news/comets-didnt-seed-life-on-earth-after-all-new-study-suggests",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/comet-impact-prebiotic-hcn-model-2026.svg",
+        "alt": "Original conceptual science art: New models find comet impacts unlikely to supply early Earth with useful prebiotic chemistry",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/comet-impact-prebiotic-hcn-model-2026.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Symbolic art, not documentary photography."
+      }
+    },
+    {
+      "id": "eaton-fire-lead-exposure-study-2026",
+      "rank": 3,
+      "category": "climate",
+      "title": "Study estimates millions exposed to lead in smoke from the 2025 Eaton wildfire",
+      "dek": "Lead in the smoke reached more than 80 times background for about a day; the modeled exposure is not a diagnosis of poisoning.",
+      "summary": "A study released on 28 October 2026 examined the plume from the Eaton wildfire that burned in the Los Angeles area in January 2025. Measurements combined with dispersal modeling suggest roughly seven million people could have been exposed over a day to lead concentrations more than 80 times background levels. The number describes potential environmental exposure, not illnesses diagnosed.",
+      "impact": 3,
+      "impactReason": "Evidence of potentially widespread urban-wildfire contaminants has significant public-health and prevention implications across exposed communities.",
+      "tags": [
+        "Eaton",
+        "lead",
+        "wildfires"
+      ],
+      "body": [
+        "When the Eaton wildfire burned through the Los Angeles area in January 2025, houses, vehicles and infrastructure contributed chemicals unlike those released by vegetation alone. Caltech scientists published an analysis of the smoke composition on 28 October 2026. Associated Press, Eos and The Washington Post covered the results while distinguishing the fire's original date from the research publication.",
+        "The researchers used instruments to measure compounds in the plume and atmospheric transport models to estimate where it traveled. During a roughly 24-hour period, smoke lead concentrations were more than 80 times background under the reported conditions. The team estimated that about seven million people could have been within the affected area; it did not collect a clinical exposure measure from each individual.",
+        "Compared with smoke from vegetation-dominated wildfires, the urban plume carried elevated levels of substances including arsenic and halogen-containing compounds, consistent with burned manufactured materials. Chemical composition matters because exposure risks differ with sources and particle properties. A plume measurement does not establish that everyone in the estimated region inhaled an identical quantity.",
+        "Determining health consequences will require individual exposure measurements, medical data and longer-term monitoring. The study offers useful evidence for managing fires that consume built-up neighborhoods, where measuring generic particulate concentrations alone may miss important contaminants. Environmental evidence of pollution must remain distinct from a count of poisoning cases."
+      ],
+      "facts": [
+        "The Eaton fire took place in January 2025, and the plume chemistry study was released on 28 October 2026.",
+        "Researchers modeled potential exposure for roughly seven million people and lead in smoke exceeding 80 times background, rather than seven million diagnosed cases."
+      ],
+      "perspectives": [
+        "Caltech emphasizes chemicals released by burning urban materials; reporting distinguishes atmospheric exposure estimates from demonstrated medical outcomes."
+      ],
+      "unknowns": [
+        "The study did not establish each resident's inhaled lead dose or individual medical consequences."
+      ],
+      "questions": [
+        {
+          "question": "How did researchers link lead in Eaton wildfire smoke to burned urban materials?",
+          "answer": "They measured the plume's chemical composition and compared contaminant patterns with those characteristic of vegetation smoke. Elevated lead and associated compounds are consistent with the combustion of buildings, vehicles and manufactured materials."
+        },
+        {
+          "question": "Why do seven million people potentially exposed to the Eaton plume not mean seven million cases of lead poisoning?",
+          "answer": "The figure estimates a population in an area reached by elevated airborne concentrations, using observations and transport modeling. A diagnosis requires individual exposure and medical evidence; actual doses may differ substantially from person to person."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Los Angeles wildfire smoke exposed millions to lead, study estimates",
+          "url": "https://apnews.com/article/b1d86fbb096940500a4c04c5d5bf82dd",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Eos",
+          "title": "Eaton Wildfire Exposed Millions to a Cocktail of Chemicals",
+          "url": "https://eos.org/articles/eaton-wildfire-exposed-millions-to-a-cocktail-of-chemicals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "Millions exposed to high lead levels during L.A. fires, study says",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/28/millions-were-exposed-lead-levels-way-above-normal-during-la-fires-study-says/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caltech",
+          "title": "Chemical data collected from the Eaton fire plume help characterize urban fires",
+          "url": "https://www.caltech.edu/about/news/chemical-data-collected-from-the-eaton-fire-plume-help-characterize-urban-fires",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/eaton-fire-lead-exposure-study-2026.svg",
+        "alt": "Original conceptual science art: Study estimates millions exposed to lead in smoke from the 2025 Eaton wildfire",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/eaton-fire-lead-exposure-study-2026.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Symbolic art, not documentary photography."
+      }
+    },
+    {
+      "id": "denisovan-xujiayao-proteins-retrospective-oct28",
+      "rank": 4,
+      "category": "society",
+      "title": "Ancient fossil proteins help reconstruct the appearance of Xujiayao Denisovans",
+      "dek": "A 28 October report revisits a 21 October study; shared skull traits do not imply that every Denisovan looked alike.",
+      "summary": "New reporting on 28 October revisited research published in Nature on 21 October. Protein analysis of fossils from Xujiayao in northern China supports their assignment to the Denisovan lineage and enables broader anatomical comparisons. It does not establish a universal portrait of all Denisovan individuals and populations.",
+      "impact": 2,
+      "impactReason": "The molecular and anatomical evidence adds to knowledge of an extinct human lineage while leaving important classification questions open.",
+      "tags": [
+        "Denisovans",
+        "proteins",
+        "fossils"
+      ],
+      "body": [
+        "Nature published a study on 21 October 2026 linking ancient human fossils from Xujiayao in northern China to the Denisovan lineage. Nature News independently reported the research that day, and Live Science published new anatomical coverage with outside expert comment on 28 October. The latter is a follow-up analysis, not the date of discovery or publication of the primary paper.",
+        "The team examined ancient proteins, including collagen sequences, and compared conserved molecular markers with other ancient human lineages. Proteins can sometimes persist when DNA is too degraded to provide a useful identification. The researchers reported an amino-acid marker consistent with Denisovan ancestry in the analyzed samples.",
+        "With that molecular connection, the scientists compared fragments of the skull, jaws and teeth with other East Asian Middle Pleistocene remains. Their analysis highlights a low cranial vault, pronounced brow ridges and a combination of traits that also occur in other hominin groups. Illustrations based on these fragments can suggest an appearance but cannot establish each person's exact face, skin or other features.",
+        "Researchers caution that Denisovan groups may have varied substantially across geography and time. Extending the identification to additional East Asian fossils remains a hypothesis needing molecular or anatomical support from further specimens. The taxonomic debate does not invalidate the useful molecular identification made for the fossils actually tested."
+      ],
+      "facts": [
+        "The primary Nature study appeared on 21 October 2026, and Live Science carried original follow-up reporting on 28 October.",
+        "Identification of the Xujiayao fossils combines ancient-protein comparisons and anatomical analysis."
+      ],
+      "perspectives": [
+        "The study authors propose recognizable cranial traits; independent experts note that the wider Denisovan lineage probably displayed extensive variation."
+      ],
+      "unknowns": [
+        "Exact individual appearance, the full range of Denisovan variation and classifications of all compared fossils remain unsettled."
+      ],
+      "questions": [
+        {
+          "question": "How can ancient collagen help identify the Xujiayao fossils as Denisovan?",
+          "answer": "Protein sequences sometimes survive where DNA does not. Comparing specific amino-acid variations with known Denisovan markers provides an evolutionary clue that does not depend solely on the shape of fossil bones."
+        },
+        {
+          "question": "Why can Xujiayao skull traits not define the appearance of every Denisovan?",
+          "answer": "The remains are incomplete and come from specific people and sites. A lineage spanning a large region and long time could vary substantially, so even informed facial artwork remains a reconstruction rather than an exact portrait."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Live Science",
+          "title": "Our extinct cousins the Denisovans had a 'distinctive' appearance, new analysis reveals",
+          "url": "https://www.livescience.com/archaeology/human-evolution/our-extinct-cousins-the-denisovans-had-a-distinctive-appearance-new-analysis-reveals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature News",
+          "title": "This is what the mysterious Denisovans looked like",
+          "url": "https://www.nature.com/articles/d41586-026-03360-0",
+          "publishedAt": "2026-10-21",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature",
+          "title": "The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology",
+          "url": "https://www.nature.com/articles/s41586-026-11132-z",
+          "publishedAt": "2026-10-21",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/denisovan-xujiayao-proteins-retrospective-oct28.svg",
+        "alt": "Original conceptual science art: Ancient fossil proteins help reconstruct the appearance of Xujiayao Denisovans",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/denisovan-xujiayao-proteins-retrospective-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Symbolic art, not documentary photography."
+      }
+    },
+    {
+      "id": "infernogallus-jamesi-fruit-jaw-anatomy",
+      "rank": 5,
+      "category": "society",
+      "title": "Infernogallus jamesi skull mechanics point to a possible fruit-based diet",
+      "dek": "A fossil described in research published on 10 October received renewed attention on the 28th; diet is inferred, not directly observed.",
+      "summary": "A Royal Ontario Museum announcement on 28 October renewed coverage of Infernogallus jamesi, a toothless dinosaur described in Nature Communications on 10 October. Reconstructions of its skull and jaw suggest adaptations for handling relatively hard fruits. The evidence does not directly record the animal's feeding behavior.",
+      "impact": 2,
+      "impactReason": "The fossil adds a specific insight into feeding strategies among dinosaurs, while its ecological implications are still inferred rather than demonstrated.",
+      "tags": [
+        "dinosaurs",
+        "skull",
+        "fruit"
+      ],
+      "body": [
+        "A study published in Nature Communications on 10 October 2026 described Infernogallus jamesi, a toothless oviraptorosaur theropod from the Late Cretaceous of North America. Phys.org reported on the findings earlier in the month; VEJA and the Royal Ontario Museum revisited them on 28 October. The sequence matters because a new museum announcement is not the date on which the fossil was discovered.",
+        "Researchers used CT scans, three-dimensional reconstructions and biomechanical analyses of the skull to study the beak, inner-mouth surfaces and likely jaw-muscle attachments. The structures suggest forces suitable for handling and cracking relatively resistant plant matter. Functional similarities with some living birds can guide hypotheses about food, but do not prove identical behavior.",
+        "The animal was toothless and belonged to a lineage whose diets have remained debated. The study argues for a degree of fruit-eating specialization based on modeled jaw mechanics and comparative anatomy. No direct observation of its diet exists, and its possible ability to eat other material cannot be ruled out using these bones alone.",
+        "If strengthened by further specimens, the interpretation could clarify the ecological range of dinosaurs shortly before the end-Cretaceous extinction. However, eating fruit does not establish that an animal dispersed viable seeds. That ecological role would require evidence about what happened to seeds during feeding and digestion, not just inferred bite forces."
+      ],
+      "facts": [
+        "The Infernogallus jamesi paper is dated 10 October 2026; renewed VEJA and ROM coverage is from 28 October.",
+        "Fruit eating is inferred from CT-based skull reconstruction and jaw biomechanics."
+      ],
+      "perspectives": [
+        "Paleontologists argue that the skull supports dietary specialization while acknowledging that ecological behavior cannot be directly observed in fossils."
+      ],
+      "unknowns": [
+        "The full diet and whether Infernogallus dispersed viable seeds remain unestablished."
+      ],
+      "questions": [
+        {
+          "question": "Which Infernogallus jamesi skull features suggest that it could eat fruit?",
+          "answer": "The palate and beak surfaces, together with jaw-muscle attachment estimates from CT reconstruction, help infer the forces the mouth could apply. Those forces are compatible with handling relatively tough fruit."
+        },
+        {
+          "question": "Why do similarities to modern fruit-eating birds not prove that Infernogallus spread seeds?",
+          "answer": "Breaking or eating fruit does not show whether seeds passed through intact and remained able to grow. Effective dispersal also depends on digestion and behavior, which cannot be reconstructed from skull bones alone."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "VEJA",
+          "title": "A nova espécie de dinossauro batizada pelos cientistas de galinha do inferno",
+          "url": "https://veja.abril.com.br/ciencia/a-nova-especie-de-dinossauro-batizada-pelos-cientistas-de-galinha-do-inferno/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Toothless 'hell chicken' dinosaur may have eaten fruit",
+          "url": "https://phys.org/news/2026-10-toothless-hell-chicken-dinosaur-fruit.html",
+          "publishedAt": "2026-10-15",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Nature Communications",
+          "title": "A new oviraptorosaur and the evolution of specialized frugivory",
+          "url": "https://www.nature.com/articles/s41467-026-78343-w",
+          "publishedAt": "2026-10-10",
+          "role": "official"
+        },
+        {
+          "outlet": "Royal Ontario Museum",
+          "title": "Rare fossil discovery reveals a new dinosaur species and specialized fruit eaters",
+          "url": "https://www.rom.on.ca/news-releases/rare-fossil-discovery-reveals-new-dinosaur-species-were-specialized-fruit-eaters",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
+        "alt": "Original conceptual science art: Infernogallus jamesi skull mechanics point to a possible fruit-based diet",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Symbolic art, not documentary photography."
+      }
+    }
+  ]
+}
