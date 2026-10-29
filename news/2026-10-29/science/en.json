@@ -315,9 +315,9 @@
       "id": "infernogallus-jamesi-fruit-jaw-anatomy",
       "rank": 5,
       "category": "society",
-      "title": "Infernogallus jamesi skull mechanics point to a possible fruit-based diet",
-      "dek": "A fossil described in research published on 10 October received renewed attention on the 28th; diet is inferred, not directly observed.",
-      "summary": "A Royal Ontario Museum announcement on 28 October renewed coverage of Infernogallus jamesi, a toothless dinosaur described in Nature Communications on 10 October. Reconstructions of its skull and jaw suggest adaptations for handling relatively hard fruits. The evidence does not directly record the animal's feeding behavior.",
+      "title": "Infernogallus jamesi jaw mechanics suggest a diet of soft, fleshy fruit",
+      "dek": "The 10 October study revisited on the 28th describes a sliding jaw that could mash pulp, not a particularly powerful bite.",
+      "summary": "A Royal Ontario Museum announcement on 28 October renewed coverage of Infernogallus jamesi, a toothless dinosaur described in Nature Communications on 10 October. Skull and jaw reconstructions suggest adaptations for mashing soft, fleshy fruit. The fossil does not directly record the animal's feeding behavior.",
       "impact": 2,
       "impactReason": "The fossil adds a specific insight into feeding strategies among dinosaurs, while its ecological implications are still inferred rather than demonstrated.",
       "tags": [
@@ -327,13 +327,13 @@
       ],
       "body": [
         "A study published in Nature Communications on 10 October 2026 described Infernogallus jamesi, a toothless oviraptorosaur theropod from the Late Cretaceous of North America. Phys.org reported on the findings earlier in the month; VEJA and the Royal Ontario Museum revisited them on 28 October. The sequence matters because a new museum announcement is not the date on which the fossil was discovered.",
-        "Researchers used CT scans, three-dimensional reconstructions and biomechanical analyses of the skull to study the beak, inner-mouth surfaces and likely jaw-muscle attachments. The structures suggest forces suitable for handling and cracking relatively resistant plant matter. Functional similarities with some living birds can guide hypotheses about food, but do not prove identical behavior.",
-        "The animal was toothless and belonged to a lineage whose diets have remained debated. The study argues for a degree of fruit-eating specialization based on modeled jaw mechanics and comparative anatomy. No direct observation of its diet exists, and its possible ability to eat other material cannot be ruled out using these bones alone.",
+        "Researchers used CT scans, three-dimensional reconstructions and biomechanical analysis of the beak, mouth surfaces and jaw-muscle attachments. Their model suggests the lower jaw could slide backward and forward rather than deliver a particularly strong vertical bite. Ridges and grooves inside the mouth may have mashed soft fruit much like a mortar and pestle. Functional similarities to living parrots support a hypothesis about food processing, not proof of identical behavior.",
+        "The dinosaur was toothless and belonged to a lineage whose feeding habits have been debated. The authors propose specialization for soft fruit pulp based on reconstructed jaw movements and comparative anatomy, and note that stomach stones were not found in the specimen. No direct observation of its diet exists, and the anatomy does not necessarily exclude other foods.",
         "If strengthened by further specimens, the interpretation could clarify the ecological range of dinosaurs shortly before the end-Cretaceous extinction. However, eating fruit does not establish that an animal dispersed viable seeds. That ecological role would require evidence about what happened to seeds during feeding and digestion, not just inferred bite forces."
       ],
       "facts": [
         "The Infernogallus jamesi paper is dated 10 October 2026; renewed VEJA and ROM coverage is from 28 October.",
-        "Fruit eating is inferred from CT-based skull reconstruction and jaw biomechanics."
+        "The authors infer possible soft-fruit eating from CT-based skull reconstruction and models of a backward-and-forward jaw movement."
       ],
       "perspectives": [
         "Paleontologists argue that the skull supports dietary specialization while acknowledging that ecological behavior cannot be directly observed in fossils."
@@ -343,8 +343,8 @@
       ],
       "questions": [
         {
-          "question": "Which Infernogallus jamesi skull features suggest that it could eat fruit?",
-          "answer": "The palate and beak surfaces, together with jaw-muscle attachment estimates from CT reconstruction, help infer the forces the mouth could apply. Those forces are compatible with handling relatively tough fruit."
+          "question": "What Infernogallus jamesi jaw movement points to a possible soft-fruit diet?",
+          "answer": "CT-based anatomy and muscle reconstruction suggest the lower jaw could slide backward and forward instead of closing with a strong vertical bite. Inner-mouth ridges and grooves may have mashed pulp like a mortar and pestle; this is a biomechanical inference, not a directly observed meal."
         },
         {
           "question": "Why do similarities to modern fruit-eating birds not prove that Infernogallus spread seeds?",
@@ -361,9 +361,9 @@
         },
         {
           "outlet": "Phys.org",
-          "title": "Toothless 'hell chicken' dinosaur may have eaten fruit",
+          "title": "Toothless 'hell chicken' dinosaur may have had a taste for fruit",
           "url": "https://phys.org/news/2026-10-toothless-hell-chicken-dinosaur-fruit.html",
-          "publishedAt": "2026-10-15",
+          "publishedAt": "2026-10-14",
           "role": "reporting"
         },
         {
@@ -383,7 +383,7 @@
       ],
       "image": {
         "src": "news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
-        "alt": "Original conceptual science art: Infernogallus jamesi skull mechanics point to a possible fruit-based diet",
+        "alt": "Original conceptual science art: Infernogallus jamesi jaw mechanics suggest a diet of soft, fleshy fruit",
         "credit": "O — original editorial vector illustration",
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
         "license": "CC0-1.0",

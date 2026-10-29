@@ -315,9 +315,9 @@
       "id": "infernogallus-jamesi-fruit-jaw-anatomy",
       "rank": 5,
       "category": "society",
-      "title": "Infernogallus jamesi, la biomeccanica del cranio suggerisce una dieta a base di frutta",
-      "dek": "Il fossile è stato descritto in uno studio del 10 ottobre e divulgato nuovamente il 28; la dieta resta un'inferenza anatomica.",
-      "summary": "La comunicazione del Royal Ontario Museum del 28 ottobre riporta l'attenzione su Infernogallus jamesi, un dinosauro senza denti descritto in Nature Communications il 10 ottobre. La ricostruzione del cranio e della mandibola suggerisce adattamenti a frutti relativamente duri. Non sono state osservate direttamente le abitudini alimentari dell'animale.",
+      "title": "Infernogallus jamesi, mandibola adatta a schiacciare frutti morbidi",
+      "dek": "Lo studio del 10 ottobre e la nuova cronaca del 28 descrivono un movimento avanti-indietro della mandibola, non un morso particolarmente potente.",
+      "summary": "La comunicazione del Royal Ontario Museum del 28 ottobre riporta l'attenzione su Infernogallus jamesi, un dinosauro senza denti descritto in Nature Communications il 10 ottobre. La ricostruzione del cranio e della mandibola indica adattamenti per schiacciare frutti morbidi e polposi. Non sono state osservate direttamente le abitudini alimentari dell'animale.",
       "impact": 2,
       "impactReason": "Il fossile offre indizi sull'evoluzione di strategie alimentari nei dinosauri, un contributo paleontologico circoscritto e ancora inferenziale.",
       "tags": [
@@ -327,13 +327,13 @@
       ],
       "body": [
         "Uno studio pubblicato il 10 ottobre 2026 su Nature Communications descrive Infernogallus jamesi, un teropode oviraptorosauro del Cretaceo superiore noto da resti fossili nordamericani. Phys.org ha discusso la scoperta nei giorni seguenti; VEJA e il Royal Ontario Museum l'hanno presentata nuovamente il 28 ottobre. Questa sequenza di date evita di trasformare una nuova comunicazione in un ritrovamento effettuato quel giorno.",
-        "I ricercatori hanno utilizzato ricostruzioni tridimensionali e tomografia del cranio per analizzare la forma del becco, le superfici della bocca e i possibili punti di attacco dei muscoli mandibolari. Le strutture suggeriscono capacità di esercitare forze utili a manipolare e rompere vegetali relativamente resistenti. La somiglianza funzionale con alcuni uccelli odierni permette ipotesi di dieta, non un'identità di comportamento.",
-        "Il nuovo dinosauro era privo di denti e apparteneva a una linea di animali la cui alimentazione è stata oggetto di discussione. Gli autori propongono una specializzazione frugivora rispetto a forme meno specializzate, sulla base di modelli meccanici e confronti anatomici. Non sono stati recuperati filmati, osservazioni dirette o una dieta completa; eventuali altri alimenti restano compatibili con i limiti delle prove.",
+        "I ricercatori hanno utilizzato tomografia computerizzata e ricostruzioni tridimensionali per analizzare becco, superfici della bocca e punti di attacco dei muscoli mandibolari. Secondo i modelli biomeccanici, la mandibola scorreva avanti e indietro invece di esercitare un morso verticale particolarmente potente. Le creste e i solchi all'interno della bocca avrebbero potuto schiacciare frutti morbidi come un pestello. La somiglianza con alcuni pappagalli moderni sostiene un'ipotesi funzionale, non un'identità di comportamento.",
+        "Il nuovo dinosauro era privo di denti e apparteneva a una linea di animali la cui alimentazione è stata oggetto di discussione. Gli autori propongono una specializzazione per la polpa di frutti teneri, basandosi su movimenti mandibolari ricostruiti e confronti anatomici; riferiscono inoltre l'assenza di gastroliti nel reperto studiato. Non esistono osservazioni dirette della dieta dell'animale e il modello non esclude necessariamente l'assunzione di altri alimenti.",
         "Se l'ipotesi verrà rafforzata, la ricerca potrà contribuire a ricostruire la diversità ecologica dei dinosauri poco prima dell'estinzione di fine Cretaceo. La capacità di mangiare frutti non dimostra però automaticamente che l'animale disperdesse semi efficacemente: per questo servirebbero prove ulteriori del trattamento del cibo. Modelli e fossili aggiuntivi sono la via per distinguere meglio dieta e funzione ecologica."
       ],
       "facts": [
         "Il paper su Infernogallus jamesi è datato 10 ottobre 2026 e la nuova diffusione ROM e VEJA è del 28 ottobre.",
-        "Gli autori inferiscono una possibile frugivoria da anatomia cranica, ricostruzioni tridimensionali e biomeccanica del morso."
+        "Gli autori ipotizzano una dieta a base di frutti morbidi usando tomografia, anatomia cranica e modelli del movimento avanti-indietro della mandibola."
       ],
       "perspectives": [
         "I paleontologi descrivono una specializzazione alimentare plausibile; l'interpretazione ecologica va oltre quanto osservato direttamente nei fossili."
@@ -343,8 +343,8 @@
       ],
       "questions": [
         {
-          "question": "Quali caratteristiche del cranio di Infernogallus jamesi suggeriscono l'uso di frutti?",
-          "answer": "Le superfici palatali e la conformazione del becco, insieme ai punti d'attacco muscolari ricostruiti tramite tomografia, permettono di stimare le forze mandibolari. Il risultato è compatibile con la manipolazione di frutti, soprattutto relativamente duri."
+          "question": "Quale movimento della mandibola di Infernogallus jamesi suggerisce un'alimentazione a base di frutti morbidi?",
+          "answer": "Le scansioni e le ricostruzioni muscolari suggeriscono che la mandibola potesse scorrere avanti e indietro più che chiudersi con un morso potente. Creste e solchi all'interno della bocca avrebbero schiacciato la polpa come un pestello: è un'inferenza biomeccanica, non un pasto fossile osservato."
         },
         {
           "question": "Perché l'analogia con uccelli frugivori non prova che Infernogallus disperdesse semi?",
@@ -361,9 +361,9 @@
         },
         {
           "outlet": "Phys.org",
-          "title": "Toothless 'hell chicken' dinosaur may have eaten fruit",
+          "title": "Toothless 'hell chicken' dinosaur may have had a taste for fruit",
           "url": "https://phys.org/news/2026-10-toothless-hell-chicken-dinosaur-fruit.html",
-          "publishedAt": "2026-10-15",
+          "publishedAt": "2026-10-14",
           "role": "reporting"
         },
         {
@@ -383,7 +383,7 @@
       ],
       "image": {
         "src": "news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
-        "alt": "Illustrazione scientifica concettuale originale: Infernogallus jamesi, la biomeccanica del cranio suggerisce una dieta a base di frutta",
+        "alt": "Illustrazione originale: Infernogallus jamesi, mandibola adatta a schiacciare frutti morbidi",
         "credit": "O — original editorial vector illustration",
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/infernogallus-jamesi-fruit-jaw-anatomy.svg",
         "license": "CC0-1.0",
