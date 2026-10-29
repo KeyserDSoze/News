@@ -1,0 +1,367 @@
+{
+  "date": "2026-10-29",
+  "language": "it",
+  "section": "technology",
+  "publishedAt": "2026-10-29T08:00:00+01:00",
+  "editorialNote": "Sviluppi tecnologici del 28 ottobre: fonti distinte, affermazioni aziendali attribuite e limiti espliciti; illustrazioni originali.",
+  "articles": [
+    {
+      "id": "microsoft-azure-first-dollar-disclosure-oct28",
+      "rank": 1,
+      "category": "technology",
+      "title": "Microsoft rende pubblico il fatturato trimestrale di Azure: 33,2 miliardi di dollari",
+      "dek": "Il dato del trimestre luglio–settembre cresce del 48% annuo, ma va distinto dai ricavi aggregati del cloud e dagli investimenti in AI.",
+      "summary": "Nei risultati annunciati il 28 ottobre, Microsoft ha indicato per la prima volta in dollari i ricavi trimestrali di Azure: circa 33,2 miliardi, in crescita del 48% su base annua. La nuova trasparenza facilita i confronti con i concorrenti, senza risolvere il problema di misurare costi infrastrutturali, margini e ritorni sugli investimenti in intelligenza artificiale.",
+      "impact": 2.5,
+      "impactReason": "La nuova rendicontazione migliora la comparabilità del mercato cloud, importante per investimenti e concorrenza, senza implicare un cambiamento immediato per tutti gli utenti.",
+      "tags": [
+        "Azure",
+        "Microsoft",
+        "cloud"
+      ],
+      "body": [
+        "Microsoft ha diffuso il 28 ottobre 2026 i dati del suo primo trimestre fiscale 2027, riferito a luglio–settembre 2026. Il cambiamento più significativo nella presentazione dei numeri è la comunicazione del fatturato specifico di Azure: 33,2 miliardi di dollari, il 48% in più rispetto all'anno precedente. TechCrunch e The Verge descrivono separatamente questa novità di rendicontazione.",
+        "Prima la società evidenziava soprattutto percentuali di crescita e aggregati più ampi. Azure è un servizio di infrastruttura cloud, mentre la voce Microsoft Cloud comprende anche altri prodotti aziendali. Confrontare il solo Azure con tutto il cloud di un concorrente, o confondere ricavi e utile, rischierebbe quindi di produrre graduatorie fuorvianti.",
+        "L'aumento di domanda è legato anche all'espansione dei carichi di lavoro di AI, secondo il racconto degli analisti e dell'azienda. Tuttavia l'infrastruttura richiede investimenti in data center, chip, energia e reti. Un'accelerazione dei ricavi non dimostra da sola che i nuovi impianti generino margini superiori o un ritorno immediato sul capitale.",
+        "Per valutare la sostenibilità del ciclo di investimenti saranno importanti i flussi di cassa, la capacità disponibile e la distinzione tra domanda di servizi esistenti e nuovi contratti AI. La comunicazione del 28 ottobre fornisce una base contabile più leggibile, non una verifica indipendente del valore futuro di ogni investimento."
+      ],
+      "facts": [
+        "Microsoft ha comunicato il 28 ottobre i ricavi trimestrali di Azure in dollari, pari a circa 33,2 miliardi.",
+        "Azure è cresciuto del 48% su base annua nel trimestre luglio–settembre 2026."
+      ],
+      "perspectives": [
+        "L'azienda enfatizza la domanda per il cloud e l'AI; le cronache finanziarie sottolineano il costo degli investimenti necessari a sostenerla."
+      ],
+      "unknowns": [
+        "I ricavi annunciati non permettono da soli di separare precisamente utili e ritorni dei singoli investimenti in infrastrutture AI."
+      ],
+      "questions": [
+        {
+          "question": "Perché il dato Azure da 33,2 miliardi è diverso dalla voce Microsoft Cloud?",
+          "answer": "Azure misura i ricavi di una specifica attività infrastrutturale, mentre Microsoft Cloud include un insieme più ampio di servizi e abbonamenti. Rendere esplicito il primo importo consente confronti più mirati con i rivali, purché anche il loro perimetro sia comparabile."
+        },
+        {
+          "question": "Che cosa manca per capire se la crescita del 48% di Azure remunera i nuovi data center?",
+          "answer": "La variazione dei ricavi mostra la domanda, ma non i costi di chip, costruzione, energia e manutenzione né il rendimento di ogni impianto. Occorre analizzare capex, flussi di cassa e margini nel tempo, non soltanto il tasso di crescita."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Verge",
+          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Microsoft beats quarterly cloud revenue estimates",
+          "url": "https://www.reuters.com/business/retail-consumer/microsoft-beats-quarterly-cloud-revenue-estimates-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/microsoft-azure-first-dollar-disclosure-oct28.svg",
+        "alt": "Illustrazione originale: Microsoft rende pubblico il fatturato trimestrale di Azure: 33,2 miliardi di dollari",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/microsoft-azure-first-dollar-disclosure-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica concettuale, non fotografia."
+      }
+    },
+    {
+      "id": "google-ai-mode-sponsored-ads-ten-markets-oct28",
+      "rank": 2,
+      "category": "technology",
+      "title": "Google amplia gli annunci nella ricerca AI Mode a dieci mercati e sperimenta messaggi successivi negli USA",
+      "dek": "L'estensione coincide con il rallentamento della crescita pubblicitaria di Search, che resta positiva; la società promette etichette «Sponsored».",
+      "summary": "Il 28 ottobre Google ha annunciato che gli annunci di AI Mode si estenderanno a dieci nuovi paesi, tra cui Canada, India e Australia. Negli Stati Uniti iniziano esperimenti con annunci nelle domande successive. Nello stesso giorno Alphabet ha comunicato ricavi trimestrali di 127,6 miliardi di dollari; la crescita annuale della pubblicità Search è scesa dal 17% al 12% fra i due trimestri più recenti.",
+      "impact": 2.5,
+      "impactReason": "Portare pubblicità in un'esperienza di ricerca conversazionale modifica visibilità commerciale e modalità d'uso di un servizio diffuso, con effetti ancora da misurare.",
+      "tags": [
+        "Google",
+        "AI-Mode",
+        "pubblicità"
+      ],
+      "body": [
+        "Google ha annunciato il 28 ottobre 2026 l'estensione della pubblicità nella modalità di ricerca AI Mode a dieci mercati: Australia, Canada, India, Kenya, Malaysia, Nuova Zelanda, Nigeria, Pakistan, Filippine e Singapore. Negli Stati Uniti è previsto anche un formato per le domande successive in una conversazione. TechCrunch e Search Engine Roundtable esaminano l'annuncio con un focus rispettivamente economico e sulle funzioni di ricerca.",
+        "AI Mode permette di dialogare con il motore attraverso domande articolate e follow-up. Gli annunci vengono inseriti in questa esperienza e, secondo Google, devono apparire con la dicitura «Sponsored». Il cambiamento non equivale a trasformare tutte le risposte in inserzioni: è un ampliamento del perimetro commerciale di un'interfaccia che mescola informazioni e suggerimenti.",
+        "Il lancio è stato comunicato durante i risultati di Alphabet: il gruppo ha riportato 127,6 miliardi di dollari di ricavi nel trimestre, il 25% in più su base annua. La crescita dei ricavi pubblicitari di Search è stata del 12% rispetto all'anno precedente, dopo il 17% del trimestre antecedente. Un ritmo più basso non significa che quei ricavi siano diminuiti in valore assoluto.",
+        "Google sostiene che gli utenti trovino pertinenti gli annunci nella nuova esperienza e indica tassi di clic promettenti. Questi sono dati aziendali, non una dimostrazione indipendente dell'effetto su qualità delle risposte, scelta dei consumatori o concorrenza. I paesi annunciati e le future estensioni vanno distinti dalle funzioni effettivamente disponibili per ogni utente."
+      ],
+      "facts": [
+        "Il 28 ottobre Google ha annunciato l'estensione degli annunci AI Mode a dieci paesi e i multiturn ads negli Stati Uniti.",
+        "Alphabet ha riportato 127,6 miliardi di ricavi trimestrali e una crescita annua Search del 12%."
+      ],
+      "perspectives": [
+        "Google presenta la pubblicità come pertinente alle domande conversazionali; la cronaca economica mette in relazione il lancio al rallentamento del tasso di crescita di Search."
+      ],
+      "unknowns": [
+        "Non è pubblicata una valutazione indipendente degli effetti dei nuovi annunci sulla pertinenza delle risposte e sulla scelta degli utenti."
+      ],
+      "questions": [
+        {
+          "question": "Dove compariranno i nuovi annunci di Google AI Mode e che cosa significa «multiturn»?",
+          "answer": "Gli annunci sono integrati nell'interfaccia conversazionale di AI Mode e Google dichiara che saranno etichettati «Sponsored». Negli Stati Uniti il formato multiturn può collocare messaggi sponsorizzati anche dopo le domande di approfondimento, non soltanto alla prima richiesta."
+        },
+        {
+          "question": "Perché il 12% di crescita di Google Search può essere descritto come rallentamento?",
+          "answer": "La percentuale è ancora positiva, ma è inferiore al 17% annuo registrato nel trimestre precedente. Indica quindi una crescita più lenta rispetto al confronto passato, non un calo nominale dei ricavi della ricerca."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "TechCrunch",
+          "title": "Google expands AI Search ads globally as core ad growth slows",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Search Engine Roundtable",
+          "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
+          "url": "https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Google",
+          "title": "Ads in AI Mode expand to new markets.",
+          "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/google-ai-mode-sponsored-ads-ten-markets-oct28.svg",
+        "alt": "Illustrazione originale: Google amplia gli annunci nella ricerca AI Mode a dieci mercati e sperimenta messaggi successivi negli USA",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/google-ai-mode-sponsored-ads-ten-markets-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica concettuale, non fotografia."
+      }
+    },
+    {
+      "id": "gemini-4-carbon-cybersecurity-preview-oct28",
+      "rank": 3,
+      "category": "technology",
+      "title": "Google annuncia Gemini 4 Carbon, modello AI orientato anche alla cybersicurezza",
+      "dek": "Il produttore rivendica progressi nei test di sicurezza, ma l'accesso iniziale è ristretto e i benchmark non equivalgono a prove sul campo.",
+      "summary": "Google ha presentato il 28 ottobre Gemini 4 Carbon come nuovo modello di frontiera, mettendo in evidenza attività di analisi e difesa informatica. La prima disponibilità è limitata a utenti e partner selezionati. Le prestazioni diffuse dall'azienda vanno interpretate nel contesto dei test, senza assumere affidabilità automatica in reti e sistemi reali.",
+      "impact": 2.5,
+      "impactReason": "Un nuovo modello specializzato può incidere sugli strumenti di difesa digitale, ma accesso ristretto e test controllati limitano l'impatto immediato.",
+      "tags": [
+        "Gemini",
+        "cybersicurezza",
+        "benchmark"
+      ],
+      "body": [
+        "Il 28 ottobre 2026 Google ha annunciato Gemini 4 Carbon, un nuovo modello di intelligenza artificiale presentato con particolare enfasi sulle capacità di cybersicurezza. Reuters e The Verge riportano l'annuncio e i risultati di benchmark descritti dal produttore. L'anteprima è inizialmente riservata a gruppi selezionati, e non corrisponde a un rilascio generalizzato a tutti gli utenti.",
+        "Nel settore della difesa informatica i modelli possono aiutare ad analizzare codice, individuare punti deboli e interpretare segnali di un'intrusione. Il salto fra queste attività e un intervento automatico su reti reali è notevole: un sistema può produrre falsi positivi, trascurare vulnerabilità o suggerire azioni pericolose se non supervisionato. La nuova versione si colloca in questa distinzione.",
+        "Google attribuisce a Carbon miglioramenti in prove predisposte per misurare capacità tecniche. Le classifiche e i punteggi sono riferiti a particolari benchmark, raccolte di problemi e condizioni di accesso: non misurano ogni incidente reale né garantiscono immunità contro attacchi. Alcune valutazioni sono pubblicate dall'azienda stessa; un confronto indipendente richiede metodi replicabili e scenari diversi.",
+        "Google collega il rilascio a strumenti per difensori e sviluppatori, ma le condizioni commerciali definitive e l'estensione dell'accesso devono essere verificate separatamente. La domanda di modelli capaci di analizzare minacce è concreta; per questo risultati, limiti di sicurezza e procedure di controllo umano contano quanto l'aumento della potenza dichiarata."
+      ],
+      "facts": [
+        "Gemini 4 Carbon è stato annunciato il 28 ottobre 2026 con enfasi dichiarata sulla cybersicurezza.",
+        "La disponibilità iniziale riguarda un'anteprima per utilizzatori selezionati, non un accesso universale."
+      ],
+      "perspectives": [
+        "Google descrive i benchmark come un progresso per l'analisi delle minacce; le cronache tecnologiche osservano che prestazione di laboratorio e uso reale vanno distinti."
+      ],
+      "unknowns": [
+        "Non risultano ancora valutazioni pubbliche indipendenti di affidabilità in ogni ambiente operativo né una disponibilità generale con condizioni stabili."
+      ],
+      "questions": [
+        {
+          "question": "Quali attività di cybersicurezza dovrebbe agevolare Gemini 4 Carbon?",
+          "answer": "Il modello è proposto per assistere nella comprensione di codice e vulnerabilità e nell'analisi di minacce. Queste funzioni supportano il lavoro dei difensori, ma non sostituiscono verifiche indipendenti, autorizzazioni e controllo umano sugli interventi in produzione."
+        },
+        {
+          "question": "Che cosa permettono di confrontare i benchmark pubblicati per Carbon e che cosa non misurano?",
+          "answer": "I benchmark confrontano prestazioni su compiti e dataset predefiniti nelle condizioni dichiarate. Non stabiliscono da soli tassi di errore, resistenza agli attacchi o risultati pratici su tutte le reti aziendali; servono prove esterne e monitoraggio durante l'impiego."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Verge",
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+          "url": "https://www.reuters.com/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Google",
+          "title": "Introducing Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/gemini-4-carbon-cybersecurity-preview-oct28.svg",
+        "alt": "Illustrazione originale: Google annuncia Gemini 4 Carbon, modello AI orientato anche alla cybersicurezza",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/gemini-4-carbon-cybersecurity-preview-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica concettuale, non fotografia."
+      }
+    },
+    {
+      "id": "scale-ai-outlier-gdpr-complaints-response-oct28",
+      "rank": 4,
+      "category": "technology",
+      "title": "Outlier di Scale AI, cinque reclami privacy in Europa: l'azienda respinge le accuse",
+      "dek": "noyb contesta verifiche biometriche e tracciamento dei lavoratori; la replica del 28 ottobre non chiude i procedimenti.",
+      "summary": "Il 27 ottobre noyb e organizzazioni partner hanno depositato cinque reclami riguardanti la piattaforma di addestramento AI Outlier in Francia, Italia, Paesi Bassi e Austria. Il 28 ottobre Scale AI ha respinto le contestazioni di sorveglianza illegittima. Le accuse e la difesa sono documentate, ma nessuna violazione è stata accertata dall'autorità competente.",
+      "impact": 2,
+      "impactReason": "La controversia investe la protezione dei dati nel lavoro delle piattaforme AI e potrebbe orientare pratiche diffuse, ma non esiste ancora una decisione regolatoria.",
+      "tags": [
+        "Outlier",
+        "privacy",
+        "GDPR"
+      ],
+      "body": [
+        "Le organizzazioni per la privacy guidate da noyb hanno annunciato il 27 ottobre 2026 cinque reclami contro Scale AI, società che gestisce la piattaforma per lavoratori digitali Outlier. Le denunce sono state presentate in Francia, Italia, Paesi Bassi e Austria. The Register ha seguito la presentazione dei reclami; Reuters ha raccolto il 28 ottobre la replica dell'azienda.",
+        "noyb sostiene che la piattaforma raccolga quantità sproporzionate di dati personali, imponga verifiche biometriche e sottoponga i collaboratori a forme di tracciamento invasivo. I numeri richiamati dall'organizzazione, inclusi oltre 900mila lavoratori della piattaforma, sono dati e stime delle parti e non misure indipendenti di quante persone abbiano effettivamente subito una specifica condotta.",
+        "Scale AI ha respinto le accuse di sorveglianza illegale. La posizione dell'azienda deve essere riportata insieme a quella dei reclamanti, senza interpretare la smentita come prova di correttezza né il reclamo come accertamento di violazione. Le autorità nazionali dovranno valutare basi giuridiche, trasparenza, necessità e proporzionalità dei trattamenti contestati secondo il GDPR.",
+        "Il caso riguarda il lavoro che sostiene l'addestramento dei sistemi di intelligenza artificiale: persone pagate per classificare, annotare o valutare dati e risposte. La natura digitale della prestazione non elimina i diritti di protezione dei dati. Al 28 ottobre l'elemento nuovo è la risposta pubblica di Scale AI alle denunce del giorno precedente; eventuali sanzioni restano un esito futuro."
+      ],
+      "facts": [
+        "noyb ha annunciato cinque reclami del 27 ottobre riguardanti Outlier in quattro paesi europei.",
+        "Scale AI ha respinto pubblicamente il 28 ottobre le accuse di sorveglianza illegale."
+      ],
+      "perspectives": [
+        "noyb considera i trattamenti invasivi e sproporzionati; Scale AI contesta questa ricostruzione e la qualificazione di illegalità."
+      ],
+      "unknowns": [
+        "Le autorità per la protezione dei dati non hanno ancora comunicato decisioni definitive sulle denunce descritte."
+      ],
+      "questions": [
+        {
+          "question": "Quali pratiche di Outlier sono al centro dei cinque reclami di noyb?",
+          "answer": "I reclami contestano soprattutto raccolta e monitoraggio dei dati dei lavoratori, inclusa la verifica biometrica. La questione giuridica è se ciascun trattamento abbia una base appropriata e sia necessario, trasparente e proporzionato rispetto al compito svolto."
+        },
+        {
+          "question": "Perché la replica di Scale AI del 28 ottobre non decide l'esito delle denunce GDPR?",
+          "answer": "L'azienda ha diritto a respingere le accuse e a spiegare le proprie procedure, ma sono le autorità competenti a valutarne liceità e proporzionalità. Un reclamo avvia o alimenta una verifica; né il reclamo né la smentita equivalgono a un provvedimento finale."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Scale AI rejects claims it illegally surveils AI training workers",
+          "url": "https://www.reuters.com/business/scale-ai-rejects-claims-it-illegally-surveils-ai-training-workers-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Register",
+          "title": "EU privacy advocates accuse US data annotation firm of snooping on contractors",
+          "url": "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "noyb",
+          "title": "AI training platform Outlier illegally surveils European platform workers",
+          "url": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/scale-ai-outlier-gdpr-complaints-response-oct28.svg",
+        "alt": "Illustrazione originale: Outlier di Scale AI, cinque reclami privacy in Europa: l'azienda respinge le accuse",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/scale-ai-outlier-gdpr-complaints-response-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica concettuale, non fotografia."
+      }
+    },
+    {
+      "id": "south-korea-financial-cyberattacks-oct28",
+      "rank": 5,
+      "category": "technology",
+      "title": "Corea del Sud, nuovi attacchi informatici a società finanziarie: la polizia apre un'indagine",
+      "dek": "Daishin Securities segnala dati di 38.490 clienti esposti; altre due società confermano incidenti con perimetri diversi.",
+      "summary": "Il 28 ottobre la polizia sudcoreana ha avviato una verifica preliminare su intrusioni che coinvolgono Daishin Securities, Mirae Asset Global Investments e l'exchange Bithumb. Secondo Seoul Economic Daily, Daishin ha subito l'esposizione di dati personali e creditizi di 38.490 clienti. Non è dimostrato che gli episodi abbiano lo stesso autore.",
+      "impact": 2.5,
+      "impactReason": "Esposizioni di dati in più società finanziarie possono richiedere azioni protettive di molti utenti, ma cause e portata complessiva restano in verifica.",
+      "tags": [
+        "Corea",
+        "cyberattacchi",
+        "finanza"
+      ],
+      "body": [
+        "La National Office of Investigation della polizia sudcoreana ha avviato il 28 ottobre 2026 una verifica preliminare su nuovi incidenti informatici in società finanziarie. Seoul Economic Daily e TechCrunch descrivono attacchi che interessano Daishin Securities, Mirae Asset Global Investments e la piattaforma per criptovalute Bithumb. Il caso segue altre intrusioni nel settore bancario nazionale.",
+        "Per Daishin Securities, la cronaca sudcoreana riporta l'esposizione di informazioni personali e creditizie di 38.490 clienti. Per Bithumb risultano coinvolte informazioni relative a dipendenti, mentre l'eventuale interessamento dei clienti era ancora oggetto di controllo. Mirae Asset ha indicato dati di sistemi aziendali interni senza confermare, secondo il resoconto, una fuga di informazioni creditizie personali.",
+        "La polizia sta confrontando modalità e tracce tecniche degli attacchi con quelli avvenuti in precedenza presso altre società finanziarie. L'assegnazione dei fascicoli alla stessa squadra investigativa non prova che si tratti di una singola campagna. Differenze tra sistemi coinvolti, categorie di dati e date delle intrusioni sono determinanti per ricostruire la portata di ciascun incidente.",
+        "Per gli utenti la distinzione più utile è fra compromissione di sistemi, accesso a dati e frode economica confermata: sono eventi diversi, con misure di risposta diverse. Le società dovranno chiarire il perimetro delle informazioni effettivamente sottratte e le eventuali notifiche. Al 28 ottobre non si può attribuire con certezza la serie a un autore comune né quantificare perdite finanziarie ulteriori."
+      ],
+      "facts": [
+        "Il 28 ottobre la polizia sudcoreana ha aperto un'indagine preliminare su incidenti presso Daishin, Mirae Asset e Bithumb.",
+        "Per Daishin Securities Seoul Economic Daily riporta dati di 38.490 clienti esposti."
+      ],
+      "perspectives": [
+        "Gli investigatori stanno esaminando possibili collegamenti tecnici con altre intrusioni; le società descrivono tipi di informazioni interessate differenti."
+      ],
+      "unknowns": [
+        "Non sono stabilite l'identità degli attaccanti, l'esistenza di un coordinamento comune o il perimetro finale dei dati esfiltrati in ciascuna organizzazione."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa indica il numero di 38.490 clienti nel caso Daishin Securities?",
+          "answer": "Secondo la cronaca sudcoreana, rappresenta i clienti di cui sarebbero state esposte informazioni personali e creditizie. Non significa automaticamente che tutti abbiano subito un furto di denaro o che le altre società abbiano coinvolto lo stesso numero di utenti."
+        },
+        {
+          "question": "Perché l'apertura di un'unica indagine non dimostra che gli attacchi a Daishin, Mirae e Bithumb abbiano un autore comune?",
+          "answer": "La polizia può riunire verifiche per confrontare strumenti, tempi e modalità operative. L'attribuzione a un soggetto richiede riscontri tecnici e investigativi, non soltanto la vicinanza delle date o l'appartenenza delle vittime al settore finanziario."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Seoul Economic Daily",
+          "title": "Hacking Spreads to Securities, Asset Management Firms and Crypto Exchanges, Police Open Probe",
+          "url": "https://en.sedaily.com/society/2026/10/28/hacking-spreads-to-brokerages-and-crypto-exchanges-police",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TechCrunch",
+          "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+          "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/south-korea-financial-cyberattacks-oct28.svg",
+        "alt": "Illustrazione originale: Corea del Sud, nuovi attacchi informatici a società finanziarie: la polizia apre un'indagine",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/south-korea-financial-cyberattacks-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica concettuale, non fotografia."
+      }
+    }
+  ]
+}
