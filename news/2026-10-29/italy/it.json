@@ -1,0 +1,367 @@
+{
+  "date": "2026-10-29",
+  "language": "it",
+  "section": "italy",
+  "publishedAt": "2026-10-29T08:00:00+01:00",
+  "editorialNote": "Edizione del 29 ottobre: fatti documentati del 28, cronologie, almeno due editori indipendenti; immagini illustrative originali.",
+  "articles": [
+    {
+      "id": "budget-2027-cabinet-approves-draft-oct28",
+      "rank": 1,
+      "category": "economy",
+      "impact": 2.5,
+      "title": "Manovra 2027, il Consiglio dei ministri approva un disegno di legge da circa 26 miliardi",
+      "dek": "Previsti ritocchi all'Irpef e maggiori entrate dal settore finanziario: per entrare in vigore servono ancora i voti del Parlamento.",
+      "summary": "Il governo italiano ha approvato il 28 ottobre il disegno di legge di bilancio 2027, del valore dichiarato di circa 26 miliardi di euro. La proposta amplia fino a 55mila euro la fascia interessata dall'aliquota Irpef del 33% e innalza a 100mila euro la soglia del regime forfettario per gli autonomi. Sono misure proposte, non norme già definitive.",
+      "body": [
+        "Il Consiglio dei ministri ha approvato il 28 ottobre 2026 il disegno di legge di bilancio per il 2027. Il governo ne indica il valore in circa 26 miliardi di euro. Reuters e L'Espresso descrivono entrambe una manovra che tenta di combinare interventi fiscali e coperture finanziarie, ma l'approvazione governativa rappresenta l'inizio dell'iter parlamentare, non la sua conclusione.",
+        "Per l'imposta sui redditi, il testo annunciato estende fino a 55mila euro la fascia nella quale si applica il 33%, rispetto al limite precedente di 50mila. Secondo L'Espresso il vantaggio massimo atteso dalla modifica è di circa 500 euro annui. Per gli autonomi il governo propone inoltre di alzare da 85mila a 100mila euro il tetto per accedere alla flat tax: le condizioni di accesso restano rilevanti quanto la soglia.",
+        "Una parte importante delle risorse previste dovrebbe provenire da banche, assicurazioni e imprese energetiche. Sono entrate stimate dal governo e non incassi già registrati. Le misure possono incidere diversamente su famiglie e imprese e gli effetti dipendono dai testi definitivi, dalle basi imponibili e dalle decisioni che Camera e Senato prenderanno durante l'esame.",
+        "Meloni ha presentato il provvedimento come un equilibrio tra riduzioni fiscali e vincoli di bilancio; le opposizioni hanno contestato la distribuzione dei benefici e l'uso delle coperture. Queste valutazioni politiche non cambiano lo stato giuridico del documento. La versione finale, gli eventuali emendamenti e gli effetti sui conti pubblici andranno verificati quando la legge sarà approvata e pubblicata."
+      ],
+      "facts": [
+        "Il Consiglio dei ministri ha approvato un disegno di legge di bilancio il 28 ottobre 2026, non una legge definitivamente in vigore.",
+        "La dimensione indicata dal governo è circa 26 miliardi di euro; il limite Irpef annunciato è 55mila euro."
+      ],
+      "perspectives": [
+        "Il governo propone di finanziare benefici fiscali anche attraverso nuove entrate da settori finanziari ed energetici; le opposizioni criticano le priorità distributive."
+      ],
+      "unknowns": [
+        "Il testo approvato dal Parlamento e l'effettivo gettito delle misure di copertura non sono ancora disponibili."
+      ],
+      "questions": [
+        {
+          "question": "Come inciderebbe l'estensione a 55mila euro della fascia Irpef al 33%?",
+          "answer": "La proposta applicherebbe il 33% anche alla porzione di reddito tra il precedente limite di 50mila e i nuovi 55mila euro. Il beneficio massimo indicato nella cronaca è di circa 500 euro l'anno, non uno sconto identico per tutti i contribuenti."
+        },
+        {
+          "question": "Perché i 26 miliardi della manovra non sono ancora entrate o spese già realizzate?",
+          "answer": "La cifra è il valore programmato di un disegno di legge. Prima servono l'esame parlamentare, l'approvazione definitiva e l'attuazione; inoltre le entrate attese da banche e assicurazioni sono proiezioni che possono divergere dal gettito reale."
+        }
+      ],
+      "impactReason": "Una legge di bilancio nazionale può modificare tasse e risorse pubbliche per milioni di persone, ma i dettagli sono ancora sottoposti al Parlamento.",
+      "tags": [
+        "manovra",
+        "Irpef",
+        "banche"
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/budget-2027-cabinet-approves-draft-oct28.svg",
+        "alt": "Illustrazione concettuale originale: Manovra 2027, il Consiglio dei ministri approva un disegno di legge da circa 26 miliardi",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/budget-2027-cabinet-approves-draft-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica simbolica, non fotografia dell'evento."
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Italy approves 2027 budget with tax hikes for banks and energy firms",
+          "url": "https://www.reuters.com/legal/transactional/italy-approves-2027-budget-with-tax-hikes-banks-energy-firms-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "L'Espresso",
+          "title": "Manovra, via libera del Cdm alla Legge di bilancio da 26 miliardi",
+          "url": "https://lespresso.it/c/economia/2026/10/28/manovra-legge-di-bilancio-cosa-prevede-meloni-irpef-flat-tax-bollo-targhe-opposizioni-giorgetti/65610",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "milan-siher-detention-not-validated-oct28",
+      "rank": 2,
+      "category": "society",
+      "impact": 2,
+      "title": "Milano, il giudice non convalida il fermo di Youssef Siher: disposta la scarcerazione",
+      "dek": "La decisione riguarda i presupposti della misura cautelare e non equivale a un'assoluzione; Meloni critica il provvedimento.",
+      "summary": "Il 28 ottobre il giudice per le indagini preliminari di Milano ha disposto il rilascio di Youssef Siher, fermato nell'ambito di un'indagine su messaggi collegati alle proteste. La motivazione riportata distingue la disobbedienza civile dall'incitamento alla violenza. Le accuse e le reazioni istituzionali restano separate dal giudizio sul merito.",
+      "body": [
+        "A Milano, il 28 ottobre 2026, il giudice per le indagini preliminari non ha convalidato il fermo di Youssef Siher e ne ha disposto la scarcerazione. Reuters, ANSA e Corriere della Sera riportano il provvedimento e il dibattito che ne è seguito. Il fatto processuale certo è la mancata convalida di quella misura: non un accertamento definitivo su tutta la vicenda.",
+        "Nel valutare gli elementi presentati, secondo le cronache, il giudice ha distinto i messaggi di disobbedienza civile da quelli che avrebbero incitato a comportamenti violenti. La decisione richiede una valutazione di contenuto, contesto e attribuzione delle parole contestate. Un fermo deve soddisfare specifici requisiti di legge e può non essere convalidato anche prima dell'eventuale prosecuzione di un'indagine.",
+        "La presidente del Consiglio Giorgia Meloni ha criticato pubblicamente la liberazione, mentre esponenti della magistratura hanno richiamato la separazione dei poteri e l'autonomia delle decisioni giudiziarie. Sono posizioni istituzionali differenti: nessuna dichiarazione politica può sostituire il provvedimento motivato, né il provvedimento risolve automaticamente ogni altra ipotesi investigativa.",
+        "La notizia interessa il rapporto tra tutela della sicurezza pubblica, libertà di manifestazione e garanzie processuali. La scarcerazione modifica nell'immediato la libertà personale dell'indagato, ma non cancella necessariamente gli atti dell'indagine. Ulteriori provvedimenti dovranno essere descritti secondo la loro data e natura giuridica, senza anticipare responsabilità o assoluzioni."
+      ],
+      "facts": [
+        "Il 28 ottobre il gip di Milano ha disposto la scarcerazione di Youssef Siher non convalidando il fermo.",
+        "Le cronache riferiscono che la motivazione distingue la disobbedienza civile dall'incitamento alla violenza."
+      ],
+      "perspectives": [
+        "Meloni critica il provvedimento, mentre rappresentanti della magistratura difendono l'autonomia delle valutazioni giudiziarie."
+      ],
+      "unknowns": [
+        "Non è possibile dedurre dalla mancata convalida quale sarà l'esito di un eventuale successivo procedimento sul merito."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa ha deciso precisamente il gip milanese sul fermo di Youssef Siher?",
+          "answer": "Ha negato la convalida della specifica misura di privazione della libertà e ordinato il rilascio. Non ha pronunciato una sentenza definitiva che accerti l'innocenza o la colpevolezza rispetto a ogni accusa."
+        },
+        {
+          "question": "Perché la distinzione fra disobbedienza civile e incitamento alla violenza è centrale nel caso Siher?",
+          "answer": "Per valutare se i messaggi giustificassero il fermo occorre considerarne contenuto, destinatari e attribuzione concreta. L'invito alla protesta o a violare una disposizione non coincide automaticamente, sul piano penale, con una sollecitazione alla violenza."
+        }
+      ],
+      "impactReason": "Il provvedimento ha effetti immediati sulla libertà dell'indagato e alimenta un confronto nazionale sulle garanzie processuali.",
+      "tags": [
+        "giustizia",
+        "Milano",
+        "fermo"
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/milan-siher-detention-not-validated-oct28.svg",
+        "alt": "Illustrazione concettuale originale: Milano, il giudice non convalida il fermo di Youssef Siher: disposta la scarcerazione",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/milan-siher-detention-not-validated-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica simbolica, non fotografia dell'evento."
+      },
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Meloni furious as Italian judge frees man accused of inciting violent protests",
+          "url": "https://www.reuters.com/world/meloni-furious-italian-judge-frees-man-accused-inciting-violent-protests-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "'Siher non ha incitato alla violenza ma alla disobbedienza civile'",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/il-gip-di-milano-rimette-in-liberta-youssef-siher_c3831f66-7791-4ae1-9745-5d4a8cbb9980.html",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Corriere della Sera",
+          "title": "Youssef Siher, la giudice non convalida l'arresto",
+          "url": "https://milano.corriere.it/notizie/cronaca/26_ottobre_28/youssef-siher-la-giudice-non-convalida-l-arresto-non-c-erano-gravi-indizi-per-fermarlo-ordine-di-scarcerazione-immediata-7d09dc0c-9cc2-4be7-a802-e92134a92xlk.shtml",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "cosenza-anti-mafia-41-precautionary-orders-oct28",
+      "rank": 3,
+      "category": "society",
+      "impact": 2.5,
+      "title": "Sibaritide, 41 misure cautelari in un'inchiesta antimafia: coinvolto il sindaco Stasi",
+      "dek": "Le ordinanze comprendono 24 custodie in carcere e 17 arresti domiciliari; i reati contestati sono ipotesi investigative.",
+      "summary": "I carabinieri hanno eseguito il 28 ottobre 41 misure cautelari nel Cosentino su richiesta della Direzione distrettuale antimafia di Catanzaro. Secondo Adnkronos 24 persone sono destinatarie della custodia in carcere e 17 dei domiciliari; fra queste ultime figura il sindaco di Corigliano-Rossano, Flavio Stasi. L'operazione non equivale a condanne.",
+      "body": [
+        "Il 28 ottobre 2026 il Raggruppamento operativo speciale dei carabinieri e il Comando provinciale di Cosenza hanno dato esecuzione a 41 misure cautelari nell'area della Sibaritide. I provvedimenti sono stati emessi dal giudice per le indagini preliminari di Catanzaro su richiesta della Direzione distrettuale antimafia. Adnkronos, Il Fatto Quotidiano e Fanpage ne hanno seguito gli sviluppi.",
+        "Il quadro diffuso da Adnkronos comprende 24 custodie in carcere e 17 arresti domiciliari. Tra le persone raggiunte da un provvedimento domiciliare compare Flavio Stasi, sindaco di Corigliano-Rossano. La presenza di un amministratore locale rende particolarmente rilevante l'attenzione ai rapporti ipotizzati fra organizzazioni criminali e decisioni pubbliche, ma non dimostra da sola l'esistenza di un patto illecito.",
+        "Agli indagati sono contestati, a vario titolo, reati che comprendono associazione mafiosa, estorsione, armi e ipotesi di scambio elettorale politico-mafioso. Queste qualificazioni descrivono ciò che l'accusa sostiene e ciò che il giudice ha valutato ai fini cautelari; non sono sentenze di condanna. Le posizioni individuali possono essere diverse e richiedono un esame separato.",
+        "Le misure cautelari servono a intervenire durante un procedimento quando ricorrono condizioni previste dalla legge, per esempio determinati rischi processuali; non sono pene inflitte dopo un giudizio definitivo. Per valutare l'inchiesta serviranno gli atti accessibili, le eventuali contestazioni delle difese e il percorso davanti ai giudici. Anche gli effetti sull'amministrazione comunale andranno riferiti a provvedimenti specifici."
+      ],
+      "facts": [
+        "Il 28 ottobre sono state eseguite 41 misure cautelari richieste dalla Dda di Catanzaro.",
+        "Adnkronos distingue 24 custodie in carcere e 17 arresti domiciliari, fra cui quello del sindaco Flavio Stasi."
+      ],
+      "perspectives": [
+        "La Procura sostiene ipotesi di criminalità organizzata e possibili condizionamenti elettorali; gli accertamenti non costituiscono condanne."
+      ],
+      "unknowns": [
+        "La responsabilità dei singoli indagati e gli esiti delle impugnazioni cautelari restano da determinare nei procedimenti."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa distingue le 41 misure cautelari della Sibaritide da 41 condanne?",
+          "answer": "Le misure sono adottate durante l'indagine sulla base di requisiti e gravi indizi valutati dal giudice; la responsabilità penale richiede invece un processo e una sentenza. Le 24 custodie in carcere e i 17 domiciliari descrivono il tipo di restrizione, non un esito definitivo."
+        },
+        {
+          "question": "Perché il presunto scambio elettorale contestato nell'inchiesta di Catanzaro è rilevante per l'amministrazione locale?",
+          "answer": "L'ipotesi dell'accusa riguarda un possibile collegamento tra sostegno elettorale e vantaggi per interessi criminali. Se provato, potrebbe incidere sull'autonomia delle istituzioni; la misura nei confronti del sindaco Stasi da sola non accerta quel collegamento."
+        }
+      ],
+      "impactReason": "Un'indagine su 41 persone e possibili rapporti con un governo comunale ha conseguenze giudiziarie e amministrative concrete, ancora in fase cautelare.",
+      "tags": [
+        "antimafia",
+        "Calabria",
+        "Sibaritide"
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/cosenza-anti-mafia-41-precautionary-orders-oct28.svg",
+        "alt": "Illustrazione concettuale originale: Sibaritide, 41 misure cautelari in un'inchiesta antimafia: coinvolto il sindaco Stasi",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/cosenza-anti-mafia-41-precautionary-orders-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica simbolica, non fotografia dell'evento."
+      },
+      "sources": [
+        {
+          "outlet": "Adnkronos",
+          "title": "Maxi blitz anti 'ndrangheta, 41 arresti: ai domiciliari anche un sindaco",
+          "url": "https://www.adnkronos.com/cronaca/maxi-blitz-anti-ndrangheta-arresti_61pX05GMLJDWWxJQLWl4uS",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Fatto Quotidiano",
+          "title": "'Ndrangheta, maxi operazione nella Sibaritide: coinvolto il sindaco Flavio Stasi",
+          "url": "https://www.ilfattoquotidiano.it/2026/10/28/ndrangheta-calabria-sibartide-arrestato-flavio-stasi-sindaco-corigliano-rossano/8552233/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Fanpage",
+          "title": "Maxi blitz anti 'ndrangheta nella Sibaritide, 41 arresti: ai domiciliari il sindaco",
+          "url": "https://www.fanpage.it/attualita/maxi-blitz-anti-ndrangheta-nella-sibaritide-41-arresti-ai-domiciliari-il-sindaco-di-corigliano-rossano/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "milan-chinese-dissidents-10-under-investigation-oct28",
+      "rank": 4,
+      "category": "society",
+      "impact": 2,
+      "title": "Milano, dieci indagati per presunte intimidazioni e sorveglianza di dissidenti cinesi",
+      "dek": "La Procura comunica la chiusura delle indagini: i presunti legami con apparati cinesi sono un'ipotesi accusatoria.",
+      "summary": "Il 28 ottobre è emerso un avviso di conclusione delle indagini a Milano nei confronti di dieci persone in un'inchiesta su presunte pressioni contro cittadini cinesi dissidenti. Le cronache citano anche l'attivista conosciuto come Teacher Li. La notifica dell'atto non è una decisione di colpevolezza né prova definitiva di un mandato statale estero.",
+      "body": [
+        "La Procura di Milano ha notificato la conclusione delle indagini a dieci persone in un procedimento che riguarda presunte attività di sorveglianza e intimidazione contro dissidenti cinesi. Il provvedimento è stato reso noto il 28 ottobre 2026. ANSA, Il Giorno e Il Fatto Quotidiano riferiscono l'ipotesi di una pressione esercitata anche sul territorio italiano, in particolare nell'area milanese.",
+        "Tra le persone menzionate nelle cronache come possibili obiettivi figura l'attivista noto come Teacher Li. La ricostruzione investigativa descrive azioni che, secondo l'accusa, avrebbero cercato di controllare o scoraggiare l'espressione di oppositori. Bisogna distinguere la documentazione di singole condotte dall'attribuzione di un coordinamento con autorità straniere, che richiede prove specifiche.",
+        "Un avviso di conclusione delle indagini preliminari comunica agli indagati che la fase investigativa è terminata e permette loro di conoscere gli atti e presentare difese, nei limiti previsti dalla procedura. Non significa automaticamente rinvio a giudizio e tanto meno condanna. L'eventuale valutazione delle responsabilità individuali appartiene ai successivi passaggi del procedimento.",
+        "La vicenda solleva il tema della cosiddetta repressione transnazionale: persone in esilio possono subire minacce o pressioni anche nel paese in cui vivono. Le autorità giudiziarie dovranno accertare se le condotte descritte siano avvenute, chi ne sia responsabile e quale eventuale rapporto esista con apparati esteri. Fino ad allora è improprio presentare l'ipotesi investigativa come una certezza geopolitica."
+      ],
+      "facts": [
+        "È stata resa nota il 28 ottobre la conclusione delle indagini preliminari milanesi nei confronti di dieci persone.",
+        "Le cronache indicano l'attivista Teacher Li fra le persone richiamate nel fascicolo."
+      ],
+      "perspectives": [
+        "Gli inquirenti ipotizzano intimidazioni e possibili connessioni estere; la difesa di ciascun indagato deve potersi confrontare con tali ipotesi."
+      ],
+      "unknowns": [
+        "Un eventuale mandato o coordinamento da parte delle autorità cinesi e le responsabilità individuali non sono stati accertati in giudizio."
+      ],
+      "questions": [
+        {
+          "question": "Che effetto ha l'avviso di conclusione delle indagini sui dieci indagati di Milano?",
+          "answer": "Informa gli indagati del completamento della fase investigativa e consente l'esercizio di facoltà difensive, come l'esame degli atti. Non equivale né a una richiesta già accolta di processo né a una sentenza di condanna."
+        },
+        {
+          "question": "Perché la vicenda dell'attivista Teacher Li può essere definita un'ipotesi di repressione transnazionale?",
+          "answer": "La nozione riguarda pressioni o intimidazioni contro dissidenti oltre i confini del paese d'origine. Nel procedimento milanese occorre però dimostrare concretamente le condotte e l'eventuale collegamento con apparati esteri prima di attribuire responsabilità statali."
+        }
+      ],
+      "impactReason": "La vicenda tocca la sicurezza di persone dissidenti in Italia e possibili pressioni oltre confine, ma le accuse sono ancora da giudicare.",
+      "tags": [
+        "dissidenti",
+        "Milano",
+        "spionaggio"
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/milan-chinese-dissidents-10-under-investigation-oct28.svg",
+        "alt": "Illustrazione concettuale originale: Milano, dieci indagati per presunte intimidazioni e sorveglianza di dissidenti cinesi",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/milan-chinese-dissidents-10-under-investigation-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica simbolica, non fotografia dell'evento."
+      },
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "'Spionaggio e repressione sui dissidenti cinesi a Milano', 10 indagati",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/28/spionaggio-e-repressione-sui-dissidenti-cinesi-a-milano-10-indagati_0ef2033d-9b7a-450e-815e-e6ebe7f70cf9.html",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Giorno",
+          "title": "Spionaggio e dissidenti cinesi a Milano: indagati",
+          "url": "https://www.ilgiorno.it/milano/cronaca/spionaggio-dissidenti-cinesi-indagati-limdtm5q",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Fatto Quotidiano",
+          "title": "Milano, l'indagine sulle intimidazioni ai dissidenti cinesi",
+          "url": "https://www.ilfattoquotidiano.it/2026/10/28/spionaggio-cinese-dissidenti-milano-notizie/8552523/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    },
+    {
+      "id": "usb-transport-strike-order-reactions-oct28",
+      "rank": 5,
+      "category": "society",
+      "impact": 2,
+      "title": "Sciopero trasporti del 30 ottobre, il ministero ordina il rinvio; USB annuncia disobbedienza",
+      "dek": "ATM comunica il rinvio dell'agitazione a Milano, ma le posizioni sindacali e l'effettivo servizio di venerdì restano distinti.",
+      "summary": "L'ordinanza del ministero dei Trasporti del 27 ottobre ha imposto il rinvio dell'agitazione nel settore trasporti prevista per venerdì 30. Il 28 ottobre ATM ha confermato il rinvio per Milano, mentre USB ha contestato la precettazione annunciando di voler proseguire. L'annuncio di uno sciopero non permette ancora di misurare le interruzioni effettive.",
+      "body": [
+        "Il ministero dei Trasporti ha disposto il 27 ottobre 2026 il rinvio dell'agitazione nei servizi di trasporto prevista per venerdì 30 ottobre. Il giorno seguente, secondo Open, ATM ha confermato che lo sciopero inizialmente indicato per Milano sarebbe slittato. Le cronache di Open, L'Indipendente e Wanted in Rome distinguono l'atto ministeriale dalle reazioni delle organizzazioni sindacali.",
+        "USB aveva proclamato una mobilitazione collegata a rivendicazioni su costo della vita, politiche del governo e diritti dei lavoratori. Il sindacato ha giudicato inaccettabile l'intervento del ministro Matteo Salvini e ha annunciato una possibile disobbedienza. L'ordine pubblico del ministero e la scelta di singoli lavoratori non coincidono: solo le adesioni effettive determineranno l'impatto sui servizi.",
+        "L'azione annunciata interessava diversi comparti del trasporto, compresi quelli locali e nazionali. Un provvedimento di precettazione mira a tutelare servizi essenziali e impone obblighi nei limiti di legge, ma può essere contestato sul piano sindacale e giudiziario. Per i viaggiatori contano soprattutto le comunicazioni aggiornate dei gestori delle singole linee e gli eventuali servizi garantiti.",
+        "Al 28 ottobre non si può descrivere come avvenuto uno sciopero fissato per il 30. Il dato verificato è il contrasto fra rinvio richiesto e opposizione proclamata dal sindacato; il servizio effettivamente svolto venerdì sarà osservabile soltanto successivamente. Attribuire ora un numero di corse cancellate sarebbe un'anticipazione priva di base."
+      ],
+      "facts": [
+        "L'ordinanza ministeriale di rinvio risale al 27 ottobre; ATM ha comunicato il rinvio dell'agitazione milanese il 28.",
+        "USB ha annunciato di contestare l'ordine e di voler mantenere la mobilitazione."
+      ],
+      "perspectives": [
+        "Salvini presenta l'intervento come tutela della mobilità; USB lo considera una compressione del diritto di sciopero."
+      ],
+      "unknowns": [
+        "Le adesioni effettive del 30 ottobre e il numero di corse eventualmente sospese non sono dati ancora disponibili al 28."
+      ],
+      "questions": [
+        {
+          "question": "Che differenza c'è tra precettazione e cancellazione effettiva delle corse ATM del 30 ottobre?",
+          "answer": "La precettazione è un ordine rivolto ai lavoratori o alle organizzazioni per salvaguardare determinati servizi, mentre una corsa cancellata è un fatto operativo misurabile solo quando il servizio viene svolto. ATM ha comunicato il rinvio, ma le conseguenze pratiche vanno verificate con gli avvisi dell'azienda."
+        },
+        {
+          "question": "Perché l'annuncio di disobbedienza di USB non quantifica ancora l'impatto sui passeggeri?",
+          "answer": "Una dichiarazione sindacale indica un'intenzione politica e organizzativa; non misura quanti lavoratori aderiranno, né su quali linee. Le eventuali interruzioni dipendono da scelte individuali, turni, servizi garantiti e decisioni operative dei gestori."
+        }
+      ],
+      "impactReason": "Il conflitto su una mobilitazione nazionale potrebbe incidere su molti spostamenti quotidiani, ma il suo effetto concreto non era ancora osservabile.",
+      "tags": [
+        "sciopero",
+        "trasporti",
+        "USB"
+      ],
+      "image": {
+        "src": "news/2026-10-29/assets/usb-transport-strike-order-reactions-oct28.svg",
+        "alt": "Illustrazione concettuale originale: Sciopero trasporti del 30 ottobre, il ministero ordina il rinvio; USB annuncia disobbedienza",
+        "credit": "O — original editorial vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-29/news/2026-10-29/assets/usb-transport-strike-order-reactions-oct28.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Grafica simbolica, non fotografia dell'evento."
+      },
+      "sources": [
+        {
+          "outlet": "Open",
+          "title": "Slitta lo sciopero Atm a Milano del 30 ottobre, la conferma dopo il rinvio imposto da Salvini",
+          "url": "https://www.open.online/2026/10/28/sciopero-generale-venerdi-30-ottobre-salvini-trasporti-atm-usb/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "L'Indipendente",
+          "title": "Salvini precetta lo sciopero generale del 30 ottobre",
+          "url": "https://www.lindipendente.online/2026/10/28/salvini-precetta-lo-sciopero-generale-del-30-10-con-il-pretesto-del-giorno-dei-morti/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Wanted in Rome",
+          "title": "Italy: Salvini signs order to halt Friday transport strike as unions vow to go ahead",
+          "url": "https://www.wantedinrome.com/news/italy-salvini-signs-order-to-halt-friday-transport-strike-as-unions-vow-to-go-ahead.html",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ]
+    }
+  ]
+}
