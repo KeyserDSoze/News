@@ -351,7 +351,6 @@
         "Le prospettive applicative dipendono da verifiche di stabilità e produzione ripetibile non ancora pubblicate in scala industriale."
       ],
       "unknowns": [
-        "Una seconda analisi giornalistica indipendente e approfondita non è stata sufficientemente verificata.",
         "Non sono dimostrate prestazioni affidabili in prodotti commerciali o benefici ambientali su scala industriale."
       ],
       "questions": [
@@ -385,6 +384,13 @@
           "url": "https://superpowerdaily.com/posts/link-ping-says-ai-assisted-materials-research-cuts-hazardous-chemical-and-water-use",
           "role": "reporting",
           "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "XenoSpectrum",
+          "title": "AI Finds 33 Overlooked 2D Material Candidates in Decades-Old Crystal Data",
+          "url": "https://xenospectrum.com/en/ai-rediscovered-multilayer-mxenes-science-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
         }
       ],
       "image": {
