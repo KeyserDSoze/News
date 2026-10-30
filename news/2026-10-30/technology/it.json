@@ -216,6 +216,13 @@
           "url": "https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/",
           "role": "reporting",
           "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Amazon Investor Relations",
+          "title": "Amazon.com Announces Third Quarter Results",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/",
+          "role": "official",
+          "publishedAt": "2026-10-29"
         }
       ],
       "image": {
