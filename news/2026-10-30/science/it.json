@@ -3,7 +3,7 @@
   "language": "it",
   "section": "science",
   "publishedAt": "2026-10-30T08:55:00+01:00",
-  "editorialNote": "Bozza non pubblicata: verifiche editoriali e tecniche mancanti.",
+  "editorialNote": "Edizione del 30 ottobre 2026: date di ricerca e pubblicazione originali distinte; fonti e limiti attribuiti.",
   "articles": [
     {
       "id": "seabird-jetlag-sun-compass-oct29",
@@ -249,75 +249,94 @@
       }
     },
     {
-      "id": "freshwater-biodiversity-threat-atlas-oct29",
+      "id": "lumina-cosmological-simulation-oct26",
       "rank": 4,
-      "category": "climate",
-      "title": "Biodiversità d'acqua dolce, nuova mappa di 45 pressioni su oltre 21mila specie",
-      "dek": "Lo studio su Science ricostruisce pressioni sovrapposte e variazioni geografiche; non attribuisce ogni declino a una sola causa.",
-      "summary": "Uno studio pubblicato su Science il 29 ottobre 2026 ha costruito una valutazione geografica delle minacce per 21.490 specie di acqua dolce, appartenenti ad anfibi, pesci, mammiferi, rettili e odonati. Gli autori hanno considerato 45 pressioni e prodotto mappe per combinazioni di gruppi tassonomici e minacce, utilizzando informazioni di conservazione su larga scala.",
+      "category": "technology",
+      "title": "Lumina ricostruisce due miliardi di anni del giovane universo",
+      "dek": "Il modello cosmologico pubblicato il 26 ottobre simula la nascita delle galassie e la reionizzazione di idrogeno ed elio; i risultati non sono un filmato osservato del passato.",
+      "summary": "Pubblicato il 26 ottobre su Monthly Notices of the Royal Astronomical Society e raccontato da diverse redazioni nei giorni successivi, Lumina è una simulazione dell'evoluzione cosmica nei primi due miliardi di anni dopo il Big Bang. In un volume di circa 1,6 miliardi di anni luce per lato, il modello integra materia oscura, gas, galassie e radiazione e permette di studiare i processi di reionizzazione dell'idrogeno e dell'elio. Le immagini rappresentano calcoli, non riprese telescopiche dirette dell'universo primordiale.",
       "body": [
-        "Uno studio pubblicato su Science il 29 ottobre 2026 ha costruito una valutazione geografica delle minacce per 21.490 specie di acqua dolce, appartenenti ad anfibi, pesci, mammiferi, rettili e odonati. Gli autori hanno considerato 45 pressioni e prodotto mappe per combinazioni di gruppi tassonomici e minacce, utilizzando informazioni di conservazione su larga scala.",
-        "Agricoltura, dighe e deflusso agricolo figurano fra le pressioni più diffuse; Europa e Africa nord-occidentale emergono fra le aree più esposte nelle mappe aggregate. Le intensità non sono uniformi: alcuni anfibi e insetti risentono soprattutto dell'agricoltura, mentre per gruppi di mammiferi e rettili sono rilevanti anche prelievo e caccia.",
-        "La metodologia collega presenza delle specie, minacce riconosciute e bacini idrografici per stimare la probabilità che una specie incontrata in una sottoarea sia colpita da particolari pressioni. Non si tratta di un esperimento che dimostra il rapporto causa-effetto per ogni popolazione. Le mappe offrono un indice comparabile per prioritizzare interventi, non una diagnosi definitiva di ogni lago e fiume.",
-        "Gli autori sostengono che le specie d'acqua dolce subiscano pressioni spesso più intense e spazialmente differenti rispetto a molti vertebrati terrestri. Per la pianificazione, la forza dello studio consiste nel rendere confrontabili i tipi di rischio; la verifica locale resta necessaria per scegliere fra ripristino degli habitat, gestione dei nutrienti, interventi sulle dighe o protezione da prelievi."
+        "Il 26 ottobre 2026 è stato pubblicato sulla rivista Monthly Notices of the Royal Astronomical Society lo studio che presenta Lumina, una simulazione cosmologica sviluppata da ricercatori di Harvard, Smithsonian, MIT e altri istituti. Il modello segue i processi che hanno caratterizzato i primi due miliardi di anni dell'universo, descrivendo come gas, materia oscura, stelle e radiazione abbiano interagito nella formazione delle prime strutture. ANSA ne ha dato notizia il 26 ottobre, USA Today il 27 e Live Science il 29: quest'ultimo reportage non cambia la data originale del risultato.",
+        "Lumina combina una vasta regione di spazio, con un lato di 500 megaparsec, circa 1,6 miliardi di anni luce, e una risoluzione relativamente fine. Gli autori descrivono un calcolo di radiazione e fluidodinamica che include evoluzione della materia, formazione di galassie e trasporto della luce. Non si tratta di una registrazione di ciò che avvenne realmente: è l'esito di equazioni fisiche e ipotesi numeriche, da confrontare con i dati osservativi.",
+        "Uno dei risultati centrali riguarda la reionizzazione. Dopo che l'universo si raffreddò abbastanza da formare atomi neutri, le prime stelle e galassie produssero radiazione capace di sottrarre elettroni all'idrogeno; in un'epoca successiva, la radiazione intensa dei nuclei galattici attivi contribuì a ionizzare nuovamente l'elio. Il modello segue entrambi i processi e ne descrive la distribuzione nello spazio, mentre le epoche e le intensità previste devono essere valutate contro le osservazioni.",
+        "Gli autori confrontano il modello con misure disponibili, compresi vincoli sulla profondità ottica della radiazione cosmica di fondo, e propongono Lumina come strumento per interpretare osservazioni di Webb e del futuro telescopio Roman. La concordanza con alcuni indicatori non prova che ogni galassia simulata o ogni dettaglio della storia cosmica sia esatto. Migliori osservazioni potranno confermare o mettere in difficoltà le ipotesi che alimentano la simulazione."
       ],
-      "impact": 3,
-      "impactReason": "Un quadro globale delle minacce può migliorare la pianificazione per ecosistemi cruciali per acqua, alimentazione e servizi naturali.",
+      "impact": 2.5,
+      "impactReason": "Un modello ad ampia scala confrontabile con dati osservativi amplia gli strumenti per studiare la formazione delle galassie e la storia del gas intergalattico.",
       "tags": [
-        "biodiversita",
-        "acqua-dolce",
-        "conservazione"
+        "Lumina",
+        "cosmologia",
+        "reionizzazione"
       ],
       "facts": [
-        "Uno studio pubblicato su Science il 29 ottobre 2026 ha costruito una valutazione geografica delle minacce per 21.490 specie di acqua dolce, appartenenti ad anfibi, pesci, mammiferi, rettili e odonati. Gli autori hanno considerato 45 pressioni e prodotto mappe per combinazioni di gruppi tassonomici e minacce, utilizzando informazioni di conservazione su larga scala.",
-        "Agricoltura, dighe e deflusso agricolo figurano fra le pressioni più diffuse; Europa e Africa nord-occidentale emergono fra le aree più esposte nelle mappe aggregate. Le intensità non sono uniformi: alcuni anfibi e insetti risentono soprattutto dell'agricoltura, mentre per gruppi di mammiferi e rettili sono rilevanti anche prelievo e caccia."
+        "Lo studio Lumina è stato pubblicato il 26 ottobre 2026 su Monthly Notices of the Royal Astronomical Society, non il 29.",
+        "Il volume simulato ha lato di 500 megaparsec e comprende evoluzione di gas, materia oscura e radiazione.",
+        "Il modello segue le fasi di reionizzazione dell'idrogeno e dell'elio, confrontandole con vincoli osservativi."
       ],
       "perspectives": [
-        "Gli autori propongono una base comparabile per stabilire priorità di conservazione.",
-        "Gli enti territoriali devono verificare localmente le cause prima di progettare interventi mirati."
+        "Gli autori ritengono che il grande volume e la risoluzione permettano nuovi confronti con osservazioni cosmologiche.",
+        "Le ricostruzioni divulgative di ANSA, USA Today e Live Science sottolineano il valore illustrativo del modello, che resta distinto da un'osservazione diretta."
       ],
       "unknowns": [
-        "Non è stata ottenuta una seconda verifica giornalistica originale distinta dal comunicato universitario.",
-        "Gli effetti quantitativi dei singoli interventi non sono stimati dallo studio."
+        "La precisione delle singole previsioni dipende dai modelli di formazione delle galassie e da futuri confronti osservativi.",
+        "Le prime stelle e galassie specifiche rappresentate nel video non sono oggetti direttamente fotografati."
       ],
       "questions": [
         {
-          "question": "Che cosa rappresentano le 225 mappe derivate dalle 45 minacce alla biodiversità d'acqua dolce?",
-          "answer": "La ricerca combina pressioni e gruppi di specie per descrivere dove una minaccia è più probabile per ciascun gruppo. Le mappe vengono poi integrate in un indice cumulativo utile a confrontare bacini e priorità di conservazione."
+          "question": "Come collega Lumina le prime stelle alla reionizzazione dell'idrogeno?",
+          "answer": "La simulazione calcola la produzione di radiazione ultravioletta da parte delle giovani stelle e la sua propagazione nel gas. I fotoni sufficientemente energetici rimuovono elettroni dall'idrogeno neutro e trasformano progressivamente il mezzo intergalattico; il modello ne segue tempi e distribuzione spaziale."
         },
         {
-          "question": "Perché una zona con molti rischi sovrapposti non permette di attribuire ogni perdita di specie alle dighe?",
-          "answer": "La mappa stima associazioni spaziali fra distribuzione delle specie e pressioni note. Per spiegare il declino di una popolazione specifica occorre indagare esposizioni locali, tempi e fattori concorrenti, fra cui agricoltura, inquinamento e prelievi."
+          "question": "Perché la reionizzazione dell'elio richiede sorgenti diverse da quelle dominanti per l'idrogeno?",
+          "answer": "Per togliere ulteriori elettroni all'elio servono fotoni più energetici. In Lumina la fase tardiva è guidata soprattutto dai nuclei galattici attivi, alimentati da buchi neri supermassicci, che producono radiazione più intensa rispetto alla maggior parte delle stelle giovani."
+        },
+        {
+          "question": "Che cosa può verificare il telescopio James Webb della simulazione Lumina?",
+          "answer": "Webb misura proprietà di galassie realmente osservate, come luminosità, distribuzione e stato del gas nelle epoche remote. Il confronto con popolazioni e segnali previsti dal modello può corroborare o mettere in discussione le ipotesi numeriche, senza trasformare il video simulato in una registrazione del passato."
         }
       ],
       "sources": [
         {
-          "outlet": "Science",
-          "title": "The global geography of threats to freshwater biodiversity",
-          "url": "https://doi.org/10.1126/science.aeb7910",
-          "role": "official",
-          "publishedAt": "2026-10-29"
+          "outlet": "Monthly Notices of the Royal Astronomical Society",
+          "title": "Introducing the lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization",
+          "url": "https://doi.org/10.1093/mnras/stag1469",
+          "publishedAt": "2026-10-26",
+          "role": "official"
         },
         {
-          "outlet": "Europa Press",
-          "title": "Investigadores elaboran mapas detallados de las amenazas globales a la biodiversidad de agua dulce",
-          "url": "https://www.europapress.es/ciencia/laboratorio/noticia-investigadores-elaboran-mapas-detallados-amenazas-globales-biodiversidad-agua-dulce-20261029190105.html",
-          "role": "reporting",
-          "publishedAt": "2026-10-29"
+          "outlet": "ANSA",
+          "title": "Pronta la più grande simulazione del baby universo VIDEO",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/26/pronta-la-piu-grande-simulazione-del-baby-universo-video_c4b3b6ba-97d1-4a9b-a31a-913ad31a75ec.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
         },
         {
-          "outlet": "McGill University",
-          "title": "McGill researchers produce detailed maps of global threats to freshwater biodiversity",
-          "url": "https://www.mcgill.ca/newsroom/channels/news/mcgill-researchers-produce-detailed-maps-global-threats-freshwater-biodiversity-375145",
-          "role": "official",
-          "publishedAt": "2026-10-29"
+          "outlet": "USA Today",
+          "title": "Watch 2 billion years of cosmic evolution in new universe simulation",
+          "url": "https://tech.yahoo.com/science/articles/watch-2-billion-years-cosmic-161319256.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Live Science",
+          "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
+          "url": "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "MIT News",
+          "title": "Watch the universe emerge from the dark ages, with Lumina",
+          "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+          "publishedAt": "2026-10-26",
+          "role": "official"
         }
       ],
       "image": {
-        "src": "news/2026-10-30/assets/freshwater-biodiversity-threat-atlas-oct29.svg",
-        "alt": "Illustrazione scientifica originale: Biodiversità d'acqua dolce, nuova mappa di 45 pressioni su oltre 21mila specie",
-        "credit": "O — original vector illustration © 2026 O",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/freshwater-biodiversity-threat-atlas-oct29.svg",
+        "src": "news/2026-10-30/assets/lumina-cosmological-simulation-oct26.svg",
+        "alt": "Illustrazione vettoriale originale della simulazione cosmologica Lumina, non una fotografia astronomica",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/lumina-cosmological-simulation-oct26.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
