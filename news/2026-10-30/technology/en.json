@@ -11,7 +11,7 @@
       "category": "technology",
       "title": "Mistral releases Large 4 weights publicly and targets cybersecurity use",
       "dek": "The 29 October release follows a 6 October preview; independent deployment and dual-use risks are distinct issues.",
-      "summary": "Mistral AI announced public availability of Large 4 model weights on 29 October 2026, following a preview unveiled on 6 October. The timing matters: access through an API preview is not the same as the autonomy offered by downloading model weights. Reuters describes the release as a step in the French company's open-weight strategy.",
+      "summary": "Mistral AI publicly released Large 4 model weights on 29 October after a 6 October API preview. Downloadable weights support deployment on users' own infrastructure subject to the licence. Company claims about cybersecurity performance and potential offensive uses need independent evaluation.",
       "body": [
         "Mistral AI announced public availability of Large 4 model weights on 29 October 2026, following a preview unveiled on 6 October. The timing matters: access through an API preview is not the same as the autonomy offered by downloading model weights. Reuters describes the release as a step in the French company's open-weight strategy.",
         "An open-weight model can run inference on infrastructure controlled by its users, reducing certain dependencies on remote services. This does not automatically mean training data, source code or every technical detail is public; usage and redistribution depend on the applicable licence. Organisations still need suitable compute resources and security management.",
@@ -26,8 +26,8 @@
         "cybersecurity"
       ],
       "facts": [
-        "Mistral AI announced public availability of Large 4 model weights on 29 October 2026, following a preview unveiled on 6 October. The timing matters: access through an API preview is not the same as the autonomy offered by downloading model weights. Reuters describes the release as a step in the French company's open-weight strategy.",
-        "An open-weight model can run inference on infrastructure controlled by its users, reducing certain dependencies on remote services. This does not automatically mean training data, source code or every technical detail is public; usage and redistribution depend on the applicable licence. Organisations still need suitable compute resources and security management."
+        "Large 4 was announced on 6 October through an API preview.",
+        "Mistral made the model weights publicly available on 29 October, enabling additional deployment options."
       ],
       "perspectives": [
         "Mistral argues that the model can improve cyber defence.",
@@ -85,7 +85,7 @@
       "category": "economy",
       "title": "Thrive agrees to buy ADT: $7.6bn equity value, $15.3bn including debt",
       "dek": "The $10-a-share deal is expected to close in early 2027, subject to shareholder and regulatory approvals.",
-      "summary": "On 29 October 2026, ADT and Thrive Holdings announced a definitive all-cash agreement to acquire the US home-security company. Shareholders would receive $10 a share on completion. ADT's board approved the agreement, but signing a transaction does not mean ownership has already transferred.",
+      "summary": "Thrive Holdings and ADT announced a $10-per-share takeover agreement on 29 October. The equity value is approximately $7.6bn and enterprise value including debt approximately $15.3bn. The acquisition is not yet closed and requires approvals, with completion expected in 2027.",
       "body": [
         "On 29 October 2026, ADT and Thrive Holdings announced a definitive all-cash agreement to acquire the US home-security company. Shareholders would receive $10 a share on completion. ADT's board approved the agreement, but signing a transaction does not mean ownership has already transferred.",
         "The agreement values ADT's equity at approximately $7.6 billion and its enterprise value, including debt, at approximately $15.3 billion. These represent different financial measures, not conflicting prices. The company describes the offer as a 45.6% premium to the unaffected share price on 27 October.",
@@ -100,8 +100,8 @@
         "acquisitions"
       ],
       "facts": [
-        "On 29 October 2026, ADT and Thrive Holdings announced a definitive all-cash agreement to acquire the US home-security company. Shareholders would receive $10 a share on completion. ADT's board approved the agreement, but signing a transaction does not mean ownership has already transferred.",
-        "The agreement values ADT's equity at approximately $7.6 billion and its enterprise value, including debt, at approximately $15.3 billion. These represent different financial measures, not conflicting prices. The company describes the offer as a 45.6% premium to the unaffected share price on 27 October."
+        "The 29 October ADT–Thrive agreement values shares at $10 each.",
+        "Closing is expected in the first quarter of 2027, subject to approvals and other conditions."
       ],
       "perspectives": [
         "Thrive believes long-term capital and technology can improve ADT services.",
@@ -159,7 +159,7 @@
       "category": "economy",
       "title": "Amazon's AWS revenue jumps 39% as investment spending drains cash",
       "dek": "Cloud revenue reaches $46bn, while 2026 cash capital expenditure is forecast at around $220bn.",
-      "summary": "Amazon released its third-quarter 2026 results on 29 October. Group sales reached about $201.9 billion, up 12% year on year, while AWS revenue reached $46 billion, around 39% higher than the comparable quarter. Strong cloud growth should not be confused with the performance of Amazon as a whole.",
+      "summary": "Amazon reported quarterly AWS revenue of $46bn on 29 October, up 39% year on year. The company projects approximately $220bn in cash capital spending for 2026 and reported negative trailing free cash flow. Cloud revenue growth and investment-related cash use measure different aspects of its business.",
       "body": [
         "Amazon released its third-quarter 2026 results on 29 October. Group sales reached about $201.9 billion, up 12% year on year, while AWS revenue reached $46 billion, around 39% higher than the comparable quarter. Strong cloud growth should not be confused with the performance of Amazon as a whole.",
         "Chief executive Andy Jassy repeated a longer-term ambition for AWS to become a trillion-dollar annual revenue business, but this is a management aspiration rather than a certain forecast. Amazon expects approximately $220 billion of cash capital expenditure in 2026, mostly directed towards cloud and AI infrastructure.",
@@ -174,8 +174,8 @@
         "investment"
       ],
       "facts": [
-        "Amazon released its third-quarter 2026 results on 29 October. Group sales reached about $201.9 billion, up 12% year on year, while AWS revenue reached $46 billion, around 39% higher than the comparable quarter. Strong cloud growth should not be confused with the performance of Amazon as a whole.",
-        "Chief executive Andy Jassy repeated a longer-term ambition for AWS to become a trillion-dollar annual revenue business, but this is a management aspiration rather than a certain forecast. Amazon expects approximately $220 billion of cash capital expenditure in 2026, mostly directed towards cloud and AI infrastructure."
+        "AWS revenue reached $46bn in the third quarter, roughly 39% above a year earlier.",
+        "Amazon forecasts approximately $220bn in 2026 cash capital expenditure."
       ],
       "perspectives": [
         "Jassy expects infrastructure spending to support future growth and returns.",
@@ -233,7 +233,7 @@
       "category": "technology",
       "title": "Intel reports $16.5bn third-quarter revenue, guides lower for fourth quarter",
       "dek": "Its October–December sales forecast is $15–16bn amid PC-market weakness and manufacturing constraints.",
-      "summary": "Intel announced approximately $16.5 billion in third-quarter 2026 revenue on 29 October, up 21% from a year earlier. It nevertheless forecast sales of $15–16 billion for the following quarter. A completed quarter and a forecast refer to different periods and are not contradictory.",
+      "summary": "Intel reported $16.5bn in third-quarter 2026 revenue on 29 October, up 21% annually, and forecast $15–16bn for the fourth quarter. The company cited supply constraints and a weak PC market. Historical sales and forward guidance are different types of information.",
       "body": [
         "Intel announced approximately $16.5 billion in third-quarter 2026 revenue on 29 October, up 21% from a year earlier. It nevertheless forecast sales of $15–16 billion for the following quarter. A completed quarter and a forecast refer to different periods and are not contradictory.",
         "Reuters reported management's expectation that weakness in the PC market may continue through the first half of 2027. Higher memory prices are weighing on PC sales, while some AI-related server chips are seeing relatively strong demand. The contrast makes any single measure an incomplete description of the semiconductor market.",
@@ -248,8 +248,8 @@
         "earnings"
       ],
       "facts": [
-        "Intel announced approximately $16.5 billion in third-quarter 2026 revenue on 29 October, up 21% from a year earlier. It nevertheless forecast sales of $15–16 billion for the following quarter. A completed quarter and a forecast refer to different periods and are not contradictory.",
-        "Reuters reported management's expectation that weakness in the PC market may continue through the first half of 2027. Higher memory prices are weighing on PC sales, while some AI-related server chips are seeing relatively strong demand. The contrast makes any single measure an incomplete description of the semiconductor market."
+        "Intel reported $16.5bn in third-quarter revenue, up 21% year on year.",
+        "Its official fourth-quarter guidance is $15bn–$16bn."
       ],
       "perspectives": [
         "Intel emphasises execution improvements and server CPU demand.",
@@ -307,12 +307,12 @@
       "category": "technology",
       "title": "Cisco warns that CVE-2026-76418 is being exploited against SSL VPN firewalls",
       "dek": "Affected ASA and FTD configurations can be remotely crashed; Cisco has released software fixes.",
-      "summary": "A Cisco advisory dated 28 October 2026, followed by security reporting on the 29th, describes CVE-2026-76418 in ASA and FTD firewalls. An unauthenticated remote attacker can cause an unexpected device reload and disrupt service. Cisco says it is aware of active exploitation in the wild.",
+      "summary": "Cisco's 28 October advisory warns of active exploitation of CVE-2026-76418 in ASA and FTD firewalls. Specific SSL VPN configurations with secondary authentication may let an unauthenticated remote attacker trigger a reboot. The documented impact is on availability, and Cisco recommends software updates.",
       "body": [
         "A Cisco advisory dated 28 October 2026, followed by security reporting on the 29th, describes CVE-2026-76418 in ASA and FTD firewalls. An unauthenticated remote attacker can cause an unexpected device reload and disrupt service. Cisco says it is aware of active exploitation in the wild.",
         "The flaw concerns remote-access SSL VPN when secondary authentication is configured on an affected tunnel group. Not every Cisco firewall is automatically exposed: software version, configuration and network reachability all matter. The published CVSS severity score is 8.6; that is a technical assessment of impact, not the probability that every installation will be attacked.",
         "The reported consequence is a loss of availability as reboots interrupt connections and dependent services. The advisory does not assign this flaw the ability to read confidential information or alter files. Treating a denial-of-service vulnerability as evidence of data theft would misstate the technical finding.",
-        "Cisco has issued fixed versions and says no effective workarounds are available. Administrators need to compare installed releases against the affected branches, plan updates and examine availability and logs. Reducing exposure may lower short-term risk but does not necessarily replace applying the software correction."
+        "Cisco lists fixed software releases and says no fully effective workaround is available, although it describes temporary mitigations such as disabling secondary authentication. Such a change can weaken VPN login security and requires careful assessment rather than replacing the update. Administrators should check affected configurations, release branches and service logs."
       ],
       "impact": 3,
       "impactReason": "Active exploitation against remote-access infrastructure can interrupt critical services and requires prompt remediation.",
@@ -322,8 +322,8 @@
         "security"
       ],
       "facts": [
-        "A Cisco advisory dated 28 October 2026, followed by security reporting on the 29th, describes CVE-2026-76418 in ASA and FTD firewalls. An unauthenticated remote attacker can cause an unexpected device reload and disrupt service. Cisco says it is aware of active exploitation in the wild.",
-        "The flaw concerns remote-access SSL VPN when secondary authentication is configured on an affected tunnel group. Not every Cisco firewall is automatically exposed: software version, configuration and network reachability all matter. The published CVSS severity score is 8.6; that is a technical assessment of impact, not the probability that every installation will be attacked."
+        "Cisco published its CVE-2026-76418 advisory on 28 October and reported active exploitation.",
+        "Affected configurations can suffer an unexpected reload and denial of service; the bulletin does not describe data access."
       ],
       "perspectives": [
         "Cisco has issued fixes and reports known exploitation.",
