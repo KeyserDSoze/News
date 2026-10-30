@@ -61,6 +61,13 @@
           "url": "https://www1.folha.uol.com.br/mundo/2026/10/drone-mata-13-em-estacao-de-trem-na-ucrania-kiev-faz-maior-ataque-a-russia.shtml",
           "role": "reporting",
           "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Agence France-Presse",
+          "title": "'Horrific' Russian drone strike kills 14 at Ukraine train station: Kyiv",
+          "url": "https://www.afp.com/en/horrific-russian-drone-strike-kills-14-ukraine-train-station-kyiv",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
         }
       ],
       "image": {
@@ -269,6 +276,13 @@
           "url": "https://apnews.com/article/aab99d86fccb26294711ef40407b416c",
           "role": "reporting",
           "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "Russia, Ukraine announce completion of demining of route for humanitarian mission in Oleshky",
+          "url": "https://www.aa.com.tr/en/eurasia/russia-ukraine-announce-completion-of-demining-of-route-for-humanitarian-mission-in-oleshky/4105418",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
         }
       ],
       "image": {
