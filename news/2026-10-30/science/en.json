@@ -11,7 +11,7 @@
       "category": "climate",
       "title": "Long flights give shearwaters a form of jet lag that shifts their sun compass",
       "dek": "Two decades of GPS tracks reveal errors of up to 15 degrees, usually corrected by adults; risks to juveniles remain projections.",
-      "summary": "A study published in Science on 29 October 2026 examined twenty years of GPS tracking of Manx shearwaters, seabirds that travel long distances while foraging. Science News and The Guardian describe a mismatch between the animals' internal clocks and local solar time during rapid east–west journeys, resembling some aspects of human jet lag.",
+      "summary": "A Science study published on 29 October examines twenty years of tracking data from Manx shearwaters. Rapid travel across longitudes can put their internal clock out of sync with solar time, shifting headings by around 15 degrees. Experienced adults generally correct the error; larger consequences for first-time migrants remain unmeasured projections.",
       "body": [
         "A study published in Science on 29 October 2026 examined twenty years of GPS tracking of Manx shearwaters, seabirds that travel long distances while foraging. Science News and The Guardian describe a mismatch between the animals' internal clocks and local solar time during rapid east–west journeys, resembling some aspects of human jet lag.",
         "The researchers analysed more than a thousand individuals and thousands of foraging trips. A solar compass requires not only observing the Sun's position but interpreting it against time of day. When a bird's body clock remains set to a different longitude, the calculated heading can be shifted.",
@@ -26,8 +26,8 @@
         "body-clock"
       ],
       "facts": [
-        "A study published in Science on 29 October 2026 examined twenty years of GPS tracking of Manx shearwaters, seabirds that travel long distances while foraging. Science News and The Guardian describe a mismatch between the animals' internal clocks and local solar time during rapid east–west journeys, resembling some aspects of human jet lag.",
-        "The researchers analysed more than a thousand individuals and thousands of foraging trips. A solar compass requires not only observing the Sun's position but interpreting it against time of day. When a bird's body clock remains set to a different longitude, the calculated heading can be shifted."
+        "The research published on 29 October uses GPS tracking data collected over twenty years.",
+        "Adult sun-compass errors can reach about 15 degrees, but tracked birds generally correct their paths."
       ],
       "perspectives": [
         "The study authors connect time-zone mismatch with sun-compass errors.",
@@ -92,7 +92,7 @@
       "category": "technology",
       "title": "Teghaza 001 meteorite records water–rock interactions on Mars over 4.1bn years ago",
       "dek": "The stone was recovered in the Sahara in 2022; the 29 October development is new research on its age and geological history.",
-      "summary": "A study published in Science on 29 October 2026 describes Teghaza 001, an approximately 800-gram Martian meteorite found in Mali in 2022. Its minerals place it among the oldest known Martian fragments on Earth, having formed more than 4.1 billion years ago. The scientific analysis is new; the discovery of the rock in the desert is not.",
+      "summary": "New research published on 29 October examines Teghaza 001, a Martian meteorite recovered in the Sahara in 2022, and dates part of its history to more than 4.1 billion years ago. Isotope dating and mineral evidence point to ancient water–rock interactions. The findings illuminate Mars' geology, not the existence of Martian life.",
       "body": [
         "A study published in Science on 29 October 2026 describes Teghaza 001, an approximately 800-gram Martian meteorite found in Mali in 2022. Its minerals place it among the oldest known Martian fragments on Earth, having formed more than 4.1 billion years ago. The scientific analysis is new; the discovery of the rock in the desert is not.",
         "Scientists established Martian origin through mineral chemistry and oxygen-isotope fingerprints matching other meteorites from Mars. Tiny uranium-bearing zircon crystals can preserve ancient ages through uranium decay to lead. Researchers also used in-situ rubidium-strontium dating, which studies individual mineral grains while preserving much of the rare specimen.",
@@ -107,8 +107,8 @@
         "geology"
       ],
       "facts": [
-        "A study published in Science on 29 October 2026 describes Teghaza 001, an approximately 800-gram Martian meteorite found in Mali in 2022. Its minerals place it among the oldest known Martian fragments on Earth, having formed more than 4.1 billion years ago. The scientific analysis is new; the discovery of the rock in the desert is not.",
-        "Scientists established Martian origin through mineral chemistry and oxygen-isotope fingerprints matching other meteorites from Mars. Tiny uranium-bearing zircon crystals can preserve ancient ages through uranium decay to lead. Researchers also used in-situ rubidium-strontium dating, which studies individual mineral grains while preserving much of the rare specimen."
+        "Teghaza 001 was found in Mali in 2022; its new dating study appeared on 29 October 2026.",
+        "Zircon and other mineral analyses indicate material formed over 4.1 billion years ago and interacted with water."
       ],
       "perspectives": [
         "NASA regards the meteorite as an exceptional sample of early Martian crust.",
@@ -156,6 +156,13 @@
           "url": "https://news.unm.edu/news/unm-scientists-help-uncover-4-1-billion-year-old-martian-meteorite-revealing-clues-to-planet-s-ancient-past",
           "role": "official",
           "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Science",
+          "title": "4.1-billion-year-old Martian meteorite Teghaza 001 constrains the early crust and water history of Mars",
+          "url": "https://doi.org/10.1126/science.adz5646",
+          "publishedAt": "2026-10-29",
+          "role": "official"
         }
       ],
       "image": {
@@ -173,7 +180,7 @@
       "category": "society",
       "title": "Cell atlas of 189 colorectal tumours reveals age-associated differences",
       "dek": "More than 850,000 cell nuclei show biological patterns in younger patients, without proving causes or treatments.",
-      "summary": "A Nature Medicine study published on 29 October 2026 examined 189 colorectal tumours from patients aged 29 to over 90, including 54 diagnosed before age 50. Dana-Farber and collaborators measured gene activity in more than 850,000 cell nuclei from stored tumour tissue.",
+      "summary": "A Nature Medicine study published on 29 October compares 189 colorectal tumours, including 54 from people diagnosed before age 50, and analyses over 850,000 cell nuclei. Younger patients' tumours show differences in stromal-cell composition and non-coding RNA activity. These findings are biological associations, not established causes or new treatments.",
       "body": [
         "A Nature Medicine study published on 29 October 2026 examined 189 colorectal tumours from patients aged 29 to over 90, including 54 diagnosed before age 50. Dana-Farber and collaborators measured gene activity in more than 850,000 cell nuclei from stored tumour tissue.",
         "Single-nucleus RNA sequencing helps separate cancer, immune and supporting cells within the same tumour. Researchers treated age as a continuous variable and accounted for tumour location, stage, sex and previous treatment. This approach can detect gradual biological patterns obscured by a simple under-50 versus over-50 comparison.",
@@ -188,8 +195,8 @@
         "colon"
       ],
       "facts": [
-        "A Nature Medicine study published on 29 October 2026 examined 189 colorectal tumours from patients aged 29 to over 90, including 54 diagnosed before age 50. Dana-Farber and collaborators measured gene activity in more than 850,000 cell nuclei from stored tumour tissue.",
-        "Single-nucleus RNA sequencing helps separate cancer, immune and supporting cells within the same tumour. Researchers treated age as a continuous variable and accounted for tumour location, stage, sex and previous treatment. This approach can detect gradual biological patterns obscured by a simple under-50 versus over-50 comparison."
+        "The atlas examines 189 tumours and more than 850,000 nuclei using sequencing methods.",
+        "Fifty-four samples come from people diagnosed before age 50, with molecular patterns associated with age."
       ],
       "perspectives": [
         "The researchers see age-linked molecular patterns worth testing.",
@@ -347,11 +354,11 @@
       "category": "technology",
       "title": "AI-assisted research rediscovers 33 MXene candidates and guides new synthesis",
       "dek": "The Science paper distinguishes overlooked materials, seven multilayer syntheses and eleven rare-earth compositions.",
-      "summary": "A study published in Science on 29 October 2026 combines machine-learning-assisted database mining with experiments on MXenes, two-dimensional materials based on transition-metal carbides and nitrides. The Linköping University-led group searched older materials records for compounds not previously recognised by more recent researchers as members of this family.",
+      "summary": "A Science paper published on 29 October describes database-guided research that rediscovered 33 overlooked MXene candidates. Researchers also reported rapid synthesis of multilayer materials, including seven already-known compositions and eleven new rare-earth compositions. These are laboratory findings; industrial performance and environmental advantages remain unproven.",
       "body": [
         "A study published in Science on 29 October 2026 combines machine-learning-assisted database mining with experiments on MXenes, two-dimensional materials based on transition-metal carbides and nitrides. The Linköping University-led group searched older materials records for compounds not previously recognised by more recent researchers as members of this family.",
-        "The final published abstract describes thirty-three previously synthesised but unrecognised MXene candidates. The researchers report producing seven multilayer MXenes through a self-propagating high-temperature method that can finish in minutes without sustained external heating. Fast laboratory synthesis alone does not demonstrate commercial-scale manufacturing.",
-        "The paper also reports eleven new rare-earth-based MXene compositions, with possible semiconducting and magnetic properties evaluated experimentally and through modelling. These eleven should not simply be added to the thirty-three rediscoveries: they are a different result category. Practical devices would require further work on stability, quality and reproducibility.",
+        "The final published abstract identifies thirty-three materials synthesised in earlier work but not recognised as MXene candidates. The researchers also describe preparation of eighteen multilayer compositions by a self-propagating high-temperature reaction: seven known compositions made again, plus eleven new rare-earth compositions. The reaction can finish in minutes without sustained external heating once initiated, but laboratory speed and industrial reproducibility are different properties.",
+        "The eleven new rare-earth MXenes may display interesting electronic and magnetic properties. They should be distinguished from the thirty-three substances identified retrospectively through database mining and the seven previously known compositions prepared in the experiments. These categories cannot simply be added together as entirely new discoveries. Practical devices would require further tests of stability, material quality and controlled production.",
         "An August 2026 preprint gave different counts, thirty-eight candidates and five synthesised materials, before the final published version. The 29 October date concerns the peer-reviewed Science article, not the initial release of every preliminary finding. The methodological advance is showing how existing records can direct new experiments; an algorithm's prediction is not itself physical confirmation."
       ],
       "impact": 2.5,
@@ -362,8 +369,8 @@
         "research"
       ],
       "facts": [
-        "A study published in Science on 29 October 2026 combines machine-learning-assisted database mining with experiments on MXenes, two-dimensional materials based on transition-metal carbides and nitrides. The Linköping University-led group searched older materials records for compounds not previously recognised by more recent researchers as members of this family.",
-        "The final published abstract describes thirty-three previously synthesised but unrecognised MXene candidates. The researchers report producing seven multilayer MXenes through a self-propagating high-temperature method that can finish in minutes without sustained external heating. Fast laboratory synthesis alone does not demonstrate commercial-scale manufacturing."
+        "The final study published on 29 October identifies 33 previously synthesised but unrecognised MXene candidates.",
+        "Researchers report synthesising seven known and eleven new rare-earth compositions; the final counts differ from the August preprint."
       ],
       "perspectives": [
         "The researchers stress the value of archival databases and rapid synthesis.",
@@ -374,12 +381,12 @@
       ],
       "questions": [
         {
-          "question": "How do the 33 rediscovered MXenes, seven syntheses and eleven rare-earth MXenes differ?",
-          "answer": "The 33 are candidates made previously but not recognised as belonging to the family; seven multilayer materials were synthesised with the new method; eleven are newly explored rare-earth compositions. They represent different categories of findings."
+          "question": "How do the 33 rediscovered MXene candidates relate to the 18 compositions synthesised in the study?",
+          "answer": "The 33 are candidates identified in archives of previously made materials that had not been classified as MXenes. The 18 laboratory syntheses comprise seven known compositions made again and eleven new rare-earth compositions, distinct from the 33 archival findings."
         },
         {
           "question": "Why do the final Science article's numbers differ from the August preprint?",
-          "answer": "The preprint reported 38 candidates and five syntheses, while the October abstract reports 33 and seven. Counts can change during peer review and additional experiments; the final paper is the appropriate reference for this edition."
+          "answer": "The preprint listed 38 candidates and five syntheses. The final Science paper reports 33 archival candidates and 18 experimentally produced compositions, seven previously known and eleven new. These counts refer to different versions of the research and must be dated accordingly."
         }
       ],
       "sources": [
