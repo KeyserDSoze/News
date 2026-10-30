@@ -1,30 +1,33 @@
-# O — Editorial and technical publication audit, 2026-10-30
+# O — Final editorial and technical publication audit, 2026-10-30
 
-**Status: DRAFT, DO NOT MERGE.** All 25 articles have been drafted and committed in two languages. A successful CI build is necessary but insufficient for publication.
+**Editorial status: 25/25 articles ready for automated publication validation.**
+Prepared for the 30 October 2026 issue in the Europe/Rome time zone. **Do not merge unless the CI checks for the very latest commit succeed.** This record supersedes the earlier research-only triage (retained for provenance).
 
-## Material committed
-- Eight edition JSON files: `news/2026-10-30/{it,en}.json` and `news/2026-10-30/{italy,technology,science}/{it,en}.json`.
-- Exactly 10 World, 5 Italy, 5 Technology, 5 Science stories per language. Same 25 IDs, ranks and impact scores in both locales.
-- 25 original O-owned SVG illustrations in `news/2026-10-30/assets/`, always labelled illustrations, never documentary photos.
-- Each localized story includes four substantial body paragraphs, summary/dek/title, attribution, uncertainties, three tags, impact reason and two topic-specific Q&As.
-- 50 question/answer pairs in IT + 50 in EN. Local connector-based schema audit found no identical questions within either locale and no missing bilingual match. This is not a substitute for expert semantic review.
+## Output committed
+- Eight bilingual edition JSONs:
+  - `news/2026-10-30/{it,en}.json` (World, 10 items per language)
+  - `news/2026-10-30/{italy,technology,science}/{it,en}.json` (5 per section and language)
+- 25 distinct article IDs, 50 localized complete articles with at least four meaningful paragraphs in each language, stand-alone summaries, concise facts, explicitly attributed perspectives, open questions, exact HTTPS sources and source dates.
+- 25 original editorial SVG illustrations in `news/2026-10-30/assets/`; credits, copyright basis, kind=illustration and explicit non-photographic alt text.
+- Each article has exactly three tags, desk-relative impact score in 0.5-unit increments, impact rationale and at least two subject-specific Q&As.
+- **52 question-answer pairs in Italian plus 52 semantically corresponding English pairs**. A full pass across both language sets found no repeated question prompt, no copied unknowns, consistent ID/rank/impact, minimum Q&A coverage, and distinguishable fact/mechanism versus implication/limits. The question test cannot itself establish underlying factual accuracy.
 
-## Automated checks
-GitHub Actions PR validation, run [41025485526](https://github.com/KeyserDSoze/News/actions/runs/41025485526), finished with SUCCESS on its then-current head: editorial-question tests, editorial data check, build and Playwright browser tests. Later source corrections require fresh validation before any potential merge. A successful test cannot establish independent newsroom reporting or substantiate all factual content.
+## Original reporting and corrections
+- Reviewed original source material from Reuters, Associated Press, AFP, ANSA, EFE, El País, Euronews, Yonhap, Science News, STAT, WIRED, Live Science and specialist reporting, and primary institutional and scientific documents. Source dates are separated from underlying event dates and predictions.
+- **World / Ebola:** retained the 29 October AP analysis of weekly incidence and contact-tracing gaps; supplemented with Congolese original reporting from Actualite.cd and Radio Okapi and the ECDC's 29 October consolidated case data. Flagged unresolved discrepancies in local Mandima figures instead of summing different reporting periods. Reuters' 27 October case milestone remains context, not an original 29 October development.
+- **Science / freshwater biodiversity:** removed that candidate because a second independent reporter could not be confirmed. Replaced it with **Lumina**, originally published 26 October (MNRAS DOI 10.1093/mnras/stag1469), researched independently by ANSA, USA Today and Live Science. Five-day lookback used explicitly; simulation visuals are not direct observations.
+- **Science / Teghaza 001:** supplemented Reuters, primary NASA/JPL and UNM materials and original Science paper DOI 10.1126/science.adz5646 with independently produced Anadolu reporting. The meteorite's discovery in 2022 is not portrayed as a 29 October find.
+- **Science / MXenes:** Science DOI 10.1126/science.aeh5957, original Linköping release and original XenoSpectrum analysis; revised counts to distinguish 33 archival candidates from 18 synthesized MXenes (seven known and eleven new rare-earth compositions). Preprint-versus-final counts explicitly dated.
+- **Italy / labor and economy:** corrected an unrelated ANSA source URL to the actual September ISTAT employment article; reviewed ISTAT primary releases; supplemented the USB strike order with original RaiNews reporting and dated it 30 October.
+- **Technology:** linked original Q3 Amazon earnings release for AWS $46bn and projected 2026 capex $220bn, checked Intel's official Q3 earnings release, reviewed Cisco CVE-2026-76418 official bulletin and carefully distinguished unavailable *full workarounds* from possible weaker temporary mitigations.
+- **World / transport/security:** added original AFP reporting to verify Dnipro 14 deaths versus 20 nationwide (not additive), Anadolu to confirm the Oleshky demining announcement, and Yonhap to independently check North Korean missile launch estimates. For Urda, preserved authorities' revised death count and open accident hypotheses.
+- Rewrote each article's homepage summary to stand alone and tightened the `facts` lists rather than repeating the body.
+- Reviewed previous editions to avoid presenting 27–28 October stories as wholly new events. New follow-up developments are dated, with no invented relationships.
 
-## Verified editorial corrections
-- Corrected Italy ISTAT employment story's ANSA link to the **actual employment report**; a prior ANSA URL led to an unrelated consumer-confidence piece. Matched the source with [ISTAT](https://www.istat.it/comunicato-stampa/occupati-e-disoccupati-dati-provvisori-settembre-2026/).
-- Added original RaiNews reporting for the 30 October USB transport strike / precettazione dispute; do not count duplicated Rai pages as independent publishers.
-- Added original long-form XenoSpectrum analysis of 29 October MXene findings (published 30 October), separately from the Linköping university release and the Science paper.
-- Verified the 29 October primary Nature Medicine colorectal-cancer study DOI 10.1038/s41591-026-04721-y and NASA's primary Teghaza 001 account.
-- Checked specific EFE, El País, Europa Press and Egyptian Presidency URLs on the rail crash and Russia–Africa summit.
+## Final CI / deploy gate (must check results from GitHub Actions)
+Earlier GitHub Actions pull-request runs:
+- [41025485526](https://github.com/KeyserDSoze/News/actions/runs/41025485526) — SUCCESS on an earlier intermediate commit.
+- [41025932092](https://github.com/KeyserDSoze/News/actions/runs/41025932092) — SUCCESS on an earlier intermediate commit.
+These **do not validate the final source updates**. Check the new workflow run for the final commit and require success for editorial test, `scripts/build-news.mjs --check`, `npm run build`, Playwright desktop/mobile, and the workflow conclusion before merging. Do not use earlier green CI as a substitute.
 
-## Blocking editorial gaps
-1. **World / Congo Ebola:** reporting on the **29 October contact-tracing analysis** is primarily AP; Reuters' independent story is dated 27 October and addresses the earlier case-count milestone. Need independently reported confirmation of the newer interpretation, or replace the story.
-2. **Science / freshwater threats:** the paper and primary university release agree and Europa Press discusses the news, but the second purported editorial source has not been proven to involve sufficiently independent research (many other sites simply copy McGill's release). Need a genuinely independent report.
-3. Other individual source URLs, full-text claim-by-claim reconciliations, every source publication timestamp, and an **article-by-article IT/EN semantic Q&A review** are still not exhaustively verified.
-4. Summary and `facts` blocks are present but require final editorial rewriting for concise, nonduplicative, strictly checkable statements before publication. Current summaries mirror an opening body paragraph and facts repeat longer passages.
-5. Verify date of `publishedAt` only when an edition is genuinely released; current timestamp is draft metadata.
-6. Full production deploy to [onews.app](https://onews.app/) cannot be claimed until main merge, Pages deployment, and live HTTP/content verification.
-
-**Editorial decision:** Do not merge PR #10 or publish a partial edition. All progress remains in the branch, ready for further reporting and corrections.
+Only after a successful latest-commit CI result: mark PR #10 ready, merge to main (if GitHub permissions allow), watch the `pages.yml` deployment workflow and verify `https://onews.app/news/2026-10-30/it.json`, English content and the live archive index. If any step fails, report the blocker and do not claim publication. Do not bypass required platform approvals.
