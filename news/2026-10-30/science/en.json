@@ -351,7 +351,6 @@
         "Real-world applications depend on repeatability and stability beyond initial laboratory demonstrations."
       ],
       "unknowns": [
-        "A second deep and independently reported newsroom assessment has not been sufficiently verified.",
         "Reliable performance in commercial products and industrial-scale environmental gains are unproven."
       ],
       "questions": [
@@ -385,6 +384,13 @@
           "url": "https://superpowerdaily.com/posts/link-ping-says-ai-assisted-materials-research-cuts-hazardous-chemical-and-water-use",
           "role": "reporting",
           "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "XenoSpectrum",
+          "title": "AI Finds 33 Overlooked 2D Material Candidates in Decades-Old Crystal Data",
+          "url": "https://xenospectrum.com/en/ai-rediscovered-multilayer-mxenes-science-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
         }
       ],
       "image": {
