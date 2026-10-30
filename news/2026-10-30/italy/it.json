@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-30",
+  "language": "it",
+  "section": "italy",
+  "publishedAt": "2026-10-30T08:55:00+01:00",
+  "editorialNote": "Edizione in bozza; non pubblicare fino a verifica completa delle fonti e dei test.",
+  "articles": [
+    {
+      "id": "ex-ilva-cassazione-area-caldo-oct29",
+      "rank": 1,
+      "category": "economy",
+      "title": "Ex Ilva, la Cassazione conferma lo stop all'area a caldo",
+      "dek": "Respinti i ricorsi delle società: lo spegnimento richiede ancora passaggi tecnici e decisioni dei commissari.",
+      "summary": "Il 29 ottobre 2026 sono state depositate le motivazioni con cui la Cassazione respinge i ricorsi di Acciaierie d'Italia e di Ilva in amministrazione straordinaria. Resta efficace il provvedimento dei giudici di Milano sul fermo dell'area a caldo dello stabilimento siderurgico di Taranto. Non è una semplice proposta politica e non equivale a dire che tutti gli impianti siano già spenti.",
+      "body": [
+        "Il 29 ottobre 2026 sono state depositate le motivazioni con cui la Cassazione respinge i ricorsi di Acciaierie d'Italia e di Ilva in amministrazione straordinaria. Resta efficace il provvedimento dei giudici di Milano sul fermo dell'area a caldo dello stabilimento siderurgico di Taranto. Non è una semplice proposta politica e non equivale a dire che tutti gli impianti siano già spenti.",
+        "L'area a caldo comprende gli impianti necessari a produrre acciaio attraverso le fasi ad alta temperatura. La decisione giudiziaria interviene in un contesto di controversie sanitarie e ambientali prolungate; ora i commissari devono tradurre l'obbligo in una sequenza di operazioni tecnicamente sicure. Le scadenze discusse prima del deposito della sentenza non vanno confuse con la data dell'effettiva cessazione produttiva.",
+        "Le conseguenze occupazionali sono potenzialmente ampie: Reuters ricorda circa ottomila addetti diretti. La procedura di vendita e gli investimenti per un'eventuale riconversione affrontano un quadro mutato. Un arresto degli altiforni può incidere sulla possibilità materiale di riavviarli, ma l'esito industriale dipenderà dai piani concretamente adottati e dalle verifiche tecniche.",
+        "Il governo considera il verdetto un ostacolo al salvataggio; i comitati ambientalisti che hanno promosso il contenzioso lo accolgono come tutela della salute. Queste valutazioni esprimono priorità diverse e non eliminano l'obbligo di chiarire tempi, sicurezza, lavoratori e bonifica. Alla data dell'edizione non risulta un calendario operativo definitivo dello spegnimento."
+      ],
+      "impact": 3.5,
+      "impactReason": "Una decisione giudiziaria definitiva incide sulla salute pubblica, su migliaia di posti di lavoro e su una filiera industriale nazionale.",
+      "tags": [
+        "Taranto",
+        "acciaio",
+        "ambiente"
+      ],
+      "facts": [
+        "Il 29 ottobre 2026 sono state depositate le motivazioni con cui la Cassazione respinge i ricorsi di Acciaierie d'Italia e di Ilva in amministrazione straordinaria. Resta efficace il provvedimento dei giudici di Milano sul fermo dell'area a caldo dello stabilimento siderurgico di Taranto. Non è una semplice proposta politica e non equivale a dire che tutti gli impianti siano già spenti.",
+        "L'area a caldo comprende gli impianti necessari a produrre acciaio attraverso le fasi ad alta temperatura. La decisione giudiziaria interviene in un contesto di controversie sanitarie e ambientali prolungate; ora i commissari devono tradurre l'obbligo in una sequenza di operazioni tecnicamente sicure. Le scadenze discusse prima del deposito della sentenza non vanno confuse con la data dell'effettiva cessazione produttiva."
+      ],
+      "perspectives": [
+        "Il governo sostiene che la sentenza complichi il percorso di rilancio.",
+        "I comitati ambientalisti di Taranto considerano prioritario fermare le fonti di rischio sanitario."
+      ],
+      "unknowns": [
+        "La sequenza tecnica e il giorno del fermo effettivo non sono ancora fissati.",
+        "La destinazione dell'impianto e le tutele occupazionali dipenderanno da decisioni successive."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa cambia con il deposito della sentenza sull'area a caldo di Taranto?",
+          "answer": "I ricorsi delle società sono respinti e il provvedimento milanese resta efficace. Spetta ora ai commissari definire come spegnere in sicurezza gli impianti: conferma giudiziaria e arresto materiale non avvengono nello stesso istante."
+        },
+        {
+          "question": "Perché il fermo degli altiforni complica anche la vendita dell'ex Ilva?",
+          "answer": "Un acquirente deve valutare quanto della capacità produttiva possa essere mantenuto o riconvertito, insieme ai costi ambientali e del personale. Le condizioni tecniche dello spegnimento incidono perciò sul valore e sulla fattibilità dei piani industriali."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Italy's top court upholds shutdown of former Ilva steelworks, in setback to Meloni",
+          "url": "https://www.reuters.com/world/italys-top-court-upholds-shutdown-former-ilva-steelworks-setback-meloni-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "La Cassazione rigetta tutti i ricorsi contro lo stop area a caldo dell'ex Ilva",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/la-cassazione-rigetta-tutti-i-ricorsi-contro-lo-stop-area-a-caldo-dellex-ilva_5718d63d-7b4d-4fd9-bab3-4ebb7814d248.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/ex-ilva-cassazione-area-caldo-oct29.svg",
+        "alt": "Illustrazione grafica originale sul tema Ex Ilva, la Cassazione conferma lo stop all'area a caldo; non fotografia",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/ex-ilva-cassazione-area-caldo-oct29.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "usb-transport-strike-order-oct29",
+      "rank": 2,
+      "category": "society",
+      "title": "USB conferma lo sciopero nei trasporti del 30 ottobre e contesta la precettazione",
+      "dek": "Il sindacato annuncia la mobilitazione nonostante l'ordinanza ministeriale; i disservizi effettivi non sono ancora misurabili.",
+      "summary": "Giovedì 29 ottobre 2026 USB ha confermato l'intenzione di aderire allo sciopero generale nei trasporti previsto per venerdì 30. Il sindacato ha contestato l'ordinanza di precettazione del Ministero delle Infrastrutture e dei Trasporti, dichiarando di non volerla rispettare come organizzazione e richiamando il rischio di sanzioni anche individuali.",
+      "body": [
+        "Giovedì 29 ottobre 2026 USB ha confermato l'intenzione di aderire allo sciopero generale nei trasporti previsto per venerdì 30. Il sindacato ha contestato l'ordinanza di precettazione del Ministero delle Infrastrutture e dei Trasporti, dichiarando di non volerla rispettare come organizzazione e richiamando il rischio di sanzioni anche individuali.",
+        "La precettazione è un provvedimento che impone limiti allo sciopero in presenza di condizioni previste dalla disciplina dei servizi essenziali. USB ne contesta la legittimità e sostiene che le restrizioni comprimano il diritto di protesta. È importante distinguere l'esistenza dell'ordinanza dalla valutazione giuridica che un eventuale giudice potrà darne.",
+        "La mobilitazione riguarda sia rivendicazioni salariali e condizioni di lavoro sia la protesta contro guerra e spedizioni di armi. Reuters ha riferito di iniziative annunciate anche da lavoratori portuali in diversi paesi. Le iniziative internazionali non implicano però che ogni porto italiano si fermerà né consentono di anticipare percentuali di adesione.",
+        "Alla data della ricerca il 30 ottobre non era ancora trascorso. Gli avvisi delle aziende, le fasce garantite e i servizi effettivamente disponibili sono informazioni operative che possono cambiare durante la giornata. Questa notizia registra una decisione sindacale del 29, non un bilancio dei disagi o l'esito di un contenzioso sulla precettazione."
+      ],
+      "impact": 2,
+      "impactReason": "Il contrasto su sciopero e precettazione può interessare il sistema nazionale dei trasporti, ma l'impatto operativo è ancora da osservare.",
+      "tags": [
+        "sciopero",
+        "trasporti",
+        "USB"
+      ],
+      "facts": [
+        "Giovedì 29 ottobre 2026 USB ha confermato l'intenzione di aderire allo sciopero generale nei trasporti previsto per venerdì 30. Il sindacato ha contestato l'ordinanza di precettazione del Ministero delle Infrastrutture e dei Trasporti, dichiarando di non volerla rispettare come organizzazione e richiamando il rischio di sanzioni anche individuali.",
+        "La precettazione è un provvedimento che impone limiti allo sciopero in presenza di condizioni previste dalla disciplina dei servizi essenziali. USB ne contesta la legittimità e sostiene che le restrizioni comprimano il diritto di protesta. È importante distinguere l'esistenza dell'ordinanza dalla valutazione giuridica che un eventuale giudice potrà darne."
+      ],
+      "perspectives": [
+        "USB definisce illegittima la precettazione e annuncia ricorsi e mobilitazione.",
+        "L'ordinanza ministeriale rivendica l'applicazione della disciplina dei servizi pubblici essenziali."
+      ],
+      "unknowns": [
+        "Manca una seconda ricostruzione giornalistica indipendente dedicata al contenuto preciso dell'ordinanza.",
+        "Adesioni, ritardi e cancellazioni del 30 ottobre non erano accertati al momento della ricerca."
+      ],
+      "questions": [
+        {
+          "question": "Che effetto ha l'ordinanza del MIT sullo sciopero USB dei trasporti?",
+          "answer": "La precettazione impone obblighi nei servizi interessati e può esporre i destinatari a sanzioni in caso di inosservanza. USB ha annunciato che contesterà il provvedimento e manterrà la mobilitazione; le due posizioni hanno conseguenze giuridiche distinte."
+        },
+        {
+          "question": "Perché la conferma dello sciopero non permette di stimare i treni o gli autobus cancellati?",
+          "answer": "Un annuncio sindacale non misura quanti lavoratori aderiranno né quali prestazioni saranno garantite. Per valutare i disservizi servono dati operativi delle aziende raccolti durante la giornata del 30 ottobre."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "USB Trasporti",
+          "title": "Confermato lo sciopero generale dei Trasporti del 30 ottobre",
+          "url": "https://pubblicoimpiego.usb.it/leggi-notizia/confermato-lo-sciopero-generale-dei-trasporti-del-30-ottobre-stop-alla-disinformazione-delle-aziende-e-tutela-dei-diritti-dei-lavoratori-1206.html",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Dockworkers in more than 100 ports to strike against arms shipments Friday",
+          "url": "https://www.reuters.com/business/world-at-work/dockworkers-more-than-100-ports-strike-against-arms-shipments-friday-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/usb-transport-strike-order-oct29.svg",
+        "alt": "Illustrazione grafica originale sul tema USB conferma lo sciopero nei trasporti del 30 ottobre e contesta la precettazione; non fotografia",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/usb-transport-strike-order-oct29.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "istat-confidence-oct29",
+      "rank": 3,
+      "category": "economy",
+      "title": "Istat, a ottobre peggiora la fiducia dei consumatori ma migliora quella delle imprese",
+      "dek": "L'indice delle famiglie passa da 91,2 a 90,3; quello delle aziende da 95,9 a 96,6.",
+      "summary": "Istat ha pubblicato il 29 ottobre 2026 i risultati delle indagini sulla fiducia riferite allo stesso mese. L'indice composito dei consumatori scende da 91,2 di settembre a 90,3, mentre quello delle imprese sale da 95,9 a 96,6. Le due direzioni descrivono gruppi e domande diverse, non una contraddizione nei dati.",
+      "body": [
+        "Istat ha pubblicato il 29 ottobre 2026 i risultati delle indagini sulla fiducia riferite allo stesso mese. L'indice composito dei consumatori scende da 91,2 di settembre a 90,3, mentre quello delle imprese sale da 95,9 a 96,6. Le due direzioni descrivono gruppi e domande diverse, non una contraddizione nei dati.",
+        "Il calo delle famiglie è concentrato nelle valutazioni economiche generali e sulla situazione corrente: il clima economico passa da 88,0 a 82,9 e quello corrente da 90,4 a 88,7. Il clima personale invece sale a 93,0 e la componente futura resta a 92,3. Una media sintetica può quindi diminuire anche quando alcune sue componenti migliorano.",
+        "Tra le imprese crescono soprattutto i servizi di mercato, da 97,1 a 99,6, e le costruzioni, da 97,5 a 97,8. Il commercio al dettaglio arretra da 104,3 a 100,7 e la manifattura resta a 91,9. Istat segnala inoltre nella manifattura aspettative sugli ordini e sulla produzione in miglioramento insieme a scorte percepite in accumulo.",
+        "Gli indici derivano da risposte a indagini congiunturali, non da una misurazione diretta del reddito, dei consumi o degli investimenti. Possono aiutare a interpretare comportamenti futuri, ma non li determinano automaticamente. La pubblicazione di ottobre offre un segnale differenziato, che va confrontato con indicatori reali dei mesi successivi."
+      ],
+      "impact": 2,
+      "impactReason": "Le aspettative di famiglie e aziende aiutano a leggere il ciclo economico, senza provare un cambiamento immediato della produzione.",
+      "tags": [
+        "Istat",
+        "fiducia",
+        "economia"
+      ],
+      "facts": [
+        "Istat ha pubblicato il 29 ottobre 2026 i risultati delle indagini sulla fiducia riferite allo stesso mese. L'indice composito dei consumatori scende da 91,2 di settembre a 90,3, mentre quello delle imprese sale da 95,9 a 96,6. Le due direzioni descrivono gruppi e domande diverse, non una contraddizione nei dati.",
+        "Il calo delle famiglie è concentrato nelle valutazioni economiche generali e sulla situazione corrente: il clima economico passa da 88,0 a 82,9 e quello corrente da 90,4 a 88,7. Il clima personale invece sale a 93,0 e la componente futura resta a 92,3. Una media sintetica può quindi diminuire anche quando alcune sue componenti migliorano."
+      ],
+      "perspectives": [
+        "Istat evidenzia la divaricazione tra giudizi familiari e imprese.",
+        "Radiocor segnala l'aumento dell'incertezza e delle attese di prezzo in alcuni settori."
+      ],
+      "unknowns": [
+        "Le indagini non stabiliscono quanto le aspettative influenzeranno consumi e investimenti nei mesi successivi."
+      ],
+      "questions": [
+        {
+          "question": "Perché il 90,3 di fiducia dei consumatori non significa un calo del 9,7% dei consumi?",
+          "answer": "90,3 è il livello di un indicatore statistico sintetico, non una percentuale di spesa. La sua discesa rispetto a 91,2 descrive valutazioni raccolte da Istat, non variazioni già avvenute negli acquisti."
+        },
+        {
+          "question": "Quali settori spiegano l'aumento dell'indice delle imprese a 96,6?",
+          "answer": "L'indagine registra progressi nei servizi di mercato e nelle costruzioni, mentre commercio al dettaglio arretra e manifattura resta stabile. Il totale riassume quindi andamenti settoriali differenti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ISTAT",
+          "title": "Fiducia dei consumatori e delle imprese – Ottobre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/fiducia-dei-consumatori-e-delle-imprese-ottobre-2026/",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Istat: fiducia consumatori cala a 90,3, imprese aumenta a 96,6 a ottobre",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/istat-fiducia-consumatori-cala-a-903-imprese-aumenta-a-966-a-ottobre-rco-nRC_29102026_1216_422897705.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, fiducia consumatori a ottobre scende a 90,3, sale per imprese",
+          "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/29/istat-fiducia-consumatori-a-ottobre-scende-a-903-sale-per-imprese_7bbebd82-8f69-424d-92c7-9f8236dc353a.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/istat-confidence-oct29.svg",
+        "alt": "Illustrazione grafica originale sul tema Istat, a ottobre peggiora la fiducia dei consumatori ma migliora quella delle imprese; non fotografia",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/istat-confidence-oct29.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "istat-jobs-september-release-oct29",
+      "rank": 4,
+      "category": "economy",
+      "title": "Istat, occupazione quasi stabile a settembre: -7mila sul mese, +198mila sull'anno",
+      "dek": "Gli occupati sono 24,328 milioni; disoccupazione ferma al 6,3%.",
+      "summary": "La rilevazione Istat diffusa il 29 ottobre riguarda settembre 2026 e segnala 24 milioni e 328mila occupati. Rispetto ad agosto gli occupati sono circa settemila in meno, una variazione mensile piccola; rispetto a settembre 2025 sono invece 198mila in più. Il mese osservato e la data di pubblicazione non vanno confusi.",
+      "body": [
+        "La rilevazione Istat diffusa il 29 ottobre riguarda settembre 2026 e segnala 24 milioni e 328mila occupati. Rispetto ad agosto gli occupati sono circa settemila in meno, una variazione mensile piccola; rispetto a settembre 2025 sono invece 198mila in più. Il mese osservato e la data di pubblicazione non vanno confusi.",
+        "Il tasso di occupazione della popolazione fra 15 e 64 anni resta al 63,0% e il tasso di disoccupazione al 6,3%. Le persone in cerca di lavoro aumentano di circa quattromila rispetto ad agosto e arrivano a 1,620 milioni. Piccole variazioni delle quantità possono convivere con tassi arrotondati invariati.",
+        "I dati indicano cambiamenti differenti secondo le tipologie contrattuali: nel confronto mensile diminuiscono i dipendenti permanenti e aumentano quelli a termine. Questo dettaglio è utile perché la stabilità del totale non significa necessariamente stabilità della composizione. Le variazioni sono stime statistiche, non un censimento amministrativo di ogni assunzione.",
+        "Il confronto annuale descrive la differenza fra due mesi distanti dodici mesi, quello congiunturale fra due mesi consecutivi. Entrambi possono essere corretti contemporaneamente. Il dato di settembre invita quindi a evitare sia la lettura di crollo del lavoro sia quella di crescita mensile sostenuta: per valutare una tendenza servono più osservazioni."
+      ],
+      "impact": 2.5,
+      "impactReason": "La dinamica occupazionale e la qualità dei contratti incidono sul reddito e sulla politica economica nazionale.",
+      "tags": [
+        "occupazione",
+        "Istat",
+        "contratti"
+      ],
+      "facts": [
+        "La rilevazione Istat diffusa il 29 ottobre riguarda settembre 2026 e segnala 24 milioni e 328mila occupati. Rispetto ad agosto gli occupati sono circa settemila in meno, una variazione mensile piccola; rispetto a settembre 2025 sono invece 198mila in più. Il mese osservato e la data di pubblicazione non vanno confusi.",
+        "Il tasso di occupazione della popolazione fra 15 e 64 anni resta al 63,0% e il tasso di disoccupazione al 6,3%. Le persone in cerca di lavoro aumentano di circa quattromila rispetto ad agosto e arrivano a 1,620 milioni. Piccole variazioni delle quantità possono convivere con tassi arrotondati invariati."
+      ],
+      "perspectives": [
+        "Istat presenta il risultato mensile come sostanzialmente stabile.",
+        "Le cronache economiche mettono in evidenza il rallentamento e i mutamenti nella composizione dell'occupazione."
+      ],
+      "unknowns": [
+        "Le prime stime potranno essere riviste e non predicono da sole l'andamento dell'ultimo trimestre."
+      ],
+      "questions": [
+        {
+          "question": "Come possono coesistere -7mila occupati sul mese e +198mila sull'anno?",
+          "answer": "Le variazioni partono da basi diverse: settembre 2026 rispetto ad agosto 2026 per la prima e rispetto a settembre 2025 per la seconda. Un livello superiore a un anno fa può comunque scendere leggermente nell'ultimo mese."
+        },
+        {
+          "question": "Perché il tasso di disoccupazione resta al 6,3% se i disoccupati aumentano?",
+          "answer": "Il tasso è un rapporto arrotondato fra persone in cerca di lavoro e forza lavoro. Un aumento stimato di quattromila disoccupati può non essere abbastanza grande da modificare la prima cifra decimale pubblicata."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ISTAT",
+          "title": "Occupati e disoccupati – Settembre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/occupati-e-disoccupati-dati-provvisori-settembre-2026/",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, a settembre -7mila occupati sul mese, +198mila sull'anno",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/istat-a-settembre-7mila-occupati-sul-mese-198mila-sullanno_32e07297-ddad-4256-b855-f44db84cfdb3.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "La Stampa",
+          "title": "Lavoro, a settembre frena l'occupazione, aumenta chi cerca posto",
+          "url": "https://www.lastampa.it/economia/2026/10/29/news/lavoro_settembre_frena_occupazione_aumenta_chi_cerca_posto_istat-15781480/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/istat-jobs-september-release-oct29.svg",
+        "alt": "Illustrazione grafica originale sul tema Istat, occupazione quasi stabile a settembre: -7mila sul mese, +198mila sull'anno; non fotografia",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/istat-jobs-september-release-oct29.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "novara-anas-investigation-oct29",
+      "rank": 5,
+      "category": "society",
+      "title": "Appalti stradali a Novara, quattro persone ai domiciliari nell'inchiesta Anas",
+      "dek": "Tre funzionari e un architetto indagati per presunta corruzione; nessuna condanna.",
+      "summary": "Il 29 ottobre i carabinieri di Novara hanno eseguito misure cautelari nei confronti di tre dipendenti della struttura territoriale Anas e di un architetto. Il giudice ha disposto gli arresti domiciliari; per i dipendenti è stata prevista anche la sospensione dalle funzioni pubbliche, mentre il professionista è temporaneamente interdetto da alcune attività.",
+      "body": [
+        "Il 29 ottobre i carabinieri di Novara hanno eseguito misure cautelari nei confronti di tre dipendenti della struttura territoriale Anas e di un architetto. Il giudice ha disposto gli arresti domiciliari; per i dipendenti è stata prevista anche la sospensione dalle funzioni pubbliche, mentre il professionista è temporaneamente interdetto da alcune attività.",
+        "La procura ipotizza che procedure amministrative relative a collegamenti stradali e poli logistici siano state favorite in cambio di denaro, arredi e dispositivi tecnologici. Il valore complessivo delle utilità contestate è stimato intorno a 97mila euro. È una ricostruzione accusatoria, non un accertamento definitivo di colpevolezza.",
+        "Le opere citate dalle cronache comprendono interventi nell'area di Novara, fra cui il Centro Interportuale Merci e il Borgo di Agognate, gli svincoli di Cameri e la statale 11 a Trecate. RaiNews precisa che Anas come società non è indagata; non è corretto estendere automaticamente l'ipotesi di reato a tutte le infrastrutture o i dipendenti.",
+        "L'indagine, avviata nel 2022, ha utilizzato documenti e dispositivi sequestrati e ricostruzioni investigative. Misura cautelare, sospensione amministrativa e processo penale perseguono finalità differenti: nessuna di esse costituisce già una sentenza di condanna. La successiva verifica delle accuse avverrà nelle sedi giudiziarie competenti."
+      ],
+      "impact": 1.5,
+      "impactReason": "Le accuse coinvolgono amministrazioni e appalti locali importanti, ma il perimetro accertato resta circoscritto e non vi sono condanne.",
+      "tags": [
+        "Novara",
+        "appalti",
+        "Anas"
+      ],
+      "facts": [
+        "Il 29 ottobre i carabinieri di Novara hanno eseguito misure cautelari nei confronti di tre dipendenti della struttura territoriale Anas e di un architetto. Il giudice ha disposto gli arresti domiciliari; per i dipendenti è stata prevista anche la sospensione dalle funzioni pubbliche, mentre il professionista è temporaneamente interdetto da alcune attività.",
+        "La procura ipotizza che procedure amministrative relative a collegamenti stradali e poli logistici siano state favorite in cambio di denaro, arredi e dispositivi tecnologici. Il valore complessivo delle utilità contestate è stimato intorno a 97mila euro. È una ricostruzione accusatoria, non un accertamento definitivo di colpevolezza."
+      ],
+      "perspectives": [
+        "La procura sostiene l'esistenza di un sistema di favori legato ai procedimenti autorizzativi.",
+        "RaiNews specifica che la società Anas non è indagata."
+      ],
+      "unknowns": [
+        "Le accuse non sono ancora state giudicate nel merito.",
+        "L'esatta responsabilità individuale e il destino delle procedure amministrative restano da accertare."
+      ],
+      "questions": [
+        {
+          "question": "Quali opere compaiono nella ricostruzione della procura di Novara?",
+          "answer": "Fra i procedimenti indicati figurano collegamenti per poli logistici e commerciali a Novara, svincoli a Cameri e interventi sulla statale 11 a Trecate. L'ipotesi riguarda accelerazioni e favori amministrativi, non la prova che ogni opera sia irregolare."
+        },
+        {
+          "question": "Che differenza c'è tra domiciliari, sospensione Anas e condanna per corruzione?",
+          "answer": "I domiciliari sono una misura cautelare disposta durante l'indagine; la sospensione allontana temporaneamente dalle funzioni. Una condanna richiede invece l'accertamento giudiziario della responsabilità con le garanzie del processo."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Corruzione per appalti, arrestati tre dipendenti Anas e un architetto",
+          "url": "https://www.ansa.it/piemonte/notizie/2026/10/29/corruzione-per-appalti-arrestati-tre-dipendenti-anas-e-un-architetto_d2c3c9aa-8775-43d7-a4f6-185e9cd8ad1b.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews Piemonte",
+          "title": "Appalti, tre funzionari Anas a Novara ai domiciliari",
+          "url": "https://www.rainews.it/tgr/piemonte/video/2026/10/appalti-tre-funzionari-anas-arrestati-a-novara-ae3b5898-4774-4327-8e5c-70f3ec873643.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "La Stampa",
+          "title": "Corruzione per appalti-lampo a Novara, arrestati tre dipendenti Anas e un architetto",
+          "url": "https://www.lastampa.it/novara/2026/10/29/news/corruzione_appalti_novara_arresti_arrestati_domiciliari_dipendenti_anas_architetto_milano-15781607/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/novara-anas-investigation-oct29.svg",
+        "alt": "Illustrazione grafica originale sul tema Appalti stradali a Novara, quattro persone ai domiciliari nell'inchiesta Anas; non fotografia",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/novara-anas-investigation-oct29.svg",
+        "license": "© 2026 O — original illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
