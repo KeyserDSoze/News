@@ -407,7 +407,7 @@
         {
           "outlet": "Reuters",
           "title": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says",
-          "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-around-10-ballistic-missiles-toward-sea-off-east-coast-seoul-says-2026-10-29/",
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-projectile-toward-sea-off-east-coast-south-korea-military-says-2026-10-29/",
           "role": "reporting",
           "publishedAt": "2026-10-29"
         },
@@ -417,6 +417,13 @@
           "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-urges-absolute-superiority-drone-technology-weapons-exhibition-2026-10-29/",
           "role": "reporting",
           "publishedAt": "2026-10-30"
+        },
+        {
+          "outlet": "Yonhap News Agency",
+          "title": "N. Korea fires nearly dozen ballistic missiles after S. Korea's dialogue offer",
+          "url": "https://en.yna.co.kr/view/AEN20261019003553315",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
         }
       ],
       "image": {
