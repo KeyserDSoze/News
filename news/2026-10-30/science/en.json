@@ -3,7 +3,7 @@
   "language": "en",
   "section": "science",
   "publishedAt": "2026-10-30T08:55:00+01:00",
-  "editorialNote": "Unpublished draft: editorial and technical checks outstanding.",
+  "editorialNote": "30 October 2026 issue: original research and reporting dates distinguished; sources and limitations attributed.",
   "articles": [
     {
       "id": "seabird-jetlag-sun-compass-oct29",
@@ -249,75 +249,94 @@
       }
     },
     {
-      "id": "freshwater-biodiversity-threat-atlas-oct29",
+      "id": "lumina-cosmological-simulation-oct26",
       "rank": 4,
-      "category": "climate",
-      "title": "Global study maps 45 threats to more than 21,000 freshwater species",
-      "dek": "The Science analysis identifies overlapping pressures and regional differences without assigning every decline to a single cause.",
-      "summary": "A study published in Science on 29 October 2026 produced a geographic assessment of threats to 21,490 freshwater species, including amphibians, fish, mammals, reptiles and dragonflies or damselflies. Researchers examined 45 pressures and built maps combining species groups with threats, using large-scale conservation datasets.",
+      "category": "technology",
+      "title": "Lumina simulates the young universe's first two billion years",
+      "dek": "Published on 26 October, the cosmological model follows galaxy formation and hydrogen and helium reionization; its images are simulations, not recordings of the past.",
+      "summary": "Published on 26 October in Monthly Notices of the Royal Astronomical Society and covered by independent newsrooms over the following days, Lumina models the first two billion years of cosmic evolution. Across a region roughly 1.6 billion light-years on a side, it incorporates dark matter, gas, galaxies and radiation to explore hydrogen and helium reionization. Its visualizations are computational results, not direct telescope footage of the early universe.",
       "body": [
-        "A study published in Science on 29 October 2026 produced a geographic assessment of threats to 21,490 freshwater species, including amphibians, fish, mammals, reptiles and dragonflies or damselflies. Researchers examined 45 pressures and built maps combining species groups with threats, using large-scale conservation datasets.",
-        "Farming, dams and agricultural runoff feature among major pressures; Europe and northwestern Africa emerge as heavily affected in the aggregated maps. Exposure varies by group: some amphibians and insects are especially sensitive to agricultural activities, while hunting and harvesting are important for certain mammals and reptiles.",
-        "The method links species ranges, known threats and river basins to estimate the probability that a species in a sub-basin faces a particular pressure. It is not an experiment proving cause and effect for every population. The maps provide a comparable index for deciding where interventions may be needed, not a definitive diagnosis of every river or lake.",
-        "The authors conclude that freshwater species often face more intense and differently distributed pressures than terrestrial vertebrates. The value for conservation planning is the ability to compare risk types. Local assessments remain necessary to choose among habitat restoration, nutrient management, dam modification or restrictions on exploitation."
+        "A paper introducing Lumina, a cosmological simulation developed by researchers at Harvard, the Smithsonian, MIT and other institutions, appeared in Monthly Notices of the Royal Astronomical Society on 26 October 2026. The model follows processes shaping the universe's first two billion years, calculating how gas, dark matter, stars and radiation interacted as the first large-scale structures emerged. ANSA reported the work on 26 October, USA Today on the 27th and Live Science on the 29th; the last report does not change the original publication date.",
+        "Lumina combines an enormous simulated region, 500 megaparsecs or about 1.6 billion light-years on each side, with relatively fine spatial detail. Its radiation-hydrodynamics calculations include matter evolution, galaxy formation and the transport of light. This is not a recording of actual events: it is the output of physical equations and numerical assumptions that must be compared with observations.",
+        "A central feature is reionization. After the young universe cooled enough for neutral atoms to form, the first stars and galaxies emitted radiation energetic enough to remove electrons from hydrogen. Later, intense radiation from active galactic nuclei helped strip additional electrons from helium. Lumina follows both transitions and their spatial structure, while its predicted timing and strength remain subject to observational testing.",
+        "The authors compare their results with existing measurements, including constraints on the optical depth of the cosmic microwave background, and present Lumina as a tool for interpreting Webb and future Roman telescope observations. Agreement with some measurements does not demonstrate that every simulated galaxy or detail of cosmic history is accurate. More observations may support or challenge the underlying assumptions."
       ],
-      "impact": 3,
-      "impactReason": "A global threat atlas could improve conservation decisions for ecosystems that sustain water, food and important natural services.",
+      "impact": 2.5,
+      "impactReason": "A large simulation that can be tested against observations expands the tools available for studying galaxy formation and the intergalactic medium.",
       "tags": [
-        "biodiversity",
-        "freshwater",
-        "conservation"
+        "Lumina",
+        "cosmology",
+        "reionization"
       ],
       "facts": [
-        "A study published in Science on 29 October 2026 produced a geographic assessment of threats to 21,490 freshwater species, including amphibians, fish, mammals, reptiles and dragonflies or damselflies. Researchers examined 45 pressures and built maps combining species groups with threats, using large-scale conservation datasets.",
-        "Farming, dams and agricultural runoff feature among major pressures; Europe and northwestern Africa emerge as heavily affected in the aggregated maps. Exposure varies by group: some amphibians and insects are especially sensitive to agricultural activities, while hunting and harvesting are important for certain mammals and reptiles."
+        "The Lumina study was published in Monthly Notices of the Royal Astronomical Society on 26 October 2026, not 29 October.",
+        "It simulates a 500-megaparsec-wide region with gas, dark matter and radiation evolution.",
+        "The model jointly follows hydrogen and helium reionization and compares results with observational constraints."
       ],
       "perspectives": [
-        "The authors propose comparable evidence to guide freshwater conservation priorities.",
-        "Local conservation authorities still need field evidence before selecting specific interventions."
+        "Its authors argue that the combination of large simulated volume and resolution enables new comparisons with cosmic observations.",
+        "Independent coverage by ANSA, USA Today and Live Science emphasizes the model's visual power, which remains distinct from direct observation."
       ],
       "unknowns": [
-        "A second independently reported journalistic examination distinct from the institutional release has not been secured.",
-        "The maps do not quantify the effectiveness of individual future interventions."
+        "The accuracy of individual predictions depends on galaxy-formation assumptions and further observational comparison.",
+        "The individual early galaxies shown in the visualization are simulated objects, not directly photographed ones."
       ],
       "questions": [
         {
-          "question": "What do the 225 maps generated from the freshwater threat categories represent?",
-          "answer": "The researchers combine threat types with different species groups to estimate where each pressure is likely to matter. These layers feed a cumulative index that helps compare river basins and potential conservation priorities."
+          "question": "How does Lumina link the first stars to hydrogen reionization?",
+          "answer": "It calculates ultraviolet radiation from young stars and how that radiation travels through gas. Sufficiently energetic photons strip electrons from neutral hydrogen, gradually changing the intergalactic medium; the simulation tracks when and where that occurs."
         },
         {
-          "question": "Why can an area with overlapping pressures not attribute every species decline to dams alone?",
-          "answer": "The maps estimate spatial associations between species and known pressures. Explaining a particular population decline requires local evidence about timing and competing factors such as agriculture, pollution and harvesting."
+          "question": "Why does helium reionization require different sources from those driving hydrogen reionization?",
+          "answer": "Removing additional electrons from helium demands higher-energy photons. In Lumina the later transition is driven mainly by active galactic nuclei powered by supermassive black holes, which emit harder radiation than most young stars."
+        },
+        {
+          "question": "What could the James Webb Space Telescope test about Lumina?",
+          "answer": "Webb measures real distant galaxies, including their light, distribution and surrounding gas. Comparing such observations with predicted populations and signals can support or challenge the model's numerical assumptions; it cannot turn the simulation into footage of cosmic history."
         }
       ],
       "sources": [
         {
-          "outlet": "Science",
-          "title": "The global geography of threats to freshwater biodiversity",
-          "url": "https://doi.org/10.1126/science.aeb7910",
-          "role": "official",
-          "publishedAt": "2026-10-29"
+          "outlet": "Monthly Notices of the Royal Astronomical Society",
+          "title": "Introducing the lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization",
+          "url": "https://doi.org/10.1093/mnras/stag1469",
+          "publishedAt": "2026-10-26",
+          "role": "official"
         },
         {
-          "outlet": "Europa Press",
-          "title": "Investigadores elaboran mapas detallados de las amenazas globales a la biodiversidad de agua dulce",
-          "url": "https://www.europapress.es/ciencia/laboratorio/noticia-investigadores-elaboran-mapas-detallados-amenazas-globales-biodiversidad-agua-dulce-20261029190105.html",
-          "role": "reporting",
-          "publishedAt": "2026-10-29"
+          "outlet": "ANSA",
+          "title": "Pronta la più grande simulazione del baby universo VIDEO",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/26/pronta-la-piu-grande-simulazione-del-baby-universo-video_c4b3b6ba-97d1-4a9b-a31a-913ad31a75ec.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
         },
         {
-          "outlet": "McGill University",
-          "title": "McGill researchers produce detailed maps of global threats to freshwater biodiversity",
-          "url": "https://www.mcgill.ca/newsroom/channels/news/mcgill-researchers-produce-detailed-maps-global-threats-freshwater-biodiversity-375145",
-          "role": "official",
-          "publishedAt": "2026-10-29"
+          "outlet": "USA Today",
+          "title": "Watch 2 billion years of cosmic evolution in new universe simulation",
+          "url": "https://tech.yahoo.com/science/articles/watch-2-billion-years-cosmic-161319256.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Live Science",
+          "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
+          "url": "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "MIT News",
+          "title": "Watch the universe emerge from the dark ages, with Lumina",
+          "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+          "publishedAt": "2026-10-26",
+          "role": "official"
         }
       ],
       "image": {
-        "src": "news/2026-10-30/assets/freshwater-biodiversity-threat-atlas-oct29.svg",
-        "alt": "Original scientific illustration: Global study maps 45 threats to more than 21,000 freshwater species",
-        "credit": "O — original vector illustration © 2026 O",
-        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/freshwater-biodiversity-threat-atlas-oct29.svg",
+        "src": "news/2026-10-30/assets/lumina-cosmological-simulation-oct26.svg",
+        "alt": "Original conceptual vector illustration of the Lumina cosmological simulation, not a telescope photograph",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/lumina-cosmological-simulation-oct26.svg",
         "license": "© 2026 O — original editorial illustration; all rights reserved",
         "kind": "illustration"
       }
