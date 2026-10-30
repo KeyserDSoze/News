@@ -1,0 +1,709 @@
+{
+  "date": "2026-10-30",
+  "section": "world",
+  "status": "DRAFT",
+  "articles": {
+    "it": [
+      {
+        "id": "dnipro-rail-platform-drone-strike-oct29",
+        "rank": 1,
+        "category": "world",
+        "title": "Dnipro, 14 morti nell'attacco alla banchina ferroviaria secondo le autorità ucraine",
+        "dek": "Il bilancio aggiornato della stazione va distinto dalle vittime di altri bombardamenti del 29 ottobre.",
+        "summary": "Giovedì 29 ottobre 2026 un attacco con drone ha colpito una banchina ferroviaria affollata a Dnipro, in Ucraina, dove era in partenza un treno suburbano. Reuters riporta un bilancio aggiornato di quattordici morti nella stazione, sulla base delle autorità ucraine. Le prime comunicazioni parlavano di tredici: la differenza riflette un aggiornamento, non due eventi distinti.",
+        "body": [
+          "Giovedì 29 ottobre 2026 un attacco con drone ha colpito una banchina ferroviaria affollata a Dnipro, in Ucraina, dove era in partenza un treno suburbano. Reuters riporta un bilancio aggiornato di quattordici morti nella stazione, sulla base delle autorità ucraine. Le prime comunicazioni parlavano di tredici: la differenza riflette un aggiornamento, non due eventi distinti.",
+          "L'ondata di attacchi della giornata ha provocato altre vittime in diverse città. Reuters ha riportato almeno venti morti a livello nazionale, comprendendo Dnipro, Chernihiv, Kremenchuk e un successivo attacco notturno a Kyiv. Sommare le cifre della singola stazione al totale nazionale significherebbe contare due volte le stesse persone.",
+          "L'attacco ha interessato anche un dormitorio e ha contribuito a interruzioni elettriche, secondo i resoconti. L'impiego di droni rapidi e missili in diverse aree rende più complessa la protezione delle infrastrutture civili e dei collegamenti ferroviari. La presenza di civili in un luogo colpito è documentata, mentre la ricostruzione delle intenzioni del comando responsabile richiede prove distinte.",
+          "Le autorità ucraine accusano la Russia di colpire deliberatamente civili; Mosca nega di scegliere i civili come obiettivi. Le due dichiarazioni non sono equivalenti a un accertamento indipendente sulle intenzioni di questo singolo attacco. Il quadro umanitario va valutato attraverso luogo, orario, vittime e successive indagini, evitando di trasformare un bilancio provvisorio in cifra definitiva."
+        ],
+        "impact": 3,
+        "impactReason": "Vittime civili e danni ai trasporti confermano l'intensità della guerra e le ricadute sul sistema umanitario ucraino.",
+        "tags": [
+          "Dnipro",
+          "Ucraina",
+          "civili"
+        ],
+        "facts": [
+          "Giovedì 29 ottobre 2026 un attacco con drone ha colpito una banchina ferroviaria affollata a Dnipro, in Ucraina, dove era in partenza un treno suburbano. Reuters riporta un bilancio aggiornato di quattordici morti nella stazione, sulla base delle autorità ucraine. Le prime comunicazioni parlavano di tredici: la differenza riflette un aggiornamento, non due eventi distinti.",
+          "L'ondata di attacchi della giornata ha provocato altre vittime in diverse città. Reuters ha riportato almeno venti morti a livello nazionale, comprendendo Dnipro, Chernihiv, Kremenchuk e un successivo attacco notturno a Kyiv. Sommare le cifre della singola stazione al totale nazionale significherebbe contare due volte le stesse persone."
+        ],
+        "perspectives": [
+          "Le autorità ucraine imputano l'attacco alle forze russe e denunciano la morte di civili.",
+          "Mosca afferma in generale di non prendere di mira deliberatamente i civili."
+        ],
+        "unknowns": [
+          "L'attribuzione tecnica dettagliata del drone e la catena di comando non sono accertate indipendentemente.",
+          "I bilanci potrebbero essere aggiornati dalle autorità competenti."
+        ],
+        "questions": [
+          {
+            "question": "Perché il bilancio di quattordici vittime a Dnipro non si somma alle venti vittime nazionali?",
+            "answer": "Il totale nazionale riferito da Reuters comprende già i morti della banchina di Dnipro, oltre alle persone uccise in altre località il 29 ottobre. Sommare i due conteggi produrrebbe un doppio conteggio."
+          },
+          {
+            "question": "Che cosa rende particolarmente grave un attacco a una banchina ferroviaria affollata?",
+            "answer": "Una piattaforma di partenza concentra viaggiatori senza protezioni adeguate contro esplosioni e frammenti. Il danno può inoltre compromettere un collegamento essenziale e l'accesso ai servizi, oltre alle vittime immediate."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Reuters",
+            "title": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks",
+            "url": "https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Folha de S.Paulo",
+            "title": "Drone mata em estação de trem na Ucrânia",
+            "url": "https://www1.folha.uol.com.br/mundo/2026/10/drone-mata-13-em-estacao-de-trem-na-ucrania-kiev-faz-maior-ataque-a-russia.shtml",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/dnipro-rail-platform-drone-strike-oct29.svg",
+          "alt": "Grafica illustrativa originale: Dnipro, 14 morti nell'attacco alla banchina ferroviaria secondo le autorità ucraine, non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/dnipro-rail-platform-drone-strike-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "contship-jet-bulgaria-sinking-oct29",
+        "rank": 2,
+        "category": "world",
+        "title": "Mar Nero, affonda la Contship Jet dopo un attacco con droni navali",
+        "dek": "Diciotto marinai salvati al largo della Bulgaria; i controlli iniziali non rilevano inquinamento, ma il carico richiede sorveglianza.",
+        "summary": "La portacontainer Contship Jet, battente bandiera liberiana e gestita da una società greca, è affondata il 29 ottobre 2026 al largo della Bulgaria. Era stata colpita il giorno precedente da tre droni marittimi, a circa ventuno miglia nautiche dalla costa. Associated Press e Reuters distinguono correttamente l'attacco del 28 dalla conferma dell'affondamento del 29.",
+        "body": [
+          "La portacontainer Contship Jet, battente bandiera liberiana e gestita da una società greca, è affondata il 29 ottobre 2026 al largo della Bulgaria. Era stata colpita il giorno precedente da tre droni marittimi, a circa ventuno miglia nautiche dalla costa. Associated Press e Reuters distinguono correttamente l'attacco del 28 dalla conferma dell'affondamento del 29.",
+          "Le autorità bulgare hanno soccorso tutti i diciotto membri dell'equipaggio, quattordici filippini e quattro ucraini, e li hanno trasferiti a Varna per controlli sanitari. La nave viaggiava da Haifa, in Israele, a Costanza, in Romania. Il salvataggio completo dell'equipaggio non elimina i rischi materiali derivanti dalla perdita dello scafo e del carico.",
+          "Secondo AP, erano trasportati materiali pericolosi, fra cui batterie agli ioni di litio e sostanze infiammabili. Le prime ricognizioni della marina bulgara non hanno rilevato segni di inquinamento; questo significa soltanto che non ne sono stati osservati durante quei controlli. Batteria, combustibile e contenitori sommersi richiedono valutazioni ambientali ulteriori.",
+          "L'attacco è avvenuto in una zona economica esclusiva, che non coincide con le acque territoriali sovrane dello Stato costiero. Bulgaria, Romania e Turchia hanno discusso coordinamento e condivisione delle informazioni sulla sicurezza marittima. La responsabilità dell'attacco resta non dimostrata: il sospetto attribuito da alcuni a Mosca non costituisce una prova."
+        ],
+        "impact": 2.5,
+        "impactReason": "L'affondamento di una nave commerciale e la presenza di carichi pericolosi rendono più vulnerabile una rotta marittima internazionale.",
+        "tags": [
+          "Mar-Nero",
+          "shipping",
+          "droni"
+        ],
+        "facts": [
+          "La portacontainer Contship Jet, battente bandiera liberiana e gestita da una società greca, è affondata il 29 ottobre 2026 al largo della Bulgaria. Era stata colpita il giorno precedente da tre droni marittimi, a circa ventuno miglia nautiche dalla costa. Associated Press e Reuters distinguono correttamente l'attacco del 28 dalla conferma dell'affondamento del 29.",
+          "Le autorità bulgare hanno soccorso tutti i diciotto membri dell'equipaggio, quattordici filippini e quattro ucraini, e li hanno trasferiti a Varna per controlli sanitari. La nave viaggiava da Haifa, in Israele, a Costanza, in Romania. Il salvataggio completo dell'equipaggio non elimina i rischi materiali derivanti dalla perdita dello scafo e del carico."
+        ],
+        "perspectives": [
+          "Bulgaria, Romania e Turchia sostengono un coordinamento di allerta e intelligence.",
+          "Le autorità bulgare non hanno presentato una prova conclusiva sull'autore dell'attacco."
+        ],
+        "unknowns": [
+          "Non è stato dimostrato chi abbia controllato i droni marittimi.",
+          "Non sono ancora noti gli effetti ambientali nel medio termine né il piano di recupero del carico."
+        ],
+        "questions": [
+          {
+            "question": "Perché colpire una nave nella zona economica esclusiva bulgara non equivale a colpirla in acque territoriali?",
+            "answer": "La zona economica esclusiva conferisce soprattutto diritti su risorse e attività economiche, mentre le acque territoriali ricadono sotto una sovranità più ampia. Entrambe le aree hanno implicazioni di sicurezza, ma basi giuridiche diverse."
+          },
+          {
+            "question": "Che cosa comporta il carico di batterie al litio della Contship Jet per il monitoraggio del relitto?",
+            "answer": "Materiali e combustibili possono creare pericoli chimici o d'incendio anche dopo l'affondamento. Un sopralluogo senza tracce visibili di inquinamento è incoraggiante ma non sostituisce controlli ripetuti di acqua e carico."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Associated Press",
+            "title": "Ship sinks off Bulgaria's Black Sea coast after being hit by drones",
+            "url": "https://apnews.com/article/2bfd978d36fbb958781cf2721cabcf5c",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Reuters",
+            "title": "Greek container ship sinks after drone attack off Bulgaria",
+            "url": "https://www.reuters.com/world/europe/greek-container-ship-sinks-after-drone-attack-off-bulgaria-2026-10-29/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/contship-jet-bulgaria-sinking-oct29.svg",
+          "alt": "Grafica illustrativa originale: Mar Nero, affonda la Contship Jet dopo un attacco con droni navali, non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/contship-jet-bulgaria-sinking-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "israel-election-full-count-oct29",
+        "rank": 3,
+        "category": "politics",
+        "title": "Israele, scrutinio completato: nessun blocco raggiunge la maggioranza",
+        "dek": "53 seggi al blocco Netanyahu, 48 a Eisenkot, 19 ai partiti arabi; certificazione attesa il 4 novembre.",
+        "summary": "Il conteggio dei voti delle elezioni israeliane del 27 ottobre si è concluso il 29 con un Parlamento privo di maggioranza già pronta. ANSA e Times of Israel riportano 53 seggi al blocco di Benjamin Netanyahu, 48 a quello di Gadi Eisenkot e 19 alle due formazioni a guida araba. La Knesset conta 120 deputati e la soglia di maggioranza è 61.",
+        "body": [
+          "Il conteggio dei voti delle elezioni israeliane del 27 ottobre si è concluso il 29 con un Parlamento privo di maggioranza già pronta. ANSA e Times of Israel riportano 53 seggi al blocco di Benjamin Netanyahu, 48 a quello di Gadi Eisenkot e 19 alle due formazioni a guida araba. La Knesset conta 120 deputati e la soglia di maggioranza è 61.",
+          "Il dato segna un aggiornamento sostanziale rispetto agli exit poll della notte elettorale: le proiezioni televisive avevano indicato un quadro in parte diverso e non rappresentavano voti certificati. Il conteggio include anche le schede a doppia busta, utilizzate da categorie che votano lontano dal seggio ordinario. Il risultato amministrativamente definitivo è previsto per il 4 novembre.",
+          "Il Likud di Netanyahu conta 27 seggi e Yashar di Eisenkot 21. I diciannove deputati dei partiti arabi rendono aritmeticamente possibili combinazioni che superano 61, ma l'aritmetica non crea accordi politici. Diversi partner di Eisenkot hanno espresso contrarietà a un'intesa di governo con tali formazioni, complicando la negoziazione.",
+          "Il presidente Isaac Herzog dovrà ricevere i risultati e consultare le forze parlamentari per individuare un candidato con possibilità concrete di formare un governo. Netanyahu rivendica la guida del blocco più grande, Eisenkot promette di cercare una maggioranza alternativa. Non è ancora possibile dedurre dalla somma dei seggi quale dei due guiderà l'esecutivo."
+        ],
+        "impact": 3.5,
+        "impactReason": "L'assenza di una maggioranza dopo il conteggio influisce sulla stabilità politica di un paese centrale per gli equilibri mediorientali.",
+        "tags": [
+          "Israele",
+          "Knesset",
+          "coalizioni"
+        ],
+        "facts": [
+          "Il conteggio dei voti delle elezioni israeliane del 27 ottobre si è concluso il 29 con un Parlamento privo di maggioranza già pronta. ANSA e Times of Israel riportano 53 seggi al blocco di Benjamin Netanyahu, 48 a quello di Gadi Eisenkot e 19 alle due formazioni a guida araba. La Knesset conta 120 deputati e la soglia di maggioranza è 61.",
+          "Il dato segna un aggiornamento sostanziale rispetto agli exit poll della notte elettorale: le proiezioni televisive avevano indicato un quadro in parte diverso e non rappresentavano voti certificati. Il conteggio include anche le schede a doppia busta, utilizzate da categorie che votano lontano dal seggio ordinario. Il risultato amministrativamente definitivo è previsto per il 4 novembre."
+        ],
+        "perspectives": [
+          "Netanyahu si richiama al primato del Likud e del proprio blocco.",
+          "Eisenkot sostiene di poter cercare una maggioranza alternativa, ostacolata dai veti su possibili alleanze."
+        ],
+        "unknowns": [
+          "Il conteggio deve ancora completare l'iter di certificazione del 4 novembre.",
+          "Non esiste un'intesa di governo concordata."
+        ],
+        "questions": [
+          {
+            "question": "Perché i 53 seggi di Netanyahu non bastano per formare il nuovo governo israeliano?",
+            "answer": "La maggioranza in una Knesset di 120 membri richiede almeno 61 seggi. Il blocco Netanyahu ne ha 53, quindi dovrebbe ottenere il sostegno di almeno altri otto deputati tramite accordi politici."
+          },
+          {
+            "question": "In che modo i diciannove seggi dei partiti arabi possono incidere sul mandato di Herzog?",
+            "answer": "Potrebbero rendere numericamente possibile una maggioranza diversa da quella di Netanyahu, ma solo se altre forze accettassero di collaborare. Herzog deve valutare le raccomandazioni e la praticabilità degli accordi, non assegnare automaticamente l'incarico al blocco più numeroso."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "ANSA",
+            "title": "In Israele scrutinio completato, al blocco Netanyahu 53 seggi, a quello di Eisenkot 48",
+            "url": "https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/10/29/in-israele-scrutinio-completato-al-blocco-netanyahu-53-seggi-a-quello-di-eisenkot-48_d074c1ef-9655-4324-8140-c9cd6ca7f62f.html",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "The Times of Israel",
+            "title": "With all votes counted, Netanyahu's bloc has 53 seats, Eisenkot's 48, Arab parties 19",
+            "url": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "CBS News",
+            "title": "No clear winner in Israeli election as negotiations to follow",
+            "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/israel-election-full-count-oct29.svg",
+          "alt": "Grafica illustrativa originale: Israele, scrutinio completato: nessun blocco raggiunge la maggioranza, non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/israel-election-full-count-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "oleshky-demining-humanitarian-oct29",
+        "rank": 4,
+        "category": "world",
+        "title": "Oleshky, Russia e Ucraina dichiarano completato lo sminamento per gli aiuti",
+        "dek": "Il convoglio è dichiarato pronto, non ancora consegnato; la tregua rimane locale.",
+        "summary": "Il 29 ottobre 2026 i responsabili dei diritti umani di Russia e Ucraina hanno diffuso dichiarazioni quasi identiche sul completamento dello sminamento delle vie previste per una missione umanitaria a Oleshky, città della regione di Kherson sotto controllo russo. La novità segue l'accordo locale annunciato il 23 ottobre, non costituisce un nuovo cessate il fuoco nazionale.",
+        "body": [
+          "Il 29 ottobre 2026 i responsabili dei diritti umani di Russia e Ucraina hanno diffuso dichiarazioni quasi identiche sul completamento dello sminamento delle vie previste per una missione umanitaria a Oleshky, città della regione di Kherson sotto controllo russo. La novità segue l'accordo locale annunciato il 23 ottobre, non costituisce un nuovo cessate il fuoco nazionale.",
+          "I comunicati attribuiti alla russa Yana Lantratova e all'ucraino Dmytro Lubinets indicano che il convoglio è pronto a partire per l'ospedale distrettuale. Annunciano anche una finestra per permettere ai residenti di uscire e la successiva distribuzione di pacchi. Preparazione delle rotte, partenza e consegna sono tre fasi distinte che non vanno compresse in un'unica notizia di aiuti già ricevuti.",
+          "La popolazione rimasta a Oleshky vive in condizioni di gravi carenze di alimenti e medicinali. La protezione di un itinerario di evacuazione richiede coordinamento di sicurezza fra parti che continuano a combattersi altrove. Reuters descrive un accordo che non estende la sospensione delle ostilità al resto dell'Ucraina.",
+          "Entrambe le parti hanno riconosciuto un ruolo di mediazione alla first lady statunitense Melania Trump, con un coinvolgimento di Papa Leone secondo le dichiarazioni riportate. Tale attribuzione non dimostra che la missione sia stata interamente completata. Il principale indicatore umanitario sarà la verifica indipendente di consegne, persone evacuate e condizioni di sicurezza."
+        ],
+        "impact": 2.5,
+        "impactReason": "Una rotta umanitaria potenzialmente aperta può salvare vite in un centro assediato, ma la tregua resta geograficamente circoscritta.",
+        "tags": [
+          "Oleshky",
+          "tregua",
+          "evacuazioni"
+        ],
+        "facts": [
+          "Il 29 ottobre 2026 i responsabili dei diritti umani di Russia e Ucraina hanno diffuso dichiarazioni quasi identiche sul completamento dello sminamento delle vie previste per una missione umanitaria a Oleshky, città della regione di Kherson sotto controllo russo. La novità segue l'accordo locale annunciato il 23 ottobre, non costituisce un nuovo cessate il fuoco nazionale.",
+          "I comunicati attribuiti alla russa Yana Lantratova e all'ucraino Dmytro Lubinets indicano che il convoglio è pronto a partire per l'ospedale distrettuale. Annunciano anche una finestra per permettere ai residenti di uscire e la successiva distribuzione di pacchi. Preparazione delle rotte, partenza e consegna sono tre fasi distinte che non vanno compresse in un'unica notizia di aiuti già ricevuti."
+        ],
+        "perspectives": [
+          "I rappresentanti umanitari di entrambe le parti dichiarano concluse le operazioni di sminamento.",
+          "Residenti e operatori umanitari hanno bisogno di accesso verificabile, non soltanto di annunci."
+        ],
+        "unknowns": [
+          "Partenza, consegne e numero di evacuati non sono ancora confermati da verifiche indipendenti.",
+          "Il rispetto della tregua durante l'intera missione deve ancora essere accertato."
+        ],
+        "questions": [
+          {
+            "question": "Che cosa permette concretamente lo sminamento annunciato a Oleshky?",
+            "answer": "La bonifica dichiarata delle vie di accesso dovrebbe consentire a un convoglio di raggiungere l'ospedale e a residenti di muoversi nella finestra concordata. Non certifica che mezzi e persone abbiano già compiuto il tragitto."
+          },
+          {
+            "question": "Perché la tregua di Oleshky non equivale alla cessazione delle ostilità in tutta la regione?",
+            "answer": "L'accordo è limitato a un'area e a scopi umanitari specifici, mentre i combattimenti proseguono in altri luoghi. La sua efficacia dipende dalla sicurezza effettiva delle rotte e dal rispetto locale della finestra concordata."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Reuters",
+            "title": "Russia, Ukraine say Oleshky demining operations complete, humanitarian operation to proceed",
+            "url": "https://www.reuters.com/world/russia-ukraine-say-oleshky-demining-operations-complete-humanitarian-operation-2026-10-29/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Associated Press",
+            "title": "Russia and Ukraine reach humanitarian operation stage in Oleshky",
+            "url": "https://apnews.com/article/aab99d86fccb26294711ef40407b416c",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/oleshky-demining-humanitarian-oct29.svg",
+          "alt": "Grafica illustrativa originale: Oleshky, Russia e Ucraina dichiarano completato lo sminamento per gli aiuti, non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/oleshky-demining-humanitarian-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "russia-africa-moscow-summit-oct29",
+        "rank": 5,
+        "category": "politics",
+        "title": "Vertice Russia-Africa a Mosca, adottate dichiarazioni e un piano di cooperazione",
+        "dek": "La riunione del 28–29 ottobre punta ad ampliare legami economici e politici; i risultati concreti vanno distinti dalle promesse.",
+        "summary": "Il terzo vertice Russia-Africa ha concluso la sessione plenaria a Mosca il 29 ottobre 2026, dopo l'apertura del giorno precedente. Associated Press descrive una partecipazione di quasi cinquanta paesi africani e di circa venti capi di Stato. La presidenza egiziana conferma la presenza di Abdel Fattah el-Sisi e l'adozione di documenti congiunti, incluso un piano di lavoro per il periodo 2027–2029.",
+        "body": [
+          "Il terzo vertice Russia-Africa ha concluso la sessione plenaria a Mosca il 29 ottobre 2026, dopo l'apertura del giorno precedente. Associated Press descrive una partecipazione di quasi cinquanta paesi africani e di circa venti capi di Stato. La presidenza egiziana conferma la presenza di Abdel Fattah el-Sisi e l'adozione di documenti congiunti, incluso un piano di lavoro per il periodo 2027–2029.",
+          "Vladimir Putin ha presentato i rapporti russo-africani come un contributo a un ordine mondiale multipolare e ha sollecitato una più stretta cooperazione economica e strategica. Queste sono posizioni del governo russo, non una valutazione condivisa delle relazioni internazionali. Il vertice si svolge mentre Mosca compete con UE, Cina e Stati Uniti per investimenti e influenza.",
+          "Putin ha citato scambi Russia-Africa superiori a 27 miliardi di dollari nell'anno precedente e forniture di cereali, fertilizzanti e cooperazione militare. Sono cifre rese pubbliche dalla leadership russa e vanno attribuite alla fonte; la loro presentazione non certifica nuove consegne derivanti dal vertice. Anche gli accordi quadro differiscono da progetti finanziati, approvati ed eseguiti.",
+          "L'Egitto segnala la firma di una dichiarazione finale, un documento sulla cooperazione nell'intelligenza artificiale civile e un piano del forum. Per valutare gli effetti della riunione serviranno contratti, investimenti realizzati e verifiche indipendenti. Non sarebbe corretto trattare il numero dei partecipanti o dei documenti come prova di benefici economici già ottenuti."
+        ],
+        "impact": 2.5,
+        "impactReason": "Il forum incide sui rapporti diplomatici e su progetti economici e di sicurezza di numerosi stati, con risultati attuativi ancora da dimostrare.",
+        "tags": [
+          "Africa",
+          "Russia",
+          "diplomazia"
+        ],
+        "facts": [
+          "Il terzo vertice Russia-Africa ha concluso la sessione plenaria a Mosca il 29 ottobre 2026, dopo l'apertura del giorno precedente. Associated Press descrive una partecipazione di quasi cinquanta paesi africani e di circa venti capi di Stato. La presidenza egiziana conferma la presenza di Abdel Fattah el-Sisi e l'adozione di documenti congiunti, incluso un piano di lavoro per il periodo 2027–2029.",
+          "Vladimir Putin ha presentato i rapporti russo-africani come un contributo a un ordine mondiale multipolare e ha sollecitato una più stretta cooperazione economica e strategica. Queste sono posizioni del governo russo, non una valutazione condivisa delle relazioni internazionali. Il vertice si svolge mentre Mosca compete con UE, Cina e Stati Uniti per investimenti e influenza."
+        ],
+        "perspectives": [
+          "Putin descrive la Russia come partner di un ordine multipolare.",
+          "La presidenza egiziana mette in risalto il piano pluriennale e la cooperazione civile adottati."
+        ],
+        "unknowns": [
+          "Il valore e l'attuazione dei progetti annunciati non sono ancora verificabili.",
+          "La portata giuridica e finanziaria di molti impegni dipende da successivi accordi."
+        ],
+        "questions": [
+          {
+            "question": "Quale risultato formale del vertice Russia-Africa va oltre i discorsi di Putin?",
+            "answer": "La presidenza egiziana riferisce l'adozione di una dichiarazione finale, di un documento sulla cooperazione civile nell'IA e di un piano d'azione del forum per il 2027–2029. Sono impegni di indirizzo, non automaticamente progetti completati."
+          },
+          {
+            "question": "Perché i 27 miliardi di dollari di scambi citati a Mosca non misurano l'impatto del vertice?",
+            "answer": "La cifra è presentata da Putin come commercio dell'anno precedente, quindi precede l'incontro del 28–29 ottobre. L'effetto economico della riunione richiederebbe successivi dati su scambi, contratti e investimenti effettivamente realizzati."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Associated Press",
+            "title": "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
+            "url": "https://apnews.com/article/7fa56468d33f98dade1996202fb1f469",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Reuters",
+            "title": "Putin woos African leaders at a showcase summit",
+            "url": "https://www.reuters.com/world/africa/putin-woos-african-leaders-showcase-summit-says-russia-is-better-partner-than-2026-10-28/",
+            "role": "reporting",
+            "publishedAt": "2026-10-28"
+          },
+          {
+            "outlet": "Presidency of Egypt",
+            "title": "President El-Sisi Participates in Russia-Africa Plenary Session",
+            "url": "https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/news29102026-1/",
+            "role": "official",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/russia-africa-moscow-summit-oct29.svg",
+          "alt": "Grafica illustrativa originale: Vertice Russia-Africa a Mosca, adottate dichiarazioni e un piano di cooperazione, non fotografia",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/russia-africa-moscow-summit-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      }
+    ],
+    "en": [
+      {
+        "id": "dnipro-rail-platform-drone-strike-oct29",
+        "rank": 1,
+        "category": "world",
+        "title": "Ukraine reports 14 killed in drone strike on Dnipro railway platform",
+        "dek": "The revised station toll must not be added to the nationwide death count for 29 October.",
+        "summary": "On Thursday 29 October 2026, a drone struck a crowded railway platform in Dnipro, Ukraine, as a commuter train was preparing to leave. Reuters reported an updated toll of fourteen dead at the station, citing Ukrainian authorities. Earlier reports had put the number at thirteen; this was a revised figure, not a separate incident.",
+        "body": [
+          "On Thursday 29 October 2026, a drone struck a crowded railway platform in Dnipro, Ukraine, as a commuter train was preparing to leave. Reuters reported an updated toll of fourteen dead at the station, citing Ukrainian authorities. Earlier reports had put the number at thirteen; this was a revised figure, not a separate incident.",
+          "The wider wave of attacks killed people in several cities. Reuters reported at least twenty deaths nationwide, including Dnipro, Chernihiv, Kremenchuk and a subsequent late-night attack on Kyiv. Adding the station figure to the national total would count some of the same victims twice.",
+          "Reporting also described a damaged student dormitory and power disruption. Fast drones and missiles used across different areas complicate the protection of civilian infrastructure and rail services. Civilian presence at the struck location is documented; determining an attacking command's specific intention requires a separate evidentiary assessment.",
+          "Ukrainian officials accuse Russia of deliberately attacking civilians, while Moscow generally denies targeting civilians. Neither assertion by itself establishes the intent behind this particular strike. The humanitarian significance should be assessed from the location, timing, casualties and subsequent investigations, while keeping changing casualty figures explicitly dated."
+        ],
+        "impact": 3,
+        "impactReason": "Civilian deaths and transport damage illustrate the war's continuing humanitarian and infrastructure consequences.",
+        "tags": [
+          "Dnipro",
+          "Ukraine",
+          "civilians"
+        ],
+        "facts": [
+          "On Thursday 29 October 2026, a drone struck a crowded railway platform in Dnipro, Ukraine, as a commuter train was preparing to leave. Reuters reported an updated toll of fourteen dead at the station, citing Ukrainian authorities. Earlier reports had put the number at thirteen; this was a revised figure, not a separate incident.",
+          "The wider wave of attacks killed people in several cities. Reuters reported at least twenty deaths nationwide, including Dnipro, Chernihiv, Kremenchuk and a subsequent late-night attack on Kyiv. Adding the station figure to the national total would count some of the same victims twice."
+        ],
+        "perspectives": [
+          "Ukrainian authorities attribute the strike to Russia and describe civilian casualties.",
+          "Moscow generally denies deliberately selecting civilians as targets."
+        ],
+        "unknowns": [
+          "The drone's detailed technical identification and command chain have not been independently established.",
+          "Authorities may revise casualty totals."
+        ],
+        "questions": [
+          {
+            "question": "Why should the 14 deaths at Dnipro station not be added to the 20 reported across Ukraine?",
+            "answer": "Reuters' national figure already includes the deaths on the Dnipro platform, as well as casualties in other cities on 29 October. Adding the figures would count the same people twice."
+          },
+          {
+            "question": "Why is a strike on a crowded railway platform especially consequential?",
+            "answer": "Passengers waiting to board are concentrated in an exposed space where blasts and fragments can be deadly. Beyond immediate casualties, damage may disrupt essential transport connections and access to services."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Reuters",
+            "title": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks",
+            "url": "https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Folha de S.Paulo",
+            "title": "Drone mata em estação de trem na Ucrânia",
+            "url": "https://www1.folha.uol.com.br/mundo/2026/10/drone-mata-13-em-estacao-de-trem-na-ucrania-kiev-faz-maior-ataque-a-russia.shtml",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/dnipro-rail-platform-drone-strike-oct29.svg",
+          "alt": "Original editorial illustration: Ukraine reports 14 killed in drone strike on Dnipro railway platform, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/dnipro-rail-platform-drone-strike-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "contship-jet-bulgaria-sinking-oct29",
+        "rank": 2,
+        "category": "world",
+        "title": "Contship Jet sinks after maritime drone attack off Bulgaria",
+        "dek": "All 18 sailors were rescued; initial environmental surveys found no visible pollution but monitoring remains important.",
+        "summary": "The Liberian-flagged, Greek-managed container ship Contship Jet sank off Bulgaria on 29 October 2026. Three maritime drones had struck it the previous day about twenty-one nautical miles from shore. Associated Press and Reuters distinguish the 28 October attack from confirmation of the ship's sinking on the 29th.",
+        "body": [
+          "The Liberian-flagged, Greek-managed container ship Contship Jet sank off Bulgaria on 29 October 2026. Three maritime drones had struck it the previous day about twenty-one nautical miles from shore. Associated Press and Reuters distinguish the 28 October attack from confirmation of the ship's sinking on the 29th.",
+          "Bulgarian authorities rescued all eighteen crew members, fourteen Filipinos and four Ukrainians, and took them to Varna for medical checks. The vessel had been sailing from Haifa, Israel, to Constanța, Romania. Rescue of every sailor does not remove the physical hazards associated with a sunken hull and its cargo.",
+          "AP reported hazardous freight including lithium-ion batteries and flammable substances. Bulgaria's first naval inspections found no signs of pollution; that means none was observed in those checks, not that future leakage has been ruled out. Batteries, fuel and submerged containers warrant continuing environmental assessment.",
+          "The attack took place in an exclusive economic zone, not the same legal area as a country's territorial sea. Bulgaria, Romania and Turkey discussed improving maritime warning and intelligence coordination. Responsibility for the strike remains unproven, and suspicions directed at Moscow must not be represented as an established finding."
+        ],
+        "impact": 2.5,
+        "impactReason": "The sinking of a commercial ship carrying hazardous cargo adds risk to an international shipping route.",
+        "tags": [
+          "Black-Sea",
+          "shipping",
+          "drones"
+        ],
+        "facts": [
+          "The Liberian-flagged, Greek-managed container ship Contship Jet sank off Bulgaria on 29 October 2026. Three maritime drones had struck it the previous day about twenty-one nautical miles from shore. Associated Press and Reuters distinguish the 28 October attack from confirmation of the ship's sinking on the 29th.",
+          "Bulgarian authorities rescued all eighteen crew members, fourteen Filipinos and four Ukrainians, and took them to Varna for medical checks. The vessel had been sailing from Haifa, Israel, to Constanța, Romania. Rescue of every sailor does not remove the physical hazards associated with a sunken hull and its cargo."
+        ],
+        "perspectives": [
+          "Bulgaria, Romania and Turkey favour closer maritime intelligence and warning coordination.",
+          "Bulgarian authorities have not established who directed the strike."
+        ],
+        "unknowns": [
+          "The drones' operator has not been conclusively identified.",
+          "Longer-term environmental effects and cargo recovery plans are unresolved."
+        ],
+        "questions": [
+          {
+            "question": "How is Bulgaria's exclusive economic zone different from its territorial waters?",
+            "answer": "An exclusive economic zone chiefly grants rights concerning resources and economic activities; territorial waters are subject to a broader form of coastal-state sovereignty. Both raise security concerns but involve different legal rules."
+          },
+          {
+            "question": "Why does the Contship Jet's lithium-battery cargo matter after the sinking?",
+            "answer": "Batteries, chemicals and fuel can pose environmental or fire-related hazards even underwater. A first survey finding no visible contamination is encouraging but cannot replace repeated water and cargo monitoring."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Associated Press",
+            "title": "Ship sinks off Bulgaria's Black Sea coast after being hit by drones",
+            "url": "https://apnews.com/article/2bfd978d36fbb958781cf2721cabcf5c",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Reuters",
+            "title": "Greek container ship sinks after drone attack off Bulgaria",
+            "url": "https://www.reuters.com/world/europe/greek-container-ship-sinks-after-drone-attack-off-bulgaria-2026-10-29/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/contship-jet-bulgaria-sinking-oct29.svg",
+          "alt": "Original editorial illustration: Contship Jet sinks after maritime drone attack off Bulgaria, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/contship-jet-bulgaria-sinking-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "israel-election-full-count-oct29",
+        "rank": 3,
+        "category": "politics",
+        "title": "Israel's vote count ends with no parliamentary majority",
+        "dek": "Netanyahu's bloc holds 53 seats, Eisenkot's 48 and Arab-led parties 19; certification is expected on 4 November.",
+        "summary": "Counting in Israel's 27 October election concluded on 29 October without a ready governing majority. ANSA and The Times of Israel reported 53 seats for Benjamin Netanyahu's bloc, 48 for Gadi Eisenkot's and 19 for two Arab-led parties. The Knesset has 120 members and a majority requires 61.",
+        "body": [
+          "Counting in Israel's 27 October election concluded on 29 October without a ready governing majority. ANSA and The Times of Israel reported 53 seats for Benjamin Netanyahu's bloc, 48 for Gadi Eisenkot's and 19 for two Arab-led parties. The Knesset has 120 members and a majority requires 61.",
+          "This is a substantial update from election-night exit polls, which indicated a somewhat different balance and were never certified votes. The count also covered separately processed double-envelope ballots used by people voting away from their normal polling station. Formal certification is expected on 4 November.",
+          "Netanyahu's Likud has 27 seats and Eisenkot's Yashar 21. The 19 Arab-led lawmakers make several parliamentary majorities mathematically possible, but arithmetic alone does not establish a coalition. Some parties aligned with Eisenkot have opposed governing arrangements involving the Arab-led factions, complicating negotiations.",
+          "President Isaac Herzog is due to receive the results and consult party representatives before deciding who has a credible prospect of forming a government. Netanyahu cites his bloc's lead; Eisenkot says he will seek an alternative majority. The seat totals do not by themselves determine the next prime minister."
+        ],
+        "impact": 3.5,
+        "impactReason": "The absence of a majority after counting affects political stability in a country central to Middle Eastern diplomacy.",
+        "tags": [
+          "Israel",
+          "Knesset",
+          "coalitions"
+        ],
+        "facts": [
+          "Counting in Israel's 27 October election concluded on 29 October without a ready governing majority. ANSA and The Times of Israel reported 53 seats for Benjamin Netanyahu's bloc, 48 for Gadi Eisenkot's and 19 for two Arab-led parties. The Knesset has 120 members and a majority requires 61.",
+          "This is a substantial update from election-night exit polls, which indicated a somewhat different balance and were never certified votes. The count also covered separately processed double-envelope ballots used by people voting away from their normal polling station. Formal certification is expected on 4 November."
+        ],
+        "perspectives": [
+          "Netanyahu points to the Likud's and his bloc's lead.",
+          "Eisenkot seeks an alternative governing combination despite partners' objections to some alliances."
+        ],
+        "unknowns": [
+          "Formal electoral certification is due on 4 November.",
+          "No government coalition has been agreed."
+        ],
+        "questions": [
+          {
+            "question": "Why are Netanyahu's 53 seats insufficient to form Israel's government?",
+            "answer": "A majority in the 120-member Knesset requires at least 61 seats. Netanyahu's bloc needs the support of at least eight additional lawmakers through political agreements."
+          },
+          {
+            "question": "How could the Arab-led parties' 19 seats shape Herzog's consultations?",
+            "answer": "Those seats could make a non-Netanyahu majority mathematically possible if other parties agreed to cooperate. Herzog must weigh recommendations and workable coalitions rather than automatically appointing the leader of the largest bloc."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "ANSA",
+            "title": "In Israele scrutinio completato, al blocco Netanyahu 53 seggi, a quello di Eisenkot 48",
+            "url": "https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/10/29/in-israele-scrutinio-completato-al-blocco-netanyahu-53-seggi-a-quello-di-eisenkot-48_d074c1ef-9655-4324-8140-c9cd6ca7f62f.html",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "The Times of Israel",
+            "title": "With all votes counted, Netanyahu's bloc has 53 seats, Eisenkot's 48, Arab parties 19",
+            "url": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "CBS News",
+            "title": "No clear winner in Israeli election as negotiations to follow",
+            "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/israel-election-full-count-oct29.svg",
+          "alt": "Original editorial illustration: Israel's vote count ends with no parliamentary majority, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/israel-election-full-count-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "oleshky-demining-humanitarian-oct29",
+        "rank": 4,
+        "category": "world",
+        "title": "Russia and Ukraine say Oleshky aid routes have been cleared of mines",
+        "dek": "A convoy is described as ready, not yet delivered; the truce remains local.",
+        "summary": "On 29 October 2026, the Russian and Ukrainian human rights representatives issued near-identical statements saying that demining of planned humanitarian routes to Russian-held Oleshky in the Kherson region was complete. This development follows the local arrangement announced on 23 October; it is not a new nationwide ceasefire.",
+        "body": [
+          "On 29 October 2026, the Russian and Ukrainian human rights representatives issued near-identical statements saying that demining of planned humanitarian routes to Russian-held Oleshky in the Kherson region was complete. This development follows the local arrangement announced on 23 October; it is not a new nationwide ceasefire.",
+          "Statements attributed to Russia's Yana Lantratova and Ukraine's Dmytro Lubinets said a convoy was ready to depart for the district hospital. They also described a designated window for residents to leave and subsequent aid package distribution. Clearing access, dispatching vehicles and actually delivering assistance are three separate stages.",
+          "Residents remaining in Oleshky face severe shortages of food and medicine. Protecting evacuation routes requires safety coordination between parties still fighting elsewhere. Reuters describes an agreement that does not suspend hostilities across the rest of Ukraine, despite its significance for people trapped in the town.",
+          "Both sides credited US First Lady Melania Trump with helping mediate the local arrangement, while reporting also referred to Pope Leo's involvement. Attributing a diplomatic role does not demonstrate that the operation has finished. The meaningful humanitarian test will be independently verified deliveries, evacuations and safe passage."
+        ],
+        "impact": 2.5,
+        "impactReason": "An accessible humanitarian corridor could save lives in a devastated town, but the arrangement is geographically limited.",
+        "tags": [
+          "Oleshky",
+          "truce",
+          "evacuation"
+        ],
+        "facts": [
+          "On 29 October 2026, the Russian and Ukrainian human rights representatives issued near-identical statements saying that demining of planned humanitarian routes to Russian-held Oleshky in the Kherson region was complete. This development follows the local arrangement announced on 23 October; it is not a new nationwide ceasefire.",
+          "Statements attributed to Russia's Yana Lantratova and Ukraine's Dmytro Lubinets said a convoy was ready to depart for the district hospital. They also described a designated window for residents to leave and subsequent aid package distribution. Clearing access, dispatching vehicles and actually delivering assistance are three separate stages."
+        ],
+        "perspectives": [
+          "Human rights representatives on both sides say mine clearance is complete.",
+          "Residents and relief agencies need independently verifiable access, not announcements alone."
+        ],
+        "unknowns": [
+          "The convoy's departure, deliveries and evacuation totals have not been independently verified.",
+          "Compliance throughout the operation remains to be tested."
+        ],
+        "questions": [
+          {
+            "question": "What is the practical purpose of clearing the humanitarian routes around Oleshky?",
+            "answer": "The reported demining is intended to let a convoy reach the district hospital and residents travel during an agreed evacuation period. It does not establish that vehicles or evacuees have completed those journeys."
+          },
+          {
+            "question": "Why does the Oleshky truce not amount to a broader end to fighting in Ukraine?",
+            "answer": "The agreement covers a defined location and humanitarian purpose while attacks continue elsewhere. Its effectiveness depends on the actual safety of agreed routes and local compliance throughout the operation."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Reuters",
+            "title": "Russia, Ukraine say Oleshky demining operations complete, humanitarian operation to proceed",
+            "url": "https://www.reuters.com/world/russia-ukraine-say-oleshky-demining-operations-complete-humanitarian-operation-2026-10-29/",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Associated Press",
+            "title": "Russia and Ukraine reach humanitarian operation stage in Oleshky",
+            "url": "https://apnews.com/article/aab99d86fccb26294711ef40407b416c",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/oleshky-demining-humanitarian-oct29.svg",
+          "alt": "Original editorial illustration: Russia and Ukraine say Oleshky aid routes have been cleared of mines, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/oleshky-demining-humanitarian-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      },
+      {
+        "id": "russia-africa-moscow-summit-oct29",
+        "rank": 5,
+        "category": "politics",
+        "title": "Russia–Africa summit ends with declarations and a cooperation plan",
+        "dek": "The 28–29 October meeting seeks closer economic and political ties, but pledges are not completed projects.",
+        "summary": "The third Russia–Africa summit concluded its plenary session in Moscow on 29 October 2026 after opening the previous day. Associated Press described attendance by nearly fifty African countries and about twenty heads of state. Egypt's presidency confirmed Abdel Fattah el-Sisi's participation and the adoption of joint documents, including a forum action plan for 2027–2029.",
+        "body": [
+          "The third Russia–Africa summit concluded its plenary session in Moscow on 29 October 2026 after opening the previous day. Associated Press described attendance by nearly fifty African countries and about twenty heads of state. Egypt's presidency confirmed Abdel Fattah el-Sisi's participation and the adoption of joint documents, including a forum action plan for 2027–2029.",
+          "Vladimir Putin portrayed Russian-African relations as part of a multipolar world order and called for broader economic and strategic cooperation. These are the Russian government's positions rather than an established consensus about international relations. Moscow is competing with the EU, China and the United States for investment and influence on the continent.",
+          "Putin cited Russia–Africa trade exceeding $27 billion in the previous year, along with grain, fertiliser and military partnerships. Those figures are claims presented by the Russian leadership and should be attributed as such; repeating them does not establish new deliveries resulting from the meeting. Framework agreements are also distinct from funded and implemented projects.",
+          "Egypt reported a final declaration, a document on civilian artificial intelligence cooperation and a forum action plan. Assessing the summit's effects will require contracts, completed investment and independent checks. Neither the size of the attendance list nor the number of documents proves an immediate economic benefit."
+        ],
+        "impact": 2.5,
+        "impactReason": "The meeting influences diplomacy and prospective economic and security cooperation among many countries, with implementation still unproven.",
+        "tags": [
+          "Africa",
+          "Russia",
+          "diplomacy"
+        ],
+        "facts": [
+          "The third Russia–Africa summit concluded its plenary session in Moscow on 29 October 2026 after opening the previous day. Associated Press described attendance by nearly fifty African countries and about twenty heads of state. Egypt's presidency confirmed Abdel Fattah el-Sisi's participation and the adoption of joint documents, including a forum action plan for 2027–2029.",
+          "Vladimir Putin portrayed Russian-African relations as part of a multipolar world order and called for broader economic and strategic cooperation. These are the Russian government's positions rather than an established consensus about international relations. Moscow is competing with the EU, China and the United States for investment and influence on the continent."
+        ],
+        "perspectives": [
+          "Putin presents Russia as a partner in a multipolar international order.",
+          "Egypt's presidency highlights adopted multiyear plans and civilian cooperation."
+        ],
+        "unknowns": [
+          "The value and implementation of announced projects cannot yet be verified.",
+          "Many commitments require later legal and financial agreements."
+        ],
+        "questions": [
+          {
+            "question": "What formal outcome of the Russia–Africa summit goes beyond Putin's speeches?",
+            "answer": "Egypt's presidency reports adoption of a final declaration, a document on civilian AI cooperation and a 2027–2029 forum action plan. These set directions but do not by themselves constitute completed projects."
+          },
+          {
+            "question": "Why is the $27 billion trade figure cited in Moscow not evidence of the summit's impact?",
+            "answer": "Putin described it as trade from the previous year, before the 28–29 October meeting. An economic effect would need to be assessed using later trade, contract and investment data."
+          }
+        ],
+        "sources": [
+          {
+            "outlet": "Associated Press",
+            "title": "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
+            "url": "https://apnews.com/article/7fa56468d33f98dade1996202fb1f469",
+            "role": "reporting",
+            "publishedAt": "2026-10-29"
+          },
+          {
+            "outlet": "Reuters",
+            "title": "Putin woos African leaders at a showcase summit",
+            "url": "https://www.reuters.com/world/africa/putin-woos-african-leaders-showcase-summit-says-russia-is-better-partner-than-2026-10-28/",
+            "role": "reporting",
+            "publishedAt": "2026-10-28"
+          },
+          {
+            "outlet": "Presidency of Egypt",
+            "title": "President El-Sisi Participates in Russia-Africa Plenary Session",
+            "url": "https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/news29102026-1/",
+            "role": "official",
+            "publishedAt": "2026-10-29"
+          }
+        ],
+        "image": {
+          "src": "news/2026-10-30/assets/russia-africa-moscow-summit-oct29.svg",
+          "alt": "Original editorial illustration: Russia–Africa summit ends with declarations and a cooperation plan, not a photograph",
+          "credit": "O — original vector illustration © 2026 O",
+          "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/russia-africa-moscow-summit-oct29.svg",
+          "license": "© 2026 O — original editorial illustration; all rights reserved",
+          "kind": "illustration"
+        }
+      }
+    ]
+  }
+}
