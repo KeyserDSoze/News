@@ -11,7 +11,7 @@
       "category": "technology",
       "title": "Mistral rende disponibili i pesi di Large 4, punta anche alla cybersicurezza",
       "dek": "Il rilascio del 29 ottobre segue l'anteprima del 6: installazione autonoma e rischi dual-use sono questioni diverse.",
-      "summary": "Mistral AI ha annunciato il 29 ottobre 2026 la disponibilità pubblica dei pesi di Large 4, modello presentato in anteprima il 6 ottobre. La distinzione temporale è sostanziale: l'anteprima tramite API non dava necessariamente la stessa autonomia d'uso offerta dal download dei pesi. Reuters descrive il rilascio come una tappa della strategia open-weight dell'azienda francese.",
+      "summary": "Mistral AI ha diffuso pubblicamente il 29 ottobre i pesi del modello Large 4, dopo averne presentato l'anteprima tramite API il 6 ottobre. Il rilascio amplia le possibilità di installazione su infrastrutture controllate dagli utenti, nel rispetto della licenza. Le prestazioni informatiche rivendicate dall'azienda e i rischi di uso offensivo richiedono valutazioni indipendenti.",
       "body": [
         "Mistral AI ha annunciato il 29 ottobre 2026 la disponibilità pubblica dei pesi di Large 4, modello presentato in anteprima il 6 ottobre. La distinzione temporale è sostanziale: l'anteprima tramite API non dava necessariamente la stessa autonomia d'uso offerta dal download dei pesi. Reuters descrive il rilascio come una tappa della strategia open-weight dell'azienda francese.",
         "Un modello open-weight permette di eseguire inferenza su infrastrutture controllate dall'utilizzatore e ridurre alcune dipendenze da servizi remoti. Non significa automaticamente che dati di addestramento, codice o ogni dettaglio tecnico siano pubblici; modalità d'uso e redistribuzione dipendono dalla licenza effettiva. Le organizzazioni devono comunque valutare costi computazionali e gestione della sicurezza.",
@@ -26,8 +26,8 @@
         "sicurezza"
       ],
       "facts": [
-        "Mistral AI ha annunciato il 29 ottobre 2026 la disponibilità pubblica dei pesi di Large 4, modello presentato in anteprima il 6 ottobre. La distinzione temporale è sostanziale: l'anteprima tramite API non dava necessariamente la stessa autonomia d'uso offerta dal download dei pesi. Reuters descrive il rilascio come una tappa della strategia open-weight dell'azienda francese.",
-        "Un modello open-weight permette di eseguire inferenza su infrastrutture controllate dall'utilizzatore e ridurre alcune dipendenze da servizi remoti. Non significa automaticamente che dati di addestramento, codice o ogni dettaglio tecnico siano pubblici; modalità d'uso e redistribuzione dipendono dalla licenza effettiva. Le organizzazioni devono comunque valutare costi computazionali e gestione della sicurezza."
+        "Il modello Large 4 era stato annunciato il 6 ottobre con accesso tramite API.",
+        "Il 29 ottobre Mistral ha reso pubblicamente disponibili i pesi, consentendo nuove forme di distribuzione."
       ],
       "perspectives": [
         "Mistral sostiene che il modello migliori la capacità di difesa informatica.",
@@ -85,7 +85,7 @@
       "category": "economy",
       "title": "Thrive firma l'accordo per acquisire ADT: 7,6 miliardi di capitale, 15,3 con il debito",
       "dek": "Offerta a 10 dollari per azione, chiusura prevista nel primo trimestre 2027 e subordinata ad autorizzazioni.",
-      "summary": "Il 29 ottobre 2026 ADT e Thrive Holdings hanno annunciato un accordo definitivo per l'acquisizione in contanti della società statunitense di sicurezza domestica. Gli azionisti riceverebbero 10 dollari per azione alla conclusione dell'operazione. L'intesa è stata approvata dal consiglio di ADT ma non equivale a un trasferimento di proprietà già perfezionato.",
+      "summary": "Thrive Holdings e ADT hanno annunciato il 29 ottobre un accordo per acquistare la società di sicurezza domestica a 10 dollari per azione. Il valore azionario è di circa 7,6 miliardi di dollari, mentre quello dell'impresa compreso il debito è circa 15,3 miliardi. L'operazione non si è ancora conclusa: sono richieste approvazioni e il closing è previsto nel 2027.",
       "body": [
         "Il 29 ottobre 2026 ADT e Thrive Holdings hanno annunciato un accordo definitivo per l'acquisizione in contanti della società statunitense di sicurezza domestica. Gli azionisti riceverebbero 10 dollari per azione alla conclusione dell'operazione. L'intesa è stata approvata dal consiglio di ADT ma non equivale a un trasferimento di proprietà già perfezionato.",
         "L'accordo valuta il capitale azionario, o equity value, circa 7,6 miliardi di dollari e l'impresa comprensiva del debito circa 15,3 miliardi. I due numeri misurano grandezze finanziarie diverse, quindi non rappresentano due prezzi in conflitto. La società ha indicato un premio del 45,6% rispetto al prezzo di borsa non influenzato del 27 ottobre.",
@@ -100,8 +100,8 @@
         "acquisizioni"
       ],
       "facts": [
-        "Il 29 ottobre 2026 ADT e Thrive Holdings hanno annunciato un accordo definitivo per l'acquisizione in contanti della società statunitense di sicurezza domestica. Gli azionisti riceverebbero 10 dollari per azione alla conclusione dell'operazione. L'intesa è stata approvata dal consiglio di ADT ma non equivale a un trasferimento di proprietà già perfezionato.",
-        "L'accordo valuta il capitale azionario, o equity value, circa 7,6 miliardi di dollari e l'impresa comprensiva del debito circa 15,3 miliardi. I due numeri misurano grandezze finanziarie diverse, quindi non rappresentano due prezzi in conflitto. La società ha indicato un premio del 45,6% rispetto al prezzo di borsa non influenzato del 27 ottobre."
+        "L'accordo ADT-Thrive annunciato il 29 ottobre prevede 10 dollari per azione.",
+        "Il closing è atteso nel primo trimestre del 2027, subordinatamente alle approvazioni e ad altre condizioni."
       ],
       "perspectives": [
         "Thrive sostiene che capitale paziente e tecnologia possano migliorare il servizio ADT.",
@@ -159,7 +159,7 @@
       "category": "economy",
       "title": "Amazon, AWS cresce del 39% nel trimestre ma gli investimenti pesano sulla cassa",
       "dek": "Ricavi cloud a 46 miliardi di dollari; spesa in conto capitale prevista a circa 220 miliardi per il 2026.",
-      "summary": "Amazon ha pubblicato il 29 ottobre 2026 i risultati del terzo trimestre. I ricavi consolidati sono stati circa 201,9 miliardi di dollari, con una crescita annua del 12%, mentre AWS ha raggiunto 46 miliardi, circa il 39% in più rispetto a un anno prima. Il progresso del cloud non va scambiato per il risultato dell'intero gruppo.",
+      "summary": "Amazon ha riportato il 29 ottobre ricavi AWS trimestrali di 46 miliardi di dollari, in aumento del 39% sull'anno. L'azienda prevede investimenti in contanti per circa 220 miliardi nel 2026 e ha registrato un flusso di cassa libero negativo sui dodici mesi precedenti. Crescita dei ricavi cloud e assorbimento di liquidità misurano aspetti diversi.",
       "body": [
         "Amazon ha pubblicato il 29 ottobre 2026 i risultati del terzo trimestre. I ricavi consolidati sono stati circa 201,9 miliardi di dollari, con una crescita annua del 12%, mentre AWS ha raggiunto 46 miliardi, circa il 39% in più rispetto a un anno prima. Il progresso del cloud non va scambiato per il risultato dell'intero gruppo.",
         "L'amministratore delegato Andy Jassy ha ribadito l'ambizione di un AWS da mille miliardi di ricavi annui in un orizzonte pluriennale, ma si tratta di una visione aziendale e non di una previsione certa. Per il 2026 Amazon stima circa 220 miliardi di dollari di investimenti in contanti, in maggioranza destinati all'infrastruttura cloud e AI.",
@@ -174,8 +174,8 @@
         "investimenti"
       ],
       "facts": [
-        "Amazon ha pubblicato il 29 ottobre 2026 i risultati del terzo trimestre. I ricavi consolidati sono stati circa 201,9 miliardi di dollari, con una crescita annua del 12%, mentre AWS ha raggiunto 46 miliardi, circa il 39% in più rispetto a un anno prima. Il progresso del cloud non va scambiato per il risultato dell'intero gruppo.",
-        "L'amministratore delegato Andy Jassy ha ribadito l'ambizione di un AWS da mille miliardi di ricavi annui in un orizzonte pluriennale, ma si tratta di una visione aziendale e non di una previsione certa. Per il 2026 Amazon stima circa 220 miliardi di dollari di investimenti in contanti, in maggioranza destinati all'infrastruttura cloud e AI."
+        "AWS ha registrato 46 miliardi di dollari di ricavi nel terzo trimestre, circa +39% annuo.",
+        "La previsione aziendale per la spesa in conto capitale del 2026 è di circa 220 miliardi di dollari."
       ],
       "perspectives": [
         "Jassy sostiene che gli investimenti preparino crescita e rendimenti futuri.",
@@ -233,7 +233,7 @@
       "category": "technology",
       "title": "Intel chiude il terzo trimestre a 16,5 miliardi e prevede ricavi inferiori nel quarto",
       "dek": "La guidance per ottobre-dicembre è di 15–16 miliardi di dollari; pesano mercato PC e vincoli produttivi.",
-      "summary": "Intel ha comunicato il 29 ottobre 2026 ricavi del terzo trimestre pari a circa 16,5 miliardi di dollari, in crescita del 21% rispetto a un anno prima. L'azienda ha però indicato per il trimestre successivo ricavi attesi fra 15 e 16 miliardi. Un risultato consuntivo e una previsione non misurano lo stesso periodo e non sono in contraddizione.",
+      "summary": "Intel ha annunciato il 29 ottobre ricavi di 16,5 miliardi di dollari nel terzo trimestre 2026, in crescita del 21% sull'anno, e una previsione di 15–16 miliardi per il quarto. La società segnala vincoli di fornitura e un mercato PC debole. I ricavi consuntivi non vanno confrontati direttamente con una guidance come fossero due risultati misurati.",
       "body": [
         "Intel ha comunicato il 29 ottobre 2026 ricavi del terzo trimestre pari a circa 16,5 miliardi di dollari, in crescita del 21% rispetto a un anno prima. L'azienda ha però indicato per il trimestre successivo ricavi attesi fra 15 e 16 miliardi. Un risultato consuntivo e una previsione non misurano lo stesso periodo e non sono in contraddizione.",
         "Secondo Reuters, la direzione finanziaria prevede che la debolezza del mercato dei personal computer possa proseguire nella prima metà del 2027. L'aumento del costo delle memorie esercita pressione sulle vendite di PC, mentre alcuni chip per server legati all'intelligenza artificiale registrano una domanda relativamente forte. La combinazione rende difficile usare un unico indicatore per l'intero mercato.",
@@ -248,8 +248,8 @@
         "risultati"
       ],
       "facts": [
-        "Intel ha comunicato il 29 ottobre 2026 ricavi del terzo trimestre pari a circa 16,5 miliardi di dollari, in crescita del 21% rispetto a un anno prima. L'azienda ha però indicato per il trimestre successivo ricavi attesi fra 15 e 16 miliardi. Un risultato consuntivo e una previsione non misurano lo stesso periodo e non sono in contraddizione.",
-        "Secondo Reuters, la direzione finanziaria prevede che la debolezza del mercato dei personal computer possa proseguire nella prima metà del 2027. L'aumento del costo delle memorie esercita pressione sulle vendite di PC, mentre alcuni chip per server legati all'intelligenza artificiale registrano una domanda relativamente forte. La combinazione rende difficile usare un unico indicatore per l'intero mercato."
+        "Intel ha riportato ricavi trimestrali di 16,5 miliardi di dollari, in aumento del 21% anno su anno.",
+        "La guidance ufficiale per il quarto trimestre è compresa fra 15 e 16 miliardi di dollari."
       ],
       "perspectives": [
         "Intel sottolinea miglioramenti nell'esecuzione e la domanda di CPU server.",
@@ -307,12 +307,12 @@
       "category": "technology",
       "title": "Cisco segnala attacchi attivi alla vulnerabilità VPN CVE-2026-76418",
       "dek": "ASA e FTD possono riavviarsi con una richiesta remota in configurazioni specifiche; sono disponibili aggiornamenti.",
-      "summary": "Un avviso Cisco del 28 ottobre 2026, seguito da segnalazioni di sicurezza il 29, descrive CVE-2026-76418 nei firewall ASA e FTD. La vulnerabilità permette a un aggressore remoto non autenticato di provocare un riavvio inatteso del dispositivo e quindi un'interruzione del servizio. Cisco afferma di conoscere episodi di sfruttamento attivo.",
+      "summary": "Cisco ha pubblicato il 28 ottobre un avviso relativo alla falla CVE-2026-76418 nei firewall ASA e FTD, segnalando sfruttamento attivo. Configurazioni specifiche di SSL VPN con autenticazione secondaria possono consentire a un aggressore remoto di provocare un riavvio del dispositivo. Il danno documentato riguarda la disponibilità del servizio; Cisco raccomanda l'aggiornamento software.",
       "body": [
         "Un avviso Cisco del 28 ottobre 2026, seguito da segnalazioni di sicurezza il 29, descrive CVE-2026-76418 nei firewall ASA e FTD. La vulnerabilità permette a un aggressore remoto non autenticato di provocare un riavvio inatteso del dispositivo e quindi un'interruzione del servizio. Cisco afferma di conoscere episodi di sfruttamento attivo.",
         "Il difetto interessa il servizio di accesso remoto SSL VPN quando è configurata l'autenticazione secondaria in un tunnel group coinvolto. Non tutti i firewall Cisco sono quindi automaticamente esposti: contano versione, configurazione e raggiungibilità del servizio vulnerabile. Il punteggio CVSS pubblicato è 8,6, un valore tecnico di gravità e non la probabilità che ogni apparato venga attaccato.",
         "L'impatto descritto è sulla disponibilità: un riavvio può interrompere connessioni e servizi che dipendono dal dispositivo. L'advisory non attribuisce al difetto la possibilità di leggere dati riservati o modificare file; sarebbe errato presentarlo come prova di furto di informazioni. La distinzione tra denial of service ed esfiltrazione è essenziale per decidere come rispondere all'incidente.",
-        "Cisco indica aggiornamenti correttivi e dichiara che non sono disponibili workaround risolutivi. I responsabili IT devono confrontare le versioni installate con i rami indicati dal produttore, pianificare patch e verificare log e disponibilità del servizio. Limitare l'esposizione può ridurre temporaneamente il rischio, ma non sostituisce necessariamente la correzione."
+        "Cisco indica versioni software corrette e precisa che non ci sono workaround risolutivi, pur descrivendo mitigazioni temporanee come la disattivazione dell'autenticazione secondaria. Una misura del genere può ridurre la sicurezza del login VPN: deve essere valutata attentamente e non sostituisce l'aggiornamento. Gli amministratori devono verificare configurazioni, rami software e registri di disponibilità."
       ],
       "impact": 3,
       "impactReason": "Lo sfruttamento attivo contro apparati di accesso remoto può interrompere servizi organizzativi essenziali e richiede patch rapide.",
@@ -322,8 +322,8 @@
         "sicurezza"
       ],
       "facts": [
-        "Un avviso Cisco del 28 ottobre 2026, seguito da segnalazioni di sicurezza il 29, descrive CVE-2026-76418 nei firewall ASA e FTD. La vulnerabilità permette a un aggressore remoto non autenticato di provocare un riavvio inatteso del dispositivo e quindi un'interruzione del servizio. Cisco afferma di conoscere episodi di sfruttamento attivo.",
-        "Il difetto interessa il servizio di accesso remoto SSL VPN quando è configurata l'autenticazione secondaria in un tunnel group coinvolto. Non tutti i firewall Cisco sono quindi automaticamente esposti: contano versione, configurazione e raggiungibilità del servizio vulnerabile. Il punteggio CVSS pubblicato è 8,6, un valore tecnico di gravità e non la probabilità che ogni apparato venga attaccato."
+        "Cisco ha pubblicato l'advisory CVE-2026-76418 il 28 ottobre e ha indicato sfruttamento attivo.",
+        "Nelle configurazioni interessate il difetto può causare un riavvio e un denial of service, senza accesso ai dati descritto dal bollettino."
       ],
       "perspectives": [
         "Cisco pubblica la correzione e segnala attività ostile già osservata.",
