@@ -512,8 +512,8 @@
       "body": [
         "Associated Press ha riferito il 29 ottobre 2026 che l'epidemia di Ebola nella Repubblica Democratica del Congo continua a registrare circa 400–500 nuovi casi settimanali. La curva sembra essersi stabilizzata, ma non mostra un calo sostenuto. Il numero cumulativo di oltre 10mila contagi, riportato da Reuters il 27 ottobre, non è una novità del 29.",
         "Gli esperti citati da AP spiegano che meno di un quarto dei nuovi pazienti risultava essere stato già identificato come contatto di un caso noto. Il dato segnala difficoltà nel rintracciare le catene di trasmissione: se le persone infettate non sono note agli operatori prima che sviluppino sintomi, l'isolamento e la sorveglianza diventano più difficili.",
-        "La risposta sanitaria è ostacolata da insicurezza, fragilità dei servizi, disinformazione e carenza di risorse. La variante Bundibugyo impone inoltre di distinguere i vaccini in sperimentazione dagli strumenti già disponibili e approvati per altre forme di Ebola. Non sarebbe accurato annunciare una soluzione immunitaria certa o generalizzabile.",
-        "La trasmissione oltre frontiera è un rischio concreto da monitorare, ma il rischio immediato per singoli paesi non può essere equiparato alla situazione dei territori colpiti. La priorità epidemiologica descritta dagli esperti è individuare i contatti e interrompere catene non note; la stabilità numerica di una settimana non equivale all'estinzione dell'epidemia."
+        "La sorveglianza si confronta con segnalazioni locali difficili da riconciliare. Il 29 ottobre la redazione congolese Actualite.cd ha riferito che il medico capo della zona di Mandima, in Ituri, indicava 328 decessi cumulativi e quasi 400 casi confermati fra il primo e il 27 ottobre; nel precedente bollettino nazionale comparivano invece 201 decessi cumulativi a Mandima al 21 ottobre. I periodi e i sistemi di conteggio sono differenti, ma lo scarto richiede chiarimenti. Radio Okapi riporta inoltre timori a Bankoko su 26 decessi non confermati dalle autorità sanitarie: non devono essere inseriti nel bilancio certificato.",
+        "La valutazione ECDC aggiornata il 29 ottobre registra 10.193 casi confermati e 4.960 morti nella RDC, su dati nazionali fino al 27 ottobre, e riconosce trasmissione comunitaria in corso. Il rischio di esportazione richiede sorveglianza, ma le situazioni dei paesi esterni all'epicentro non vanno equiparate a quella delle province colpite. La priorità evidenziata dagli esperti è individuare le catene non note; il plateau settimanale non equivale alla fine dell'epidemia."
       ],
       "impact": 3.5,
       "impactReason": "Una grave epidemia con trasmissione non tracciata comporta rischi elevati per la salute pubblica e i sistemi sanitari regionali.",
@@ -523,16 +523,18 @@
         "epidemia"
       ],
       "facts": [
-        "Associated Press ha riferito il 29 ottobre 2026 che l'epidemia di Ebola nella Repubblica Democratica del Congo continua a registrare circa 400–500 nuovi casi settimanali. La curva sembra essersi stabilizzata, ma non mostra un calo sostenuto. Il numero cumulativo di oltre 10mila contagi, riportato da Reuters il 27 ottobre, non è una novità del 29.",
-        "Gli esperti citati da AP spiegano che meno di un quarto dei nuovi pazienti risultava essere stato già identificato come contatto di un caso noto. Il dato segnala difficoltà nel rintracciare le catene di trasmissione: se le persone infettate non sono note agli operatori prima che sviluppino sintomi, l'isolamento e la sorveglianza diventano più difficili."
+        "AP riferisce circa 400–500 nuove infezioni settimanali a fine ottobre e indica che meno di un quarto dei nuovi pazienti erano contatti già noti.",
+        "L'ECDC il 29 ottobre riportava 10.193 casi confermati e 4.960 decessi nella RDC, con data dei dati al 27 ottobre.",
+        "Actualite.cd distingue la dichiarazione del medico capo di Mandima dai dati del precedente bollettino nazionale: i due totali locali non sono immediatamente confrontabili."
       ],
       "perspectives": [
         "Gli esperti consultati da AP avvertono che la stabilizzazione non significa contenimento.",
-        "Le autorità congolesi avevano già comunicato il superamento di 10mila contagi il 27 ottobre."
+        "Le autorità congolesi avevano già comunicato il superamento di 10mila contagi il 27 ottobre.",
+        "Actualite.cd e Radio Okapi presentano resoconti dal territorio e distinguono i bilanci dichiarati da quelli convalidati."
       ],
       "unknowns": [
-        "Non è disponibile una seconda analisi giornalistica autonoma pubblicata il 29 sulle catene non tracciate.",
-        "Non è noto quando l'andamento dei casi tornerà a scendere in modo stabile."
+        "Non è noto quando l'andamento dei casi tornerà a scendere in modo stabile.",
+        "Le autorità non hanno ancora riconciliato i bilanci locali divergenti riferiti per Mandima e le segnalazioni non confermate di Bankoko."
       ],
       "questions": [
         {
@@ -542,6 +544,10 @@
         {
           "question": "Che cosa indica il fatto che meno di un quarto dei nuovi pazienti fosse un contatto già noto?",
           "answer": "La tracciatura intercetta solo una parte delle catene di contagio. Molti pazienti emergono senza essere stati sorvegliati come contatti, riducendo l'efficacia dell'individuazione precoce e dell'isolamento."
+        },
+        {
+          "question": "Perché i numeri di Mandima riferiti dal medico locale e dal bollettino nazionale non vanno sommati?",
+          "answer": "Actualite.cd cita 328 decessi cumulativi secondo il medico di zona il 27 ottobre, mentre il bollettino nazionale ne riportava 201 al 21 ottobre. Sono conteggi relativi alla stessa zona ma a date e basi da riconciliare; sommarli produrrebbe una cifra priva di significato epidemiologico."
         }
       ],
       "sources": [
@@ -558,6 +564,27 @@
           "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-infections-surpass-10000-government-says-2026-10-27/",
           "role": "reporting",
           "publishedAt": "2026-10-27"
+        },
+        {
+          "outlet": "Actualite.cd",
+          "title": "Ebola en RDC : Mandima cumule 328 décès et près de 400 cas confirmés en octobre, selon son médecin-chef",
+          "url": "https://actualite.cd/index.php/2026/10/29/ebola-en-rdc-la-seule-zone-de-sante-de-mandima-en-ituri-cumule-328-deces-pres-de-400-cas",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "European Centre for Disease Prevention and Control",
+          "title": "Ebola disease: Multi-country outbreak 2026 — update 29 October",
+          "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Radio Okapi",
+          "title": "Crainte d'une résurgence d'Ebola après 26 décès signalés en trois semaines à Bankoko, à Bunia",
+          "url": "https://www.radiookapi.net/2026/10/29/actualite/sante/crainte-dune-resurgence-debola-apres-26-deces-signales-en-trois-semaines",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
         }
       ],
       "image": {
