@@ -1,0 +1,775 @@
+{
+  "date": "2026-10-30",
+  "language": "it",
+  "section": "world",
+  "publishedAt": "2026-10-30T15:23:01+01:00",
+  "editorialNote": "O / Edizione 30 ottobre 2026. I fatti verificabili sono distinti da dichiarazioni e questioni aperte, ogni storia riporta fonti datate e due o più Q&A specifiche. Le immagini sono illustrazioni originali, non foto dell'evento.",
+  "articles": [
+    {
+      "id": "dnipro-rail-platform-drone-strike-oct29",
+      "rank": 1,
+      "category": "world",
+      "title": "Dnipro, 14 morti nell'attacco alla banchina ferroviaria secondo le autorità ucraine",
+      "dek": "Il bilancio aggiornato della stazione va distinto dalle vittime di altri bombardamenti del 29 ottobre.",
+      "summary": "Il 29 ottobre un drone ha colpito una piattaforma ferroviaria affollata a Dnipro. Le autorità ucraine hanno aggiornato a 14 il numero delle vittime nella stazione; il totale nazionale della giornata, riportato come almeno 20 morti, comprende già quelle persone. L'identità precisa del vettore e le responsabilità di comando non sono accertate in modo indipendente.",
+      "body": [
+        "Giovedì 29 ottobre 2026 un attacco con drone ha colpito una banchina ferroviaria affollata a Dnipro, in Ucraina, dove era in partenza un treno suburbano. Reuters riporta un bilancio aggiornato di quattordici morti nella stazione, sulla base delle autorità ucraine. Le prime comunicazioni parlavano di tredici: la differenza riflette un aggiornamento, non due eventi distinti.",
+        "L'ondata di attacchi della giornata ha provocato altre vittime in diverse città. Reuters ha riportato almeno venti morti a livello nazionale, comprendendo Dnipro, Chernihiv, Kremenchuk e un successivo attacco notturno a Kyiv. Sommare le cifre della singola stazione al totale nazionale significherebbe contare due volte le stesse persone.",
+        "L'attacco ha interessato anche un dormitorio e ha contribuito a interruzioni elettriche, secondo i resoconti. L'impiego di droni rapidi e missili in diverse aree rende più complessa la protezione delle infrastrutture civili e dei collegamenti ferroviari. La presenza di civili in un luogo colpito è documentata, mentre la ricostruzione delle intenzioni del comando responsabile richiede prove distinte.",
+        "Le autorità ucraine accusano la Russia di colpire deliberatamente civili; Mosca nega di scegliere i civili come obiettivi. Le due dichiarazioni non sono equivalenti a un accertamento indipendente sulle intenzioni di questo singolo attacco. Il quadro umanitario va valutato attraverso luogo, orario, vittime e successive indagini, evitando di trasformare un bilancio provvisorio in cifra definitiva."
+      ],
+      "impact": 3,
+      "impactReason": "Vittime civili e danni ai trasporti confermano l'intensità della guerra e le ricadute sul sistema umanitario ucraino.",
+      "tags": [
+        "Dnipro",
+        "Ucraina",
+        "civili"
+      ],
+      "facts": [
+        "Il 29 ottobre la piattaforma ferroviaria di Dnipro è stata colpita durante la preparazione della partenza di un treno.",
+        "Il bilancio riferito da Reuters per Dnipro è stato aggiornato da 13 a 14 morti; la cifra di almeno 20 è riferita a più località ucraine."
+      ],
+      "perspectives": [
+        "Le autorità ucraine imputano l'attacco alle forze russe e denunciano la morte di civili.",
+        "Mosca afferma in generale di non prendere di mira deliberatamente i civili."
+      ],
+      "unknowns": [
+        "L'attribuzione tecnica dettagliata del drone e la catena di comando non sono accertate indipendentemente.",
+        "I bilanci potrebbero essere aggiornati dalle autorità competenti."
+      ],
+      "questions": [
+        {
+          "question": "Perché il bilancio di quattordici vittime a Dnipro non si somma alle venti vittime nazionali?",
+          "answer": "Il totale nazionale riferito da Reuters comprende già i morti della banchina di Dnipro, oltre alle persone uccise in altre località il 29 ottobre. Sommare i due conteggi produrrebbe un doppio conteggio."
+        },
+        {
+          "question": "Che cosa rende particolarmente grave un attacco a una banchina ferroviaria affollata?",
+          "answer": "Una piattaforma di partenza concentra viaggiatori senza protezioni adeguate contro esplosioni e frammenti. Il danno può inoltre compromettere un collegamento essenziale e l'accesso ai servizi, oltre alle vittime immediate."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Russian drone strike kills 14 on Ukrainian rail platform, 6 die in other attacks",
+          "url": "https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Folha de S.Paulo",
+          "title": "Drone mata em estação de trem na Ucrânia",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/10/drone-mata-13-em-estacao-de-trem-na-ucrania-kiev-faz-maior-ataque-a-russia.shtml",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Agence France-Presse",
+          "title": "'Horrific' Russian drone strike kills 14 at Ukraine train station: Kyiv",
+          "url": "https://www.afp.com/en/horrific-russian-drone-strike-kills-14-ukraine-train-station-kyiv",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/dnipro-rail-platform-drone-strike-oct29.svg",
+        "alt": "Grafica illustrativa originale: Dnipro, 14 morti nell'attacco alla banchina ferroviaria secondo le autorità ucraine, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/dnipro-rail-platform-drone-strike-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "contship-jet-bulgaria-sinking-oct29",
+      "rank": 2,
+      "category": "world",
+      "title": "Mar Nero, affonda la Contship Jet dopo un attacco con droni navali",
+      "dek": "Diciotto marinai salvati al largo della Bulgaria; i controlli iniziali non rilevano inquinamento, ma il carico richiede sorveglianza.",
+      "summary": "La nave portacontainer Contship Jet è affondata il 29 ottobre al largo della Bulgaria, dopo essere stata colpita il 28 da droni navali. I 18 membri dell'equipaggio sono stati salvati. Le autorità non hanno ancora attribuito con certezza l'attacco e stanno valutando i rischi del carico per l'ambiente marino.",
+      "body": [
+        "La portacontainer Contship Jet, battente bandiera liberiana e gestita da una società greca, è affondata il 29 ottobre 2026 al largo della Bulgaria. Era stata colpita il giorno precedente da tre droni marittimi, a circa ventuno miglia nautiche dalla costa. Associated Press e Reuters distinguono correttamente l'attacco del 28 dalla conferma dell'affondamento del 29.",
+        "Le autorità bulgare hanno soccorso tutti i diciotto membri dell'equipaggio, quattordici filippini e quattro ucraini, e li hanno trasferiti a Varna per controlli sanitari. La nave viaggiava da Haifa, in Israele, a Costanza, in Romania. Il salvataggio completo dell'equipaggio non elimina i rischi materiali derivanti dalla perdita dello scafo e del carico.",
+        "Secondo AP, erano trasportati materiali pericolosi, fra cui batterie agli ioni di litio e sostanze infiammabili. Le prime ricognizioni della marina bulgara non hanno rilevato segni di inquinamento; questo significa soltanto che non ne sono stati osservati durante quei controlli. Batteria, combustibile e contenitori sommersi richiedono valutazioni ambientali ulteriori.",
+        "L'attacco è avvenuto in una zona economica esclusiva, che non coincide con le acque territoriali sovrane dello Stato costiero. Bulgaria, Romania e Turchia hanno discusso coordinamento e condivisione delle informazioni sulla sicurezza marittima. La responsabilità dell'attacco resta non dimostrata: il sospetto attribuito da alcuni a Mosca non costituisce una prova."
+      ],
+      "impact": 2.5,
+      "impactReason": "L'affondamento di una nave commerciale e la presenza di carichi pericolosi rendono più vulnerabile una rotta marittima internazionale.",
+      "tags": [
+        "Mar-Nero",
+        "shipping",
+        "droni"
+      ],
+      "facts": [
+        "L'attacco alla Contship Jet è datato 28 ottobre; l'affondamento è stato confermato il 29.",
+        "Tutti i 18 marinai sono stati soccorsi e condotti a Varna; a bordo era presente anche carico pericoloso."
+      ],
+      "perspectives": [
+        "Bulgaria, Romania e Turchia sostengono un coordinamento di allerta e intelligence.",
+        "Le autorità bulgare non hanno presentato una prova conclusiva sull'autore dell'attacco."
+      ],
+      "unknowns": [
+        "Non è stato dimostrato chi abbia controllato i droni marittimi.",
+        "Non sono ancora noti gli effetti ambientali nel medio termine né il piano di recupero del carico."
+      ],
+      "questions": [
+        {
+          "question": "Perché colpire una nave nella zona economica esclusiva bulgara non equivale a colpirla in acque territoriali?",
+          "answer": "La zona economica esclusiva conferisce soprattutto diritti su risorse e attività economiche, mentre le acque territoriali ricadono sotto una sovranità più ampia. Entrambe le aree hanno implicazioni di sicurezza, ma basi giuridiche diverse."
+        },
+        {
+          "question": "Che cosa comporta il carico di batterie al litio della Contship Jet per il monitoraggio del relitto?",
+          "answer": "Materiali e combustibili possono creare pericoli chimici o d'incendio anche dopo l'affondamento. Un sopralluogo senza tracce visibili di inquinamento è incoraggiante ma non sostituisce controlli ripetuti di acqua e carico."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Ship sinks off Bulgaria's Black Sea coast after being hit by drones",
+          "url": "https://apnews.com/article/2bfd978d36fbb958781cf2721cabcf5c",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Greek container ship sinks after drone attack off Bulgaria",
+          "url": "https://www.reuters.com/world/europe/greek-container-ship-sinks-after-drone-attack-off-bulgaria-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/contship-jet-bulgaria-sinking-oct29.svg",
+        "alt": "Grafica illustrativa originale: Mar Nero, affonda la Contship Jet dopo un attacco con droni navali, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/contship-jet-bulgaria-sinking-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "israel-election-full-count-oct29",
+      "rank": 3,
+      "category": "politics",
+      "title": "Israele, scrutinio completato: nessun blocco raggiunge la maggioranza",
+      "dek": "53 seggi al blocco Netanyahu, 48 a Eisenkot, 19 ai partiti arabi; certificazione attesa il 4 novembre.",
+      "summary": "Lo scrutinio israeliano concluso il 29 ottobre ha assegnato 53 seggi al blocco di Netanyahu, 48 a quello di Eisenkot e 19 ai partiti arabi. Nessuno dispone autonomamente dei 61 seggi necessari per una maggioranza alla Knesset. La certificazione del risultato e le trattative di coalizione restano passaggi distinti.",
+      "body": [
+        "Il conteggio dei voti delle elezioni israeliane del 27 ottobre si è concluso il 29 con un Parlamento privo di maggioranza già pronta. ANSA e Times of Israel riportano 53 seggi al blocco di Benjamin Netanyahu, 48 a quello di Gadi Eisenkot e 19 alle due formazioni a guida araba. La Knesset conta 120 deputati e la soglia di maggioranza è 61.",
+        "Il dato segna un aggiornamento sostanziale rispetto agli exit poll della notte elettorale: le proiezioni televisive avevano indicato un quadro in parte diverso e non rappresentavano voti certificati. Il conteggio include anche le schede a doppia busta, utilizzate da categorie che votano lontano dal seggio ordinario. Il risultato amministrativamente definitivo è previsto per il 4 novembre.",
+        "Il Likud di Netanyahu conta 27 seggi e Yashar di Eisenkot 21. I diciannove deputati dei partiti arabi rendono aritmeticamente possibili combinazioni che superano 61, ma l'aritmetica non crea accordi politici. Diversi partner di Eisenkot hanno espresso contrarietà a un'intesa di governo con tali formazioni, complicando la negoziazione.",
+        "Il presidente Isaac Herzog dovrà ricevere i risultati e consultare le forze parlamentari per individuare un candidato con possibilità concrete di formare un governo. Netanyahu rivendica la guida del blocco più grande, Eisenkot promette di cercare una maggioranza alternativa. Non è ancora possibile dedurre dalla somma dei seggi quale dei due guiderà l'esecutivo."
+      ],
+      "impact": 3.5,
+      "impactReason": "L'assenza di una maggioranza dopo il conteggio influisce sulla stabilità politica di un paese centrale per gli equilibri mediorientali.",
+      "tags": [
+        "Israele",
+        "Knesset",
+        "coalizioni"
+      ],
+      "facts": [
+        "Lo scrutinio terminato il 29 ottobre assegna 53, 48 e 19 seggi rispettivamente ai due principali blocchi e ai partiti arabi.",
+        "La Knesset conta 120 deputati: la maggioranza parlamentare richiede 61 seggi."
+      ],
+      "perspectives": [
+        "Netanyahu si richiama al primato del Likud e del proprio blocco.",
+        "Eisenkot sostiene di poter cercare una maggioranza alternativa, ostacolata dai veti su possibili alleanze."
+      ],
+      "unknowns": [
+        "Il conteggio deve ancora completare l'iter di certificazione del 4 novembre.",
+        "Non esiste un'intesa di governo concordata."
+      ],
+      "questions": [
+        {
+          "question": "Perché i 53 seggi di Netanyahu non bastano per formare il nuovo governo israeliano?",
+          "answer": "La maggioranza in una Knesset di 120 membri richiede almeno 61 seggi. Il blocco Netanyahu ne ha 53, quindi dovrebbe ottenere il sostegno di almeno altri otto deputati tramite accordi politici."
+        },
+        {
+          "question": "In che modo i diciannove seggi dei partiti arabi possono incidere sul mandato di Herzog?",
+          "answer": "Potrebbero rendere numericamente possibile una maggioranza diversa da quella di Netanyahu, ma solo se altre forze accettassero di collaborare. Herzog deve valutare le raccomandazioni e la praticabilità degli accordi, non assegnare automaticamente l'incarico al blocco più numeroso."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "In Israele scrutinio completato, al blocco Netanyahu 53 seggi, a quello di Eisenkot 48",
+          "url": "https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/10/29/in-israele-scrutinio-completato-al-blocco-netanyahu-53-seggi-a-quello-di-eisenkot-48_d074c1ef-9655-4324-8140-c9cd6ca7f62f.html",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "The Times of Israel",
+          "title": "With all votes counted, Netanyahu's bloc has 53 seats, Eisenkot's 48, Arab parties 19",
+          "url": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "CBS News",
+          "title": "No clear winner in Israeli election as negotiations to follow",
+          "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/",
+          "role": "reporting",
+          "publishedAt": "2026-10-27"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/israel-election-full-count-oct29.svg",
+        "alt": "Grafica illustrativa originale: Israele, scrutinio completato: nessun blocco raggiunge la maggioranza, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/israel-election-full-count-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "oleshky-demining-humanitarian-oct29",
+      "rank": 4,
+      "category": "world",
+      "title": "Oleshky, Russia e Ucraina dichiarano completato lo sminamento per gli aiuti",
+      "dek": "Il convoglio è dichiarato pronto, non ancora consegnato; la tregua rimane locale.",
+      "summary": "Russia e Ucraina hanno annunciato il 29 ottobre il completamento delle operazioni di sminamento sulle rotte destinate a un intervento umanitario a Oleshky, nella regione di Kherson. La missione è dichiarata pronta, ma consegne ed evacuazioni non risultano completate e verificate. La tregua vale per un'area definita, non per l'intero conflitto.",
+      "body": [
+        "Il 29 ottobre 2026 i responsabili dei diritti umani di Russia e Ucraina hanno diffuso dichiarazioni quasi identiche sul completamento dello sminamento delle vie previste per una missione umanitaria a Oleshky, città della regione di Kherson sotto controllo russo. La novità segue l'accordo locale annunciato il 23 ottobre, non costituisce un nuovo cessate il fuoco nazionale.",
+        "I comunicati attribuiti alla russa Yana Lantratova e all'ucraino Dmytro Lubinets indicano che il convoglio è pronto a partire per l'ospedale distrettuale. Annunciano anche una finestra per permettere ai residenti di uscire e la successiva distribuzione di pacchi. Preparazione delle rotte, partenza e consegna sono tre fasi distinte che non vanno compresse in un'unica notizia di aiuti già ricevuti.",
+        "La popolazione rimasta a Oleshky vive in condizioni di gravi carenze di alimenti e medicinali. La protezione di un itinerario di evacuazione richiede coordinamento di sicurezza fra parti che continuano a combattersi altrove. Reuters descrive un accordo che non estende la sospensione delle ostilità al resto dell'Ucraina.",
+        "Entrambe le parti hanno riconosciuto un ruolo di mediazione alla first lady statunitense Melania Trump, con un coinvolgimento di Papa Leone secondo le dichiarazioni riportate. Tale attribuzione non dimostra che la missione sia stata interamente completata. Il principale indicatore umanitario sarà la verifica indipendente di consegne, persone evacuate e condizioni di sicurezza."
+      ],
+      "impact": 2.5,
+      "impactReason": "Una rotta umanitaria potenzialmente aperta può salvare vite in un centro assediato, ma la tregua resta geograficamente circoscritta.",
+      "tags": [
+        "Oleshky",
+        "tregua",
+        "evacuazioni"
+      ],
+      "facts": [
+        "I rappresentanti umanitari di Russia e Ucraina hanno dichiarato concluse le operazioni di sminamento il 29 ottobre.",
+        "L'accordo concerne un corridoio e una finestra umanitaria locale; al momento degli annunci il convoglio non era ancora verificato come consegnato."
+      ],
+      "perspectives": [
+        "I rappresentanti umanitari di entrambe le parti dichiarano concluse le operazioni di sminamento.",
+        "Residenti e operatori umanitari hanno bisogno di accesso verificabile, non soltanto di annunci."
+      ],
+      "unknowns": [
+        "Partenza, consegne e numero di evacuati non sono ancora confermati da verifiche indipendenti.",
+        "Il rispetto della tregua durante l'intera missione deve ancora essere accertato."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa permette concretamente lo sminamento annunciato a Oleshky?",
+          "answer": "La bonifica dichiarata delle vie di accesso dovrebbe consentire a un convoglio di raggiungere l'ospedale e a residenti di muoversi nella finestra concordata. Non certifica che mezzi e persone abbiano già compiuto il tragitto."
+        },
+        {
+          "question": "Perché la tregua di Oleshky non equivale alla cessazione delle ostilità in tutta la regione?",
+          "answer": "L'accordo è limitato a un'area e a scopi umanitari specifici, mentre i combattimenti proseguono in altri luoghi. La sua efficacia dipende dalla sicurezza effettiva delle rotte e dal rispetto locale della finestra concordata."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Russia, Ukraine say Oleshky demining operations complete, humanitarian operation to proceed",
+          "url": "https://www.reuters.com/world/russia-ukraine-say-oleshky-demining-operations-complete-humanitarian-operation-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Russia and Ukraine reach humanitarian operation stage in Oleshky",
+          "url": "https://apnews.com/article/aab99d86fccb26294711ef40407b416c",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "Russia, Ukraine announce completion of demining of route for humanitarian mission in Oleshky",
+          "url": "https://www.aa.com.tr/en/eurasia/russia-ukraine-announce-completion-of-demining-of-route-for-humanitarian-mission-in-oleshky/4105418",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/oleshky-demining-humanitarian-oct29.svg",
+        "alt": "Grafica illustrativa originale: Oleshky, Russia e Ucraina dichiarano completato lo sminamento per gli aiuti, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/oleshky-demining-humanitarian-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "russia-africa-moscow-summit-oct29",
+      "rank": 5,
+      "category": "politics",
+      "title": "Vertice Russia-Africa a Mosca, adottate dichiarazioni e un piano di cooperazione",
+      "dek": "La riunione del 28–29 ottobre punta ad ampliare legami economici e politici; i risultati concreti vanno distinti dalle promesse.",
+      "summary": "Il vertice Russia-Africa del 28–29 ottobre si è concluso con una dichiarazione e un piano di cooperazione per il 2027–2029, secondo la presidenza egiziana. Mosca ha promosso legami economici, energetici e strategici più stretti con diversi paesi africani. Impegni politici, volumi commerciali precedenti e risultati già realizzati non vanno confusi.",
+      "body": [
+        "Il terzo vertice Russia-Africa ha concluso la sessione plenaria a Mosca il 29 ottobre 2026, dopo l'apertura del giorno precedente. Associated Press descrive una partecipazione di quasi cinquanta paesi africani e di circa venti capi di Stato. La presidenza egiziana conferma la presenza di Abdel Fattah el-Sisi e l'adozione di documenti congiunti, incluso un piano di lavoro per il periodo 2027–2029.",
+        "Vladimir Putin ha presentato i rapporti russo-africani come un contributo a un ordine mondiale multipolare e ha sollecitato una più stretta cooperazione economica e strategica. Queste sono posizioni del governo russo, non una valutazione condivisa delle relazioni internazionali. Il vertice si svolge mentre Mosca compete con UE, Cina e Stati Uniti per investimenti e influenza.",
+        "Putin ha citato scambi Russia-Africa superiori a 27 miliardi di dollari nell'anno precedente e forniture di cereali, fertilizzanti e cooperazione militare. Sono cifre rese pubbliche dalla leadership russa e vanno attribuite alla fonte; la loro presentazione non certifica nuove consegne derivanti dal vertice. Anche gli accordi quadro differiscono da progetti finanziati, approvati ed eseguiti.",
+        "L'Egitto segnala la firma di una dichiarazione finale, un documento sulla cooperazione nell'intelligenza artificiale civile e un piano del forum. Per valutare gli effetti della riunione serviranno contratti, investimenti realizzati e verifiche indipendenti. Non sarebbe corretto trattare il numero dei partecipanti o dei documenti come prova di benefici economici già ottenuti."
+      ],
+      "impact": 2.5,
+      "impactReason": "Il forum incide sui rapporti diplomatici e su progetti economici e di sicurezza di numerosi stati, con risultati attuativi ancora da dimostrare.",
+      "tags": [
+        "Africa",
+        "Russia",
+        "diplomazia"
+      ],
+      "facts": [
+        "Il terzo vertice Russia-Africa si è tenuto a Mosca il 28 e 29 ottobre.",
+        "La presidenza egiziana riferisce l'adozione di una dichiarazione finale e di un piano di lavoro per il 2027–2029."
+      ],
+      "perspectives": [
+        "Putin descrive la Russia come partner di un ordine multipolare.",
+        "La presidenza egiziana mette in risalto il piano pluriennale e la cooperazione civile adottati."
+      ],
+      "unknowns": [
+        "Il valore e l'attuazione dei progetti annunciati non sono ancora verificabili.",
+        "La portata giuridica e finanziaria di molti impegni dipende da successivi accordi."
+      ],
+      "questions": [
+        {
+          "question": "Quale risultato formale del vertice Russia-Africa va oltre i discorsi di Putin?",
+          "answer": "La presidenza egiziana riferisce l'adozione di una dichiarazione finale, di un documento sulla cooperazione civile nell'IA e di un piano d'azione del forum per il 2027–2029. Sono impegni di indirizzo, non automaticamente progetti completati."
+        },
+        {
+          "question": "Perché i 27 miliardi di dollari di scambi citati a Mosca non misurano l'impatto del vertice?",
+          "answer": "La cifra è presentata da Putin come commercio dell'anno precedente, quindi precede l'incontro del 28–29 ottobre. L'effetto economico della riunione richiederebbe successivi dati su scambi, contratti e investimenti effettivamente realizzati."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Putin woos African leaders at a Moscow summit aimed at expanding Russia-Africa ties",
+          "url": "https://apnews.com/article/7fa56468d33f98dade1996202fb1f469",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Putin woos African leaders at a showcase summit",
+          "url": "https://www.reuters.com/world/africa/putin-woos-african-leaders-showcase-summit-says-russia-is-better-partner-than-2026-10-28/",
+          "role": "reporting",
+          "publishedAt": "2026-10-28"
+        },
+        {
+          "outlet": "Presidency of Egypt",
+          "title": "President El-Sisi Participates in Russia-Africa Plenary Session",
+          "url": "https://www.presidency.eg/en/%D9%82%D8%B3%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A%D8%A9/news29102026-1/",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/russia-africa-moscow-summit-oct29.svg",
+        "alt": "Grafica illustrativa originale: Vertice Russia-Africa a Mosca, adottate dichiarazioni e un piano di cooperazione, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/russia-africa-moscow-summit-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "north-korea-missiles-drone-exhibition-oct29",
+      "rank": 6,
+      "category": "world",
+      "title": "Corea del Nord, Seoul segnala circa dieci missili; Kim visita una mostra di droni",
+      "dek": "Lanci del 29 ottobre e resoconto KCNA del 30 sono eventi collegati ma non una prova delle capacità esibite.",
+      "summary": "Il 29 ottobre le forze armate sudcoreane hanno segnalato circa dieci missili balistici lanciati dalla Corea del Nord verso il mare. Il 30 l'agenzia KCNA ha descritto una visita di Kim Jong-un a una mostra di droni militari. Le misurazioni di Seoul e le dichiarazioni promozionali di Pyongyang sono fonti differenti e non equivalgono a una verifica indipendente delle prestazioni dei sistemi.",
+      "body": [
+        "Le forze armate della Corea del Sud hanno riferito il 29 ottobre 2026 che la Corea del Nord aveva lanciato circa dieci missili balistici a corto raggio dal settore di Wonsan verso il mare orientale. Seoul ha stimato una percorrenza intorno a 250 chilometri. Numero e distanza sono valutazioni militari sudcoreane, non misure effettuate indipendentemente dalla stampa.",
+        "Il ministero della Difesa giapponese ha segnalato un possibile lancio balistico e ha indicato che l'oggetto non sembrava caduto nella zona economica esclusiva del Giappone. Queste verifiche forniscono una seconda prospettiva geografica, ma non permettono da sole di identificare ogni vettore o di stabilire la sua destinazione intenzionale.",
+        "In un resoconto diffuso il 30 ottobre, l'agenzia ufficiale nordcoreana KCNA ha raccontato la visita di Kim Jong-un a un'esposizione di velivoli senza pilota e una dimostrazione di armi. Kim ha chiesto, secondo KCNA, superiorità nella tecnologia dei droni. La presenza di prototipi ed esibizioni non costituisce una prova indipendente della capacità di impiego su larga scala.",
+        "I due avvenimenti fanno parte della comunicazione militare di Pyongyang in un contesto di forti tensioni regionali. La Corea del Sud afferma di rafforzare la sorveglianza con Stati Uniti e Giappone. Per valutare il significato operativo occorre separare i tracciamenti esterni dei missili dalle caratteristiche che il governo nordcoreano attribuisce ai mezzi esposti."
+      ],
+      "impact": 2.5,
+      "impactReason": "I lanci e la promozione di sistemi senza pilota alimentano rischi e valutazioni di difesa nell'Asia nordorientale.",
+      "tags": [
+        "Corea-del-Nord",
+        "missili",
+        "droni"
+      ],
+      "facts": [
+        "Il 29 ottobre Seoul ha riferito circa dieci lanci dall'area di Wonsan e una distanza stimata intorno a 250 chilometri.",
+        "KCNA ha pubblicato il 30 ottobre un resoconto sulla mostra di droni visitata da Kim."
+      ],
+      "perspectives": [
+        "Seoul presenta i lanci come motivo per aumentare la sorveglianza.",
+        "KCNA attribuisce a Kim l'obiettivo di superiorità nella tecnologia dei droni."
+      ],
+      "unknowns": [
+        "Tipologia esatta e prestazioni di tutti i missili non sono verificabili da osservatori indipendenti.",
+        "Le capacità effettive dei droni esposti non sono dimostrate dalla sola propaganda ufficiale."
+      ],
+      "questions": [
+        {
+          "question": "Su quali informazioni si basa la distanza di circa 250 chilometri attribuita ai missili del 29 ottobre?",
+          "answer": "È una stima diffusa dallo Stato maggiore sudcoreano sulla traiettoria dei lanci dalla zona di Wonsan. Non è una dichiarazione di Pyongyang né una misura giornalistica autonoma."
+        },
+        {
+          "question": "Perché la dimostrazione di droni descritta da KCNA non prova la loro efficacia operativa?",
+          "answer": "Un'esposizione mostra sistemi selezionati e una dimostrazione può verificare funzioni circoscritte. Affidabilità, autonomia, resistenza alle difese e capacità produttiva richiedono prove operative ulteriori."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "North Korea fires short-range missiles as tensions rise",
+          "url": "https://apnews.com/article/b1a2feff5944a71c716ed37fd94e8aa5",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says",
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-projectile-toward-sea-off-east-coast-south-korea-military-says-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "North Korea's Kim urges absolute superiority in drone technology at weapons exhibition",
+          "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-urges-absolute-superiority-drone-technology-weapons-exhibition-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-30"
+        },
+        {
+          "outlet": "Yonhap News Agency",
+          "title": "N. Korea fires nearly dozen ballistic missiles after S. Korea's dialogue offer",
+          "url": "https://en.yna.co.kr/view/AEN20261019003553315",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/north-korea-missiles-drone-exhibition-oct29.svg",
+        "alt": "Illustrazione originale: Corea del Nord, Seoul segnala circa dieci missili; Kim visita una mostra di droni",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/north-korea-missiles-drone-exhibition-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "cappadocia-goreme-rockfall-oct29",
+      "rank": 7,
+      "category": "society",
+      "title": "Cappadocia, crolla una formazione rocciosa a Göreme: almeno tre morti",
+      "dek": "Il bilancio è salito dai primi due morti a tre e cinque feriti; le cause sono ancora sotto indagine.",
+      "summary": "Il cedimento di un camino delle fate vicino a Göreme, in Cappadocia, ha ucciso almeno tre persone e ne ha ferite cinque il 29 ottobre. I primi resoconti descrivevano un bilancio inferiore, aggiornato durante i soccorsi. Il governatore ha ipotizzato un ruolo delle piogge, ma l'origine del crollo deve ancora essere accertata.",
+      "body": [
+        "Una formazione vulcanica nota come camino delle fate è crollata il 29 ottobre 2026 presso l'area turistica di Göreme, nella Cappadocia turca. Associated Press e ANSA riportano almeno tre morti e cinque feriti nelle comunicazioni più aggiornate della giornata. I primi dispacci Reuters descrivevano due decessi e un ferito, in una fase precedente dei soccorsi.",
+        "Il cedimento ha interessato un'area vicina all'ingresso del museo all'aperto e a un parcheggio. Polizia, gendarmeria e squadre di emergenza hanno cercato persone potenzialmente rimaste sotto i detriti, mentre altri visitatori sono stati allontanati per il pericolo di ulteriori distacchi. Il bilancio definitivo dipende dalla conclusione delle ricerche.",
+        "I cosiddetti camini delle fate sono colonne di rocce vulcaniche modellate dall'erosione; la loro forma spettacolare non garantisce stabilità. Il governatore locale Hüseyin Kok ha indicato le forti piogge recenti come causa probabile del cedimento. La valutazione è preliminare e l'indagine avviata dalle autorità dovrà verificare i fattori geologici e le condizioni del sito.",
+        "L'episodio investe una destinazione turistica importante e solleva interrogativi sulla gestione del rischio nelle aree naturali esposte a frane e distacchi. La protezione dei visitatori può includere delimitazioni e monitoraggio, ma il singolo evento non basta a giudicare la sicurezza di tutte le formazioni della Cappadocia."
+      ],
+      "impact": 1.5,
+      "impactReason": "L'incidente ha provocato vittime e richiama la gestione del rischio in un sito turistico importante, con conseguenze soprattutto locali.",
+      "tags": [
+        "Cappadocia",
+        "geologia",
+        "soccorso"
+      ],
+      "facts": [
+        "Il 29 ottobre è crollata una formazione rocciosa nell'area turistica di Göreme.",
+        "AP e ANSA hanno aggiornato il bilancio a tre morti e cinque feriti, dopo un primo conteggio inferiore."
+      ],
+      "perspectives": [
+        "Il governatore locale indica le piogge come possibile fattore scatenante.",
+        "Gli investigatori hanno avviato accertamenti e i soccorritori mantengono precauzioni contro nuovi distacchi."
+      ],
+      "unknowns": [
+        "Le cause geologiche precise non sono ancora determinate.",
+        "Le operazioni di ricerca potrebbero produrre ulteriori aggiornamenti."
+      ],
+      "questions": [
+        {
+          "question": "Perché i camini delle fate di Göreme possono crollare nonostante abbiano resistito per secoli?",
+          "answer": "Sono formazioni vulcaniche alterate dall'erosione e dalle fratture; acqua, gelo, gravità e condizioni locali possono indebolirle nel tempo. Il governatore ha collegato questo crollo alle piogge, ma l'attribuzione definitiva richiede indagine."
+        },
+        {
+          "question": "Come si spiega il passaggio del bilancio da due a tre morti in Cappadocia?",
+          "answer": "I primi dispacci fotografavano una fase iniziale dei soccorsi. Le comunicazioni successive di AP e ANSA hanno aggiornato il conto a tre decessi e cinque feriti; non si tratta di incidenti diversi."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "A rock formation collapse in Turkey's touristic Cappadocia region kills at least 3",
+          "url": "https://apnews.com/article/701991bfabd99898df47e8eba0fbd9fd",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Crolla un camino delle fate in Cappadocia, tre morti e 5 feriti",
+          "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/29/crolla-un-camino-delle-fate-in-cappadocia-tre-morti-e-5-feriti_3e67cf19-d822-4133-a46f-93b34b8292e6.html",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Fairy chimney rockfall kills two in Turkey's Cappadocia tourist attraction",
+          "url": "https://www.reuters.com/business/environment/fairy-chimney-rockfall-kills-two-turkeys-cappadocia-tourist-attraction-after-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/cappadocia-goreme-rockfall-oct29.svg",
+        "alt": "Illustrazione originale: Cappadocia, crolla una formazione rocciosa a Göreme: almeno tre morti",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/cappadocia-goreme-rockfall-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "congo-ebola-transmission-oct29",
+      "rank": 8,
+      "category": "society",
+      "title": "Ebola nella RDC, gli esperti avvertono: il plateau dei casi non indica controllo",
+      "dek": "Nuova analisi del 29 ottobre su contagio non tracciato; il superamento dei 10mila casi era già noto il 27.",
+      "summary": "L'epidemia di Ebola Bundibugyo nella Repubblica Democratica del Congo continua a registrare centinaia di nuovi casi ogni settimana. AP il 29 ottobre ha riferito un plateau di circa 400–500 casi e gravi lacune nella tracciatura dei contatti. ECDC e redazioni congolesi documentano trasmissione ancora attiva e bilanci locali da riconciliare, senza che i dati precedenti siano presentati come novità del giorno.",
+      "body": [
+        "Associated Press ha riferito il 29 ottobre 2026 che l'epidemia di Ebola nella Repubblica Democratica del Congo continua a registrare circa 400–500 nuovi casi settimanali. La curva sembra essersi stabilizzata, ma non mostra un calo sostenuto. Il numero cumulativo di oltre 10mila contagi, riportato da Reuters il 27 ottobre, non è una novità del 29.",
+        "Gli esperti citati da AP spiegano che meno di un quarto dei nuovi pazienti risultava essere stato già identificato come contatto di un caso noto. Il dato segnala difficoltà nel rintracciare le catene di trasmissione: se le persone infettate non sono note agli operatori prima che sviluppino sintomi, l'isolamento e la sorveglianza diventano più difficili.",
+        "La sorveglianza si confronta con segnalazioni locali difficili da riconciliare. Il 29 ottobre la redazione congolese Actualite.cd ha riferito che il medico capo della zona di Mandima, in Ituri, indicava 328 decessi cumulativi e quasi 400 casi confermati fra il primo e il 27 ottobre; nel precedente bollettino nazionale comparivano invece 201 decessi cumulativi a Mandima al 21 ottobre. I periodi e i sistemi di conteggio sono differenti, ma lo scarto richiede chiarimenti. Radio Okapi riporta inoltre timori a Bankoko su 26 decessi non confermati dalle autorità sanitarie: non devono essere inseriti nel bilancio certificato.",
+        "La valutazione ECDC aggiornata il 29 ottobre registra 10.193 casi confermati e 4.960 morti nella RDC, su dati nazionali fino al 27 ottobre, e riconosce trasmissione comunitaria in corso. Il rischio di esportazione richiede sorveglianza, ma le situazioni dei paesi esterni all'epicentro non vanno equiparate a quella delle province colpite. La priorità evidenziata dagli esperti è individuare le catene non note; il plateau settimanale non equivale alla fine dell'epidemia."
+      ],
+      "impact": 3.5,
+      "impactReason": "Una grave epidemia con trasmissione non tracciata comporta rischi elevati per la salute pubblica e i sistemi sanitari regionali.",
+      "tags": [
+        "Congo",
+        "Ebola",
+        "epidemia"
+      ],
+      "facts": [
+        "AP riporta circa 400–500 nuovi contagi settimanali e meno di un quarto dei pazienti nuovi già identificati come contatti.",
+        "L'aggiornamento ECDC del 29 ottobre riporta 10.193 casi e 4.960 morti nella RDC su dati al 27 ottobre."
+      ],
+      "perspectives": [
+        "Gli esperti consultati da AP avvertono che la stabilizzazione non significa contenimento.",
+        "Le autorità congolesi avevano già comunicato il superamento di 10mila contagi il 27 ottobre.",
+        "Actualite.cd e Radio Okapi presentano resoconti dal territorio e distinguono i bilanci dichiarati da quelli convalidati."
+      ],
+      "unknowns": [
+        "Non è noto quando l'andamento dei casi tornerà a scendere in modo stabile.",
+        "Le autorità non hanno ancora riconciliato i bilanci locali divergenti riferiti per Mandima e le segnalazioni non confermate di Bankoko."
+      ],
+      "questions": [
+        {
+          "question": "Perché 400–500 casi di Ebola alla settimana non rappresentano un miglioramento sufficiente?",
+          "answer": "Un plateau significa che i nuovi contagi restano a un livello simile, non che si stanno riducendo. Finché centinaia di persone si infettano ogni settimana, la trasmissione continua e può espandersi."
+        },
+        {
+          "question": "Che cosa indica il fatto che meno di un quarto dei nuovi pazienti fosse un contatto già noto?",
+          "answer": "La tracciatura intercetta solo una parte delle catene di contagio. Molti pazienti emergono senza essere stati sorvegliati come contatti, riducendo l'efficacia dell'individuazione precoce e dell'isolamento."
+        },
+        {
+          "question": "Perché i numeri di Mandima riferiti dal medico locale e dal bollettino nazionale non vanno sommati?",
+          "answer": "Actualite.cd cita 328 decessi cumulativi secondo il medico di zona il 27 ottobre, mentre il bollettino nazionale ne riportava 201 al 21 ottobre. Sono conteggi relativi alla stessa zona ma a date e basi da riconciliare; sommarli produrrebbe una cifra priva di significato epidemiologico."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Experts warn of wider spread as Ebola outbreak reaches plateau",
+          "url": "https://apnews.com/article/8bec4479473d61048250615db96eae55",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Congo's Ebola infections surpass 10,000, government says",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-infections-surpass-10000-government-says-2026-10-27/",
+          "role": "reporting",
+          "publishedAt": "2026-10-27"
+        },
+        {
+          "outlet": "Actualite.cd",
+          "title": "Ebola en RDC : Mandima cumule 328 décès et près de 400 cas confirmés en octobre, selon son médecin-chef",
+          "url": "https://actualite.cd/index.php/2026/10/29/ebola-en-rdc-la-seule-zone-de-sante-de-mandima-en-ituri-cumule-328-deces-pres-de-400-cas",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "European Centre for Disease Prevention and Control",
+          "title": "Ebola disease: Multi-country outbreak 2026 — update 29 October",
+          "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Radio Okapi",
+          "title": "Crainte d'une résurgence d'Ebola après 26 décès signalés en trois semaines à Bankoko, à Bunia",
+          "url": "https://www.radiookapi.net/2026/10/29/actualite/sante/crainte-dune-resurgence-debola-apres-26-deces-signales-en-trois-semaines",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/congo-ebola-transmission-oct29.svg",
+        "alt": "Illustrazione originale: Ebola nella RDC, gli esperti avvertono: il plateau dei casi non indica controllo",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/congo-ebola-transmission-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "spain-urda-train-inquiry-oct29",
+      "rank": 9,
+      "category": "world",
+      "title": "Urda, 69 vittime dopo la rettifica; indagine aperta sulla collisione ferroviaria",
+      "dek": "Dopo lo scontro del 28 ottobre tra treni AVE e Iryo, l'autorità tecnica invita a non anticipare le cause.",
+      "summary": "Le autorità spagnole hanno corretto a 69 il numero delle persone morte nello scontro ferroviario di Urda del 28 ottobre. I resoconti del 29 descrivono l'analisi di segnalamento, comunicazioni e registrazioni di bordo, ma l'autorità tecnica non ha ancora individuato una causa definitiva. Ipotesi di guasto e possibili errori operativi restano elementi investigativi.",
+      "body": [
+        "Il 29 ottobre 2026 le autorità spagnole hanno aggiornato a 69 le vittime della collisione ferroviaria avvenuta alle 08:53 del 28 ottobre presso Urda, nella provincia di Toledo. L'agenzia EFE ha documentato una confusione temporanea: una scheda investigativa aveva indicato 74 morti, poi il dato è stato rettificato a 69. Non si tratta di una nuova tragedia.",
+        "L'incidente ha coinvolto un AVE Renfe diretto a Siviglia e un convoglio Iryo fermo sulla stessa linea. I soccorritori sono intervenuti su vetture precipitate lungo un terrapieno e hanno continuato assistenza, recupero e identificazione. Il bilancio delle persone ricoverate evolve con le dimissioni e non va sommato meccanicamente ai feriti di aggiornamenti precedenti.",
+        "Gli investigatori stanno esaminando registrazioni di bordo, comunicazioni con il centro di controllo, manutenzione e procedure di autorizzazione alla circolazione. Le ricostruzioni giornalistiche citano malfunzionamenti del sistema di protezione LZB e una possibile gestione in modalità degradata. L'autorità AITAT ha però precisato il 29 ottobre che tutte le ipotesi restano aperte.",
+        "La ricerca di una responsabilità non può essere ridotta all'azione di un singolo operatore prima di aver confrontato orari sincronizzati, istruzioni e informazioni disponibili nelle cabine e al centro di controllo. Il rischio sistemico riguarda l'interazione fra apparecchiature, procedure, carichi di lavoro e formazione. La vicenda è un aggiornamento investigativo rispetto all'incidente del 28."
+      ],
+      "impact": 3,
+      "impactReason": "Un disastro ferroviario con 69 vittime impone revisioni di sicurezza e ha importanti conseguenze umane e politiche.",
+      "tags": [
+        "Urda",
+        "ferrovie",
+        "sicurezza"
+      ],
+      "facts": [
+        "La collisione avvenuta a Urda il 28 ottobre è stata seguita dalla rettifica del bilancio a 69 morti.",
+        "L'autorità investigativa spagnola AITAT ha dichiarato il 29 ottobre che le ipotesi rimangono aperte."
+      ],
+      "perspectives": [
+        "L'AITAT afferma che nessuna ipotesi tecnica può ancora essere esclusa.",
+        "Le inchieste di stampa approfondiscono possibili errori operativi e guasti di sicurezza senza sostituire le conclusioni ufficiali."
+      ],
+      "unknowns": [
+        "Cause, concatenazione degli errori e responsabilità individuali sono ancora sotto indagine.",
+        "Il numero definitivo di feriti e l'esito delle identificazioni possono cambiare."
+      ],
+      "questions": [
+        {
+          "question": "Qual è il ruolo del sistema LZB nella sicurezza della linea di Urda?",
+          "answer": "LZB è un sistema di controllo continuo della marcia che trasmette informazioni sui limiti di velocità e sulla separazione tra treni. Se opera in modalità degradata, diventano cruciali regole alternative e autorizzazioni del controllo del traffico."
+        },
+        {
+          "question": "Perché l'AITAT non attribuisce ancora la collisione a un singolo errore umano?",
+          "answer": "L'indagine deve ricostruire dati di bordo, comunicazioni, segnalamento, manutenzione e procedure prima di stabilire cosa ciascuno sapesse. L'autorità ha esplicitamente lasciato aperte tutte le ipotesi."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "EFE",
+          "title": "La CIAF rectifica y cifra en 69 los fallecidos en Urda",
+          "url": "https://efe.com/espana/2026-10-29/ciaf-cifra-fallecidos-accidente-urda/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "El País",
+          "title": "La Guardia Civil investiga en qué circunstancias se produjo el error humano del accidente de Urda",
+          "url": "https://elpais.com/espana/2026-10-29/la-guardia-civil-investiga-en-que-circunstancias-se-produjo-el-error-humano-del-accidente-de-urda.html",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Europa Press",
+          "title": "La Autoridad que investiga el accidente mantiene abiertas todas las hipótesis",
+          "url": "https://www.europapress.es/economia/transportes-00343/noticia-autoridad-investiga-accidente-mantiene-abiertas-todas-hipotesis-20261029214015.html",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/spain-urda-train-inquiry-oct29.svg",
+        "alt": "Illustrazione originale: Urda, 69 vittime dopo la rettifica; indagine aperta sulla collisione ferroviaria",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/spain-urda-train-inquiry-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "eu-canada-montreal-summit-oct29",
+      "rank": 10,
+      "category": "politics",
+      "title": "Vertice UE-Canada a Montréal, sul tavolo un'alleanza più stretta senza adesione",
+      "dek": "L'incontro del 29–30 ottobre discute commercio, sicurezza e materie prime; nessuno status giuridico di membro associato è stato adottato.",
+      "summary": "Il 29 ottobre è iniziato a Montréal un vertice UE-Canada su commercio, materie prime, energia, sicurezza e collaborazione tecnologica. I leader discutono un rapporto più stretto, talvolta descritto politicamente come associazione, ma non esiste uno status giuridico approvato di membro associato dell'UE. La dichiarazione conclusiva è prevista al termine del 30 ottobre.",
+      "body": [
+        "Il 29 ottobre 2026 è iniziato a Montréal il vertice fra Canada e Unione europea, destinato a proseguire il 30. Per l'UE partecipano António Costa e Ursula von der Leyen, mentre il Canada ospita i colloqui. L'agenda ufficiale comprende commercio, energia, sicurezza, materie prime critiche, digitale, ricerca e scambi fra cittadini.",
+        "I leader intendono discutere un'alleanza per il futuro come cornice di cooperazione più ampia. L'espressione membro associato è stata impiegata nel dibattito politico, ma non individua oggi una categoria di adesione prevista dai trattati UE. La Commissione ha chiarito nel briefing del 29 ottobre che il concetto resta un'idea ambiziosa da sviluppare.",
+        "Secondo la documentazione del Consiglio europeo, una dichiarazione congiunta è attesa al termine dei lavori del 30 ottobre. La differenza fra agenda e risultato è decisiva: parlare di sicurezza o intelligenza artificiale non significa che siano già stati firmati nuovi trattati vincolanti in queste materie.",
+        "L'incontro si inserisce nel tentativo di rafforzare le catene di fornitura e la collaborazione fra partner che condividono parte delle priorità commerciali e strategiche. Il suo impatto concreto dipenderà dal testo finale, da eventuali accordi attuativi e dalle risorse disponibili. La notizia del 29 è l'apertura dei negoziati, non la loro conclusione."
+      ],
+      "impact": 2.5,
+      "impactReason": "La cooperazione UE-Canada può incidere su approvvigionamenti e sicurezza transatlantica, ma il vertice non ha ancora prodotto esiti definitivi verificati.",
+      "tags": [
+        "Canada",
+        "Unione-Europea",
+        "vertice"
+      ],
+      "facts": [
+        "Il vertice UE-Canada è programmato a Montréal il 29 e il 30 ottobre 2026.",
+        "Il Consiglio europeo ha annunciato una dichiarazione congiunta attesa a chiusura del vertice."
+      ],
+      "perspectives": [
+        "La Commissione sostiene la ricerca di una relazione più stretta, anche tramite nuove formule politiche.",
+        "Il Consiglio dell'UE descrive l'incontro come occasione per lanciare una cornice comune di cooperazione."
+      ],
+      "unknowns": [
+        "La dichiarazione finale del 30 ottobre non era ancora disponibile nel momento della ricerca.",
+        "Non è accertata l'eventuale forma giuridica futura dei rapporti rafforzati."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa significa per il Canada l'espressione membro associato dell'UE discussa a Montréal?",
+          "answer": "È una proposta politica di avvicinamento, non uno status di adesione definito dai trattati dell'Unione. Il briefing della Commissione del 29 ottobre lo descrive come concetto da sviluppare attraverso la partnership."
+        },
+        {
+          "question": "Perché l'agenda del vertice UE-Canada non può essere presentata come un accordo già concluso?",
+          "answer": "Il Consiglio europeo prevede una dichiarazione al termine dell'incontro del 30 ottobre. Prima del testo finale, discussioni su energia, difesa e commercio sono temi negoziali e non impegni giuridici adottati."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "EU and Canada discuss deeper partnership at Montreal summit",
+          "url": "https://apnews.com/article/614e0028ea8a45adaf6b793f3f2c986d",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "The Canadian Press",
+          "title": "Canada welcomes EU leaders to Montreal for talks on next steps in relationship",
+          "url": "https://ottawa.citynews.ca/2026/10/29/canada-welcomes-eu-leaders-to-montreal-for-talks-on-next-steps-in-relationship/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Council of the European Union",
+          "title": "EU-Canada summit, 29-30 October 2026",
+          "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/10/29-30/",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "European Commission",
+          "title": "EC Midday press briefing of 29/10/2026 — Canada association membership Q&A",
+          "url": "https://audiovisual.ec.europa.eu/en/media/video/I-296482",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/eu-canada-montreal-summit-oct29.svg",
+        "alt": "Illustrazione originale: Vertice UE-Canada a Montréal, sul tavolo un'alleanza più stretta senza adesione",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/eu-canada-montreal-summit-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

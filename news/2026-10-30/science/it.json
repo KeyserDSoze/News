@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-30",
+  "language": "it",
+  "section": "science",
+  "publishedAt": "2026-10-30T15:23:01+01:00",
+  "editorialNote": "O / Edizione 30 ottobre 2026. I fatti verificabili sono distinti da dichiarazioni e questioni aperte, ogni storia riporta fonti datate e due o più Q&A specifiche. Le immagini sono illustrazioni originali, non foto dell'evento.",
+  "articles": [
+    {
+      "id": "seabird-jetlag-sun-compass-oct29",
+      "rank": 1,
+      "category": "climate",
+      "title": "Le berte soffrono di disallineamento dell'orologio interno durante lunghi voli",
+      "dek": "Uno studio su vent'anni di GPS rileva errori fino a 15 gradi, corretti dagli adulti; i rischi per i giovani sono ipotetici.",
+      "summary": "Uno studio apparso su Science il 29 ottobre analizza vent'anni di tracciamenti delle berte minori atlantiche. I voli rapidi lungo le longitudini possono disallineare il loro orologio interno rispetto al Sole, producendo errori di rotta fino a circa 15 gradi. Gli adulti in genere compensano lo scarto; le conseguenze più importanti ipotizzate per uccelli inesperti non sono state misurate direttamente.",
+      "body": [
+        "Uno studio pubblicato su Science il 29 ottobre 2026 ha esaminato vent'anni di tracciamenti GPS delle berte minori atlantiche, uccelli marini che percorrono grandi distanze per cercare cibo. Science News e Guardian descrivono un effetto di disallineamento fra orologio biologico e ora solare locale durante rapidi spostamenti est-ovest, comparabile per alcuni aspetti al jet lag.",
+        "Gli autori hanno analizzato oltre mille individui e migliaia di viaggi di foraggiamento. La bussola solare richiede non soltanto di vedere la posizione del Sole, ma anche di interpretarla rispetto all'ora del giorno. Quando il corpo dell'animale resta regolato a una longitudine diversa, la direzione calcolata può risultare spostata.",
+        "Lo scostamento massimo osservato o stimato nello studio è intorno a quindici gradi. Gli adulti riescono generalmente a correggere la rotta, aggiungendo secondo gli autori circa cinque chilometri a un viaggio di mille. È una differenza modesta: non si può affermare che gli adulti siano stati osservati perdersi per centinaia di chilometri.",
+        "I ricercatori ritengono che soggetti alla prima migrazione, privi di esperienza o di una mappa spaziale consolidata, potrebbero soffrire deviazioni più grandi. Questa è un'estrapolazione delle implicazioni biologiche, non una misura diretta delle loro distanze di errore. Lavori sul campo e controlli su altre specie potranno stabilire quanto il fenomeno incida sulla sopravvivenza."
+      ],
+      "impact": 2.5,
+      "impactReason": "Dati di lunga durata chiariscono un meccanismo ecologico di orientamento in natura, con implicazioni ancora circoscritte.",
+      "tags": [
+        "berte",
+        "navigazione",
+        "orologio-biologico"
+      ],
+      "facts": [
+        "La ricerca pubblicata il 29 ottobre utilizza tracciamenti GPS raccolti nell'arco di vent'anni.",
+        "Negli adulti l'errore di orientamento solare può raggiungere circa 15 gradi, ma i percorsi osservati mostrano correzioni."
+      ],
+      "perspectives": [
+        "Gli autori collegano il disallineamento temporale agli errori di bussola solare.",
+        "Esperti indipendenti osservano che gli effetti misurati sugli adulti sono contenuti."
+      ],
+      "unknowns": [
+        "L'impatto sulle prime migrazioni e sulla sopravvivenza non è stato quantificato direttamente.",
+        "La generalizzabilità del fenomeno ad altre specie resta da valutare."
+      ],
+      "questions": [
+        {
+          "question": "Perché attraversare rapidamente longitudini diverse può far sbagliare la bussola solare alle berte?",
+          "answer": "La posizione del Sole cambia sia con la direzione geografica sia con l'ora locale. Se l'orologio interno resta sincronizzato con il luogo di partenza, la stessa posizione apparente viene interpretata con un orario sbagliato e la direzione stimata si sposta."
+        },
+        {
+          "question": "Che differenza c'è tra i 15 gradi misurati negli adulti e le deviazioni ipotizzate per gli inesperti?",
+          "answer": "Negli adulti tracciati l'errore di orientamento si corregge e aggiunge pochi chilometri al percorso. Le possibili deviazioni molto più ampie dei giovani sono una previsione dei ricercatori, non una distanza osservata nello studio."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "title": "Why jet lag throws even foraging seabirds off course",
+          "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Science News",
+          "title": "Seabirds get jet lag, too — and it can throw them a bit off course",
+          "url": "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Zoological Society of London",
+          "title": "Seabirds can get jetlag too",
+          "url": "https://www.zsl.org/news-and-events/news/seabirds-can-get-jetlag-too",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Science",
+          "title": "Rapid longitudinal flights cause time shifts and sun compass error",
+          "url": "https://doi.org/10.1126/science.adz2542",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/seabird-jetlag-sun-compass-oct29.svg",
+        "alt": "Illustrazione scientifica originale: Le berte soffrono di disallineamento dell'orologio interno durante lunghi voli",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/seabird-jetlag-sun-compass-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "teghaza-001-martian-meteorite-oct29",
+      "rank": 2,
+      "category": "technology",
+      "title": "Teghaza 001, un meteorite marziano conserva tracce di acqua di oltre 4,1 miliardi di anni fa",
+      "dek": "Il sasso fu trovato nel Sahara nel 2022: la novità del 29 ottobre è lo studio della sua età e storia geologica.",
+      "summary": "La nuova analisi pubblicata il 29 ottobre di Teghaza 001, meteorite marziano raccolto nel Sahara nel 2022, colloca parte del campione a oltre 4,1 miliardi di anni. Datazioni isotopiche e segnali mineralogici indicano interazioni antiche fra acqua e roccia. Il lavoro ricostruisce aspetti della geologia di Marte, non dimostra la presenza di vita.",
+      "body": [
+        "Uno studio presentato su Science il 29 ottobre 2026 descrive Teghaza 001, un meteorite marziano di circa 800 grammi ritrovato nel Mali nel 2022. L'analisi lo colloca fra i più antichi frammenti di Marte conosciuti sulla Terra, con materiali formatisi oltre 4,1 miliardi di anni fa. La pubblicazione scientifica è nuova; il ritrovamento non lo è.",
+        "L'origine marziana viene identificata attraverso la composizione minerale e il confronto delle firme isotopiche dell'ossigeno con meteoriti già attribuiti al pianeta. Minuscoli zirconi che contengono uranio permettono di stimare età molto antiche usando il decadimento radioattivo verso il piombo. I ricercatori hanno usato anche la datazione rubidio-stronzio in situ per preservare parte del raro campione.",
+        "Tracce chimiche e mineralogiche suggeriscono che l'acqua interagisse con la crosta marziana quando il materiale aveva oltre quattro miliardi di anni. Questo arricchisce la ricostruzione di un pianeta geologicamente più dinamico e ricco d'acqua rispetto a oggi. Non è una prova di organismi viventi: acqua e condizioni potenzialmente abitabili sono proprietà diverse dalla presenza effettiva di vita.",
+        "NASA e Università del New Mexico segnalano caratteristiche del meteorite insolite rispetto ad altri campioni. La possibile area di provenienza sul pianeta è dedotta da analogie mineralogiche e da telerilevamento, non identificata con certezza. Il frammento è stato espulso da Marte in un impatto e ha poi raggiunto la Terra in un momento ancora non ricostruito."
+      ],
+      "impact": 3,
+      "impactReason": "Una rara finestra mineralogica su Marte primordiale rafforza i dati sulla storia dell'acqua e sulla formazione della crosta planetaria.",
+      "tags": [
+        "Marte",
+        "meteoriti",
+        "geologia"
+      ],
+      "facts": [
+        "Teghaza 001 è stato ritrovato nel Mali nel 2022; l'articolo scientifico che ne ricostruisce l'età è del 29 ottobre 2026.",
+        "Le analisi di zirconi e altri minerali indicano formazione di materiali marziani oltre 4,1 miliardi di anni fa e interazioni con acqua."
+      ],
+      "perspectives": [
+        "NASA interpreta il campione come una testimonianza eccezionale della crosta marziana antica.",
+        "Gli studiosi dell'Università del New Mexico sottolineano quanto una singola roccia limiti le generalizzazioni planetarie."
+      ],
+      "unknowns": [
+        "Il punto esatto di provenienza su Marte e la data di caduta nel Sahara non sono conosciuti.",
+        "Il campione non può da solo ricostruire tutte le condizioni ambientali di Marte primordiale."
+      ],
+      "questions": [
+        {
+          "question": "Come permettono gli zirconi di datare la storia antica di Teghaza 001?",
+          "answer": "Gli zirconi incorporano uranio quando cristallizzano; misurando il rapporto fra uranio residuo e piombo prodotto dal suo decadimento si può stimare il tempo trascorso dalla formazione o da eventi che hanno modificato il cristallo."
+        },
+        {
+          "question": "Perché le tracce di acqua in Teghaza 001 non sono una scoperta di vita marziana?",
+          "answer": "Minerali e isotopi documentano interazioni fra acqua e roccia, che sono processi geologici. Per stabilire una presenza biologica servirebbero prove specifiche di organismi o loro prodotti, che lo studio non fornisce."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Martian meteorite found in the Sahara is 4.1 billion years old",
+          "url": "https://www.reuters.com/science/martian-meteorite-found-sahara-is-41-billion-years-old-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "NASA JPL",
+          "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+          "url": "https://www.jpl.nasa.gov/news/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "Ancient Martian meteorite discovered in Mali formed over 4.1 billion years ago: Study",
+          "url": "https://m.aa.com.tr/en/africa/ancient-martian-meteorite-discovered-in-mali-formed-over-41-billion-years-ago-study/4105569",
+          "role": "reporting",
+          "publishedAt": "2026-10-30"
+        },
+        {
+          "outlet": "University of New Mexico",
+          "title": "UNM scientists help uncover 4.1 billion-year-old Martian meteorite",
+          "url": "https://news.unm.edu/news/unm-scientists-help-uncover-4-1-billion-year-old-martian-meteorite-revealing-clues-to-planet-s-ancient-past",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Science",
+          "title": "4.1-billion-year-old Martian meteorite Teghaza 001 constrains the early crust and water history of Mars",
+          "url": "https://doi.org/10.1126/science.adz5646",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/teghaza-001-martian-meteorite-oct29.svg",
+        "alt": "Illustrazione scientifica originale: Teghaza 001, un meteorite marziano conserva tracce di acqua di oltre 4,1 miliardi di anni fa",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/teghaza-001-martian-meteorite-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "young-colorectal-cancer-cell-atlas-oct29",
+      "rank": 3,
+      "category": "society",
+      "title": "Cancro colorettale, analizzati 189 tumori per studiare le differenze associate all'età",
+      "dek": "Un atlante di oltre 850mila cellule trova segnali biologici nei tumori sotto i 50 anni, senza dimostrare cause o nuove cure.",
+      "summary": "Uno studio su Nature Medicine del 29 ottobre confronta 189 tumori colorettali, inclusi 54 di pazienti con meno di 50 anni, esaminando più di 850mila nuclei cellulari. Nei tumori dei pazienti più giovani emergono differenze nella componente stromale e nell'attività di RNA non codificanti. Sono associazioni biologiche da approfondire, non nuove terapie o una dimostrazione delle cause del cancro.",
+      "body": [
+        "Una ricerca pubblicata il 29 ottobre 2026 su Nature Medicine ha esaminato 189 tumori colorettali di pazienti dai 29 anni a oltre 90; 54 campioni appartenevano a persone diagnosticate prima dei 50 anni. Il gruppo Dana-Farber e i collaboratori hanno misurato l'attività genetica di oltre 850mila nuclei cellulari provenienti da tessuti tumorali conservati.",
+        "Il sequenziamento dell'RNA a singolo nucleo permette di distinguere cellule cancerose, immunitarie e di supporto presenti nello stesso tumore. I ricercatori hanno analizzato l'età anche come variabile continua, tenendo conto di sede del tumore, stadio, sesso e trattamenti precedenti. Questo approccio può mostrare gradualità biologiche che la semplice divisione sopra e sotto i 50 anni nasconderebbe.",
+        "Nei tumori di un sottotipo frequente, i pazienti più giovani avevano una proporzione maggiore di cellule stromali e differenze nell'espressione di RNA lunghi non codificanti. Le cellule stromali possono influenzare la risposta immunitaria e i trattamenti; la loro presenza associata all'età non dimostra che provochino direttamente l'aggressività della malattia.",
+        "Lo studio è osservazionale e usa campioni raccolti in contesti clinici. I dati suggeriscono bersagli da approfondire, non una nuova terapia disponibile o una modifica già validata degli screening. La comunicazione sanitaria deve inoltre distinguere l'aumento dei tumori a esordio precoce dalle caratteristiche biologiche osservate in questo insieme di campioni."
+      ],
+      "impact": 3,
+      "impactReason": "Un grande atlante molecolare aggiunge conoscenze su una malattia in aumento nei giovani, pur senza applicazioni cliniche già dimostrate.",
+      "tags": [
+        "tumori",
+        "cellule",
+        "colon"
+      ],
+      "facts": [
+        "L'atlante comprende 189 tumori e più di 850mila nuclei cellulari esaminati con tecniche di sequenziamento.",
+        "Cinquantaquattro campioni provengono da persone diagnosticate prima dei 50 anni; gli autori descrivono associazioni molecolari con l'età."
+      ],
+      "perspectives": [
+        "Gli autori vedono differenze molecolari utili a orientare nuove ipotesi.",
+        "La lettura indipendente dei dati invita a non confondere associazioni cellulari e causalità clinica."
+      ],
+      "unknowns": [
+        "I meccanismi causali delle differenze per età non sono dimostrati.",
+        "Non è stabilito se questi segnali migliorino diagnosi o trattamento in studi prospettici."
+      ],
+      "questions": [
+        {
+          "question": "Perché gli scienziati hanno usato RNA a singolo nucleo per i 189 tumori colorettali?",
+          "answer": "La tecnica misura l'attività dei geni in molte cellule e distingue componenti tumorali, immunitarie e stromali anche in campioni congelati. Consente quindi di vedere quali popolazioni cellulari contribuiscono ai segnali associati all'età."
+        },
+        {
+          "question": "Che cosa implica una maggiore quota di cellule stromali nei tumori dei pazienti giovani?",
+          "answer": "Le cellule di supporto influenzano il microambiente e possono correlare con la resistenza ai trattamenti. Lo studio osserva un'associazione, non prova che da sole causino maggiore aggressività né identifica una terapia efficace."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Dana-Farber Cancer Institute",
+          "title": "Study reveals distinct cellular and genetic differences in colorectal cancer in younger patients",
+          "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Business Insider",
+          "title": "Colon cancer looks different in young people - and often more aggressive, a new study found",
+          "url": "https://www.businessinsider.com/new-study-colon-cancer-tumors-different-young-people-2026-10",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "STAT",
+          "title": "Early onset colorectal cancer Dana Farber study Q&A Kimmie Ng",
+          "url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Nature Medicine",
+          "title": "Age-associated differences in colorectal cancer single-cell atlas",
+          "url": "https://doi.org/10.1038/s41591-026-04721-y",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/young-colorectal-cancer-cell-atlas-oct29.svg",
+        "alt": "Illustrazione scientifica originale: Cancro colorettale, analizzati 189 tumori per studiare le differenze associate all'età",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/young-colorectal-cancer-cell-atlas-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "lumina-cosmological-simulation-oct26",
+      "rank": 4,
+      "category": "technology",
+      "title": "Lumina ricostruisce due miliardi di anni del giovane universo",
+      "dek": "Il modello cosmologico pubblicato il 26 ottobre simula la nascita delle galassie e la reionizzazione di idrogeno ed elio; i risultati non sono un filmato osservato del passato.",
+      "summary": "Pubblicato il 26 ottobre su Monthly Notices of the Royal Astronomical Society e raccontato da diverse redazioni nei giorni successivi, Lumina è una simulazione dell'evoluzione cosmica nei primi due miliardi di anni dopo il Big Bang. In un volume di circa 1,6 miliardi di anni luce per lato, il modello integra materia oscura, gas, galassie e radiazione e permette di studiare i processi di reionizzazione dell'idrogeno e dell'elio. Le immagini rappresentano calcoli, non riprese telescopiche dirette dell'universo primordiale.",
+      "body": [
+        "Il 26 ottobre 2026 è stato pubblicato sulla rivista Monthly Notices of the Royal Astronomical Society lo studio che presenta Lumina, una simulazione cosmologica sviluppata da ricercatori di Harvard, Smithsonian, MIT e altri istituti. Il modello segue i processi che hanno caratterizzato i primi due miliardi di anni dell'universo, descrivendo come gas, materia oscura, stelle e radiazione abbiano interagito nella formazione delle prime strutture. ANSA ne ha dato notizia il 26 ottobre, USA Today il 27 e Live Science il 29: quest'ultimo reportage non cambia la data originale del risultato.",
+        "Lumina combina una vasta regione di spazio, con un lato di 500 megaparsec, circa 1,6 miliardi di anni luce, e una risoluzione relativamente fine. Gli autori descrivono un calcolo di radiazione e fluidodinamica che include evoluzione della materia, formazione di galassie e trasporto della luce. Non si tratta di una registrazione di ciò che avvenne realmente: è l'esito di equazioni fisiche e ipotesi numeriche, da confrontare con i dati osservativi.",
+        "Uno dei risultati centrali riguarda la reionizzazione. Dopo che l'universo si raffreddò abbastanza da formare atomi neutri, le prime stelle e galassie produssero radiazione capace di sottrarre elettroni all'idrogeno; in un'epoca successiva, la radiazione intensa dei nuclei galattici attivi contribuì a ionizzare nuovamente l'elio. Il modello segue entrambi i processi e ne descrive la distribuzione nello spazio, mentre le epoche e le intensità previste devono essere valutate contro le osservazioni.",
+        "Gli autori confrontano il modello con misure disponibili, compresi vincoli sulla profondità ottica della radiazione cosmica di fondo, e propongono Lumina come strumento per interpretare osservazioni di Webb e del futuro telescopio Roman. La concordanza con alcuni indicatori non prova che ogni galassia simulata o ogni dettaglio della storia cosmica sia esatto. Migliori osservazioni potranno confermare o mettere in difficoltà le ipotesi che alimentano la simulazione."
+      ],
+      "impact": 2.5,
+      "impactReason": "Un modello ad ampia scala confrontabile con dati osservativi amplia gli strumenti per studiare la formazione delle galassie e la storia del gas intergalattico.",
+      "tags": [
+        "Lumina",
+        "cosmologia",
+        "reionizzazione"
+      ],
+      "facts": [
+        "Lo studio Lumina è stato pubblicato il 26 ottobre 2026 su Monthly Notices of the Royal Astronomical Society, non il 29.",
+        "Il volume simulato ha lato di 500 megaparsec e comprende evoluzione di gas, materia oscura e radiazione.",
+        "Il modello segue le fasi di reionizzazione dell'idrogeno e dell'elio, confrontandole con vincoli osservativi."
+      ],
+      "perspectives": [
+        "Gli autori ritengono che il grande volume e la risoluzione permettano nuovi confronti con osservazioni cosmologiche.",
+        "Le ricostruzioni divulgative di ANSA, USA Today e Live Science sottolineano il valore illustrativo del modello, che resta distinto da un'osservazione diretta."
+      ],
+      "unknowns": [
+        "La precisione delle singole previsioni dipende dai modelli di formazione delle galassie e da futuri confronti osservativi.",
+        "Le prime stelle e galassie specifiche rappresentate nel video non sono oggetti direttamente fotografati."
+      ],
+      "questions": [
+        {
+          "question": "Come collega Lumina le prime stelle alla reionizzazione dell'idrogeno?",
+          "answer": "La simulazione calcola la produzione di radiazione ultravioletta da parte delle giovani stelle e la sua propagazione nel gas. I fotoni sufficientemente energetici rimuovono elettroni dall'idrogeno neutro e trasformano progressivamente il mezzo intergalattico; il modello ne segue tempi e distribuzione spaziale."
+        },
+        {
+          "question": "Perché la reionizzazione dell'elio richiede sorgenti diverse da quelle dominanti per l'idrogeno?",
+          "answer": "Per togliere ulteriori elettroni all'elio servono fotoni più energetici. In Lumina la fase tardiva è guidata soprattutto dai nuclei galattici attivi, alimentati da buchi neri supermassicci, che producono radiazione più intensa rispetto alla maggior parte delle stelle giovani."
+        },
+        {
+          "question": "Che cosa può verificare il telescopio James Webb della simulazione Lumina?",
+          "answer": "Webb misura proprietà di galassie realmente osservate, come luminosità, distribuzione e stato del gas nelle epoche remote. Il confronto con popolazioni e segnali previsti dal modello può corroborare o mettere in discussione le ipotesi numeriche, senza trasformare il video simulato in una registrazione del passato."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Monthly Notices of the Royal Astronomical Society",
+          "title": "Introducing the lumina project: large-volume radiation-hydrodynamic simulations of the epochs of hydrogen and helium reionization",
+          "url": "https://doi.org/10.1093/mnras/stag1469",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Pronta la più grande simulazione del baby universo VIDEO",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/26/pronta-la-piu-grande-simulazione-del-baby-universo-video_c4b3b6ba-97d1-4a9b-a31a-913ad31a75ec.html",
+          "publishedAt": "2026-10-26",
+          "role": "reporting"
+        },
+        {
+          "outlet": "USA Today",
+          "title": "Watch 2 billion years of cosmic evolution in new universe simulation",
+          "url": "https://tech.yahoo.com/science/articles/watch-2-billion-years-cosmic-161319256.html",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Live Science",
+          "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
+          "url": "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "MIT News",
+          "title": "Watch the universe emerge from the dark ages, with Lumina",
+          "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/lumina-cosmological-simulation-oct26.svg",
+        "alt": "Illustrazione vettoriale originale della simulazione cosmologica Lumina, non una fotografia astronomica",
+        "credit": "O — original editorial vector © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/lumina-cosmological-simulation-oct26.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "mxene-ai-materials-synthesis-oct29",
+      "rank": 5,
+      "category": "technology",
+      "title": "Materiali 2D, l'IA riscopre 33 candidati MXene e guida nuove sintesi",
+      "dek": "Lo studio su Science distingue materiali trascurati, sette sintesi multilayer e undici composizioni a terre rare.",
+      "summary": "Il 29 ottobre uno studio pubblicato su Science descrive l'uso di banche dati e calcolo per riscoprire 33 candidati della famiglia MXene sfuggiti alle classificazioni precedenti. I ricercatori presentano anche sintesi rapide di materiali multilayer, fra cui sette composizioni già note e undici nuove a terre rare. Il risultato è sperimentale: i possibili impieghi industriali e i vantaggi ambientali richiedono ulteriori prove.",
+      "body": [
+        "Un lavoro pubblicato su Science il 29 ottobre 2026 combina analisi di banche dati assistita da apprendimento automatico ed esperimenti su MXene, materiali bidimensionali basati su carburi o nitruri di metalli di transizione. Il gruppo guidato dall'Università di Linköping ha cercato in archivi di composti già descritti configurazioni che la letteratura più recente non aveva riconosciuto come appartenenti a questa famiglia.",
+        "La versione pubblicata dell'abstract indica trentatré materiali già sintetizzati in passato ma non riconosciuti come candidati MXene. I ricercatori descrivono inoltre la preparazione con una reazione ad alta temperatura autopropagante di diciotto composizioni multilayer: sette note, risintetizzate, e undici nuove a terre rare. La tecnica può richiedere pochi minuti e non necessita di riscaldamento esterno continuo dopo l'innesco, ma rapidità di laboratorio e riproducibilità industriale sono proprietà diverse.",
+        "Gli undici nuovi MXene a terre rare possono offrire comportamenti elettronici e magnetici interessanti. Vanno distinti dalle trentatré sostanze che l'analisi dei dati aveva identificato retrospettivamente e dai sette materiali già noti preparati sperimentalmente: non sono gruppi da sommare come fossero tutti scoperte completamente nuove. Per trasformare questi materiali in dispositivi occorrono prove di stabilità, qualità e produzione controllata.",
+        "Una prepubblicazione dell'agosto 2026 riportava numeri diversi, trentotto candidati e cinque sintesi, prima della versione finale sottoposta a pubblicazione. La data del 29 ottobre riguarda l'articolo definitivo su Science, non l'origine di ogni dato preliminare. Il contributo metodologico è mostrare che archivi esistenti possono orientare esperimenti nuovi, senza trasformare automaticamente un algoritmo in prova fisica."
+      ],
+      "impact": 2.5,
+      "impactReason": "Un metodo che unisce recupero dei dati e sperimentazione può accelerare la ricerca sui materiali, ma gli impieghi industriali sono ancora esplorativi.",
+      "tags": [
+        "MXene",
+        "materiali-2D",
+        "ricerca"
+      ],
+      "facts": [
+        "Lo studio finale pubblicato il 29 ottobre identifica 33 materiali già sintetizzati ma non riconosciuti in precedenza come candidati MXene.",
+        "Gli autori riferiscono la sintesi di sette composizioni già note e undici nuove a terre rare; la versione finale differisce numericamente dalla prepubblicazione di agosto."
+      ],
+      "perspectives": [
+        "Gli autori evidenziano il valore dei vecchi archivi e della sintesi rapida.",
+        "Le prospettive applicative dipendono da verifiche di stabilità e produzione ripetibile non ancora pubblicate in scala industriale."
+      ],
+      "unknowns": [
+        "Non sono dimostrate prestazioni affidabili in prodotti commerciali o benefici ambientali su scala industriale."
+      ],
+      "questions": [
+        {
+          "question": "Che rapporto c'è fra i 33 MXene riscoperti e le 18 composizioni sintetizzate nello studio?",
+          "answer": "I 33 sono candidati trovati negli archivi di materiali già prodotti ma non classificati come MXene. Le 18 sintesi del lavoro comprendono sette composizioni già note e undici nuove a terre rare: un insieme sperimentale distinto dai 33 risultati di ricerca documentale."
+        },
+        {
+          "question": "Perché i numeri della versione Science non coincidono con quelli della prepubblicazione di agosto?",
+          "answer": "La prepubblicazione indicava 38 candidati e cinque sintesi. Il testo finale su Science riporta 33 candidati retrospettivi e 18 composizioni ottenute sperimentalmente, divise fra sette note e undici nuove. I numeri riflettono versioni differenti del lavoro e devono sempre essere datati."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Science",
+          "title": "Data-driven discovery and rapid, direct synthesis of MXenes",
+          "url": "https://doi.org/10.1126/science.aeh5957",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Linköping University",
+          "title": "Hidden and forgotten 2D materials are discovered with AI",
+          "url": "https://liu.se/en/news-item/gomda-och-glomda-2d-material-upptacks-med-ai",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Superpower Daily",
+          "title": "AI-assisted materials research cuts hazardous chemical and water use",
+          "url": "https://superpowerdaily.com/posts/link-ping-says-ai-assisted-materials-research-cuts-hazardous-chemical-and-water-use",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "XenoSpectrum",
+          "title": "AI Finds 33 Overlooked 2D Material Candidates in Decades-Old Crystal Data",
+          "url": "https://xenospectrum.com/en/ai-rediscovered-multilayer-mxenes-science-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/mxene-ai-materials-synthesis-oct29.svg",
+        "alt": "Illustrazione scientifica originale: Materiali 2D, l'IA riscopre 33 candidati MXene e guida nuove sintesi",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/mxene-ai-materials-synthesis-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
