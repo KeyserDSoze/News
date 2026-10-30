@@ -101,7 +101,6 @@
         "L'ordinanza ministeriale rivendica l'applicazione della disciplina dei servizi pubblici essenziali."
       ],
       "unknowns": [
-        "Manca una seconda ricostruzione giornalistica indipendente dedicata al contenuto preciso dell'ordinanza.",
         "Adesioni, ritardi e cancellazioni del 30 ottobre non erano accertati al momento della ricerca."
       ],
       "questions": [
@@ -126,6 +125,20 @@
           "outlet": "Reuters",
           "title": "Dockworkers in more than 100 ports to strike against arms shipments Friday",
           "url": "https://www.reuters.com/business/world-at-work/dockworkers-more-than-100-ports-strike-against-arms-shipments-friday-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Sciopero del 30 ottobre, l’Italia si ferma, i motivi della protesta",
+          "url": "https://www.rainews.it/articoli/2026/10/sciopero-del-30-ottobre-nei-trasporti-e-vietato-ma-il-sindacato-va-avanti--b87b6bed-9234-4308-aa4c-11e4bb13369f.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Rai TGR Bolzano",
+          "title": "30 ottobre, sciopero dei trasporti precettato ma i disagi restano possibili",
+          "url": "https://www.rainews.it/tgr/bolzano/articoli/2026/10/sciopero-dei-trasporti-del-30-ottobre-la-precettazione-puo-fermare-i-disagi-per-i-viaggiatori-aad6470c-a92d-40b0-8411-30b246170e0a.html",
           "publishedAt": "2026-10-29",
           "role": "reporting"
         }
@@ -264,7 +277,7 @@
         {
           "outlet": "ANSA",
           "title": "Istat, a settembre -7mila occupati sul mese, +198mila sull'anno",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/29/istat-a-settembre-7mila-occupati-sul-mese-198mila-sullanno_32e07297-ddad-4256-b855-f44db84cfdb3.html",
+          "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/29/-istat-a-settembre-7mila-occupati-sul-mese-198mila-sullanno-_3d1c6889-90aa-4a11-bbda-7fe205789295.html",
           "publishedAt": "2026-10-29",
           "role": "reporting"
         },
