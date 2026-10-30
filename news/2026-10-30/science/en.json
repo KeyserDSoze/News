@@ -1,0 +1,400 @@
+{
+  "date": "2026-10-30",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-10-30T08:55:00+01:00",
+  "editorialNote": "Unpublished draft: editorial and technical checks outstanding.",
+  "articles": [
+    {
+      "id": "seabird-jetlag-sun-compass-oct29",
+      "rank": 1,
+      "category": "climate",
+      "title": "Long flights give shearwaters a form of jet lag that shifts their sun compass",
+      "dek": "Two decades of GPS tracks reveal errors of up to 15 degrees, usually corrected by adults; risks to juveniles remain projections.",
+      "summary": "A study published in Science on 29 October 2026 examined twenty years of GPS tracking of Manx shearwaters, seabirds that travel long distances while foraging. Science News and The Guardian describe a mismatch between the animals' internal clocks and local solar time during rapid east–west journeys, resembling some aspects of human jet lag.",
+      "body": [
+        "A study published in Science on 29 October 2026 examined twenty years of GPS tracking of Manx shearwaters, seabirds that travel long distances while foraging. Science News and The Guardian describe a mismatch between the animals' internal clocks and local solar time during rapid east–west journeys, resembling some aspects of human jet lag.",
+        "The researchers analysed more than a thousand individuals and thousands of foraging trips. A solar compass requires not only observing the Sun's position but interpreting it against time of day. When a bird's body clock remains set to a different longitude, the calculated heading can be shifted.",
+        "Orientation errors reached about fifteen degrees, yet experienced adults generally corrected their routes. The authors estimated the detour could add roughly five kilometres to a thousand-kilometre journey. That is a modest observed effect; it would be wrong to claim that tracked adults were seen getting lost hundreds of kilometres away.",
+        "Researchers suggest inexperienced first-time migrants, lacking established navigational knowledge, might be affected more severely. This is an extrapolation from the mechanism rather than a direct measurement of such birds' deviations. Further field studies across species are needed to determine consequences for survival."
+      ],
+      "impact": 2.5,
+      "impactReason": "Long-term field data reveal a navigation mechanism in wild animals, though demonstrated consequences are limited.",
+      "tags": [
+        "shearwaters",
+        "navigation",
+        "body-clock"
+      ],
+      "facts": [
+        "A study published in Science on 29 October 2026 examined twenty years of GPS tracking of Manx shearwaters, seabirds that travel long distances while foraging. Science News and The Guardian describe a mismatch between the animals' internal clocks and local solar time during rapid east–west journeys, resembling some aspects of human jet lag.",
+        "The researchers analysed more than a thousand individuals and thousands of foraging trips. A solar compass requires not only observing the Sun's position but interpreting it against time of day. When a bird's body clock remains set to a different longitude, the calculated heading can be shifted."
+      ],
+      "perspectives": [
+        "The study authors connect time-zone mismatch with sun-compass errors.",
+        "Independent experts note that the measured adult effects are small."
+      ],
+      "unknowns": [
+        "Effects on first migration success and survival were not directly quantified.",
+        "How widely the mechanism applies across species remains to be tested."
+      ],
+      "questions": [
+        {
+          "question": "Why can rapid travel across longitudes distort a shearwater's sun-compass heading?",
+          "answer": "The Sun's apparent position depends on both location and local time. If the bird's internal clock still matches the departure longitude, it interprets the Sun using the wrong time and calculates a shifted direction."
+        },
+        {
+          "question": "How does the observed 15-degree error in adults differ from predicted problems for juveniles?",
+          "answer": "Tracked adults corrected their headings and added only a few kilometres to their journeys. Much larger deviations among inexperienced juveniles are the researchers' projection, not a distance directly measured in this study."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "The Guardian",
+          "title": "Why jet lag throws even foraging seabirds off course",
+          "url": "https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Science News",
+          "title": "Seabirds get jet lag, too — and it can throw them a bit off course",
+          "url": "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Zoological Society of London",
+          "title": "Seabirds can get jetlag too",
+          "url": "https://www.zsl.org/news-and-events/news/seabirds-can-get-jetlag-too",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Science",
+          "title": "Rapid longitudinal flights cause time shifts and sun compass error",
+          "url": "https://doi.org/10.1126/science.adz2542",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/seabird-jetlag-sun-compass-oct29.svg",
+        "alt": "Original scientific illustration: Long flights give shearwaters a form of jet lag that shifts their sun compass",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/seabird-jetlag-sun-compass-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "teghaza-001-martian-meteorite-oct29",
+      "rank": 2,
+      "category": "technology",
+      "title": "Teghaza 001 meteorite records water–rock interactions on Mars over 4.1bn years ago",
+      "dek": "The stone was recovered in the Sahara in 2022; the 29 October development is new research on its age and geological history.",
+      "summary": "A study published in Science on 29 October 2026 describes Teghaza 001, an approximately 800-gram Martian meteorite found in Mali in 2022. Its minerals place it among the oldest known Martian fragments on Earth, having formed more than 4.1 billion years ago. The scientific analysis is new; the discovery of the rock in the desert is not.",
+      "body": [
+        "A study published in Science on 29 October 2026 describes Teghaza 001, an approximately 800-gram Martian meteorite found in Mali in 2022. Its minerals place it among the oldest known Martian fragments on Earth, having formed more than 4.1 billion years ago. The scientific analysis is new; the discovery of the rock in the desert is not.",
+        "Scientists established Martian origin through mineral chemistry and oxygen-isotope fingerprints matching other meteorites from Mars. Tiny uranium-bearing zircon crystals can preserve ancient ages through uranium decay to lead. Researchers also used in-situ rubidium-strontium dating, which studies individual mineral grains while preserving much of the rare specimen.",
+        "Chemical and mineral evidence suggests water interacted with Mars' crust more than four billion years ago. That expands our picture of a geologically active, wetter young planet. It is not evidence that living organisms existed: evidence of water and potentially habitable conditions is different from evidence of actual life.",
+        "NASA and the University of New Mexico describe unusual properties compared with other Martian meteorites. A possible region of origin has been inferred from remote-sensing and mineral matches, not identified with certainty. An impact eventually launched the rock into space, and its arrival in the Sahara at an unknown time followed."
+      ],
+      "impact": 3,
+      "impactReason": "A rare mineral record from early Mars strengthens evidence about the planet's water history and crust formation.",
+      "tags": [
+        "Mars",
+        "meteorites",
+        "geology"
+      ],
+      "facts": [
+        "A study published in Science on 29 October 2026 describes Teghaza 001, an approximately 800-gram Martian meteorite found in Mali in 2022. Its minerals place it among the oldest known Martian fragments on Earth, having formed more than 4.1 billion years ago. The scientific analysis is new; the discovery of the rock in the desert is not.",
+        "Scientists established Martian origin through mineral chemistry and oxygen-isotope fingerprints matching other meteorites from Mars. Tiny uranium-bearing zircon crystals can preserve ancient ages through uranium decay to lead. Researchers also used in-situ rubidium-strontium dating, which studies individual mineral grains while preserving much of the rare specimen."
+      ],
+      "perspectives": [
+        "NASA regards the meteorite as an exceptional sample of early Martian crust.",
+        "University of New Mexico scientists stress the limits of generalising from a single rock."
+      ],
+      "unknowns": [
+        "Its exact origin on Mars and the date it landed in the Sahara are not known.",
+        "One specimen cannot reconstruct the complete environment of early Mars."
+      ],
+      "questions": [
+        {
+          "question": "How can zircon minerals reveal Teghaza 001's ancient history?",
+          "answer": "Zircon can incorporate uranium when it forms. Measuring uranium remaining against lead produced by radioactive decay can indicate the time since crystallisation or later events affecting the mineral."
+        },
+        {
+          "question": "Why do signs of water in Teghaza 001 not establish life on early Mars?",
+          "answer": "Minerals and isotopes reveal water–rock reactions, which are geological processes. Establishing biology would require separate, specific evidence of organisms or their products, which this study does not supply."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Martian meteorite found in the Sahara is 4.1 billion years old",
+          "url": "https://www.reuters.com/science/martian-meteorite-found-sahara-is-41-billion-years-old-2026-10-29/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "NASA JPL",
+          "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+          "url": "https://www.jpl.nasa.gov/news/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Science.Report",
+          "title": "Teghaza 001 Preserves Clues to Mars' Ancient Water Cycle",
+          "url": "https://science.report/discover/teghaza-001-preserves-clues-to-mars-ancient-water-cycle-113790/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "University of New Mexico",
+          "title": "UNM scientists help uncover 4.1 billion-year-old Martian meteorite",
+          "url": "https://news.unm.edu/news/unm-scientists-help-uncover-4-1-billion-year-old-martian-meteorite-revealing-clues-to-planet-s-ancient-past",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/teghaza-001-martian-meteorite-oct29.svg",
+        "alt": "Original scientific illustration: Teghaza 001 meteorite records water–rock interactions on Mars over 4.1bn years ago",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/teghaza-001-martian-meteorite-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "young-colorectal-cancer-cell-atlas-oct29",
+      "rank": 3,
+      "category": "society",
+      "title": "Cell atlas of 189 colorectal tumours reveals age-associated differences",
+      "dek": "More than 850,000 cell nuclei show biological patterns in younger patients, without proving causes or treatments.",
+      "summary": "A Nature Medicine study published on 29 October 2026 examined 189 colorectal tumours from patients aged 29 to over 90, including 54 diagnosed before age 50. Dana-Farber and collaborators measured gene activity in more than 850,000 cell nuclei from stored tumour tissue.",
+      "body": [
+        "A Nature Medicine study published on 29 October 2026 examined 189 colorectal tumours from patients aged 29 to over 90, including 54 diagnosed before age 50. Dana-Farber and collaborators measured gene activity in more than 850,000 cell nuclei from stored tumour tissue.",
+        "Single-nucleus RNA sequencing helps separate cancer, immune and supporting cells within the same tumour. Researchers treated age as a continuous variable and accounted for tumour location, stage, sex and previous treatment. This approach can detect gradual biological patterns obscured by a simple under-50 versus over-50 comparison.",
+        "Within a common tumour subtype, younger patients had a higher share of stromal cells and differences in expression of long non-coding RNAs. Stromal cells can influence immune response and treatment effects. Their association with age does not establish that they directly cause more aggressive disease.",
+        "This is an observational study of clinical tissue samples. The findings point to questions and targets for further work, not an available new therapy or a validated change to screening guidelines. Communication should distinguish rising early-onset disease rates from patterns observed within this particular set of tumour samples."
+      ],
+      "impact": 3,
+      "impactReason": "A large molecular atlas adds evidence on an increasingly important cancer in younger adults, though clinical applications are unproven.",
+      "tags": [
+        "cancer",
+        "cells",
+        "colon"
+      ],
+      "facts": [
+        "A Nature Medicine study published on 29 October 2026 examined 189 colorectal tumours from patients aged 29 to over 90, including 54 diagnosed before age 50. Dana-Farber and collaborators measured gene activity in more than 850,000 cell nuclei from stored tumour tissue.",
+        "Single-nucleus RNA sequencing helps separate cancer, immune and supporting cells within the same tumour. Researchers treated age as a continuous variable and accounted for tumour location, stage, sex and previous treatment. This approach can detect gradual biological patterns obscured by a simple under-50 versus over-50 comparison."
+      ],
+      "perspectives": [
+        "The researchers see age-linked molecular patterns worth testing.",
+        "Independent interpretation should distinguish cellular associations from clinical causality."
+      ],
+      "unknowns": [
+        "The causal mechanisms behind the age patterns are not established.",
+        "Clinical utility for diagnosis or treatment has not been demonstrated in prospective trials."
+      ],
+      "questions": [
+        {
+          "question": "Why did researchers use single-nucleus RNA sequencing in the 189 colorectal tumours?",
+          "answer": "It measures gene activity across many cells while distinguishing cancer, immune and stromal components, including in frozen tissue. This reveals which cell populations contribute to age-associated signals."
+        },
+        {
+          "question": "What does a higher stromal-cell fraction in younger patients' tumours imply?",
+          "answer": "Supporting cells shape the tumour environment and may correlate with treatment resistance. The study shows an association, not proof that those cells cause aggressiveness or a demonstration of an effective treatment."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Dana-Farber Cancer Institute",
+          "title": "Study reveals distinct cellular and genetic differences in colorectal cancer in younger patients",
+          "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Business Insider",
+          "title": "Colon cancer looks different in young people - and often more aggressive, a new study found",
+          "url": "https://www.businessinsider.com/new-study-colon-cancer-tumors-different-young-people-2026-10",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "STAT",
+          "title": "Early onset colorectal cancer Dana Farber study Q&A Kimmie Ng",
+          "url": "https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Nature Medicine",
+          "title": "Age-associated differences in colorectal cancer single-cell atlas",
+          "url": "https://doi.org/10.1038/s41591-026-04721-y",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/young-colorectal-cancer-cell-atlas-oct29.svg",
+        "alt": "Original scientific illustration: Cell atlas of 189 colorectal tumours reveals age-associated differences",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/young-colorectal-cancer-cell-atlas-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "freshwater-biodiversity-threat-atlas-oct29",
+      "rank": 4,
+      "category": "climate",
+      "title": "Global study maps 45 threats to more than 21,000 freshwater species",
+      "dek": "The Science analysis identifies overlapping pressures and regional differences without assigning every decline to a single cause.",
+      "summary": "A study published in Science on 29 October 2026 produced a geographic assessment of threats to 21,490 freshwater species, including amphibians, fish, mammals, reptiles and dragonflies or damselflies. Researchers examined 45 pressures and built maps combining species groups with threats, using large-scale conservation datasets.",
+      "body": [
+        "A study published in Science on 29 October 2026 produced a geographic assessment of threats to 21,490 freshwater species, including amphibians, fish, mammals, reptiles and dragonflies or damselflies. Researchers examined 45 pressures and built maps combining species groups with threats, using large-scale conservation datasets.",
+        "Farming, dams and agricultural runoff feature among major pressures; Europe and northwestern Africa emerge as heavily affected in the aggregated maps. Exposure varies by group: some amphibians and insects are especially sensitive to agricultural activities, while hunting and harvesting are important for certain mammals and reptiles.",
+        "The method links species ranges, known threats and river basins to estimate the probability that a species in a sub-basin faces a particular pressure. It is not an experiment proving cause and effect for every population. The maps provide a comparable index for deciding where interventions may be needed, not a definitive diagnosis of every river or lake.",
+        "The authors conclude that freshwater species often face more intense and differently distributed pressures than terrestrial vertebrates. The value for conservation planning is the ability to compare risk types. Local assessments remain necessary to choose among habitat restoration, nutrient management, dam modification or restrictions on exploitation."
+      ],
+      "impact": 3,
+      "impactReason": "A global threat atlas could improve conservation decisions for ecosystems that sustain water, food and important natural services.",
+      "tags": [
+        "biodiversity",
+        "freshwater",
+        "conservation"
+      ],
+      "facts": [
+        "A study published in Science on 29 October 2026 produced a geographic assessment of threats to 21,490 freshwater species, including amphibians, fish, mammals, reptiles and dragonflies or damselflies. Researchers examined 45 pressures and built maps combining species groups with threats, using large-scale conservation datasets.",
+        "Farming, dams and agricultural runoff feature among major pressures; Europe and northwestern Africa emerge as heavily affected in the aggregated maps. Exposure varies by group: some amphibians and insects are especially sensitive to agricultural activities, while hunting and harvesting are important for certain mammals and reptiles."
+      ],
+      "perspectives": [
+        "The authors propose comparable evidence to guide freshwater conservation priorities.",
+        "Local conservation authorities still need field evidence before selecting specific interventions."
+      ],
+      "unknowns": [
+        "A second independently reported journalistic examination distinct from the institutional release has not been secured.",
+        "The maps do not quantify the effectiveness of individual future interventions."
+      ],
+      "questions": [
+        {
+          "question": "What do the 225 maps generated from the freshwater threat categories represent?",
+          "answer": "The researchers combine threat types with different species groups to estimate where each pressure is likely to matter. These layers feed a cumulative index that helps compare river basins and potential conservation priorities."
+        },
+        {
+          "question": "Why can an area with overlapping pressures not attribute every species decline to dams alone?",
+          "answer": "The maps estimate spatial associations between species and known pressures. Explaining a particular population decline requires local evidence about timing and competing factors such as agriculture, pollution and harvesting."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Science",
+          "title": "The global geography of threats to freshwater biodiversity",
+          "url": "https://doi.org/10.1126/science.aeb7910",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Europa Press",
+          "title": "Investigadores elaboran mapas detallados de las amenazas globales a la biodiversidad de agua dulce",
+          "url": "https://www.europapress.es/ciencia/laboratorio/noticia-investigadores-elaboran-mapas-detallados-amenazas-globales-biodiversidad-agua-dulce-20261029190105.html",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "McGill University",
+          "title": "McGill researchers produce detailed maps of global threats to freshwater biodiversity",
+          "url": "https://www.mcgill.ca/newsroom/channels/news/mcgill-researchers-produce-detailed-maps-global-threats-freshwater-biodiversity-375145",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/freshwater-biodiversity-threat-atlas-oct29.svg",
+        "alt": "Original scientific illustration: Global study maps 45 threats to more than 21,000 freshwater species",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/freshwater-biodiversity-threat-atlas-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "mxene-ai-materials-synthesis-oct29",
+      "rank": 5,
+      "category": "technology",
+      "title": "AI-assisted research rediscovers 33 MXene candidates and guides new synthesis",
+      "dek": "The Science paper distinguishes overlooked materials, seven multilayer syntheses and eleven rare-earth compositions.",
+      "summary": "A study published in Science on 29 October 2026 combines machine-learning-assisted database mining with experiments on MXenes, two-dimensional materials based on transition-metal carbides and nitrides. The Linköping University-led group searched older materials records for compounds not previously recognised by more recent researchers as members of this family.",
+      "body": [
+        "A study published in Science on 29 October 2026 combines machine-learning-assisted database mining with experiments on MXenes, two-dimensional materials based on transition-metal carbides and nitrides. The Linköping University-led group searched older materials records for compounds not previously recognised by more recent researchers as members of this family.",
+        "The final published abstract describes thirty-three previously synthesised but unrecognised MXene candidates. The researchers report producing seven multilayer MXenes through a self-propagating high-temperature method that can finish in minutes without sustained external heating. Fast laboratory synthesis alone does not demonstrate commercial-scale manufacturing.",
+        "The paper also reports eleven new rare-earth-based MXene compositions, with possible semiconducting and magnetic properties evaluated experimentally and through modelling. These eleven should not simply be added to the thirty-three rediscoveries: they are a different result category. Practical devices would require further work on stability, quality and reproducibility.",
+        "An August 2026 preprint gave different counts, thirty-eight candidates and five synthesised materials, before the final published version. The 29 October date concerns the peer-reviewed Science article, not the initial release of every preliminary finding. The methodological advance is showing how existing records can direct new experiments; an algorithm's prediction is not itself physical confirmation."
+      ],
+      "impact": 2.5,
+      "impactReason": "Combining data recovery with experiments could accelerate materials research, though industrial applications remain exploratory.",
+      "tags": [
+        "MXene",
+        "2D-materials",
+        "research"
+      ],
+      "facts": [
+        "A study published in Science on 29 October 2026 combines machine-learning-assisted database mining with experiments on MXenes, two-dimensional materials based on transition-metal carbides and nitrides. The Linköping University-led group searched older materials records for compounds not previously recognised by more recent researchers as members of this family.",
+        "The final published abstract describes thirty-three previously synthesised but unrecognised MXene candidates. The researchers report producing seven multilayer MXenes through a self-propagating high-temperature method that can finish in minutes without sustained external heating. Fast laboratory synthesis alone does not demonstrate commercial-scale manufacturing."
+      ],
+      "perspectives": [
+        "The researchers stress the value of archival databases and rapid synthesis.",
+        "Real-world applications depend on repeatability and stability beyond initial laboratory demonstrations."
+      ],
+      "unknowns": [
+        "A second deep and independently reported newsroom assessment has not been sufficiently verified.",
+        "Reliable performance in commercial products and industrial-scale environmental gains are unproven."
+      ],
+      "questions": [
+        {
+          "question": "How do the 33 rediscovered MXenes, seven syntheses and eleven rare-earth MXenes differ?",
+          "answer": "The 33 are candidates made previously but not recognised as belonging to the family; seven multilayer materials were synthesised with the new method; eleven are newly explored rare-earth compositions. They represent different categories of findings."
+        },
+        {
+          "question": "Why do the final Science article's numbers differ from the August preprint?",
+          "answer": "The preprint reported 38 candidates and five syntheses, while the October abstract reports 33 and seven. Counts can change during peer review and additional experiments; the final paper is the appropriate reference for this edition."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Science",
+          "title": "Data-driven discovery and rapid, direct synthesis of MXenes",
+          "url": "https://doi.org/10.1126/science.aeh5957",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Linköping University",
+          "title": "Hidden and forgotten 2D materials are discovered with AI",
+          "url": "https://liu.se/en/news-item/gomda-och-glomda-2d-material-upptacks-med-ai",
+          "role": "official",
+          "publishedAt": "2026-10-29"
+        },
+        {
+          "outlet": "Superpower Daily",
+          "title": "AI-assisted materials research cuts hazardous chemical and water use",
+          "url": "https://superpowerdaily.com/posts/link-ping-says-ai-assisted-materials-research-cuts-hazardous-chemical-and-water-use",
+          "role": "reporting",
+          "publishedAt": "2026-10-29"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-30/assets/mxene-ai-materials-synthesis-oct29.svg",
+        "alt": "Original scientific illustration: AI-assisted research rediscovers 33 MXene candidates and guides new synthesis",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-30/news/2026-10-30/assets/mxene-ai-materials-synthesis-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
