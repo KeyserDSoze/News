@@ -10,7 +10,7 @@
       "category": "technology",
       "title": "Binance, furto dichiarato da circa 6,36 miliardi di dollari: fondi congelati e indagini ancora aperte",
       "dek": "L'attacco è emerso il 29 ottobre; il 30 la piattaforma ha precisato misure di copertura e recupero, mentre l'attribuzione alla Corea del Nord resta investigativa.",
-      "summary": "Binance riferisce che attaccanti hanno trasferito circa 6,36 miliardi di dollari in criptoattività da portafogli della piattaforma su dieci blockchain. Il 30 ottobre l'exchange ha dichiarato di aver accantonato oltre 6,34 miliardi per coprire le perdite e collaborato al congelamento di circa 3 miliardi. Società di analisi sospettano il gruppo nordcoreano TraderTraitor, ma l'identità dei responsabili non è stata accertata dalle autorità.",
+      "summary": "Secondo l'analisi blockchain di TRM, attaccanti hanno trasferito circa 6,36 miliardi di dollari in criptoattività da portafogli Binance su dieci blockchain. Il 30 ottobre l'exchange ha dichiarato di aver accantonato oltre 6,34 miliardi per coprire le perdite e collaborato al congelamento di circa 3 miliardi. Società di analisi sospettano il gruppo nordcoreano TraderTraitor, ma l'identità dei responsabili non è stata accertata dalle autorità.",
       "body": [
         "Tra la sera di giovedì 29 e venerdì 30 ottobre 2026 è emerso un attacco informatico contro Binance, una delle maggiori piattaforme di scambio di criptoattività. Secondo l'analisi di TRM riportata da Associated Press, circa 6,36 miliardi di dollari sono stati trasferiti fuori dai portafogli della piattaforma attraverso dieci blockchain, in gran parte nell'arco di una ventina di minuti. La cifra è una ricostruzione dell'incidente e non equivale automaticamente alla perdita netta finale, che dipende anche da congelamenti e recuperi successivi.",
         "Binance ha confermato il coinvolgimento di un proprio hot wallet, cioè un portafoglio connesso alla rete per rendere possibili operazioni e prelievi. L'azienda afferma che la maggior parte degli asset dei clienti è conservata in cold wallet, non costantemente connessi a internet. Una prima ipotesi investigativa indicava il portatile compromesso di un ingegnere; l'exchange ha poi parlato di ulteriori punti di violazione e di tattiche complesse. Nessuna di queste indicazioni, da sola, costituisce una ricostruzione forense conclusiva del percorso seguito dagli attaccanti.",
@@ -71,10 +71,17 @@
         },
         {
           "outlet": "TRM Labs",
-          "title": "Public attribution to TraderTraitor described by AP",
-          "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb",
-          "publishedAt": "2026-10-29",
-          "role": "attributed-claim"
+          "title": "North Korea Has Stolen USD 12.8 Billion in Crypto, USD 7.4 Billion of It in 2026",
+          "url": "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+          "publishedAt": "2026-10-30",
+          "role": "primary-analysis"
+        },
+        {
+          "outlet": "Decrypt",
+          "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+          "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
         }
       ],
       "image": {
@@ -92,7 +99,7 @@
       "category": "technology",
       "title": "Binance reports roughly $6.36 billion stolen as assets are frozen and investigation continues",
       "dek": "The attack surfaced on October 29; on October 30 the exchange detailed coverage and recovery efforts while North Korea attribution remained under investigation.",
-      "summary": "Binance says attackers moved about $6.36 billion in crypto assets out of exchange wallets across ten blockchains. On October 30, the platform said it had set aside more than $6.34 billion to cover losses and helped freeze about $3 billion in affected assets. Blockchain analysts suspect North Korea-linked TraderTraitor, but authorities have not established the attackers' identities.",
+      "summary": "According to blockchain analysis firm TRM, attackers moved about $6.36 billion in crypto assets out of Binance wallets across ten blockchains. On October 30, the platform said it had set aside more than $6.34 billion to cover losses and helped freeze about $3 billion in affected assets. Blockchain analysts suspect North Korea-linked TraderTraitor, but authorities have not established the attackers' identities.",
       "body": [
         "A major cyberattack on Binance, one of the largest cryptocurrency exchanges, emerged between Thursday evening, October 29, and Friday, October 30, 2026. According to TRM's analysis reported by the Associated Press, roughly $6.36 billion was moved out of Binance wallets across ten blockchains, most of it in about twenty minutes. That figure is an estimate of assets transferred in the incident, not necessarily the final net loss, which also depends on subsequent freezes and recoveries.",
         "Binance confirmed that one of its own hot wallets was affected. A hot wallet stays connected to online systems so transactions and withdrawals can be processed; the company says most customer assets are instead held in cold wallets, which are not continuously online. An early investigative theory involved a compromised engineer's laptop, but Binance later described additional breach points and complex tactics. None of these statements, taken alone, amounts to a conclusive forensic reconstruction of the attackers' route into the system.",
@@ -153,10 +160,17 @@
         },
         {
           "outlet": "TRM Labs",
-          "title": "Public attribution to TraderTraitor described by AP",
-          "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb",
-          "publishedAt": "2026-10-29",
-          "role": "attributed-claim"
+          "title": "North Korea Has Stolen USD 12.8 Billion in Crypto, USD 7.4 Billion of It in 2026",
+          "url": "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+          "publishedAt": "2026-10-30",
+          "role": "primary-analysis"
+        },
+        {
+          "outlet": "Decrypt",
+          "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+          "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
         }
       ],
       "image": {
