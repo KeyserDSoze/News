@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "technology",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Daily edition requires all 25 unique stories plus editor QA and CI",
+  "articles": {
+    "it": {
+      "id": "intel-stock-rout-oct30",
+      "rank": 2,
+      "category": "technology",
+      "impact": 3,
+      "title": "Intel perde il 28,6% in Borsa dopo le previsioni sul quarto trimestre",
+      "dek": "Il crollo del 30 ottobre è un aggiornamento distinto dai conti pubblicati il 29: debolezza dei PC e costi dell'IA pesano sulle aspettative.",
+      "summary": "Venerdì 30 ottobre 2026 Intel ha chiuso in calo del 28,6% a Wall Street, secondo Reuters, quasi il 29% secondo AP. Il movimento è seguito alla previsione del 29 ottobre di ricavi per 15–16 miliardi di dollari nel quarto trimestre, giudicata deludente dagli investitori. La notizia nuova è la reazione dei mercati, non una seconda pubblicazione dei conti trimestrali.",
+      "body": [
+        "Il 30 ottobre 2026 le azioni Intel hanno perso il 28,6% nella seduta statunitense, secondo la cronaca di chiusura di Reuters; Associated Press ha descritto la perdita come vicina al 29%. È il peggior calo giornaliero del titolo dal 1974 secondo AP. Alcune notizie pubblicate durante la contrattazione citavano un -30% provvisorio: la cifra di chiusura non va confusa con quelle osservate a metà giornata. La discesa si è inserita in una sessione negativa per i produttori di semiconduttori.",
+        "La sera precedente Intel aveva pubblicato i risultati del terzo trimestre: ricavi per 16,5 miliardi di dollari, in aumento del 21% annuo, e una previsione per il quarto di 15–16 miliardi. Il mercato ha concentrato l'attenzione sulle prospettive meno favorevoli delle attese, nonostante la crescita appena riportata. Reuters ha descritto un contesto nel quale l'aumento dei costi della memoria, spinto dalla domanda dei centri dati legati all'intelligenza artificiale, mette pressione alla domanda e ai margini nel mercato dei personal computer.",
+        "La reazione ha avuto un effetto più ampio sul settore tecnologico: Reuters rileva un calo del 7,2% dell'indice dei semiconduttori, mentre il Nasdaq ha perso il 2,86% nella stessa seduta. Sono movimenti di mercato, non indicatori diretti dell'output industriale, e non dimostrano da soli quanto della flessione sia imputabile a una singola azienda. Gli investitori stanno valutando la combinazione fra domanda per i chip tradizionali, capacità produttiva e fabbisogni finanziari della transizione verso l'IA.",
+        "L'evento del 30 ottobre costituisce un aggiornamento autonomo rispetto alla pubblicazione della trimestrale del 29 ottobre già raccontata nell'edizione precedente di O. Il prezzo di un titolo rappresenta una valutazione che cambia rapidamente in base ad aspettative, tassi e propensione al rischio: non equivale automaticamente a un deterioramento della stessa entità nei ricavi o nella produzione di Intel. La verifica dei prossimi trimestri chiarirà se la correzione anticipava risultati peggiori oppure era amplificata dal clima generale del mercato."
+      ],
+      "facts": [
+        "Intel ha chiuso il 30 ottobre con un calo del titolo del 28,6%, secondo Reuters; AP arrotonda a quasi 29%.",
+        "Nel comunicato del 29 ottobre Intel ha registrato 16,5 miliardi di dollari di ricavi nel terzo trimestre e previsto 15–16 miliardi nel quarto.",
+        "Il 30 ottobre l'indice di settore dei semiconduttori ha perso circa il 7,2% secondo Reuters."
+      ],
+      "perspectives": [
+        "Intel sostiene che la domanda delle sue CPU resta forte ma riconosce difficoltà a breve termine nell'industria PC.",
+        "Reuters e AP descrivono la risposta degli investitori come legata alle prospettive e alla pressione sui costi della tecnologia."
+      ],
+      "unknowns": [
+        "L'evoluzione effettiva delle vendite nel quarto trimestre rispetto alla fascia prevista da Intel.",
+        "La quota del ribasso legata al rischio aziendale specifico rispetto alla vendita generalizzata di titoli tecnologici."
+      ],
+      "questions": [
+        {
+          "question": "Perché il titolo Intel è crollato nonostante ricavi trimestrali in crescita del 21%?",
+          "answer": "I mercati scontano anche i risultati attesi in futuro: la fascia di ricavi prevista da Intel per ottobre-dicembre, 15–16 miliardi di dollari, è stata giudicata debole rispetto alle aspettative. La crescita del trimestre appena concluso non neutralizza le preoccupazioni per domanda di PC, costi e flussi di cassa successivi."
+        },
+        {
+          "question": "Qual è la differenza fra il -30% riportato durante la seduta Intel e il -28,6% finale del 30 ottobre?",
+          "answer": "Il prezzo di Borsa varia continuamente durante le contrattazioni, quindi i lanci pubblicati a metà giornata possono descrivere cali temporanei. Reuters ha riportato una perdita alla chiusura del 28,6%; per confrontare giornate e indici bisogna usare i valori di chiusura, non il minimo infragiornaliero."
+        }
+      ],
+      "tags": [
+        "Intel",
+        "semiconduttori",
+        "borsa"
+      ],
+      "impactReason": "Il crollo ha avuto ripercussioni sui titoli chip e segnala tensioni nelle valutazioni tecnologiche, senza equivalere a una perdita operativa pari al calo azionario.",
+      "sources": [
+        {
+          "outlet": "Intel Corporation / SEC",
+          "title": "Intel Reports Third-Quarter 2026 Financial Results",
+          "url": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-26-000188/q326earningsrelease.htm",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+          "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "How major US stock indexes fared Friday 10/30/2026",
+          "url": "https://apnews.com/article/a01d3551e794fed1a0c317c20bc3f0a2",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Business Insider",
+          "title": "Intel shares plunge following revenue warning and AI-led supply pressures",
+          "url": "https://www.businessinsider.com/intel-shares-plunge-revenue-drop-warning-ai-led-supply-shortages-2026-10",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-intel-stock-oct30.svg",
+        "alt": "Illustrazione originale: Semiconductor company stock-market volatility, conceptual chart",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-intel-stock-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "intel-stock-rout-oct30",
+      "rank": 2,
+      "category": "technology",
+      "impact": 3,
+      "title": "Intel shares plunge 28.6% after disappointing fourth-quarter outlook",
+      "dek": "The October 30 stock rout is a fresh development following October 29 earnings, reflecting PC weakness and concerns about AI-related spending.",
+      "summary": "On Friday October 30, 2026 Intel shares closed down 28.6%, according to Reuters, or nearly 29% as rounded by AP. The move followed the company's October 29 forecast of $15–16 billion in fourth-quarter revenue, which fell short of investor expectations. The new event is the market reaction, not a reannouncement of the preceding day's earnings.",
+      "body": [
+        "Intel's shares fell 28.6% on October 30, 2026, according to Reuters' market-close account, while the Associated Press described the loss as nearly 29%. AP characterized it as the worst one-day decline for the stock since 1974. Earlier dispatches quoted a temporary decline of 30% during trading, which should not be substituted for the closing figure. The move was part of a particularly weak session for semiconductor stocks.",
+        "On the evening of October 29 Intel had reported third-quarter revenue of $16.5 billion, up 21% from a year earlier, and forecast fourth-quarter revenue of $15–16 billion. Investors focused on the forward outlook despite the just-reported revenue growth. Reuters described pressure on the PC market as expensive memory, driven partly by demand from AI data centers, threatens device affordability and manufacturers' margins.",
+        "The selloff extended beyond Intel. Reuters recorded a 7.2% drop in a semiconductor-sector index, while the Nasdaq Composite lost 2.86% in the same session. Those are market prices, not direct measurements of industrial production, and the index movement cannot be attributed entirely to Intel. Traders were weighing demand for traditional processors, manufacturing capacity and the cost of expanding infrastructure for artificial intelligence.",
+        "The October 30 plunge is a distinct follow-up to the October 29 quarterly earnings announcement already covered by O's previous edition. A share price reflects changing expectations and risk appetite as well as business fundamentals; a 28.6% one-day decline is not a claim that Intel's revenue or output fell by the same percentage. Subsequent results will help determine whether the repricing anticipated weaker performance or was magnified by a wider technology selloff."
+      ],
+      "facts": [
+        "Intel fell 28.6% at the October 30 close according to Reuters; AP rounded the result to nearly 29%.",
+        "Its October 29 earnings statement reported third-quarter revenue of $16.5 billion and forecast $15–16 billion for the fourth quarter.",
+        "Reuters measured a roughly 7.2% one-day drop in a semiconductor index on October 30."
+      ],
+      "perspectives": [
+        "Intel's leadership says processor demand remains robust while acknowledging near-term PC-market headwinds.",
+        "Reuters and AP linked market selling to investors' concerns over guidance and the cost pressures facing technology companies."
+      ],
+      "unknowns": [
+        "Actual fourth-quarter demand and revenue relative to Intel's $15–16 billion guidance.",
+        "How much of Intel's share-price fall reflected company-specific concerns rather than broad technology-sector selling."
+      ],
+      "questions": [
+        {
+          "question": "Why did Intel shares plunge even though third-quarter revenue had risen 21%?",
+          "answer": "Investors also price in expected future performance. Intel's $15–16 billion fourth-quarter revenue forecast fell short of expectations, raising worries about PC demand, industry costs and cash generation. Strong revenue growth in a completed quarter does not eliminate risks for the following one."
+        },
+        {
+          "question": "What is the difference between Intel's reported 30% intraday slump and its 28.6% October 30 close?",
+          "answer": "Share prices move throughout the trading day, so early news updates can reflect temporary lows. Reuters' final close showed a 28.6% drop. Comparing one-day performance requires a consistent closing-price measure rather than an intraday snapshot."
+        }
+      ],
+      "tags": [
+        "Intel",
+        "chips",
+        "markets"
+      ],
+      "impactReason": "Intel's steep repricing spilled into the semiconductor sector and reflects broader financial pressure on technology valuations rather than an equivalent change in output.",
+      "sources": [
+        {
+          "outlet": "Intel Corporation / SEC",
+          "title": "Intel Reports Third-Quarter 2026 Financial Results",
+          "url": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-26-000188/q326earningsrelease.htm",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+          "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "How major US stock indexes fared Friday 10/30/2026",
+          "url": "https://apnews.com/article/a01d3551e794fed1a0c317c20bc3f0a2",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Business Insider",
+          "title": "Intel shares plunge following revenue warning and AI-led supply pressures",
+          "url": "https://www.businessinsider.com/intel-shares-plunge-revenue-drop-warning-ai-led-supply-shortages-2026-10",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-intel-stock-oct30.svg",
+        "alt": "Original editorial artwork: Semiconductor company stock-market volatility, conceptual chart",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-intel-stock-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
