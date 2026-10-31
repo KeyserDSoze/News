@@ -7,7 +7,7 @@
     "it": {
       "id": "science-pompeii-cupboard-oct29",
       "rank": 1,
-      "category": "science",
+      "category": "society",
       "title": "Pompei, un armadio con collana di crepundia e 38 monete racconta la vita prima dell'eruzione",
       "dek": "Il Parco archeologico presenta il contesto di scavo in una domus su via dell'Abbondanza: i reperti suggeriscono usi domestici e forse commerciali, non l'identità certa degli abitanti.",
       "summary": "Il 29 ottobre il Parco archeologico di Pompei ha documentato un armadio ricostruibile attraverso le tracce di scavo nella Regio IX, con oggetti da toilette, pesi in piombo, 38 monete di bronzo e una collana di almeno 24 pendagli chiamati crepundia. Il ritrovamento offre indizi sulle pratiche quotidiane prima del 79 d.C., ma non permette di attribuire con certezza la casa o le attività ai suoi occupanti.",
@@ -53,7 +53,7 @@
           "title": "Lo scavo di una domus nell'insula IX 11: il rinvenimento di un armarium con crepundia",
           "url": "https://pompeiisites.org/e-journal-degli-scavi-di-pompei/lo-scavo-di-una-domus-nellinsula-ix-11-il-rinvenimento-di-un-armarium-con-crepundia/",
           "publishedAt": "2026-10-29",
-          "role": "primary"
+          "role": "official"
         },
         {
           "outlet": "Reuters",
@@ -89,7 +89,7 @@
     "en": {
       "id": "science-pompeii-cupboard-oct29",
       "rank": 1,
-      "category": "science",
+      "category": "society",
       "title": "Pompeii cupboard with a crepundia necklace and 38 coins reveals traces of life before the eruption",
       "dek": "The archaeological park documents finds from a house on Via dell'Abbondanza: the objects suggest domestic and perhaps commercial uses, not a certain identity for the residents.",
       "summary": "On October 29, the Pompeii Archaeological Park documented a cupboard reconstructed from excavation traces in Regio IX, containing grooming objects, lead weights, 38 bronze coins and a necklace of at least 24 charms known as crepundia. The finds illuminate everyday practices before the eruption of AD 79, but cannot securely identify the household or prove the occupants' activities.",
@@ -135,7 +135,7 @@
           "title": "Lo scavo di una domus nell'insula IX 11: il rinvenimento di un armarium con crepundia",
           "url": "https://pompeiisites.org/e-journal-degli-scavi-di-pompei/lo-scavo-di-una-domus-nellinsula-ix-11-il-rinvenimento-di-un-armarium-con-crepundia/",
           "publishedAt": "2026-10-29",
-          "role": "primary"
+          "role": "official"
         },
         {
           "outlet": "Reuters",
