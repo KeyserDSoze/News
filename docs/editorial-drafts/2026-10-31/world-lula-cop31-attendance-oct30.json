@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Await complete automated and independent editorial verification before publication",
+  "articles": {
+    "it": {
+      "id": "world-lula-cop31-attendance-oct30",
+      "rank": 10,
+      "category": "climate",
+      "title": "Lula conferma la presenza alla COP31 di Antalya dopo la rielezione in Brasile",
+      "dek": "Il presidente parteciperà al vertice dei leader dell'11 e 12 novembre e cederà la presidenza climatica alla Turchia.",
+      "summary": "Il 30 ottobre la presidenza brasiliana ha confermato che Luiz Inácio Lula da Silva sarà ad Antalya per la COP31, con arrivo il 10 novembre e partecipazione ai colloqui dei leader l'11 e il 12. Dal 13 novembre è prevista una tappa nelle Filippine per il vertice ASEAN. È una conferma di agenda successiva alle elezioni, non l'annuncio di nuovi accordi climatici già conclusi.",
+      "body": [
+        "Il 30 ottobre 2026 la presidenza del Brasile ha confermato che Luiz Inácio Lula da Silva parteciperà alla trentunesima conferenza delle parti dell'ONU sul clima, la COP31, programmata ad Antalya, in Turchia, dal 9 al 20 novembre. La conferma arriva dopo il ballottaggio presidenziale brasiliano del 25 ottobre, che ha visto la rielezione di Lula. Reuters e ANSA hanno riportato separatamente l'agenda, senza attribuire alla conferma risultati negoziali non ancora esistenti.",
+        "Secondo il programma comunicato, il capo dello Stato brasiliano arriverà il 10 novembre e prenderà parte al segmento politico dei leader previsto per l'11 e il 12 novembre. Il 13 novembre si recherà nelle Filippine per la riunione ASEAN e per un incontro bilaterale. La partecipazione a due vertici non implica automaticamente un colloquio specifico con il presidente statunitense Donald Trump: la sovrapposizione di date e il calendario degli incontri non erano stati definitivamente stabiliti.",
+        "Il Brasile passerà la presidenza annuale della conferenza sul clima alla Turchia, che ospita e guida la prossima COP, in un assetto condiviso con l'Australia incaricata di coordinare i negoziati diplomatici. Reuters riferisce che 77 capi di Stato e di governo avevano confermato la propria presenza. Quel numero è un conteggio di partecipazioni annunciate, non di delegazioni già arrivate o di impegni sul taglio delle emissioni assunti.",
+        "La conferenza dovrà misurarsi con finanziamenti, adattamento e riduzione dei gas serra dopo le decisioni prese negli anni precedenti. La presenza del presidente del Brasile può essere rilevante per foreste tropicali e diplomazia dei paesi emergenti, ma i contenuti delle trattative restano da definire. Per valutare l'efficacia della COP31 occorrerà confrontare i documenti finali, gli stanziamenti e i meccanismi di applicazione, non limitarsi all'elenco dei partecipanti."
+      ],
+      "facts": [
+        "Il 30 ottobre è stata annunciata ufficialmente la partecipazione di Lula al vertice COP31.",
+        "Lula è atteso ad Antalya il 10 novembre per il segmento dei leader l'11–12 novembre.",
+        "La Turchia subentra al Brasile nella presidenza della COP con l'Australia impegnata nel coordinamento diplomatico."
+      ],
+      "perspectives": [
+        "Il governo brasiliano presenta la presenza del presidente rieletto come continuità nell'impegno diplomatico climatico.",
+        "I negoziati ONU dipenderanno dall'accordo tra delegazioni, indipendentemente dalla presenza dei leader."
+      ],
+      "unknowns": [
+        "Quali proposte formali il Brasile presenterà alla COP31 dopo il passaggio di presidenza.",
+        "Quali compromessi e decisioni verificabili usciranno dalla conferenza di novembre."
+      ],
+      "questions": [
+        {
+          "question": "Qual è la differenza fra il ruolo di Turchia e Australia nell'organizzazione della COP31?",
+          "answer": "La Turchia ospita il vertice ad Antalya e assume la presidenza della conferenza dopo il Brasile. L'Australia ha invece un incarico specifico di coordinamento dei negoziati diplomatici, nell'assetto di lavoro condiviso annunciato: non sono due conferenze separate."
+        },
+        {
+          "question": "Perché la conferma di Lula fra i 77 leader non significa che la COP31 abbia già raggiunto un accordo climatico?",
+          "answer": "Il dato misura impegni a partecipare a una riunione futura, prevista dal 9 al 20 novembre. Testi e obblighi negoziati richiedono discussioni fra le delegazioni e un esito documentato; una lista di presenze non quantifica né nuovi finanziamenti né riduzioni di emissioni già approvate."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "La conferma chiarisce il ruolo del Brasile nella transizione diplomatica verso la COP31, senza costituire un nuovo accordo.",
+      "tags": [
+        "COP31",
+        "Brasile",
+        "clima"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Brazil's Lula to attend UN COP31 climate summit in Turkey",
+          "url": "https://www.reuters.com/sustainability/cop/brazils-lula-attend-un-cop31-climate-summit-turkey-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Brasile, Lula parteciperà alla COP31 in Turchia dopo la rielezione",
+          "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/brasile-lula-partecipera-alla-cop31-in-turchia-dopo-la-rielezione_6aa9f46f-baf2-4afe-b347-a5dde98f5162.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-lula-cop31-attendance-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-lula-cop31-attendance-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-lula-cop31-attendance-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-lula-cop31-attendance-oct30",
+      "rank": 10,
+      "category": "climate",
+      "title": "Lula confirms attendance at Antalya COP31 after Brazil's presidential election",
+      "dek": "The Brazilian leader plans to join November 11–12 leaders' talks before handing the climate presidency to Turkey.",
+      "summary": "Brazil's presidency confirmed on October 30 that Luiz Inácio Lula da Silva will travel to Antalya for COP31, arriving on November 10 for the November 11–12 leaders' segment. He is then due in the Philippines for ASEAN talks from November 13. This is an announcement of planned attendance after his re-election, not evidence of any climate agreement already reached.",
+      "body": [
+        "On October 30, 2026 the Brazilian presidency confirmed that Luiz Inácio Lula da Silva would attend the United Nations COP31 climate conference in Antalya, Turkey, scheduled for November 9–20. The announcement followed Brazil's October 25 presidential runoff in which Lula was re-elected. Reuters and the Italian news agency ANSA separately reported the travel details without suggesting that negotiations due to occur in November had already delivered an agreement.",
+        "According to the published itinerary, Brazil's president will arrive in Antalya on November 10 and join the leaders' segment on November 11 and 12. On November 13 he is scheduled to travel to the Philippines for the ASEAN summit and a bilateral visit. Attending both meetings does not automatically mean he will meet US President Donald Trump: the relevant travel dates and any bilateral appointments had not been fixed in the announcement.",
+        "Brazil will hand the annual COP presidency to the conference host Turkey, with Australia given responsibility for coordinating diplomatic negotiations under the shared arrangement. Reuters said 77 heads of state and government had confirmed attendance. That number counts stated travel intentions rather than delegates already on site or commitments to new emissions cuts.",
+        "COP31 will have to address climate finance, adaptation and greenhouse-gas reductions as states assess earlier pledges. Brazil's participation matters to negotiations concerning tropical forests and emerging economies, but the substance of future talks remains undecided. The outcome should be judged by the eventual texts, financing commitments and implementation mechanisms, not solely by which presidents appear at the opening."
+      ],
+      "facts": [
+        "Brazil confirmed Lula's planned COP31 attendance on October 30.",
+        "Lula is scheduled to arrive November 10 for leaders' discussions on November 11–12.",
+        "Turkey takes over COP leadership from Brazil, with Australia coordinating negotiations."
+      ],
+      "perspectives": [
+        "Brazil's government presents the re-elected president's visit as continuity in its climate diplomacy.",
+        "Actual COP decisions require agreement among delegations, whatever leaders attend."
+      ],
+      "unknowns": [
+        "Which formal proposals Brazil will introduce after handing over the COP presidency.",
+        "Which verifiable negotiated decisions or funding commitments will emerge in November."
+      ],
+      "questions": [
+        {
+          "question": "How do Turkey's and Australia's responsibilities differ at COP31?",
+          "answer": "Turkey hosts the conference in Antalya and assumes the rotating COP presidency from Brazil. Australia has a separate responsibility for coordinating diplomatic negotiations under the jointly arranged division of duties; they are not hosting two independent conferences."
+        },
+        {
+          "question": "Why doesn't Lula's appearance among 77 confirmed leaders mean COP31 has already struck a climate deal?",
+          "answer": "The figure is a count of planned participation in a conference scheduled for November 9–20. Negotiated decisions require discussions and formal texts, so an attendance list cannot establish new finance commitments or approved emissions reductions."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The announcement clarifies Brazil's continued diplomatic role in the COP31 handover but is not itself a climate accord.",
+      "tags": [
+        "COP31",
+        "Brazil",
+        "climate"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Brazil's Lula to attend UN COP31 climate summit in Turkey",
+          "url": "https://www.reuters.com/sustainability/cop/brazils-lula-attend-un-cop31-climate-summit-turkey-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Brasile, Lula parteciperà alla COP31 in Turchia dopo la rielezione",
+          "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/brasile-lula-partecipera-alla-cop31-in-turchia-dopo-la-rielezione_6aa9f46f-baf2-4afe-b347-a5dde98f5162.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-lula-cop31-attendance-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-lula-cop31-attendance-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-lula-cop31-attendance-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
