@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "All desks must pass fact checks, bilingual Q&A audits and CI before any release",
+  "articles": {
+    "it": {
+      "id": "world-poland-constitutional-tribunal-oct30",
+      "rank": 6,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "La crisi coinvolge il vertice del controllo costituzionale, la presidenza e il governo di uno Stato membro UE.",
+      "title": "Polonia, sospeso il presidente del Tribunale costituzionale: proteste a Varsavia",
+      "dek": "La decisione contro Bogdan Święczkowski riaccende il conflitto sulla giustizia; il presidente Nawrocki interrompe il viaggio in Senegal.",
+      "summary": "Il 30 ottobre il Tribunale costituzionale polacco ha annunciato la sospensione del proprio presidente Bogdan Święczkowski, nominato durante il governo nazionalista precedente. Il presidente della Repubblica Karol Nawrocki è tornato da un viaggio verso il Senegal e sono scoppiate proteste a Varsavia. Le ragioni formali del provvedimento non erano verificabili integralmente mentre il sito del Tribunale risultava non accessibile.",
+      "body": [
+        "Venerdì 30 ottobre 2026 la giudice Anna Korwin-Piotrowska, la componente con maggiore anzianità del Tribunale costituzionale polacco, ha annunciato la sospensione del presidente della corte Bogdan Święczkowski e la propria assunzione temporanea delle funzioni. Reuters e Associated Press hanno confermato che il messaggio è apparso sul sito del Tribunale; il portale è poi divenuto inaccessibile, limitando la possibilità di verificare il testo completo del provvedimento e le motivazioni in prima persona.",
+        "Il presidente della Repubblica Karol Nawrocki, alleato della precedente maggioranza nazionalista Diritto e Giustizia, ha annunciato di interrompere il viaggio verso il Senegal per rientrare in Polonia. Centinaia di persone si sono radunate davanti all'edificio del Tribunale a Varsavia; secondo AP la polizia ha trattenuto tre manifestanti dopo il superamento di una recinzione e il lancio di oggetti. Le proteste riflettono una disputa politica e istituzionale, non un verdetto sui fatti da attribuire ai singoli dimostranti.",
+        "Il nodo deriva dalla controversia sulle nomine giudiziarie che dura da anni. Święczkowski si era rifiutato di insediare alcuni giudici eletti dall'attuale maggioranza parlamentare; il premier Donald Tusk sostiene che le riforme siano necessarie per ristabilire lo Stato di diritto dopo le nomine contestate dei governi precedenti. Gli esponenti di Diritto e Giustizia accusano invece il governo di violare l'indipendenza della corte e hanno descritto la sospensione come un colpo di mano. Tali qualificazioni sono posizioni politiche e non accertamenti giudiziari.",
+        "La contrapposizione tra governo, presidenza e magistratura ostacola il funzionamento di un'istituzione chiamata a valutare la costituzionalità delle leggi. L'Unione europea aveva in precedenza criticato l'indipendenza della giustizia durante gli anni di governo PiS, ma questo contesto non determina automaticamente la legittimità dell'atto del 30 ottobre. Una valutazione richiede il testo integrale, la base procedurale e gli sviluppi successivi, distinti dalla reazione delle piazze."
+      ],
+      "facts": [
+        "Il 30 ottobre è stata annunciata la sospensione di Bogdan Święczkowski alla guida del Tribunale.",
+        "Nawrocki ha interrotto un viaggio verso il Senegal per rientrare in Polonia.",
+        "Manifestanti si sono riuniti a Varsavia e AP ha riferito tre fermati in incidenti vicino al tribunale."
+      ],
+      "perspectives": [
+        "Tusk sostiene di voler ripristinare le regole dello Stato di diritto e rimediare alle nomine contestate.",
+        "Il PiS e sostenitori del presidente sospeso descrivono il provvedimento come un attacco all'indipendenza dei giudici."
+      ],
+      "unknowns": [
+        "La validità giuridica definitiva e il testo completo dell'atto di sospensione.",
+        "Chi sarà riconosciuto come autorità del Tribunale e come saranno gestite le nomine contestate."
+      ],
+      "questions": [
+        {
+          "question": "Qual è il conflitto sulle nomine che coinvolge Święczkowski e il governo Tusk?",
+          "answer": "Il presidente sospeso aveva rifiutato di far entrare in carica giudici eletti dalla maggioranza parlamentare attuale, mentre il governo dice di voler correggere le nomine contestate dei governi PiS. Il confronto riguarda chi abbia titolo a occupare i seggi del Tribunale e quali atti delle precedenti legislature siano validi."
+        },
+        {
+          "question": "Perché il ritorno di Nawrocki non conferma di per sé la legittimità o illegittimità della sospensione?",
+          "answer": "La decisione del presidente di rientrare dal viaggio è un segnale della gravità politica della crisi, non una sentenza. L'esame della legalità richiede l'atto, la procedura prevista dall'ordinamento e il controllo di organi competenti, indipendentemente dalle dichiarazioni dei partiti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension",
+          "url": "https://apnews.com/article/67eda2e3a151e00038d85a5e894a2a72",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Polish president turns back from Senegal trip after top court chief suspended",
+          "url": "https://www.reuters.com/world/africa/polish-president-turns-back-senegal-trip-top-court-chief-suspended-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "Polonia",
+        "Tribunale",
+        "giustizia"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-poland-constitutional-tribunal-oct30.svg",
+        "alt": "Original conceptual art: world-poland-constitutional-tribunal-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-poland-constitutional-tribunal-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-poland-constitutional-tribunal-oct30",
+      "rank": 6,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "The conflict directly affects constitutional review, the presidency and government in an EU member state.",
+      "title": "Poland suspends Constitutional Tribunal chief as Warsaw protests erupt",
+      "dek": "Bogdan Święczkowski's suspension deepens a struggle over judicial appointments; President Nawrocki cut short his journey to Senegal.",
+      "summary": "On October 30 Poland's Constitutional Tribunal announced the suspension of its president, Bogdan Święczkowski, who was appointed under a previous nationalist government. President Karol Nawrocki turned back from a trip to Senegal as demonstrations gathered outside the court in Warsaw. The full legal basis was not independently confirmed while the court's website was inaccessible.",
+      "body": [
+        "On Friday October 30, 2026 Anna Korwin-Piotrowska, the Constitutional Tribunal's longest-serving judge, announced that its president Bogdan Święczkowski had been suspended and that she was assuming the leadership role. Reuters and the Associated Press reported that a notice had appeared on the court website, which then went offline. That left reporters unable to independently review the full formal document and all the reasons cited for the decision.",
+        "Polish President Karol Nawrocki, a political ally of the previous Law and Justice leadership, announced that he was turning back while traveling to Senegal because he needed to return home. Hundreds gathered at the court in Warsaw; AP reported that police detained three people after protesters breached a barrier and objects were thrown. Demonstrations and police operations show the intensity of the dispute, not an adjudication of every participant's claims.",
+        "The immediate dispute involves judicial appointments and the tribunal's own functioning. Święczkowski had refused to admit some judges elected by the current parliamentary majority. Prime Minister Donald Tusk's coalition argues that reforms are required to restore the rule of law after contested appointments under the former Law and Justice government. Opposition figures instead describe the suspension as an attack on the judiciary and even a coup; those are attributed political allegations, not established legal findings.",
+        "The confrontation among government, presidency and judges affects an institution responsible for assessing whether legislation complies with the constitution. The European Union had previously raised concerns about judicial independence in Poland during the PiS era, but that history alone cannot settle the legality of the October 30 action. A reliable assessment will require access to the actual measure, its procedural basis and subsequent decisions rather than relying on rival parties' descriptions."
+      ],
+      "facts": [
+        "The tribunal announced Święczkowski's suspension on October 30.",
+        "Nawrocki interrupted his journey toward Senegal and returned to Poland.",
+        "Crowds gathered at the tribunal and AP reported three people detained amid incidents nearby."
+      ],
+      "perspectives": [
+        "Tusk's coalition says it is restoring the rule of law and correcting disputed judicial appointments.",
+        "Law and Justice politicians and supporters of the suspended chief say the action threatens judicial independence."
+      ],
+      "unknowns": [
+        "The complete suspension decision and its ultimate legal validity.",
+        "Who will be accepted as the tribunal's lawful leader and how contested judgeships will be filled."
+      ],
+      "questions": [
+        {
+          "question": "What judicial appointment dispute puts Święczkowski at odds with Prime Minister Tusk?",
+          "answer": "The suspended tribunal chief had refused to seat judges chosen by the current parliamentary majority, while Tusk's coalition argues that appointments under the previous PiS government must be corrected. The core dispute is over who can legitimately occupy seats on the constitutional court."
+        },
+        {
+          "question": "Why does Nawrocki's emergency return not settle whether the tribunal suspension was lawful?",
+          "answer": "The president's decision signals the political stakes but has no automatic judicial force. Legality depends on the suspension's actual text, the constitutional procedure and decisions by competent institutions, not simply on declarations from either political camp."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension",
+          "url": "https://apnews.com/article/67eda2e3a151e00038d85a5e894a2a72",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Polish president turns back from Senegal trip after top court chief suspended",
+          "url": "https://www.reuters.com/world/africa/polish-president-turns-back-senegal-trip-top-court-chief-suspended-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "Poland",
+        "courts",
+        "judiciary"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-poland-constitutional-tribunal-oct30.svg",
+        "alt": "Original conceptual art: world-poland-constitutional-tribunal-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-poland-constitutional-tribunal-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
