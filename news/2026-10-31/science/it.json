@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-31",
+  "language": "it",
+  "section": "science",
+  "publishedAt": "2026-10-31T09:24:33+01:00",
+  "editorialNote": "Scienza, 31 ottobre 2026. Sono indicate la data di pubblicazione originale degli studi, le stime con i loro limiti e la distinzione fra evidenza osservata e interpretazione.",
+  "articles": [
+    {
+      "id": "science-pompeii-cupboard-oct29",
+      "rank": 1,
+      "category": "society",
+      "title": "Pompei, un armadio con collana di crepundia e 38 monete racconta la vita prima dell'eruzione",
+      "dek": "Il Parco archeologico presenta il contesto di scavo in una domus su via dell'Abbondanza: i reperti suggeriscono usi domestici e forse commerciali, non l'identità certa degli abitanti.",
+      "summary": "Il 29 ottobre il Parco archeologico di Pompei ha documentato un armadio ricostruibile attraverso le tracce di scavo nella Regio IX, con oggetti da toilette, pesi in piombo, 38 monete di bronzo e una collana di almeno 24 pendagli chiamati crepundia. Il ritrovamento offre indizi sulle pratiche quotidiane prima del 79 d.C., ma non permette di attribuire con certezza la casa o le attività ai suoi occupanti.",
+      "body": [
+        "Il 29 ottobre 2026 il Parco archeologico di Pompei ha diffuso un resoconto dello scavo di una domus nell'insula 11 della Regio IX, affacciata su via dell'Abbondanza. Tra gli ambienti è stato individuato un armarium, un mobile di legno ricostruibile grazie alla posizione e alle tracce degli elementi sopravvissuti sotto i depositi dell'eruzione del Vesuvio del 79 d.C. Il ritrovamento non è un armadio integro tornato in superficie: è il contesto archeologico che consente agli studiosi di riconoscerne la struttura e il contenuto.",
+        "All'interno sono stati documentati una pinzetta e uno strumento per lavorare pigmenti, un balsamario in vetro, un bruciaprofumi e una lucerna in bronzo. Accanto a recipienti e pentole di diversi materiali, gli archeologi hanno rinvenuto pesi in piombo conservati in una piccola cassetta lignea e 38 monete bronzee. I pesi sono compatibili con attività di vendita o misurazione, ma il loro ritrovamento non identifica automaticamente una bottega: gli oggetti possono essere stati conservati e usati in più contesti.",
+        "Un insieme particolarmente informativo è la collana di almeno 24 piccoli elementi sospesi, realizzati in faïence, osso, pasta vitrea e cristallo di rocca. I pendagli rappresentano divinità come Bes e Mercurio, parti del corpo e simboli vegetali. Sono classificati come crepundia, oggetti spesso associati all'infanzia: il rumore prodotto dai pendagli e il loro valore affettivo o protettivo aiutano a comprenderne l'uso. La loro presenza non prova però che al momento dell'eruzione abitasse lì un bambino, perché potevano essere conservati come ricordi.",
+        "Il complesso era tradizionalmente associato a Cornelius Maximus per iscrizioni note in passato, ma il direttore Gabriel Zuchtriegel e il Parco distinguono questa attribuzione storica dall'identità effettiva di chi custodiva gli oggetti. Il denaro e gli effetti personali lasciati sul posto possono suggerire una fuga precipitosa, non dimostrarla. La posizione dei reperti, i materiali e le associazioni fra oggetti permettono piuttosto di formulare ipotesi controllabili sulla vita quotidiana, integrando le grandi pitture di Pompei con tracce di lavoro, cura del corpo e memoria familiare."
+      ],
+      "impactReason": "Il contesto archeologico amplia le conoscenze sulle pratiche quotidiane, gli scambi e gli oggetti personali nella Pompei del I secolo.",
+      "tags": [
+        "Pompei",
+        "archeologia",
+        "Vesuvio"
+      ],
+      "facts": [
+        "Il Parco archeologico ha pubblicato il 29 ottobre 2026 il resoconto del ritrovamento di un armarium nella Regio IX, insula 11.",
+        "Il contesto comprende almeno 24 pendagli di crepundia, pesi in piombo e 38 monete di bronzo.",
+        "Il Parco considera possibili attività commerciali ma non identifica con certezza il proprietario o gli usi specifici."
+      ],
+      "perspectives": [
+        "Il Parco archeologico considera l'insieme dei reperti una fonte per ricostruire pratiche quotidiane e memoria personale.",
+        "Il direttore Gabriel Zuchtriegel interpreta gli oggetti lasciati sul posto come possibile traccia di un abbandono affrettato."
+      ],
+      "unknowns": [
+        "Chi abitava esattamente la domus e chi possedeva i singoli oggetti.",
+        "Se i pesi erano usati per un'attività commerciale nella casa e perché il denaro non fu recuperato."
+      ],
+      "questions": [
+        {
+          "question": "Come funzionavano i crepundia ritrovati nell'armadio di Pompei?",
+          "answer": "Erano piccoli pendagli forati e sospesi a una collana, spesso associata ai bambini. Gli elementi potevano tintinnare durante il movimento, mentre figure come Bes e Mercurio aggiungevano significati affettivi e protettivi; l'insieme poteva essere conservato anche dopo l'infanzia."
+        },
+        {
+          "question": "Quale tipo di attività suggerisce la presenza congiunta di pesi in piombo e 38 monete?",
+          "answer": "I pesi sono strumenti compatibili con la misurazione di merci, e le monete indicano una disponibilità di denaro conservata nel mobile. Insieme rendono plausibile un uso economico o commerciale degli spazi, ma non costituiscono da soli registri di vendita o una prova del mestiere di un residente."
+        }
+      ],
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Parco Archeologico di Pompei",
+          "title": "Lo scavo di una domus nell'insula IX 11: il rinvenimento di un armarium con crepundia",
+          "url": "https://pompeiisites.org/e-journal-degli-scavi-di-pompei/lo-scavo-di-una-domus-nellinsula-ix-11-il-rinvenimento-di-un-armarium-con-crepundia/",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Pompeii cupboard opens window onto life before Vesuvius erupted",
+          "url": "https://www.reuters.com/lifestyle/pompeii-cupboard-opens-window-onto-life-before-vesuvius-erupted-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Perfume bottle and child's necklace among treasures found in Pompeii wardrobe",
+          "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Scoperto a Pompei l'armadio di una donna, all'interno vasi, collane e monete",
+          "url": "https://www.ansa.it/amp/campania/notizie/2026/10/29/scoperto-a-pompei-larmadio-di-una-donna-allinterno-vasi-collane-e-monete_692f243b-2ce5-4640-85eb-a9b789e0d59b.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "alt": "Illustrazione editoriale originale, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "global-wildlife-trade-107356-species-oct30",
+      "rank": 2,
+      "category": "climate",
+      "impact": 3,
+      "title": "Commercio di fauna e flora, studio censisce almeno 107.356 specie coinvolte",
+      "dek": "L'analisi pubblicata su Science Advances trova oltre il doppio delle specie rispetto alle precedenti stime, ma denuncia grandi lacune nei registri.",
+      "summary": "Un lavoro pubblicato il 30 ottobre su Science Advances stima che almeno 107.356 specie di organismi selvatici siano oggetto di utilizzo e commercio, contro una precedente quantificazione di circa 50mila. La cifra riguarda il numero di specie, non quello degli animali o delle piante venduti, e comprende attività legali e illegali. La frammentazione dei dati limita la possibilità di misurare la sostenibilità degli scambi.",
+      "body": [
+        "Il 30 ottobre 2026 Science Advances ha pubblicato una ricognizione globale dei programmi di monitoraggio del prelievo e del commercio di specie selvatiche. Il gruppo guidato dalla ricercatrice Alice Hughes ha identificato almeno 107.356 specie coinvolte: più del doppio della stima di circa 50mila specie spesso usata nei riepiloghi internazionali. Il lavoro mette insieme registri che coprono settori diversi, tra cui animali, piante e funghi, e cerca di evidenziare quanto resta escluso dai sistemi di controllo più conosciuti.",
+        "La parola 'specie' è essenziale per interpretare il risultato. Centosettemila non indica il numero di esemplari commerciati, il volume economico degli scambi e nemmeno il numero di traffici illegali accertati. L'universo analizzato comprende legname, pesca, organismi ornamentali, medicinali, animali da compagnia e numerosi altri usi, sia leciti sia illeciti. Confondere la diversità biologica coinvolta con le quantità vendute produrrebbe un indicatore scorretto.",
+        "Il Guardian ha raccontato come mercati digitali e nuovi canali di vendita rendano più difficile osservare il commercio di specie poco monitorate. El País ha approfondito la varietà degli organismi interessati e l'esempio dei cavallucci marini. I ricercatori richiamano l'attenzione sulle banche dati nazionali: alcune specie non compaiono nei registri globali CITES, che riguardano soprattutto le forme di commercio sottoposte a specifici controlli internazionali.",
+        "La stima è un minimo documentato dall'incrocio delle fonti disponibili, non un censimento completo di ogni transazione. La mancanza di dati rappresentativi rende difficile valutare pressioni sulle popolazioni naturali e risultati delle politiche di conservazione. Lo studio chiede sistemi di rilevazione e condivisione più standardizzati; non dimostra che tutte le specie elencate siano minacciate o che ogni forma di utilizzo sia insostenibile."
+      ],
+      "facts": [
+        "Lo studio pubblicato il 30 ottobre su Science Advances identifica almeno 107.356 specie selvatiche usate o commerciate nel mondo.",
+        "La stima precedente di riferimento era circa 50.000 specie.",
+        "La copertura delle banche dati internazionali è incompleta per molte specie non soggette a controlli CITES."
+      ],
+      "perspectives": [
+        "Gli autori chiedono una raccolta sistematica di dati su specie e filiere che oggi sfuggono alla rendicontazione.",
+        "Il Guardian e El País sottolineano che il fenomeno comprende attività economiche legali e commercio illegale, con rischi di confusione statistica."
+      ],
+      "unknowns": [
+        "Il numero effettivo di specie non registrate nei sistemi esaminati.",
+        "Il livello di pressione sulle popolazioni naturali delle singole specie e la sostenibilità delle diverse filiere."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa rappresenta esattamente la cifra di 107.356 nello studio sul commercio di specie selvatiche?",
+          "answer": "È il numero minimo di specie diverse riscontrate come usate o scambiate nei programmi di monitoraggio confrontati dagli autori. Non indica quanti esemplari siano stati venduti: una specie trattata in pochi casi e una specie commercializzata in milioni di individui contribuiscono entrambe per un'unità al conteggio."
+        },
+        {
+          "question": "Perché le liste CITES non bastano a descrivere il commercio globale rilevato da Hughes e colleghi?",
+          "answer": "CITES registra specie soggette a specifiche regole del commercio internazionale, non tutti gli usi locali o gli scambi di ogni organismo selvatico. Incrociare banche dati settoriali e nazionali fa emergere molte specie assenti da quelle liste; per valutare la sostenibilità servono anche quantità, origini e andamenti delle popolazioni."
+        }
+      ],
+      "tags": [
+        "biodiversita",
+        "commercio",
+        "specie"
+      ],
+      "impactReason": "Il raddoppio del numero minimo di specie documentate evidenzia lacune mondiali nel monitoraggio del prelievo e della conservazione.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "The true scale of global wildlife trade is obscured by data gaps",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei3504",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+          "url": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "EL PAÍS",
+          "title": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
+          "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "alt": "Illustrazione originale sulla notizia: Wildlife biodiversity and the many species appearing in trade records",
+        "credit": "O / Oggettivizzatore — original illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "nfl-cte-bias-adjusted-prevalence-oct28",
+      "rank": 3,
+      "category": "society",
+      "impact": 3,
+      "title": "CTE e NFL, studio stima il 74,5% fra gli ex giocatori morti dal 2008 al 2023",
+      "dek": "La correzione del bias delle donazioni cerebrali riduce la percentuale osservata nelle autopsie; il risultato non vale per tutti i giocatori viventi.",
+      "summary": "Uno studio apparso il 28 ottobre su JAMA Network Open stima che il 74,5% degli ex giocatori NFL deceduti tra 2008 e 2023 avesse alterazioni neuropatologiche compatibili con encefalopatia traumatica cronica (CTE). La stima corregge la forte selezione dei cervelli donati per la ricerca, tra cui il 93,5% dei campioni valutabili risultava positivo. Non equivale alla prevalenza tra gli atleti vivi o a un conteggio di diagnosi cliniche in vita.",
+      "body": [
+        "Un gruppo guidato da Julia Gallini e colleghi della Boston University ha pubblicato il 28 ottobre 2026 su JAMA Network Open una stima corretta per bias di selezione dell'encefalopatia traumatica cronica, o CTE, negli ex giocatori professionisti di football americano. I ricercatori hanno considerato 2.362 persone che avevano giocato almeno una partita NFL e sono morte tra gennaio 2008 e dicembre 2023, utilizzando dati del registro dei decessi e della banca dei cervelli UNITE. Guardian, Los Angeles Times e ABC News hanno raccontato autonomamente lo studio e le sue implicazioni.",
+        "Fra i giocatori che avevano donato il cervello, 362 dei 387 campioni valutati mostravano CTE: il 93,5%. Il gruppo ha riconosciuto che chi dona il cervello, spesso dopo sintomi o preoccupazioni dei familiari, non rappresenta casualmente tutti i giocatori deceduti. Mediante un modello che stima la maggiore probabilità di donazione in presenza di problemi cognitivi, gli autori hanno corretto la percentuale al 74,5%, con intervallo di confidenza al 95% tra 69,6% e 78,3%. Una diversa analisi prudenziale ha dato un limite inferiore stimato del 63,7%.",
+        "La CTE è associata a ripetuti impatti alla testa e oggi si accerta in modo definitivo solo con un esame neuropatologico dopo il decesso. Lo studio ha inoltre stimato una storia di demenza per il 27,2% dei giocatori deceduti, ma non dimostra che tutte le persone con segni di CTE abbiano avuto demenza né che la CTE abbia causato il loro decesso. Una persona può presentare alterazioni precoci senza sintomi evidenti; la ricerca distingue dunque patologia al microscopio e manifestazioni cliniche.",
+        "La popolazione considerata è una coorte di ex professionisti deceduti in un preciso periodo, non un campione casuale di atleti in attività, giocatori amatoriali o di tutte le persone esposte a impatti ripetuti. La correzione statistica dipende anche dalle ipotesi sui fattori che portano a donare il cervello, e non annulla ogni possibile distorsione. I risultati rafforzano l'urgenza della prevenzione degli impatti alla testa e di studi longitudinali, senza consentire diagnosi individuali o previsioni definitive sull'evoluzione neurologica di un giocatore oggi vivo."
+      ],
+      "facts": [
+        "La ricerca analizza 2.362 ex giocatori NFL morti nel 2008–2023.",
+        "CTE documentata in 362/387 cervelli di donatori valutabili, pari al 93,5%.",
+        "Prevalenza corretta per selezione stimata 74,5%, con intervallo 95% 69,6–78,3%; storia di demenza stimata 27,2%."
+      ],
+      "perspectives": [
+        "Gli autori ritengono che la donazione selettiva gonfi la stima grezza, ma non spieghi l'intera frequenza della patologia.",
+        "Los Angeles Times e Guardian evidenziano l'utilità per la prevenzione, ricordando che la diagnosi definitiva di CTE è post-mortem."
+      ],
+      "unknowns": [
+        "La prevalenza di CTE fra gli ex atleti ancora vivi e fra i giocatori non professionisti.",
+        "Il rapporto individuale tra alterazioni neuropatologiche, sintomi, demenza e causa del decesso."
+      ],
+      "questions": [
+        {
+          "question": "Come si passa dal 93,5% di CTE nei cervelli donati alla stima NFL del 74,5%?",
+          "answer": "I donatori non sono un campione casuale: famiglie preoccupate per disturbi neurologici possono essere più propense a donare. Gli autori hanno stimato statisticamente questo eccesso di probabilità di selezione usando anche i registri dei decessi e hanno ricalcolato la prevalenza per l'insieme dei 2.362 ex giocatori deceduti."
+        },
+        {
+          "question": "Perché la stima Gallini del 74,5% non permette di diagnosticare la CTE nei giocatori NFL viventi?",
+          "answer": "La CTE può essere confermata solo studiando il tessuto cerebrale dopo la morte; inoltre la coorte riguarda persone morte in uno specifico intervallo di 16 anni. La presenza di alterazioni non implica sempre sintomi o demenza, quindi non si può trasferire direttamente quel numero agli atleti vivi né dedurre la prognosi individuale."
+        }
+      ],
+      "tags": [
+        "CTE",
+        "NFL",
+        "neurologia"
+      ],
+      "impactReason": "La stima corretta riguarda possibili conseguenze neurologiche di ripetuti impatti nello sport e informa priorità di ricerca e prevenzione.",
+      "sources": [
+        {
+          "outlet": "JAMA Network Open",
+          "title": "Bias-Adjusted Prevalence of Chronic Traumatic Encephalopathy Among Deceased National Football League Players",
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855918",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "New study estimates 75% of deceased ex-NFL players had brain disease CTE",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Los Angeles Times",
+          "title": "Staggering 74.5% of NFL players who died from 2008 to 2023 likely had CTE, study finds",
+          "url": "https://www.latimes.com/sports/story/2026-10-29/nfl-players-died-15-year-span-75-percent-had-cte-study",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "New study estimates about 3 in 4 former NFL players had CTE",
+          "url": "https://abcnews.com/US/new-study-estimates-3-4-former-nfl-players/story?id=137631511",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "alt": "Illustrazione originale sul tema: CTE neuropathology and estimation methods, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "eaton-urban-wildfire-toxic-smoke-oct28",
+      "rank": 4,
+      "category": "climate",
+      "impact": 3,
+      "title": "Fumo dell'incendio Eaton, studio stima sette milioni di esposti a picchi di piombo",
+      "dek": "Le misure di Caltech rivelano concentrazioni di metalli nel pennacchio urbano molto superiori a quelle di un incendio di sola vegetazione.",
+      "summary": "Una ricerca uscita il 28 ottobre 2026 su Science Advances ha confrontato il fumo dell'incendio Eaton del gennaio 2025 con quello di un incendio alimentato principalmente da vegetazione. Nel pennacchio urbano ha trovato oltre 50 volte più piombo e tre volte più arsenico, stimando circa sette milioni di persone esposte per 24 ore a concentrazioni di piombo oltre 80 volte lo sfondo. È una stima di esposizione ambientale, non un bilancio di diagnosi mediche.",
+      "body": [
+        "Il 28 ottobre 2026 un gruppo di ricercatori guidato da Haroula Baliaka del Caltech ha pubblicato su Science Advances un'analisi chimica dei fumi dell'incendio Eaton, che nel gennaio 2025 aveva raggiunto Altadena e altri quartieri della contea di Los Angeles. La ricerca sfrutta misure orarie di elementi in traccia raccolte da una stazione della rete statunitense ASCENT sottovento rispetto alle fiamme. Eos, Associated Press e Washington Post hanno trattato i risultati separatamente, riportando spiegazioni dei ricercatori e commenti di esperti.",
+        "Gli scienziati hanno confrontato la composizione del pennacchio urbano di Eaton con quella di un incendio che aveva interessato soprattutto vegetazione. Durante la combustione di abitazioni, veicoli e materiali artificiali, il fumo di Eaton è risultato arricchito di oltre 50 volte in piombo, circa sette volte in alogeni come cloro e bromo e tre volte in arsenico. Il rapporto fra potassio e piombo nelle misure orarie ha contribuito a identificare il passaggio dal materiale urbano a quello forestale man mano che il fronte avanzava.",
+        "Applicando le misure atmosferiche a una stima di trasporto ed esposizione, gli autori calcolano che durante il massimo della combustione delle strutture circa sette milioni di residenti dell'area metropolitana possano aver respirato per 24 ore aria con livelli di piombo superiori a 50 nanogrammi per metro cubo, oltre 80 volte i valori tipici di fondo. La cifra ha un intervallo stimato da 4,3 a 8 milioni di persone; non significa che ogni singolo individuo abbia ricevuto la stessa dose, né che siano stati accertati sette milioni di casi di avvelenamento.",
+        "Il lavoro si distingue dagli studi tradizionali che monitorano solo la massa complessiva di particolato: riconoscere gli elementi tossici consente di differenziare i rischi di un incendio urbano da quelli del fumo di bosco. Restano da verificare le conseguenze sanitarie di esposizioni brevi ma elevate e la durata dei contaminanti dopo il passaggio del pennacchio. Gli autori suggeriscono che le procedure di allerta e i modelli di qualità dell'aria debbano considerare la chimica specifica degli incendi che attraversano zone costruite."
+      ],
+      "facts": [
+        "Pubblicazione scientifica del 28 ottobre 2026 basata sui fumi del rogo Eaton del gennaio 2025.",
+        "Nel pennacchio urbano i ricercatori riportano oltre 50 volte più piombo, sette volte più alogeni e tre volte più arsenico del confronto con fumo di vegetazione.",
+        "Esposizione stimata di circa 7 milioni di persone (intervallo 4,3–8 milioni) per 24 ore a concentrazioni di piombo superiori a 50 ng/m³."
+      ],
+      "perspectives": [
+        "Gli autori ritengono necessari modelli specifici per incendi in contesti costruiti anziché assimilare tutti i pennacchi a fumo di vegetazione.",
+        "Eos ha raccolto il commento di uno specialista esterno che vede nelle misure in tempo reale un passo importante nella caratterizzazione dei fumi urbani."
+      ],
+      "unknowns": [
+        "L'impatto sanitario individuale e di lungo periodo delle concentrazioni stimate.",
+        "Come cambierebbe la stima di esposizione con una rete di monitoraggio più capillare."
+      ],
+      "questions": [
+        {
+          "question": "Perché il pennacchio dell'incendio Eaton conteneva oltre 50 volte il piombo rilevato nel confronto forestale?",
+          "answer": "Nella fase urbana bruciavano insieme alla vegetazione case, veicoli, elettronica e materiali da costruzione, che possono liberare metalli e alogeni. La stazione ASCENT ha misurato direttamente questi elementi, permettendo di distinguere la combustione delle strutture dal successivo fumo prevalentemente boschivo."
+        },
+        {
+          "question": "Che cosa indica davvero la stima di sette milioni di esposti al piombo nel gennaio 2025?",
+          "answer": "È il numero modellizzato di persone che potrebbero aver respirato per 24 ore aria oltre la soglia di concentrazione definita dagli studiosi durante il picco dell'incendio. Non indica una dose personale misurata né sette milioni di diagnosi: conseguenze cliniche e variazioni individuali non sono determinate da questo studio."
+        }
+      ],
+      "tags": [
+        "Eaton",
+        "piombo",
+        "incendi"
+      ],
+      "impactReason": "Lo studio evidenzia un rischio di esposizione a metalli negli incendi urbani che può riguardare milioni di residenti oltre l'area bruciata.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "Fire at the boundary: Airborne toxic metals from the 2025 Los Angeles urban firestorm",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei4455",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "Eos / AGU",
+          "title": "Eaton Wildfire Exposed Millions to a “Cocktail of Chemicals”",
+          "url": "https://eos.org/articles/eaton-wildfire-exposed-millions-to-a-cocktail-of-chemicals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Smoke from LA fires exposed millions of people to high levels of toxic heavy metals, study says",
+          "url": "https://apnews.com/article/b1d86fbb096940500a4c04c5d5bf82dd",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "L.A. fires exposed millions to lead levels way above normal, study says",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/28/millions-were-exposed-lead-levels-way-above-normal-during-la-fires-study-says/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caltech",
+          "title": "Chemical Data Collected from the Eaton Fire Plume Help Characterize Urban Fires",
+          "url": "https://www.caltech.edu/about/news/chemical-data-collected-from-the-eaton-fire-plume-help-characterize-urban-fires",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "alt": "Illustrazione originale sul tema: Urban wildfire smoke and atmospheric trace metals, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "rubin-2026-ed138-dwarf-planet-candidate-oct27",
+      "rank": 5,
+      "category": "world",
+      "impact": 2.5,
+      "title": "Vera Rubin individua 2026 ED138, possibile pianeta nano oltre Plutone",
+      "dek": "L'oggetto è stato riconosciuto il 13 ottobre e annunciato il 27; nuove osservazioni devono ancora confermarne dimensioni e forma.",
+      "summary": "L'Osservatorio Vera C. Rubin ha identificato il corpo transnettuniano 2026 ED138, un possibile nuovo pianeta nano di 600–1.500 chilometri di diametro. L'analisi decisiva risale al 13 ottobre e l'annuncio ufficiale del Minor Planet Center al 27 ottobre 2026; le ricostruzioni scientifiche del 28–30 ottobre ne hanno illustrato le caratteristiche. È un candidato, non il sesto pianeta nano già confermato.",
+      "body": [
+        "Il 27 ottobre 2026 l'Osservatorio Vera C. Rubin, in Cile, e il Minor Planet Center dell'Unione astronomica internazionale hanno annunciato l'identificazione di 2026 ED138, un oggetto ghiacciato del Sistema solare esterno. Matthew Holman aveva individuato il segnale la sera del 13 ottobre, esaminando con un algoritmo sviluppato insieme a Kevin Napier miliardi di rilevazioni raccolte dal telescopio nei mesi precedenti. Reuters, National Geographic, ANSA e Sky & Telescope hanno approfondito la notizia nei giorni successivi, distinguendo la scoperta dall'iter di conferma.",
+        "Il corpo orbita oltre la regione di Nettuno e Plutone e, al momento degli annunci, si trovava a circa 46 unità astronomiche dal Sole, cioè 46 volte la distanza media Terra-Sole. La combinazione di luminosità osservata, distanza e ipotesi sulla riflettività della superficie suggerisce un diametro compreso fra 600 e 1.500 chilometri. È una fascia ampia proprio perché misurare la luce riflessa non equivale a misurare il diametro reale: una superficie molto riflettente può apparire luminosa anche se più piccola.",
+        "Per essere considerato un pianeta nano, un corpo deve orbitare intorno al Sole, avere massa sufficiente a raggiungere una forma quasi sferica, non aver ripulito la propria zona orbitale e non essere un satellite. La dimensione ipotizzata di ED138 rende plausibile la forma arrotondata, ma servono osservazioni indipendenti, in particolare a lunghezze d'onda più lunghe, per stimare meglio proprietà fisiche e composizione. Sky & Telescope ne ha sottolineato anche la notevole brillantezza rispetto ad altri oggetti transnettuniani catalogati.",
+        "La scoperta dimostra la capacità della grande fotocamera Rubin e dei nuovi algoritmi di rilevare movimenti lentissimi di corpi lontani in campi pieni di stelle. L'osservatorio prevede un programma di scansioni ripetute del cielo australe per dieci anni, dal quale gli astronomi si aspettano molte ulteriori identificazioni. ED138 rimane per ora un candidato e non va inserito automaticamente nella lista ufficiale dei cinque pianeti nani riconosciuti: Cerere, Plutone, Haumea, Makemake ed Eris."
+      ],
+      "facts": [
+        "L'oggetto 2026 ED138 è stato identificato da Holman il 13 ottobre e annunciato ufficialmente il 27 ottobre 2026.",
+        "Gli astronomi stimano un diametro nell'intervallo 600–1.500 km e una distanza dal Sole di circa 46 UA.",
+        "La classificazione definitiva come pianeta nano necessita di osservazioni ulteriori."
+      ],
+      "perspectives": [
+        "Il gruppo Rubin considera la scoperta una prova iniziale del potenziale della sua scansione decennale.",
+        "Sky & Telescope osserva che la luminosità dell'oggetto è notevole fra i transnettuniani scoperti, un indizio che richiede misure fisiche più precise."
+      ],
+      "unknowns": [
+        "Il diametro, l'albedo, la forma e la composizione superficiale effettivi di ED138.",
+        "L'esito della classificazione da parte degli organismi astronomici dopo nuove misure."
+      ],
+      "questions": [
+        {
+          "question": "Come ha fatto il telescopio Vera Rubin a riconoscere ED138 in una zona affollata di stelle?",
+          "answer": "Holman ha analizzato molte riprese di epoche diverse con un programma che collega rilevazioni dello stesso corpo in lento movimento. Le stelle di sfondo mantengono invece posizioni quasi fisse rispetto a quelle immagini; le sequenze hanno permesso di isolare il moto di ED138 e ricostruirne l'orbita."
+        },
+        {
+          "question": "Perché il diametro di ED138 è stimato fra 600 e 1.500 km invece di avere un valore già preciso?",
+          "answer": "Il corpo è lontano e se ne misura soprattutto la luce riflessa. Senza sapere con precisione quanto la superficie sia riflettente, la stessa luminosità può derivare da dimensioni diverse; osservazioni termiche o infrarosse potranno restringere la stima e aiutare a stabilire se la gravità lo renda quasi sferico."
+        }
+      ],
+      "tags": [
+        "Rubin",
+        "ED138",
+        "astronomia"
+      ],
+      "impactReason": "Il candidato apre nuove possibilità di esplorazione del Sistema solare esterno e dimostra la capacità di rilevamento di un osservatorio di nuova generazione.",
+      "sources": [
+        {
+          "outlet": "NSF / Rubin Observatory",
+          "title": "New dwarf planet candidate discovered by NSF–DOE Rubin Observatory",
+          "url": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Rubin Observatory",
+          "title": "NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
+          "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Possible new dwarf planet identified orbiting beyond Pluto",
+          "url": "https://www.reuters.com/science/possible-new-dwarf-planet-identified-orbiting-beyond-pluto-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "National Geographic",
+          "title": "Astronomers Just Discovered a New Hidden World Beyond Neptune",
+          "url": "https://www.nationalgeographic.com/science/article/new-dwarf-planet-rubin-pluto",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky & Telescope",
+          "title": "Possible New Dwarf Planet in the Solar System",
+          "url": "https://skyandtelescope.org/astronomy-news/possible-new-dwarf-planet-in-the-solar-system/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Il Sistema Solare ha un nuovo possibile pianeta nano, è oltre Plutone",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/29/il-sistema-solare-ha-un-nuovo-possibile-pianeta-nano-e-oltre-plutone_dfa4a02c-23e6-462a-bc41-aa9f2de662e7.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "alt": "Illustrazione originale sul tema: Distant dwarf planet candidate and orbital observation, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
