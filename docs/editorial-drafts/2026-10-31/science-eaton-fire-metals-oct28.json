@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-31",
+  "desk": "science",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "All desks must reach 25 verified unique stories before CI and publication",
+  "articles": {
+    "it": {
+      "id": "eaton-urban-wildfire-toxic-smoke-oct28",
+      "rank": 4,
+      "category": "climate",
+      "impact": 3,
+      "title": "Fumo dell'incendio Eaton, studio stima sette milioni di esposti a picchi di piombo",
+      "dek": "Le misure di Caltech rivelano concentrazioni di metalli nel pennacchio urbano molto superiori a quelle di un incendio di sola vegetazione.",
+      "summary": "Una ricerca uscita il 28 ottobre 2026 su Science Advances ha confrontato il fumo dell'incendio Eaton del gennaio 2025 con quello di un incendio alimentato principalmente da vegetazione. Nel pennacchio urbano ha trovato oltre 50 volte più piombo e tre volte più arsenico, stimando circa sette milioni di persone esposte per 24 ore a concentrazioni di piombo oltre 80 volte lo sfondo. È una stima di esposizione ambientale, non un bilancio di diagnosi mediche.",
+      "body": [
+        "Il 28 ottobre 2026 un gruppo di ricercatori guidato da Haroula Baliaka del Caltech ha pubblicato su Science Advances un'analisi chimica dei fumi dell'incendio Eaton, che nel gennaio 2025 aveva raggiunto Altadena e altri quartieri della contea di Los Angeles. La ricerca sfrutta misure orarie di elementi in traccia raccolte da una stazione della rete statunitense ASCENT sottovento rispetto alle fiamme. Eos, Associated Press e Washington Post hanno trattato i risultati separatamente, riportando spiegazioni dei ricercatori e commenti di esperti.",
+        "Gli scienziati hanno confrontato la composizione del pennacchio urbano di Eaton con quella di un incendio che aveva interessato soprattutto vegetazione. Durante la combustione di abitazioni, veicoli e materiali artificiali, il fumo di Eaton è risultato arricchito di oltre 50 volte in piombo, circa sette volte in alogeni come cloro e bromo e tre volte in arsenico. Il rapporto fra potassio e piombo nelle misure orarie ha contribuito a identificare il passaggio dal materiale urbano a quello forestale man mano che il fronte avanzava.",
+        "Applicando le misure atmosferiche a una stima di trasporto ed esposizione, gli autori calcolano che durante il massimo della combustione delle strutture circa sette milioni di residenti dell'area metropolitana possano aver respirato per 24 ore aria con livelli di piombo superiori a 50 nanogrammi per metro cubo, oltre 80 volte i valori tipici di fondo. La cifra ha un intervallo stimato da 4,3 a 8 milioni di persone; non significa che ogni singolo individuo abbia ricevuto la stessa dose, né che siano stati accertati sette milioni di casi di avvelenamento.",
+        "Il lavoro si distingue dagli studi tradizionali che monitorano solo la massa complessiva di particolato: riconoscere gli elementi tossici consente di differenziare i rischi di un incendio urbano da quelli del fumo di bosco. Restano da verificare le conseguenze sanitarie di esposizioni brevi ma elevate e la durata dei contaminanti dopo il passaggio del pennacchio. Gli autori suggeriscono che le procedure di allerta e i modelli di qualità dell'aria debbano considerare la chimica specifica degli incendi che attraversano zone costruite."
+      ],
+      "facts": [
+        "Pubblicazione scientifica del 28 ottobre 2026 basata sui fumi del rogo Eaton del gennaio 2025.",
+        "Nel pennacchio urbano i ricercatori riportano oltre 50 volte più piombo, sette volte più alogeni e tre volte più arsenico del confronto con fumo di vegetazione.",
+        "Esposizione stimata di circa 7 milioni di persone (intervallo 4,3–8 milioni) per 24 ore a concentrazioni di piombo superiori a 50 ng/m³."
+      ],
+      "perspectives": [
+        "Gli autori ritengono necessari modelli specifici per incendi in contesti costruiti anziché assimilare tutti i pennacchi a fumo di vegetazione.",
+        "Eos ha raccolto il commento di uno specialista esterno che vede nelle misure in tempo reale un passo importante nella caratterizzazione dei fumi urbani."
+      ],
+      "unknowns": [
+        "L'impatto sanitario individuale e di lungo periodo delle concentrazioni stimate.",
+        "Come cambierebbe la stima di esposizione con una rete di monitoraggio più capillare."
+      ],
+      "questions": [
+        {
+          "question": "Perché il pennacchio dell'incendio Eaton conteneva oltre 50 volte il piombo rilevato nel confronto forestale?",
+          "answer": "Nella fase urbana bruciavano insieme alla vegetazione case, veicoli, elettronica e materiali da costruzione, che possono liberare metalli e alogeni. La stazione ASCENT ha misurato direttamente questi elementi, permettendo di distinguere la combustione delle strutture dal successivo fumo prevalentemente boschivo."
+        },
+        {
+          "question": "Che cosa indica davvero la stima di sette milioni di esposti al piombo nel gennaio 2025?",
+          "answer": "È il numero modellizzato di persone che potrebbero aver respirato per 24 ore aria oltre la soglia di concentrazione definita dagli studiosi durante il picco dell'incendio. Non indica una dose personale misurata né sette milioni di diagnosi: conseguenze cliniche e variazioni individuali non sono determinate da questo studio."
+        }
+      ],
+      "tags": [
+        "Eaton",
+        "piombo",
+        "incendi"
+      ],
+      "impactReason": "Lo studio evidenzia un rischio di esposizione a metalli negli incendi urbani che può riguardare milioni di residenti oltre l'area bruciata.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "Fire at the boundary: Airborne toxic metals from the 2025 Los Angeles urban firestorm",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei4455",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "Eos / AGU",
+          "title": "Eaton Wildfire Exposed Millions to a “Cocktail of Chemicals”",
+          "url": "https://eos.org/articles/eaton-wildfire-exposed-millions-to-a-cocktail-of-chemicals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Smoke from LA fires exposed millions of people to high levels of toxic heavy metals, study says",
+          "url": "https://apnews.com/article/b1d86fbb096940500a4c04c5d5bf82dd",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "L.A. fires exposed millions to lead levels way above normal, study says",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/28/millions-were-exposed-lead-levels-way-above-normal-during-la-fires-study-says/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caltech",
+          "title": "Chemical Data Collected from the Eaton Fire Plume Help Characterize Urban Fires",
+          "url": "https://www.caltech.edu/about/news/chemical-data-collected-from-the-eaton-fire-plume-help-characterize-urban-fires",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "alt": "Illustrazione originale sul tema: Urban wildfire smoke and atmospheric trace metals, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "eaton-urban-wildfire-toxic-smoke-oct28",
+      "rank": 4,
+      "category": "climate",
+      "impact": 3,
+      "title": "Eaton Fire smoke study estimates seven million exposed to elevated lead levels",
+      "dek": "Caltech monitoring found much higher metal concentrations in the urban plume than in smoke mainly produced by burning vegetation.",
+      "summary": "A study published in Science Advances on October 28, 2026 compared smoke from California's January 2025 Eaton Fire with a mainly vegetation-fueled wildfire. The urban plume held over 50 times as much lead and three times as much arsenic. Researchers estimated that roughly seven million people experienced 24-hour lead concentrations above 80 times typical background levels. This is an estimate of environmental exposure, not a count of medical diagnoses.",
+      "body": [
+        "On October 28, 2026 researchers led by Caltech's Haroula Baliaka published a chemical analysis of the Eaton Fire smoke in Science Advances. The blaze swept through Altadena and other Los Angeles County neighborhoods in January 2025. Their work used hourly measurements of trace elements at a downwind station in the US ASCENT monitoring network. Eos, the Associated Press and the Washington Post independently reported the study, drawing on scientist interviews and outside expert commentary.",
+        "The team compared Eaton's urban smoke with emissions from a fire that burned mostly vegetation. As homes, vehicles and manufactured materials were consumed, the Eaton plume contained more than 50 times the lead, about seven times the halogens such as chlorine and bromine, and three times the arsenic. Changes in the measured potassium-to-lead ratio helped track the transition from structure-heavy burning to the more forest-dominated stage as the fire moved into the mountains.",
+        "Using monitoring measurements to model pollution transport and exposure, the authors estimated that during peak structure burning about seven million metropolitan Los Angeles residents may have experienced 24-hour lead concentrations exceeding 50 nanograms per cubic meter, more than 80 times usual background. The population estimate ranged from 4.3 million to 8 million. It does not imply that everyone inhaled the same personal dose or that millions developed clinically confirmed lead poisoning.",
+        "The work extends conventional wildfire-air monitoring beyond total particle mass to identify chemically distinct toxic constituents of urban fire smoke. The clinical effects of short-duration high exposures and the persistence of contaminants after the plume dispersed remain unresolved. The authors say air-quality forecasts and emergency warnings should better distinguish fires that burn through housing, vehicles and buildings from wildland vegetation fires."
+      ],
+      "facts": [
+        "The paper published October 28, 2026 examined the January 2025 Eaton Fire plume.",
+        "Urban smoke showed over 50 times as much lead, seven times the halogens and three times as much arsenic as vegetation-fire smoke.",
+        "Researchers modeled roughly seven million residents (range 4.3–8 million) experiencing 24-hour airborne lead exceeding 50 ng/m³."
+      ],
+      "perspectives": [
+        "The scientists argue that urban and wildland fires need different exposure models and emergency response assumptions.",
+        "Eos interviewed an outside atmospheric scientist who considered real-time measurement of urban smoke chemistry an important advance."
+      ],
+      "unknowns": [
+        "Long-term and individual health consequences of the estimated exposure.",
+        "How more geographically detailed monitoring would change estimates of affected populations."
+      ],
+      "questions": [
+        {
+          "question": "Why did the Eaton plume contain more than 50 times the lead found in the comparison wildfire smoke?",
+          "answer": "Along with vegetation, Eaton's urban phase burned houses, vehicles, electronics and construction materials that can release metals and halogens. The ASCENT station measured those elements directly, making it possible to distinguish structure-fire emissions from the later mostly vegetation-driven plume."
+        },
+        {
+          "question": "What does the estimate of seven million people exposed to lead in January 2025 actually mean?",
+          "answer": "It is a modeled count of residents who may have breathed air above the study's 24-hour concentration threshold during peak structural burning. It is not a measurement of each person's absorbed dose or a count of confirmed poisonings; the study did not establish individual health outcomes."
+        }
+      ],
+      "tags": [
+        "Eaton",
+        "lead",
+        "wildfires"
+      ],
+      "impactReason": "The study reveals metal-exposure risks from urban fires that can affect millions beyond the burned neighborhood.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "Fire at the boundary: Airborne toxic metals from the 2025 Los Angeles urban firestorm",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei4455",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "Eos / AGU",
+          "title": "Eaton Wildfire Exposed Millions to a “Cocktail of Chemicals”",
+          "url": "https://eos.org/articles/eaton-wildfire-exposed-millions-to-a-cocktail-of-chemicals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Smoke from LA fires exposed millions of people to high levels of toxic heavy metals, study says",
+          "url": "https://apnews.com/article/b1d86fbb096940500a4c04c5d5bf82dd",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "L.A. fires exposed millions to lead levels way above normal, study says",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/28/millions-were-exposed-lead-levels-way-above-normal-during-la-fires-study-says/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caltech",
+          "title": "Chemical Data Collected from the Eaton Fire Plume Help Characterize Urban Fires",
+          "url": "https://www.caltech.edu/about/news/chemical-data-collected-from-the-eaton-fire-plume-help-characterize-urban-fires",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "alt": "Original illustration of: Urban wildfire smoke and atmospheric trace metals, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
