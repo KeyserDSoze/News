@@ -1,0 +1,427 @@
+{
+  "date": "2026-10-31",
+  "language": "it",
+  "section": "technology",
+  "publishedAt": "2026-10-31T09:24:33+01:00",
+  "editorialNote": "Tecnologia, 31 ottobre 2026. Distinzione fra vulnerabilità, incidenti documentati, annunci tecnici e conseguenze attese. Le attribuzioni informatiche non sono sentenze.",
+  "articles": [
+    {
+      "id": "technology-binance-hack-oct30",
+      "rank": 1,
+      "category": "technology",
+      "title": "Binance, furto dichiarato da circa 6,36 miliardi di dollari: fondi congelati e indagini ancora aperte",
+      "dek": "L'attacco è emerso il 29 ottobre; il 30 la piattaforma ha precisato misure di copertura e recupero, mentre l'attribuzione alla Corea del Nord resta investigativa.",
+      "summary": "Secondo l'analisi blockchain di TRM, attaccanti hanno trasferito circa 6,36 miliardi di dollari in criptoattività da portafogli Binance su dieci blockchain. Il 30 ottobre l'exchange ha dichiarato di aver accantonato oltre 6,34 miliardi per coprire le perdite e collaborato al congelamento di circa 3 miliardi. Società di analisi sospettano il gruppo nordcoreano TraderTraitor, ma l'identità dei responsabili non è stata accertata dalle autorità.",
+      "body": [
+        "Tra la sera di giovedì 29 e venerdì 30 ottobre 2026 è emerso un attacco informatico contro Binance, una delle maggiori piattaforme di scambio di criptoattività. Secondo l'analisi di TRM riportata da Associated Press, circa 6,36 miliardi di dollari sono stati trasferiti fuori dai portafogli della piattaforma attraverso dieci blockchain, in gran parte nell'arco di una ventina di minuti. La cifra è una ricostruzione dell'incidente e non equivale automaticamente alla perdita netta finale, che dipende anche da congelamenti e recuperi successivi.",
+        "Binance ha confermato il coinvolgimento di un proprio hot wallet, cioè un portafoglio connesso alla rete per rendere possibili operazioni e prelievi. L'azienda afferma che la maggior parte degli asset dei clienti è conservata in cold wallet, non costantemente connessi a internet. Una prima ipotesi investigativa indicava il portatile compromesso di un ingegnere; l'exchange ha poi parlato di ulteriori punti di violazione e di tattiche complesse. Nessuna di queste indicazioni, da sola, costituisce una ricostruzione forense conclusiva del percorso seguito dagli attaccanti.",
+        "Venerdì la società ha dichiarato di aver destinato oltre 6,34 miliardi di dollari di fondi propri alla copertura delle perdite e di lavorare con emittenti e analisti per bloccare circa 3 miliardi di asset coinvolti. Le tre grandezze vanno tenute distinte: valore trasferito illegalmente, importi congelati che non sono più liberamente movimentabili e risorse aziendali riservate ai rimborsi non sono la stessa cosa. Binance ha detto che i depositi non erano stati colpiti, mentre i prelievi erano stati temporaneamente sospesi.",
+        "Le società di analisi blockchain TRM e Chainalysis hanno attribuito l'attacco con elevata confidenza a TraderTraitor, gruppo associato alla Corea del Nord; Binance ha dichiarato di lavorare con le forze dell'ordine per identificare i responsabili. La conclusione degli analisti non è una sentenza né una conferma giudiziaria. L'incidente mostra quanto un punto operativo online possa concentrare rischi per un intermediario, anche quando gran parte delle riserve è custodita offline. L'entità dei fondi effettivamente recuperati e la sequenza tecnica completa restano da chiarire."
+      ],
+      "impactReason": "La dimensione della sottrazione dichiarata e il coinvolgimento di un grande exchange mettono alla prova sicurezza, rimborsi e fiducia nei mercati cripto.",
+      "tags": [
+        "Binance",
+        "cybersecurity",
+        "criptovalute"
+      ],
+      "facts": [
+        "TRM ha stimato circa 6,36 miliardi di dollari trasferiti da portafogli Binance su dieci blockchain.",
+        "Binance ha annunciato oltre 6,34 miliardi di dollari accantonati per la copertura e circa 3 miliardi di asset congelati con partner.",
+        "La società ha indicato il coinvolgimento di un hot wallet e la sospensione temporanea dei prelievi."
+      ],
+      "perspectives": [
+        "TRM e Chainalysis ritengono probabile il coinvolgimento di TraderTraitor, associato alla Corea del Nord; è un'attribuzione analitica.",
+        "Binance promette di coprire le perdite e riferisce collaborazione con forze dell'ordine e società blockchain."
+      ],
+      "unknowns": [
+        "Identità dei responsabili e sequenza completa dell'intrusione, in attesa di verifiche investigative indipendenti.",
+        "Valore finale degli asset recuperati e tempi effettivi di rimborso ai singoli clienti."
+      ],
+      "questions": [
+        {
+          "question": "Perché un hot wallet di Binance era più esposto di un cold wallet durante l'attacco?",
+          "answer": "Un hot wallet è connesso a sistemi online per autorizzare rapidamente trasferimenti e prelievi; se un attaccante ottiene le autorizzazioni necessarie può muovere fondi attraverso la rete. Un cold wallet mantiene invece le chiavi fuori dai sistemi sempre connessi, riducendo quella specifica superficie d'attacco senza eliminare ogni rischio operativo."
+        },
+        {
+          "question": "Perché i circa 3 miliardi di dollari congelati non sono automaticamente 3 miliardi già restituiti ai clienti?",
+          "answer": "Il congelamento impedisce o limita il trasferimento di determinati token, ma la restituzione richiede identificare gli asset, definire la titolarità e completare procedure tecniche e legali. È distinta anche dalla riserva di oltre 6,34 miliardi che Binance dice di avere stanziato per coprire le perdite."
+        }
+      ],
+      "impact": 4.5,
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+          "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "North Korea is likely culprit behind $6.3bn crypto hack",
+          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "$6.3bn in 30 minutes: how the world's biggest heist unfolded",
+          "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TRM Labs",
+          "title": "North Korea Has Stolen USD 12.8 Billion in Crypto, USD 7.4 Billion of It in 2026",
+          "url": "https://www.trmlabs.com/resources/blog/north-korea-has-stolen-usd-128-billion-in-crypto-usd-74-billion-of-it-in-2026",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
+        },
+        {
+          "outlet": "Decrypt",
+          "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+          "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-binance-hack-oct30.svg",
+        "alt": "Illustrazione editoriale originale, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/technology-binance-hack-oct30.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "intel-stock-rout-oct30",
+      "rank": 2,
+      "category": "technology",
+      "impact": 3,
+      "title": "Intel perde il 28,6% in Borsa dopo le previsioni sul quarto trimestre",
+      "dek": "Il crollo del 30 ottobre è un aggiornamento distinto dai conti pubblicati il 29: debolezza dei PC e costi dell'IA pesano sulle aspettative.",
+      "summary": "Venerdì 30 ottobre 2026 Intel ha chiuso in calo del 28,6% a Wall Street, secondo Reuters, quasi il 29% secondo AP. Il movimento è seguito alla previsione del 29 ottobre di ricavi per 15–16 miliardi di dollari nel quarto trimestre, giudicata deludente dagli investitori. La notizia nuova è la reazione dei mercati, non una seconda pubblicazione dei conti trimestrali.",
+      "body": [
+        "Il 30 ottobre 2026 le azioni Intel hanno perso il 28,6% nella seduta statunitense, secondo la cronaca di chiusura di Reuters; Associated Press ha descritto la perdita come vicina al 29%. È il peggior calo giornaliero del titolo dal 1974 secondo AP. Alcune notizie pubblicate durante la contrattazione citavano un -30% provvisorio: la cifra di chiusura non va confusa con quelle osservate a metà giornata. La discesa si è inserita in una sessione negativa per i produttori di semiconduttori.",
+        "La sera precedente Intel aveva pubblicato i risultati del terzo trimestre: ricavi per 16,5 miliardi di dollari, in aumento del 21% annuo, e una previsione per il quarto di 15–16 miliardi. Il mercato ha concentrato l'attenzione sulle prospettive meno favorevoli delle attese, nonostante la crescita appena riportata. Reuters ha descritto un contesto nel quale l'aumento dei costi della memoria, spinto dalla domanda dei centri dati legati all'intelligenza artificiale, mette pressione alla domanda e ai margini nel mercato dei personal computer.",
+        "La reazione ha avuto un effetto più ampio sul settore tecnologico: Reuters rileva un calo del 7,2% dell'indice dei semiconduttori, mentre il Nasdaq ha perso il 2,86% nella stessa seduta. Sono movimenti di mercato, non indicatori diretti dell'output industriale, e non dimostrano da soli quanto della flessione sia imputabile a una singola azienda. Gli investitori stanno valutando la combinazione fra domanda per i chip tradizionali, capacità produttiva e fabbisogni finanziari della transizione verso l'IA.",
+        "L'evento del 30 ottobre costituisce un aggiornamento autonomo rispetto alla pubblicazione della trimestrale del 29 ottobre già raccontata nell'edizione precedente di O. Il prezzo di un titolo rappresenta una valutazione che cambia rapidamente in base ad aspettative, tassi e propensione al rischio: non equivale automaticamente a un deterioramento della stessa entità nei ricavi o nella produzione di Intel. La verifica dei prossimi trimestri chiarirà se la correzione anticipava risultati peggiori oppure era amplificata dal clima generale del mercato."
+      ],
+      "facts": [
+        "Intel ha chiuso il 30 ottobre con un calo del titolo del 28,6%, secondo Reuters; AP arrotonda a quasi 29%.",
+        "Nel comunicato del 29 ottobre Intel ha registrato 16,5 miliardi di dollari di ricavi nel terzo trimestre e previsto 15–16 miliardi nel quarto.",
+        "Il 30 ottobre l'indice di settore dei semiconduttori ha perso circa il 7,2% secondo Reuters."
+      ],
+      "perspectives": [
+        "Intel sostiene che la domanda delle sue CPU resta forte ma riconosce difficoltà a breve termine nell'industria PC.",
+        "Reuters e AP descrivono la risposta degli investitori come legata alle prospettive e alla pressione sui costi della tecnologia."
+      ],
+      "unknowns": [
+        "L'evoluzione effettiva delle vendite nel quarto trimestre rispetto alla fascia prevista da Intel.",
+        "La quota del ribasso legata al rischio aziendale specifico rispetto alla vendita generalizzata di titoli tecnologici."
+      ],
+      "questions": [
+        {
+          "question": "Perché il titolo Intel è crollato nonostante ricavi trimestrali in crescita del 21%?",
+          "answer": "I mercati scontano anche i risultati attesi in futuro: la fascia di ricavi prevista da Intel per ottobre-dicembre, 15–16 miliardi di dollari, è stata giudicata debole rispetto alle aspettative. La crescita del trimestre appena concluso non neutralizza le preoccupazioni per domanda di PC, costi e flussi di cassa successivi."
+        },
+        {
+          "question": "Qual è la differenza fra il -30% riportato durante la seduta Intel e il -28,6% finale del 30 ottobre?",
+          "answer": "Il prezzo di Borsa varia continuamente durante le contrattazioni, quindi i lanci pubblicati a metà giornata possono descrivere cali temporanei. Reuters ha riportato una perdita alla chiusura del 28,6%; per confrontare giornate e indici bisogna usare i valori di chiusura, non il minimo infragiornaliero."
+        }
+      ],
+      "tags": [
+        "Intel",
+        "semiconduttori",
+        "borsa"
+      ],
+      "impactReason": "Il crollo ha avuto ripercussioni sui titoli chip e segnala tensioni nelle valutazioni tecnologiche, senza equivalere a una perdita operativa pari al calo azionario.",
+      "sources": [
+        {
+          "outlet": "Intel Corporation / SEC",
+          "title": "Intel Reports Third-Quarter 2026 Financial Results",
+          "url": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-26-000188/q326earningsrelease.htm",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+          "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "How major US stock indexes fared Friday 10/30/2026",
+          "url": "https://apnews.com/article/a01d3551e794fed1a0c317c20bc3f0a2",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Business Insider",
+          "title": "Intel shares plunge following revenue warning and AI-led supply pressures",
+          "url": "https://www.businessinsider.com/intel-shares-plunge-revenue-drop-warning-ai-led-supply-shortages-2026-10",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-intel-stock-oct30.svg",
+        "alt": "Illustrazione originale: Semiconductor company stock-market volatility, conceptual chart",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/technology-intel-stock-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "technology-meta-cma-investigation-oct30",
+      "rank": 3,
+      "category": "technology",
+      "title": "Regno Unito, indagine antitrust su Meta per le condizioni d'uso dei contenuti degli editori",
+      "dek": "La CMA apre un'istruttoria sulle clausole per le imprese che usano le piattaforme Meta, mentre la società sospende le modifiche contestate.",
+      "summary": "Il 30 ottobre 2026 la Competition and Markets Authority britannica ha aperto un'indagine per verificare se Meta possa imporre condizioni commerciali inique agli editori e ad altre imprese, usando contenuti dei loro siti per propri servizi, anche di IA, senza una scelta effettiva. Le modifiche sono state sospese; la CMA non ha ancora accertato una violazione della legge sulla concorrenza.",
+      "body": [
+        "Venerdì 30 ottobre 2026 l'autorità britannica della concorrenza, Competition and Markets Authority (CMA), ha avviato un'indagine formale sulle condizioni contrattuali previste da Meta per le imprese che utilizzano le sue piattaforme e i suoi servizi pubblicitari. Secondo il comunicato ufficiale, alcune clausole potrebbero consentire a Meta di raccogliere contenuti dai siti di editori e aziende clienti per sviluppare propri servizi, anche funzionalità di intelligenza artificiale, senza che i titolari dei contenuti possano scegliere se e come autorizzarne l'uso. Reuters, Wall Street Journal e ITV News hanno riportato l'atto e interpellato le parti.",
+        "La CMA esaminerà due questioni distinte: se Meta detenga una posizione dominante in un mercato rilevante del Regno Unito e, qualora la detenga, se imporre le clausole in questione costituisca abuso di tale posizione mediante condizioni commerciali ingiuste. La procedura è aperta ai sensi del Competition Act 1998 e riguarda le potenziali conseguenze per migliaia di attività che dipendono dalla visibilità e dagli strumenti forniti dalle piattaforme. Avviare un'indagine non equivale né a dichiarare Meta dominante in via definitiva né a provare un abuso.",
+        "Le condizioni contestate erano inizialmente programmate per entrare in vigore il 30 ottobre. Dopo i primi contatti con l'autorità, Meta aveva posticipato la data al 20 novembre e, il 28 ottobre, ha annunciato di sospendere la modifica in attesa di consultazioni con le associazioni di settore. La CMA ha riferito le preoccupazioni espresse dalla News Media Association e da Movement for an Open Web. Meta ha replicato a Reuters che non vi sono ragioni per l'indagine e che non cambierà i termini prima di aver consultato editori e altri interlocutori.",
+        "Il caso riguarda il potere contrattuale degli intermediari digitali e l'accesso ai contenuti giornalistici per sviluppare prodotti tecnologici, oltre alla possibilità degli editori di mantenere il controllo sull'utilizzo dei propri materiali. La CMA ha precisato che sta soltanto raccogliendo e valutando prove e non ha ancora assunto decisioni nel merito. Ha inoltre chiesto informazioni su un separato servizio Meta One, ma la possibile iniziativa su quest'ultimo non fa parte dell'indagine formale aperta il 30 ottobre: confondere i due procedimenti altererebbe la portata dell'annuncio."
+      ],
+      "facts": [
+        "La CMA ha aperto il 30 ottobre un'indagine ai sensi del Competition Act 1998 sui termini commerciali di Meta.",
+        "Meta aveva spostato l'entrata in vigore delle clausole al 20 novembre e il 28 ottobre ne ha sospeso l'applicazione.",
+        "Non è stata adottata alcuna decisione che accerti una posizione dominante abusata o una violazione della concorrenza."
+      ],
+      "perspectives": [
+        "La CMA teme che aziende ed editori dipendenti dai servizi Meta possano perdere una scelta reale sul riuso dei loro contenuti.",
+        "Meta afferma di non vedere ragioni per l'istruttoria e promette consultazioni prima di eventuali modifiche.",
+        "Le associazioni degli editori chiedono protezioni contro condizioni che ritengono squilibrate."
+      ],
+      "unknowns": [
+        "Se l'indagine stabilirà che Meta occupa una posizione dominante nel mercato britannico pertinente.",
+        "Quali condizioni contrattuali verranno eventualmente riviste e se vi saranno rimedi concordati o sanzioni."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa deve provare la CMA per contestare a Meta un abuso di posizione dominante?",
+          "answer": "Il Competition Act 1998 richiede di individuare un mercato rilevante, valutare se Meta vi sia dominante e poi accertare che le clausole impongano condizioni commerciali abusive. L'apertura dell'istruttoria serve a raccogliere queste prove, non rappresenta un accertamento già raggiunto."
+        },
+        {
+          "question": "Perché il rinvio delle clausole Meta al 20 novembre non coincide con la loro entrata in vigore?",
+          "answer": "Meta aveva inizialmente previsto l'applicazione dal 30 ottobre, poi l'aveva rinviata al 20 novembre e infine, il 28 ottobre, ha annunciato una sospensione in attesa di consultare il settore. Perciò l'indagine del 30 ottobre riguarda un cambiamento prospettato, non clausole già definitivamente applicate quel giorno."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "La verifica su condizioni contrattuali e riuso di contenuti per servizi IA può influenzare editoria, pubblicità digitale e potere dei grandi intermediari.",
+      "tags": [
+        "Meta",
+        "CMA",
+        "antitrust"
+      ],
+      "sources": [
+        {
+          "outlet": "Competition and Markets Authority",
+          "title": "CMA opens investigation into Meta’s commercial terms",
+          "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "UK's CMA opens investigation into Meta's terms for publishers and advertisers",
+          "url": "https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "title": "Meta Faces U.K. Antitrust Probe Over Publisher Content Terms",
+          "url": "https://www.wsj.com/tech/meta-faces-u-k-antitrust-probe-over-publisher-content-use-11637585",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ITV News",
+          "title": "Competition watchdog to investigate Meta terms for publishers and businesses",
+          "url": "https://www.itv.com/news/2026-10-30/competition-watchdog-to-investigate-meta-terms-for-publishers-and-businesses",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-meta-cma-oct30.svg",
+        "alt": "Illustrazione editoriale originale: siti di notizie, clausole digitali e controllo della CMA",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/technology-meta-cma-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "cathay-amadeus-bookings-exposed-oct30",
+      "rank": 4,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "Cathay Pacific, accesso illecito ai dati di circa 53mila prenotazioni nel sistema Amadeus",
+      "dek": "La compagnia precisa che il problema riguarda un fornitore esterno e che non risultano coinvolte informazioni di pagamento.",
+      "summary": "Cathay Pacific ha comunicato il 30 ottobre che un accesso non autorizzato ai sistemi del fornitore Amadeus ha interessato circa 53.000 prenotazioni datate tra agosto 2023 e settembre 2026. Nei casi più comuni sono esposti riferimenti di prenotazione, nomi e dettagli dei voli; una parte minore include altri dati personali. Non si tratta di un attacco confermato alla rete interna della compagnia.",
+      "body": [
+        "Venerdì 30 ottobre 2026 Cathay Pacific ha pubblicato una comunicazione relativa a un incidente di sicurezza informatica notificatole dal fornitore di sistemi di prenotazione Amadeus il 28 ottobre e approfondito il 29. Secondo i dati che Amadeus ha trasmesso alla compagnia, sono interessate circa 53.000 prenotazioni riconducibili a Cathay Pacific nell'intervallo agosto 2023–settembre 2026. Reuters, South China Morning Post e l'emittente pubblica RTHK hanno riferito sul caso con resoconti separati.",
+        "Amadeus ha identificato un accesso non autorizzato a informazioni di prenotazione compiuto attraverso credenziali assegnate a un account del proprio sistema. Per la maggior parte dei record interessati si tratta di codici di prenotazione, nomi dei passeggeri e informazioni sui voli. In alcuni casi risultano coinvolti anche indirizzi e-mail, numeri di telefono, dati di documenti di viaggio o numeri dei programmi frequent flyer. Cinquantatremila è il numero delle prenotazioni, non un conteggio verificato delle persone coinvolte.",
+        "La compagnia sostiene che i suoi sistemi interni e le operazioni di volo non abbiano subito effetti e che, sulla base delle informazioni disponibili, non vi sia evidenza di accesso a dati finanziari o di pagamento. 'Nessuna evidenza' non prova in assoluto l'impossibilità di un abuso futuro, ma delimita ciò che l'azienda ha finora accertato. Amadeus ha riferito di aver reimpostato password e rafforzato monitoraggio e rilevamento; la portata complessiva presso tutti i clienti del fornitore non è stata quantificata in questa comunicazione.",
+        "Il caso mostra la dipendenza delle compagnie aeree da sistemi di terzi che conservano dati personali di viaggio, anche di anni precedenti. Cathay dice di avere avvisato le autorità e di voler contattare individualmente i clienti interessati quando potrà stabilire i dettagli. Un riferimento di prenotazione insieme a nome e itinerario può creare rischi di impersonificazione o messaggi fraudolenti, ma la cronaca dell'incidente non prova che tali abusi siano già avvenuti per le prenotazioni Cathay."
+      ],
+      "facts": [
+        "Cathay Pacific ha annunciato il 30 ottobre circa 53.000 prenotazioni interessate da un accesso non autorizzato in Amadeus.",
+        "L'intervallo dei record coinvolti va da agosto 2023 a settembre 2026.",
+        "Secondo Cathay, non vi sono evidenze di accesso a dati di pagamento e i sistemi interni della compagnia non sono stati compromessi."
+      ],
+      "perspectives": [
+        "Cathay Pacific attribuisce l'incidente al fornitore esterno e dice di collaborare alle verifiche e alle comunicazioni ai clienti.",
+        "Reuters e SCMP sottolineano che il sistema Amadeus è condiviso da numerose compagnie, allargando il problema alla filiera dei servizi di viaggio."
+      ],
+      "unknowns": [
+        "Il numero di persone uniche corrispondenti alle 53.000 prenotazioni.",
+        "Se i dati sottratti siano stati successivamente usati per frodi e quale sia l'estensione complessiva presso gli altri clienti Amadeus."
+      ],
+      "questions": [
+        {
+          "question": "Perché il caso Cathay riguarda 53.000 prenotazioni ma non necessariamente altrettanti passeggeri?",
+          "answer": "Una prenotazione è un record di viaggio: una persona può averne più di una, mentre un record può contenere dettagli relativi a più viaggiatori. Il dato comunicato da Amadeus quantifica le prenotazioni accessibili, non identifica il numero di individui unici coinvolti."
+        },
+        {
+          "question": "In che modo l'accesso alle credenziali Amadeus è diverso da una violazione dei sistemi interni di Cathay Pacific?",
+          "answer": "L'accesso non autorizzato è stato rilevato in un ambiente del fornitore usato per gestire informazioni di prenotazione. Cathay ha dichiarato che i propri sistemi e le operazioni di volo non sono stati interessati: il rischio descritto riguarda la riservatezza dei dati che la compagnia affidava a un servizio esterno."
+        }
+      ],
+      "tags": [
+        "Amadeus",
+        "Cathay",
+        "privacy"
+      ],
+      "impactReason": "La compromissione di dati di prenotazione e documenti presso un fornitore condiviso espone rischi per viaggiatori e imprese del settore.",
+      "sources": [
+        {
+          "outlet": "Cathay Pacific",
+          "title": "Personal data security incident involving a third-party service provider",
+          "url": "https://www.cathaypacific.com/cx/it_IT/latest-news/security-and-operational-changes/personal-data-security.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Cathay Pacific says Amadeus breach affected 53,000 bookings",
+          "url": "https://www.reuters.com/legal/litigation/cathay-pacific-says-amadeus-breach-affected-53000-bookings-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RTHK",
+          "title": "Third-party vendor system breach involves over 50,000 Cathay bookings",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1875960-20261030.htm?archive_date=2026-10-30",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-cathay-amadeus-oct30.svg",
+        "alt": "Illustrazione originale: Travel booking data and external provider security",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/technology-cathay-amadeus-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "technology-starlink-ig-oct29",
+      "rank": 5,
+      "category": "technology",
+      "title": "Starlink in Ucraina, ispettore del Pentagono non apre l'indagine chiesta da nove senatori",
+      "dek": "La risposta rimanda le questioni contrattuali ad Aeronautica e Space Force; non chiarisce chi abbia deciso le limitazioni del servizio.",
+      "summary": "In una lettera datata 27 ottobre e riferita pubblicamente il 28–30, l'ispettore generale del Pentagono Platte Moring ha rifiutato di aprire un'indagine propria sui rallentamenti di Starlink e Starshield segnalati in Ucraina. La richiesta veniva da cinque senatori democratici e quattro repubblicani. L'ufficio ritiene più competenti l'Air Force e la Space Force, ma si riserva di riconsiderare nuovi elementi.",
+      "impact": 3,
+      "impactReason": "La mancata indagine indipendente lascia irrisolta la responsabilità su comunicazioni satellitari essenziali per la difesa ucraina.",
+      "tags": [
+        "Starlink",
+        "Pentagono",
+        "Ucraina"
+      ],
+      "body": [
+        "Una risposta datata martedì 27 ottobre 2026 ha reso noto che l'ispettore generale indipendente del Dipartimento della Difesa statunitense, Platte Moring, non avrebbe aperto l'inchiesta sollecitata da nove senatori sull'interruzione o limitazione della connettività satellitare usata dall'Ucraina. Associated Press e ABC News hanno ottenuto la documentazione e Ars Technica l'ha analizzata il 29 ottobre; Stars and Stripes ha seguito il caso il 30. La notizia non riguarda un nuovo guasto della rete, ma la decisione dell'organismo di controllo.",
+        "La richiesta bipartisan, inviata il 15 ottobre da cinque democratici e quattro repubblicani, chiedeva se SpaceX o funzionari americani avessero diretto, autorizzato o conosciuto in anticipo restrizioni su Starlink e Starshield, e se queste fossero compatibili con i contratti federali. Le autorità ucraine avevano riferito difficoltà per dispositivi che si muovevano oltre circa 161 km/h, in particolare in operazioni contro droni russi veloci. I limiti sarebbero stati successivamente rimossi, ma la spiegazione delle decisioni rimane contestata.",
+        "Moring ha risposto che l'Air Force e la Space Force, responsabili di alcuni rapporti contrattuali con SpaceX, erano in posizione migliore per affrontare le questioni sollevate. Un portavoce dell'ispettorato ha detto ad ABC che la richiesta potrà essere rivalutata alla luce di nuove informazioni. La decisione non equivale a dichiarare il servizio perfettamente conforme o ad assolvere eventuali responsabili: semplicemente l'ufficio ha scelto di non svolgere ora una propria indagine.",
+        "Il caso mostra come una rete commerciale e un servizio satellitare militare possano divenire infrastrutture critiche in guerra, rendendo complesse le responsabilità fra azienda privata, contraenti e governo. Il senatore Jeanne Shaheen ha contestato la mancata revisione indipendente. Elon Musk ha riconosciuto una restrizione di Starlink commerciale attribuendola a violazioni delle condizioni d'uso, contestate dall'Ucraina, ma ha indicato una responsabilità diversa per Starshield. Queste spiegazioni concorrenti non sono state risolte dalla lettera."
+      ],
+      "facts": [
+        "Nove senatori, cinque democratici e quattro repubblicani, hanno chiesto un'inchiesta il 15 ottobre.",
+        "La lettera dell'ispettore generale del 27 ottobre rinvia le questioni ad Air Force e Space Force.",
+        "Le velocità soglia segnalate dalle autorità ucraine erano intorno a 161 km/h, non una chiusura completa di tutti i terminali."
+      ],
+      "perspectives": [
+        "Moring ritiene le forze armate competenti sui contratti più adatte a rispondere.",
+        "Shaheen chiede una verifica indipendente mentre SpaceX e rappresentanti USA e ucraini hanno fornito ricostruzioni differenti delle restrizioni."
+      ],
+      "unknowns": [
+        "Chi abbia disposto le limitazioni e sulla base di quali istruzioni e contratti.",
+        "Se l'Air Force o la Space Force svolgeranno una revisione sostanziale e renderanno note le conclusioni."
+      ],
+      "questions": [
+        {
+          "question": "Perché Platte Moring ha rinviato il dossier Starlink all'Air Force e alla Space Force?",
+          "answer": "Secondo la risposta inviata ai senatori, le interruzioni riguardano anche il funzionamento di servizi forniti tramite contratti governativi con SpaceX. Aeronautica e Space Force gestiscono competenze e rapporti pertinenti, mentre l'ispettore generale ha scelto di non avviare una propria indagine e si è riservato un riesame."
+        },
+        {
+          "question": "Che differenza c'è fra Starlink e Starshield nelle controversie sulle restrizioni ucraine?",
+          "answer": "Starlink è la rete commerciale, mentre Starshield è la versione destinata a usi governativi e militari con contratti specifici. Musk ha ammesso restrizioni su Starlink citando le condizioni d'uso, ma ha attribuito diversamente il controllo su Starshield; la lettera dell'ispettorato non determina quale soggetto abbia ordinato ciascun limite."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Pentagon watchdog tells lawmakers it won't investigate Starlink slowdowns to Ukraine",
+          "url": "https://apnews.com/article/293f5a4cd7e3e1736058a252e5ec067b",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "Pentagon inspector general declines to investigate Starlink disruptions in Ukraine",
+          "url": "https://abcnews.com/amp/International/pentagon-inspector-general-declines-investigate-starlink-disruptions-ukraine/story?id=137662539",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Stars and Stripes",
+          "title": "Pentagon IG rejects senators' call to investigate Ukraine Starlink disruptions",
+          "url": "https://www.stripes.com/theaters/us/2026-10-30/starlink-ukraine-ig-refuses-probe-23308976.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-starlink-ig-oct29.svg",
+        "alt": "O original conceptual illustration: technology starlink ig oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/technology-starlink-ig-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "science",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Incomplete edition; no release JSON or CI approval",
+  "articles": {
+    "it": {
+      "id": "science-pompeii-cupboard-oct29",
+      "rank": 1,
+      "category": "society",
+      "title": "Pompei, un armadio con collana di crepundia e 38 monete racconta la vita prima dell'eruzione",
+      "dek": "Il Parco archeologico presenta il contesto di scavo in una domus su via dell'Abbondanza: i reperti suggeriscono usi domestici e forse commerciali, non l'identità certa degli abitanti.",
+      "summary": "Il 29 ottobre il Parco archeologico di Pompei ha documentato un armadio ricostruibile attraverso le tracce di scavo nella Regio IX, con oggetti da toilette, pesi in piombo, 38 monete di bronzo e una collana di almeno 24 pendagli chiamati crepundia. Il ritrovamento offre indizi sulle pratiche quotidiane prima del 79 d.C., ma non permette di attribuire con certezza la casa o le attività ai suoi occupanti.",
+      "body": [
+        "Il 29 ottobre 2026 il Parco archeologico di Pompei ha diffuso un resoconto dello scavo di una domus nell'insula 11 della Regio IX, affacciata su via dell'Abbondanza. Tra gli ambienti è stato individuato un armarium, un mobile di legno ricostruibile grazie alla posizione e alle tracce degli elementi sopravvissuti sotto i depositi dell'eruzione del Vesuvio del 79 d.C. Il ritrovamento non è un armadio integro tornato in superficie: è il contesto archeologico che consente agli studiosi di riconoscerne la struttura e il contenuto.",
+        "All'interno sono stati documentati una pinzetta e uno strumento per lavorare pigmenti, un balsamario in vetro, un bruciaprofumi e una lucerna in bronzo. Accanto a recipienti e pentole di diversi materiali, gli archeologi hanno rinvenuto pesi in piombo conservati in una piccola cassetta lignea e 38 monete bronzee. I pesi sono compatibili con attività di vendita o misurazione, ma il loro ritrovamento non identifica automaticamente una bottega: gli oggetti possono essere stati conservati e usati in più contesti.",
+        "Un insieme particolarmente informativo è la collana di almeno 24 piccoli elementi sospesi, realizzati in faïence, osso, pasta vitrea e cristallo di rocca. I pendagli rappresentano divinità come Bes e Mercurio, parti del corpo e simboli vegetali. Sono classificati come crepundia, oggetti spesso associati all'infanzia: il rumore prodotto dai pendagli e il loro valore affettivo o protettivo aiutano a comprenderne l'uso. La loro presenza non prova però che al momento dell'eruzione abitasse lì un bambino, perché potevano essere conservati come ricordi.",
+        "Il complesso era tradizionalmente associato a Cornelius Maximus per iscrizioni note in passato, ma il direttore Gabriel Zuchtriegel e il Parco distinguono questa attribuzione storica dall'identità effettiva di chi custodiva gli oggetti. Il denaro e gli effetti personali lasciati sul posto possono suggerire una fuga precipitosa, non dimostrarla. La posizione dei reperti, i materiali e le associazioni fra oggetti permettono piuttosto di formulare ipotesi controllabili sulla vita quotidiana, integrando le grandi pitture di Pompei con tracce di lavoro, cura del corpo e memoria familiare."
+      ],
+      "impactReason": "Il contesto archeologico amplia le conoscenze sulle pratiche quotidiane, gli scambi e gli oggetti personali nella Pompei del I secolo.",
+      "tags": [
+        "Pompei",
+        "archeologia",
+        "Vesuvio"
+      ],
+      "facts": [
+        "Il Parco archeologico ha pubblicato il 29 ottobre 2026 il resoconto del ritrovamento di un armarium nella Regio IX, insula 11.",
+        "Il contesto comprende almeno 24 pendagli di crepundia, pesi in piombo e 38 monete di bronzo.",
+        "Il Parco considera possibili attività commerciali ma non identifica con certezza il proprietario o gli usi specifici."
+      ],
+      "perspectives": [
+        "Il Parco archeologico considera l'insieme dei reperti una fonte per ricostruire pratiche quotidiane e memoria personale.",
+        "Il direttore Gabriel Zuchtriegel interpreta gli oggetti lasciati sul posto come possibile traccia di un abbandono affrettato."
+      ],
+      "unknowns": [
+        "Chi abitava esattamente la domus e chi possedeva i singoli oggetti.",
+        "Se i pesi erano usati per un'attività commerciale nella casa e perché il denaro non fu recuperato."
+      ],
+      "questions": [
+        {
+          "question": "Come funzionavano i crepundia ritrovati nell'armadio di Pompei?",
+          "answer": "Erano piccoli pendagli forati e sospesi a una collana, spesso associata ai bambini. Gli elementi potevano tintinnare durante il movimento, mentre figure come Bes e Mercurio aggiungevano significati affettivi e protettivi; l'insieme poteva essere conservato anche dopo l'infanzia."
+        },
+        {
+          "question": "Quale tipo di attività suggerisce la presenza congiunta di pesi in piombo e 38 monete?",
+          "answer": "I pesi sono strumenti compatibili con la misurazione di merci, e le monete indicano una disponibilità di denaro conservata nel mobile. Insieme rendono plausibile un uso economico o commerciale degli spazi, ma non costituiscono da soli registri di vendita o una prova del mestiere di un residente."
+        }
+      ],
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Parco Archeologico di Pompei",
+          "title": "Lo scavo di una domus nell'insula IX 11: il rinvenimento di un armarium con crepundia",
+          "url": "https://pompeiisites.org/e-journal-degli-scavi-di-pompei/lo-scavo-di-una-domus-nellinsula-ix-11-il-rinvenimento-di-un-armarium-con-crepundia/",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Pompeii cupboard opens window onto life before Vesuvius erupted",
+          "url": "https://www.reuters.com/lifestyle/pompeii-cupboard-opens-window-onto-life-before-vesuvius-erupted-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Perfume bottle and child's necklace among treasures found in Pompeii wardrobe",
+          "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Scoperto a Pompei l'armadio di una donna, all'interno vasi, collane e monete",
+          "url": "https://www.ansa.it/amp/campania/notizie/2026/10/29/scoperto-a-pompei-larmadio-di-una-donna-allinterno-vasi-collane-e-monete_692f243b-2ce5-4640-85eb-a9b789e0d59b.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "docs/editorial-drafts/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "alt": "Illustrazione editoriale originale, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "science-pompeii-cupboard-oct29",
+      "rank": 1,
+      "category": "society",
+      "title": "Pompeii cupboard with a crepundia necklace and 38 coins reveals traces of life before the eruption",
+      "dek": "The archaeological park documents finds from a house on Via dell'Abbondanza: the objects suggest domestic and perhaps commercial uses, not a certain identity for the residents.",
+      "summary": "On October 29, the Pompeii Archaeological Park documented a cupboard reconstructed from excavation traces in Regio IX, containing grooming objects, lead weights, 38 bronze coins and a necklace of at least 24 charms known as crepundia. The finds illuminate everyday practices before the eruption of AD 79, but cannot securely identify the household or prove the occupants' activities.",
+      "body": [
+        "On October 29, 2026, the Pompeii Archaeological Park published an account of excavations at a house in insula 11 of Regio IX, facing Via dell'Abbondanza. Archaeologists identified an armarium, a wooden cupboard whose form can be reconstructed from the position and traces of elements preserved beneath deposits from Mount Vesuvius's eruption in AD 79. This is not an intact cupboard simply lifted out of the ground: it is the archaeological context that allows researchers to infer its structure and contents.",
+        "Inside were tweezers and a tool used to prepare pigments, a glass perfume or ointment bottle, an incense burner and a bronze lamp. Alongside vessels and cooking pots made from several materials, excavators found lead weights kept in a small wooden box and 38 bronze coins. The weights are consistent with selling or measuring goods, but finding them does not automatically establish that the room was a shop: the same objects could be stored and used in different settings.",
+        "A particularly revealing find is a necklace made up of at least 24 small suspended charms fashioned from faience, bone, glass paste and rock crystal. They depict deities including Bes and Mercury, body parts and plant symbols. Archaeologists classify them as crepundia, objects often associated with childhood: the sounds made by moving charms, together with their sentimental or protective significance, help explain their use. Their presence does not prove a child lived in the house at the time of the eruption, since such objects could also be kept as mementos.",
+        "The house had traditionally been associated with Cornelius Maximus through inscriptions known from earlier work, but park director Gabriel Zuchtriegel and the archaeological team distinguish that historical attribution from the identity of the people who kept these possessions. Coins and personal objects left behind may suggest a hurried departure, but cannot prove one. The position, materials and associations of the finds instead support testable interpretations of daily life, complementing Pompeii's famous murals with evidence of work, grooming and family memory."
+      ],
+      "impactReason": "The archaeological context expands knowledge of everyday practices, trade and personal belongings in first-century Pompeii.",
+      "tags": [
+        "Pompeii",
+        "archaeology",
+        "Vesuvius"
+      ],
+      "facts": [
+        "On October 29, 2026, the archaeological park published the excavation report on an armarium in Regio IX, insula 11.",
+        "The context includes at least 24 crepundia charms, lead weights and 38 bronze coins.",
+        "The park considers commercial activity possible but does not firmly identify the owner or specific uses."
+      ],
+      "perspectives": [
+        "The archaeological park treats the combined finds as evidence for reconstructing daily routines and personal memory.",
+        "Director Gabriel Zuchtriegel interprets the belongings left in place as a possible sign of a hurried departure."
+      ],
+      "unknowns": [
+        "Who exactly lived in the house and owned each object.",
+        "Whether the weights served commercial activity in the house and why the money was not retrieved."
+      ],
+      "questions": [
+        {
+          "question": "How would the crepundia found in the Pompeii cupboard have worked?",
+          "answer": "They were small perforated charms suspended from a necklace, often associated with children. The pieces could rattle as the wearer moved, while figures such as Bes and Mercury carried sentimental and protective meanings; the necklace might also be kept beyond childhood."
+        },
+        {
+          "question": "What kind of activity do the lead weights and 38 coins suggest when found together?",
+          "answer": "Weights are compatible with measuring goods, and the coins show that money was stored in the cupboard. Together they make an economic or commercial use of the space plausible, but they are not sales records or, on their own, proof of a resident's occupation."
+        }
+      ],
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Parco Archeologico di Pompei",
+          "title": "Lo scavo di una domus nell'insula IX 11: il rinvenimento di un armarium con crepundia",
+          "url": "https://pompeiisites.org/e-journal-degli-scavi-di-pompei/lo-scavo-di-una-domus-nellinsula-ix-11-il-rinvenimento-di-un-armarium-con-crepundia/",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Pompeii cupboard opens window onto life before Vesuvius erupted",
+          "url": "https://www.reuters.com/lifestyle/pompeii-cupboard-opens-window-onto-life-before-vesuvius-erupted-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Perfume bottle and child's necklace among treasures found in Pompeii wardrobe",
+          "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Scoperto a Pompei l'armadio di una donna, all'interno vasi, collane e monete",
+          "url": "https://www.ansa.it/amp/campania/notizie/2026/10/29/scoperto-a-pompei-larmadio-di-una-donna-allinterno-vasi-collane-e-monete_692f243b-2ce5-4640-85eb-a9b789e0d59b.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "docs/editorial-drafts/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "alt": "Original editorial illustration, not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  }
+}

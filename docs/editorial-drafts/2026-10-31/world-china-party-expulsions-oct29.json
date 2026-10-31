@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "All desks must pass fact checks, bilingual Q&A audits and CI before any release",
+  "articles": {
+    "it": {
+      "id": "world-china-party-expulsions-oct29",
+      "rank": 7,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "Le esclusioni senza precedenti ridisegnano le élite politiche e militari della seconda economia mondiale prima del congresso del 2027.",
+      "title": "Cina, il Partito comunista annuncia l'espulsione di 33 dirigenti al quinto plenum",
+      "dek": "Tra gli esclusi figurano l'ex leader militare Zhang Youxia e Ma Xingrui; il calo dei presenti non rivela da solo le ragioni di ogni assenza.",
+      "summary": "Il comunicato diffuso il 29 ottobre dal quinto plenum del Partito comunista cinese conferma l'espulsione di 33 funzionari, tra cui Zhang Youxia e Ma Xingrui. Reuters e Guardian hanno ricostruito un record di esclusioni e una partecipazione ridotta a 279 membri effettivi e supplenti del Comitato centrale rispetto ai 376 nominati nel 2022. Le motivazioni individuali non sono state illustrate nel comunicato.",
+      "body": [
+        "La riunione a porte chiuse del Comitato centrale del Partito comunista cinese, nota come quinto plenum, si è conclusa con un comunicato diffuso giovedì 29 ottobre 2026 da Xinhua. Secondo Reuters, il documento ha formalizzato l'espulsione dal partito di 33 dirigenti, inclusi l'ex membro del Politburo Ma Xingrui e l'ex alto comandante militare Zhang Youxia. Il Guardian ha analizzato le conseguenze politiche il 30 ottobre, sottolineando il numero senza precedenti di posti vuoti nella gerarchia.",
+        "Fra i nomi indicati compaiono anche l'ex ufficiale Liu Zhenli, l'ex alto diplomatico Liu Jianchao, l'ex ministro dell'Industria Jin Zhuanglong e Yi Huiman, già presidente dell'autorità dei mercati finanziari. Il partito ha inoltre rimosso Li Yunze da un incarico interno, una misura distinta dalla lista delle espulsioni. Il comunicato non dettaglia per ogni persona violazioni contestate e procedimenti seguiti, dunque non è corretto attribuire automaticamente lo stesso motivo a tutti.",
+        "Il Guardian segnala che alla riunione erano presenti 279 membri effettivi e supplenti del Comitato centrale, contro i 376 nominati nel 2022. La distanza di 97 persone comprende espulsioni e anche assenze le cui ragioni non sono spiegate pubblicamente; non equivale quindi a 97 persone ufficialmente espulse. La riduzione interessa inoltre figure militari molto influenti, modificando l'equilibrio delle nomine che precede il congresso nazionale del partito.",
+        "Il prossimo congresso, il ventunesimo, è stato programmato per la seconda metà del 2027 a Pechino. La leadership di Xi Jinping presenta la campagna disciplinare come una lotta alla corruzione e alla scarsa lealtà istituzionale, mentre osservatori esterni discutono la possibilità che la stretta serva anche a consolidare il controllo politico. La documentazione disponibile prova le esclusioni annunciate, non consente di stabilire indipendentemente il movente di ogni singolo provvedimento."
+      ],
+      "facts": [
+        "Il quinto plenum del PCC ha confermato 33 espulsioni il 29 ottobre 2026.",
+        "Zhang Youxia e Ma Xingrui figurano tra gli esclusi, secondo il comunicato diffuso da Xinhua.",
+        "Il Guardian conta 279 presenti rispetto ai 376 membri effettivi e supplenti nominati nel 2022."
+      ],
+      "perspectives": [
+        "La leadership cinese inquadra la campagna nella disciplina anticorruzione del partito.",
+        "Analisti citati dal Guardian considerano il numero di esclusioni anche un segnale di ricomposizione del potere intorno a Xi."
+      ],
+      "unknowns": [
+        "Le motivazioni documentate per ogni singola espulsione e le procedure svolte.",
+        "Le conseguenze sulle future promozioni militari e civili in vista del congresso del 2027."
+      ],
+      "questions": [
+        {
+          "question": "Perché i 279 partecipanti al plenum non significano che 97 dirigenti siano stati espulsi?",
+          "answer": "Il confronto è con 376 persone nominate nel Comitato centrale nel 2022: la differenza include sia gli esclusi ufficialmente sia persone assenti per motivi non resi noti. Il dato delle espulsioni confermate è 33, distinto dal numero dei seggi non occupati alla riunione."
+        },
+        {
+          "question": "Che rilevanza ha l'espulsione di Zhang Youxia per la leadership militare cinese?",
+          "answer": "Zhang era uno degli ufficiali ai massimi livelli della gerarchia militare vicina al vertice politico. La sua esclusione riduce il numero di figure esperte nel gruppo dirigente e apre interrogativi sulle nomine future, ma il comunicato non permette di ricostruire da solo le ragioni personali della decisione."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "China's Communist Party confirms expulsion of 33 officials",
+          "url": "https://www.reuters.com/world/china/chinas-communist-party-confirms-expulsion-33-officials-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "China expels a record number from Communist party amid Xi's intensified purges of top officials",
+          "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "Cina",
+        "PCC",
+        "epurazioni"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-china-party-expulsions-oct29.svg",
+        "alt": "Original conceptual art: world-china-party-expulsions-oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-china-party-expulsions-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-china-party-expulsions-oct29",
+      "rank": 7,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "Record expulsions reshape leadership of a major world power and its armed forces before the scheduled 2027 party congress.",
+      "title": "China's Communist Party confirms 33 expulsions at its fifth plenum",
+      "dek": "Former senior military leader Zhang Youxia and Ma Xingrui are among those removed; empty seats do not reveal why every official was absent.",
+      "summary": "A communiqué released on October 29 after the Chinese Communist Party's fifth plenum confirmed 33 officials were expelled, including Zhang Youxia and Ma Xingrui. Reuters and the Guardian described record exclusions and only 279 central committee members attending out of 376 originally appointed in 2022. Reasons for the individual expulsions were not set out in detail.",
+      "body": [
+        "The Chinese Communist Party's closed-door fifth plenum ended with a communiqué circulated by official agency Xinhua on Thursday October 29, 2026. Reuters reported that the document confirmed the expulsion of 33 officials, including former Politburo member Ma Xingrui and formerly powerful military commander Zhang Youxia. The Guardian examined the political implications on October 30 and highlighted the unusually large number of vacant seats at the leadership meeting.",
+        "Other figures named include former military official Liu Zhenli, former senior diplomat Liu Jianchao, former industry minister Jin Zhuanglong and former securities regulator Yi Huiman. The party separately removed Li Yunze from an internal party post, an action distinct from the list of expulsions. The communiqué did not provide individualized evidence and procedural histories for every case, so there is no basis to assign an identical motive to all those affected.",
+        "The Guardian counted 279 full and alternate Central Committee members attending compared with 376 originally selected in 2022. The resulting difference of 97 includes confirmed expulsions as well as absences whose reasons are not publicly explained; it is not an official count of 97 expulsions. The disciplinary campaign has reached prominent military leaders as the party approaches its next scheduled national leadership renewal.",
+        "The party scheduled its twenty-first congress for the second half of 2027 in Beijing. Xi Jinping's leadership describes the campaign as a drive against corruption and indiscipline, while outside observers also debate whether it has strengthened political control. The evidence establishes which names appeared in the expulsion communiqué, not the independently verified underlying motive of every dismissal or the shape of future appointments."
+      ],
+      "facts": [
+        "The CCP's fifth plenum confirmed 33 expulsions on October 29, 2026.",
+        "Zhang Youxia and Ma Xingrui were among those named in the communiqué carried by Xinhua.",
+        "The Guardian reported 279 attendees compared with 376 full and alternate members originally selected in 2022."
+      ],
+      "perspectives": [
+        "The party leadership frames its disciplinary campaign as anti-corruption and internal governance.",
+        "Outside analysts interviewed or cited by the Guardian also view the scale as significant for Xi Jinping's political consolidation."
+      ],
+      "unknowns": [
+        "The precise evidence and procedures behind each individual's expulsion.",
+        "How the personnel losses will affect military and civilian appointments at the 2027 congress."
+      ],
+      "questions": [
+        {
+          "question": "Why don't 279 attendees at the plenum mean that 97 officials were expelled?",
+          "answer": "The comparison is with 376 people originally appointed in 2022. The shortfall includes confirmed expulsions but also unexplained absences and changes in membership, whereas the official announced expulsion count is 33. Empty chairs alone cannot establish the status of each person."
+        },
+        {
+          "question": "Why does Zhang Youxia's expulsion matter for China's military leadership?",
+          "answer": "Zhang was one of the highest-ranking military figures in the party-state hierarchy. Removing him thins the pool of senior leaders ahead of future appointments, although the published communiqué does not by itself provide evidence of the motive behind his individual case."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "China's Communist Party confirms expulsion of 33 officials",
+          "url": "https://www.reuters.com/world/china/chinas-communist-party-confirms-expulsion-33-officials-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "China expels a record number from Communist party amid Xi's intensified purges of top officials",
+          "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "China",
+        "CCP",
+        "expulsions"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-china-party-expulsions-oct29.svg",
+        "alt": "Original conceptual art: world-china-party-expulsions-oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-china-party-expulsions-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}

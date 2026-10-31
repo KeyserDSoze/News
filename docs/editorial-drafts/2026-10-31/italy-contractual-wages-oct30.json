@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "italy",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Daily edition requires all 25 unique stories plus editor QA and CI",
+  "articles": {
+    "it": {
+      "id": "istat-contract-wages-sept-oct30",
+      "rank": 5,
+      "category": "economy",
+      "impact": 3,
+      "title": "Retribuzioni contrattuali, +2,5% a settembre: per Istat restano sotto l'inflazione",
+      "dek": "L'indice orario è invariato sul mese; la crescita annua varia tra 2,3% nel privato e 3,2% nella pubblica amministrazione.",
+      "summary": "L'Istat ha comunicato il 30 ottobre che l'indice delle retribuzioni contrattuali orarie a settembre 2026 è aumentato del 2,5% su base annua ma non rispetto ad agosto. Per il secondo trimestre consecutivo i rinnovi registrati non hanno tenuto il passo con l'inflazione; 19 contratti risultavano in attesa di rinnovo, relativi a circa 2,5 milioni di dipendenti.",
+      "body": [
+        "Il comunicato Istat pubblicato il 30 ottobre 2026 riguarda le retribuzioni stabilite dai contratti collettivi nazionali per il trimestre luglio-settembre. A settembre l'indice delle retribuzioni contrattuali orarie resta invariato rispetto ad agosto e sale del 2,5% rispetto a settembre 2025. La variazione annua è pari al 2,3% nel settore privato e al 3,2% nella pubblica amministrazione. Si tratta di un indice contrattuale con struttura occupazionale fissa, non della media effettivamente percepita da ogni lavoratore.",
+        "Il dato complessivo nasconde differenze tra comparti: la variazione annua è del 3,3% in agricoltura, del 2,6% nell'industria e del 2,1% nei servizi privati; fra i settori specifici spiccano scuola al 5,5%, telecomunicazioni al 5,1% e igiene ambientale al 5,0%. Aumenti nulli riguardano alcune categorie con contratti già in vigore, tra cui funzioni centrali e forze dell'ordine. Questi dati descrivono il valore tabellare previsto dai contratti, e non includono automaticamente le variazioni dovute a ore lavorate, bonus e composizione dell'occupazione.",
+        "A fine settembre i contratti nazionali in vigore per la parte economica coprono l'80,8% dei dipendenti, circa 10,6 milioni di persone. Diciannove contratti sono ancora in attesa di rinnovo e coinvolgono circa 2,5 milioni di lavoratori. Il tempo medio di attesa per chi ha il contratto scaduto è di 20,8 mesi, in calo da 27,9 mesi di un anno prima: Istat collega il miglioramento soprattutto ai rinnovi nella pubblica amministrazione. ANSA e Radiocor hanno riportato il quadro e le differenze tra settori.",
+        "Per il secondo trimestre consecutivo, sottolinea Istat, le retribuzioni contrattuali sono cresciute meno dei prezzi al consumo armonizzati; a settembre lo scarto nel privato è di circa due punti percentuali. Un confronto corretto riguarda lo stesso periodo e lo stesso indice, l'IPCA, non il dato preliminare NIC di ottobre diffuso nello stesso giorno. L'indice non permette di calcolare direttamente la perdita reale per ogni dipendente, che dipende anche da contratti applicati, ore e altre componenti salariali."
+      ],
+      "facts": [
+        "Indice delle retribuzioni contrattuali orarie invariato su agosto 2026 e +2,5% su settembre 2025.",
+        "Il 30 settembre 2026 risultano 19 contratti da rinnovare, riguardanti circa 2,5 milioni di dipendenti.",
+        "La dinamica contrattuale privata a settembre risulta circa due punti sotto l'inflazione IPCA."
+      ],
+      "perspectives": [
+        "Istat segnala che per il secondo trimestre consecutivo la crescita contrattuale è stata inferiore all'inflazione.",
+        "ANSA e Radiocor evidenziano come il dato nazionale aggregato nasconda differenze fra settore privato e pubblico."
+      ],
+      "unknowns": [
+        "Quanto le singole retribuzioni effettive, inclusi premi e variazioni d'orario, si discostino dall'indice contrattuale.",
+        "Quando e con quali aumenti saranno rinnovati i 19 contratti ancora scaduti."
+      ],
+      "questions": [
+        {
+          "question": "Perché il +2,5% di Istat non descrive l'aumento effettivo della busta paga di tutti i lavoratori?",
+          "answer": "L'indice considera le retribuzioni fissate dai contratti collettivi mantenendo una struttura di occupazione costante. La retribuzione percepita può invece variare per ore svolte, premi, straordinari, qualifiche e cambi di lavoro: il +2,5% misura l'evoluzione delle tariffe contrattuali, non di ogni cedolino."
+        },
+        {
+          "question": "Perché Istat confronta le retribuzioni private di settembre con l'IPCA invece che con il NIC provvisorio di ottobre?",
+          "answer": "Per misurare lo scarto tra salari e prezzi nello stesso periodo serve l'inflazione di settembre definita in modo coerente. L'IPCA è l'indice armonizzato usato nei confronti europei; il NIC di ottobre si riferisce a un altro mese e a una base metodologica diversa, quindi non è il confronto usato nel comunicato sulle retribuzioni."
+        }
+      ],
+      "tags": [
+        "salari",
+        "Istat",
+        "contratti"
+      ],
+      "impactReason": "Gli scarti tra aumenti contrattuali e prezzi riguardano il potere d'acquisto di milioni di lavoratori.",
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Retribuzioni contrattuali – Luglio-settembre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/retribuzioni-contrattuali-luglio-settembre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, a settembre retribuzioni +2,5%, crescita inferiore a inflazione",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/istat-a-settembre-retribuzioni-25-crescita-inferiore-a-inflazione_606797b8-f757-4c9e-88fb-eb2b4a6b55d5.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Lavoro: Istat, crescita retribuzioni ancora sotto inflazione in terzo trimestre",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/lavoro-istat-crescita-retribuzioni-ancora-sotto-inflazione-in-terzo-trimestre-nRC_30102026_1208_422312153.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-contractual-wages-oct30.svg",
+        "alt": "Illustrazione originale: Contractual pay and consumer prices, symbolic comparative chart",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/italy-contractual-wages-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "istat-contract-wages-sept-oct30",
+      "rank": 5,
+      "category": "economy",
+      "impact": 3,
+      "title": "Italy's contractual wages rose 2.5% in September, still trailing inflation",
+      "dek": "The hourly wage index was unchanged on the month, while annual growth varied from 2.3% in the private sector to 3.2% in public employment.",
+      "summary": "Istat reported on October 30 that Italy's hourly contractual wage index was 2.5% above September 2025 but unchanged from August 2026. For a second consecutive quarter, contractual pay growth lagged inflation. Nineteen national agreements covering about 2.5 million employees were still awaiting renewal at the end of September.",
+      "body": [
+        "Istat's October 30, 2026 release covers pay rates specified by national collective agreements in July–September. The contractual hourly wage index was flat compared with August and 2.5% higher than in September 2025. Annual growth reached 2.3% in the private sector and 3.2% in public employment. The index assumes a fixed employment structure and tracks negotiated rates, not what each employee actually received.",
+        "The aggregate conceals sizeable sector differences: 3.3% annual growth in agriculture, 2.6% in manufacturing and 2.1% in private services. The strongest individual gains included schools at 5.5%, telecommunications at 5.1% and environmental sanitation at 5.0%. Some groups, including central government and law-enforcement services, recorded no annual increase. Those figures cover contractual pay scales rather than variations from hours worked, bonuses or changes in workforce composition.",
+        "At the end of September, national agreements currently in force for pay-setting covered 80.8% of employees, roughly 10.6 million people. Another 19 agreements covering some 2.5 million employees were waiting to be renewed. For employees covered by expired agreements, the average wait had declined to 20.8 months from 27.9 months a year earlier, mainly because of public-sector renewals. ANSA and Il Sole 24 Ore Radiocor independently reported these details and sector differences.",
+        "Istat said contractual pay growth fell below harmonized consumer-price inflation for the second straight quarter. In the private sector, the September rate was about two percentage points below HICP inflation. A sound comparison uses wages and inflation for the same month and a consistent index, not October's preliminary domestic CPI published the same day. Nor can this index quantify every employee's real-pay change, which depends on hours, wage supplements and the terms of their own employment."
+      ],
+      "facts": [
+        "The hourly contractual wage index was unchanged from August 2026 and rose 2.5% from September 2025.",
+        "Nineteen agreements covering roughly 2.5 million employees awaited renewal at the end of September.",
+        "Private-sector contractual wage growth was around two percentage points below harmonized inflation in September."
+      ],
+      "perspectives": [
+        "Istat stresses that negotiated wages have lagged inflation for two consecutive quarters.",
+        "ANSA and Radiocor highlight the substantial differences between public- and private-sector wage movements."
+      ],
+      "unknowns": [
+        "The gap between negotiated rates and individual earnings, including bonuses and changes in hours worked.",
+        "The timing and terms of the 19 pending collective-agreement renewals."
+      ],
+      "questions": [
+        {
+          "question": "Why doesn't Istat's 2.5% figure tell us how much every Italian worker's payslip rose?",
+          "answer": "The index tracks rates laid down in collective agreements using a fixed workforce structure. Actual earnings can change with overtime, bonuses, working hours, job grades and employment changes. The 2.5% therefore measures contractual scales rather than every individual's pay."
+        },
+        {
+          "question": "Why did Istat compare September private-sector wages with HICP instead of October's preliminary national CPI?",
+          "answer": "To assess purchasing power, wages and prices must be compared over the same period using a defined price measure. HICP is the harmonized inflation measure used for European comparisons; October's national CPI covers a different month and index basis and is not the comparator in the wage release."
+        }
+      ],
+      "tags": [
+        "wages",
+        "Istat",
+        "contracts"
+      ],
+      "impactReason": "The gap between negotiated pay and inflation has implications for the purchasing power of millions of employees.",
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Retribuzioni contrattuali – Luglio-settembre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/retribuzioni-contrattuali-luglio-settembre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, a settembre retribuzioni +2,5%, crescita inferiore a inflazione",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/istat-a-settembre-retribuzioni-25-crescita-inferiore-a-inflazione_606797b8-f757-4c9e-88fb-eb2b4a6b55d5.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Lavoro: Istat, crescita retribuzioni ancora sotto inflazione in terzo trimestre",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/lavoro-istat-crescita-retribuzioni-ancora-sotto-inflazione-in-terzo-trimestre-nRC_30102026_1208_422312153.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-contractual-wages-oct30.svg",
+        "alt": "Original editorial artwork: Contractual pay and consumer prices, symbolic comparative chart",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/italy-contractual-wages-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}

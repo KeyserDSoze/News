@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "technology",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Daily edition requires all 25 unique stories plus editor QA and CI",
+  "articles": {
+    "it": {
+      "id": "cathay-amadeus-bookings-exposed-oct30",
+      "rank": 4,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "Cathay Pacific, accesso illecito ai dati di circa 53mila prenotazioni nel sistema Amadeus",
+      "dek": "La compagnia precisa che il problema riguarda un fornitore esterno e che non risultano coinvolte informazioni di pagamento.",
+      "summary": "Cathay Pacific ha comunicato il 30 ottobre che un accesso non autorizzato ai sistemi del fornitore Amadeus ha interessato circa 53.000 prenotazioni datate tra agosto 2023 e settembre 2026. Nei casi più comuni sono esposti riferimenti di prenotazione, nomi e dettagli dei voli; una parte minore include altri dati personali. Non si tratta di un attacco confermato alla rete interna della compagnia.",
+      "body": [
+        "Venerdì 30 ottobre 2026 Cathay Pacific ha pubblicato una comunicazione relativa a un incidente di sicurezza informatica notificatole dal fornitore di sistemi di prenotazione Amadeus il 28 ottobre e approfondito il 29. Secondo i dati che Amadeus ha trasmesso alla compagnia, sono interessate circa 53.000 prenotazioni riconducibili a Cathay Pacific nell'intervallo agosto 2023–settembre 2026. Reuters, South China Morning Post e l'emittente pubblica RTHK hanno riferito sul caso con resoconti separati.",
+        "Amadeus ha identificato un accesso non autorizzato a informazioni di prenotazione compiuto attraverso credenziali assegnate a un account del proprio sistema. Per la maggior parte dei record interessati si tratta di codici di prenotazione, nomi dei passeggeri e informazioni sui voli. In alcuni casi risultano coinvolti anche indirizzi e-mail, numeri di telefono, dati di documenti di viaggio o numeri dei programmi frequent flyer. Cinquantatremila è il numero delle prenotazioni, non un conteggio verificato delle persone coinvolte.",
+        "La compagnia sostiene che i suoi sistemi interni e le operazioni di volo non abbiano subito effetti e che, sulla base delle informazioni disponibili, non vi sia evidenza di accesso a dati finanziari o di pagamento. 'Nessuna evidenza' non prova in assoluto l'impossibilità di un abuso futuro, ma delimita ciò che l'azienda ha finora accertato. Amadeus ha riferito di aver reimpostato password e rafforzato monitoraggio e rilevamento; la portata complessiva presso tutti i clienti del fornitore non è stata quantificata in questa comunicazione.",
+        "Il caso mostra la dipendenza delle compagnie aeree da sistemi di terzi che conservano dati personali di viaggio, anche di anni precedenti. Cathay dice di avere avvisato le autorità e di voler contattare individualmente i clienti interessati quando potrà stabilire i dettagli. Un riferimento di prenotazione insieme a nome e itinerario può creare rischi di impersonificazione o messaggi fraudolenti, ma la cronaca dell'incidente non prova che tali abusi siano già avvenuti per le prenotazioni Cathay."
+      ],
+      "facts": [
+        "Cathay Pacific ha annunciato il 30 ottobre circa 53.000 prenotazioni interessate da un accesso non autorizzato in Amadeus.",
+        "L'intervallo dei record coinvolti va da agosto 2023 a settembre 2026.",
+        "Secondo Cathay, non vi sono evidenze di accesso a dati di pagamento e i sistemi interni della compagnia non sono stati compromessi."
+      ],
+      "perspectives": [
+        "Cathay Pacific attribuisce l'incidente al fornitore esterno e dice di collaborare alle verifiche e alle comunicazioni ai clienti.",
+        "Reuters e SCMP sottolineano che il sistema Amadeus è condiviso da numerose compagnie, allargando il problema alla filiera dei servizi di viaggio."
+      ],
+      "unknowns": [
+        "Il numero di persone uniche corrispondenti alle 53.000 prenotazioni.",
+        "Se i dati sottratti siano stati successivamente usati per frodi e quale sia l'estensione complessiva presso gli altri clienti Amadeus."
+      ],
+      "questions": [
+        {
+          "question": "Perché il caso Cathay riguarda 53.000 prenotazioni ma non necessariamente altrettanti passeggeri?",
+          "answer": "Una prenotazione è un record di viaggio: una persona può averne più di una, mentre un record può contenere dettagli relativi a più viaggiatori. Il dato comunicato da Amadeus quantifica le prenotazioni accessibili, non identifica il numero di individui unici coinvolti."
+        },
+        {
+          "question": "In che modo l'accesso alle credenziali Amadeus è diverso da una violazione dei sistemi interni di Cathay Pacific?",
+          "answer": "L'accesso non autorizzato è stato rilevato in un ambiente del fornitore usato per gestire informazioni di prenotazione. Cathay ha dichiarato che i propri sistemi e le operazioni di volo non sono stati interessati: il rischio descritto riguarda la riservatezza dei dati che la compagnia affidava a un servizio esterno."
+        }
+      ],
+      "tags": [
+        "Amadeus",
+        "Cathay",
+        "privacy"
+      ],
+      "impactReason": "La compromissione di dati di prenotazione e documenti presso un fornitore condiviso espone rischi per viaggiatori e imprese del settore.",
+      "sources": [
+        {
+          "outlet": "Cathay Pacific",
+          "title": "Personal data security incident involving a third-party service provider",
+          "url": "https://www.cathaypacific.com/cx/it_IT/latest-news/security-and-operational-changes/personal-data-security.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Cathay Pacific says Amadeus breach affected 53,000 bookings",
+          "url": "https://www.reuters.com/legal/litigation/cathay-pacific-says-amadeus-breach-affected-53000-bookings-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RTHK",
+          "title": "Third-party vendor system breach involves over 50,000 Cathay bookings",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1875960-20261030.htm?archive_date=2026-10-30",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-cathay-amadeus-oct30.svg",
+        "alt": "Illustrazione originale: Travel booking data and external provider security",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-cathay-amadeus-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "cathay-amadeus-bookings-exposed-oct30",
+      "rank": 4,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "Cathay Pacific says Amadeus breach exposed data linked to about 53,000 bookings",
+      "dek": "The carrier says the incident involved an external reservation provider, with no evidence of payment information being accessed.",
+      "summary": "Cathay Pacific disclosed on October 30 that unauthorized access to supplier Amadeus's systems affected around 53,000 bookings dating from August 2023 through September 2026. Typical exposed fields included booking references, passenger names and flight details; a smaller group included other personal data. This was not a confirmed compromise of Cathay's own network.",
+      "body": [
+        "On Friday October 30, 2026 Cathay Pacific published an advisory about an information-security incident first reported to it by reservation-technology supplier Amadeus on October 28, with further information arriving October 29. Based on records supplied by Amadeus, approximately 53,000 Cathay-related bookings spanning August 2023 to September 2026 were affected. Reuters, the South China Morning Post and public broadcaster RTHK reported on the announcement independently.",
+        "According to Amadeus's account, an unauthorized party used credentials assigned to an account in the supplier's system to access reservation data. Most records involved booking references, passenger names and flight information. A smaller group also included contact email addresses, telephone numbers, travel-document details or frequent-flyer identifiers. Importantly, the number 53,000 counts bookings, not a confirmed number of unique affected travelers.",
+        "The airline said its internal systems and flight operations were unaffected and that it had no evidence of financial or payment information being accessed. A statement that no evidence has been identified is not an absolute guarantee that misuse will never occur; it describes findings to date. Amadeus said it reset credentials and strengthened monitoring and detection. Its full client-wide exposure was not quantified in Cathay's advisory.",
+        "The incident illustrates airlines' dependence on outside systems storing travel information from previous years. Cathay said it notified authorities and planned to contact affected customers individually once details were confirmed. A booking reference coupled with names and itinerary information can present impersonation or phishing risks, although the reports do not establish that such misuse has actually occurred among Cathay's passengers."
+      ],
+      "facts": [
+        "On October 30 Cathay reported about 53,000 booking records affected by unauthorized access at Amadeus.",
+        "Affected booking dates ranged from August 2023 through September 2026.",
+        "Cathay said it found no evidence that payment data had been accessed and that its own systems were unaffected."
+      ],
+      "perspectives": [
+        "Cathay Pacific emphasizes that the incident was at a third-party provider and says it is cooperating with investigations and customer notifications.",
+        "Reuters and SCMP note Amadeus's role across multiple airlines, highlighting supply-chain exposure in travel technology."
+      ],
+      "unknowns": [
+        "The number of distinct people represented by the 53,000 reservations.",
+        "Whether exposed information was later used for fraud and the wider extent of the incident across Amadeus customers."
+      ],
+      "questions": [
+        {
+          "question": "Why do 53,000 affected Cathay bookings not necessarily mean 53,000 affected passengers?",
+          "answer": "A reservation is a travel record, not a unique identity. One passenger may have several bookings and a booking can contain details for multiple travelers. Amadeus's figure counts affected reservations rather than verified distinct individuals."
+        },
+        {
+          "question": "How does an intruder using Amadeus credentials differ from a breach of Cathay Pacific's own systems?",
+          "answer": "The unauthorized access occurred in the supplier's reservation-data environment, which Cathay uses as a service. Cathay says its internal infrastructure and flight operations were unaffected; the reported exposure concerns personal information entrusted to the external provider."
+        }
+      ],
+      "tags": [
+        "Amadeus",
+        "Cathay",
+        "privacy"
+      ],
+      "impactReason": "Exposed reservation and identification details at a shared vendor create privacy risks for travelers and the wider airline technology supply chain.",
+      "sources": [
+        {
+          "outlet": "Cathay Pacific",
+          "title": "Personal data security incident involving a third-party service provider",
+          "url": "https://www.cathaypacific.com/cx/it_IT/latest-news/security-and-operational-changes/personal-data-security.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Cathay Pacific says Amadeus breach affected 53,000 bookings",
+          "url": "https://www.reuters.com/legal/litigation/cathay-pacific-says-amadeus-breach-affected-53000-bookings-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "South China Morning Post",
+          "title": "Cathay Pacific says data from 53,000 bookings compromised in Amadeus cyberattack",
+          "url": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RTHK",
+          "title": "Third-party vendor system breach involves over 50,000 Cathay bookings",
+          "url": "https://news.rthk.hk/rthk/ch/component/k2/1875960-20261030.htm?archive_date=2026-10-30",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-cathay-amadeus-oct30.svg",
+        "alt": "Original editorial artwork: Travel booking data and external provider security",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-cathay-amadeus-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "technology",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Incomplete edition; do not publish unless 25 verified articles and all tests pass",
+  "articles": {
+    "it": {
+      "id": "technology-starlink-ig-oct29",
+      "rank": 5,
+      "category": "technology",
+      "title": "Starlink in Ucraina, ispettore del Pentagono non apre l'indagine chiesta da nove senatori",
+      "dek": "La risposta rimanda le questioni contrattuali ad Aeronautica e Space Force; non chiarisce chi abbia deciso le limitazioni del servizio.",
+      "summary": "In una lettera datata 27 ottobre e riferita pubblicamente il 28–30, l'ispettore generale del Pentagono Platte Moring ha rifiutato di aprire un'indagine propria sui rallentamenti di Starlink e Starshield segnalati in Ucraina. La richiesta veniva da cinque senatori democratici e quattro repubblicani. L'ufficio ritiene più competenti l'Air Force e la Space Force, ma si riserva di riconsiderare nuovi elementi.",
+      "impact": 3,
+      "impactReason": "La mancata indagine indipendente lascia irrisolta la responsabilità su comunicazioni satellitari essenziali per la difesa ucraina.",
+      "tags": [
+        "Starlink",
+        "Pentagono",
+        "Ucraina"
+      ],
+      "body": [
+        "Una risposta datata martedì 27 ottobre 2026 ha reso noto che l'ispettore generale indipendente del Dipartimento della Difesa statunitense, Platte Moring, non avrebbe aperto l'inchiesta sollecitata da nove senatori sull'interruzione o limitazione della connettività satellitare usata dall'Ucraina. Associated Press e ABC News hanno ottenuto la documentazione e Ars Technica l'ha analizzata il 29 ottobre; Stars and Stripes ha seguito il caso il 30. La notizia non riguarda un nuovo guasto della rete, ma la decisione dell'organismo di controllo.",
+        "La richiesta bipartisan, inviata il 15 ottobre da cinque democratici e quattro repubblicani, chiedeva se SpaceX o funzionari americani avessero diretto, autorizzato o conosciuto in anticipo restrizioni su Starlink e Starshield, e se queste fossero compatibili con i contratti federali. Le autorità ucraine avevano riferito difficoltà per dispositivi che si muovevano oltre circa 161 km/h, in particolare in operazioni contro droni russi veloci. I limiti sarebbero stati successivamente rimossi, ma la spiegazione delle decisioni rimane contestata.",
+        "Moring ha risposto che l'Air Force e la Space Force, responsabili di alcuni rapporti contrattuali con SpaceX, erano in posizione migliore per affrontare le questioni sollevate. Un portavoce dell'ispettorato ha detto ad ABC che la richiesta potrà essere rivalutata alla luce di nuove informazioni. La decisione non equivale a dichiarare il servizio perfettamente conforme o ad assolvere eventuali responsabili: semplicemente l'ufficio ha scelto di non svolgere ora una propria indagine.",
+        "Il caso mostra come una rete commerciale e un servizio satellitare militare possano divenire infrastrutture critiche in guerra, rendendo complesse le responsabilità fra azienda privata, contraenti e governo. Il senatore Jeanne Shaheen ha contestato la mancata revisione indipendente. Elon Musk ha riconosciuto una restrizione di Starlink commerciale attribuendola a violazioni delle condizioni d'uso, contestate dall'Ucraina, ma ha indicato una responsabilità diversa per Starshield. Queste spiegazioni concorrenti non sono state risolte dalla lettera."
+      ],
+      "facts": [
+        "Nove senatori, cinque democratici e quattro repubblicani, hanno chiesto un'inchiesta il 15 ottobre.",
+        "La lettera dell'ispettore generale del 27 ottobre rinvia le questioni ad Air Force e Space Force.",
+        "Le velocità soglia segnalate dalle autorità ucraine erano intorno a 161 km/h, non una chiusura completa di tutti i terminali."
+      ],
+      "perspectives": [
+        "Moring ritiene le forze armate competenti sui contratti più adatte a rispondere.",
+        "Shaheen chiede una verifica indipendente mentre SpaceX e rappresentanti USA e ucraini hanno fornito ricostruzioni differenti delle restrizioni."
+      ],
+      "unknowns": [
+        "Chi abbia disposto le limitazioni e sulla base di quali istruzioni e contratti.",
+        "Se l'Air Force o la Space Force svolgeranno una revisione sostanziale e renderanno note le conclusioni."
+      ],
+      "questions": [
+        {
+          "question": "Perché Platte Moring ha rinviato il dossier Starlink all'Air Force e alla Space Force?",
+          "answer": "Secondo la risposta inviata ai senatori, le interruzioni riguardano anche il funzionamento di servizi forniti tramite contratti governativi con SpaceX. Aeronautica e Space Force gestiscono competenze e rapporti pertinenti, mentre l'ispettore generale ha scelto di non avviare una propria indagine e si è riservato un riesame."
+        },
+        {
+          "question": "Che differenza c'è fra Starlink e Starshield nelle controversie sulle restrizioni ucraine?",
+          "answer": "Starlink è la rete commerciale, mentre Starshield è la versione destinata a usi governativi e militari con contratti specifici. Musk ha ammesso restrizioni su Starlink citando le condizioni d'uso, ma ha attribuito diversamente il controllo su Starshield; la lettera dell'ispettorato non determina quale soggetto abbia ordinato ciascun limite."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Pentagon watchdog tells lawmakers it won't investigate Starlink slowdowns to Ukraine",
+          "url": "https://apnews.com/article/293f5a4cd7e3e1736058a252e5ec067b",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "Pentagon inspector general declines to investigate Starlink disruptions in Ukraine",
+          "url": "https://abcnews.com/amp/International/pentagon-inspector-general-declines-investigate-starlink-disruptions-ukraine/story?id=137662539",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Stars and Stripes",
+          "title": "Pentagon IG rejects senators' call to investigate Ukraine Starlink disruptions",
+          "url": "https://www.stripes.com/theaters/us/2026-10-30/starlink-ukraine-ig-refuses-probe-23308976.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-starlink-ig-oct29.svg",
+        "alt": "O original conceptual illustration: technology starlink ig oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-starlink-ig-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "technology-starlink-ig-oct29",
+      "rank": 5,
+      "category": "technology",
+      "title": "Pentagon watchdog declines senators' request to investigate Ukraine Starlink restrictions",
+      "dek": "Inspector general refers contractual questions to the Air Force and Space Force without resolving who ordered the service limits.",
+      "summary": "In an October 27 letter reported on October 28–30, Pentagon inspector general Platte Moring declined to open his own investigation into Starlink and Starshield slowdowns affecting Ukraine. Five Democratic and four Republican senators had requested the inquiry. The watchdog said the Air Force and Space Force were better placed to address the matter and left open reconsideration if new evidence emerges.",
+      "impact": 3,
+      "impactReason": "The oversight refusal leaves accountability unclear over satellite communications essential to Ukrainian wartime operations.",
+      "tags": [
+        "Starlink",
+        "Pentagon",
+        "Ukraine"
+      ],
+      "body": [
+        "In a letter dated Tuesday October 27, 2026, the independent inspector general of the US Department of Defense, Platte Moring, declined to open an investigation sought by nine senators into restrictions on satellite connectivity used by Ukraine. The Associated Press and ABC News obtained the correspondence, Ars Technica examined it on October 29, and Stars and Stripes followed up on October 30. The fresh development concerns oversight of earlier disruptions, not a newly observed outage.",
+        "The bipartisan October 15 request, from five Democratic and four Republican senators, asked whether SpaceX or US officials had directed, authorized or known in advance about restrictions on Starlink and Starshield, and whether they complied with government contracts. Ukrainian officials previously reported impaired connectivity on platforms traveling faster than about 161 kilometers per hour, affecting operations against fast-moving Russian drones. Performance was reportedly restored later, but explanations of the initial limits remained disputed.",
+        "Moring said the Air Force and Space Force, which have relevant contractual jurisdiction over SpaceX services, were better placed to address lawmakers' concerns. An inspector general's spokesperson told ABC News that the office could reconsider should new evidence emerge. Declining a particular investigation does not establish that the network operated without fault or that any party has been cleared: it establishes only the watchdog's decision not to investigate directly at this point.",
+        "The dispute underscores how private satellite systems and military communications services can become critical wartime infrastructure, complicating accountability among a vendor, military contracting offices and policymakers. Senator Jeanne Shaheen objected to the absence of independent oversight. Elon Musk acknowledged restrictions on commercial Starlink, attributing them to alleged Ukrainian violations of service terms that Kyiv denied, while describing different responsibility for Starshield. The inspector general's letter did not reconcile these competing accounts."
+      ],
+      "facts": [
+        "Nine senators, five Democrats and four Republicans, sought an investigation on October 15.",
+        "The inspector general's October 27 reply referred the matter to Air Force and Space Force authorities.",
+        "The Ukrainian-reported speed threshold was about 161 km/h, not a blanket shutdown of all terminals."
+      ],
+      "perspectives": [
+        "Moring argues military services overseeing the contracts can answer the operational questions.",
+        "Shaheen wants independent review, while SpaceX and US and Ukrainian officials offer conflicting explanations of the limits."
+      ],
+      "unknowns": [
+        "Who ordered each restriction and under which contract or policy direction.",
+        "Whether the Air Force or Space Force will provide a substantive public review."
+      ],
+      "questions": [
+        {
+          "question": "Why did inspector general Platte Moring direct Starlink questions to the Air Force and Space Force?",
+          "answer": "His letter described the dispute as involving services supplied to the government under SpaceX contracts, over which those military branches have relevant authority. He chose not to begin an independent investigation but left open a possible reconsideration if new evidence becomes available."
+        },
+        {
+          "question": "How do Starlink and Starshield differ in the dispute over Ukrainian service restrictions?",
+          "answer": "Starlink is primarily the commercial satellite network, while Starshield serves military and government customers through distinct contracts. Musk acknowledged restricting commercial Starlink but disputed control over Starshield decisions; the watchdog's reply did not establish who directed each change."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Pentagon watchdog tells lawmakers it won't investigate Starlink slowdowns to Ukraine",
+          "url": "https://apnews.com/article/293f5a4cd7e3e1736058a252e5ec067b",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "Pentagon inspector general declines to investigate Starlink disruptions in Ukraine",
+          "url": "https://abcnews.com/amp/International/pentagon-inspector-general-declines-investigate-starlink-disruptions-ukraine/story?id=137662539",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Stars and Stripes",
+          "title": "Pentagon IG rejects senators' call to investigate Ukraine Starlink disruptions",
+          "url": "https://www.stripes.com/theaters/us/2026-10-30/starlink-ukraine-ig-refuses-probe-23308976.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-starlink-ig-oct29.svg",
+        "alt": "O original conceptual illustration: technology starlink ig oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-starlink-ig-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "date": "2026-10-31",
+  "language": "en",
+  "section": "world",
+  "publishedAt": "2026-10-31T09:24:33+01:00",
+  "editorialNote": "World edition, 31 October 2026. Verified developments and dates are distinguished from attributed statements; estimates retain their source. Older events are covered only when they have new documented developments.",
+  "articles": [
+    {
+      "id": "un-western-sahara-minurso-votes-oct30",
+      "rank": 1,
+      "category": "politics",
+      "impact": 3.5,
+      "title": "Western Sahara: both UN plans defeated as MINURSO mandate nears expiry",
+      "dek": "Russia vetoed a US proposal; Moscow's alternative secured only three affirmative votes and failed to reach the required majority.",
+      "summary": "On October 30, 2026 the UN Security Council rejected both a US proposal to renew and reshape its Western Sahara mission and a Russian proposal to extend the current mandate unchanged. Moscow's negative vote blocked the US text as a permanent member; the Russian draft obtained only three votes in favour, one against and 11 abstentions. The existing mandate expires on October 31 unless the Council takes fresh action.",
+      "body": [
+        "On October 30, 2026 the United Nations Security Council voted on rival plans for MINURSO, the mission created in 1991 to monitor a ceasefire and support the process over Western Sahara's status. The US-drafted text sought to extend the mission while changing its mandate and political focus, steering negotiations towards Morocco's autonomy proposal. Russia, a permanent Council member, voted against that draft, blocking its adoption despite 11 votes in favour.",
+        "Moscow's competing proposal sought a straightforward one-year extension of MINURSO without the political and structural changes sought by Washington. It received three affirmative votes, one vote against from the United States and 11 abstentions. Adoption requires at least nine of the 15 Council members to vote in favour, with no veto from permanent members. As Le Desk explained, the Russian draft was therefore defeated by a lack of affirmative votes; the American negative vote did not need to operate as a veto to defeat it.",
+        "Behind the vote lies the unresolved sovereignty dispute. Morocco controls most of Western Sahara and favours autonomy under Moroccan sovereignty, while the Polisario Front seeks Sahrawi self-determination and an option for independence. The UN mission originated in a ceasefire and planned referendum that never took place; low-intensity hostilities resumed in 2020. Reuters and the Associated Press reported sharply different positions voiced by Morocco, Russia, the United States and Polisario representatives.",
+        "The current MINURSO authorization was due to end on October 31, 2026. The failure of both proposals on the previous day therefore raised immediate questions about the mission's legal basis, but it does not establish that UN personnel have already been withdrawn, that equipment has been removed or that a major new war has begun. Further Council decisions and independent observation are needed to assess operational changes and consequences for civilians, including Sahrawi refugees."
+      ],
+      "facts": [
+        "The US-drafted resolution was blocked on October 30 by a negative Russian vote as a permanent Security Council member.",
+        "Russia's alternative received three votes in favour, one against and 11 abstentions, below the nine votes required.",
+        "MINURSO's existing mandate was due to expire on October 31, 2026."
+      ],
+      "perspectives": [
+        "The United States argues that Morocco's autonomy plan offers a realistic basis for negotiations.",
+        "Russia and the Polisario Front oppose prejudging the exercise of self-determination, while Morocco asserts sovereignty over the territory."
+      ],
+      "unknowns": [
+        "Whether Security Council members will agree on a new compromise after both drafts failed.",
+        "The operational arrangements for keeping, changing or ending the mission after the mandate's scheduled expiry."
+      ],
+      "questions": [
+        {
+          "question": "Why did Russia's MINURSO draft fail without requiring a US veto?",
+          "answer": "A Security Council resolution needs at least nine affirmative votes out of 15, as well as no veto by a permanent member. Moscow's proposal won only three votes in favour. The United States voted against it, but the draft would have failed for insufficient support regardless."
+        },
+        {
+          "question": "What was the substantive difference between the two October 30 Western Sahara resolutions?",
+          "answer": "Washington proposed renewing but reshaping the UN mission and basing negotiations on Morocco's autonomy plan. Moscow proposed another year of MINURSO with its existing structure and political framework essentially intact. Neither proposal was adopted."
+        }
+      ],
+      "tags": [
+        "Sahara",
+        "MINURSO",
+        "UN"
+      ],
+      "impactReason": "The failed extension affects a 35-year-old stabilizing mission in disputed territory and may impair monitoring and de-escalation.",
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council",
+          "url": "https://apnews.com/article/3267317ce19e61bd0f41d90012504c92",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council",
+          "url": "https://www.reuters.com/world/russia-vetos-us-drafted-resolution-western-sahara-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Le Desk",
+          "title": "Sahara : le texte russe rejeté à son tour, la Minurso privée de mandat",
+          "url": "https://ledesk.ma/2026/10/30/sahara-le-texte-russe-rejete-a-son-tour-la-minurso-privee-de-mandat/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UN Security Council",
+          "title": "10259th meeting – MINURSO, 30 October 2026",
+          "url": "https://main.un.org/securitycouncil/en/events/10259th-meeting-minurso",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/western-sahara-minurso-oct30.svg",
+        "alt": "Original illustration about: UN Security Council: two unsuccessful MINURSO resolutions",
+        "credit": "O / Oggettivizzatore — original illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/western-sahara-minurso-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-hormuz-tankers-oct30",
+      "rank": 2,
+      "category": "politics",
+      "title": "Hormuz tanker attacks and fires reported as investigators untangle separate incidents",
+      "dek": "UK maritime authorities logged ships struck in the strait; Iran claimed four tanker fires, but the total and causes have not all been independently established.",
+      "summary": "On October 30 Iran's Revolutionary Guards claimed four tankers had struck mines and caught fire in the Strait of Hormuz, a number Reuters and AP could not independently confirm. Britain's UKMTO issued separate notices on October 29 and 30 involving unidentified projectiles and an onboard fire. Responsibility and potential overlap between reports remain uncertain.",
+      "impact": 3.5,
+      "impactReason": "Incidents in a major oil transit chokepoint raise risks for crews and shipping, though the scale and attribution of claims remain contested.",
+      "tags": [
+        "Hormuz",
+        "tankers",
+        "shipping"
+      ],
+      "body": [
+        "Between Thursday October 29 and Friday October 30, 2026, several tanker crews reported incidents in the Strait of Hormuz, the passage linking the Persian Gulf and Gulf of Oman through which vital oil supplies travel. Britain's United Kingdom Maritime Trade Operations agency issued multiple numbered security notices describing vessels struck by objects of unknown origin, an onboard fire and investigations still under way. These operational alerts did not establish definitive responsibility.",
+        "On October 30 Iran's Revolutionary Guard naval forces said through state media that four oil tankers had exploded or caught fire after taking routes Tehran considered unauthorized. The Guards alleged that at least one vessel carrying over two million barrels struck a naval mine. Reuters and the Associated Press reported the claim while explicitly stating that they could not verify the full account. The four vessels should not simply be added to incidents already recorded by UKMTO because the lists may overlap.",
+        "One UKMTO report dated October 29 concerned a vessel burning around 25 nautical miles northeast of Khasab, Oman. An October 30 alert described a tanker struck on the port side by an unidentified object, with its crew safe and no known environmental damage. Maritime security sources told Reuters that limpet mines attached by a small boat had struck a tanker, but how that account maps to individual UKMTO reports and who was responsible remain subjects for verification.",
+        "The incidents matter for seafarer safety, insurance rates and commercial route reliability, but do not by themselves prove an absolute halt to oil shipments. Omani officials separately reported evacuating crew from a burning tanker. Any reliable overall toll needs to identify the ships, times and locations case by case, separating operational reports from claims made by a party to the conflict."
+      ],
+      "facts": [
+        "UKMTO logged maritime security incidents in the strait on October 29 and 30, 2026.",
+        "Iran's IRGC claimed four tankers were involved, a total not independently verified.",
+        "One UKMTO notice reported a safe crew and no known environmental impact."
+      ],
+      "perspectives": [
+        "Iran's naval forces assert that tankers defied designated routes, an allegation not independently established.",
+        "British maritime authorities advise caution and further reporting without making definitive attributions in their alerts."
+      ],
+      "unknowns": [
+        "Which UKMTO cases overlap with tankers described in Iran's statements.",
+        "The perpetrators of each incident and eventual full damage and pollution assessments."
+      ],
+      "questions": [
+        {
+          "question": "Why can't the IRGC's four claimed tankers be added directly to the UKMTO incident count?",
+          "answer": "The sources report different sets of positions, times and sometimes incomplete vessel identifiers. A UKMTO alert may describe a tanker already included in Iran's claim, so adding totals without matching ships could count a single incident twice."
+        },
+        {
+          "question": "What does UKMTO establish about Hormuz tanker fires, as opposed to Iran's allegations?",
+          "answer": "UKMTO records operational reports of ships struck by unidentified projectiles or suffering fires, with available details about crews. Iran's account that four tankers were mined for using unauthorized routes remains a claim by one party, not UKMTO's established conclusion."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
+          "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-two-tankers-stopped-south-hormuz-after-incidents-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+          "url": "https://apnews.com/article/7f7f34ceb62f294a450e48ace0bd56e0",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UK Maritime Trade Operations",
+          "title": "Maritime security incident notices 186–189 in the Strait of Hormuz, 29–30 October",
+          "url": "https://www.ukmto.org/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-hormuz-tankers-oct30.svg",
+        "alt": "O original conceptual illustration: world hormuz tankers oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-hormuz-tankers-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "g20-atlanta-photo-lavrov-oct30",
+      "rank": 3,
+      "category": "politics",
+      "impact": 2.5,
+      "title": "G20 foreign ministers drop Atlanta group photo amid objections to Lavrov",
+      "dek": "Diplomatic talks went ahead, but the customary family photograph was cancelled after objections from European delegations.",
+      "summary": "The G20 foreign ministers' traditional group photograph did not take place in Atlanta on October 30 after European representatives objected to posing alongside Russia's Sergey Lavrov. The United States removed the photo from the schedule while formal discussions continued. The cancellation was a political signal, not proof that the meeting itself had collapsed.",
+      "body": [
+        "Foreign ministers and senior diplomats from G20 members met in Atlanta, United States, on Friday October 30, 2026, for two days of talks. The customary joint photograph had disappeared from the official programme after several European delegations objected to appearing alongside Russian Foreign Minister Sergey Lavrov. Reuters, the Associated Press and Euronews each reported the dispute, citing participants and officials at the meeting.",
+        "German Foreign Minister Johann Wadephul said a shared image with Lavrov would falsely imply that relations with Moscow had become normal despite Russia's war in Ukraine. Poland's Radosław Sikorski supported cancelling the photograph. Some European officials had previously discussed taking two separate pictures, one with the Russian minister and one without, but the collective photo was ultimately dropped.",
+        "A US official quoted by Reuters said the State Department wanted to avoid turning the picture into a spectacle. Secretary of State Marco Rubio nevertheless opened the meeting and called for cooperation on interconnected economic and security crises. Differences also extend to the war involving Iran, trade, energy security and territorial disputes; a cancelled photograph does not demonstrate that negotiations on each topic stopped.",
+        "The October 30 reports describe the opening of the two-day meeting, not its completed outcome on October 31. The Associated Press suggested that agreement on a joint statement would be difficult, but that was a forward-looking assessment at the time, not a final text already issued. The immediate significance is the visible diplomatic distance some governments sought to maintain from Russia; the effect on any communique is a separate question."
+      ],
+      "facts": [
+        "The collective G20 foreign ministers' photograph was cancelled on October 30.",
+        "German and Polish ministers publicly explained their opposition to posing with Lavrov.",
+        "Marco Rubio opened the diplomatic meeting despite the photo dispute."
+      ],
+      "perspectives": [
+        "European ministers who opposed the photo viewed a shared image as an inaccurate symbol of normalized relations with Moscow.",
+        "A US official told Reuters that removing the photograph would prevent a media distraction without ending talks."
+      ],
+      "unknowns": [
+        "Which final diplomatic statement, if any, will emerge at the close of the October 31 discussions.",
+        "Whether the photo dispute will affect negotiations on substantive G20 priorities."
+      ],
+      "questions": [
+        {
+          "question": "Why did Sergey Lavrov's presence cause the G20 group photograph in Atlanta to be dropped?",
+          "answer": "Germany and other governments argued that standing alongside the Russian minister would convey normal diplomatic relations despite the war in Ukraine. US organizers therefore cancelled that particular public image while letting the diplomatic meeting proceed."
+        },
+        {
+          "question": "How is cancelling the Atlanta photo different from failing to agree on a G20 statement?",
+          "answer": "A group photograph is a symbolic event, and its cancellation on October 30 was confirmed. A joint communique requires substantive agreement and its fate must be checked when the meeting concludes, rather than inferred solely from the dispute over the photograph."
+        }
+      ],
+      "tags": [
+        "G20",
+        "Lavrov",
+        "diplomacy"
+      ],
+      "impactReason": "The dispute makes divisions over Russia and Ukraine visible, but does not itself constitute a binding G20 policy decision.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "G20 foreign ministers skip photo-op amid objections over Russia",
+          "url": "https://www.reuters.com/world/g20-foreign-ministers-skip-photo-op-amid-objections-over-russia-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
+          "url": "https://apnews.com/article/ed4ab8ad9fedd628c39ac05bc5092cac",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+          "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/g20-atlanta-oct30.svg",
+        "alt": "Original O illustration: G20 Atlanta, original conceptual illustration of interrupted group photograph",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/g20-atlanta-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-ukraine-patriot-sale-oct30",
+      "rank": 4,
+      "category": "politics",
+      "title": "US approves potential $2.1 billion sale of 500 Patriot interceptors for Ukraine",
+      "dek": "Canada and European partners will finance the proposed purchase; approval does not mean the missiles have already been delivered.",
+      "summary": "On October 30 the US State Department approved a possible sale of 500 Patriot PAC-3 MSE interceptors to Ukraine for an estimated $2.1 billion. Canada, Germany and Norway will help finance the purchase alongside EU-linked funds. The authorization is subject to congressional procedures and does not establish a delivery timetable.",
+      "impact": 3.5,
+      "impactReason": "A potential supply of essential interceptors could strengthen protection for Ukrainian civilians and infrastructure, although delivery is not yet established.",
+      "tags": [
+        "Ukraine",
+        "Patriot",
+        "defense"
+      ],
+      "body": [
+        "On October 30, 2026 the US State Department approved a possible foreign military sale to Ukraine of 500 Patriot PAC-3 MSE air-defense interceptors and related services, valued at an estimated $2.1 billion. Reuters, the Associated Press and Inside Defense separately reported the announcement and its conditions. Lockheed Martin was named the principal contractor; administrative approval alone does not demonstrate that all contracts are signed or missiles have already been supplied.",
+        "Canada, Germany and Norway will contribute through the US JUMPSTART arrangement, with additional national funding linked to a European Union support loan for Ukraine. According to the American notification, no US taxpayer funding is to be used for this particular purchase. The US is therefore the state authorizing the sale, while allied countries and financial mechanisms provide the money; confusing those roles would misstate the transaction.",
+        "Patriot PAC-3 MSE missiles are interceptors used against airborne and ballistic threats. Ukrainian President Volodymyr Zelensky had warned that his country's supplies were under pressure amid continued Russian strikes on civilian and energy infrastructure. AP also reported Kyiv's allegations that some previously requested missile deliveries had been delayed, but the new sales authorization does not settle responsibility for any earlier delays.",
+        "Inside Defense noted that the possible sale remains subject to notification and review under the Arms Export Control Act. No binding delivery dates for the 500 interceptors have been announced, leaving production, contracting and transport as separate steps. Authorization improves the prospect of future replenishment but should not be described as 500 missiles already deployed against imminent attacks."
+      ],
+      "facts": [
+        "On October 30 the US approved a possible $2.1 billion sale of 500 PAC-3 MSE interceptors.",
+        "The stated financing includes Canada, Germany, Norway and EU-linked funds, with no US funding.",
+        "Congressional review and later contracting remain, and no delivery timetable was specified."
+      ],
+      "perspectives": [
+        "The State Department described the proposal as support for Ukraine's air-defense capacity.",
+        "Zelensky has argued that replenishing Patriot stocks is urgent given Russian missile and drone attacks."
+      ],
+      "unknowns": [
+        "Actual delivery dates and quantities available in each shipment.",
+        "The final outcome of contracting and the congressional notification process."
+      ],
+      "questions": [
+        {
+          "question": "What does the US $2.1 billion authorization for Patriot missiles actually approve?",
+          "answer": "It permits a proposed foreign military sale of 500 PAC-3 MSE interceptors plus spares and support. State Department approval begins formal review but does not prove the weapons have been manufactured, paid for and transferred to Ukraine."
+        },
+        {
+          "question": "How can a US Patriot missile sale be financed without US government funds?",
+          "answer": "The United States authorizes the export and identifies the main contractor, while Canada, Germany and Norway contribute through JUMPSTART alongside EU-linked financing. The selling, purchasing and funding roles are therefore not necessarily held by the same government."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "US approves a proposed $2.1 billion sale of Patriot interceptors to Ukraine after alleged holdup",
+          "url": "https://apnews.com/article/3016a2a6fc0088017478aabeebe75e81",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+          "url": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-4988538",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Inside Defense",
+          "title": "State Department approves potential $2.1B Patriot missile sale to Ukraine",
+          "url": "https://insidedefense.com/insider/state-department-approves-potential-21b-patriot-missile-sale-ukraine",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-ukraine-patriot-sale-oct30.svg",
+        "alt": "O original conceptual illustration: world ukraine patriot sale oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-ukraine-patriot-sale-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-ethiopia-jari-camp-oct29",
+      "rank": 5,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "Civilian deaths at a displacement camp compound an already acute humanitarian crisis amid an unresolved armed conflict.",
+      "title": "Drones hit Ethiopia's Jari 2 displacement camp, killing children and other civilians",
+      "dek": "Multiple blasts struck the Amhara site on October 29; Reuters, AFP and Anadolu reported different preliminary death tolls without establishing responsibility.",
+      "summary": "Explosions described as drone strikes hit the Jari 2 camp near Hayq in Ethiopia's Amhara region on October 29, 2026. Reuters reported at least 15 deaths, AFP interviewed witnesses who described at least 14 buried and two dying in hospital, while Anadolu cited at least 16 fatalities. The varying counts describe the same incident and the perpetrator remains unidentified.",
+      "body": [
+        "Several blasts struck the Jari 2 site, also known as Turkey Camp, near Hayq in Ethiopia's Amhara region on Thursday October 29, 2026. Reuters, Agence France-Presse and Anadolu independently reported on the event the following day after speaking to residents, relief workers and conflict observers. Reuters described a camp of more than 1,700 displaced people, while Anadolu cited more than 1,800; the figures reflect different source assessments rather than a verified census.",
+        "Reuters' rescue sources said at least 15 people had died, including five children, after thirteen bodies were buried at the camp and two injured people died at Hayq hospital. AFP's witnesses described four successive strikes and at least fourteen burials, plus two hospital deaths. Anadolu reported at least sixteen killed and twenty-two wounded, drawing in part on local reporting and conflict-monitor records. These are provisional accounts of the same attack, not three separate events whose death tolls should be added.",
+        "Witnesses described damaged shelters and families displaced yet again; Reuters reported that some survivors were staying in a school. Residents also described activity by Fano armed groups in the wider area, but that does not identify who launched the drones. Neither Reuters nor AFP had verified the attackers, and the federal military spokesman had not responded to requests for comment cited in early accounts.",
+        "Amhara remains affected by fighting involving federal forces and armed movements amid mounting insecurity across the Horn of Africa. People sheltering in Jari 2 had already fled violence and faced limited health care, services and stable housing. The death toll may change with independent access to hospitals and the scene. The established immediate consequence is severe civilian harm, rather than a proven explanation of who intended to target the site."
+      ],
+      "facts": [
+        "Multiple reported drone strikes hit Jari 2 on October 29, 2026, according to separate news-agency investigations.",
+        "News reports gave provisional tolls around 15–16 deaths, using different witnesses and reporting times.",
+        "The initial reporting did not conclusively identify perpetrators."
+      ],
+      "perspectives": [
+        "Survivors and rescuers described repeated attacks on civilian shelters, with children among those killed.",
+        "Conflict researchers and journalists describe armed activity across Amhara but do not treat proximity as evidence of responsibility."
+      ],
+      "unknowns": [
+        "The final independently documented casualty toll.",
+        "Who ordered and carried out the strikes and what target was intended."
+      ],
+      "questions": [
+        {
+          "question": "Why did Reuters, AFP and Anadolu give different casualty counts for the Jari 2 camp?",
+          "answer": "Their witnesses were reporting at different times and using different definitions: some counted bodies buried at the camp and others also included people who died later in hospital. The figures are provisional estimates for the same October 29 incident, not totals to be combined."
+        },
+        {
+          "question": "Does the reported presence of Fano fighters near Hayq establish who attacked the camp?",
+          "answer": "It does not. Witnesses placed armed groups in the wider area, but none of the initial accounts produced evidence establishing the drone operators or chain of command. Nearby military activity cannot on its own identify who conducted the strikes on civilians."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Drone strikes on Ethiopia displacement camp kill at least 15, sources say",
+          "url": "https://www.reuters.com/world/africa/strikes-camp-ethiopia-kill-least-15-sources-say-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Agence France-Presse",
+          "title": "Drone strikes kill 14, including children, in Ethiopia's Amhara: witnesses",
+          "url": "https://citizen.digital/article/drone-strikes-kill-14-including-children-in-ethiopias-amhara-n393024",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "At least 16 civilians killed in drone attack on displacement camp in Ethiopia",
+          "url": "https://www.aa.com.tr/en/africa/at-least-16-civilians-killed-in-drone-attack-on-displacement-camp-in-ethiopia/4106073",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "Ethiopia",
+        "Amhara",
+        "displacement"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-ethiopia-jari-camp-oct29.svg",
+        "alt": "Original conceptual art: world-ethiopia-jari-camp-oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-ethiopia-jari-camp-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-poland-constitutional-tribunal-oct30",
+      "rank": 6,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "The conflict directly affects constitutional review, the presidency and government in an EU member state.",
+      "title": "Poland suspends Constitutional Tribunal chief as Warsaw protests erupt",
+      "dek": "Bogdan Święczkowski's suspension deepens a struggle over judicial appointments; President Nawrocki cut short his journey to Senegal.",
+      "summary": "On October 30 Poland's Constitutional Tribunal announced the suspension of its president, Bogdan Święczkowski, who was appointed under a previous nationalist government. President Karol Nawrocki turned back from a trip to Senegal as demonstrations gathered outside the court in Warsaw. The full legal basis was not independently confirmed while the court's website was inaccessible.",
+      "body": [
+        "On Friday October 30, 2026 Anna Korwin-Piotrowska, the Constitutional Tribunal's longest-serving judge, announced that its president Bogdan Święczkowski had been suspended and that she was assuming the leadership role. Reuters and the Associated Press reported that a notice had appeared on the court website, which then went offline. That left reporters unable to independently review the full formal document and all the reasons cited for the decision.",
+        "Polish President Karol Nawrocki, a political ally of the previous Law and Justice leadership, announced that he was turning back while traveling to Senegal because he needed to return home. Hundreds gathered at the court in Warsaw; AP reported that police detained three people after protesters breached a barrier and objects were thrown. Demonstrations and police operations show the intensity of the dispute, not an adjudication of every participant's claims.",
+        "The immediate dispute involves judicial appointments and the tribunal's own functioning. Święczkowski had refused to admit some judges elected by the current parliamentary majority. Prime Minister Donald Tusk's coalition argues that reforms are required to restore the rule of law after contested appointments under the former Law and Justice government. Opposition figures instead describe the suspension as an attack on the judiciary and even a coup; those are attributed political allegations, not established legal findings.",
+        "The confrontation among government, presidency and judges affects an institution responsible for assessing whether legislation complies with the constitution. The European Union had previously raised concerns about judicial independence in Poland during the PiS era, but that history alone cannot settle the legality of the October 30 action. A reliable assessment will require access to the actual measure, its procedural basis and subsequent decisions rather than relying on rival parties' descriptions."
+      ],
+      "facts": [
+        "The tribunal announced Święczkowski's suspension on October 30.",
+        "Nawrocki interrupted his journey toward Senegal and returned to Poland.",
+        "Crowds gathered at the tribunal and AP reported three people detained amid incidents nearby."
+      ],
+      "perspectives": [
+        "Tusk's coalition says it is restoring the rule of law and correcting disputed judicial appointments.",
+        "Law and Justice politicians and supporters of the suspended chief say the action threatens judicial independence."
+      ],
+      "unknowns": [
+        "The complete suspension decision and its ultimate legal validity.",
+        "Who will be accepted as the tribunal's lawful leader and how contested judgeships will be filled."
+      ],
+      "questions": [
+        {
+          "question": "What judicial appointment dispute puts Święczkowski at odds with Prime Minister Tusk?",
+          "answer": "The suspended tribunal chief had refused to seat judges chosen by the current parliamentary majority, while Tusk's coalition argues that appointments under the previous PiS government must be corrected. The core dispute is over who can legitimately occupy seats on the constitutional court."
+        },
+        {
+          "question": "Why does Nawrocki's emergency return not settle whether the tribunal suspension was lawful?",
+          "answer": "The president's decision signals the political stakes but has no automatic judicial force. Legality depends on the suspension's actual text, the constitutional procedure and decisions by competent institutions, not simply on declarations from either political camp."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension",
+          "url": "https://apnews.com/article/67eda2e3a151e00038d85a5e894a2a72",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Polish president turns back from Senegal trip after top court chief suspended",
+          "url": "https://www.reuters.com/world/africa/polish-president-turns-back-senegal-trip-top-court-chief-suspended-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "Poland",
+        "courts",
+        "judiciary"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-poland-constitutional-tribunal-oct30.svg",
+        "alt": "Original conceptual art: world-poland-constitutional-tribunal-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-poland-constitutional-tribunal-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-china-party-expulsions-oct29",
+      "rank": 7,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "Record expulsions reshape leadership of a major world power and its armed forces before the scheduled 2027 party congress.",
+      "title": "China's Communist Party confirms 33 expulsions at its fifth plenum",
+      "dek": "Former senior military leader Zhang Youxia and Ma Xingrui are among those removed; empty seats do not reveal why every official was absent.",
+      "summary": "A communiqué released on October 29 after the Chinese Communist Party's fifth plenum confirmed 33 officials were expelled, including Zhang Youxia and Ma Xingrui. Reuters and the Guardian described record exclusions and only 279 central committee members attending out of 376 originally appointed in 2022. Reasons for the individual expulsions were not set out in detail.",
+      "body": [
+        "The Chinese Communist Party's closed-door fifth plenum ended with a communiqué circulated by official agency Xinhua on Thursday October 29, 2026. Reuters reported that the document confirmed the expulsion of 33 officials, including former Politburo member Ma Xingrui and formerly powerful military commander Zhang Youxia. The Guardian examined the political implications on October 30 and highlighted the unusually large number of vacant seats at the leadership meeting.",
+        "Other figures named include former military official Liu Zhenli, former senior diplomat Liu Jianchao, former industry minister Jin Zhuanglong and former securities regulator Yi Huiman. The party separately removed Li Yunze from an internal party post, an action distinct from the list of expulsions. The communiqué did not provide individualized evidence and procedural histories for every case, so there is no basis to assign an identical motive to all those affected.",
+        "The Guardian counted 279 full and alternate Central Committee members attending compared with 376 originally selected in 2022. The resulting difference of 97 includes confirmed expulsions as well as absences whose reasons are not publicly explained; it is not an official count of 97 expulsions. The disciplinary campaign has reached prominent military leaders as the party approaches its next scheduled national leadership renewal.",
+        "The party scheduled its twenty-first congress for the second half of 2027 in Beijing. Xi Jinping's leadership describes the campaign as a drive against corruption and indiscipline, while outside observers also debate whether it has strengthened political control. The evidence establishes which names appeared in the expulsion communiqué, not the independently verified underlying motive of every dismissal or the shape of future appointments."
+      ],
+      "facts": [
+        "The CCP's fifth plenum confirmed 33 expulsions on October 29, 2026.",
+        "Zhang Youxia and Ma Xingrui were among those named in the communiqué carried by Xinhua.",
+        "The Guardian reported 279 attendees compared with 376 full and alternate members originally selected in 2022."
+      ],
+      "perspectives": [
+        "The party leadership frames its disciplinary campaign as anti-corruption and internal governance.",
+        "Outside analysts interviewed or cited by the Guardian also view the scale as significant for Xi Jinping's political consolidation."
+      ],
+      "unknowns": [
+        "The precise evidence and procedures behind each individual's expulsion.",
+        "How the personnel losses will affect military and civilian appointments at the 2027 congress."
+      ],
+      "questions": [
+        {
+          "question": "Why don't 279 attendees at the plenum mean that 97 officials were expelled?",
+          "answer": "The comparison is with 376 people originally appointed in 2022. The shortfall includes confirmed expulsions but also unexplained absences and changes in membership, whereas the official announced expulsion count is 33. Empty chairs alone cannot establish the status of each person."
+        },
+        {
+          "question": "Why does Zhang Youxia's expulsion matter for China's military leadership?",
+          "answer": "Zhang was one of the highest-ranking military figures in the party-state hierarchy. Removing him thins the pool of senior leaders ahead of future appointments, although the published communiqué does not by itself provide evidence of the motive behind his individual case."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "China's Communist Party confirms expulsion of 33 officials",
+          "url": "https://www.reuters.com/world/china/chinas-communist-party-confirms-expulsion-33-officials-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "China expels a record number from Communist party amid Xi's intensified purges of top officials",
+          "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "China",
+        "CCP",
+        "expulsions"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-china-party-expulsions-oct29.svg",
+        "alt": "Original conceptual art: world-china-party-expulsions-oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-china-party-expulsions-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-germany-gdp-q3-oct30",
+      "rank": 8,
+      "category": "economy",
+      "title": "Germany's third-quarter GDP rises 0.2% as investment declines",
+      "dek": "Destatis shows a fourth consecutive quarter of expansion, with slightly higher consumption and weaker export momentum.",
+      "summary": "On October 30 Destatis estimated German GDP grew 0.2% in the third quarter of 2026 from the previous three months, just above the 0.1% market consensus. Real output was 1.3% higher year on year, or 1.2% after adjusting for calendar effects as well. Consumption rose slightly, capital formation declined and exports lost momentum, pointing to an uneven recovery.",
+      "body": [
+        "Germany's Federal Statistical Office, Destatis, released its preliminary GDP estimate for July–September on Friday October 30, 2026. After adjusting for price, seasonal patterns and working days, output rose by 0.2% from the previous quarter, following growth of 0.4% in January–March and 0.3% in April–June. Reuters and Il Sole 24 Ore Radiocor independently covered the official report and noted that the result exceeded economists' 0.1% forecast.",
+        "Compared with the same quarter of 2025, real GDP was 1.3% higher before adjusting for calendar differences, or 1.2% after accounting for working days as well. The two percentages are not contradictory: they use different adjustments when comparing periods with different working-day patterns. Destatis says the numbers are preliminary and plans to release detailed third-quarter national accounts on November 25.",
+        "The initial release describes a slight rise in final consumption by households and government but a decline in capital formation. Strong export expansion during the first half of 2026 slowed considerably in the third quarter. A full detailed breakdown was not yet available, so the headline gain should not be assigned wholly to one industry or public-spending programme.",
+        "Germany continues to face expensive energy, trade uncertainty and decisions about spending on infrastructure and defence. Reuters has emphasized the importance of public expenditure in supporting activity while private-sector investment momentum remains weak. A slight positive quarterly reading is not evidence of a vigorous recovery, nor can it alone describe household incomes or labour-market conditions without separate statistics."
+      ],
+      "facts": [
+        "Destatis reported third-quarter German GDP 0.2% above the preceding quarter on October 30.",
+        "Output was 1.3% higher year on year in real terms, or 1.2% with additional calendar adjustment.",
+        "Final consumption rose modestly while investment declined and export growth slowed."
+      ],
+      "perspectives": [
+        "Destatis views the figures as continued recovery with uneven demand components.",
+        "Reuters emphasizes support from government spending and weak private investment."
+      ],
+      "unknowns": [
+        "Possible revisions and the full component breakdown due November 25.",
+        "Whether growth can continue without stronger investment and exports."
+      ],
+      "questions": [
+        {
+          "question": "Why does Destatis give both 1.3% and 1.2% for Germany's annual GDP growth?",
+          "answer": "Both remove price changes, but the 1.2% series also adjusts for differences in the number and distribution of working days between the third quarters of 2026 and 2025. They are different statistical presentations of the same economy rather than incompatible results."
+        },
+        {
+          "question": "Why does 0.2% GDP growth not demonstrate an investment-led German recovery?",
+          "answer": "The flash release shows final consumption edging up, but capital formation falling and export momentum weakening. Total production can therefore rise slightly even while investment, which supports future productive capacity, remains under pressure."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Weak growth in Europe's largest economy matters for regional trade and investment expectations.",
+      "tags": [
+        "Germany",
+        "GDP",
+        "Destatis"
+      ],
+      "sources": [
+        {
+          "outlet": "Destatis",
+          "title": "Gross domestic product in the 3rd quarter of 2026 up 0.2% on the previous quarter",
+          "url": "https://www.destatis.de/EN/Press/2026/10/PE26_381_811.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "German inflation cools on fuel tax cut, economy grows more than expected in Q3",
+          "url": "https://www.marketscreener.com/news/german-economy-grew-more-than-expected-in-q3-underpinned-by-state-spending-ce785fdbdb8bf022",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "German preliminary Q3 GDP up adj 0.2% vs Q2",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economy/dettaglio/german-preliminary-q3-gdp-up-adj-02-vs-q2-nRC_30102026_1051_324157966.html?lang=en",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-germany-gdp-q3-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-germany-gdp-q3-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-germany-gdp-q3-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-us-early-vote-oct30",
+      "rank": 9,
+      "category": "politics",
+      "title": "US midterms: more than 43 million early votes counted five days before election",
+      "dek": "AP finds nearly ten million more advance ballots than at a similar point in 2022, but those totals cannot reveal candidate choices.",
+      "summary": "An Associated Press review published October 30 counted more than 43 million early in-person and returned mail ballots, almost ten million more than at the corresponding stage of the 2022 US midterm elections. Several competitive Senate states reported especially large increases. The early figures are not final turnout and cannot forecast which candidates received the votes.",
+      "body": [
+        "Five days before the November 3, 2026 US midterm elections, the Associated Press published an October 30 count showing that more than 43 million people had already cast ballots early in person or returned them by mail. That was nearly ten million more than at the same stage before the 2022 contest. AP's dataset covered 47 states plus Washington, DC, against 48 states and the capital four years earlier; this difference in coverage matters for comparisons.",
+        "In Texas, AP reported more than 6.3 million early ballots, 50% above the 4.2 million recorded at the equivalent stage in 2022. Maine, Michigan, North Carolina and Kansas, each featuring a competitive Senate race, also registered sizable increases; South Carolina showed an 83% rise. Separately, ABC News published its own October 28 analysis of less-regular voters in Texas and Georgia, using L2 voter-record data and statistical models.",
+        "An administrative vote count can record that a ballot was cast or received, but does not disclose how someone voted: the ballot remains secret. Some states report party registration, while others do not, and party affiliation cannot be treated as an individual candidate selection. The Guardian followed the voting surge and campaigns but relied on AP for the 43-million figure, rather than supplying a second independent calculation of that exact total.",
+        "Early votes may simply replace votes that would otherwise have been cast on Election Day, instead of increasing the number of people who eventually participate. ABC's political-lean analysis also separates registration data from modeled probabilities in places where party affiliation is not recorded. Neither approach establishes which party will win either chamber of Congress before polling and counting are complete."
+      ],
+      "facts": [
+        "AP counted more than 43 million early votes five days before the November 3 election.",
+        "Its tally exceeded the corresponding 2022 early-voting pace by nearly ten million.",
+        "AP reported about 50% more early ballots cast in Texas than at the same point in 2022."
+      ],
+      "perspectives": [
+        "AP treats the figures as evidence of faster early voting, not an established partisan result.",
+        "ABC emphasizes that modeled leanings are not the same thing as verified votes or registered affiliations."
+      ],
+      "unknowns": [
+        "Final turnout after Election Day and how much early voting displaced later voting.",
+        "Which candidates and parties will actually win the competitive House and Senate contests."
+      ],
+      "questions": [
+        {
+          "question": "Why does comparing 43 million early ballots with 2022 require caution?",
+          "answer": "AP's data covered 47 states plus Washington, DC, compared with 48 states and DC at the corresponding 2022 point. States also differ in how they record early ballots, and some voters may simply have cast ahead of time a ballot they otherwise would have submitted on November 3."
+        },
+        {
+          "question": "How does party registration differ from a vote cast for a party's candidate?",
+          "answer": "Some state voter files show the party an individual is registered with, not the contents of their secret ballot. In Texas and Georgia, ABC additionally used models of probable party lean because voters do not register by party; neither registration nor modeling identifies how an individual voted."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Accelerated voting matters to the administration of elections that will determine congressional control, but does not predict the winners.",
+      "tags": [
+        "US",
+        "elections",
+        "turnout"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+          "url": "https://apnews.com/article/3f7d5c378b3d9bff5cde4604a55b9c9a",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "Democratic enthusiasm seen among less-frequent voters in Texas and Georgia, analysis shows",
+          "url": "https://abcnews.com/amp/Politics/democratic-enthusiasm-frequent-voters-key-states-texas-georgia/story?id=137580266",
+          "publishedAt": "2026-10-28",
+          "role": "analysis"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Early voting soars in Senate battlegrounds as Trump set to rally",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "On Point Politics",
+          "title": "2026 Early Vote Tracker: Ballots Cast by State",
+          "url": "https://www.onpointpolitics.us/maps/early-vote",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-us-early-vote-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-us-early-vote-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-us-early-vote-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-lula-cop31-attendance-oct30",
+      "rank": 10,
+      "category": "climate",
+      "title": "Lula confirms attendance at Antalya COP31 after Brazil's presidential election",
+      "dek": "The Brazilian leader plans to join November 11–12 leaders' talks before handing the climate presidency to Turkey.",
+      "summary": "Brazil's presidency confirmed on October 30 that Luiz Inácio Lula da Silva will travel to Antalya for COP31, arriving on November 10 for the November 11–12 leaders' segment. He is then due in the Philippines for ASEAN talks from November 13. This is an announcement of planned attendance after his re-election, not evidence of any climate agreement already reached.",
+      "body": [
+        "On October 30, 2026 the Brazilian presidency confirmed that Luiz Inácio Lula da Silva would attend the United Nations COP31 climate conference in Antalya, Turkey, scheduled for November 9–20. The announcement followed Brazil's October 25 presidential runoff in which Lula was re-elected. Reuters and the Italian news agency ANSA separately reported the travel details without suggesting that negotiations due to occur in November had already delivered an agreement.",
+        "According to the published itinerary, Brazil's president will arrive in Antalya on November 10 and join the leaders' segment on November 11 and 12. On November 13 he is scheduled to travel to the Philippines for the ASEAN summit and a bilateral visit. Attending both meetings does not automatically mean he will meet US President Donald Trump: the relevant travel dates and any bilateral appointments had not been fixed in the announcement.",
+        "Brazil will hand the annual COP presidency to the conference host Turkey, with Australia given responsibility for coordinating diplomatic negotiations under the shared arrangement. Reuters said 77 heads of state and government had confirmed attendance. That number counts stated travel intentions rather than delegates already on site or commitments to new emissions cuts.",
+        "COP31 will have to address climate finance, adaptation and greenhouse-gas reductions as states assess earlier pledges. Brazil's participation matters to negotiations concerning tropical forests and emerging economies, but the substance of future talks remains undecided. The outcome should be judged by the eventual texts, financing commitments and implementation mechanisms, not solely by which presidents appear at the opening."
+      ],
+      "facts": [
+        "Brazil confirmed Lula's planned COP31 attendance on October 30.",
+        "Lula is scheduled to arrive November 10 for leaders' discussions on November 11–12.",
+        "Turkey takes over COP leadership from Brazil, with Australia coordinating negotiations."
+      ],
+      "perspectives": [
+        "Brazil's government presents the re-elected president's visit as continuity in its climate diplomacy.",
+        "Actual COP decisions require agreement among delegations, whatever leaders attend."
+      ],
+      "unknowns": [
+        "Which formal proposals Brazil will introduce after handing over the COP presidency.",
+        "Which verifiable negotiated decisions or funding commitments will emerge in November."
+      ],
+      "questions": [
+        {
+          "question": "How do Turkey's and Australia's responsibilities differ at COP31?",
+          "answer": "Turkey hosts the conference in Antalya and assumes the rotating COP presidency from Brazil. Australia has a separate responsibility for coordinating diplomatic negotiations under the jointly arranged division of duties; they are not hosting two independent conferences."
+        },
+        {
+          "question": "Why doesn't Lula's appearance among 77 confirmed leaders mean COP31 has already struck a climate deal?",
+          "answer": "The figure is a count of planned participation in a conference scheduled for November 9–20. Negotiated decisions require discussions and formal texts, so an attendance list cannot establish new finance commitments or approved emissions reductions."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The announcement clarifies Brazil's continued diplomatic role in the COP31 handover but is not itself a climate accord.",
+      "tags": [
+        "COP31",
+        "Brazil",
+        "climate"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Brazil's Lula to attend UN COP31 climate summit in Turkey",
+          "url": "https://www.reuters.com/sustainability/cop/brazils-lula-attend-un-cop31-climate-summit-turkey-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Brasile, Lula parteciperà alla COP31 in Turchia dopo la rielezione",
+          "url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/10/30/brasile-lula-partecipera-alla-cop31-in-turchia-dopo-la-rielezione_6aa9f46f-baf2-4afe-b347-a5dde98f5162.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-lula-cop31-attendance-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-lula-cop31-attendance-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/world-lula-cop31-attendance-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

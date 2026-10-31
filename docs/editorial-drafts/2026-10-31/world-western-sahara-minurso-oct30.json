@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Issue incomplete; do not merge until all 25 verified bilingual articles and CI pass",
+  "articles": {
+    "it": {
+      "id": "un-western-sahara-minurso-votes-oct30",
+      "rank": 1,
+      "category": "politics",
+      "impact": 3.5,
+      "title": "Sahara occidentale, respinte entrambe le proposte ONU: il mandato MINURSO arriva alla scadenza",
+      "dek": "Mosca blocca il progetto statunitense con un veto; la proposta russa ottiene solo tre voti favorevoli e non raggiunge la maggioranza necessaria.",
+      "summary": "Il Consiglio di sicurezza ONU il 30 ottobre 2026 non ha approvato né il progetto statunitense di riforma e rinnovo della missione in Sahara occidentale né quello russo di proroga senza cambiamenti. Il primo testo è stato bloccato dal voto contrario della Russia come membro permanente; il secondo ha raccolto soltanto tre sì, un no e undici astensioni. Il mandato vigente scade il 31 ottobre salvo una nuova decisione.",
+      "body": [
+        "Il Consiglio di sicurezza delle Nazioni Unite ha votato il 30 ottobre 2026 due progetti alternativi sul futuro della MINURSO, la missione nata nel 1991 per monitorare il cessate il fuoco e assistere il percorso sullo status del Sahara occidentale. Il testo promosso dagli Stati Uniti prevedeva un rinnovo ma anche una trasformazione del mandato e del ruolo politico, orientando i negoziati sulla proposta marocchina di autonomia. La Russia, membro permanente, ha espresso il voto negativo che ha impedito l'adozione del progetto nonostante gli undici voti favorevoli.",
+        "La proposta alternativa di Mosca chiedeva invece una proroga annuale della MINURSO senza le modifiche politiche e organizzative inserite nel piano statunitense. Ha ricevuto tre voti favorevoli, uno contrario — degli Stati Uniti — e undici astensioni. Per approvare un testo servono almeno nove voti favorevoli dei quindici membri e l'assenza di veto dei permanenti. Come ha specificato Le Desk, la seconda proposta non ha raggiunto la soglia numerica: il voto contrario americano non era necessario a determinarne la sconfitta.",
+        "Il nodo di fondo riguarda la sovranità del territorio: il Marocco controlla gran parte del Sahara occidentale e sostiene un piano di autonomia sotto la propria sovranità, mentre il Fronte Polisario rivendica l'autodeterminazione dei sahrawi e la possibilità di indipendenza. La missione ONU era stata istituita nel contesto di un cessate il fuoco e di un referendum mai realizzato; dal 2020 sono riprese ostilità a bassa intensità. Reuters e Associated Press attribuiscono alle delegazioni contrapposte interpretazioni divergenti delle prospettive diplomatiche.",
+        "Il mandato già in vigore ha come termine il 31 ottobre 2026. La mancata adozione dei due testi il giorno precedente apre quindi un vuoto sulla futura base giuridica della missione, ma non autorizza a descrivere come già avvenuto uno smantellamento fisico, un ritiro completato dei caschi blu o una ripresa generalizzata dei combattimenti. Occorrono decisioni e verifiche ulteriori per stabilire la presenza operativa e le conseguenze per la popolazione, compresi i rifugiati sahrawi."
+      ],
+      "facts": [
+        "Il 30 ottobre il progetto statunitense è stato bloccato dal voto contrario della Russia, membro permanente del Consiglio di sicurezza.",
+        "Il testo russo ha ricevuto tre voti favorevoli, un contrario e undici astensioni, meno dei nove sì richiesti.",
+        "Il mandato della MINURSO vigente è previsto in scadenza il 31 ottobre 2026."
+      ],
+      "perspectives": [
+        "Washington considera il piano di autonomia del Marocco una base realistica per i negoziati.",
+        "Mosca e il Fronte Polisario contestano un'impostazione che possa anticipare l'esito dell'autodeterminazione; il Marocco sostiene la propria sovranità sul territorio."
+      ],
+      "unknowns": [
+        "L'esito di eventuali nuovi tentativi di compromesso ONU dopo le due votazioni fallite.",
+        "Le modalità concrete con cui la missione potrà mantenere, modificare o interrompere le operazioni dopo la scadenza."
+      ],
+      "questions": [
+        {
+          "question": "Perché il progetto russo sulla MINURSO è caduto anche senza bisogno di un veto statunitense?",
+          "answer": "Nel Consiglio di sicurezza una proposta richiede almeno nove voti favorevoli su quindici, oltre all'assenza di veto dei membri permanenti. Il testo russo ha ottenuto soltanto tre sì: il voto contrario degli Stati Uniti c'è stato, ma il documento sarebbe stato respinto comunque per insufficienza di consensi."
+        },
+        {
+          "question": "Come differivano i due progetti del 30 ottobre per la missione ONU nel Sahara occidentale?",
+          "answer": "La proposta americana avrebbe rinnovato ma trasformato il mandato, concentrando la via negoziale sul piano marocchino di autonomia. Quella russa avrebbe prorogato per un anno la MINURSO sostanzialmente invariata, mantenendo il quadro esistente di monitoraggio e autodeterminazione. Nessuna delle due è stata approvata."
+        }
+      ],
+      "tags": [
+        "Sahara",
+        "MINURSO",
+        "ONU"
+      ],
+      "impactReason": "La mancata proroga riguarda una missione di stabilizzazione attiva da 35 anni in un territorio conteso e può incidere sul monitoraggio delle tensioni.",
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council",
+          "url": "https://apnews.com/article/3267317ce19e61bd0f41d90012504c92",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council",
+          "url": "https://www.reuters.com/world/russia-vetos-us-drafted-resolution-western-sahara-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Le Desk",
+          "title": "Sahara : le texte russe rejeté à son tour, la Minurso privée de mandat",
+          "url": "https://ledesk.ma/2026/10/30/sahara-le-texte-russe-rejete-a-son-tour-la-minurso-privee-de-mandat/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UN Security Council",
+          "title": "10259th meeting – MINURSO, 30 October 2026",
+          "url": "https://main.un.org/securitycouncil/en/events/10259th-meeting-minurso",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/western-sahara-minurso-oct30.svg",
+        "alt": "Illustrazione originale sulla notizia: UN Security Council: two unsuccessful MINURSO resolutions",
+        "credit": "O / Oggettivizzatore — original illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/western-sahara-minurso-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "un-western-sahara-minurso-votes-oct30",
+      "rank": 1,
+      "category": "politics",
+      "impact": 3.5,
+      "title": "Western Sahara: both UN plans defeated as MINURSO mandate nears expiry",
+      "dek": "Russia vetoed a US proposal; Moscow's alternative secured only three affirmative votes and failed to reach the required majority.",
+      "summary": "On October 30, 2026 the UN Security Council rejected both a US proposal to renew and reshape its Western Sahara mission and a Russian proposal to extend the current mandate unchanged. Moscow's negative vote blocked the US text as a permanent member; the Russian draft obtained only three votes in favour, one against and 11 abstentions. The existing mandate expires on October 31 unless the Council takes fresh action.",
+      "body": [
+        "On October 30, 2026 the United Nations Security Council voted on rival plans for MINURSO, the mission created in 1991 to monitor a ceasefire and support the process over Western Sahara's status. The US-drafted text sought to extend the mission while changing its mandate and political focus, steering negotiations towards Morocco's autonomy proposal. Russia, a permanent Council member, voted against that draft, blocking its adoption despite 11 votes in favour.",
+        "Moscow's competing proposal sought a straightforward one-year extension of MINURSO without the political and structural changes sought by Washington. It received three affirmative votes, one vote against from the United States and 11 abstentions. Adoption requires at least nine of the 15 Council members to vote in favour, with no veto from permanent members. As Le Desk explained, the Russian draft was therefore defeated by a lack of affirmative votes; the American negative vote did not need to operate as a veto to defeat it.",
+        "Behind the vote lies the unresolved sovereignty dispute. Morocco controls most of Western Sahara and favours autonomy under Moroccan sovereignty, while the Polisario Front seeks Sahrawi self-determination and an option for independence. The UN mission originated in a ceasefire and planned referendum that never took place; low-intensity hostilities resumed in 2020. Reuters and the Associated Press reported sharply different positions voiced by Morocco, Russia, the United States and Polisario representatives.",
+        "The current MINURSO authorization was due to end on October 31, 2026. The failure of both proposals on the previous day therefore raised immediate questions about the mission's legal basis, but it does not establish that UN personnel have already been withdrawn, that equipment has been removed or that a major new war has begun. Further Council decisions and independent observation are needed to assess operational changes and consequences for civilians, including Sahrawi refugees."
+      ],
+      "facts": [
+        "The US-drafted resolution was blocked on October 30 by a negative Russian vote as a permanent Security Council member.",
+        "Russia's alternative received three votes in favour, one against and 11 abstentions, below the nine votes required.",
+        "MINURSO's existing mandate was due to expire on October 31, 2026."
+      ],
+      "perspectives": [
+        "The United States argues that Morocco's autonomy plan offers a realistic basis for negotiations.",
+        "Russia and the Polisario Front oppose prejudging the exercise of self-determination, while Morocco asserts sovereignty over the territory."
+      ],
+      "unknowns": [
+        "Whether Security Council members will agree on a new compromise after both drafts failed.",
+        "The operational arrangements for keeping, changing or ending the mission after the mandate's scheduled expiry."
+      ],
+      "questions": [
+        {
+          "question": "Why did Russia's MINURSO draft fail without requiring a US veto?",
+          "answer": "A Security Council resolution needs at least nine affirmative votes out of 15, as well as no veto by a permanent member. Moscow's proposal won only three votes in favour. The United States voted against it, but the draft would have failed for insufficient support regardless."
+        },
+        {
+          "question": "What was the substantive difference between the two October 30 Western Sahara resolutions?",
+          "answer": "Washington proposed renewing but reshaping the UN mission and basing negotiations on Morocco's autonomy plan. Moscow proposed another year of MINURSO with its existing structure and political framework essentially intact. Neither proposal was adopted."
+        }
+      ],
+      "tags": [
+        "Sahara",
+        "MINURSO",
+        "UN"
+      ],
+      "impactReason": "The failed extension affects a 35-year-old stabilizing mission in disputed territory and may impair monitoring and de-escalation.",
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council",
+          "url": "https://apnews.com/article/3267317ce19e61bd0f41d90012504c92",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council",
+          "url": "https://www.reuters.com/world/russia-vetos-us-drafted-resolution-western-sahara-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Le Desk",
+          "title": "Sahara : le texte russe rejeté à son tour, la Minurso privée de mandat",
+          "url": "https://ledesk.ma/2026/10/30/sahara-le-texte-russe-rejete-a-son-tour-la-minurso-privee-de-mandat/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UN Security Council",
+          "title": "10259th meeting – MINURSO, 30 October 2026",
+          "url": "https://main.un.org/securitycouncil/en/events/10259th-meeting-minurso",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/western-sahara-minurso-oct30.svg",
+        "alt": "Original illustration about: UN Security Council: two unsuccessful MINURSO resolutions",
+        "credit": "O / Oggettivizzatore — original illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/western-sahara-minurso-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}

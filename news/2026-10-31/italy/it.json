@@ -1,0 +1,406 @@
+{
+  "date": "2026-10-31",
+  "language": "it",
+  "section": "italy",
+  "publishedAt": "2026-10-31T09:24:33+01:00",
+  "editorialNote": "Italia, 31 ottobre 2026. Indicatori provvisori, dichiarazioni e fatti accertati vengono distinti; lo sciopero del 30 ottobre è un aggiornamento rispetto alla precettazione già raccontata.",
+  "articles": [
+    {
+      "id": "italy-usb-strike-demonstrations-oct30",
+      "rank": 1,
+      "category": "society",
+      "impact": 3,
+      "title": "Sciopero USB, cortei in decine di città: a Milano manifestanti sulla tangenziale",
+      "dek": "Il 30 ottobre proteste per salari, caro vita e riarmo, mentre la precettazione lascia in servizio molti collegamenti ferroviari.",
+      "summary": "Il 30 ottobre si sono svolti cortei legati allo sciopero proclamato da USB in numerose città italiane. ANSA ha riferito di circa 30.000 partecipanti a Milano, dove il corteo ha percorso un tratto della tangenziale est chiuso preventivamente al traffico. La precettazione ministeriale dei trasporti, già oggetto della cronaca precedente, ha limitato l'effetto sui servizi ferroviari: il nuovo evento è lo svolgimento effettivo delle manifestazioni.",
+      "body": [
+        "Venerdì 30 ottobre 2026 si sono tenute manifestazioni legate allo sciopero generale promosso dall'Unione Sindacale di Base contro il costo della vita, il riarmo e le condizioni salariali. ANSA ha seguito la mobilitazione in decine di città, mentre RaiNews ha pubblicato aggiornamenti territoriali. La cronaca della giornata va tenuta distinta dall'annuncio dello sciopero e dalla precettazione del ministro Matteo Salvini, raccontati già nell'edizione O del 30 ottobre: ora sono documentati i cortei, i presidi e gli effetti effettivi sui luoghi coinvolti.",
+        "A Milano il corteo organizzato da USB e studenti ha raggiunto la tangenziale est nella zona di via Palmanova e Cascina Gobba. ANSA ha riferito una partecipazione di circa 30.000 persone, ma una stima di folla, anche quando ampiamente citata, non è un censimento di presenze. Il tratto stradale interessato era stato chiuso preventivamente; la cronaca non sostiene quindi che il blocco fosse imprevisto. Altrove sono stati segnalati presidi portuali a Trieste e Livorno e proteste di studenti vicino a scuole e università.",
+        "L'impatto sui trasporti è stato diverso da quello inizialmente prospettato dall'organizzazione sindacale. Il ministero aveva ordinato il differimento di parte dell'astensione in ragione delle regole di franchigia del 2 novembre. Trenord ha comunicato che i treni avrebbero circolato con l'orario normale, e i primi riscontri da Bologna e Milano non mostravano paralisi generalizzate del servizio. La decisione amministrativa non ha impedito ai manifestanti di tenere cortei e presidi in altri comparti.",
+        "Durante alcuni cortei si sono registrate tensioni con le forze dell'ordine. A Mestre, ANSA ha riportato la dichiarazione del questore secondo cui sette agenti avevano riportato contusioni; a Vicenza gli organizzatori hanno riferito feriti tra i manifestanti. Tali informazioni restano attribuite ai rispettivi dichiaranti e non descrivono automaticamente l'andamento delle manifestazioni in tutta Italia. Il numero totale degli aderenti allo sciopero non può essere ricavato dai partecipanti ai cortei, perché presenza in piazza e astensione dal lavoro sono grandezze diverse."
+      ],
+      "facts": [
+        "Il 30 ottobre 2026 si sono svolti cortei e presidi collegati alla protesta USB in molte città.",
+        "ANSA ha indicato circa 30.000 partecipanti al corteo di Milano, che ha attraversato un tratto di tangenziale preventivamente chiuso.",
+        "Dopo l'ordinanza ministeriale Trenord ha confermato il normale orario ferroviario."
+      ],
+      "perspectives": [
+        "USB rivendica la protesta per salari e costo della vita e contro il riarmo.",
+        "Il ministero ha sostenuto la necessità di differire gli scioperi dei trasporti nel periodo di franchigia; il sindacato ha contestato la misura.",
+        "La questura e gli organizzatori hanno fornito versioni e conteggi propri sugli scontri localizzati."
+      ],
+      "unknowns": [
+        "Il numero complessivo di lavoratori che ha effettivamente aderito all'astensione in ogni comparto.",
+        "Il bilancio definitivo e accertato delle singole tensioni locali e delle eventuali responsabilità."
+      ],
+      "questions": [
+        {
+          "question": "Come ha potuto svolgersi la mobilitazione USB del 30 ottobre dopo la precettazione dei trasporti?",
+          "answer": "La precettazione riguardava il differimento dello stop in comparti specifici, non un divieto generale di manifestare. I servizi ferroviari hanno quindi continuato a funzionare secondo i gestori, mentre cortei, presidi portuali e mobilitazioni studentesche si sono svolti in numerose città."
+        },
+        {
+          "question": "Perché i 30.000 manifestanti stimati a Milano non misurano l'adesione allo sciopero nazionale?",
+          "answer": "Il conteggio si riferisce ai presenti in un corteo locale. Altri partecipanti possono non essere lavoratori in astensione e molti scioperanti possono non essere scesi in piazza. Per calcolare l'adesione servirebbero dati separati di addetti e ore non lavorate per settore."
+        }
+      ],
+      "tags": [
+        "sciopero",
+        "USB",
+        "Milano"
+      ],
+      "impactReason": "Cortei estesi e presidi hanno coinvolto città e servizi, ma la precettazione ha circoscritto l'interruzione di molti trasporti.",
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Sciopero generale e cortei in tutta Italia. A Milano sfilano sulla tangenziale",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/sciopero-generale-e-cortei-in-50-piazze.-a-milano-30mila-in-corteo-sfilano-sulla-tangenziale_a6c5a68a-dc6a-450e-9dac-8c7c47dc898a.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Cortei, scioperi e manifestazioni il 30 ottobre: la diretta",
+          "url": "https://www.rainews.it/tgr/emiliaromagna/maratona/2026/10/cortei-scioperi-e-manifestazioni-il-30-ottobre-la-diretta-2239b12e-80ad-4fc3-90c8-26715870174b.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Unione Sindacale di Base",
+          "title": "30 ottobre sciopero generale in tutta Italia: decine di piazze contro economia di guerra e carovita",
+          "url": "https://www.usb.it/leggi-notizia/30-ottobre-sciopero-generale-in-tutta-italia-decine-di-piazze-contro-economia-di-guerra-e-carovita-1130.html",
+          "publishedAt": "2026-10-26",
+          "role": "official"
+        },
+        {
+          "outlet": "Trenord",
+          "title": "National Strike 29–30 October 2026",
+          "url": "https://www.malpensaexpress.it/en/news/trenord-informs/notices/strike/",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-usb-demonstrations-oct30.svg",
+        "alt": "Illustrazione originale: Public demonstrations and transport corridors, symbolic composition",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/italy-usb-demonstrations-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-inflation-oct30",
+      "rank": 2,
+      "category": "economy",
+      "title": "Italia, l'inflazione provvisoria di ottobre accelera al 5,4%: pesa soprattutto l'energia",
+      "dek": "L'Istat misura un aumento dello 0,9% sul mese e del 5,4% sull'anno; il dato di fondo è molto più basso, al 2,0%.",
+      "summary": "Nella stima preliminare pubblicata il 30 ottobre, l'Istat indica per i prezzi al consumo italiani un +5,4% annuo, contro il +4,2% di settembre, e un +0,9% mensile. L'accelerazione deriva soprattutto dall'energia: il +59,5% degli energetici regolamentati è un dato di categoria, non il rincaro medio di tutti i prezzi. La lettura definitiva è prevista per il 17 novembre.",
+      "body": [
+        "Venerdì 30 ottobre 2026 l'Istat ha pubblicato la stima provvisoria dell'indice nazionale dei prezzi al consumo per l'intera collettività, il NIC comprensivo dei tabacchi. Il livello dei prezzi risulta superiore dello 0,9% a settembre e del 5,4% a ottobre 2025. A settembre il tasso annuo era stato del 4,2%: l'accelerazione è quindi di 1,2 punti percentuali. Sono confronti diversi, mensile e annuale, e non vanno sommati. Radiocor e ANSA hanno riportato le cifre nel giorno della pubblicazione.",
+        "Il contributo più marcato arriva dall'energia. Istat indica per gli energetici regolamentati un aumento annuo passato dal 25,8% di settembre al 59,5% di ottobre; per quelli non regolamentati, dal 22,5% al 29,4%. Anche gli alimentari non lavorati accelerano, dal 5,5% al 7,5%, e i servizi di trasporto dall'1,6% al 3,1%. Ogni percentuale riguarda una categoria con un peso specifico nel paniere: il 59,5% non descrive l'inflazione complessiva delle famiglie.",
+        "La misura di fondo, che esclude energetici e alimentari freschi, sale dall'1,6% al 2,0% su base annua. Il cosiddetto carrello della spesa accelera dall'1,5% al 2,5%. La distanza tra indice generale e indice di fondo segnala quanto lo shock energetico pesi sulla lettura aggregata, ma non significa che gli altri prezzi siano fermi: anche il nucleo mostra un'accelerazione. La lettura del dato richiede quindi di separare il movimento delle componenti volatili dalla tendenza delle altre voci.",
+        "Il dato arriva nello stesso giorno in cui l'Istat ha segnalato un PIL italiano invariato nel terzo trimestre rispetto al secondo, un contesto che aumenta l'attenzione al potere d'acquisto e ai costi delle imprese. Non è possibile dedurre dal solo indice NIC quanto abbia perso ogni singola famiglia: consumi, contratti, redditi e prezzi pagati differiscono. La stima di ottobre resta provvisoria; l'istituto indica il 17 novembre come prossima diffusione, quando il quadro potrà essere confermato o rivisto."
+      ],
+      "impactReason": "L'aumento dei prezzi di energia e beni essenziali interessa famiglie e imprese, mentre la stagnazione del PIL limita i margini di assorbimento.",
+      "tags": [
+        "inflazione",
+        "Istat",
+        "energia"
+      ],
+      "facts": [
+        "Il 30 ottobre Istat stima per ottobre NIC +0,9% mensile e +5,4% annuo, contro +4,2% annuo a settembre.",
+        "Gli energetici regolamentati passano da +25,8% a +59,5% annuo; l'inflazione di fondo passa da +1,6% a +2,0%.",
+        "La prossima diffusione Istat è programmata per il 17 novembre 2026."
+      ],
+      "perspectives": [
+        "Istat attribuisce l'accelerazione soprattutto ai prezzi energetici, con contributi da alimentari freschi e trasporti.",
+        "Euronews riporta l'attenzione degli economisti al rischio di crescita debole con prezzi elevati nell'area euro."
+      ],
+      "unknowns": [
+        "L'eventuale revisione dei dati preliminari nella diffusione definitiva del 17 novembre.",
+        "Quanto le differenze nei panieri di consumo e nei contratti energetici amplificheranno o attenueranno l'impatto sulle diverse famiglie."
+      ],
+      "questions": [
+        {
+          "question": "Perché il +59,5% dell'energia regolamentata non coincide con il 5,4% d'inflazione italiana?",
+          "answer": "Il 59,5% misura la variazione annua di una sola categoria del paniere NIC. Il 5,4% è la variazione dell'indice complessivo, che combina energia, alimentari, beni e servizi con pesi diversi: un forte rincaro in una componente non si trasferisce uno a uno all'indice generale."
+        },
+        {
+          "question": "Che cosa rivela il divario fra inflazione generale al 5,4% e inflazione di fondo al 2,0%?",
+          "answer": "L'indice di fondo esclude energia e alimentari freschi, due componenti soggette a oscillazioni marcate. Il suo livello inferiore indica che gran parte dell'accelerazione generale è concentrata nelle componenti escluse; il passaggio del dato di fondo dall'1,6% al 2,0% mostra però rincari in crescita anche altrove."
+        }
+      ],
+      "impact": 4,
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Prezzi al consumo (dati provvisori) – Ottobre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/prezzi-al-consumo-dati-provvisori-ottobre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Inflazione: Istat stima +0,9% a ottobre, +5,4% su anno",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/inflazione-istat-stima-09-a-ottobre-54-su-anno-record-da-2023-rco-nRC_30102026_1107_345323665.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Italy inflation surges to 5.4% in October as energy costs bite",
+          "url": "https://www.euronews.com/2026/10/30/italy-inflation-surges-to-54-in-october-as-energy-costs-bite",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, l'inflazione ad ottobre sale al 5,4%. Il Pil è fermo nel terzo trimestre",
+          "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/30/istat-linflazione-ad-ottobre-sale-al-54i.-il-pil-e-fermo-nel-terzo-trimestre_18189111-ab4d-47c1-aa50-a880181f4b6b.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-inflation-oct30.svg",
+        "alt": "Illustrazione editoriale originale, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/italy-inflation-oct30.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "istat-gdp-q3-flat-oct30",
+      "rank": 3,
+      "category": "economy",
+      "impact": 3,
+      "title": "Pil italiano fermo nel terzo trimestre: +0,8% rispetto al 2025",
+      "dek": "La prima stima Istat registra crescita trimestrale nulla, con servizi e agricoltura in aumento e industria in calo.",
+      "summary": "La stima preliminare Istat del 30 ottobre segnala per luglio-settembre 2026 un PIL reale destagionalizzato invariato rispetto al trimestre precedente e superiore dello 0,8% a un anno prima. La crescita acquisita per l'intero 2026 è dello 0,8%, ipotesi contabile distinta dalla previsione governativa dell'1%.",
+      "body": [
+        "Il 30 ottobre 2026 Istat ha pubblicato la prima stima del prodotto interno lordo italiano del terzo trimestre, relativa a luglio-settembre. Il PIL, corretto per gli effetti di calendario e destagionalizzato, è rimasto invariato rispetto ad aprile-giugno. Nel confronto con lo stesso trimestre dell'anno precedente la variazione è invece positiva, pari allo 0,8%: un'economia può crescere sull'anno pur essendo ferma nell'ultimo trimestre.",
+        "La scomposizione preliminare dell'istituto indica un aumento del valore aggiunto dei servizi e dell'agricoltura, compensato da una riduzione nell'industria. Dal lato della domanda, la componente interna, comprese le scorte, ha fornito un contributo positivo, mentre quello della domanda estera netta è stato negativo. Questi sono contributi qualitativi della stima flash, non una misurazione dettagliata già definitiva di ogni ramo produttivo.",
+        "La crescita acquisita per il 2026 resta allo 0,8%: è il tasso annuo che risulterebbe se nel quarto trimestre l'attività restasse esattamente sul livello del terzo. Non è la stessa cosa di una previsione, perché gli ultimi tre mesi potrebbero registrare una variazione positiva o negativa. Repubblica ha confrontato il valore acquisito con l'1% contenuto nel quadro programmatico governativo, mostrando un margine che richiederebbe crescita aggiuntiva.",
+        "Istat segnala anche che il terzo trimestre ha avuto quattro giornate lavorative in più del secondo e una più del terzo trimestre 2025: da qui l'importanza degli aggiustamenti statistici esplicitati nel comunicato. Il dato è preliminare e i conti nazionali vengono normalmente rivisti man mano che arrivano informazioni più complete. L'assenza di crescita trimestrale non misura da sola salari, benessere familiare o occupazione, ma descrive il volume complessivo della produzione."
+      ],
+      "facts": [
+        "PIL del terzo trimestre 2026 invariato rispetto al trimestre precedente e +0,8% annuo secondo Istat.",
+        "Servizi e agricoltura registrano contributi positivi al valore aggiunto; industria negativa.",
+        "La crescita acquisita del PIL per il 2026 è dello 0,8%."
+      ],
+      "perspectives": [
+        "Istat definisce sostanzialmente stazionaria l'economia nel terzo trimestre.",
+        "Repubblica sottolinea lo scarto fra crescita acquisita allo 0,8% e obiettivo annuo governativo dell'1%."
+      ],
+      "unknowns": [
+        "L'entità di possibili revisioni della stima flash quando saranno disponibili dati più completi.",
+        "La variazione effettiva del quarto trimestre e quindi la crescita totale definitiva del 2026."
+      ],
+      "questions": [
+        {
+          "question": "Come può il PIL italiano restare fermo fra giugno e settembre e segnare comunque +0,8% annuo?",
+          "answer": "Il confronto trimestrale paragona luglio-settembre con aprile-giugno 2026; quello annuo con luglio-settembre 2025. Se l'economia aveva guadagnato terreno nei trimestri precedenti, può mantenere un livello più alto dell'anno scorso anche senza avanzare nell'ultimo trimestre."
+        },
+        {
+          "question": "Che cosa significa la crescita acquisita dello 0,8% indicata da Istat per il 2026?",
+          "answer": "È il tasso medio di crescita annua implicito nei dati già osservati assumendo che il PIL del quarto trimestre resti uguale a quello del terzo. Non è una previsione: per raggiungere l'1% ipotizzato dal governo servirebbe un andamento più forte nell'ultimo trimestre."
+        }
+      ],
+      "tags": [
+        "Istat",
+        "PIL",
+        "crescita"
+      ],
+      "impactReason": "La stagnazione trimestrale incide sul quadro economico e sulla capacità di raggiungere la crescita annua programmata.",
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Stima preliminare del Pil – III trimestre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/stima-preliminare-del-pil-iii-trimestre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "L’economia italiana si ferma: Pil a crescita zero nel terzo trimestre",
+          "url": "https://www.repubblica.it/economia/2026/10/30/news/istat_pil_terzo_trimestre_crescita_zero-425686535/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, l'inflazione ad ottobre sale al 5,4%. Il Pil è fermo nel terzo trimestre",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/pmi/2026/10/30/istat-linflazione-ad-ottobre-sale-al-54i.-il-pil-e-fermo-nel-terzo-trimestre_18189111-ab4d-47c1-aa50-a880181f4b6b.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-gdp-q3-oct30.svg",
+        "alt": "Illustrazione originale O: Italian GDP third-quarter flat growth, conceptual chart not measured data",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/italy-gdp-q3-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "panetta-ecb-rates-assessment-oct30",
+      "rank": 4,
+      "category": "economy",
+      "impact": 2.5,
+      "title": "Panetta: possibili ulteriori rialzi dei tassi BCE se l'inflazione resta elevata",
+      "dek": "Il governatore della Banca d'Italia chiede gradualità e prudenza fiscale; le sue parole non sono una decisione del Consiglio direttivo.",
+      "summary": "Nel discorso del 30 ottobre alla Giornata mondiale del risparmio, Fabio Panetta ha detto che potrebbero servire nuovi rialzi dei tassi BCE per contenere un'inflazione alimentata dall'energia. Ha però avvertito che anche i rendimenti obbligazionari più alti irrigidiscono già le condizioni finanziarie. È una valutazione di politica monetaria, non un aumento dei tassi già deliberato.",
+      "body": [
+        "Il 30 ottobre 2026 Fabio Panetta, governatore della Banca d'Italia e membro del Consiglio direttivo della BCE, è intervenuto alla Giornata mondiale del risparmio organizzata a Roma da Acri. Panetta ha avvertito che l'inflazione dell'area euro era salita al 3,8% e che, in uno scenario con prezzi a lungo superiori all'obiettivo, potrebbero essere necessari ulteriori aumenti dei tassi ufficiali. Reuters, ANSA e Rai hanno riportato le sue dichiarazioni, mentre il sito della Banca d'Italia ospita il discorso ufficiale.",
+        "Panetta ha distinto lo shock energetico, che la politica monetaria non può eliminare direttamente, dal rischio che gli aumenti iniziali dei prezzi modifichino stabilmente comportamenti e aspettative. Se famiglie e imprese anticipano inflazione persistente, le trattative salariali e i listini possono alimentarsi a vicenda. Secondo il governatore, la BCE deve limitare questa trasmissione, non pretendere che gli strumenti monetari riducano di per sé il prezzo internazionale dell'energia.",
+        "Allo stesso tempo Panetta ha sottolineato che l'aumento dei rendimenti di mercato rende già più caro finanziarsi: l'effetto restrittivo va considerato per calibrare con gradualità la risposta. Il Consiglio direttivo BCE aveva lasciato invariati i tassi il giorno precedente. Le future decisioni saranno prese riunione per riunione, in base ai dati e alle prospettive, non automaticamente in seguito al discorso di un singolo membro.",
+        "Sul versante italiano, Panetta ha sostenuto la continuità della prudenza di bilancio, osservando che il disavanzo è sceso dal 9% del PIL nel 2020 verso il 3%. Ha citato i miglioramenti del merito di credito attribuiti da diverse agenzie, ma non ha presentato nuovi impegni di spesa o modifiche già approvate. Il legame fra inflazione elevata, finanziamento del debito e crescita debole rende il suo intervento rilevante, pur restando un contributo al dibattito e non un atto normativo."
+      ],
+      "facts": [
+        "Panetta ha pronunciato il discorso alla Giornata mondiale del risparmio il 30 ottobre 2026.",
+        "Ha dichiarato che potrebbero essere necessari altri rialzi dei tassi BCE e che le condizioni finanziarie sono già più rigide.",
+        "Il Consiglio BCE aveva lasciato invariati i tassi nella riunione del 29 ottobre."
+      ],
+      "perspectives": [
+        "Panetta chiede di evitare che lo shock energetico provochi una spirale stabile fra prezzi e salari, ma invita alla gradualità.",
+        "ANSA riporta la richiesta del governatore di mantenere in Italia una linea prudente di bilancio."
+      ],
+      "unknowns": [
+        "Se e quando il Consiglio direttivo BCE deciderà un nuovo aumento dei tassi ufficiali.",
+        "L'intensità con cui lo shock energetico si trasmetterà alle aspettative e ai salari nei mesi successivi."
+      ],
+      "questions": [
+        {
+          "question": "Perché Panetta distingue i rincari energetici dalla spirale tra salari e prezzi?",
+          "answer": "La BCE non controlla direttamente le quotazioni internazionali dell'energia, ma può influenzare domanda, credito e aspettative. Panetta teme che lo shock iniziale venga incorporato in decisioni persistenti di prezzo e di salario: la politica monetaria mira a limitarne la diffusione, non a cancellare il rincaro originario."
+        },
+        {
+          "question": "Perché le parole di Panetta non significano che la BCE abbia già alzato i tassi il 30 ottobre?",
+          "answer": "Panetta è uno dei membri del Consiglio direttivo, non l'organo collegiale da solo. Il 29 ottobre la BCE aveva mantenuto i tassi invariati; il governatore ha descritto una possibilità condizionata all'inflazione, mentre la decisione effettiva richiede una nuova riunione e una deliberazione."
+        }
+      ],
+      "tags": [
+        "Panetta",
+        "BCE",
+        "inflazione"
+      ],
+      "impactReason": "Le valutazioni sui tassi influiscono sulle aspettative di credito e risparmio in un contesto di prezzi elevati, senza essere una decisione operativa.",
+      "sources": [
+        {
+          "outlet": "Banca d'Italia",
+          "title": "Intervento del Governatore alla Giornata Mondiale del Risparmio del 2026",
+          "url": "https://www.bancaditalia.it/media/notizia/intervento-del-governatore-alla-giornata-mondiale-del-risparmio-del-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "More ECB hikes may be needed to stop inflation, Panetta says",
+          "url": "https://www.marketscreener.com/news/more-ecb-hikes-may-be-needed-to-stop-inflation-panetta-says-ce785fdbda88fe27",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Panetta, contesto incerto, Italia prosegua su strada prudenza di bilancio",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/panetta-contesto-incerto-italia-prosegua-su-strada-prudenza-di-bilancio_f0807a1b-9922-4f14-a444-ebb203a82c18.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Rai Televideo",
+          "title": "Panetta: possibili nuovi aumenti tassi",
+          "url": "https://www.televideo.rai.it/televideo/pub/notiziasolotesto.jsp?id=1698853&pagina=617&sottopagina=5",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-panetta-interest-rates-oct30.svg",
+        "alt": "Illustrazione originale: Central bank interest rates and financial conditions, symbolic illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/italy-panetta-interest-rates-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "istat-contract-wages-sept-oct30",
+      "rank": 5,
+      "category": "economy",
+      "impact": 3,
+      "title": "Retribuzioni contrattuali, +2,5% a settembre: per Istat restano sotto l'inflazione",
+      "dek": "L'indice orario è invariato sul mese; la crescita annua varia tra 2,3% nel privato e 3,2% nella pubblica amministrazione.",
+      "summary": "L'Istat ha comunicato il 30 ottobre che l'indice delle retribuzioni contrattuali orarie a settembre 2026 è aumentato del 2,5% su base annua ma non rispetto ad agosto. Per il secondo trimestre consecutivo i rinnovi registrati non hanno tenuto il passo con l'inflazione; 19 contratti risultavano in attesa di rinnovo, relativi a circa 2,5 milioni di dipendenti.",
+      "body": [
+        "Il comunicato Istat pubblicato il 30 ottobre 2026 riguarda le retribuzioni stabilite dai contratti collettivi nazionali per il trimestre luglio-settembre. A settembre l'indice delle retribuzioni contrattuali orarie resta invariato rispetto ad agosto e sale del 2,5% rispetto a settembre 2025. La variazione annua è pari al 2,3% nel settore privato e al 3,2% nella pubblica amministrazione. Si tratta di un indice contrattuale con struttura occupazionale fissa, non della media effettivamente percepita da ogni lavoratore.",
+        "Il dato complessivo nasconde differenze tra comparti: la variazione annua è del 3,3% in agricoltura, del 2,6% nell'industria e del 2,1% nei servizi privati; fra i settori specifici spiccano scuola al 5,5%, telecomunicazioni al 5,1% e igiene ambientale al 5,0%. Aumenti nulli riguardano alcune categorie con contratti già in vigore, tra cui funzioni centrali e forze dell'ordine. Questi dati descrivono il valore tabellare previsto dai contratti, e non includono automaticamente le variazioni dovute a ore lavorate, bonus e composizione dell'occupazione.",
+        "A fine settembre i contratti nazionali in vigore per la parte economica coprono l'80,8% dei dipendenti, circa 10,6 milioni di persone. Diciannove contratti sono ancora in attesa di rinnovo e coinvolgono circa 2,5 milioni di lavoratori. Il tempo medio di attesa per chi ha il contratto scaduto è di 20,8 mesi, in calo da 27,9 mesi di un anno prima: Istat collega il miglioramento soprattutto ai rinnovi nella pubblica amministrazione. ANSA e Radiocor hanno riportato il quadro e le differenze tra settori.",
+        "Per il secondo trimestre consecutivo, sottolinea Istat, le retribuzioni contrattuali sono cresciute meno dei prezzi al consumo armonizzati; a settembre lo scarto nel privato è di circa due punti percentuali. Un confronto corretto riguarda lo stesso periodo e lo stesso indice, l'IPCA, non il dato preliminare NIC di ottobre diffuso nello stesso giorno. L'indice non permette di calcolare direttamente la perdita reale per ogni dipendente, che dipende anche da contratti applicati, ore e altre componenti salariali."
+      ],
+      "facts": [
+        "Indice delle retribuzioni contrattuali orarie invariato su agosto 2026 e +2,5% su settembre 2025.",
+        "Il 30 settembre 2026 risultano 19 contratti da rinnovare, riguardanti circa 2,5 milioni di dipendenti.",
+        "La dinamica contrattuale privata a settembre risulta circa due punti sotto l'inflazione IPCA."
+      ],
+      "perspectives": [
+        "Istat segnala che per il secondo trimestre consecutivo la crescita contrattuale è stata inferiore all'inflazione.",
+        "ANSA e Radiocor evidenziano come il dato nazionale aggregato nasconda differenze fra settore privato e pubblico."
+      ],
+      "unknowns": [
+        "Quanto le singole retribuzioni effettive, inclusi premi e variazioni d'orario, si discostino dall'indice contrattuale.",
+        "Quando e con quali aumenti saranno rinnovati i 19 contratti ancora scaduti."
+      ],
+      "questions": [
+        {
+          "question": "Perché il +2,5% di Istat non descrive l'aumento effettivo della busta paga di tutti i lavoratori?",
+          "answer": "L'indice considera le retribuzioni fissate dai contratti collettivi mantenendo una struttura di occupazione costante. La retribuzione percepita può invece variare per ore svolte, premi, straordinari, qualifiche e cambi di lavoro: il +2,5% misura l'evoluzione delle tariffe contrattuali, non di ogni cedolino."
+        },
+        {
+          "question": "Perché Istat confronta le retribuzioni private di settembre con l'IPCA invece che con il NIC provvisorio di ottobre?",
+          "answer": "Per misurare lo scarto tra salari e prezzi nello stesso periodo serve l'inflazione di settembre definita in modo coerente. L'IPCA è l'indice armonizzato usato nei confronti europei; il NIC di ottobre si riferisce a un altro mese e a una base metodologica diversa, quindi non è il confronto usato nel comunicato sulle retribuzioni."
+        }
+      ],
+      "tags": [
+        "salari",
+        "Istat",
+        "contratti"
+      ],
+      "impactReason": "Gli scarti tra aumenti contrattuali e prezzi riguardano il potere d'acquisto di milioni di lavoratori.",
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Retribuzioni contrattuali – Luglio-settembre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/retribuzioni-contrattuali-luglio-settembre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, a settembre retribuzioni +2,5%, crescita inferiore a inflazione",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/30/istat-a-settembre-retribuzioni-25-crescita-inferiore-a-inflazione_606797b8-f757-4c9e-88fb-eb2b4a6b55d5.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Lavoro: Istat, crescita retribuzioni ancora sotto inflazione in terzo trimestre",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/lavoro-istat-crescita-retribuzioni-ancora-sotto-inflazione-in-terzo-trimestre-nRC_30102026_1208_422312153.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-contractual-wages-oct30.svg",
+        "alt": "Illustrazione originale: Contractual pay and consumer prices, symbolic comparative chart",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/italy-contractual-wages-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

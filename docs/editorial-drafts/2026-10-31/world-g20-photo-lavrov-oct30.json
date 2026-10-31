@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Complete day requires all 25 independently sourced stories, release JSON and CI",
+  "articles": {
+    "it": {
+      "id": "g20-atlanta-photo-lavrov-oct30",
+      "rank": 3,
+      "category": "politics",
+      "impact": 2.5,
+      "title": "G20 ad Atlanta, salta la foto dei ministri per le obiezioni sulla presenza di Lavrov",
+      "dek": "La riunione diplomatica si apre regolarmente, ma l'immagine di gruppo viene cancellata dopo le proteste di delegazioni europee.",
+      "summary": "Il 30 ottobre ad Atlanta la tradizionale foto di gruppo dei ministri degli Esteri del G20 non si è tenuta: rappresentanti europei si erano opposti a comparire accanto al ministro russo Sergej Lavrov. Gli Stati Uniti hanno tolto la foto dal programma. I colloqui sono proseguiti: l'annullamento è un segnale politico, non una sospensione formale del vertice.",
+      "body": [
+        "Venerdì 30 ottobre 2026 i rappresentanti diplomatici del G20 si sono riuniti ad Atlanta, negli Stati Uniti, per due giorni di colloqui. La consueta foto comune dei ministri non figurava più nell'agenda: Washington ha scelto di cancellarla dopo le obiezioni di diverse delegazioni europee alla presenza del ministro degli Esteri russo Sergej Lavrov. Reuters, Associated Press ed Euronews hanno ricostruito la controversia attraverso dichiarazioni e testimonianze raccolte nella sede del vertice.",
+        "Il ministro tedesco Johann Wadephul ha spiegato che un'immagine comune con Lavrov avrebbe suggerito una normalizzazione dei rapporti con Mosca che, secondo Berlino, non esiste a causa della guerra in Ucraina. Il ministro polacco Radosław Sikorski ha approvato la cancellazione. In precedenza era circolata anche la proposta di scattare due fotografie distinte, ma gli organizzatori hanno infine eliminato la sessione collettiva.",
+        "Un funzionario statunitense citato da Reuters ha descritto la scelta come un modo per evitare che la fotografia diventasse un diversivo. Il segretario di Stato Marco Rubio ha comunque aperto i lavori e invitato al dialogo sulle crisi economiche e geopolitiche. Le divergenze riguardano anche la guerra che coinvolge l'Iran, il commercio, la sicurezza energetica e le controversie internazionali; l'assenza della foto non equivale di per sé alla rottura di tutti i negoziati.",
+        "Le cronache del 30 ottobre si riferiscono all'avvio della riunione, non al suo risultato finale del 31 ottobre. Associated Press ha descritto come difficile un comunicato condiviso, ma questa valutazione prospettica non va riscritta come decisione conclusiva già presa. Il valore politico dell'episodio sta nella distanza pubblicamente marcata da alcuni governi nei confronti della Russia, mentre gli effetti sui documenti e sui compromessi della riunione vanno valutati separatamente."
+      ],
+      "facts": [
+        "La fotografia di gruppo non si è tenuta all'avvio della riunione di Atlanta il 30 ottobre.",
+        "Il ministro tedesco Wadephul e quello polacco Sikorski hanno motivato pubblicamente la loro opposizione all'immagine con Lavrov.",
+        "Il segretario di Stato Rubio ha aperto i colloqui come previsto."
+      ],
+      "perspectives": [
+        "I ministri europei contrari alla foto ritengono che l'immagine avrebbe trasmesso una normalizzazione ingiustificata dei rapporti con Mosca.",
+        "L'amministrazione statunitense, secondo un funzionario citato da Reuters, ha inteso prevenire un incidente mediatico senza cancellare la riunione."
+      ],
+      "unknowns": [
+        "Quale testo finale i partecipanti approveranno al termine dei colloqui del 31 ottobre.",
+        "In che misura la controversia visiva inciderà sui negoziati sostanziali del G20."
+      ],
+      "questions": [
+        {
+          "question": "Perché la presenza di Sergej Lavrov ha portato a cancellare la foto di gruppo del G20?",
+          "answer": "Per Germania e altri governi, posare insieme al ministro russo avrebbe suggerito rapporti diplomatici normalizzati nonostante la guerra in Ucraina. Gli organizzatori statunitensi hanno evitato questo segnale pubblico cancellando la fotografia, non la riunione."
+        },
+        {
+          "question": "Quale differenza c'è tra la cancellazione della foto di Atlanta e il mancato accordo fra i ministri?",
+          "answer": "La foto è un rito di rappresentanza senza valore negoziale: la sua cancellazione è stata accertata il 30 ottobre. Un eventuale mancato comunicato comune dipende invece dai contenuti discussi e va verificato al termine dell'incontro, non dedotto dalla sola controversia sulla fotografia."
+        }
+      ],
+      "tags": [
+        "G20",
+        "Lavrov",
+        "diplomazia"
+      ],
+      "impactReason": "La protesta fotografa le divisioni tra governi su Russia e Ucraina, senza comportare di per sé decisioni vincolanti del G20.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "G20 foreign ministers skip photo-op amid objections over Russia",
+          "url": "https://www.reuters.com/world/g20-foreign-ministers-skip-photo-op-amid-objections-over-russia-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
+          "url": "https://apnews.com/article/ed4ab8ad9fedd628c39ac05bc5092cac",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+          "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/g20-atlanta-oct30.svg",
+        "alt": "Illustrazione originale O: G20 Atlanta, original conceptual illustration of interrupted group photograph",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/g20-atlanta-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "g20-atlanta-photo-lavrov-oct30",
+      "rank": 3,
+      "category": "politics",
+      "impact": 2.5,
+      "title": "G20 foreign ministers drop Atlanta group photo amid objections to Lavrov",
+      "dek": "Diplomatic talks went ahead, but the customary family photograph was cancelled after objections from European delegations.",
+      "summary": "The G20 foreign ministers' traditional group photograph did not take place in Atlanta on October 30 after European representatives objected to posing alongside Russia's Sergey Lavrov. The United States removed the photo from the schedule while formal discussions continued. The cancellation was a political signal, not proof that the meeting itself had collapsed.",
+      "body": [
+        "Foreign ministers and senior diplomats from G20 members met in Atlanta, United States, on Friday October 30, 2026, for two days of talks. The customary joint photograph had disappeared from the official programme after several European delegations objected to appearing alongside Russian Foreign Minister Sergey Lavrov. Reuters, the Associated Press and Euronews each reported the dispute, citing participants and officials at the meeting.",
+        "German Foreign Minister Johann Wadephul said a shared image with Lavrov would falsely imply that relations with Moscow had become normal despite Russia's war in Ukraine. Poland's Radosław Sikorski supported cancelling the photograph. Some European officials had previously discussed taking two separate pictures, one with the Russian minister and one without, but the collective photo was ultimately dropped.",
+        "A US official quoted by Reuters said the State Department wanted to avoid turning the picture into a spectacle. Secretary of State Marco Rubio nevertheless opened the meeting and called for cooperation on interconnected economic and security crises. Differences also extend to the war involving Iran, trade, energy security and territorial disputes; a cancelled photograph does not demonstrate that negotiations on each topic stopped.",
+        "The October 30 reports describe the opening of the two-day meeting, not its completed outcome on October 31. The Associated Press suggested that agreement on a joint statement would be difficult, but that was a forward-looking assessment at the time, not a final text already issued. The immediate significance is the visible diplomatic distance some governments sought to maintain from Russia; the effect on any communique is a separate question."
+      ],
+      "facts": [
+        "The collective G20 foreign ministers' photograph was cancelled on October 30.",
+        "German and Polish ministers publicly explained their opposition to posing with Lavrov.",
+        "Marco Rubio opened the diplomatic meeting despite the photo dispute."
+      ],
+      "perspectives": [
+        "European ministers who opposed the photo viewed a shared image as an inaccurate symbol of normalized relations with Moscow.",
+        "A US official told Reuters that removing the photograph would prevent a media distraction without ending talks."
+      ],
+      "unknowns": [
+        "Which final diplomatic statement, if any, will emerge at the close of the October 31 discussions.",
+        "Whether the photo dispute will affect negotiations on substantive G20 priorities."
+      ],
+      "questions": [
+        {
+          "question": "Why did Sergey Lavrov's presence cause the G20 group photograph in Atlanta to be dropped?",
+          "answer": "Germany and other governments argued that standing alongside the Russian minister would convey normal diplomatic relations despite the war in Ukraine. US organizers therefore cancelled that particular public image while letting the diplomatic meeting proceed."
+        },
+        {
+          "question": "How is cancelling the Atlanta photo different from failing to agree on a G20 statement?",
+          "answer": "A group photograph is a symbolic event, and its cancellation on October 30 was confirmed. A joint communique requires substantive agreement and its fate must be checked when the meeting concludes, rather than inferred solely from the dispute over the photograph."
+        }
+      ],
+      "tags": [
+        "G20",
+        "Lavrov",
+        "diplomacy"
+      ],
+      "impactReason": "The dispute makes divisions over Russia and Ukraine visible, but does not itself constitute a binding G20 policy decision.",
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "G20 foreign ministers skip photo-op amid objections over Russia",
+          "url": "https://www.reuters.com/world/g20-foreign-ministers-skip-photo-op-amid-objections-over-russia-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
+          "url": "https://apnews.com/article/ed4ab8ad9fedd628c39ac05bc5092cac",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "EU diplomats object to G20 photo with Lavrov, prompting US cancellation",
+          "url": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/g20-atlanta-oct30.svg",
+        "alt": "Original O illustration: G20 Atlanta, original conceptual illustration of interrupted group photograph",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/g20-atlanta-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}

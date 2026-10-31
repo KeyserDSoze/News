@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "italy",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Incomplete edition; no release JSON or CI approval",
+  "articles": {
+    "it": {
+      "id": "italy-inflation-oct30",
+      "rank": 2,
+      "category": "economy",
+      "title": "Italia, l'inflazione provvisoria di ottobre accelera al 5,4%: pesa soprattutto l'energia",
+      "dek": "L'Istat misura un aumento dello 0,9% sul mese e del 5,4% sull'anno; il dato di fondo è molto più basso, al 2,0%.",
+      "summary": "Nella stima preliminare pubblicata il 30 ottobre, l'Istat indica per i prezzi al consumo italiani un +5,4% annuo, contro il +4,2% di settembre, e un +0,9% mensile. L'accelerazione deriva soprattutto dall'energia: il +59,5% degli energetici regolamentati è un dato di categoria, non il rincaro medio di tutti i prezzi. La lettura definitiva è prevista per il 17 novembre.",
+      "body": [
+        "Venerdì 30 ottobre 2026 l'Istat ha pubblicato la stima provvisoria dell'indice nazionale dei prezzi al consumo per l'intera collettività, il NIC comprensivo dei tabacchi. Il livello dei prezzi risulta superiore dello 0,9% a settembre e del 5,4% a ottobre 2025. A settembre il tasso annuo era stato del 4,2%: l'accelerazione è quindi di 1,2 punti percentuali. Sono confronti diversi, mensile e annuale, e non vanno sommati. Radiocor e ANSA hanno riportato le cifre nel giorno della pubblicazione.",
+        "Il contributo più marcato arriva dall'energia. Istat indica per gli energetici regolamentati un aumento annuo passato dal 25,8% di settembre al 59,5% di ottobre; per quelli non regolamentati, dal 22,5% al 29,4%. Anche gli alimentari non lavorati accelerano, dal 5,5% al 7,5%, e i servizi di trasporto dall'1,6% al 3,1%. Ogni percentuale riguarda una categoria con un peso specifico nel paniere: il 59,5% non descrive l'inflazione complessiva delle famiglie.",
+        "La misura di fondo, che esclude energetici e alimentari freschi, sale dall'1,6% al 2,0% su base annua. Il cosiddetto carrello della spesa accelera dall'1,5% al 2,5%. La distanza tra indice generale e indice di fondo segnala quanto lo shock energetico pesi sulla lettura aggregata, ma non significa che gli altri prezzi siano fermi: anche il nucleo mostra un'accelerazione. La lettura del dato richiede quindi di separare il movimento delle componenti volatili dalla tendenza delle altre voci.",
+        "Il dato arriva nello stesso giorno in cui l'Istat ha segnalato un PIL italiano invariato nel terzo trimestre rispetto al secondo, un contesto che aumenta l'attenzione al potere d'acquisto e ai costi delle imprese. Non è possibile dedurre dal solo indice NIC quanto abbia perso ogni singola famiglia: consumi, contratti, redditi e prezzi pagati differiscono. La stima di ottobre resta provvisoria; l'istituto indica il 17 novembre come prossima diffusione, quando il quadro potrà essere confermato o rivisto."
+      ],
+      "impactReason": "L'aumento dei prezzi di energia e beni essenziali interessa famiglie e imprese, mentre la stagnazione del PIL limita i margini di assorbimento.",
+      "tags": [
+        "inflazione",
+        "Istat",
+        "energia"
+      ],
+      "facts": [
+        "Il 30 ottobre Istat stima per ottobre NIC +0,9% mensile e +5,4% annuo, contro +4,2% annuo a settembre.",
+        "Gli energetici regolamentati passano da +25,8% a +59,5% annuo; l'inflazione di fondo passa da +1,6% a +2,0%.",
+        "La prossima diffusione Istat è programmata per il 17 novembre 2026."
+      ],
+      "perspectives": [
+        "Istat attribuisce l'accelerazione soprattutto ai prezzi energetici, con contributi da alimentari freschi e trasporti.",
+        "Euronews riporta l'attenzione degli economisti al rischio di crescita debole con prezzi elevati nell'area euro."
+      ],
+      "unknowns": [
+        "L'eventuale revisione dei dati preliminari nella diffusione definitiva del 17 novembre.",
+        "Quanto le differenze nei panieri di consumo e nei contratti energetici amplificheranno o attenueranno l'impatto sulle diverse famiglie."
+      ],
+      "questions": [
+        {
+          "question": "Perché il +59,5% dell'energia regolamentata non coincide con il 5,4% d'inflazione italiana?",
+          "answer": "Il 59,5% misura la variazione annua di una sola categoria del paniere NIC. Il 5,4% è la variazione dell'indice complessivo, che combina energia, alimentari, beni e servizi con pesi diversi: un forte rincaro in una componente non si trasferisce uno a uno all'indice generale."
+        },
+        {
+          "question": "Che cosa rivela il divario fra inflazione generale al 5,4% e inflazione di fondo al 2,0%?",
+          "answer": "L'indice di fondo esclude energia e alimentari freschi, due componenti soggette a oscillazioni marcate. Il suo livello inferiore indica che gran parte dell'accelerazione generale è concentrata nelle componenti escluse; il passaggio del dato di fondo dall'1,6% al 2,0% mostra però rincari in crescita anche altrove."
+        }
+      ],
+      "impact": 4,
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Prezzi al consumo (dati provvisori) – Ottobre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/prezzi-al-consumo-dati-provvisori-ottobre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Inflazione: Istat stima +0,9% a ottobre, +5,4% su anno",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/inflazione-istat-stima-09-a-ottobre-54-su-anno-record-da-2023-rco-nRC_30102026_1107_345323665.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Italy inflation surges to 5.4% in October as energy costs bite",
+          "url": "https://www.euronews.com/2026/10/30/italy-inflation-surges-to-54-in-october-as-energy-costs-bite",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, l'inflazione ad ottobre sale al 5,4%. Il Pil è fermo nel terzo trimestre",
+          "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/30/istat-linflazione-ad-ottobre-sale-al-54i.-il-pil-e-fermo-nel-terzo-trimestre_18189111-ab4d-47c1-aa50-a880181f4b6b.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "docs/editorial-drafts/2026-10-31/assets/italy-inflation-oct30.svg",
+        "alt": "Illustrazione editoriale originale, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/italy-inflation-oct30.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "italy-inflation-oct30",
+      "rank": 2,
+      "category": "economy",
+      "title": "Italy's preliminary October inflation rises to 5.4%, driven largely by energy",
+      "dek": "Istat reports a 0.9% monthly rise and a 5.4% annual increase; core inflation is much lower at 2.0%.",
+      "summary": "In preliminary figures released on October 30, Italy's statistics agency Istat reported annual consumer-price inflation of 5.4%, up from 4.2% in September, and a 0.9% monthly increase. Energy accounts for much of the acceleration: the 59.5% rise in regulated energy is a category-specific figure, not the average rise in all prices. Final figures are scheduled for November 17.",
+      "body": [
+        "On Friday, October 30, 2026, Istat released its preliminary estimate of Italy's national consumer price index for the whole community, known as NIC, including tobacco. Prices were 0.9% higher than in September and 5.4% higher than in October 2025. The annual rate had been 4.2% in September, making the acceleration 1.2 percentage points. Monthly and yearly changes use different comparison periods and should not be added together. Radiocor and ANSA separately reported the release that day.",
+        "Energy provided the strongest push. According to Istat, annual inflation for regulated energy rose from 25.8% in September to 59.5% in October; the rate for unregulated energy increased from 22.5% to 29.4%. Unprocessed food inflation accelerated from 5.5% to 7.5%, and transport services from 1.6% to 3.1%. Each rate describes a component with its own weight in the consumer basket: the 59.5% figure does not mean the average household's overall cost of living rose by that amount.",
+        "Core inflation, which strips out energy and fresh food, increased from 1.6% to 2.0% year on year. The narrower basket of frequently purchased essentials rose from 1.5% to 2.5%. The gap between headline and core inflation illustrates the unusually large influence of energy on the overall index, but it does not mean other prices are unchanged: core inflation itself also accelerated. Interpreting the figures requires distinguishing volatile components from the broader trend across goods and services.",
+        "The figures were released on the same day that Istat reported no quarter-on-quarter growth in Italian GDP in the third quarter, intensifying attention on purchasing power and business costs. The NIC alone cannot tell us how much any particular household has lost: spending patterns, income, contracts and prices paid vary. October's figures remain provisional, and Istat has scheduled its next release for November 17, when the estimate may be confirmed or revised."
+      ],
+      "impactReason": "Rising energy and essential-goods prices affect households and businesses as stagnant GDP limits their ability to absorb costs.",
+      "tags": [
+        "inflation",
+        "Istat",
+        "energy"
+      ],
+      "facts": [
+        "On October 30 Istat estimated October NIC inflation at +0.9% month on month and +5.4% year on year, up from +4.2% annually in September.",
+        "Regulated energy inflation increased from +25.8% to +59.5% year on year; core inflation rose from +1.6% to +2.0%.",
+        "Istat scheduled the next data release for November 17, 2026."
+      ],
+      "perspectives": [
+        "Istat identifies energy prices as the main driver, with additional contributions from fresh food and transport services.",
+        "Euronews reports economists' concerns about weak growth alongside high inflation in the euro area."
+      ],
+      "unknowns": [
+        "Whether the preliminary figures will be revised in the final November 17 release.",
+        "How differences in household consumption baskets and energy contracts will amplify or soften the impact across income groups."
+      ],
+      "questions": [
+        {
+          "question": "Why does a 59.5% rise in regulated energy not mean Italy's overall inflation is 59.5%?",
+          "answer": "The 59.5% rate is the year-on-year change in one NIC basket component. The 5.4% headline rate combines energy, food, goods and services according to their respective weights, so a sharp rise in one category does not translate one-for-one into the total index."
+        },
+        {
+          "question": "What does the gap between 5.4% headline inflation and 2.0% core inflation tell us?",
+          "answer": "Core inflation excludes energy and fresh food, two particularly volatile categories. Its lower rate shows that much of the headline acceleration is concentrated in those excluded components, although core inflation's own increase from 1.6% to 2.0% shows price pressures also grew elsewhere."
+        }
+      ],
+      "impact": 4,
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Prezzi al consumo (dati provvisori) – Ottobre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/prezzi-al-consumo-dati-provvisori-ottobre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "Inflazione: Istat stima +0,9% a ottobre, +5,4% su anno",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/prima-pagina/dettaglio/inflazione-istat-stima-09-a-ottobre-54-su-anno-record-da-2023-rco-nRC_30102026_1107_345323665.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Euronews",
+          "title": "Italy inflation surges to 5.4% in October as energy costs bite",
+          "url": "https://www.euronews.com/2026/10/30/italy-inflation-surges-to-54-in-october-as-energy-costs-bite",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, l'inflazione ad ottobre sale al 5,4%. Il Pil è fermo nel terzo trimestre",
+          "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/30/istat-linflazione-ad-ottobre-sale-al-54i.-il-pil-e-fermo-nel-terzo-trimestre_18189111-ab4d-47c1-aa50-a880181f4b6b.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "docs/editorial-drafts/2026-10-31/assets/italy-inflation-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/italy-inflation-oct30.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  }
+}

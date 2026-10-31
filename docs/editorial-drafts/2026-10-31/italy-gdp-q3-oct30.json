@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "italy",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Complete day requires all 25 independently sourced stories, release JSON and CI",
+  "articles": {
+    "it": {
+      "id": "istat-gdp-q3-flat-oct30",
+      "rank": 3,
+      "category": "economy",
+      "impact": 3,
+      "title": "Pil italiano fermo nel terzo trimestre: +0,8% rispetto al 2025",
+      "dek": "La prima stima Istat registra crescita trimestrale nulla, con servizi e agricoltura in aumento e industria in calo.",
+      "summary": "La stima preliminare Istat del 30 ottobre segnala per luglio-settembre 2026 un PIL reale destagionalizzato invariato rispetto al trimestre precedente e superiore dello 0,8% a un anno prima. La crescita acquisita per l'intero 2026 è dello 0,8%, ipotesi contabile distinta dalla previsione governativa dell'1%.",
+      "body": [
+        "Il 30 ottobre 2026 Istat ha pubblicato la prima stima del prodotto interno lordo italiano del terzo trimestre, relativa a luglio-settembre. Il PIL, corretto per gli effetti di calendario e destagionalizzato, è rimasto invariato rispetto ad aprile-giugno. Nel confronto con lo stesso trimestre dell'anno precedente la variazione è invece positiva, pari allo 0,8%: un'economia può crescere sull'anno pur essendo ferma nell'ultimo trimestre.",
+        "La scomposizione preliminare dell'istituto indica un aumento del valore aggiunto dei servizi e dell'agricoltura, compensato da una riduzione nell'industria. Dal lato della domanda, la componente interna, comprese le scorte, ha fornito un contributo positivo, mentre quello della domanda estera netta è stato negativo. Questi sono contributi qualitativi della stima flash, non una misurazione dettagliata già definitiva di ogni ramo produttivo.",
+        "La crescita acquisita per il 2026 resta allo 0,8%: è il tasso annuo che risulterebbe se nel quarto trimestre l'attività restasse esattamente sul livello del terzo. Non è la stessa cosa di una previsione, perché gli ultimi tre mesi potrebbero registrare una variazione positiva o negativa. Repubblica ha confrontato il valore acquisito con l'1% contenuto nel quadro programmatico governativo, mostrando un margine che richiederebbe crescita aggiuntiva.",
+        "Istat segnala anche che il terzo trimestre ha avuto quattro giornate lavorative in più del secondo e una più del terzo trimestre 2025: da qui l'importanza degli aggiustamenti statistici esplicitati nel comunicato. Il dato è preliminare e i conti nazionali vengono normalmente rivisti man mano che arrivano informazioni più complete. L'assenza di crescita trimestrale non misura da sola salari, benessere familiare o occupazione, ma descrive il volume complessivo della produzione."
+      ],
+      "facts": [
+        "PIL del terzo trimestre 2026 invariato rispetto al trimestre precedente e +0,8% annuo secondo Istat.",
+        "Servizi e agricoltura registrano contributi positivi al valore aggiunto; industria negativa.",
+        "La crescita acquisita del PIL per il 2026 è dello 0,8%."
+      ],
+      "perspectives": [
+        "Istat definisce sostanzialmente stazionaria l'economia nel terzo trimestre.",
+        "Repubblica sottolinea lo scarto fra crescita acquisita allo 0,8% e obiettivo annuo governativo dell'1%."
+      ],
+      "unknowns": [
+        "L'entità di possibili revisioni della stima flash quando saranno disponibili dati più completi.",
+        "La variazione effettiva del quarto trimestre e quindi la crescita totale definitiva del 2026."
+      ],
+      "questions": [
+        {
+          "question": "Come può il PIL italiano restare fermo fra giugno e settembre e segnare comunque +0,8% annuo?",
+          "answer": "Il confronto trimestrale paragona luglio-settembre con aprile-giugno 2026; quello annuo con luglio-settembre 2025. Se l'economia aveva guadagnato terreno nei trimestri precedenti, può mantenere un livello più alto dell'anno scorso anche senza avanzare nell'ultimo trimestre."
+        },
+        {
+          "question": "Che cosa significa la crescita acquisita dello 0,8% indicata da Istat per il 2026?",
+          "answer": "È il tasso medio di crescita annua implicito nei dati già osservati assumendo che il PIL del quarto trimestre resti uguale a quello del terzo. Non è una previsione: per raggiungere l'1% ipotizzato dal governo servirebbe un andamento più forte nell'ultimo trimestre."
+        }
+      ],
+      "tags": [
+        "Istat",
+        "PIL",
+        "crescita"
+      ],
+      "impactReason": "La stagnazione trimestrale incide sul quadro economico e sulla capacità di raggiungere la crescita annua programmata.",
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Stima preliminare del Pil – III trimestre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/stima-preliminare-del-pil-iii-trimestre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "L’economia italiana si ferma: Pil a crescita zero nel terzo trimestre",
+          "url": "https://www.repubblica.it/economia/2026/10/30/news/istat_pil_terzo_trimestre_crescita_zero-425686535/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, l'inflazione ad ottobre sale al 5,4%. Il Pil è fermo nel terzo trimestre",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/pmi/2026/10/30/istat-linflazione-ad-ottobre-sale-al-54i.-il-pil-e-fermo-nel-terzo-trimestre_18189111-ab4d-47c1-aa50-a880181f4b6b.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-gdp-q3-oct30.svg",
+        "alt": "Illustrazione originale O: Italian GDP third-quarter flat growth, conceptual chart not measured data",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/italy-gdp-q3-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "istat-gdp-q3-flat-oct30",
+      "rank": 3,
+      "category": "economy",
+      "impact": 3,
+      "title": "Italy's economy stalls in the third quarter, with GDP up 0.8% year on year",
+      "dek": "Istat's initial estimate shows no quarterly expansion, as gains in services and agriculture offset industrial weakness.",
+      "summary": "Italy's preliminary GDP estimate released on October 30 shows seasonally adjusted real output unchanged in July–September 2026 versus the previous quarter, but 0.8% above a year earlier. Annual growth acquired so far is 0.8%, a statistical carry-over measure rather than the government's 1% forecast.",
+      "body": [
+        "On October 30, 2026, Istat published its preliminary estimate of Italian gross domestic product for July through September. After seasonal and working-day adjustments, output was unchanged compared with April–June. It was nonetheless 0.8% above the corresponding quarter of 2025: an economy can record positive year-on-year growth while making no additional progress in the latest quarter.",
+        "The initial breakdown indicates expanding value added in services and agriculture offset by declining industrial output. On the demand side, the domestic component, including inventories, made a positive contribution while net foreign demand detracted from growth. These are qualitative findings from the flash estimate, rather than a final detailed accounting for every industry and spending category.",
+        "Istat puts acquired growth for 2026 at 0.8%. This means the full-year growth rate that would result if GDP in the last quarter remained exactly at its third-quarter level. It is not a projection, since activity can still rise or fall in October–December. La Repubblica compared the statistical carry-over figure with the government's 1% growth assumption, illustrating the additional expansion that would be needed to close the gap.",
+        "The third quarter contained four more working days than the preceding quarter and one more than the same quarter of 2025, according to Istat. That is why its seasonal and calendar adjustments matter when interpreting headline rates. The release is provisional and national accounts may later be revised. Flat quarterly GDP alone cannot establish what happened to individual wages or household welfare, though it does describe aggregate production."
+      ],
+      "facts": [
+        "According to Istat, third-quarter 2026 GDP was flat quarter on quarter and 0.8% higher year on year.",
+        "Services and agriculture added to value added while industry declined.",
+        "Acquired full-year GDP growth for 2026 was 0.8%."
+      ],
+      "perspectives": [
+        "Istat characterized the third quarter as broadly stagnant.",
+        "La Repubblica highlighted the gap between 0.8% acquired growth and the government's 1% annual assumption."
+      ],
+      "unknowns": [
+        "The extent of any revision to the flash GDP estimate once more complete data arrive.",
+        "Actual fourth-quarter growth and the final full-year 2026 GDP outcome."
+      ],
+      "questions": [
+        {
+          "question": "How can Italy's GDP be flat in the third quarter yet 0.8% higher than a year earlier?",
+          "answer": "The quarterly rate compares July–September with April–June 2026, while the annual rate compares it with July–September 2025. Earlier gains can leave output above last year's level even if it does not increase further during the most recent quarter."
+        },
+        {
+          "question": "What does Istat's 0.8% acquired growth figure mean for full-year 2026 GDP?",
+          "answer": "It is the annual average growth implied by the available quarters if fourth-quarter output stays unchanged from the third quarter. It is not a forecast; meeting the government's 1% assumption would require stronger activity in the year's final quarter."
+        }
+      ],
+      "tags": [
+        "Istat",
+        "GDP",
+        "growth"
+      ],
+      "impactReason": "A stagnant quarter weakens the growth outlook and raises the effort needed to meet the government's full-year assumption.",
+      "sources": [
+        {
+          "outlet": "Istat",
+          "title": "Stima preliminare del Pil – III trimestre 2026",
+          "url": "https://www.istat.it/comunicato-stampa/stima-preliminare-del-pil-iii-trimestre-2026/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "L’economia italiana si ferma: Pil a crescita zero nel terzo trimestre",
+          "url": "https://www.repubblica.it/economia/2026/10/30/news/istat_pil_terzo_trimestre_crescita_zero-425686535/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Istat, l'inflazione ad ottobre sale al 5,4%. Il Pil è fermo nel terzo trimestre",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/pmi/2026/10/30/istat-linflazione-ad-ottobre-sale-al-54i.-il-pil-e-fermo-nel-terzo-trimestre_18189111-ab4d-47c1-aa50-a880181f4b6b.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/italy-gdp-q3-oct30.svg",
+        "alt": "Original O illustration: Italian GDP third-quarter flat growth, conceptual chart not measured data",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/italy-gdp-q3-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}

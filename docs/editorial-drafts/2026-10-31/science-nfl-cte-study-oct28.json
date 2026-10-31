@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "science",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "All desks must reach 25 verified unique stories before CI and publication",
+  "articles": {
+    "it": {
+      "id": "nfl-cte-bias-adjusted-prevalence-oct28",
+      "rank": 3,
+      "category": "society",
+      "impact": 3,
+      "title": "CTE e NFL, studio stima il 74,5% fra gli ex giocatori morti dal 2008 al 2023",
+      "dek": "La correzione del bias delle donazioni cerebrali riduce la percentuale osservata nelle autopsie; il risultato non vale per tutti i giocatori viventi.",
+      "summary": "Uno studio apparso il 28 ottobre su JAMA Network Open stima che il 74,5% degli ex giocatori NFL deceduti tra 2008 e 2023 avesse alterazioni neuropatologiche compatibili con encefalopatia traumatica cronica (CTE). La stima corregge la forte selezione dei cervelli donati per la ricerca, tra cui il 93,5% dei campioni valutabili risultava positivo. Non equivale alla prevalenza tra gli atleti vivi o a un conteggio di diagnosi cliniche in vita.",
+      "body": [
+        "Un gruppo guidato da Julia Gallini e colleghi della Boston University ha pubblicato il 28 ottobre 2026 su JAMA Network Open una stima corretta per bias di selezione dell'encefalopatia traumatica cronica, o CTE, negli ex giocatori professionisti di football americano. I ricercatori hanno considerato 2.362 persone che avevano giocato almeno una partita NFL e sono morte tra gennaio 2008 e dicembre 2023, utilizzando dati del registro dei decessi e della banca dei cervelli UNITE. Guardian, Los Angeles Times e ABC News hanno raccontato autonomamente lo studio e le sue implicazioni.",
+        "Fra i giocatori che avevano donato il cervello, 362 dei 387 campioni valutati mostravano CTE: il 93,5%. Il gruppo ha riconosciuto che chi dona il cervello, spesso dopo sintomi o preoccupazioni dei familiari, non rappresenta casualmente tutti i giocatori deceduti. Mediante un modello che stima la maggiore probabilità di donazione in presenza di problemi cognitivi, gli autori hanno corretto la percentuale al 74,5%, con intervallo di confidenza al 95% tra 69,6% e 78,3%. Una diversa analisi prudenziale ha dato un limite inferiore stimato del 63,7%.",
+        "La CTE è associata a ripetuti impatti alla testa e oggi si accerta in modo definitivo solo con un esame neuropatologico dopo il decesso. Lo studio ha inoltre stimato una storia di demenza per il 27,2% dei giocatori deceduti, ma non dimostra che tutte le persone con segni di CTE abbiano avuto demenza né che la CTE abbia causato il loro decesso. Una persona può presentare alterazioni precoci senza sintomi evidenti; la ricerca distingue dunque patologia al microscopio e manifestazioni cliniche.",
+        "La popolazione considerata è una coorte di ex professionisti deceduti in un preciso periodo, non un campione casuale di atleti in attività, giocatori amatoriali o di tutte le persone esposte a impatti ripetuti. La correzione statistica dipende anche dalle ipotesi sui fattori che portano a donare il cervello, e non annulla ogni possibile distorsione. I risultati rafforzano l'urgenza della prevenzione degli impatti alla testa e di studi longitudinali, senza consentire diagnosi individuali o previsioni definitive sull'evoluzione neurologica di un giocatore oggi vivo."
+      ],
+      "facts": [
+        "La ricerca analizza 2.362 ex giocatori NFL morti nel 2008–2023.",
+        "CTE documentata in 362/387 cervelli di donatori valutabili, pari al 93,5%.",
+        "Prevalenza corretta per selezione stimata 74,5%, con intervallo 95% 69,6–78,3%; storia di demenza stimata 27,2%."
+      ],
+      "perspectives": [
+        "Gli autori ritengono che la donazione selettiva gonfi la stima grezza, ma non spieghi l'intera frequenza della patologia.",
+        "Los Angeles Times e Guardian evidenziano l'utilità per la prevenzione, ricordando che la diagnosi definitiva di CTE è post-mortem."
+      ],
+      "unknowns": [
+        "La prevalenza di CTE fra gli ex atleti ancora vivi e fra i giocatori non professionisti.",
+        "Il rapporto individuale tra alterazioni neuropatologiche, sintomi, demenza e causa del decesso."
+      ],
+      "questions": [
+        {
+          "question": "Come si passa dal 93,5% di CTE nei cervelli donati alla stima NFL del 74,5%?",
+          "answer": "I donatori non sono un campione casuale: famiglie preoccupate per disturbi neurologici possono essere più propense a donare. Gli autori hanno stimato statisticamente questo eccesso di probabilità di selezione usando anche i registri dei decessi e hanno ricalcolato la prevalenza per l'insieme dei 2.362 ex giocatori deceduti."
+        },
+        {
+          "question": "Perché la stima Gallini del 74,5% non permette di diagnosticare la CTE nei giocatori NFL viventi?",
+          "answer": "La CTE può essere confermata solo studiando il tessuto cerebrale dopo la morte; inoltre la coorte riguarda persone morte in uno specifico intervallo di 16 anni. La presenza di alterazioni non implica sempre sintomi o demenza, quindi non si può trasferire direttamente quel numero agli atleti vivi né dedurre la prognosi individuale."
+        }
+      ],
+      "tags": [
+        "CTE",
+        "NFL",
+        "neurologia"
+      ],
+      "impactReason": "La stima corretta riguarda possibili conseguenze neurologiche di ripetuti impatti nello sport e informa priorità di ricerca e prevenzione.",
+      "sources": [
+        {
+          "outlet": "JAMA Network Open",
+          "title": "Bias-Adjusted Prevalence of Chronic Traumatic Encephalopathy Among Deceased National Football League Players",
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855918",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "New study estimates 75% of deceased ex-NFL players had brain disease CTE",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Los Angeles Times",
+          "title": "Staggering 74.5% of NFL players who died from 2008 to 2023 likely had CTE, study finds",
+          "url": "https://www.latimes.com/sports/story/2026-10-29/nfl-players-died-15-year-span-75-percent-had-cte-study",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "New study estimates about 3 in 4 former NFL players had CTE",
+          "url": "https://abcnews.com/US/new-study-estimates-3-4-former-nfl-players/story?id=137631511",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "alt": "Illustrazione originale sul tema: CTE neuropathology and estimation methods, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "nfl-cte-bias-adjusted-prevalence-oct28",
+      "rank": 3,
+      "category": "society",
+      "impact": 3,
+      "title": "Study estimates CTE pathology in 74.5% of former NFL players who died in 2008–2023",
+      "dek": "Correcting for selective brain donation lowers the autopsy-only percentage; the estimate does not describe all living players.",
+      "summary": "An October 28 JAMA Network Open study estimates that 74.5% of former NFL players who died between 2008 and 2023 had chronic traumatic encephalopathy (CTE) neuropathology. The figure adjusts for selection bias in donated brains, where 93.5% of evaluable samples showed CTE. It is not the prevalence among living athletes and does not represent clinical diagnoses made while those individuals were alive.",
+      "body": [
+        "A team led by Julia Gallini and Boston University colleagues published an analysis of selection bias in chronic traumatic encephalopathy (CTE) research in JAMA Network Open on October 28, 2026. They examined 2,362 former professional American-football players who had competed in at least one NFL game and died between January 2008 and December 2023. The analysis combined records from the UNITE brain bank and national death records. The Guardian, Los Angeles Times and ABC News independently covered the paper and its significance.",
+        "Among brain donors, 362 of 387 assessable samples showed CTE neuropathology, or 93.5%. Families may be especially inclined to donate a brain when they have noticed cognitive problems or worry about damage from repeated head impacts. To address this bias, the researchers modeled the greater likelihood of donation among people with neurological concerns and estimated a population prevalence of 74.5%, with a 95% confidence interval from 69.6% to 78.3%. A conservative sensitivity analysis produced a lower estimated bound of 63.7%.",
+        "CTE is associated with repeated blows to the head and can currently be diagnosed definitively only by examining brain tissue after death. The researchers separately estimated that 27.2% of the deceased former players had a history of dementia during life. That does not establish that everyone with CTE pathology experienced dementia or that CTE caused each player's death. Some early-stage neuropathology may exist without obvious symptoms, making pathological evidence distinct from a person's clinical history.",
+        "The study population consisted of deceased former professionals over a defined period, not a random sample of active athletes, recreational players or everyone with repeated head-impact exposure. The adjustment relies on assumptions about why brains enter the research bank and cannot eliminate all uncertainty. The findings strengthen the case for protecting athletes from repeated impacts and for further longitudinal research, while providing no basis for diagnosing or predicting an individual living player's neurological future."
+      ],
+      "facts": [
+        "Researchers analyzed 2,362 former NFL players who died from 2008 through 2023.",
+        "CTE neuropathology appeared in 362 of 387 evaluable donated brains, or 93.5%.",
+        "The bias-adjusted estimate was 74.5% (95% CI 69.6–78.3%), with dementia history estimated at 27.2%."
+      ],
+      "perspectives": [
+        "The authors contend that selective donation inflates the raw autopsy rate but does not fully explain the observed burden.",
+        "The Guardian and Los Angeles Times emphasized implications for prevention while explaining the limits of postmortem diagnosis."
+      ],
+      "unknowns": [
+        "How common CTE is among former players who are still alive or among amateur athletes.",
+        "How strongly a person's brain pathology maps to clinical symptoms, dementia and their eventual cause of death."
+      ],
+      "questions": [
+        {
+          "question": "How did researchers move from 93.5% CTE in donated brains to a 74.5% NFL estimate?",
+          "answer": "Donors are not a random sample: families worried about neurological changes may be more likely to donate a brain. The researchers estimated that selection effect using death records and statistical modeling, then recalculated prevalence for the full cohort of 2,362 deceased former NFL players."
+        },
+        {
+          "question": "Why can't Gallini's 74.5% estimate diagnose CTE in living NFL players?",
+          "answer": "CTE is currently confirmed through postmortem brain examination, and the study covered people who died in a particular 16-year interval. Pathology also need not mean that a person experienced dementia or other symptoms, so the estimate cannot directly be applied to living athletes or used to predict individual outcomes."
+        }
+      ],
+      "tags": [
+        "CTE",
+        "NFL",
+        "neurology"
+      ],
+      "impactReason": "The adjusted estimate informs prevention and neurological health research related to repeated head impacts in professional sport.",
+      "sources": [
+        {
+          "outlet": "JAMA Network Open",
+          "title": "Bias-Adjusted Prevalence of Chronic Traumatic Encephalopathy Among Deceased National Football League Players",
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855918",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "New study estimates 75% of deceased ex-NFL players had brain disease CTE",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Los Angeles Times",
+          "title": "Staggering 74.5% of NFL players who died from 2008 to 2023 likely had CTE, study finds",
+          "url": "https://www.latimes.com/sports/story/2026-10-29/nfl-players-died-15-year-span-75-percent-had-cte-study",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "New study estimates about 3 in 4 former NFL players had CTE",
+          "url": "https://abcnews.com/US/new-study-estimates-3-4-former-nfl-players/story?id=137631511",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "alt": "Original illustration of: CTE neuropathology and estimation methods, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
