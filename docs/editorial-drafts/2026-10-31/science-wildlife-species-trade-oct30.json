@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "science",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Issue incomplete; do not merge until all 25 verified bilingual articles and CI pass",
+  "articles": {
+    "it": {
+      "id": "global-wildlife-trade-107356-species-oct30",
+      "rank": 2,
+      "category": "climate",
+      "impact": 3,
+      "title": "Commercio di fauna e flora, studio censisce almeno 107.356 specie coinvolte",
+      "dek": "L'analisi pubblicata su Science Advances trova oltre il doppio delle specie rispetto alle precedenti stime, ma denuncia grandi lacune nei registri.",
+      "summary": "Un lavoro pubblicato il 30 ottobre su Science Advances stima che almeno 107.356 specie di organismi selvatici siano oggetto di utilizzo e commercio, contro una precedente quantificazione di circa 50mila. La cifra riguarda il numero di specie, non quello degli animali o delle piante venduti, e comprende attività legali e illegali. La frammentazione dei dati limita la possibilità di misurare la sostenibilità degli scambi.",
+      "body": [
+        "Il 30 ottobre 2026 Science Advances ha pubblicato una ricognizione globale dei programmi di monitoraggio del prelievo e del commercio di specie selvatiche. Il gruppo guidato dalla ricercatrice Alice Hughes ha identificato almeno 107.356 specie coinvolte: più del doppio della stima di circa 50mila specie spesso usata nei riepiloghi internazionali. Il lavoro mette insieme registri che coprono settori diversi, tra cui animali, piante e funghi, e cerca di evidenziare quanto resta escluso dai sistemi di controllo più conosciuti.",
+        "La parola 'specie' è essenziale per interpretare il risultato. Centosettemila non indica il numero di esemplari commerciati, il volume economico degli scambi e nemmeno il numero di traffici illegali accertati. L'universo analizzato comprende legname, pesca, organismi ornamentali, medicinali, animali da compagnia e numerosi altri usi, sia leciti sia illeciti. Confondere la diversità biologica coinvolta con le quantità vendute produrrebbe un indicatore scorretto.",
+        "Il Guardian ha raccontato come mercati digitali e nuovi canali di vendita rendano più difficile osservare il commercio di specie poco monitorate. El País ha approfondito la varietà degli organismi interessati e l'esempio dei cavallucci marini. I ricercatori richiamano l'attenzione sulle banche dati nazionali: alcune specie non compaiono nei registri globali CITES, che riguardano soprattutto le forme di commercio sottoposte a specifici controlli internazionali.",
+        "La stima è un minimo documentato dall'incrocio delle fonti disponibili, non un censimento completo di ogni transazione. La mancanza di dati rappresentativi rende difficile valutare pressioni sulle popolazioni naturali e risultati delle politiche di conservazione. Lo studio chiede sistemi di rilevazione e condivisione più standardizzati; non dimostra che tutte le specie elencate siano minacciate o che ogni forma di utilizzo sia insostenibile."
+      ],
+      "facts": [
+        "Lo studio pubblicato il 30 ottobre su Science Advances identifica almeno 107.356 specie selvatiche usate o commerciate nel mondo.",
+        "La stima precedente di riferimento era circa 50.000 specie.",
+        "La copertura delle banche dati internazionali è incompleta per molte specie non soggette a controlli CITES."
+      ],
+      "perspectives": [
+        "Gli autori chiedono una raccolta sistematica di dati su specie e filiere che oggi sfuggono alla rendicontazione.",
+        "Il Guardian e El País sottolineano che il fenomeno comprende attività economiche legali e commercio illegale, con rischi di confusione statistica."
+      ],
+      "unknowns": [
+        "Il numero effettivo di specie non registrate nei sistemi esaminati.",
+        "Il livello di pressione sulle popolazioni naturali delle singole specie e la sostenibilità delle diverse filiere."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa rappresenta esattamente la cifra di 107.356 nello studio sul commercio di specie selvatiche?",
+          "answer": "È il numero minimo di specie diverse riscontrate come usate o scambiate nei programmi di monitoraggio confrontati dagli autori. Non indica quanti esemplari siano stati venduti: una specie trattata in pochi casi e una specie commercializzata in milioni di individui contribuiscono entrambe per un'unità al conteggio."
+        },
+        {
+          "question": "Perché le liste CITES non bastano a descrivere il commercio globale rilevato da Hughes e colleghi?",
+          "answer": "CITES registra specie soggette a specifiche regole del commercio internazionale, non tutti gli usi locali o gli scambi di ogni organismo selvatico. Incrociare banche dati settoriali e nazionali fa emergere molte specie assenti da quelle liste; per valutare la sostenibilità servono anche quantità, origini e andamenti delle popolazioni."
+        }
+      ],
+      "tags": [
+        "biodiversita",
+        "commercio",
+        "specie"
+      ],
+      "impactReason": "Il raddoppio del numero minimo di specie documentate evidenzia lacune mondiali nel monitoraggio del prelievo e della conservazione.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "The true scale of global wildlife trade is obscured by data gaps",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei3504",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+          "url": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "EL PAÍS",
+          "title": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
+          "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "alt": "Illustrazione originale sulla notizia: Wildlife biodiversity and the many species appearing in trade records",
+        "credit": "O / Oggettivizzatore — original illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "global-wildlife-trade-107356-species-oct30",
+      "rank": 2,
+      "category": "climate",
+      "impact": 3,
+      "title": "Wildlife trade study identifies at least 107,356 species in use or commerce",
+      "dek": "A Science Advances review counts more than twice the species in earlier estimates while revealing major gaps in trade databases.",
+      "summary": "A study published on October 30 in Science Advances estimates that at least 107,356 wild species are used or traded worldwide, compared with an earlier tally of about 50,000. The figure counts species, not individual animals or plants sold, and includes legal as well as illegal uses. Fragmented monitoring prevents a reliable overall assessment of the sustainability of these activities.",
+      "body": [
+        "On October 30, 2026 Science Advances published a global review of programmes tracking wildlife extraction, use and commerce. The researchers, led by Alice Hughes, identified at least 107,356 species in the available records, more than double the previous broad estimate of roughly 50,000. The team combined datasets covering different sectors, including animals, plants and fungi, aiming to reveal what established monitoring schemes fail to capture.",
+        "The word 'species' is crucial to understanding the result. The figure does not represent the number of animals sold, the value of trade or a count of proven illegal transactions. The scope includes timber, fisheries, medicinal and ornamental organisms, pets and many other uses, some legal and some illegal. Biological diversity involved in trade is a different measure from total numbers of individual organisms exchanged.",
+        "The Guardian reported how online markets and new distribution channels can make trade in poorly monitored species harder to observe. El País examined the wide range of organisms involved, including seahorses. The scientists emphasized the limitations of national and international databases: many species do not appear in the CITES international trade listings, which cover species under particular treaty controls rather than all wildlife uses.",
+        "The estimate is a documented floor assembled from available sources, not a census of every transaction. Without representative records, conservation agencies struggle to judge pressure on wild populations or the success of policy. The authors call for more standardized reporting and data sharing; their study does not show that every identified species is threatened or that every legal use is inherently unsustainable."
+      ],
+      "facts": [
+        "The October 30 Science Advances study documented at least 107,356 wild species in use or trade.",
+        "The earlier widely cited estimate stood at about 50,000 species.",
+        "International datasets lack comprehensive coverage of many species not listed under CITES."
+      ],
+      "perspectives": [
+        "The authors urge systematic collection of trade data outside the best-monitored markets.",
+        "The Guardian and El País emphasize that legal economic activity and illegal wildlife trade must not be conflated."
+      ],
+      "unknowns": [
+        "The number of additional species absent from the databases reviewed.",
+        "How trade volumes affect individual wild populations and which supply chains are sustainable."
+      ],
+      "questions": [
+        {
+          "question": "What exactly does the number 107,356 measure in the global wildlife-trade study?",
+          "answer": "It is a minimum count of distinct wild species identified as used or traded in the monitoring datasets combined by the researchers. It is not the number of specimens sold: a rarely traded species and one sold in millions of individuals each add one to the species total."
+        },
+        {
+          "question": "Why do CITES listings alone miss much of the wildlife trade described by Hughes and colleagues?",
+          "answer": "CITES focuses on species subject to particular international trade controls; it does not enumerate every domestic use or exchange of wild organisms. Combining national and sectoral records therefore reveals species beyond those listings, while evaluating sustainability additionally requires volumes, origins and population trends."
+        }
+      ],
+      "tags": [
+        "biodiversity",
+        "trade",
+        "species"
+      ],
+      "impactReason": "The much larger documented species count exposes worldwide weaknesses in monitoring extraction, commerce and conservation.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "The true scale of global wildlife trade is obscured by data gaps",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei3504",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+          "url": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "EL PAÍS",
+          "title": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
+          "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "alt": "Original illustration about: Wildlife biodiversity and the many species appearing in trade records",
+        "credit": "O / Oggettivizzatore — original illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
