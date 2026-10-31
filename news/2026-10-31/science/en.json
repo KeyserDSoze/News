@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-31",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-10-31T09:24:33+01:00",
+  "editorialNote": "Science, 31 October 2026. Original research dates, statistical uncertainty and differences between observed evidence and interpretation are disclosed.",
+  "articles": [
+    {
+      "id": "science-pompeii-cupboard-oct29",
+      "rank": 1,
+      "category": "society",
+      "title": "Pompeii cupboard with a crepundia necklace and 38 coins reveals traces of life before the eruption",
+      "dek": "The archaeological park documents finds from a house on Via dell'Abbondanza: the objects suggest domestic and perhaps commercial uses, not a certain identity for the residents.",
+      "summary": "On October 29, the Pompeii Archaeological Park documented a cupboard reconstructed from excavation traces in Regio IX, containing grooming objects, lead weights, 38 bronze coins and a necklace of at least 24 charms known as crepundia. The finds illuminate everyday practices before the eruption of AD 79, but cannot securely identify the household or prove the occupants' activities.",
+      "body": [
+        "On October 29, 2026, the Pompeii Archaeological Park published an account of excavations at a house in insula 11 of Regio IX, facing Via dell'Abbondanza. Archaeologists identified an armarium, a wooden cupboard whose form can be reconstructed from the position and traces of elements preserved beneath deposits from Mount Vesuvius's eruption in AD 79. This is not an intact cupboard simply lifted out of the ground: it is the archaeological context that allows researchers to infer its structure and contents.",
+        "Inside were tweezers and a tool used to prepare pigments, a glass perfume or ointment bottle, an incense burner and a bronze lamp. Alongside vessels and cooking pots made from several materials, excavators found lead weights kept in a small wooden box and 38 bronze coins. The weights are consistent with selling or measuring goods, but finding them does not automatically establish that the room was a shop: the same objects could be stored and used in different settings.",
+        "A particularly revealing find is a necklace made up of at least 24 small suspended charms fashioned from faience, bone, glass paste and rock crystal. They depict deities including Bes and Mercury, body parts and plant symbols. Archaeologists classify them as crepundia, objects often associated with childhood: the sounds made by moving charms, together with their sentimental or protective significance, help explain their use. Their presence does not prove a child lived in the house at the time of the eruption, since such objects could also be kept as mementos.",
+        "The house had traditionally been associated with Cornelius Maximus through inscriptions known from earlier work, but park director Gabriel Zuchtriegel and the archaeological team distinguish that historical attribution from the identity of the people who kept these possessions. Coins and personal objects left behind may suggest a hurried departure, but cannot prove one. The position, materials and associations of the finds instead support testable interpretations of daily life, complementing Pompeii's famous murals with evidence of work, grooming and family memory."
+      ],
+      "impactReason": "The archaeological context expands knowledge of everyday practices, trade and personal belongings in first-century Pompeii.",
+      "tags": [
+        "Pompeii",
+        "archaeology",
+        "Vesuvius"
+      ],
+      "facts": [
+        "On October 29, 2026, the archaeological park published the excavation report on an armarium in Regio IX, insula 11.",
+        "The context includes at least 24 crepundia charms, lead weights and 38 bronze coins.",
+        "The park considers commercial activity possible but does not firmly identify the owner or specific uses."
+      ],
+      "perspectives": [
+        "The archaeological park treats the combined finds as evidence for reconstructing daily routines and personal memory.",
+        "Director Gabriel Zuchtriegel interprets the belongings left in place as a possible sign of a hurried departure."
+      ],
+      "unknowns": [
+        "Who exactly lived in the house and owned each object.",
+        "Whether the weights served commercial activity in the house and why the money was not retrieved."
+      ],
+      "questions": [
+        {
+          "question": "How would the crepundia found in the Pompeii cupboard have worked?",
+          "answer": "They were small perforated charms suspended from a necklace, often associated with children. The pieces could rattle as the wearer moved, while figures such as Bes and Mercury carried sentimental and protective meanings; the necklace might also be kept beyond childhood."
+        },
+        {
+          "question": "What kind of activity do the lead weights and 38 coins suggest when found together?",
+          "answer": "Weights are compatible with measuring goods, and the coins show that money was stored in the cupboard. Together they make an economic or commercial use of the space plausible, but they are not sales records or, on their own, proof of a resident's occupation."
+        }
+      ],
+      "impact": 2.5,
+      "sources": [
+        {
+          "outlet": "Parco Archeologico di Pompei",
+          "title": "Lo scavo di una domus nell'insula IX 11: il rinvenimento di un armarium con crepundia",
+          "url": "https://pompeiisites.org/e-journal-degli-scavi-di-pompei/lo-scavo-di-una-domus-nellinsula-ix-11-il-rinvenimento-di-un-armarium-con-crepundia/",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Pompeii cupboard opens window onto life before Vesuvius erupted",
+          "url": "https://www.reuters.com/lifestyle/pompeii-cupboard-opens-window-onto-life-before-vesuvius-erupted-2026-10-29/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Perfume bottle and child's necklace among treasures found in Pompeii wardrobe",
+          "url": "https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Scoperto a Pompei l'armadio di una donna, all'interno vasi, collane e monete",
+          "url": "https://www.ansa.it/amp/campania/notizie/2026/10/29/scoperto-a-pompei-larmadio-di-una-donna-allinterno-vasi-collane-e-monete_692f243b-2ce5-4640-85eb-a9b789e0d59b.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "alt": "Original editorial illustration, not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-pompeii-cupboard-oct29.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "global-wildlife-trade-107356-species-oct30",
+      "rank": 2,
+      "category": "climate",
+      "impact": 3,
+      "title": "Wildlife trade study identifies at least 107,356 species in use or commerce",
+      "dek": "A Science Advances review counts more than twice the species in earlier estimates while revealing major gaps in trade databases.",
+      "summary": "A study published on October 30 in Science Advances estimates that at least 107,356 wild species are used or traded worldwide, compared with an earlier tally of about 50,000. The figure counts species, not individual animals or plants sold, and includes legal as well as illegal uses. Fragmented monitoring prevents a reliable overall assessment of the sustainability of these activities.",
+      "body": [
+        "On October 30, 2026 Science Advances published a global review of programmes tracking wildlife extraction, use and commerce. The researchers, led by Alice Hughes, identified at least 107,356 species in the available records, more than double the previous broad estimate of roughly 50,000. The team combined datasets covering different sectors, including animals, plants and fungi, aiming to reveal what established monitoring schemes fail to capture.",
+        "The word 'species' is crucial to understanding the result. The figure does not represent the number of animals sold, the value of trade or a count of proven illegal transactions. The scope includes timber, fisheries, medicinal and ornamental organisms, pets and many other uses, some legal and some illegal. Biological diversity involved in trade is a different measure from total numbers of individual organisms exchanged.",
+        "The Guardian reported how online markets and new distribution channels can make trade in poorly monitored species harder to observe. El País examined the wide range of organisms involved, including seahorses. The scientists emphasized the limitations of national and international databases: many species do not appear in the CITES international trade listings, which cover species under particular treaty controls rather than all wildlife uses.",
+        "The estimate is a documented floor assembled from available sources, not a census of every transaction. Without representative records, conservation agencies struggle to judge pressure on wild populations or the success of policy. The authors call for more standardized reporting and data sharing; their study does not show that every identified species is threatened or that every legal use is inherently unsustainable."
+      ],
+      "facts": [
+        "The October 30 Science Advances study documented at least 107,356 wild species in use or trade.",
+        "The earlier widely cited estimate stood at about 50,000 species.",
+        "International datasets lack comprehensive coverage of many species not listed under CITES."
+      ],
+      "perspectives": [
+        "The authors urge systematic collection of trade data outside the best-monitored markets.",
+        "The Guardian and El País emphasize that legal economic activity and illegal wildlife trade must not be conflated."
+      ],
+      "unknowns": [
+        "The number of additional species absent from the databases reviewed.",
+        "How trade volumes affect individual wild populations and which supply chains are sustainable."
+      ],
+      "questions": [
+        {
+          "question": "What exactly does the number 107,356 measure in the global wildlife-trade study?",
+          "answer": "It is a minimum count of distinct wild species identified as used or traded in the monitoring datasets combined by the researchers. It is not the number of specimens sold: a rarely traded species and one sold in millions of individuals each add one to the species total."
+        },
+        {
+          "question": "Why do CITES listings alone miss much of the wildlife trade described by Hughes and colleagues?",
+          "answer": "CITES focuses on species subject to particular international trade controls; it does not enumerate every domestic use or exchange of wild organisms. Combining national and sectoral records therefore reveals species beyond those listings, while evaluating sustainability additionally requires volumes, origins and population trends."
+        }
+      ],
+      "tags": [
+        "biodiversity",
+        "trade",
+        "species"
+      ],
+      "impactReason": "The much larger documented species count exposes worldwide weaknesses in monitoring extraction, commerce and conservation.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "The true scale of global wildlife trade is obscured by data gaps",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei3504",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+          "url": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "EL PAÍS",
+          "title": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
+          "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "alt": "Original illustration about: Wildlife biodiversity and the many species appearing in trade records",
+        "credit": "O / Oggettivizzatore — original illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/wildlife-trade-species-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "nfl-cte-bias-adjusted-prevalence-oct28",
+      "rank": 3,
+      "category": "society",
+      "impact": 3,
+      "title": "Study estimates CTE pathology in 74.5% of former NFL players who died in 2008–2023",
+      "dek": "Correcting for selective brain donation lowers the autopsy-only percentage; the estimate does not describe all living players.",
+      "summary": "An October 28 JAMA Network Open study estimates that 74.5% of former NFL players who died between 2008 and 2023 had chronic traumatic encephalopathy (CTE) neuropathology. The figure adjusts for selection bias in donated brains, where 93.5% of evaluable samples showed CTE. It is not the prevalence among living athletes and does not represent clinical diagnoses made while those individuals were alive.",
+      "body": [
+        "A team led by Julia Gallini and Boston University colleagues published an analysis of selection bias in chronic traumatic encephalopathy (CTE) research in JAMA Network Open on October 28, 2026. They examined 2,362 former professional American-football players who had competed in at least one NFL game and died between January 2008 and December 2023. The analysis combined records from the UNITE brain bank and national death records. The Guardian, Los Angeles Times and ABC News independently covered the paper and its significance.",
+        "Among brain donors, 362 of 387 assessable samples showed CTE neuropathology, or 93.5%. Families may be especially inclined to donate a brain when they have noticed cognitive problems or worry about damage from repeated head impacts. To address this bias, the researchers modeled the greater likelihood of donation among people with neurological concerns and estimated a population prevalence of 74.5%, with a 95% confidence interval from 69.6% to 78.3%. A conservative sensitivity analysis produced a lower estimated bound of 63.7%.",
+        "CTE is associated with repeated blows to the head and can currently be diagnosed definitively only by examining brain tissue after death. The researchers separately estimated that 27.2% of the deceased former players had a history of dementia during life. That does not establish that everyone with CTE pathology experienced dementia or that CTE caused each player's death. Some early-stage neuropathology may exist without obvious symptoms, making pathological evidence distinct from a person's clinical history.",
+        "The study population consisted of deceased former professionals over a defined period, not a random sample of active athletes, recreational players or everyone with repeated head-impact exposure. The adjustment relies on assumptions about why brains enter the research bank and cannot eliminate all uncertainty. The findings strengthen the case for protecting athletes from repeated impacts and for further longitudinal research, while providing no basis for diagnosing or predicting an individual living player's neurological future."
+      ],
+      "facts": [
+        "Researchers analyzed 2,362 former NFL players who died from 2008 through 2023.",
+        "CTE neuropathology appeared in 362 of 387 evaluable donated brains, or 93.5%.",
+        "The bias-adjusted estimate was 74.5% (95% CI 69.6–78.3%), with dementia history estimated at 27.2%."
+      ],
+      "perspectives": [
+        "The authors contend that selective donation inflates the raw autopsy rate but does not fully explain the observed burden.",
+        "The Guardian and Los Angeles Times emphasized implications for prevention while explaining the limits of postmortem diagnosis."
+      ],
+      "unknowns": [
+        "How common CTE is among former players who are still alive or among amateur athletes.",
+        "How strongly a person's brain pathology maps to clinical symptoms, dementia and their eventual cause of death."
+      ],
+      "questions": [
+        {
+          "question": "How did researchers move from 93.5% CTE in donated brains to a 74.5% NFL estimate?",
+          "answer": "Donors are not a random sample: families worried about neurological changes may be more likely to donate a brain. The researchers estimated that selection effect using death records and statistical modeling, then recalculated prevalence for the full cohort of 2,362 deceased former NFL players."
+        },
+        {
+          "question": "Why can't Gallini's 74.5% estimate diagnose CTE in living NFL players?",
+          "answer": "CTE is currently confirmed through postmortem brain examination, and the study covered people who died in a particular 16-year interval. Pathology also need not mean that a person experienced dementia or other symptoms, so the estimate cannot directly be applied to living athletes or used to predict individual outcomes."
+        }
+      ],
+      "tags": [
+        "CTE",
+        "NFL",
+        "neurology"
+      ],
+      "impactReason": "The adjusted estimate informs prevention and neurological health research related to repeated head impacts in professional sport.",
+      "sources": [
+        {
+          "outlet": "JAMA Network Open",
+          "title": "Bias-Adjusted Prevalence of Chronic Traumatic Encephalopathy Among Deceased National Football League Players",
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855918",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "New study estimates 75% of deceased ex-NFL players had brain disease CTE",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/cte-nfl-brain-disease-research",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Los Angeles Times",
+          "title": "Staggering 74.5% of NFL players who died from 2008 to 2023 likely had CTE, study finds",
+          "url": "https://www.latimes.com/sports/story/2026-10-29/nfl-players-died-15-year-span-75-percent-had-cte-study",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "New study estimates about 3 in 4 former NFL players had CTE",
+          "url": "https://abcnews.com/US/new-study-estimates-3-4-former-nfl-players/story?id=137631511",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "alt": "Original illustration of: CTE neuropathology and estimation methods, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-nfl-cte-study-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "eaton-urban-wildfire-toxic-smoke-oct28",
+      "rank": 4,
+      "category": "climate",
+      "impact": 3,
+      "title": "Eaton Fire smoke study estimates seven million exposed to elevated lead levels",
+      "dek": "Caltech monitoring found much higher metal concentrations in the urban plume than in smoke mainly produced by burning vegetation.",
+      "summary": "A study published in Science Advances on October 28, 2026 compared smoke from California's January 2025 Eaton Fire with a mainly vegetation-fueled wildfire. The urban plume held over 50 times as much lead and three times as much arsenic. Researchers estimated that roughly seven million people experienced 24-hour lead concentrations above 80 times typical background levels. This is an estimate of environmental exposure, not a count of medical diagnoses.",
+      "body": [
+        "On October 28, 2026 researchers led by Caltech's Haroula Baliaka published a chemical analysis of the Eaton Fire smoke in Science Advances. The blaze swept through Altadena and other Los Angeles County neighborhoods in January 2025. Their work used hourly measurements of trace elements at a downwind station in the US ASCENT monitoring network. Eos, the Associated Press and the Washington Post independently reported the study, drawing on scientist interviews and outside expert commentary.",
+        "The team compared Eaton's urban smoke with emissions from a fire that burned mostly vegetation. As homes, vehicles and manufactured materials were consumed, the Eaton plume contained more than 50 times the lead, about seven times the halogens such as chlorine and bromine, and three times the arsenic. Changes in the measured potassium-to-lead ratio helped track the transition from structure-heavy burning to the more forest-dominated stage as the fire moved into the mountains.",
+        "Using monitoring measurements to model pollution transport and exposure, the authors estimated that during peak structure burning about seven million metropolitan Los Angeles residents may have experienced 24-hour lead concentrations exceeding 50 nanograms per cubic meter, more than 80 times usual background. The population estimate ranged from 4.3 million to 8 million. It does not imply that everyone inhaled the same personal dose or that millions developed clinically confirmed lead poisoning.",
+        "The work extends conventional wildfire-air monitoring beyond total particle mass to identify chemically distinct toxic constituents of urban fire smoke. The clinical effects of short-duration high exposures and the persistence of contaminants after the plume dispersed remain unresolved. The authors say air-quality forecasts and emergency warnings should better distinguish fires that burn through housing, vehicles and buildings from wildland vegetation fires."
+      ],
+      "facts": [
+        "The paper published October 28, 2026 examined the January 2025 Eaton Fire plume.",
+        "Urban smoke showed over 50 times as much lead, seven times the halogens and three times as much arsenic as vegetation-fire smoke.",
+        "Researchers modeled roughly seven million residents (range 4.3–8 million) experiencing 24-hour airborne lead exceeding 50 ng/m³."
+      ],
+      "perspectives": [
+        "The scientists argue that urban and wildland fires need different exposure models and emergency response assumptions.",
+        "Eos interviewed an outside atmospheric scientist who considered real-time measurement of urban smoke chemistry an important advance."
+      ],
+      "unknowns": [
+        "Long-term and individual health consequences of the estimated exposure.",
+        "How more geographically detailed monitoring would change estimates of affected populations."
+      ],
+      "questions": [
+        {
+          "question": "Why did the Eaton plume contain more than 50 times the lead found in the comparison wildfire smoke?",
+          "answer": "Along with vegetation, Eaton's urban phase burned houses, vehicles, electronics and construction materials that can release metals and halogens. The ASCENT station measured those elements directly, making it possible to distinguish structure-fire emissions from the later mostly vegetation-driven plume."
+        },
+        {
+          "question": "What does the estimate of seven million people exposed to lead in January 2025 actually mean?",
+          "answer": "It is a modeled count of residents who may have breathed air above the study's 24-hour concentration threshold during peak structural burning. It is not a measurement of each person's absorbed dose or a count of confirmed poisonings; the study did not establish individual health outcomes."
+        }
+      ],
+      "tags": [
+        "Eaton",
+        "lead",
+        "wildfires"
+      ],
+      "impactReason": "The study reveals metal-exposure risks from urban fires that can affect millions beyond the burned neighborhood.",
+      "sources": [
+        {
+          "outlet": "Science Advances",
+          "title": "Fire at the boundary: Airborne toxic metals from the 2025 Los Angeles urban firestorm",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aei4455",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        },
+        {
+          "outlet": "Eos / AGU",
+          "title": "Eaton Wildfire Exposed Millions to a “Cocktail of Chemicals”",
+          "url": "https://eos.org/articles/eaton-wildfire-exposed-millions-to-a-cocktail-of-chemicals",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Smoke from LA fires exposed millions of people to high levels of toxic heavy metals, study says",
+          "url": "https://apnews.com/article/b1d86fbb096940500a4c04c5d5bf82dd",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Washington Post",
+          "title": "L.A. fires exposed millions to lead levels way above normal, study says",
+          "url": "https://www.washingtonpost.com/climate-environment/2026/10/28/millions-were-exposed-lead-levels-way-above-normal-during-la-fires-study-says/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Caltech",
+          "title": "Chemical Data Collected from the Eaton Fire Plume Help Characterize Urban Fires",
+          "url": "https://www.caltech.edu/about/news/chemical-data-collected-from-the-eaton-fire-plume-help-characterize-urban-fires",
+          "publishedAt": "2026-10-28",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "alt": "Original illustration of: Urban wildfire smoke and atmospheric trace metals, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-eaton-smoke-metals-oct28.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "rubin-2026-ed138-dwarf-planet-candidate-oct27",
+      "rank": 5,
+      "category": "world",
+      "impact": 2.5,
+      "title": "Rubin Observatory spots 2026 ED138, a possible dwarf planet beyond Pluto",
+      "dek": "The object was identified on October 13 and announced on October 27, with size and shape still requiring confirmation.",
+      "summary": "The Vera C. Rubin Observatory has identified trans-Neptunian object 2026 ED138, a potential dwarf planet provisionally estimated at 600–1,500 kilometers in diameter. The signal was identified on October 13 and officially announced by the Minor Planet Center on October 27, 2026, with further reporting on October 28–30. It is a candidate, not an already confirmed sixth dwarf planet.",
+      "body": [
+        "On October 27, 2026 Chile's Vera C. Rubin Observatory and the International Astronomical Union's Minor Planet Center announced the identification of 2026 ED138, an icy body in the outer solar system. Astronomer Matthew Holman had first isolated its signal on the evening of October 13 while using software developed with Kevin Napier to sift through billions of detections made earlier in the year. Reuters, National Geographic, ANSA and Sky & Telescope followed with independent explanations of the finding and what remains to be verified.",
+        "The object orbits beyond Neptune and Pluto and was approximately 46 astronomical units from the Sun at the time of the announcement, or 46 times the Earth's average solar distance. Its observed brightness, distance and assumptions about surface reflectivity suggest a diameter of roughly 600–1,500 kilometers. That wide interval reflects the fact that measuring reflected sunlight does not directly reveal physical size: a smaller shiny body and a larger darker one can look similarly bright.",
+        "Dwarf planets orbit the Sun, have enough gravity to become nearly round, have not cleared their orbital neighborhoods and are not moons. ED138's estimated dimensions suggest it could be round, but independent observations, particularly at longer wavelengths, are needed to pin down its physical properties and composition. Sky & Telescope also highlighted how bright this object appears relative to many other cataloged trans-Neptunian bodies, making it a particularly interesting target for follow-up measurements.",
+        "The finding demonstrates Rubin's camera and search algorithms can detect extremely slow-moving objects against crowded star fields. Its planned ten-year repeated survey of the southern sky is expected to reveal many more distant bodies. For now ED138 is a dwarf-planet candidate rather than a confirmed addition to the five officially recognized dwarf planets: Ceres, Pluto, Haumea, Makemake and Eris."
+      ],
+      "facts": [
+        "Holman first identified the ED138 signal on October 13 and the official announcement followed October 27, 2026.",
+        "The provisional diameter range is 600–1,500 km, at a reported distance of about 46 AU from the Sun.",
+        "The dwarf-planet classification awaits additional physical observations."
+      ],
+      "perspectives": [
+        "Rubin researchers view ED138 as an early example of what the observatory's decade-long survey can reveal.",
+        "Sky & Telescope emphasizes the object's unusual brightness among trans-Neptunian finds and the need for more physical measurements."
+      ],
+      "unknowns": [
+        "ED138's true diameter, albedo, shape and surface composition.",
+        "Whether follow-up observations will establish the criteria for official dwarf-planet status."
+      ],
+      "questions": [
+        {
+          "question": "How did Rubin identify ED138 against such a crowded background of stars?",
+          "answer": "Holman's algorithm linked detections across images taken on different dates to find a faint object that moved slowly relative to the stellar background. Matching those positions allowed researchers to isolate ED138 from the field and work out its orbit."
+        },
+        {
+          "question": "Why is ED138's diameter still estimated as 600–1,500 km instead of a single precise number?",
+          "answer": "At that distance astronomers primarily measure reflected sunlight. Without a precise surface reflectivity, or albedo, the same brightness could correspond to a smaller reflective object or a larger darker one. Thermal and infrared follow-up can narrow the estimate and test whether gravity makes it nearly spherical."
+        }
+      ],
+      "tags": [
+        "Rubin",
+        "ED138",
+        "astronomy"
+      ],
+      "impactReason": "The candidate expands knowledge of the outer solar system and demonstrates the discovery potential of Rubin's new sky survey.",
+      "sources": [
+        {
+          "outlet": "NSF / Rubin Observatory",
+          "title": "New dwarf planet candidate discovered by NSF–DOE Rubin Observatory",
+          "url": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Rubin Observatory",
+          "title": "NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
+          "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Possible new dwarf planet identified orbiting beyond Pluto",
+          "url": "https://www.reuters.com/science/possible-new-dwarf-planet-identified-orbiting-beyond-pluto-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "National Geographic",
+          "title": "Astronomers Just Discovered a New Hidden World Beyond Neptune",
+          "url": "https://www.nationalgeographic.com/science/article/new-dwarf-planet-rubin-pluto",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky & Telescope",
+          "title": "Possible New Dwarf Planet in the Solar System",
+          "url": "https://skyandtelescope.org/astronomy-news/possible-new-dwarf-planet-in-the-solar-system/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Il Sistema Solare ha un nuovo possibile pianeta nano, è oltre Plutone",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/29/il-sistema-solare-ha-un-nuovo-possibile-pianeta-nano-e-oltre-plutone_dfa4a02c-23e6-462a-bc41-aa9f2de662e7.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "alt": "Original illustration of: Distant dwarf planet candidate and orbital observation, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
