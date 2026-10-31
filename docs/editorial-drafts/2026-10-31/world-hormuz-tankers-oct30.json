@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Incomplete edition; do not publish unless 25 verified articles and all tests pass",
+  "articles": {
+    "it": {
+      "id": "world-hormuz-tankers-oct30",
+      "rank": 2,
+      "category": "politics",
+      "title": "Hormuz, attacchi e incendi a petroliere: verifiche in corso sui diversi episodi",
+      "dek": "L'agenzia britannica UKMTO conferma segnalazioni di navi colpite; l'Iran rivendica quattro incendi, ma gli episodi e le cause non sono tutti indipendentemente accertati.",
+      "summary": "Il 30 ottobre le Guardie rivoluzionarie iraniane hanno affermato che quattro petroliere erano state colpite da mine nello Stretto di Hormuz. Reuters e AP non hanno verificato autonomamente quel totale. L'UKMTO britannica ha pubblicato distinte segnalazioni di incidenti il 29 e il 30 ottobre, compresi proiettili non identificati e un incendio a bordo: attribuzioni e possibili sovrapposizioni restano da chiarire.",
+      "impact": 3.5,
+      "impactReason": "Attacchi e incidenti in una strozzatura energetica strategica minacciano equipaggi e traffici, ma l'ampiezza delle rivendicazioni non è accertata.",
+      "tags": [
+        "Hormuz",
+        "petroliere",
+        "sicurezza"
+      ],
+      "body": [
+        "Fra giovedì 29 e venerdì 30 ottobre 2026 diversi equipaggi di petroliere hanno riferito incidenti nello Stretto di Hormuz, la rotta fra il Golfo Persico e il Golfo di Oman attraverso cui transita una parte strategica del petrolio mondiale. L'organizzazione britannica UK Maritime Trade Operations ha registrato più avvisi numerati, descrivendo navi colpite da proiettili di origine sconosciuta, un incendio e accertamenti ancora in corso. Gli avvisi non equivalgono a una ricostruzione conclusiva delle responsabilità.",
+        "Il 30 ottobre la Marina delle Guardie rivoluzionarie iraniane ha dichiarato tramite media statali che quattro petroliere erano esplose o avevano preso fuoco percorrendo rotte definite non autorizzate; per almeno una è stata indicata una mina, con un carico riferito di oltre due milioni di barili. Reuters e Associated Press hanno riportato la dichiarazione specificando di non poterla verificare. Non è possibile sommare automaticamente le quattro navi rivendicate agli incidenti già censiti dall'UKMTO: potrebbero esservi sovrapposizioni non chiarite.",
+        "In un caso datato 29 ottobre, l'UKMTO ha segnalato una nave in fiamme circa 25 miglia nautiche a nord-est di Khasab, in Oman. Un aggiornamento del 30 ottobre ha riferito di una petroliera colpita a sinistra da un oggetto non identificato, con equipaggio salvo e nessun impatto ambientale noto. Reuters ha raccolto da fonti marittime la descrizione di mine magnetiche applicate da una piccola imbarcazione a una petroliera, ma la modalità dell'attacco e la sua attribuzione richiedono ulteriori riscontri indipendenti.",
+        "La serie di segnalazioni ha rilievo per la sicurezza delle persone imbarcate, i premi assicurativi e l'affidabilità delle rotte commerciali, senza dimostrare da sola un'interruzione totale del traffico petrolifero. Le autorità omanite hanno comunicato l'evacuazione di un equipaggio da una nave in fiamme. La priorità per una ricostruzione affidabile è distinguere ciascun luogo, orario e scafo, separando gli avvisi operativi dalle rivendicazioni di una parte combattente."
+      ],
+      "facts": [
+        "L'UKMTO ha diffuso avvisi su incidenti nello Stretto il 29 e il 30 ottobre 2026.",
+        "L'IRGC ha rivendicato quattro petroliere coinvolte, un totale non indipendentemente confermato.",
+        "In uno degli avvisi l'equipaggio risultava al sicuro e non era segnalato impatto ambientale."
+      ],
+      "perspectives": [
+        "La Marina iraniana sostiene che le petroliere hanno ignorato rotte imposte; la sua versione non è una prova indipendente.",
+        "Le autorità marittime britanniche raccomandano cautela e segnalazioni, evitando attribuzioni definitive negli avvisi."
+      ],
+      "unknowns": [
+        "Quali incidenti UKMTO riguardino navi già comprese nelle dichiarazioni iraniane.",
+        "L'identità degli autori di ciascun attacco e il bilancio finale di danni e inquinamento."
+      ],
+      "questions": [
+        {
+          "question": "Perché le quattro petroliere rivendicate dall'IRGC non vanno aggiunte al numero di incidenti UKMTO?",
+          "answer": "I comunicati provengono da soggetti diversi, con orari, posizioni e identificativi delle navi non sempre completi. Alcuni avvisi potrebbero descrivere gli stessi episodi della dichiarazione iraniana; senza riscontri su ciascuno scafo, la somma conterebbe potenzialmente più volte una sola nave."
+        },
+        {
+          "question": "Che cosa conferma l'UKMTO sugli incendi a Hormuz e che cosa invece resta una dichiarazione di parte?",
+          "answer": "L'agenzia britannica registra rapporti operativi di proiettili non identificati e incendi su navi in transito, precisando lo stato noto degli equipaggi. L'affermazione che tutte e quattro le petroliere abbiano urtato mine perché su rotte non autorizzate viene dalle autorità iraniane e non costituisce una conclusione dell'UKMTO."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
+          "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-two-tankers-stopped-south-hormuz-after-incidents-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+          "url": "https://apnews.com/article/7f7f34ceb62f294a450e48ace0bd56e0",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UK Maritime Trade Operations",
+          "title": "Maritime security incident notices 186–189 in the Strait of Hormuz, 29–30 October",
+          "url": "https://www.ukmto.org/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-hormuz-tankers-oct30.svg",
+        "alt": "O original conceptual illustration: world hormuz tankers oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-hormuz-tankers-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-hormuz-tankers-oct30",
+      "rank": 2,
+      "category": "politics",
+      "title": "Hormuz tanker attacks and fires reported as investigators untangle separate incidents",
+      "dek": "UK maritime authorities logged ships struck in the strait; Iran claimed four tanker fires, but the total and causes have not all been independently established.",
+      "summary": "On October 30 Iran's Revolutionary Guards claimed four tankers had struck mines and caught fire in the Strait of Hormuz, a number Reuters and AP could not independently confirm. Britain's UKMTO issued separate notices on October 29 and 30 involving unidentified projectiles and an onboard fire. Responsibility and potential overlap between reports remain uncertain.",
+      "impact": 3.5,
+      "impactReason": "Incidents in a major oil transit chokepoint raise risks for crews and shipping, though the scale and attribution of claims remain contested.",
+      "tags": [
+        "Hormuz",
+        "tankers",
+        "shipping"
+      ],
+      "body": [
+        "Between Thursday October 29 and Friday October 30, 2026, several tanker crews reported incidents in the Strait of Hormuz, the passage linking the Persian Gulf and Gulf of Oman through which vital oil supplies travel. Britain's United Kingdom Maritime Trade Operations agency issued multiple numbered security notices describing vessels struck by objects of unknown origin, an onboard fire and investigations still under way. These operational alerts did not establish definitive responsibility.",
+        "On October 30 Iran's Revolutionary Guard naval forces said through state media that four oil tankers had exploded or caught fire after taking routes Tehran considered unauthorized. The Guards alleged that at least one vessel carrying over two million barrels struck a naval mine. Reuters and the Associated Press reported the claim while explicitly stating that they could not verify the full account. The four vessels should not simply be added to incidents already recorded by UKMTO because the lists may overlap.",
+        "One UKMTO report dated October 29 concerned a vessel burning around 25 nautical miles northeast of Khasab, Oman. An October 30 alert described a tanker struck on the port side by an unidentified object, with its crew safe and no known environmental damage. Maritime security sources told Reuters that limpet mines attached by a small boat had struck a tanker, but how that account maps to individual UKMTO reports and who was responsible remain subjects for verification.",
+        "The incidents matter for seafarer safety, insurance rates and commercial route reliability, but do not by themselves prove an absolute halt to oil shipments. Omani officials separately reported evacuating crew from a burning tanker. Any reliable overall toll needs to identify the ships, times and locations case by case, separating operational reports from claims made by a party to the conflict."
+      ],
+      "facts": [
+        "UKMTO logged maritime security incidents in the strait on October 29 and 30, 2026.",
+        "Iran's IRGC claimed four tankers were involved, a total not independently verified.",
+        "One UKMTO notice reported a safe crew and no known environmental impact."
+      ],
+      "perspectives": [
+        "Iran's naval forces assert that tankers defied designated routes, an allegation not independently established.",
+        "British maritime authorities advise caution and further reporting without making definitive attributions in their alerts."
+      ],
+      "unknowns": [
+        "Which UKMTO cases overlap with tankers described in Iran's statements.",
+        "The perpetrators of each incident and eventual full damage and pollution assessments."
+      ],
+      "questions": [
+        {
+          "question": "Why can't the IRGC's four claimed tankers be added directly to the UKMTO incident count?",
+          "answer": "The sources report different sets of positions, times and sometimes incomplete vessel identifiers. A UKMTO alert may describe a tanker already included in Iran's claim, so adding totals without matching ships could count a single incident twice."
+        },
+        {
+          "question": "What does UKMTO establish about Hormuz tanker fires, as opposed to Iran's allegations?",
+          "answer": "UKMTO records operational reports of ships struck by unidentified projectiles or suffering fires, with available details about crews. Iran's account that four tankers were mined for using unauthorized routes remains a claim by one party, not UKMTO's established conclusion."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
+          "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-two-tankers-stopped-south-hormuz-after-incidents-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+          "url": "https://apnews.com/article/7f7f34ceb62f294a450e48ace0bd56e0",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "UK Maritime Trade Operations",
+          "title": "Maritime security incident notices 186–189 in the Strait of Hormuz, 29–30 October",
+          "url": "https://www.ukmto.org/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-hormuz-tankers-oct30.svg",
+        "alt": "O original conceptual illustration: world hormuz tankers oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-hormuz-tankers-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
