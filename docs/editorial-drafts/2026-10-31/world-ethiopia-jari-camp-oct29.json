@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "All desks must pass fact checks, bilingual Q&A audits and CI before any release",
+  "articles": {
+    "it": {
+      "id": "world-ethiopia-jari-camp-oct29",
+      "rank": 5,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "Le vittime civili in un campo per sfollati aggiungono urgenza umanitaria a una guerra regionale le cui responsabilità per l'attacco non sono chiare.",
+      "title": "Etiopia, droni colpiscono il campo sfollati Jari 2: morti anche bambini",
+      "dek": "Il 29 ottobre più esplosioni nella regione Amhara; Reuters, AFP e Anadolu riportano bilanci diversi e non attribuiscono con certezza l'attacco.",
+      "summary": "Il 29 ottobre 2026 esplosioni attribuite a droni hanno colpito il campo di sfollati Jari 2, presso Hayq, nell'Amhara etiope. Reuters ha documentato almeno 15 morti, AFP ha raccolto testimonianze su almeno 14 persone sepolte più due decessi in ospedale, mentre Anadolu riferisce almeno 16 vittime. Il responsabile non è stato accertato e i numeri non vanno sommati.",
+      "body": [
+        "Una serie di esplosioni si è verificata giovedì 29 ottobre 2026 nel sito per persone sfollate Jari 2, noto anche come Turkey Camp, vicino a Hayq nella regione Amhara dell'Etiopia. La notizia è stata approfondita il giorno successivo da Reuters, Agence France-Presse e Anadolu con interviste a residenti e soccorritori. Il campo ospitava oltre 1.700 persone secondo Reuters e più di 1.800 secondo Anadolu, fuggite da violenze precedenti soprattutto nell'Oromia: anche questo dato varia con la fonte e il momento della rilevazione.",
+        "Reuters ha parlato con persone impegnate nel recupero dei corpi che hanno riferito almeno 15 morti, tra cui cinque bambini, dopo l'uccisione di tredici persone nel campo e la morte di altre due nell'ospedale di Hayq. Testimoni interpellati da AFP hanno ricordato quattro attacchi successivi e almeno quattordici persone già sepolte, con altre due decedute durante le cure. Anadolu, basandosi anche sui rilevamenti di monitor di conflitto, ha indicato almeno sedici morti e ventidue feriti. Non si tratta di tre attacchi differenti, ma di ricostruzioni parziali dello stesso episodio.",
+        "Le testimonianze descrivono danni a ripari e famiglie costrette a spostarsi nuovamente; Reuters ha riferito che alcuni superstiti erano ospitati in una scuola. La presenza di gruppi armati Fano nelle aree circostanti è stata segnalata da residenti, ma questo non chiarisce chi abbia lanciato i droni. Né Reuters né AFP hanno identificato un responsabile certo e un portavoce dell'esercito etiope non aveva risposto alle richieste di commento citate nelle prime cronache.",
+        "La regione Amhara è attraversata dal conflitto tra le autorità federali e formazioni armate, nel contesto di un più vasto deterioramento della sicurezza nel Corno d'Africa. Le persone sfollate erano già vulnerabili per l'instabilità, l'accesso limitato a cure e la carenza di servizi. Il bilancio può essere rivisto con accesso indipendente agli ospedali e al sito; nell'immediato, la certezza documentata è l'impatto grave sui civili, non una spiegazione accertata delle intenzioni dell'attacco."
+      ],
+      "facts": [
+        "Attacchi multipli hanno colpito il campo Jari 2 il 29 ottobre 2026, secondo tre agenzie di informazione indipendenti.",
+        "Le cronache riferiscono almeno 15–16 morti ma ricostruiscono il bilancio con fonti e momenti differenti.",
+        "I responsabili non sono stati identificati in modo verificabile nei primi resoconti."
+      ],
+      "perspectives": [
+        "Testimoni e soccorritori parlano di attacchi ripetuti sui ripari civili e di bambini tra le vittime.",
+        "Fonti di monitoraggio e agenzie descrivono il conflitto nell'Amhara, senza che il contesto equivalga a una prova di attribuzione."
+      ],
+      "unknowns": [
+        "Il bilancio consolidato di morti e feriti verificato da osservatori indipendenti.",
+        "La catena di comando, gli obiettivi dell'attacco e le responsabilità personali."
+      ],
+      "questions": [
+        {
+          "question": "Perché Reuters, AFP e Anadolu pubblicano numeri diversi sulle vittime del campo Jari 2?",
+          "answer": "Hanno raccolto testimonianze da persone e in momenti differenti: alcune contano i corpi sepolti nel campo, altre includono i feriti morti più tardi in ospedale. I 15 o 16 morti non sono bilanci di episodi da sommare, ma cifre provvisorie riferite al medesimo attacco del 29 ottobre."
+        },
+        {
+          "question": "La presenza di combattenti Fano vicino a Hayq permette di attribuire loro l'attacco al campo?",
+          "answer": "No: le fonti riportano attività di gruppi armati nell'area, ma non una prova materiale o un'ammissione credibile su chi abbia impiegato i droni. Identificare chi si trovava nelle vicinanze non stabilisce automaticamente chi abbia ordinato e condotto i colpi sul sito degli sfollati."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Drone strikes on Ethiopia displacement camp kill at least 15, sources say",
+          "url": "https://www.reuters.com/world/africa/strikes-camp-ethiopia-kill-least-15-sources-say-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Agence France-Presse",
+          "title": "Drone strikes kill 14, including children, in Ethiopia's Amhara: witnesses",
+          "url": "https://citizen.digital/article/drone-strikes-kill-14-including-children-in-ethiopias-amhara-n393024",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "At least 16 civilians killed in drone attack on displacement camp in Ethiopia",
+          "url": "https://www.aa.com.tr/en/africa/at-least-16-civilians-killed-in-drone-attack-on-displacement-camp-in-ethiopia/4106073",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "Etiopia",
+        "Amhara",
+        "sfollati"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-ethiopia-jari-camp-oct29.svg",
+        "alt": "Original conceptual art: world-ethiopia-jari-camp-oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-ethiopia-jari-camp-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-ethiopia-jari-camp-oct29",
+      "rank": 5,
+      "category": "politics",
+      "impact": 3,
+      "impactReason": "Civilian deaths at a displacement camp compound an already acute humanitarian crisis amid an unresolved armed conflict.",
+      "title": "Drones hit Ethiopia's Jari 2 displacement camp, killing children and other civilians",
+      "dek": "Multiple blasts struck the Amhara site on October 29; Reuters, AFP and Anadolu reported different preliminary death tolls without establishing responsibility.",
+      "summary": "Explosions described as drone strikes hit the Jari 2 camp near Hayq in Ethiopia's Amhara region on October 29, 2026. Reuters reported at least 15 deaths, AFP interviewed witnesses who described at least 14 buried and two dying in hospital, while Anadolu cited at least 16 fatalities. The varying counts describe the same incident and the perpetrator remains unidentified.",
+      "body": [
+        "Several blasts struck the Jari 2 site, also known as Turkey Camp, near Hayq in Ethiopia's Amhara region on Thursday October 29, 2026. Reuters, Agence France-Presse and Anadolu independently reported on the event the following day after speaking to residents, relief workers and conflict observers. Reuters described a camp of more than 1,700 displaced people, while Anadolu cited more than 1,800; the figures reflect different source assessments rather than a verified census.",
+        "Reuters' rescue sources said at least 15 people had died, including five children, after thirteen bodies were buried at the camp and two injured people died at Hayq hospital. AFP's witnesses described four successive strikes and at least fourteen burials, plus two hospital deaths. Anadolu reported at least sixteen killed and twenty-two wounded, drawing in part on local reporting and conflict-monitor records. These are provisional accounts of the same attack, not three separate events whose death tolls should be added.",
+        "Witnesses described damaged shelters and families displaced yet again; Reuters reported that some survivors were staying in a school. Residents also described activity by Fano armed groups in the wider area, but that does not identify who launched the drones. Neither Reuters nor AFP had verified the attackers, and the federal military spokesman had not responded to requests for comment cited in early accounts.",
+        "Amhara remains affected by fighting involving federal forces and armed movements amid mounting insecurity across the Horn of Africa. People sheltering in Jari 2 had already fled violence and faced limited health care, services and stable housing. The death toll may change with independent access to hospitals and the scene. The established immediate consequence is severe civilian harm, rather than a proven explanation of who intended to target the site."
+      ],
+      "facts": [
+        "Multiple reported drone strikes hit Jari 2 on October 29, 2026, according to separate news-agency investigations.",
+        "News reports gave provisional tolls around 15–16 deaths, using different witnesses and reporting times.",
+        "The initial reporting did not conclusively identify perpetrators."
+      ],
+      "perspectives": [
+        "Survivors and rescuers described repeated attacks on civilian shelters, with children among those killed.",
+        "Conflict researchers and journalists describe armed activity across Amhara but do not treat proximity as evidence of responsibility."
+      ],
+      "unknowns": [
+        "The final independently documented casualty toll.",
+        "Who ordered and carried out the strikes and what target was intended."
+      ],
+      "questions": [
+        {
+          "question": "Why did Reuters, AFP and Anadolu give different casualty counts for the Jari 2 camp?",
+          "answer": "Their witnesses were reporting at different times and using different definitions: some counted bodies buried at the camp and others also included people who died later in hospital. The figures are provisional estimates for the same October 29 incident, not totals to be combined."
+        },
+        {
+          "question": "Does the reported presence of Fano fighters near Hayq establish who attacked the camp?",
+          "answer": "It does not. Witnesses placed armed groups in the wider area, but none of the initial accounts produced evidence establishing the drone operators or chain of command. Nearby military activity cannot on its own identify who conducted the strikes on civilians."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Drone strikes on Ethiopia displacement camp kill at least 15, sources say",
+          "url": "https://www.reuters.com/world/africa/strikes-camp-ethiopia-kill-least-15-sources-say-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Agence France-Presse",
+          "title": "Drone strikes kill 14, including children, in Ethiopia's Amhara: witnesses",
+          "url": "https://citizen.digital/article/drone-strikes-kill-14-including-children-in-ethiopias-amhara-n393024",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "At least 16 civilians killed in drone attack on displacement camp in Ethiopia",
+          "url": "https://www.aa.com.tr/en/africa/at-least-16-civilians-killed-in-drone-attack-on-displacement-camp-in-ethiopia/4106073",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "tags": [
+        "Ethiopia",
+        "Amhara",
+        "displacement"
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-ethiopia-jari-camp-oct29.svg",
+        "alt": "Original conceptual art: world-ethiopia-jari-camp-oct29",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-ethiopia-jari-camp-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
