@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "technology",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Incomplete edition; do not deploy until all 25 stories and tests pass",
+  "articles": {
+    "it": {
+      "id": "reddit-logged-in-tests-oct29",
+      "rank": 3,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "Reddit progetta un accesso prevalentemente con login: primi test fuori dagli USA",
+      "dek": "Il CEO Huffman collega il piano alla caduta del traffico dai motori di ricerca, ma la limitazione non è ancora globale.",
+      "summary": "Il 29 ottobre 2026 Reddit ha spiegato agli azionisti che intende orientarsi verso un'esperienza di lettura con accesso autenticato. I test cominceranno nel quarto trimestre in alcuni mercati fuori dagli Stati Uniti; il piano segue un calo dei rinvii dai motori di ricerca superiore, in media, a un milione a settimana in ottobre. Non significa che ogni pagina Reddit sia già diventata inaccessibile senza account.",
+      "body": [
+        "In una lettera agli azionisti pubblicata il 29 ottobre 2026, l'amministratore delegato di Reddit Steve Huffman ha annunciato l'intenzione di passare progressivamente a un'esperienza con login per la gran parte della piattaforma. Secondo le cronache di Reuters, Ars Technica ed Engadget, la sperimentazione inizierà nell'ultimo trimestre del 2026 in mercati selezionati fuori dagli Stati Uniti. La società testerà modalità di accesso e contenuti visibili ai visitatori non autenticati prima di valutare una diffusione più ampia.",
+        "Il progetto arriva mentre Reddit registra un calo significativo del traffico di provenienza dai motori di ricerca. Huffman ha indicato una flessione di oltre un milione di visite di rinvio alla settimana, in media, durante ottobre e ha ipotizzato un legame con le risposte generate direttamente da strumenti di intelligenza artificiale in Google Search. Questa è l'interpretazione del CEO, non una dimostrazione causale indipendente: altri fattori possono influenzare le modalità con cui gli utenti scoprono e consultano le conversazioni online.",
+        "Reddit sostiene che l'accesso autenticato migliori la personalizzazione, permetta di riconoscere gli utenti di ritorno, faciliti la pubblicità mirata e aiuti a controllare gli usi automatizzati del grande archivio di discussioni pubbliche. La scelta può però ridurre la possibilità di consultare informazioni casualmente tramite un link esterno senza registrazione. Ars Technica ricorda che la piattaforma aveva già sperimentato restrizioni per alcuni visitatori su desktop e sulle versioni più vecchie del sito.",
+        "Le metriche riportate nella lettera aziendale includono circa 130 milioni di utenti attivi unici al giorno come base di riferimento. Se la tendenza al calo del traffico proseguisse, Reddit prevede una possibile diminuzione a doppia cifra bassa nel quarto trimestre: è una proiezione condizionata, non un risultato già osservato. La notizia va riferita alla decisione comunicata il 29 ottobre, e non descritta come una chiusura globale già entrata in vigore."
+      ],
+      "facts": [
+        "Il 29 ottobre 2026 Reddit ha annunciato test di accesso con login in mercati selezionati extra-USA nel quarto trimestre.",
+        "Secondo la società, i referral dai motori di ricerca sono diminuiti in media di oltre un milione a settimana in ottobre.",
+        "L'azienda assume una base di circa 130 milioni di utenti attivi unici giornalieri nel valutare l'impatto potenziale."
+      ],
+      "perspectives": [
+        "Il CEO Steve Huffman attribuisce buona parte del calo dei referral all'evoluzione della ricerca con IA e vuole utenti più fedeli e autenticati.",
+        "Ars Technica ed Engadget osservano che il cambiamento può restringere la lettura di contenuti pubblici senza registrazione."
+      ],
+      "unknowns": [
+        "Quali mercati e quali pagine saranno interessati dalle singole prove, e con quali eccezioni.",
+        "Se il nuovo modello migliorerà davvero l'uso ricorrente senza diminuire troppo l'accessibilità dei contenuti."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa cambierà per un visitatore Reddit che apre un link senza essere autenticato durante i test?",
+          "answer": "Nei mercati selezionati Reddit proverà a spostare più attività verso utenti con account: alcune pagine o funzioni potranno richiedere il login. La configurazione definitiva non è stata stabilita, perciò il piano non equivale a un blocco già generalizzato a livello mondiale."
+        },
+        {
+          "question": "Perché Huffman cita oltre un milione di referral persi alla settimana, e che cosa misura quel dato?",
+          "answer": "La cifra è la variazione media settimanale delle visite che arrivano a Reddit tramite i risultati dei motori di ricerca in ottobre, non una perdita dello stesso numero di utenti unici. Huffman ritiene che le risposte IA riducano i clic verso Reddit, ma il dato da solo non misura quanto del calo sia causato dall'IA."
+        }
+      ],
+      "tags": [
+        "Reddit",
+        "login",
+        "ricerca"
+      ],
+      "impactReason": "Un accesso autenticato per la maggior parte dei lettori potrebbe cambiare la diffusione dei contenuti pubblici e l'economia del traffico di ricerca.",
+      "sources": [
+        {
+          "outlet": "Reddit Inc.",
+          "title": "Third Quarter 2026 Shareholder Letter",
+          "url": "https://s203.q4cdn.com/380862485/files/doc_financials/2026/q3/Reddit-Q3-2026-Shareholder-Letter.pdf",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Reddit is moving to 'a logged-in-only experience,' CEO says",
+          "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Engadget",
+          "title": "Reddit will force users to log in as AI is killing search traffic",
+          "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Reddit puts logged in experience first as Google AI hits traffic",
+          "url": "https://www.marketscreener.com/news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-ce785fdade89f621",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-reddit-login-oct29.svg",
+        "alt": "Illustrazione originale: Discussion messages behind an authentication lock, symbolic illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-reddit-login-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "reddit-logged-in-tests-oct29",
+      "rank": 3,
+      "category": "technology",
+      "impact": 2.5,
+      "title": "Reddit plans a mostly logged-in experience, starting with tests outside the US",
+      "dek": "CEO Steve Huffman links the plan to falling search referrals, but no worldwide login requirement is in force yet.",
+      "summary": "On October 29, 2026 Reddit told shareholders it intends to shift toward a largely authenticated reading experience. Initial tests will begin during the fourth quarter in select non-US markets, following an average drop of more than one million weekly search referrals during October. That does not mean every Reddit page is already inaccessible without an account.",
+      "body": [
+        "In a shareholder letter issued on October 29, 2026 Reddit chief executive Steve Huffman laid out plans for a gradual move toward a mostly logged-in platform. Reuters, Ars Technica and Engadget reported that testing would start in the fourth quarter of 2026 in selected markets outside the United States. Reddit will explore how much content unauthenticated visitors can view before deciding whether and how to expand the change more broadly.",
+        "The proposed shift follows a meaningful decline in incoming traffic from search engines. Huffman reported that search referrals dropped by more than one million per week on average during October and suggested that AI-generated answers within Google's search products were an important cause. That explanation is his assessment, not an independently established causal result: other changes can also influence how people discover and read online discussion threads.",
+        "Reddit argues that authenticated users receive better personalization, are easier to retain, provide more relevant signals to advertisers and help the company control automated exploitation of its public discussions. Requiring a login could also make it harder for people to follow a casual link without creating an account. Ars Technica notes that Reddit had already tested restrictions on some desktop and legacy-site visitors.",
+        "The company used a base of about 130 million daily active unique users in discussing its outlook. If declining referral traffic continues, Reddit said daily active uniques could fall by a low double-digit percentage during the fourth quarter; this is a conditional scenario, not a fall already recorded. The news is the October 29 plan and upcoming tests, rather than a completed worldwide lockout of unauthenticated readers."
+      ],
+      "facts": [
+        "On October 29 Reddit announced fourth-quarter login tests in selected markets outside the US.",
+        "The company said search referrals dropped by over one million per week on average during October.",
+        "Reddit used a base of about 130 million daily active unique users in discussing potential effects."
+      ],
+      "perspectives": [
+        "CEO Steve Huffman argues that AI search features are partly responsible for falling referrals and that authenticated audiences will improve retention.",
+        "Ars Technica and Engadget note the potential cost to convenient access to publicly available discussions."
+      ],
+      "unknowns": [
+        "Which markets, pages and exceptions will be involved in the individual tests.",
+        "Whether a stricter login experience will improve repeat engagement without excessively restricting casual access."
+      ],
+      "questions": [
+        {
+          "question": "What might change for someone opening a Reddit link without signing in during the tests?",
+          "answer": "In selected non-US markets Reddit will experiment with requiring accounts for a larger share of reading or platform features. The final scope has not been determined, so the announcement does not mean unauthenticated access has already ended globally."
+        },
+        {
+          "question": "What does Huffman's figure of over one million fewer weekly search referrals actually measure?",
+          "answer": "It refers to the average weekly reduction in visits sent to Reddit from search engines during October, not the same number of lost unique users. Huffman suspects AI-generated search responses contribute to fewer clicks, but the referral figure does not by itself establish how much of the decline AI caused."
+        }
+      ],
+      "tags": [
+        "Reddit",
+        "login",
+        "search"
+      ],
+      "impactReason": "Requiring authentication from most readers could reshape public access to discussions and the economics of search-driven traffic.",
+      "sources": [
+        {
+          "outlet": "Reddit Inc.",
+          "title": "Third Quarter 2026 Shareholder Letter",
+          "url": "https://s203.q4cdn.com/380862485/files/doc_financials/2026/q3/Reddit-Q3-2026-Shareholder-Letter.pdf",
+          "publishedAt": "2026-10-29",
+          "role": "official"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Reddit is moving to 'a logged-in-only experience,' CEO says",
+          "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Engadget",
+          "title": "Reddit will force users to log in as AI is killing search traffic",
+          "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Reddit puts logged in experience first as Google AI hits traffic",
+          "url": "https://www.marketscreener.com/news/reddit-puts-logged-in-experience-first-as-google-ai-hits-traffic-ce785fdade89f621",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-reddit-login-oct29.svg",
+        "alt": "Original editorial illustration: Discussion messages behind an authentication lock, symbolic illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-reddit-login-oct29.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
