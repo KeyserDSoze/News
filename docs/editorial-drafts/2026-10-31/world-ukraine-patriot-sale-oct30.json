@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Incomplete edition; do not publish unless 25 verified articles and all tests pass",
+  "articles": {
+    "it": {
+      "id": "world-ukraine-patriot-sale-oct30",
+      "rank": 4,
+      "category": "politics",
+      "title": "USA, via libera proposto a 500 intercettori Patriot per l'Ucraina: valore stimato 2,1 miliardi",
+      "dek": "La fornitura sarà finanziata da partner europei e canadesi; l'approvazione non significa che i missili siano già stati consegnati.",
+      "summary": "Il 30 ottobre il Dipartimento di Stato americano ha approvato una possibile vendita di 500 intercettori Patriot PAC-3 MSE all'Ucraina, per circa 2,1 miliardi di dollari. Canada, Germania e Norvegia contribuiranno al finanziamento, insieme ad altri fondi collegati all'UE. Si tratta di un passaggio autorizzativo soggetto all'iter del Congresso, senza calendario di consegne definitivo.",
+      "impact": 3.5,
+      "impactReason": "La possibile fornitura riguarda un sistema cruciale per proteggere città e infrastrutture ucraine, con tempi e attuazione ancora da definire.",
+      "tags": [
+        "Ucraina",
+        "Patriot",
+        "difesa"
+      ],
+      "body": [
+        "Il 30 ottobre 2026 il Dipartimento di Stato statunitense ha comunicato l'approvazione di una possibile vendita all'Ucraina di 500 missili intercettori Patriot PAC-3 MSE e servizi connessi, per un valore stimato di 2,1 miliardi di dollari. Reuters, Associated Press e Inside Defense hanno verificato l'annuncio e i suoi termini. Lockheed Martin è indicata come contraente principale; l'autorizzazione amministrativa non costituisce da sola prova della firma di tutti i contratti o della consegna di missili già disponibili.",
+        "La struttura finanziaria prevede contributi di Canada, Germania e Norvegia attraverso il programma statunitense JUMPSTART, oltre a fondi nazionali collegati a un prestito di sostegno dell'Unione europea all'Ucraina. Secondo la comunicazione americana non è previsto l'impiego di fondi statunitensi per questo acquisto. È dunque una vendita militare approvata dagli USA, ma finanziata dai partner; confondere soggetto autorizzante e soggetto pagante renderebbe impreciso il quadro.",
+        "I Patriot PAC-3 MSE sono intercettori impiegati nella difesa antimissile e antiaerea. Il presidente Volodymyr Zelensky aveva dichiarato nei giorni precedenti che le scorte ucraine erano sotto pressione per gli attacchi russi, anche alle infrastrutture civili ed energetiche. Secondo AP, Kiev aveva inoltre contestato ritardi amministrativi nelle forniture già richieste: le accuse sull'origine di tali ritardi non sono state accertate nel nuovo provvedimento di vendita.",
+        "Inside Defense precisa che la vendita è soggetta alla procedura prevista dall'Arms Export Control Act e a una notifica al Congresso. Non è stato annunciato un calendario vincolante per la consegna dei 500 missili: la produzione, i contratti e la logistica restano passaggi separati. La decisione può migliorare la prospettiva di rifornimento della difesa aerea ucraina, ma non autorizza a scrivere che i 500 intercettori siano già schierati contro i prossimi attacchi."
+      ],
+      "facts": [
+        "Il 30 ottobre gli USA hanno autorizzato una possibile vendita di 500 missili PAC-3 MSE per 2,1 miliardi di dollari.",
+        "Il finanziamento indicato coinvolge Canada, Germania, Norvegia e strumenti europei, senza fondi statunitensi.",
+        "Il provvedimento è soggetto al vaglio del Congresso e non fornisce una data di consegna."
+      ],
+      "perspectives": [
+        "Il Dipartimento di Stato considera la proposta un sostegno alla capacità di difesa ucraina.",
+        "Zelensky ritiene urgente rifornire le batterie Patriot a causa degli attacchi aerei russi."
+      ],
+      "unknowns": [
+        "I tempi reali delle consegne e le quantità disponibili nei diversi lotti.",
+        "Il risultato finale del processo contrattuale e delle verifiche del Congresso."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa autorizza esattamente il via libera USA da 2,1 miliardi per i Patriot?",
+          "answer": "È una possibile vendita militare estera di 500 intercettori PAC-3 MSE, con ricambi e servizi di supporto. L'approvazione del Dipartimento di Stato avvia un passaggio formale di notifica e controllo, ma non dimostra che i missili siano stati fabbricati, pagati e trasferiti all'Ucraina."
+        },
+        {
+          "question": "Perché una vendita statunitense di missili Patriot può non usare soldi del bilancio USA?",
+          "answer": "Gli Stati Uniti autorizzano il trasferimento e il contraente principale, ma l'acquisto è finanziato da Canada, Germania e Norvegia attraverso JUMPSTART e da fondi collegati all'UE. I ruoli di esportatore, acquirente e finanziatore possono quindi essere distinti."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "US approves a proposed $2.1 billion sale of Patriot interceptors to Ukraine after alleged holdup",
+          "url": "https://apnews.com/article/3016a2a6fc0088017478aabeebe75e81",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+          "url": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-4988538",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Inside Defense",
+          "title": "State Department approves potential $2.1B Patriot missile sale to Ukraine",
+          "url": "https://insidedefense.com/insider/state-department-approves-potential-21b-patriot-missile-sale-ukraine",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-ukraine-patriot-sale-oct30.svg",
+        "alt": "O original conceptual illustration: world ukraine patriot sale oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-ukraine-patriot-sale-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-ukraine-patriot-sale-oct30",
+      "rank": 4,
+      "category": "politics",
+      "title": "US approves potential $2.1 billion sale of 500 Patriot interceptors for Ukraine",
+      "dek": "Canada and European partners will finance the proposed purchase; approval does not mean the missiles have already been delivered.",
+      "summary": "On October 30 the US State Department approved a possible sale of 500 Patriot PAC-3 MSE interceptors to Ukraine for an estimated $2.1 billion. Canada, Germany and Norway will help finance the purchase alongside EU-linked funds. The authorization is subject to congressional procedures and does not establish a delivery timetable.",
+      "impact": 3.5,
+      "impactReason": "A potential supply of essential interceptors could strengthen protection for Ukrainian civilians and infrastructure, although delivery is not yet established.",
+      "tags": [
+        "Ukraine",
+        "Patriot",
+        "defense"
+      ],
+      "body": [
+        "On October 30, 2026 the US State Department approved a possible foreign military sale to Ukraine of 500 Patriot PAC-3 MSE air-defense interceptors and related services, valued at an estimated $2.1 billion. Reuters, the Associated Press and Inside Defense separately reported the announcement and its conditions. Lockheed Martin was named the principal contractor; administrative approval alone does not demonstrate that all contracts are signed or missiles have already been supplied.",
+        "Canada, Germany and Norway will contribute through the US JUMPSTART arrangement, with additional national funding linked to a European Union support loan for Ukraine. According to the American notification, no US taxpayer funding is to be used for this particular purchase. The US is therefore the state authorizing the sale, while allied countries and financial mechanisms provide the money; confusing those roles would misstate the transaction.",
+        "Patriot PAC-3 MSE missiles are interceptors used against airborne and ballistic threats. Ukrainian President Volodymyr Zelensky had warned that his country's supplies were under pressure amid continued Russian strikes on civilian and energy infrastructure. AP also reported Kyiv's allegations that some previously requested missile deliveries had been delayed, but the new sales authorization does not settle responsibility for any earlier delays.",
+        "Inside Defense noted that the possible sale remains subject to notification and review under the Arms Export Control Act. No binding delivery dates for the 500 interceptors have been announced, leaving production, contracting and transport as separate steps. Authorization improves the prospect of future replenishment but should not be described as 500 missiles already deployed against imminent attacks."
+      ],
+      "facts": [
+        "On October 30 the US approved a possible $2.1 billion sale of 500 PAC-3 MSE interceptors.",
+        "The stated financing includes Canada, Germany, Norway and EU-linked funds, with no US funding.",
+        "Congressional review and later contracting remain, and no delivery timetable was specified."
+      ],
+      "perspectives": [
+        "The State Department described the proposal as support for Ukraine's air-defense capacity.",
+        "Zelensky has argued that replenishing Patriot stocks is urgent given Russian missile and drone attacks."
+      ],
+      "unknowns": [
+        "Actual delivery dates and quantities available in each shipment.",
+        "The final outcome of contracting and the congressional notification process."
+      ],
+      "questions": [
+        {
+          "question": "What does the US $2.1 billion authorization for Patriot missiles actually approve?",
+          "answer": "It permits a proposed foreign military sale of 500 PAC-3 MSE interceptors plus spares and support. State Department approval begins formal review but does not prove the weapons have been manufactured, paid for and transferred to Ukraine."
+        },
+        {
+          "question": "How can a US Patriot missile sale be financed without US government funds?",
+          "answer": "The United States authorizes the export and identifies the main contractor, while Canada, Germany and Norway contribute through JUMPSTART alongside EU-linked financing. The selling, purchasing and funding roles are therefore not necessarily held by the same government."
+        }
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "US approves a proposed $2.1 billion sale of Patriot interceptors to Ukraine after alleged holdup",
+          "url": "https://apnews.com/article/3016a2a6fc0088017478aabeebe75e81",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US approves $2.1 billion Patriot missile sale to Ukraine",
+          "url": "https://www.investing.com/news/stock-market-news/us-approves-21-billion-patriot-missile-sale-to-ukraine-4988538",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Inside Defense",
+          "title": "State Department approves potential $2.1B Patriot missile sale to Ukraine",
+          "url": "https://insidedefense.com/insider/state-department-approves-potential-21b-patriot-missile-sale-ukraine",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-ukraine-patriot-sale-oct30.svg",
+        "alt": "O original conceptual illustration: world ukraine patriot sale oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-ukraine-patriot-sale-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
