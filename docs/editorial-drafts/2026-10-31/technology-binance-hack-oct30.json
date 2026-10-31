@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "technology",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Incomplete edition; no release JSON or CI approval",
+  "articles": {
+    "it": {
+      "id": "technology-binance-hack-oct30",
+      "rank": 1,
+      "category": "technology",
+      "title": "Binance, furto dichiarato da circa 6,36 miliardi di dollari: fondi congelati e indagini ancora aperte",
+      "dek": "L'attacco è emerso il 29 ottobre; il 30 la piattaforma ha precisato misure di copertura e recupero, mentre l'attribuzione alla Corea del Nord resta investigativa.",
+      "summary": "Binance riferisce che attaccanti hanno trasferito circa 6,36 miliardi di dollari in criptoattività da portafogli della piattaforma su dieci blockchain. Il 30 ottobre l'exchange ha dichiarato di aver accantonato oltre 6,34 miliardi per coprire le perdite e collaborato al congelamento di circa 3 miliardi. Società di analisi sospettano il gruppo nordcoreano TraderTraitor, ma l'identità dei responsabili non è stata accertata dalle autorità.",
+      "body": [
+        "Tra la sera di giovedì 29 e venerdì 30 ottobre 2026 è emerso un attacco informatico contro Binance, una delle maggiori piattaforme di scambio di criptoattività. Secondo l'analisi di TRM riportata da Associated Press, circa 6,36 miliardi di dollari sono stati trasferiti fuori dai portafogli della piattaforma attraverso dieci blockchain, in gran parte nell'arco di una ventina di minuti. La cifra è una ricostruzione dell'incidente e non equivale automaticamente alla perdita netta finale, che dipende anche da congelamenti e recuperi successivi.",
+        "Binance ha confermato il coinvolgimento di un proprio hot wallet, cioè un portafoglio connesso alla rete per rendere possibili operazioni e prelievi. L'azienda afferma che la maggior parte degli asset dei clienti è conservata in cold wallet, non costantemente connessi a internet. Una prima ipotesi investigativa indicava il portatile compromesso di un ingegnere; l'exchange ha poi parlato di ulteriori punti di violazione e di tattiche complesse. Nessuna di queste indicazioni, da sola, costituisce una ricostruzione forense conclusiva del percorso seguito dagli attaccanti.",
+        "Venerdì la società ha dichiarato di aver destinato oltre 6,34 miliardi di dollari di fondi propri alla copertura delle perdite e di lavorare con emittenti e analisti per bloccare circa 3 miliardi di asset coinvolti. Le tre grandezze vanno tenute distinte: valore trasferito illegalmente, importi congelati che non sono più liberamente movimentabili e risorse aziendali riservate ai rimborsi non sono la stessa cosa. Binance ha detto che i depositi non erano stati colpiti, mentre i prelievi erano stati temporaneamente sospesi.",
+        "Le società di analisi blockchain TRM e Chainalysis hanno attribuito l'attacco con elevata confidenza a TraderTraitor, gruppo associato alla Corea del Nord; Binance ha dichiarato di lavorare con le forze dell'ordine per identificare i responsabili. La conclusione degli analisti non è una sentenza né una conferma giudiziaria. L'incidente mostra quanto un punto operativo online possa concentrare rischi per un intermediario, anche quando gran parte delle riserve è custodita offline. L'entità dei fondi effettivamente recuperati e la sequenza tecnica completa restano da chiarire."
+      ],
+      "impactReason": "La dimensione della sottrazione dichiarata e il coinvolgimento di un grande exchange mettono alla prova sicurezza, rimborsi e fiducia nei mercati cripto.",
+      "tags": [
+        "Binance",
+        "cybersecurity",
+        "criptovalute"
+      ],
+      "facts": [
+        "TRM ha stimato circa 6,36 miliardi di dollari trasferiti da portafogli Binance su dieci blockchain.",
+        "Binance ha annunciato oltre 6,34 miliardi di dollari accantonati per la copertura e circa 3 miliardi di asset congelati con partner.",
+        "La società ha indicato il coinvolgimento di un hot wallet e la sospensione temporanea dei prelievi."
+      ],
+      "perspectives": [
+        "TRM e Chainalysis ritengono probabile il coinvolgimento di TraderTraitor, associato alla Corea del Nord; è un'attribuzione analitica.",
+        "Binance promette di coprire le perdite e riferisce collaborazione con forze dell'ordine e società blockchain."
+      ],
+      "unknowns": [
+        "Identità dei responsabili e sequenza completa dell'intrusione, in attesa di verifiche investigative indipendenti.",
+        "Valore finale degli asset recuperati e tempi effettivi di rimborso ai singoli clienti."
+      ],
+      "questions": [
+        {
+          "question": "Perché un hot wallet di Binance era più esposto di un cold wallet durante l'attacco?",
+          "answer": "Un hot wallet è connesso a sistemi online per autorizzare rapidamente trasferimenti e prelievi; se un attaccante ottiene le autorizzazioni necessarie può muovere fondi attraverso la rete. Un cold wallet mantiene invece le chiavi fuori dai sistemi sempre connessi, riducendo quella specifica superficie d'attacco senza eliminare ogni rischio operativo."
+        },
+        {
+          "question": "Perché i circa 3 miliardi di dollari congelati non sono automaticamente 3 miliardi già restituiti ai clienti?",
+          "answer": "Il congelamento impedisce o limita il trasferimento di determinati token, ma la restituzione richiede identificare gli asset, definire la titolarità e completare procedure tecniche e legali. È distinta anche dalla riserva di oltre 6,34 miliardi che Binance dice di avere stanziato per coprire le perdite."
+        }
+      ],
+      "impact": 4.5,
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+          "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "North Korea is likely culprit behind $6.3bn crypto hack",
+          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "$6.3bn in 30 minutes: how the world's biggest heist unfolded",
+          "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TRM Labs",
+          "title": "Public attribution to TraderTraitor described by AP",
+          "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb",
+          "publishedAt": "2026-10-29",
+          "role": "attributed-claim"
+        }
+      ],
+      "image": {
+        "src": "docs/editorial-drafts/2026-10-31/assets/technology-binance-hack-oct30.svg",
+        "alt": "Illustrazione editoriale originale, non fotografia",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-binance-hack-oct30.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "technology-binance-hack-oct30",
+      "rank": 1,
+      "category": "technology",
+      "title": "Binance reports roughly $6.36 billion stolen as assets are frozen and investigation continues",
+      "dek": "The attack surfaced on October 29; on October 30 the exchange detailed coverage and recovery efforts while North Korea attribution remained under investigation.",
+      "summary": "Binance says attackers moved about $6.36 billion in crypto assets out of exchange wallets across ten blockchains. On October 30, the platform said it had set aside more than $6.34 billion to cover losses and helped freeze about $3 billion in affected assets. Blockchain analysts suspect North Korea-linked TraderTraitor, but authorities have not established the attackers' identities.",
+      "body": [
+        "A major cyberattack on Binance, one of the largest cryptocurrency exchanges, emerged between Thursday evening, October 29, and Friday, October 30, 2026. According to TRM's analysis reported by the Associated Press, roughly $6.36 billion was moved out of Binance wallets across ten blockchains, most of it in about twenty minutes. That figure is an estimate of assets transferred in the incident, not necessarily the final net loss, which also depends on subsequent freezes and recoveries.",
+        "Binance confirmed that one of its own hot wallets was affected. A hot wallet stays connected to online systems so transactions and withdrawals can be processed; the company says most customer assets are instead held in cold wallets, which are not continuously online. An early investigative theory involved a compromised engineer's laptop, but Binance later described additional breach points and complex tactics. None of these statements, taken alone, amounts to a conclusive forensic reconstruction of the attackers' route into the system.",
+        "On Friday the company said it had earmarked more than $6.34 billion of its own funds to cover losses and was working with token issuers and investigators to freeze roughly $3 billion in affected assets. These are three different measures: the value moved by attackers, tokens made harder to transfer through freezes, and company resources reserved for compensation. Binance said deposits were unaffected while withdrawals had been temporarily suspended.",
+        "Blockchain intelligence firms TRM and Chainalysis assessed with high confidence that TraderTraitor, a group linked to North Korea, was responsible; Binance said it was working with law enforcement to identify the perpetrators. An intelligence assessment is not a court finding or a final official attribution. The incident illustrates how an online operational wallet can concentrate risk for an intermediary even when most reserves are held offline. The full technical sequence and the amount ultimately recovered remain unresolved."
+      ],
+      "impactReason": "The reported scale of the theft and the involvement of a major exchange test security controls, compensation arrangements and trust in crypto markets.",
+      "tags": [
+        "Binance",
+        "cybersecurity",
+        "cryptocurrency"
+      ],
+      "facts": [
+        "TRM estimated that roughly $6.36 billion was moved from Binance wallets across ten blockchains.",
+        "Binance announced more than $6.34 billion set aside for coverage and roughly $3 billion in affected assets frozen with partners.",
+        "The company identified an affected hot wallet and a temporary suspension of withdrawals."
+      ],
+      "perspectives": [
+        "TRM and Chainalysis assess that North Korea-linked TraderTraitor was likely involved; this is analytical attribution.",
+        "Binance promises to cover losses and reports cooperation with law enforcement and blockchain firms."
+      ],
+      "unknowns": [
+        "The perpetrators' identities and full intrusion sequence pending independent investigative findings.",
+        "The final value of recovered assets and actual timing of compensation to individual customers."
+      ],
+      "questions": [
+        {
+          "question": "Why was a Binance hot wallet more exposed than a cold wallet in this attack?",
+          "answer": "A hot wallet is connected to online systems to authorize transfers and withdrawals quickly; if an attacker obtains the required permissions, funds can be moved over the network. A cold wallet keeps keys away from always-connected systems, reducing that particular attack surface without eliminating every operational risk."
+        },
+        {
+          "question": "Why are the roughly $3 billion in frozen assets not automatically $3 billion already returned to customers?",
+          "answer": "Freezing restricts the movement of certain tokens, but returning them requires identifying the assets, establishing ownership and completing technical and legal steps. It is also separate from the more than $6.34 billion Binance says it has reserved to cover losses."
+        }
+      ],
+      "impact": 4.5,
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+          "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "North Korea is likely culprit behind $6.3bn crypto hack",
+          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Financial Times",
+          "title": "$6.3bn in 30 minutes: how the world's biggest heist unfolded",
+          "url": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TRM Labs",
+          "title": "Public attribution to TraderTraitor described by AP",
+          "url": "https://apnews.com/article/550e9b876550f71f07098494fe735beb",
+          "publishedAt": "2026-10-29",
+          "role": "attributed-claim"
+        }
+      ],
+      "image": {
+        "src": "docs/editorial-drafts/2026-10-31/assets/technology-binance-hack-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph",
+        "credit": "O — original vector illustration © 2026 O",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/technology-binance-hack-oct30.svg",
+        "license": "© 2026 O — original editorial illustration; all rights reserved",
+        "kind": "illustration"
+      }
+    }
+  }
+}
