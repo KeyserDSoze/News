@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-31",
+  "desk": "technology",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Editorial review and CI required before release",
+  "articles": {
+    "it": {
+      "id": "technology-meta-cma-investigation-oct30",
+      "rank": 3,
+      "category": "technology",
+      "title": "Regno Unito, indagine antitrust su Meta per le condizioni d'uso dei contenuti degli editori",
+      "dek": "La CMA apre un'istruttoria sulle clausole per le imprese che usano le piattaforme Meta, mentre la società sospende le modifiche contestate.",
+      "summary": "Il 30 ottobre 2026 la Competition and Markets Authority britannica ha aperto un'indagine per verificare se Meta possa imporre condizioni commerciali inique agli editori e ad altre imprese, usando contenuti dei loro siti per propri servizi, anche di IA, senza una scelta effettiva. Le modifiche sono state sospese; la CMA non ha ancora accertato una violazione della legge sulla concorrenza.",
+      "body": [
+        "Venerdì 30 ottobre 2026 l'autorità britannica della concorrenza, Competition and Markets Authority (CMA), ha avviato un'indagine formale sulle condizioni contrattuali previste da Meta per le imprese che utilizzano le sue piattaforme e i suoi servizi pubblicitari. Secondo il comunicato ufficiale, alcune clausole potrebbero consentire a Meta di raccogliere contenuti dai siti di editori e aziende clienti per sviluppare propri servizi, anche funzionalità di intelligenza artificiale, senza che i titolari dei contenuti possano scegliere se e come autorizzarne l'uso. Reuters, Wall Street Journal e ITV News hanno riportato l'atto e interpellato le parti.",
+        "La CMA esaminerà due questioni distinte: se Meta detenga una posizione dominante in un mercato rilevante del Regno Unito e, qualora la detenga, se imporre le clausole in questione costituisca abuso di tale posizione mediante condizioni commerciali ingiuste. La procedura è aperta ai sensi del Competition Act 1998 e riguarda le potenziali conseguenze per migliaia di attività che dipendono dalla visibilità e dagli strumenti forniti dalle piattaforme. Avviare un'indagine non equivale né a dichiarare Meta dominante in via definitiva né a provare un abuso.",
+        "Le condizioni contestate erano inizialmente programmate per entrare in vigore il 30 ottobre. Dopo i primi contatti con l'autorità, Meta aveva posticipato la data al 20 novembre e, il 28 ottobre, ha annunciato di sospendere la modifica in attesa di consultazioni con le associazioni di settore. La CMA ha riferito le preoccupazioni espresse dalla News Media Association e da Movement for an Open Web. Meta ha replicato a Reuters che non vi sono ragioni per l'indagine e che non cambierà i termini prima di aver consultato editori e altri interlocutori.",
+        "Il caso riguarda il potere contrattuale degli intermediari digitali e l'accesso ai contenuti giornalistici per sviluppare prodotti tecnologici, oltre alla possibilità degli editori di mantenere il controllo sull'utilizzo dei propri materiali. La CMA ha precisato che sta soltanto raccogliendo e valutando prove e non ha ancora assunto decisioni nel merito. Ha inoltre chiesto informazioni su un separato servizio Meta One, ma la possibile iniziativa su quest'ultimo non fa parte dell'indagine formale aperta il 30 ottobre: confondere i due procedimenti altererebbe la portata dell'annuncio."
+      ],
+      "facts": [
+        "La CMA ha aperto il 30 ottobre un'indagine ai sensi del Competition Act 1998 sui termini commerciali di Meta.",
+        "Meta aveva spostato l'entrata in vigore delle clausole al 20 novembre e il 28 ottobre ne ha sospeso l'applicazione.",
+        "Non è stata adottata alcuna decisione che accerti una posizione dominante abusata o una violazione della concorrenza."
+      ],
+      "perspectives": [
+        "La CMA teme che aziende ed editori dipendenti dai servizi Meta possano perdere una scelta reale sul riuso dei loro contenuti.",
+        "Meta afferma di non vedere ragioni per l'istruttoria e promette consultazioni prima di eventuali modifiche.",
+        "Le associazioni degli editori chiedono protezioni contro condizioni che ritengono squilibrate."
+      ],
+      "unknowns": [
+        "Se l'indagine stabilirà che Meta occupa una posizione dominante nel mercato britannico pertinente.",
+        "Quali condizioni contrattuali verranno eventualmente riviste e se vi saranno rimedi concordati o sanzioni."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa deve provare la CMA per contestare a Meta un abuso di posizione dominante?",
+          "answer": "Il Competition Act 1998 richiede di individuare un mercato rilevante, valutare se Meta vi sia dominante e poi accertare che le clausole impongano condizioni commerciali abusive. L'apertura dell'istruttoria serve a raccogliere queste prove, non rappresenta un accertamento già raggiunto."
+        },
+        {
+          "question": "Perché il rinvio delle clausole Meta al 20 novembre non coincide con la loro entrata in vigore?",
+          "answer": "Meta aveva inizialmente previsto l'applicazione dal 30 ottobre, poi l'aveva rinviata al 20 novembre e infine, il 28 ottobre, ha annunciato una sospensione in attesa di consultare il settore. Perciò l'indagine del 30 ottobre riguarda un cambiamento prospettato, non clausole già definitivamente applicate quel giorno."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "La verifica su condizioni contrattuali e riuso di contenuti per servizi IA può influenzare editoria, pubblicità digitale e potere dei grandi intermediari.",
+      "tags": [
+        "Meta",
+        "CMA",
+        "antitrust"
+      ],
+      "sources": [
+        {
+          "outlet": "Competition and Markets Authority",
+          "title": "CMA opens investigation into Meta’s commercial terms",
+          "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "UK's CMA opens investigation into Meta's terms for publishers and advertisers",
+          "url": "https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "title": "Meta Faces U.K. Antitrust Probe Over Publisher Content Terms",
+          "url": "https://www.wsj.com/tech/meta-faces-u-k-antitrust-probe-over-publisher-content-use-11637585",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ITV News",
+          "title": "Competition watchdog to investigate Meta terms for publishers and businesses",
+          "url": "https://www.itv.com/news/2026-10-30/competition-watchdog-to-investigate-meta-terms-for-publishers-and-businesses",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-meta-cma-oct30.svg",
+        "alt": "Illustrazione editoriale originale: siti di notizie, clausole digitali e controllo della CMA",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/technology-meta-cma-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "technology-meta-cma-investigation-oct30",
+      "rank": 3,
+      "category": "technology",
+      "title": "UK launches antitrust investigation into Meta's terms for publishers' content",
+      "dek": "The CMA will examine commercial clauses affecting businesses using Meta's platforms after the company paused the proposed changes.",
+      "summary": "On October 30, 2026 Britain's Competition and Markets Authority opened an investigation into whether Meta could impose unfair terms on publishers and other businesses, potentially using content from their websites to develop services including AI features without a genuine choice for content owners. The proposed changes are on hold, and no competition-law breach has been established.",
+      "body": [
+        "On Friday October 30, 2026 the United Kingdom's Competition and Markets Authority (CMA) opened a formal investigation into contractual terms Meta proposed for businesses using its platforms and advertising services. According to the regulator, the clauses could permit Meta to collect material from publishers' and other customers' websites to develop its own products, including AI features, without allowing those companies to decide whether and how their content is used. Reuters, the Wall Street Journal and ITV News independently reported the decision and responses.",
+        "The CMA will examine two separate questions: whether Meta holds a dominant position in a relevant UK market and, if so, whether imposing the proposed terms would amount to an abuse of that dominance through unfair trading conditions. The inquiry uses powers under the Competition Act 1998 and addresses possible consequences for thousands of companies reliant on access to Meta's tools and audiences. Starting an investigation does not itself establish dominance or prove abusive conduct.",
+        "The terms had originally been scheduled to take effect on October 30. Meta subsequently postponed their introduction to November 20 after engagement with the regulator, then announced on October 28 that rollout was paused pending industry consultation. The CMA cited complaints from the News Media Association and Movement for an Open Web. Meta told Reuters it saw no grounds for the inquiry and had committed to consulting publishers and other interested parties before changing its terms.",
+        "The investigation concerns digital platforms' bargaining power and whether news publishers can retain meaningful control over material used to develop technology services. The CMA stresses that it is gathering evidence rather than issuing an infringement decision. It has also requested information about a separate Meta One business subscription scheme, but that information-gathering is outside the formal October 30 Competition Act investigation; merging the two into one proceeding would misrepresent the announcement."
+      ],
+      "facts": [
+        "The CMA opened a Competition Act 1998 investigation into Meta's terms on October 30.",
+        "Meta first shifted the planned introduction to November 20 and then paused implementation on October 28.",
+        "The regulator has made no finding yet that Meta abused market dominance or broke competition law."
+      ],
+      "perspectives": [
+        "The CMA fears businesses dependent on Meta services could lose meaningful choice over use of their website content.",
+        "Meta disputes the need for an inquiry and says it will consult publishers before changing its terms.",
+        "Publisher associations have argued that the proposed clauses would impose unfair bargaining conditions."
+      ],
+      "unknowns": [
+        "Whether the investigation will establish dominance in a relevant UK market and abusive terms.",
+        "Which contractual revisions, remedies or penalties, if any, will ultimately follow."
+      ],
+      "questions": [
+        {
+          "question": "What must the CMA establish before finding that Meta abused a dominant market position?",
+          "answer": "Under the Competition Act 1998, the regulator must define a relevant market, determine whether Meta is dominant there and assess whether its commercial clauses impose an abuse such as unfair conditions. Opening the case gathers the evidence needed for those findings; it is not the finding itself."
+        },
+        {
+          "question": "Why is Meta's November 20 planned date not the same as the contested terms taking effect?",
+          "answer": "Meta first intended to introduce the terms on October 30, delayed that to November 20 and on October 28 paused the rollout pending consultations. The October 30 inquiry thus concerns proposed terms not yet finally implemented on that day."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Scrutiny of contractual power and AI-related content use could shape news publishing, digital advertising and major online platforms.",
+      "tags": [
+        "Meta",
+        "CMA",
+        "antitrust"
+      ],
+      "sources": [
+        {
+          "outlet": "Competition and Markets Authority",
+          "title": "CMA opens investigation into Meta’s commercial terms",
+          "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "UK's CMA opens investigation into Meta's terms for publishers and advertisers",
+          "url": "https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Wall Street Journal",
+          "title": "Meta Faces U.K. Antitrust Probe Over Publisher Content Terms",
+          "url": "https://www.wsj.com/tech/meta-faces-u-k-antitrust-probe-over-publisher-content-use-11637585",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ITV News",
+          "title": "Competition watchdog to investigate Meta terms for publishers and businesses",
+          "url": "https://www.itv.com/news/2026-10-30/competition-watchdog-to-investigate-meta-terms-for-publishers-and-businesses",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/technology-meta-cma-oct30.svg",
+        "alt": "Original editorial illustration: news website content, digital terms and CMA oversight",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-10-31/assets/technology-meta-cma-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
