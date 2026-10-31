@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-31",
+  "desk": "science",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "All desks must reach 25 verified unique stories before CI and publication",
+  "articles": {
+    "it": {
+      "id": "rubin-2026-ed138-dwarf-planet-candidate-oct27",
+      "rank": 5,
+      "category": "science",
+      "impact": 2.5,
+      "title": "Vera Rubin individua 2026 ED138, possibile pianeta nano oltre Plutone",
+      "dek": "L'oggetto è stato riconosciuto il 13 ottobre e annunciato il 27; nuove osservazioni devono ancora confermarne dimensioni e forma.",
+      "summary": "L'Osservatorio Vera C. Rubin ha identificato il corpo transnettuniano 2026 ED138, un possibile nuovo pianeta nano di 600–1.500 chilometri di diametro. L'analisi decisiva risale al 13 ottobre e l'annuncio ufficiale del Minor Planet Center al 27 ottobre 2026; le ricostruzioni scientifiche del 28–30 ottobre ne hanno illustrato le caratteristiche. È un candidato, non il sesto pianeta nano già confermato.",
+      "body": [
+        "Il 27 ottobre 2026 l'Osservatorio Vera C. Rubin, in Cile, e il Minor Planet Center dell'Unione astronomica internazionale hanno annunciato l'identificazione di 2026 ED138, un oggetto ghiacciato del Sistema solare esterno. Matthew Holman aveva individuato il segnale la sera del 13 ottobre, esaminando con un algoritmo sviluppato insieme a Kevin Napier miliardi di rilevazioni raccolte dal telescopio nei mesi precedenti. Reuters, National Geographic, ANSA e Sky & Telescope hanno approfondito la notizia nei giorni successivi, distinguendo la scoperta dall'iter di conferma.",
+        "Il corpo orbita oltre la regione di Nettuno e Plutone e, al momento degli annunci, si trovava a circa 46 unità astronomiche dal Sole, cioè 46 volte la distanza media Terra-Sole. La combinazione di luminosità osservata, distanza e ipotesi sulla riflettività della superficie suggerisce un diametro compreso fra 600 e 1.500 chilometri. È una fascia ampia proprio perché misurare la luce riflessa non equivale a misurare il diametro reale: una superficie molto riflettente può apparire luminosa anche se più piccola.",
+        "Per essere considerato un pianeta nano, un corpo deve orbitare intorno al Sole, avere massa sufficiente a raggiungere una forma quasi sferica, non aver ripulito la propria zona orbitale e non essere un satellite. La dimensione ipotizzata di ED138 rende plausibile la forma arrotondata, ma servono osservazioni indipendenti, in particolare a lunghezze d'onda più lunghe, per stimare meglio proprietà fisiche e composizione. Sky & Telescope ne ha sottolineato anche la notevole brillantezza rispetto ad altri oggetti transnettuniani catalogati.",
+        "La scoperta dimostra la capacità della grande fotocamera Rubin e dei nuovi algoritmi di rilevare movimenti lentissimi di corpi lontani in campi pieni di stelle. L'osservatorio prevede un programma di scansioni ripetute del cielo australe per dieci anni, dal quale gli astronomi si aspettano molte ulteriori identificazioni. ED138 rimane per ora un candidato e non va inserito automaticamente nella lista ufficiale dei cinque pianeti nani riconosciuti: Cerere, Plutone, Haumea, Makemake ed Eris."
+      ],
+      "facts": [
+        "L'oggetto 2026 ED138 è stato identificato da Holman il 13 ottobre e annunciato ufficialmente il 27 ottobre 2026.",
+        "Gli astronomi stimano un diametro nell'intervallo 600–1.500 km e una distanza dal Sole di circa 46 UA.",
+        "La classificazione definitiva come pianeta nano necessita di osservazioni ulteriori."
+      ],
+      "perspectives": [
+        "Il gruppo Rubin considera la scoperta una prova iniziale del potenziale della sua scansione decennale.",
+        "Sky & Telescope osserva che la luminosità dell'oggetto è notevole fra i transnettuniani scoperti, un indizio che richiede misure fisiche più precise."
+      ],
+      "unknowns": [
+        "Il diametro, l'albedo, la forma e la composizione superficiale effettivi di ED138.",
+        "L'esito della classificazione da parte degli organismi astronomici dopo nuove misure."
+      ],
+      "questions": [
+        {
+          "question": "Come ha fatto il telescopio Vera Rubin a riconoscere ED138 in una zona affollata di stelle?",
+          "answer": "Holman ha analizzato molte riprese di epoche diverse con un programma che collega rilevazioni dello stesso corpo in lento movimento. Le stelle di sfondo mantengono invece posizioni quasi fisse rispetto a quelle immagini; le sequenze hanno permesso di isolare il moto di ED138 e ricostruirne l'orbita."
+        },
+        {
+          "question": "Perché il diametro di ED138 è stimato fra 600 e 1.500 km invece di avere un valore già preciso?",
+          "answer": "Il corpo è lontano e se ne misura soprattutto la luce riflessa. Senza sapere con precisione quanto la superficie sia riflettente, la stessa luminosità può derivare da dimensioni diverse; osservazioni termiche o infrarosse potranno restringere la stima e aiutare a stabilire se la gravità lo renda quasi sferico."
+        }
+      ],
+      "tags": [
+        "Rubin",
+        "ED138",
+        "astronomia"
+      ],
+      "impactReason": "Il candidato apre nuove possibilità di esplorazione del Sistema solare esterno e dimostra la capacità di rilevamento di un osservatorio di nuova generazione.",
+      "sources": [
+        {
+          "outlet": "NSF / Rubin Observatory",
+          "title": "New dwarf planet candidate discovered by NSF–DOE Rubin Observatory",
+          "url": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Rubin Observatory",
+          "title": "NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
+          "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Possible new dwarf planet identified orbiting beyond Pluto",
+          "url": "https://www.reuters.com/science/possible-new-dwarf-planet-identified-orbiting-beyond-pluto-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "National Geographic",
+          "title": "Astronomers Just Discovered a New Hidden World Beyond Neptune",
+          "url": "https://www.nationalgeographic.com/science/article/new-dwarf-planet-rubin-pluto",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky & Telescope",
+          "title": "Possible New Dwarf Planet in the Solar System",
+          "url": "https://skyandtelescope.org/astronomy-news/possible-new-dwarf-planet-in-the-solar-system/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Il Sistema Solare ha un nuovo possibile pianeta nano, è oltre Plutone",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/29/il-sistema-solare-ha-un-nuovo-possibile-pianeta-nano-e-oltre-plutone_dfa4a02c-23e6-462a-bc41-aa9f2de662e7.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "alt": "Illustrazione originale sul tema: Distant dwarf planet candidate and orbital observation, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "rubin-2026-ed138-dwarf-planet-candidate-oct27",
+      "rank": 5,
+      "category": "science",
+      "impact": 2.5,
+      "title": "Rubin Observatory spots 2026 ED138, a possible dwarf planet beyond Pluto",
+      "dek": "The object was identified on October 13 and announced on October 27, with size and shape still requiring confirmation.",
+      "summary": "The Vera C. Rubin Observatory has identified trans-Neptunian object 2026 ED138, a potential dwarf planet provisionally estimated at 600–1,500 kilometers in diameter. The signal was identified on October 13 and officially announced by the Minor Planet Center on October 27, 2026, with further reporting on October 28–30. It is a candidate, not an already confirmed sixth dwarf planet.",
+      "body": [
+        "On October 27, 2026 Chile's Vera C. Rubin Observatory and the International Astronomical Union's Minor Planet Center announced the identification of 2026 ED138, an icy body in the outer solar system. Astronomer Matthew Holman had first isolated its signal on the evening of October 13 while using software developed with Kevin Napier to sift through billions of detections made earlier in the year. Reuters, National Geographic, ANSA and Sky & Telescope followed with independent explanations of the finding and what remains to be verified.",
+        "The object orbits beyond Neptune and Pluto and was approximately 46 astronomical units from the Sun at the time of the announcement, or 46 times the Earth's average solar distance. Its observed brightness, distance and assumptions about surface reflectivity suggest a diameter of roughly 600–1,500 kilometers. That wide interval reflects the fact that measuring reflected sunlight does not directly reveal physical size: a smaller shiny body and a larger darker one can look similarly bright.",
+        "Dwarf planets orbit the Sun, have enough gravity to become nearly round, have not cleared their orbital neighborhoods and are not moons. ED138's estimated dimensions suggest it could be round, but independent observations, particularly at longer wavelengths, are needed to pin down its physical properties and composition. Sky & Telescope also highlighted how bright this object appears relative to many other cataloged trans-Neptunian bodies, making it a particularly interesting target for follow-up measurements.",
+        "The finding demonstrates Rubin's camera and search algorithms can detect extremely slow-moving objects against crowded star fields. Its planned ten-year repeated survey of the southern sky is expected to reveal many more distant bodies. For now ED138 is a dwarf-planet candidate rather than a confirmed addition to the five officially recognized dwarf planets: Ceres, Pluto, Haumea, Makemake and Eris."
+      ],
+      "facts": [
+        "Holman first identified the ED138 signal on October 13 and the official announcement followed October 27, 2026.",
+        "The provisional diameter range is 600–1,500 km, at a reported distance of about 46 AU from the Sun.",
+        "The dwarf-planet classification awaits additional physical observations."
+      ],
+      "perspectives": [
+        "Rubin researchers view ED138 as an early example of what the observatory's decade-long survey can reveal.",
+        "Sky & Telescope emphasizes the object's unusual brightness among trans-Neptunian finds and the need for more physical measurements."
+      ],
+      "unknowns": [
+        "ED138's true diameter, albedo, shape and surface composition.",
+        "Whether follow-up observations will establish the criteria for official dwarf-planet status."
+      ],
+      "questions": [
+        {
+          "question": "How did Rubin identify ED138 against such a crowded background of stars?",
+          "answer": "Holman's algorithm linked detections across images taken on different dates to find a faint object that moved slowly relative to the stellar background. Matching those positions allowed researchers to isolate ED138 from the field and work out its orbit."
+        },
+        {
+          "question": "Why is ED138's diameter still estimated as 600–1,500 km instead of a single precise number?",
+          "answer": "At that distance astronomers primarily measure reflected sunlight. Without a precise surface reflectivity, or albedo, the same brightness could correspond to a smaller reflective object or a larger darker one. Thermal and infrared follow-up can narrow the estimate and test whether gravity makes it nearly spherical."
+        }
+      ],
+      "tags": [
+        "Rubin",
+        "ED138",
+        "astronomy"
+      ],
+      "impactReason": "The candidate expands knowledge of the outer solar system and demonstrates the discovery potential of Rubin's new sky survey.",
+      "sources": [
+        {
+          "outlet": "NSF / Rubin Observatory",
+          "title": "New dwarf planet candidate discovered by NSF–DOE Rubin Observatory",
+          "url": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Rubin Observatory",
+          "title": "NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
+          "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Possible new dwarf planet identified orbiting beyond Pluto",
+          "url": "https://www.reuters.com/science/possible-new-dwarf-planet-identified-orbiting-beyond-pluto-2026-10-28/",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "National Geographic",
+          "title": "Astronomers Just Discovered a New Hidden World Beyond Neptune",
+          "url": "https://www.nationalgeographic.com/science/article/new-dwarf-planet-rubin-pluto",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky & Telescope",
+          "title": "Possible New Dwarf Planet in the Solar System",
+          "url": "https://skyandtelescope.org/astronomy-news/possible-new-dwarf-planet-in-the-solar-system/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Il Sistema Solare ha un nuovo possibile pianeta nano, è oltre Plutone",
+          "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/10/29/il-sistema-solare-ha-un-nuovo-possibile-pianeta-nano-e-oltre-plutone_dfa4a02c-23e6-462a-bc41-aa9f2de662e7.html",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "alt": "Original illustration of: Distant dwarf planet candidate and orbital observation, conceptual illustration",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/science-rubin-ed138-oct27.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
