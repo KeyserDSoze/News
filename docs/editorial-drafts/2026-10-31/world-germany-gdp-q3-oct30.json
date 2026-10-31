@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Await complete automated and independent editorial verification before publication",
+  "articles": {
+    "it": {
+      "id": "world-germany-gdp-q3-oct30",
+      "rank": 8,
+      "category": "economy",
+      "title": "Germania, Pil del terzo trimestre +0,2% mentre gli investimenti arretrano",
+      "dek": "La stima Destatis mostra il quarto trimestre consecutivo di crescita, con consumi in lieve aumento e rallentamento dell'export.",
+      "summary": "Il 30 ottobre Destatis ha stimato una crescita del PIL tedesco dello 0,2% nel terzo trimestre 2026 rispetto al precedente, leggermente sopra l'attesa di mercato dello 0,1%. Il confronto annuo è +1,3% a prezzi costanti, oppure +1,2% tenendo conto anche del calendario. Consumi lievemente positivi, investimenti in calo e esportazioni meno dinamiche definiscono una ripresa modesta.",
+      "body": [
+        "L'Ufficio federale di statistica tedesco Destatis ha pubblicato venerdì 30 ottobre 2026 la stima preliminare del prodotto interno lordo per luglio-settembre. Il PIL reale, destagionalizzato e corretto per le giornate lavorative, è aumentato dello 0,2% rispetto al secondo trimestre, dopo il +0,4% dei primi tre mesi e il +0,3% di aprile-giugno. Reuters e Il Sole 24 Ore Radiocor hanno riportato autonomamente la diffusione ufficiale, sottolineando che il valore superava la previsione di mercato dello 0,1%.",
+        "Su base annua la crescita è dell'1,3% in termini reali senza correzione del calendario, oppure dell'1,2% con correzione anche delle giornate lavorative. La differenza fra le due cifre non indica un errore, ma le diverse modalità di confrontare trimestri che non hanno lo stesso numero di giorni di lavoro. Destatis avverte inoltre che la stima è preliminare e che dati più completi sul terzo trimestre saranno pubblicati il 25 novembre.",
+        "La statistica indica un lieve contributo positivo della spesa per consumi finali, comprendente famiglie e amministrazioni pubbliche, e un arretramento degli investimenti fissi. La crescita vivace delle esportazioni osservata nella prima metà dell'anno si è attenuata sensibilmente nel terzo trimestre. Non vengono ancora quantificate in modo definitivo tutte le componenti: attribuire l'intero +0,2% a un singolo settore sarebbe quindi una semplificazione.",
+        "La Germania resta esposta ai costi dell'energia, alle incertezze commerciali e alle scelte di investimento in infrastrutture e difesa. Reuters segnala che il sostegno della spesa pubblica è importante per la crescita, mentre la domanda privata è meno dinamica. Un'economia in lieve espansione non equivale a una robusta accelerazione e la notizia non sostituisce le valutazioni su salari, occupazione e benessere che richiedono indicatori ulteriori."
+      ],
+      "facts": [
+        "Destatis ha stimato il 30 ottobre un PIL tedesco del terzo trimestre +0,2% sul trimestre precedente.",
+        "La crescita annua è +1,3% in termini reali e +1,2% correggendo anche il calendario.",
+        "I consumi finali sono aumentati lievemente mentre gli investimenti sono scesi e le esportazioni hanno perso slancio."
+      ],
+      "perspectives": [
+        "Destatis interpreta il dato come prosecuzione dell'espansione ma segnala componenti divergenti.",
+        "Reuters mette in risalto il ruolo della spesa statale e la debolezza degli investimenti privati."
+      ],
+      "unknowns": [
+        "Le revisioni possibili e la scomposizione completa attesa per il 25 novembre.",
+        "Quanto la crescita potrà sostenersi senza un rafforzamento degli investimenti e delle esportazioni."
+      ],
+      "questions": [
+        {
+          "question": "Perché Destatis riferisce sia +1,3% sia +1,2% per il PIL annuo tedesco?",
+          "answer": "Il +1,3% esclude l'inflazione, mentre il +1,2% corregge anche per il diverso numero di giornate lavorative tra il terzo trimestre del 2026 e quello del 2025. Sono due confronti con criteri statistici differenti, non risultati incompatibili."
+        },
+        {
+          "question": "Che cosa distingue la crescita tedesca dello 0,2% da una ripresa trainata dagli investimenti?",
+          "answer": "Il dato provvisorio mostra consumi finali in lieve espansione ma investimenti fissi in contrazione, oltre a un rallentamento delle esportazioni. La produzione aggregata può quindi aumentare poco anche se la componente che sostiene la capacità produttiva futura, gli investimenti, è ancora debole."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "La crescita modesta della maggiore economia europea influenza prospettive commerciali e investimenti nel continente.",
+      "tags": [
+        "Germania",
+        "PIL",
+        "Destatis"
+      ],
+      "sources": [
+        {
+          "outlet": "Destatis",
+          "title": "Gross domestic product in the 3rd quarter of 2026 up 0.2% on the previous quarter",
+          "url": "https://www.destatis.de/EN/Press/2026/10/PE26_381_811.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "German inflation cools on fuel tax cut, economy grows more than expected in Q3",
+          "url": "https://www.marketscreener.com/news/german-economy-grew-more-than-expected-in-q3-underpinned-by-state-spending-ce785fdbdb8bf022",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "German preliminary Q3 GDP up adj 0.2% vs Q2",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economy/dettaglio/german-preliminary-q3-gdp-up-adj-02-vs-q2-nRC_30102026_1051_324157966.html?lang=en",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-germany-gdp-q3-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-germany-gdp-q3-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-germany-gdp-q3-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-germany-gdp-q3-oct30",
+      "rank": 8,
+      "category": "economy",
+      "title": "Germany's third-quarter GDP rises 0.2% as investment declines",
+      "dek": "Destatis shows a fourth consecutive quarter of expansion, with slightly higher consumption and weaker export momentum.",
+      "summary": "On October 30 Destatis estimated German GDP grew 0.2% in the third quarter of 2026 from the previous three months, just above the 0.1% market consensus. Real output was 1.3% higher year on year, or 1.2% after adjusting for calendar effects as well. Consumption rose slightly, capital formation declined and exports lost momentum, pointing to an uneven recovery.",
+      "body": [
+        "Germany's Federal Statistical Office, Destatis, released its preliminary GDP estimate for July–September on Friday October 30, 2026. After adjusting for price, seasonal patterns and working days, output rose by 0.2% from the previous quarter, following growth of 0.4% in January–March and 0.3% in April–June. Reuters and Il Sole 24 Ore Radiocor independently covered the official report and noted that the result exceeded economists' 0.1% forecast.",
+        "Compared with the same quarter of 2025, real GDP was 1.3% higher before adjusting for calendar differences, or 1.2% after accounting for working days as well. The two percentages are not contradictory: they use different adjustments when comparing periods with different working-day patterns. Destatis says the numbers are preliminary and plans to release detailed third-quarter national accounts on November 25.",
+        "The initial release describes a slight rise in final consumption by households and government but a decline in capital formation. Strong export expansion during the first half of 2026 slowed considerably in the third quarter. A full detailed breakdown was not yet available, so the headline gain should not be assigned wholly to one industry or public-spending programme.",
+        "Germany continues to face expensive energy, trade uncertainty and decisions about spending on infrastructure and defence. Reuters has emphasized the importance of public expenditure in supporting activity while private-sector investment momentum remains weak. A slight positive quarterly reading is not evidence of a vigorous recovery, nor can it alone describe household incomes or labour-market conditions without separate statistics."
+      ],
+      "facts": [
+        "Destatis reported third-quarter German GDP 0.2% above the preceding quarter on October 30.",
+        "Output was 1.3% higher year on year in real terms, or 1.2% with additional calendar adjustment.",
+        "Final consumption rose modestly while investment declined and export growth slowed."
+      ],
+      "perspectives": [
+        "Destatis views the figures as continued recovery with uneven demand components.",
+        "Reuters emphasizes support from government spending and weak private investment."
+      ],
+      "unknowns": [
+        "Possible revisions and the full component breakdown due November 25.",
+        "Whether growth can continue without stronger investment and exports."
+      ],
+      "questions": [
+        {
+          "question": "Why does Destatis give both 1.3% and 1.2% for Germany's annual GDP growth?",
+          "answer": "Both remove price changes, but the 1.2% series also adjusts for differences in the number and distribution of working days between the third quarters of 2026 and 2025. They are different statistical presentations of the same economy rather than incompatible results."
+        },
+        {
+          "question": "Why does 0.2% GDP growth not demonstrate an investment-led German recovery?",
+          "answer": "The flash release shows final consumption edging up, but capital formation falling and export momentum weakening. Total production can therefore rise slightly even while investment, which supports future productive capacity, remains under pressure."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Weak growth in Europe's largest economy matters for regional trade and investment expectations.",
+      "tags": [
+        "Germany",
+        "GDP",
+        "Destatis"
+      ],
+      "sources": [
+        {
+          "outlet": "Destatis",
+          "title": "Gross domestic product in the 3rd quarter of 2026 up 0.2% on the previous quarter",
+          "url": "https://www.destatis.de/EN/Press/2026/10/PE26_381_811.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "German inflation cools on fuel tax cut, economy grows more than expected in Q3",
+          "url": "https://www.marketscreener.com/news/german-economy-grew-more-than-expected-in-q3-underpinned-by-state-spending-ce785fdbdb8bf022",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Sole 24 Ore Radiocor",
+          "title": "German preliminary Q3 GDP up adj 0.2% vs Q2",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economy/dettaglio/german-preliminary-q3-gdp-up-adj-02-vs-q2-nRC_30102026_1051_324157966.html?lang=en",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-germany-gdp-q3-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-germany-gdp-q3-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-germany-gdp-q3-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
