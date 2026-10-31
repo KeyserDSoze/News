@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-31",
+  "desk": "world",
+  "status": "EDITORIAL_DRAFT_NOT_FOR_PUBLICATION",
+  "reason": "Await complete automated and independent editorial verification before publication",
+  "articles": {
+    "it": {
+      "id": "world-us-early-vote-oct30",
+      "rank": 9,
+      "category": "politics",
+      "title": "Midterm USA, oltre 43 milioni di voti anticipati a cinque giorni dalle urne",
+      "dek": "L'analisi AP registra quasi dieci milioni di schede in più rispetto allo stesso punto del 2022, ma non mostra per chi abbiano votato gli elettori.",
+      "summary": "Un'analisi dei registri elettorali pubblicata il 30 ottobre da AP conta più di 43 milioni di schede anticipate in presenza o per posta, circa dieci milioni oltre lo stesso momento delle elezioni di metà mandato del 2022. A guidare gli incrementi relativi sono stati diversi Stati con sfide al Senato. I dati non equivalgono all'affluenza finale né anticipano l'esito dei candidati.",
+      "body": [
+        "A cinque giorni dalle elezioni di metà mandato statunitensi del 3 novembre 2026, Associated Press ha pubblicato il 30 ottobre una ricognizione dei dati sui voti anticipati: oltre 43 milioni di persone avevano già votato in presenza o restituito schede per posta, quasi dieci milioni in più rispetto allo stesso punto del 2022. L'analisi copriva 47 Stati e Washington, DC, contro 48 Stati e DC nel precedente confronto. Questa differenza di copertura richiede prudenza nell'interpretazione delle variazioni nazionali.",
+        "Nel Texas AP ha rilevato oltre 6,3 milioni di voti anticipati, il 50% in più rispetto ai 4,2 milioni disponibili allo stesso punto di quattro anni prima. Incrementi consistenti sono descritti anche in Maine, Michigan, North Carolina e Kansas, sedi di sfide decisive al Senato; South Carolina mostrava un balzo dell'83%. ABC News aveva pubblicato il 28 ottobre un'analisi distinta degli elettori meno assidui in Texas e Georgia, usando dati della società L2 e modelli statistici.",
+        "Un dato elettorale amministrativo certifica che una scheda è stata depositata o ricevuta, ma non indica il voto espresso: il segreto del voto resta preservato. In alcuni Stati è disponibile l'affiliazione registrata a un partito, in altri questa informazione manca; non tutte le registrazioni riflettono la scelta del candidato. Il Guardian ha seguito gli incrementi e le campagne, riprendendo i numeri AP ma senza essere contato come una seconda misurazione indipendente degli stessi 43 milioni.",
+        "I voti anticipati possono anticipare voti che in un'altra elezione sarebbero stati espressi il giorno ufficiale, non necessariamente accrescere l'affluenza complessiva. Inoltre l'analisi ABC distingue dati grezzi dalle etichette di orientamento politico stimate con modelli per Stati che non registrano il partito. Fino alla chiusura delle urne e allo scrutinio non è possibile dedurre da questi numeri quale coalizione conquisterà la Camera o il Senato."
+      ],
+      "facts": [
+        "AP ha stimato oltre 43 milioni di voti anticipati a cinque giorni dal voto del 3 novembre.",
+        "Il totale AP era circa dieci milioni sopra il punto comparabile delle midterm 2022.",
+        "In Texas AP segnalava circa +50% di schede anticipate rispetto allo stesso momento del 2022."
+      ],
+      "perspectives": [
+        "AP legge i conteggi come prova della maggiore partecipazione anticipata, non di un risultato politico già accertato.",
+        "ABC sottolinea che analisi per orientamento politico devono distinguere registrazione e modelli di preferenza presunta."
+      ],
+      "unknowns": [
+        "L'affluenza finale comprensiva del 3 novembre e gli effetti del voto anticipato sui totali.",
+        "Come saranno assegnati i seggi nei collegi e nelle elezioni al Senato."
+      ],
+      "questions": [
+        {
+          "question": "Perché il confronto dei 43 milioni di schede anticipate con il 2022 richiede cautela?",
+          "answer": "AP ha raccolto dati da 47 Stati più Washington, contro 48 Stati e Washington nel campione comparabile di quattro anni prima. Le modalità di voto e registrazione differiscono inoltre fra Stati, e alcuni elettori potrebbero semplicemente avere anticipato un voto che avrebbero espresso di persona il 3 novembre."
+        },
+        {
+          "question": "Come differisce un elettore registrato con un partito da un voto per quel partito?",
+          "answer": "Le liste elettorali di alcuni Stati riportano l'affiliazione dell'elettore, non la sua scheda segreta. In Texas e Georgia ABC ha dovuto inoltre usare modelli basati su precedenti comportamenti per ipotizzare la preferenza: né la registrazione né il modello certificano il candidato effettivamente scelto."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Un cambio nella modalità e nel ritmo di voto è significativo per l'organizzazione di elezioni che decideranno il controllo del Congresso, senza predirne gli esiti.",
+      "tags": [
+        "USA",
+        "elezioni",
+        "affluenza"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+          "url": "https://apnews.com/article/3f7d5c378b3d9bff5cde4604a55b9c9a",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "Democratic enthusiasm seen among less-frequent voters in Texas and Georgia, analysis shows",
+          "url": "https://abcnews.com/amp/Politics/democratic-enthusiasm-frequent-voters-key-states-texas-georgia/story?id=137580266",
+          "publishedAt": "2026-10-28",
+          "role": "analysis"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Early voting soars in Senate battlegrounds as Trump set to rally",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "On Point Politics",
+          "title": "2026 Early Vote Tracker: Ballots Cast by State",
+          "url": "https://www.onpointpolitics.us/maps/early-vote",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-us-early-vote-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-us-early-vote-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-us-early-vote-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    "en": {
+      "id": "world-us-early-vote-oct30",
+      "rank": 9,
+      "category": "politics",
+      "title": "US midterms: more than 43 million early votes counted five days before election",
+      "dek": "AP finds nearly ten million more advance ballots than at a similar point in 2022, but those totals cannot reveal candidate choices.",
+      "summary": "An Associated Press review published October 30 counted more than 43 million early in-person and returned mail ballots, almost ten million more than at the corresponding stage of the 2022 US midterm elections. Several competitive Senate states reported especially large increases. The early figures are not final turnout and cannot forecast which candidates received the votes.",
+      "body": [
+        "Five days before the November 3, 2026 US midterm elections, the Associated Press published an October 30 count showing that more than 43 million people had already cast ballots early in person or returned them by mail. That was nearly ten million more than at the same stage before the 2022 contest. AP's dataset covered 47 states plus Washington, DC, against 48 states and the capital four years earlier; this difference in coverage matters for comparisons.",
+        "In Texas, AP reported more than 6.3 million early ballots, 50% above the 4.2 million recorded at the equivalent stage in 2022. Maine, Michigan, North Carolina and Kansas, each featuring a competitive Senate race, also registered sizable increases; South Carolina showed an 83% rise. Separately, ABC News published its own October 28 analysis of less-regular voters in Texas and Georgia, using L2 voter-record data and statistical models.",
+        "An administrative vote count can record that a ballot was cast or received, but does not disclose how someone voted: the ballot remains secret. Some states report party registration, while others do not, and party affiliation cannot be treated as an individual candidate selection. The Guardian followed the voting surge and campaigns but relied on AP for the 43-million figure, rather than supplying a second independent calculation of that exact total.",
+        "Early votes may simply replace votes that would otherwise have been cast on Election Day, instead of increasing the number of people who eventually participate. ABC's political-lean analysis also separates registration data from modeled probabilities in places where party affiliation is not recorded. Neither approach establishes which party will win either chamber of Congress before polling and counting are complete."
+      ],
+      "facts": [
+        "AP counted more than 43 million early votes five days before the November 3 election.",
+        "Its tally exceeded the corresponding 2022 early-voting pace by nearly ten million.",
+        "AP reported about 50% more early ballots cast in Texas than at the same point in 2022."
+      ],
+      "perspectives": [
+        "AP treats the figures as evidence of faster early voting, not an established partisan result.",
+        "ABC emphasizes that modeled leanings are not the same thing as verified votes or registered affiliations."
+      ],
+      "unknowns": [
+        "Final turnout after Election Day and how much early voting displaced later voting.",
+        "Which candidates and parties will actually win the competitive House and Senate contests."
+      ],
+      "questions": [
+        {
+          "question": "Why does comparing 43 million early ballots with 2022 require caution?",
+          "answer": "AP's data covered 47 states plus Washington, DC, compared with 48 states and DC at the corresponding 2022 point. States also differ in how they record early ballots, and some voters may simply have cast ahead of time a ballot they otherwise would have submitted on November 3."
+        },
+        {
+          "question": "How does party registration differ from a vote cast for a party's candidate?",
+          "answer": "Some state voter files show the party an individual is registered with, not the contents of their secret ballot. In Texas and Georgia, ABC additionally used models of probable party lean because voters do not register by party; neither registration nor modeling identifies how an individual voted."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Accelerated voting matters to the administration of elections that will determine congressional control, but does not predict the winners.",
+      "tags": [
+        "US",
+        "elections",
+        "turnout"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+          "url": "https://apnews.com/article/3f7d5c378b3d9bff5cde4604a55b9c9a",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ABC News",
+          "title": "Democratic enthusiasm seen among less-frequent voters in Texas and Georgia, analysis shows",
+          "url": "https://abcnews.com/amp/Politics/democratic-enthusiasm-frequent-voters-key-states-texas-georgia/story?id=137580266",
+          "publishedAt": "2026-10-28",
+          "role": "analysis"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Early voting soars in Senate battlegrounds as Trump set to rally",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "On Point Politics",
+          "title": "2026 Early Vote Tracker: Ballots Cast by State",
+          "url": "https://www.onpointpolitics.us/maps/early-vote",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-10-31/assets/world-us-early-vote-oct30.svg",
+        "alt": "Original symbolic editorial illustration world-us-early-vote-oct30",
+        "credit": "O / Oggettivizzatore — original editorial illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-10-31/docs/editorial-drafts/2026-10-31/assets/world-us-early-vote-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  }
+}
