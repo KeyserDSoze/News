@@ -400,7 +400,14 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/binance-reserves-replenished-oct31.svg",
         "license": "Original O / Oggettivizzatore art; publication on O authorized",
         "kind": "illustration"
-      }
+      },
+      "related": [
+        {
+          "date": "2026-10-31",
+          "section": "technology",
+          "id": "technology-binance-hack-oct30"
+        }
+      ]
     }
   ]
 }
