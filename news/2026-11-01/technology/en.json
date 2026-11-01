@@ -116,13 +116,17 @@
         "The next stated goal is to connect two satellites in 2027, which remains an engineering plan. Using solar power in orbit has to contend with heat rejection, launch mass, communications latency and availability. No net climate or economic advantage has yet been demonstrated: the verified advance is a limited inference performed in space."
       ],
       "facts": [
-        "the measurements and dates in the first two paragraphs are sourced; company claims remain attributed."
+        "Google said on October 30 that the Suncatcher prototype launched on October 1 had generated a Gemma 4 response on an orbital TPU during a Svalbard ground-station pass.",
+        "TechCrunch reports four TPUs, up to one kilowatt of satellite power and only one TPU able to run for roughly twenty minutes at a time.",
+        "Google plans thermal and radiation tests and a two-satellite experiment in 2027; these are future tests."
       ],
       "perspectives": [
-        "industry and technical or regulatory interpretations are assigned to their actual proponents."
+        "Google describes the experiment as an early feasibility check for orbital AI compute, not an available service.",
+        "TechCrunch points to power, communications and launch constraints as obstacles to scaling."
       ],
       "unknowns": [
-        "expected outcomes, later evidence and final investigation or test results are not available as of the events described."
+        "Long-term TPU reliability and errors under prolonged radiation and thermal stress have not been publicly measured.",
+        "No overall cost, energy or emissions advantage over terrestrial data centres has been demonstrated."
       ],
       "questions": [
         {
@@ -157,10 +161,10 @@
           "role": "reporting"
         },
         {
-          "outlet": "Tech Current",
-          "title": "Daily Brief October 31 2026",
-          "url": "https://teccurrent.com/articles/daily-brief-2026-10-31/",
-          "publishedAt": "2026-10-31",
+          "outlet": "The Verge",
+          "title": "Google’s satellite AI server transmits its first response to Earth",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "publishedAt": "2026-10-30T18:21:00Z",
           "role": "reporting"
         }
       ],
@@ -187,13 +191,17 @@
         "The case could affect bargaining power, remuneration for content and competition between platforms and news publishers, but the authority must gather evidence and hear the parties. The CMA has separately sought information on Meta One, a different subscription-related matter which should not be conflated with the new probe."
       ],
       "facts": [
-        "the measurements and dates in the first two paragraphs are sourced; company claims remain attributed."
+        "On October 30 the UK CMA announced a Competition Act 1998 investigation into Meta's proposed commercial terms.",
+        "The scrutinized clauses could allow Meta to use content from publishers' websites to build products and services including AI systems.",
+        "According to the CMA's chronology, the October 30 implementation was postponed to November 20 and paused by Meta on October 28."
       ],
       "perspectives": [
-        "industry and technical or regulatory interpretations are assigned to their actual proponents."
+        "The CMA is investigating whether Meta holds a dominant position and whether the clauses, if so, constitute abuse.",
+        "Meta disputes the grounds for the investigation and says it paused implementation pending consultation."
       ],
       "unknowns": [
-        "expected outcomes, later evidence and final investigation or test results are not available as of the events described."
+        "The authority has not established dominance in a relevant market or found an abuse.",
+        "The investigation's result, timing and any revised contractual text remain undetermined."
       ],
       "questions": [
         {
@@ -258,13 +266,17 @@
         "Developers who installed version 2.1.313 during the affected window should follow Cursor's remediation guidance, check for an SSH key named 'svc-telemetry', and consider isolating affected machines and rotating exposed credentials. The estimate of at most 5,000 potentially exposed users is not a confirmed count of compromised devices; forensic work would be needed to establish successful unauthorized access."
       ],
       "facts": [
-        "the measurements and dates in the first two paragraphs are sourced; company claims remain attributed."
+        "According to BleepingComputer and Ars Technica, Cursor's marketplace served an altered Claude Code extension version 2.1.313 on October 29.",
+        "The added code attempted to install a persistent SSH key, start a tunnel and transmit machine metadata to a remote server.",
+        "Cursor reported up to 5,000 potentially affected users, removed the malicious package and released version 2.1.314."
       ],
       "perspectives": [
-        "industry and technical or regulatory interpretations are assigned to their actual proponents."
+        "Cursor says Anthropic did not create the altered package and has asked affected users to inspect their systems.",
+        "Security analysts covered by Ars Technica and BleepingComputer describe a software-extension supply-chain compromise."
       ],
       "unknowns": [
-        "expected outcomes, later evidence and final investigation or test results are not available as of the events described."
+        "How the attackers distributed altered code under a verified marketplace identity has not been fully explained.",
+        "The number of actually compromised machines or stolen secrets is not established by the potential download count."
       ],
       "questions": [
         {
@@ -329,13 +341,17 @@
         "Reuters also reports that the FBI attributed the attack to North Korea-linked TraderTraitor. This is an investigative attribution to be reported as the authorities' assessment, not a criminal conviction; a complete technical reconstruction of the intrusion is still needed. Less liquid tokens may be harder for Binance to buy in the required amounts, helping explain why replacing the remaining 10% may take longer."
       ],
       "facts": [
-        "the measurements and dates in the first two paragraphs are sourced; company claims remain attributed."
+        "On October 31 Binance said it had replenished about 90% of the missing assets' value using its own funds after the October 29 hack.",
+        "Replacing value does not mean investigators recovered 90% of the original stolen tokens.",
+        "Binance announced an October 31 reserves snapshot and cryptographic verification scheduled for November 3; Reuters said withdrawals remained suspended at the time."
       ],
       "perspectives": [
-        "industry and technical or regulatory interpretations are assigned to their actual proponents."
+        "Binance says it is restoring customer backing through replacement purchases while cooperating in asset freezes.",
+        "Reuters and CoinDesk distinguish corporate-funded replenishment from frozen assets and actual client returns."
       ],
       "unknowns": [
-        "expected outcomes, later evidence and final investigation or test results are not available as of the events described."
+        "The final number and value of original stolen tokens recovered from the attackers have not been confirmed.",
+        "The planned November 3 proof-of-reserves checks and the actual resumption of withdrawals had not taken place at the time described."
       ],
       "questions": [
         {
