@@ -37,8 +37,27 @@ Evitare riproposizioni senza novità: `oleshky-demining-humanitarian-oct29` (30/
 - **Scienza, esclusi per falsa freschezza:** STAR/ossigeno appare su ScienceDaily il 30/10 ma Physical Review Letters lo ha pubblicato **20/10**: https://journals.aps.org/prl/abstract/10.1103/9w2y-bz9n ; studio sui coccodrilli riproposto il 30/10 ma UCL lo annunciava **22/10**: https://www.ucl.ac.uk/news/2026/oct/keeping-warm-climates-helped-crocodiles-outlast-dinosaurs ; studio retron di Gladstone riportato il 31/10 ma pubblicato in Molecular Cell il **13/10**: https://sciencedaily.com/releases/2026/10/261029072123.htm . Non spacciare una ripubblicazione come nuova scoperta nella finestra.
 - **Scienza, da datare:** studio su 24.000 atomi e tempo entropico, ScienceDaily 30/10 https://sciencedaily.com/releases/2026/10/261028234703.htm e SciBeat 30/10 https://scibeat.com/articles/24-000-atoms-build-a-tiny-universe-where-time-runs-without-a-clock . Occorre verificare articolo originale in Physical Review Research, DOI 10.1103/1h9j-df4k, ed effettiva indipendenza del secondo editore.
 
+## Avanzamento redazionale dopo approvazione dell'editore — 1 novembre 2026
+
+L'editore ha autorizzato la pubblicazione **soltanto a completamento di tutte le condizioni**. Proseguimento svolto dentro ChatGPT e isolato nella PR #12 in bozza. Sono ora disponibili **otto bozze bilingui in Markdown**, non articoli finali in JSON:
+
+| Rubrica | Bozze / quota | File su branch |
+|---|---:|---|
+| Mondo | 4 / 10 | `oleshky-bilingual.md` (originale), `france-protests-bilingual.md`, `korea-trade-bilingual.md`, `bangladesh-wages-bilingual.md` |
+| Italia | 2 / 5 | `italy-school-budget-bilingual.md` (originale), `italy-pension-indexation-bilingual.md` |
+| Tecnologia | 1 / 5 | `ai-training-signal-bilingual.md` (originale) |
+| Scienza | 1 / 5 | `ibm-quantum-links-bilingual.md` |
+
+Le **cinque nuove bozze** sono state redatte con quattro paragrafi sostanziali per lingua e due Q&A specifiche per articolo e per lingua (10 nuove coppie di Q&A italiano/inglese; 20 Q&A se si contano separatamente tutte le lingue). Le tre precedenti avevano 6 coppie aggiuntive: **16 coppie bilingui in otto bozze**, a controllo semantico preliminare, **non** validate su JSON per pubblicazione. I testi esplicitano se si tratta di eventi originari, sviluppi successivi o ricerche preliminari. Le fonti dei singoli articoli sono elencate nei file; occorre riverificare i testi integrali e le URL prima di produzione. L'ultima revisione semantica è un controllo redazionale preliminare, non sostituisce l'audit finale.
+
+**Duplicato bloccato:** la bozza su `2026 ED138` è stata rimossa dalla PR, perché l'oggetto astronomico è già presente nell'edizione **Scienza del 31 ottobre**, ID `rubin-2026-ed138-dwarf-planet-candidate-oct27`. Nessuna nuova voce 2026 ED138 entra nelle quote. L'oggetto non può diventare una novità del 1 novembre solo per una ripubblicazione della scoperta.
+
+**Importante:** per la Corea del Sud il dato ottobre 115,28 miliardi di USD e +93,7% annuale va confrontato con il picco di settembre vicino a 121 miliardi: non presentare ottobre come massimo mensile assoluto. La nota ministeriale originale di settembre è https://english.motir.go.kr/eng/article/EATCLdfa319ada/2743/view ; lo stesso contenuto va ricontrollato contro i dati doganali. Per il Bangladesh manca ancora URL Reuters originale non sindacato. Per la bozza Scienza IBM l'esperimento è un *preprint*, non un risultato peer-reviewed confermato; non equiparare la fedeltà di trasferimento 99% a quella dei gate CZ 94,75%.
+
+**Candidati mancanti per completare 25:** Mondo 6, Italia 3, Tecnologia 4, Scienza 4. I 17 mancanti non sono stati riempiti con titoli vecchi, rilanci di comunicati o copie di uno stesso editore. Per tutti gli 8 ancora mancano immagini originali con provenienza, JSON formali, verifica finale delle fonti, audit Q&A su file completi e build/CI.
+
 ## Gate di pubblicazione — STATO BLOCCATO
 
-**Quota pubblicabile:** 0/25 articoli. **Bozze complete in JSON:** 0/8 file. **Asset con licenza:** 0/25. **Q&A bilingue con audit semantico su tutti i 25:** NON ESEGUITO. **Controlli npm test:content, build, Playwright, CI sul candidato:** NON ESEGUITI (mancano gli otto JSON e gli asset). **Merge:** VIETATO. **Deploy edizione 2026-11-01:** NON ESEGUITO. Questo documento non sostituisce i controlli. Le tre bozze testuali IT/EN sono materiale di redazione e richiedono immagini originali, JSON completi e verifica incrociata prima di essere ammissibili.
+**Quota pubblicabile:** 0/25 articoli finali (otto bozze IT/EN, nessuna pubblicabile). **Bozze ancora da scrivere:** 17. **JSON completi:** 0/8 file. **Asset originali/con licenza:** 0/25. **Q&A bilingue con audit semantico su tutti i 25 e test automatico:** NON ESEGUITO. **Controlli `npm run test:content`, `npm run build`, Playwright e CI sull'edizione:** NON ESEGUITI, perché i JSON e gli asset non esistono. **Merge:** BLOCCATO. **Deploy dell'edizione 2026-11-01:** NON ESEGUITO. **Stato live:** non verificato direttamente. L'autorizzazione dell'editore non autorizza a eludere i gate editoriali o ad alterare `main` con una pubblicazione parziale.
 
-Nessuna copia di immagini Reuters, AP, ANSA o altri editori è stata caricata. Il lavoro resta isolato nel branch e nella PR in bozza.
+Nessuna immagine di Reuters/AP/ANSA o altro titolare è stata acquisita o presentata come licenziata. Il lavoro resta isolato nel branch `editorial/research-2026-11-01` e nella PR #12 in bozza. L'ultimo commit delle bozze aggiunte è `487b525664e98830608d4b848eb01abb442709dc`, antecedente a questo aggiornamento del registro.
