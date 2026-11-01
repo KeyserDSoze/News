@@ -79,7 +79,14 @@
         "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/oleshky-civilian-return-oct31.svg",
         "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
         "kind": "illustration"
-      }
+      },
+      "related": [
+        {
+          "date": "2026-10-30",
+          "section": "world",
+          "id": "oleshky-demining-humanitarian-oct29"
+        }
+      ]
     },
     {
       "id": "france-protests-third-weekend-oct31",
@@ -736,10 +743,10 @@
           "role": "reporting"
         },
         {
-          "outlet": "INSP DR Congo bulletin archive",
-          "title": "INSP DR Congo bulletin archive coverage",
-          "url": "https://ebola-tracker.org/en/reports/",
-          "publishedAt": "2026-10-31",
+          "outlet": "Institut National de Santé Publique (DR Congo)",
+          "title": "Rapport de Situation n°168/MVE-BDBV/29/10/2026",
+          "url": "https://ebola-tracker.org/reports/SITREP_MVE_168.pdf",
+          "publishedAt": "2026-10-30",
           "role": "official"
         }
       ],
