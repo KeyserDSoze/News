@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Original editorial illustration by O / Oggettivizzatore, 2026-11-01. Not a documentary photograph. Publication and reuse on O authorized. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title desc">
+<title id="title">Cursor — Estensione compromessa</title><desc id="desc">Illustrazione vettoriale originale che rappresenta il tema della notizia, non una fotografia dell'evento.</desc>
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#282444"/><stop offset="1" stop-color="#65578c"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<circle cx="950" cy="305" r="260" fill="#ffffff" opacity=".07"/><circle cx="950" cy="305" r="200" fill="none" stroke="#ffffff" stroke-opacity=".12" stroke-width="2"/>
+<path d="M90 115h530" stroke="#d6f2ee" stroke-opacity=".4" stroke-width="2"/>
+<text x="92" y="88" font-size="31" font-family="Arial,Helvetica,sans-serif" letter-spacing="5" font-weight="700" fill="#d6f2ee">O  /  TECHNOLOGY</text>
+<text x="92" y="296" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="59" fill="#ffffff">Cursor</text>
+<text x="92" y="363" font-family="Arial,Helvetica,sans-serif" font-weight="500" font-size="34" fill="#d6f2ee">Estensione compromessa</text>
+<g transform="translate(774 155)"><rect x="40" y="40" width="280" height="230" rx="20" stroke="#d6f2ee" stroke-width="12" fill="none"/><path d="M87 119l42 32-42 32M156 184h110" stroke="#d6f2ee" stroke-width="12" fill="none" stroke-linecap="round"/></g>
+<path d="M90 511h1020" stroke="#d6f2ee" stroke-opacity=".4" stroke-width="2"/>
+<text x="92" y="552" fill="#d6f2ee" font-size="22" letter-spacing="3" font-family="Arial,Helvetica,sans-serif">01.11.2026   /   ILLUSTRAZIONE EDITORIALE</text>
+<text x="92" y="591" fill="#d6f2ee" opacity=".85" font-size="18" font-family="Arial,Helvetica,sans-serif">O / Oggettivizzatore — original editorial artwork</text>
+</svg>
