@@ -1,0 +1,364 @@
+{
+  "date": "2026-11-01",
+  "language": "it",
+  "section": "italy",
+  "publishedAt": "2026-11-01T08:48:00+01:00",
+  "editorialNote": "BOZZA NON PUBBLICABILE: audit editoriale e tecnico ancora in corso.",
+  "articles": [
+    {
+      "id": "italy-school-budget-bilingual",
+      "rank": 1,
+      "category": "society",
+      "title": "Manovra 2027, il disegno di legge propone 6.974 posti in meno negli organici scolastici",
+      "dek": "Le riduzioni prospettate per l'anno scolastico 2027/28 riguardano 4.925 posti dell'organico dell'autonomia e 2.049 ATA. Sindacati e opposizioni chiedono modifiche.",
+      "summary": "Il 31 ottobre 2026 il testo del disegno di legge di Bilancio 2027 ha alimentato un confronto sulla riduzione prevista di 6.974 posti negli organici della scuola statale a partire dal 2027/28. La relazione tecnica, riportata da ANSA, Sky TG24 e Open, stima risparmi di 83,9 milioni di euro nel 2027 e 251,7 milioni annui dal 2028. Si tratta di una proposta parlamentare, non di tagli già entrati in vigore o di 6.974 licenziamenti accertati.",
+      "body": [
+        "Il disegno di legge di Bilancio per il 2027 prevede, all'articolo 66 secondo le ricostruzioni pubblicate il 31 ottobre, una riduzione di 4.925 posti nell'organico dell'autonomia scolastica e di 2.049 posti per il personale amministrativo, tecnico e ausiliario, per un totale di 6.974 unità. L'intervento dovrebbe decorrere dall'anno scolastico 2027/28. ANSA, Sky TG24 e Open riportano la stessa ripartizione, attribuendola al testo e alla relazione tecnica della manovra. La cifra indica posti previsti negli organici, non un numero già documentato di lavoratori licenziati.",
+        "La relazione tecnica quantifica i risparmi attesi in 83,9 milioni di euro nel 2027 e 251,7 milioni all'anno a partire dal 2028. Il diverso importo riflette la decorrenza scolastica e gli effetti finanziari distribuiti tra gli anni di bilancio. Non equivale a un risparmio già realizzato: il provvedimento deve attraversare l'iter parlamentare e le stime dipendono dal testo finale e dalla sua applicazione. La riduzione dei posti è distinta dagli altri capitoli del ddl, compresi gli stanziamenti per l'efficienza energetica degli edifici e le misure sui servizi per l'infanzia.",
+        "La pubblicazione del testo ha suscitato critiche di opposizioni e organizzazioni sindacali. La segretaria generale della Cisl Daniela Fumarola ha chiesto il ritiro della misura e un confronto con il governo, sostenendo che la scuola abbia bisogno di personale e investimenti. Esponenti del Pd e del M5s hanno contestato la scelta in relazione alle difficoltà dei servizi scolastici e alle manifestazioni degli studenti. Sono valutazioni politiche e sindacali attribuite, non una dimostrazione già misurata dell'effetto della riduzione su ciascun istituto.",
+        "L'impatto concreto dipenderà da come gli eventuali nuovi organici saranno distribuiti fra territori, ordini scolastici, discipline e mansioni amministrative. Una riduzione nazionale non produce automaticamente la stessa conseguenza in ogni scuola: contano il numero di iscritti, le esigenze educative e la disponibilità locale di personale. Per valutare l'intervento serviranno il testo definitivamente approvato, le istruzioni attuative e i dati di assegnazione dei posti. Al 31 ottobre la questione documentata è una scelta proposta nella manovra e contestata pubblicamente, non un esito amministrativo già completato."
+      ],
+      "facts": [
+        "Il ddl Bilancio 2027 propone 4.925 posti in meno nell'organico dell'autonomia e 2.049 nel personale ATA, secondo le ricostruzioni concordanti del 31 ottobre.",
+        "L'anno scolastico indicato per la decorrenza è il 2027/28.",
+        "La relazione tecnica stima risparmi di 83,9 milioni nel 2027 e 251,7 milioni annui dal 2028."
+      ],
+      "perspectives": [
+        "La Cisl, tramite Daniela Fumarola, chiede il ritiro della riduzione degli organici e l'apertura di un confronto.",
+        "Esponenti del Pd e del M5s criticano l'intervento come indebolimento dei servizi scolastici.",
+        "La stima finanziaria è attribuita alla relazione tecnica governativa, non a una valutazione indipendente degli effetti educativi."
+      ],
+      "unknowns": [
+        "La versione definitiva dell'articolo 66 dopo l'esame parlamentare non è nota al momento di questa bozza.",
+        "Non è disponibile una ripartizione finale dei posti per singola scuola e territorio, né una valutazione verificata degli effetti sugli apprendimenti."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa comprendono i 6.974 posti indicati nell'articolo 66 della manovra 2027?",
+          "answer": "La somma unisce 4.925 posti dell'organico dell'autonomia, che riguarda il personale docente, e 2.049 posti del personale amministrativo, tecnico e ausiliario. Si tratta di dotazioni organiche previste dal disegno di legge per il 2027/28, non di un elenco di 6.974 licenziamenti già disposti."
+        },
+        {
+          "question": "Perché il risparmio stimato per la scuola passa da 83,9 milioni nel 2027 a 251,7 milioni dal 2028?",
+          "answer": "Le riduzioni proposte inizierebbero con l'anno scolastico 2027/28, che non coincide con l'anno finanziario: nel 2027 inciderebbero solo su una parte dell'anno, mentre dal 2028 l'effetto stimato sarebbe annuale. Gli importi restano proiezioni della relazione tecnica e possono cambiare durante l'iter legislativo."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "possibile effetto nazionale sulla dotazione di personale e sui servizi della scuola statale, ma il testo è ancora una proposta e la distribuzione concreta non è definita.",
+      "tags": [
+        "scuola",
+        "organici",
+        "manovra"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Manovra, per l'istruzione -7.000 posti, si rivede il fondo sugli asilo nido",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_288a80c7-5d31-4a62-8ccf-5fea05f53bf7.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Manovra 2027, tagli scuola: 7mila docenti e Ata in meno",
+          "url": "https://tg24.sky.it/economia/2026/10/31/manovra-2027-scuola-tagli-docenti-ata-polemiche",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Open",
+          "title": "Il governo taglia ancora sulla scuola",
+          "url": "https://www.open.online/2026/10/31/scuola-tagli-docenti-legge-bilancio-2027/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-school-budget-bilingual.svg",
+        "alt": "Illustrazione originale, non foto: Manovra 2027, il disegno di legge propone 6.974 posti in meno negli organici scolastici",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-school-budget-bilingual.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "pensions-indexation-2027-bill-oct31",
+      "rank": 2,
+      "category": "economy",
+      "title": "Pensioni, nel ddl Bilancio la rivalutazione piena si fermerebbe a 2.447 euro lordi: risparmi stimati per 14,2 miliardi",
+      "dek": "La stima decennale della relazione tecnica è lorda; la perdita di indicizzazione riguarderebbe gli assegni oltre quattro volte il minimo Inps, ma la norma deve superare il Parlamento.",
+      "summary": "Il 31 ottobre 2026 la relazione tecnica della manovra per il 2027 ha quantificato in circa 14,2 miliardi di euro lordi, e 8,5 miliardi al netto degli effetti fiscali, il risparmio atteso in dieci anni dalla riduzione della rivalutazione delle pensioni medio-alte. Il disegno di legge prevede adeguamento pieno all'inflazione per pensioni fino a quattro volte il minimo Inps, pari a 2.447,40 euro lordi mensili; per gli importi più alti la percentuale di rivalutazione scenderebbe per fasce fino al 32%. ANSA, la Repubblica e Sky TG24 hanno analizzato il testo, non ancora approvato.",
+      "body": [
+        "La versione del disegno di legge di Bilancio 2027 presentata alla Camera dopo il vaglio della Ragioneria generale dello Stato contiene un nuovo schema di rivalutazione delle pensioni. La pubblicazione della relazione tecnica, discussa il 31 ottobre 2026, rende più precisi i possibili effetti di spesa: fino a 14,2 miliardi di euro lordi risparmiati lungo dieci anni, secondo le simulazioni governative. Sono stime condizionate all'approvazione e all'andamento effettivo dei prezzi, non soldi già sottratti ai pensionati o risorse già incassate dal Tesoro. Il testo dovrà essere esaminato e potrà cambiare in Parlamento.",
+        "La rivalutazione è il meccanismo che aumenta gli assegni per compensare, in tutto o in parte, l'inflazione. Nel testo, il recupero del 100% del tasso applicabile resterebbe per pensioni fino a quattro volte il minimo Inps: con il minimo indicato di 611,85 euro, la soglia risulta 2.447,40 euro lordi al mese. Sopra tale limite tornerebbe un sistema per fasce già utilizzato nel 2023: gli assegni fra quattro e cinque volte il minimo riceverebbero l'85% della rivalutazione; si passa al 53%, 47%, 37% e fino al 32% per i trattamenti oltre dieci volte il minimo. Secondo la ricostruzione di la Repubblica, queste percentuali sono applicate al trattamento complessivo nella fascia, e non soltanto alla porzione che supera la soglia, il che cambia il calcolo individuale.",
+        "La relazione tecnica prevede minori uscite previdenziali per circa 1,476 miliardi di euro lordi all'anno nel primo triennio 2027–2029; una volta considerati i riflessi fiscali, la cifra stimata per lo Stato è di 885 milioni all'anno. Sull'intero decennio 2027–2036, la previsione complessiva è 14,2 miliardi lordi e 8,5 miliardi netti, con effetti annuali decrescenti dopo il 2030. La differenza tra lordo e netto non è un trasferimento ai pensionati, ma riflette che minori pensioni indicizzate possono determinare anche minori entrate fiscali. I calcoli adottano ipotesi di inflazione, che la Repubblica indica al 2,8%, modificabili con l'andamento economico.",
+        "La ridotta indicizzazione non implica automaticamente che il numero di euro nominali già percepiti oggi venga tagliato: significa un aumento inferiore rispetto a quello spettante con la rivalutazione piena e quindi una perdita relativa di potere d'acquisto, che può accumularsi nel tempo. Sindacati e opposizioni contestano il trasferimento dell'onere di bilancio sui pensionati; il governo lega la manovra al finanziamento complessivo di altre misure, compresa una modifica limitata al 2027 della seconda aliquota Irpef. La discussione richiede di confrontare l'effetto su diverse pensioni e non di generalizzare a tutti i trattamenti un importo uniforme di perdita. Per il momento si tratta di una proposta legislativa e della sua previsione tecnica."
+      ],
+      "facts": [
+        "Il 31 ottobre la relazione tecnica citata da ANSA ha quantificato risparmi prospettici di 14,2 miliardi lordi e 8,5 netti fra 2027 e 2036.",
+        "La bozza legislativa garantisce indicizzazione al 100% fino a 2.447,40 euro lordi mensili, quattro volte il minimo Inps di 611,85 euro.",
+        "Per importi superiori la quota di rivalutazione prevista scende, secondo le fasce, fino al 32% oltre dieci volte il minimo, senza che il ddl sia ancora diventato legge."
+      ],
+      "perspectives": [
+        "La relazione tecnica governativa quantifica la minore spesa rispetto alla rivalutazione attesa secondo lo scenario di riferimento.",
+        "Sindacati e opposizioni criticano la misura per gli effetti sul potere d'acquisto; Sky TG24 e la Repubblica spiegano in modo distinto le soglie e gli esempi individuali."
+      ],
+      "unknowns": [
+        "Testo finale dopo eventuali emendamenti parlamentari e modalità attuative del calcolo 2027.",
+        "Inflazione effettiva di riferimento e distribuzione delle perdite individuali per ciascuna tipologia di pensione."
+      ],
+      "questions": [
+        {
+          "question": "Come cambierebbe l'indicizzazione di una pensione sopra 2.447,40 euro lordi con la manovra 2027?",
+          "answer": "Secondo il ddl, la rivalutazione piena spetterebbe solo agli assegni fino a quattro volte il minimo Inps. Per un trattamento nella fascia fra quattro e cinque volte il minimo si applicherebbe l'85% dell'adeguamento all'inflazione, mentre sulle fasce più alte la quota sarebbe progressivamente inferiore, fino al 32% oltre dieci volte il minimo. Le regole del testo non sono ancora in vigore."
+        },
+        {
+          "question": "Perché la relazione tecnica indica 14,2 miliardi di risparmi pensionistici ma soltanto 8,5 miliardi netti?",
+          "answer": "I 14,2 miliardi sono la minore spesa previdenziale lorda stimata nel decennio 2027–2036. La cifra netta di 8,5 miliardi tiene conto dei riflessi fiscali: pagando aumenti pensionistici inferiori, lo Stato incasserebbe anche meno imposte su quei redditi. Entrambi sono valori prospettici, non risparmi già maturati."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "proposta capace di incidere per anni sul potere d'acquisto di molti pensionati italiani e sul bilancio pubblico, ma ancora soggetta a iter parlamentare e ipotesi di inflazione.",
+      "tags": [
+        "pensioni",
+        "inflazione",
+        "manovra"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Dalla stretta su rivalutazione delle pensioni risparmi lordi per 14,2 miliardi in 10 anni",
+          "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/31/da-stretta-su-rivalutazione-pensioni-risparmi-lordi-per-142-miliardi-in-10-anni_d71a6df3-8a83-44c3-ad0e-dab6af4e2a99.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Pensioni, torna la stretta sulla rivalutazione. Stangata da 14 miliardi in dieci anni",
+          "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/31/news/pensioni_manovra_2027_stretta_rivalutazione_inflazione-425689339/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Manovra 2027, stretta su rivalutazione pensioni e cedolare solo su nuovi contratti",
+          "url": "https://tg24.sky.it/economia/2026/10/30/manovra-2027-pensioni-irpef-novita",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/pensions-indexation-2027-bill-oct31.svg",
+        "alt": "Illustrazione originale, non foto: Pensioni, nel ddl Bilancio la rivalutazione piena si fermerebbe a 2.447 euro lordi: risparmi stimati per 14,2 miliardi",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/pensions-indexation-2027-bill-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-medical-device-payback-oct31",
+      "rank": 3,
+      "category": "economy",
+      "title": "Manovra 2027, imprese dei dispositivi medici contestano il payback e minacciano ricorsi",
+      "dek": "L'articolo 73 del disegno di legge regolerebbe gli sforamenti della spesa regionale per il periodo 2019–2023; i 12,5 miliardi sono una stima dell'industria, non un debito accertato.",
+      "summary": "Il 31 ottobre 2026 il presidente di Confindustria Dispositivi Medici, Fabio Faltoni, ha annunciato azioni legali e proteste contro le norme sul payback previste dalla proposta di legge di Bilancio 2027. ANSA e LaPresse hanno pubblicato resoconti distinti delle reazioni del comparto, documentando l'oggetto del contendere: un meccanismo che chiede ai fornitori di concorrere al ripiano degli sforamenti dei tetti di spesa sanitaria regionali. Le disposizioni sono in un disegno di legge, non in una norma già definitivamente approvata dal Parlamento.",
+      "body": [
+        "Il 31 ottobre 2026 il presidente di Confindustria Dispositivi Medici, Fabio Faltoni, ha annunciato azioni legali e proteste contro le norme sul payback previste dalla proposta di legge di Bilancio 2027. ANSA e LaPresse hanno pubblicato resoconti distinti delle reazioni del comparto, documentando l'oggetto del contendere: un meccanismo che chiede ai fornitori di concorrere al ripiano degli sforamenti dei tetti di spesa sanitaria regionali. Le disposizioni sono in un disegno di legge, non in una norma già definitivamente approvata dal Parlamento.",
+        "Il testo citato dalle associazioni, articolo 73, prevede la certificazione delle somme riferite agli esercizi 2019–2023, con la prima scadenza di pagamento indicata per il 30 luglio 2027. La contestazione riguarda anche il trattamento degli anni della pandemia e il tetto per i dispositivi, che secondo Conflavoro PMI Sanità aumenterebbe al 4,7% soltanto dal 2027. Le associazioni lamentano che l'aumento non correggerebbe retroattivamente le eccedenze precedenti; la verifica di ogni riparto richiede il testo approvato e gli atti regionali.",
+        "Faltoni quantifica in 12,5 miliardi di euro il costo totale che, secondo le stime di Confindustria Dispositivi Medici, graverebbe sulle aziende fra il 2019 e il 2029. Non è il valore che lo Stato abbia già incassato né una stima indipendente certificata. Conflavoro PMI Sanità sostiene che il disegno di legge contempli un contributo statale di 350 milioni annui dal 2028 al 2031, pari a 1,4 miliardi complessivi, ma che esso non cancelli gli obblighi a carico dei fornitori.",
+        "Le imprese ritengono che il sistema possa ridurre investimenti, lavoro e disponibilità di tecnologie negli ospedali. È un rischio prospettato dalle organizzazioni interessate, non una riduzione dell'offerta medica già misurata. Il contenzioso esistente e il rinvio di questioni europee sono richiamati da Faltoni, ma la loro portata andrà verificata sugli atti giudiziari. ANSA e LaPresse descrivono la mobilitazione e le possibili conseguenze senza che vi sia ancora un emendamento approvato che risolva la controversia."
+      ],
+      "facts": [
+        "Il 31 ottobre ANSA e LaPresse hanno riportato l'annuncio di ricorsi e proteste da parte di Confindustria Dispositivi Medici.",
+        "La quantificazione di 12,5 miliardi per il 2019–2029 è attribuita all'associazione industriale.",
+        "Il provvedimento discusso è ancora un disegno di legge."
+      ],
+      "perspectives": [
+        "Confindustria Dispositivi Medici giudica la norma insostenibile e invoca modifiche parlamentari.",
+        "Conflavoro PMI Sanità ritiene che l'aiuto statale proposto non esoneri le imprese minori."
+      ],
+      "unknowns": [
+        "Il testo finale dell'articolo 73 e i suoi effetti dopo eventuali emendamenti non sono definiti.",
+        "L'ammontare esatto dei pagamenti per ciascuna impresa richiede atti regionali e iter giudiziario."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa copre il payback contestato dai fornitori di dispositivi medici?",
+          "answer": "È un sistema con cui parte delle spese regionali per dispositivi che superano un tetto di riferimento viene posta a carico delle aziende fornitrici. L'articolo 73 del ddl Bilancio disciplina il recupero di annualità dal 2019 al 2023, non un prelievo già pagato da tutte le imprese."
+        },
+        {
+          "question": "Da dove proviene la cifra di 12,5 miliardi di euro contestata dal settore?",
+          "answer": "È la stima cumulativa per il 2019–2029 comunicata da Fabio Faltoni per Confindustria Dispositivi Medici, non il risultato di un accertamento giudiziario. Le associazioni chiedono modifiche alla proposta anche perché il contributo statale prospettato non eliminerebbe le richieste di rimborso."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "L'articolo 73 del disegno di legge regolerebbe gli sforamenti della spesa regionale per il periodo 2019–2023; i 12,5 miliardi sono una stima dell'industria, non un debito accertato. Le conseguenze restano circoscritte ai fatti verificati, non ai rischi ipotizzati.",
+      "tags": [
+        "payback",
+        "dispositivi",
+        "sanità"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Manovra: Confindustria dispositivi medici, azioni legali e proteste su payback",
+          "url": "https://www.ansa.it/amp/sito/notizie/economia/pmi/2026/10/31/manovra-confindustria-dispositivi-medici-azioni-legali-e-proteste-su-payback_795f9d4e-2f98-4bfe-9748-eda281d22cb8.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "LaPresse",
+          "title": "Payback per i dispositivi medici, la stangata da 12,5 mld e l'ira delle imprese",
+          "url": "https://www.lapresse.it/salute/sanita/2026/10/31/payback-per-i-dispositivi-medici-la-stangata-da-125-mld-e-lira-delle-imprese/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-medical-device-payback-oct31.svg",
+        "alt": "Illustrazione originale, non foto: Manovra 2027, imprese dei dispositivi medici contestano il payback e minacciano ricorsi",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-medical-device-payback-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-daycare-funding-formula-oct31",
+      "rank": 4,
+      "category": "society",
+      "title": "Asili nido, la manovra rivede il riparto dei fondi in base al calo delle nascite",
+      "dek": "Il ddl indica il 33% di copertura come obiettivo per ogni comune, senza dimostrare che le esigenze siano già soddisfatte sul territorio.",
+      "summary": "Il 31 ottobre 2026 il testo del disegno di legge di Bilancio 2027, nella parte riportata da ANSA e LaPresse, ha reso nota una proposta di cambiamento nella distribuzione delle risorse per asili nido. L'articolo 121 prende atto della riduzione della popolazione sotto i tre anni e ipotizza che una parte dei fondi precedentemente stanziati possa risultare eccedente rispetto al raggiungimento di una soglia di servizio. Si tratta di una modifica proposta al meccanismo di allocazione, non di una chiusura già decisa degli asili esistenti.",
+      "body": [
+        "Il 31 ottobre 2026 il testo del disegno di legge di Bilancio 2027, nella parte riportata da ANSA e LaPresse, ha reso nota una proposta di cambiamento nella distribuzione delle risorse per asili nido. L'articolo 121 prende atto della riduzione della popolazione sotto i tre anni e ipotizza che una parte dei fondi precedentemente stanziati possa risultare eccedente rispetto al raggiungimento di una soglia di servizio. Si tratta di una modifica proposta al meccanismo di allocazione, non di una chiusura già decisa degli asili esistenti.",
+        "L'obiettivo indicato è che ogni comune possa disporre di posti nido in misura pari al 33% dei bambini della fascia d'età interessata. Il testo mette in relazione il numero di posti da finanziare con la demografia locale: se i bambini diminuiscono, il costo stimato per raggiungere una determinata percentuale può scendere. Questo non implica automaticamente che diminuisca il bisogno di servizi nelle aree già carenti, né che le risorse liberate possano essere identificate senza conoscere la distribuzione dei posti.",
+        "LaPresse descrive un processo di revisione del riparto delle risorse eccedenti, anziché un taglio universale di finanziamento per tutti gli enti locali. ANSA collega la misura alle controversie sui tagli di organico della scuola, ma i due articoli della manovra riguardano spese e servizi diversi. L'esistenza di bambini senza posto disponibile, le distanze dai servizi e la differenza tra posti autorizzati e realmente accessibili complicano un confronto basato soltanto sulla media nazionale.",
+        "I critici della maggioranza osservano che molti comuni, in particolare in aree con infrastrutture meno sviluppate, non hanno ancora raggiunto il 33% di copertura; il governo fonda la revisione sull'evoluzione dei numeri di bambini e della spesa stimata. Il testo non è legge e la ripartizione finale richiede decreti, dati comunali ed eventuali modifiche parlamentari. La notizia riguarda il nuovo criterio proposto, non un miglioramento già osservato nell'accesso ai nidi."
+      ],
+      "facts": [
+        "L'articolo 121 del ddl tratta il riassetto delle risorse per nidi in rapporto al calo della popolazione infantile.",
+        "Il valore del 33% è indicato come obiettivo di servizio per ciascun comune.",
+        "ANSA e LaPresse ne hanno riferito il 31 ottobre 2026."
+      ],
+      "perspectives": [
+        "Il testo governativo giustifica la revisione sulla base delle risorse eccedenti stimate.",
+        "Le opposizioni contestano la pretesa che il calo demografico elimini i divari di accesso ai servizi."
+      ],
+      "unknowns": [
+        "Non sono indicati nel testo giornalistico gli importi finali per ogni comune.",
+        "Non è noto il risultato degli emendamenti parlamentari alla norma."
+      ],
+      "questions": [
+        {
+          "question": "Come influisce il calo delle nascite sul calcolo dei fondi per i nidi nell'articolo 121?",
+          "answer": "Il disegno di legge rapporta i posti da finanziare alla popolazione locale sotto i tre anni, puntando alla soglia del 33%. Se diminuisce il numero di bambini, il costo stimato per raggiungere quella percentuale può ridursi, senza che ciò garantisca posti reali nelle aree meno servite."
+        },
+        {
+          "question": "Perché il 33% citato nella manovra non è una copertura già raggiunta in ogni comune?",
+          "answer": "È un obiettivo di servizio usato per il riparto, non una certificazione delle strutture effettivamente disponibili. Differenze territoriali, liste d'attesa e localizzazione dei posti richiedono verifiche comunali; il ddl deve ancora essere approvato."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Il criterio proposto potrebbe ridistribuire risorse comunali per gli asili nido e incidere sui divari territoriali di accesso; il 33% resta un obiettivo, non copertura raggiunta.",
+      "tags": [
+        "asili",
+        "comuni",
+        "bilancio"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Manovra, per l'istruzione -7.000 posti, si rivede il fondo sugli asili nido",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_288a80c7-5d31-4a62-8ccf-5fea05f53bf7.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "LaPresse",
+          "title": "Manovra 2027, oltre 1,3 mld per le missioni militari all’estero. Rivisto il riparto dei fondi per gli asili nido",
+          "url": "https://www.lapresse.it/economia/2026/10/31/manovra-2027-oltre-13-mld-per-le-missioni-militari-allestero-rivisto-il-riparto-dei-fondi-per-gli-asili-nido/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-daycare-funding-formula-oct31.svg",
+        "alt": "Illustrazione originale, non foto: Asili nido, la manovra rivede il riparto dei fondi in base al calo delle nascite",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-daycare-funding-formula-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-foreign-missions-funding-oct31",
+      "rank": 5,
+      "category": "politics",
+      "title": "Manovra, altri 1,32 miliardi per le missioni internazionali fra 2027 e 2028",
+      "dek": "L'articolo 95 propone 520 milioni per il 2027 e 803,58 milioni per il 2028; sono stanziamenti aggiuntivi da votare, non spese già effettuate.",
+      "summary": "Nel testo della proposta di legge di Bilancio 2027 arrivata alla Camera, ANSA e LaPresse individuano nuove risorse per la partecipazione italiana alle missioni internazionali. Il 31 ottobre 2026 LaPresse ha citato l'articolo 95, che prevede il rifinanziamento del fondo con 520 milioni di euro nel 2027 e 803.579.339 euro nel 2028. La somma esatta per il biennio è 1.323.579.339 euro, che i titoli arrotondano a oltre 1,3 miliardi.",
+      "body": [
+        "Nel testo della proposta di legge di Bilancio 2027 arrivata alla Camera, ANSA e LaPresse individuano nuove risorse per la partecipazione italiana alle missioni internazionali. Il 31 ottobre 2026 LaPresse ha citato l'articolo 95, che prevede il rifinanziamento del fondo con 520 milioni di euro nel 2027 e 803.579.339 euro nel 2028. La somma esatta per il biennio è 1.323.579.339 euro, che i titoli arrotondano a oltre 1,3 miliardi.",
+        "La motivazione contenuta nel testo è l'evoluzione del quadro geopolitico internazionale. Questo fondo finanzia la partecipazione alle missioni estere, per la quale autorizzazioni, riparti annuali e controllo parlamentare contano tanto quanto l'importo stanziato. L'esistenza di una voce in manovra non specifica automaticamente quali teatri, contingenti o operazioni riceveranno ogni quota e non significa che nel 2026 siano già stati inviati nuovi soldati.",
+        "Nell'articolo 95 il disegno di legge contiene anche maggiori oneri per la convenzione sul Global Combat Air Programme, progetto con Regno Unito e Giappone per un futuro caccia: 32.338.720 euro nel 2027 e 15.563.360 nel 2028, secondo la ricostruzione LaPresse. Sono importi distinti dal rifinanziamento delle missioni e non devono essere sommati senza chiarire che si tratta di finalità diverse. L'articolo 94 prevede separatamente un fondo infrastrutturale per le Forze armate con 17 milioni per il 2027 e 87 milioni per il 2028.",
+        "Il dibattito parlamentare può modificare le cifre e le condizioni. Il governo considera gli stanziamenti uno strumento per sostenere gli impegni internazionali, mentre ogni decisione operativa richiederà i pertinenti atti. Per valutare la priorità di bilancio è necessario confrontare le risorse annunciate con il costo totale della difesa, gli impegni già presi e gli altri capitoli di spesa. Le cifre documentano una proposta di finanziamento pluriennale, non nuove missioni già autorizzate una per una."
+      ],
+      "facts": [
+        "LaPresse ha riportato 520 milioni nel 2027 e 803.579.339 nel 2028 per il fondo missioni.",
+        "Il ddl tratta separatamente gli oneri GCAP e infrastrutturali.",
+        "Le misure sono proposte di spesa in corso di esame parlamentare."
+      ],
+      "perspectives": [
+        "Il ddl richiama il contesto geopolitico per giustificare le risorse.",
+        "Il Parlamento può modificare il testo e determinare gli stanziamenti approvati."
+      ],
+      "unknowns": [
+        "Le assegnazioni specifiche ai singoli teatri di missione non risultano da questo articolo di bilancio.",
+        "L'esito del voto parlamentare e gli stanziamenti finali non sono ancora noti."
+      ],
+      "questions": [
+        {
+          "question": "Come si arriva a oltre 1,3 miliardi per le missioni estere nella proposta 2027?",
+          "answer": "L'articolo 95 somma 520 milioni di euro per il 2027 e 803.579.339 euro per il 2028, per 1.323.579.339 euro. Sono rifinanziamenti proposti su due esercizi futuri, non trasferimenti già spesi in missioni operative."
+        },
+        {
+          "question": "I fondi per il caccia GCAP sono compresi nei 1,32 miliardi delle missioni?",
+          "answer": "No: i maggiori oneri GCAP indicati in manovra sono una voce separata per l'accordo industriale con Regno Unito e Giappone. Non si deve confondere la partecipazione alle missioni estere con lo sviluppo di sistemi d'arma o con le infrastrutture della Difesa."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Oltre 1,32 miliardi di euro di rifinanziamento proposto su due anni inciderebbero sugli impegni italiani all'estero, ma nessuno stanziamento equivale da solo a una missione approvata.",
+      "tags": [
+        "missioni",
+        "difesa",
+        "bilancio"
+      ],
+      "sources": [
+        {
+          "outlet": "LaPresse",
+          "title": "Manovra 2027, oltre 1,3 mld per le missioni militari all’estero",
+          "url": "https://www.lapresse.it/economia/2026/10/31/manovra-2027-oltre-13-mld-per-le-missioni-militari-allestero-rivisto-il-riparto-dei-fondi-per-gli-asili-nido/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Manovra, per l'istruzione -7.000 posti, si rivede il fondo sugli asili nido",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_288a80c7-5d31-4a62-8ccf-5fea05f53bf7.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-foreign-missions-funding-oct31.svg",
+        "alt": "Illustrazione originale, non foto: Manovra, altri 1,32 miliardi per le missioni internazionali fra 2027 e 2028",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-foreign-missions-funding-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "date": "2026-11-01",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-11-01T08:48:00+01:00",
+  "editorialNote": "UNPUBLISHED DRAFT: substantive sourcing and technical review pending.",
+  "articles": [
+    {
+      "id": "ibm-nighthawk-quantum-interconnects-oct27",
+      "rank": 1,
+      "category": "technology",
+      "title": "IBM links two quantum chips with four superconducting cables: 99% state transfers, 94.75% two-qubit gates",
+      "dek": "The experimental prototype uses two Nighthawk processors and 80-centimetre links. Transfer fidelity is not the same as the accuracy of a full quantum calculation.",
+      "summary": "In preliminary research presented by IBM on October 27, 2026, two superconducting Nighthawk R1 quantum processors containing 120 qubits apiece were connected by four roughly 80-centimetre superconducting aluminium cables. In laboratory tests, average quantum-state transfer fidelity was 99%, while average fidelity for two-qubit gates spanning the processors was 94.75%. ScienceAlert, The Quantum Insider, The Korea Herald and Phys.org reported independently on the experiment between October 27 and 31. The demonstration is a step towards modular hardware, not evidence that 240 qubits already operate as a fully error-corrected computer.",
+      "body": [
+        "On October 27, 2026, IBM Research presented preliminary results from an experiment designed to make two superconducting quantum processors work together, rather than seeking to keep increasing the size of a single chip. Within a dilution refrigerator, the team installed four superconducting links called L-couplers between two IBM Quantum Nighthawk R1 modules, each containing 120 qubits. Each cable was around 80 centimetres long — a substantial separation for fragile quantum states susceptible to noise and loss. The connectors were attached after the processors had been mounted, a practical engineering feature for replaceable modular components.",
+        "The main measurement was how faithfully quantum states could be transferred from one processor to the other. The team reported a 99.00% average across four links, with the best reaching 99.29%. A different measurement tested a controlled-Z, or CZ, logic gate performed between qubits on different chips; its average fidelity was 94.75%, substantially below the transfer result. Those are distinct metrics: successfully moving a quantum state is not the same as executing an extended program correctly. The researchers also demonstrated entangled states shared across processors and the concurrent use of two couplers.",
+        "In independently written coverage on October 27, ScienceAlert's David Nield explained the fragility of qubits and why interconnects could help overcome limits on single-chip designs. Matt Swayne at The Quantum Insider distinguished transfer quality from the fidelity of cross-chip operations. The Korea Herald followed with its own account of the scaling problem on October 29, and Phys.org published Sam Jarman's deeper explanation on October 31. Cross-checking those reports against the IBM technical account and available arXiv preprint supports the experimental metrics, but not a claim that the method has already been replicated across an arbitrarily large network.",
+        "The design still requires shielding, carefully controlled operating conditions and large-scale error correction that has yet to be demonstrated with this setup. IBM itself says more work is needed on stability, yield and reproducibility before deployment in more complex systems. An average 94.75% fidelity for remote two-qubit gates can be a major limitation when errors compound in longer circuits. The findings have been made available in a preprint, rather than being established as peer-reviewed production technology. They define a measurable engineering building block, not a proven computational advantage on a practical problem."
+      ],
+      "facts": [
+        "IBM announced the experimental two-Nighthawk, four-80-cm-link setup on October 27, with couplers inserted after chip installation.",
+        "Mean state-transfer fidelity was 99%, peak 99.29%, and mean cross-module CZ-gate fidelity 94.75%.",
+        "The reported results are preliminary arXiv research, not a commercially deployed fault-tolerant quantum computer."
+      ],
+      "perspectives": [
+        "IBM frames modular linking as a possible route to more qubits and future error-correction codes.",
+        "ScienceAlert and The Quantum Insider present it as an experimental result and distinguish state-transfer from two-qubit gate metrics."
+      ],
+      "unknowns": [
+        "Whether and how far remote-gate fidelity and reproducibility can improve as the number of links and processor modules grows.",
+        "When, or whether, the architecture will demonstrate application-level advantage with effective quantum error correction."
+      ],
+      "questions": [
+        {
+          "question": "What do IBM Nighthawk's 99% and 94.75% interconnect figures measure?",
+          "answer": "The 99% figure is average fidelity for moving a quantum state over the four superconducting cables; 94.75% is the average fidelity of CZ logic gates involving qubits on different chips. A cross-module gate is a more complex operation than simple state transfer, so the two metrics cannot be substituted for each other."
+        },
+        {
+          "question": "Why connect processors using four 80-centimetre cables instead of building a single larger quantum chip?",
+          "answer": "The experiment tests a modular approach: connecting existing modules may reduce fabrication complexity and allow parts to be replaced. But fragile quantum states must survive travel through the cables, and the team has so far validated laboratory connections rather than a broadly scalable machine without further engineering work."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "a concrete quantum interconnect demonstration with potential long-term value for scalable hardware, while the preprint is still far from proof of reliable, fault-tolerant large-scale computing.",
+      "tags": [
+        "quantum",
+        "IBM",
+        "research"
+      ],
+      "sources": [
+        {
+          "outlet": "ScienceAlert",
+          "title": "Success! IBM Hits 99% Accuracy Transferring Quantum Information Between Chips",
+          "url": "https://www.sciencealert.com/bm-hits-99-accuracy-in-transferring-quantum-information-between-two-chips",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Quantum Insider",
+          "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
+          "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Korea Herald",
+          "title": "IBM links quantum chips like Lego blocks, opening path to unlimited scaling",
+          "url": "https://mbiz.heraldcorp.com/article/10919478",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Four superconducting cables link two large quantum processors into one",
+          "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "IBM Research blog",
+          "title": "Modular quantum computing takes shape with l-couplers",
+          "url": "https://www.ibm.com/quantum/blog/connecting-quantum-processors-with-l-couplers",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Neereja M. Sundaresan et al.",
+          "title": "Meter-scale quantum interconnects between large quantum processors",
+          "url": "https://arxiv.org/abs/2610.29986",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/ibm-nighthawk-quantum-interconnects-oct27.svg",
+        "alt": "Original editorial illustration, not a photograph: IBM links two quantum chips with four superconducting cables: 99% state transfers, 94.75% two-qubit gates",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/ibm-nighthawk-quantum-interconnects-oct27.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "parkinsons-amchepry-first-postapproval-oct30",
+      "rank": 2,
+      "category": "society",
+      "title": "Kyoto hospital performs first post-approval AMCHEPRY cell transplant for Parkinson's",
+      "dek": "The hospital confirms October surgery on a woman in her fifties, since discharged; long-term clinical effectiveness still requires assessment.",
+      "summary": "On October 30, 2026, Kyoto University Hospital confirmed that it had begun using the regenerative-medicine product AMCHEPRY to treat people with Parkinson's disease during the month. The first patient after conditional approval was a woman in her fifties; the hospital said she had been discharged and that her immediate recovery was satisfactory. AFP and Japan's Kansai Television independently covered the announcement. October 30 was the announcement date; the hospital did not specify the exact October day on which the procedure took place.",
+      "body": [
+        "On October 30, 2026, Kyoto University Hospital confirmed that it had begun using the regenerative-medicine product AMCHEPRY to treat people with Parkinson's disease during the month. The first patient after conditional approval was a woman in her fifties; the hospital said she had been discharged and that her immediate recovery was satisfactory. AFP and Japan's Kansai Television independently covered the announcement. October 30 was the announcement date; the hospital did not specify the exact October day on which the procedure took place.",
+        "AMCHEPRY, also called raguneprocel, contains dopamine-producing neural precursors derived from donor induced pluripotent stem cells. In Parkinson's disease, dopamine-producing neurons degenerate, contributing to tremor, slowed movement and other motor symptoms. The surgery implants precursor cells into the brain with the aim of restoring some dopamine function. The successful completion of an implant does not establish that those cells have matured, integrated and produced a sustained clinical benefit.",
+        "Japanese regulators granted conditional, time-limited marketing authorization on March 6, 2026, on the basis of an earlier phase I/II trial involving seven patients. AFP reports that four showed some symptomatic improvement during two years of follow-up, with no major adverse effects observed in that small group. Such figures provide evidence of feasibility and possible benefit, but cannot prove effectiveness in a broad population or establish a definitive advantage over standard treatment.",
+        "Kyoto University Hospital says it will continue carefully monitoring safety and clinical outcomes after transplantation. According to Kansai TV, Sumitomo Pharma plans one or two procedures in fiscal 2026, about ten in 2027 and ten to twenty in 2028. Those are future plans rather than patients already treated. The conditional regulatory pathway explicitly requires further evidence before full approval; this announcement does not demonstrate a cure for Parkinson's."
+      ],
+      "facts": [
+        "Kyoto University Hospital announced the first post-conditional-approval AMCHEPRY procedure on October 30, 2026.",
+        "The product received conditional and time-limited authorization on March 6, 2026.",
+        "The first patient in the programme, a woman in her fifties, had been discharged."
+      ],
+      "perspectives": [
+        "Sumitomo Pharma sees the procedure as a step toward access and plans additional participants.",
+        "Kyoto University Hospital stresses continued safety and outcome monitoring after surgery."
+      ],
+      "unknowns": [
+        "The October patient's actual motor benefit and its duration have not been publicly measured.",
+        "Effectiveness and safety in a broader population require additional follow-up data."
+      ],
+      "questions": [
+        {
+          "question": "What cells does AMCHEPRY transplant into Parkinson's patients' brains?",
+          "answer": "It uses dopamine-neuron precursors derived from donors' induced pluripotent stem cells. The goal is for them to mature and help restore lost dopamine activity, but completing surgery alone does not establish whether motor function will improve over the long term."
+        },
+        {
+          "question": "Why was Japan's March 2026 authorization conditional?",
+          "answer": "Early evidence came from a small seven-person trial, in which four participants experienced symptom improvement. Regulators permitted use under conditions while requiring further safety and efficacy data before a decision on full approval."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The hospital confirms October surgery on a woman in her fifties, since discharged; long-term clinical effectiveness still requires assessment. The score considers sourced developments rather than speculative risks.",
+      "tags": [
+        "Parkinsons",
+        "stemcells",
+        "Japan"
+      ],
+      "sources": [
+        {
+          "outlet": "Kyoto University Hospital",
+          "title": "Information update on allogeneic iPS-derived dopamine neuronal precursor cell transplant therapy for Parkinson's disease",
+          "url": "https://www.kuhp.kyoto-u.ac.jp/info/20261030.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "AFP via Dawn",
+          "title": "First patient undergoes pioneering stem-cell treatment for Parkinson's",
+          "url": "https://www.dawn.com/news/2040952",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Kansai Television / FNN Prime Online",
+          "title": "First post-approval transplant of iPS-derived Parkinson's product AMCHEPRY",
+          "url": "https://www.fnn.jp/articles/-/1143106?display=full",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/parkinsons-amchepry-first-postapproval-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph: Kyoto hospital performs first post-approval AMCHEPRY cell transplant for Parkinson's",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/parkinsons-amchepry-first-postapproval-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "ieee-retracts-1417-papers-oct30",
+      "rank": 3,
+      "category": "society",
+      "title": "IEEE retracts 1,417 conference papers after study links titles to authorship sales",
+      "dek": "Retractions were dated October 23, IEEE's statement October 28 and the independently reported audit October 30; these are separate milestones.",
+      "summary": "On October 30, 2026, Nature published an independent audit of an exceptionally large set of scientific-paper retractions from the IEEE archive. Its newsroom verified that at least 1,417 conference papers had retraction dates of October 23 and that IEEE publicly announced the action on October 28. Research Information separately covered the official statement. The news in the relevant window is the public announcement and independently checked scale, not that every retraction was first executed on October 30.",
+      "body": [
+        "On October 30, 2026, Nature published an independent audit of an exceptionally large set of scientific-paper retractions from the IEEE archive. Its newsroom verified that at least 1,417 conference papers had retraction dates of October 23 and that IEEE publicly announced the action on October 28. Research Information separately covered the official statement. The news in the relevant window is the public announcement and independently checked scale, not that every retraction was first executed on October 30.",
+        "The process began with a study by Anna Abalkina and colleagues published in Accountability in Research following an April preprint. Researchers found 4,407 advertisements on more than 200 social channels offering paid author positions and matched advertised titles to 2,062 papers in 366 sets of IEEE conference proceedings published between 2021 and 2026. A title match is a reason to investigate, not proof that every listed author paid for a position or committed misconduct.",
+        "Nature confirmed that all 1,417 papers withdrawn on October 23 were on the research team's flagged list; their retraction notices said that authorship positions 'may have been offered for sale'. Its reporters also found that 1,622 of the 2,062 papers flagged had now been retracted in total, counting other actions as well. IEEE says it employed new screening technology, expert review and investigative procedures to identify violations of its publishing principles.",
+        "The association says the batch represents less than 0.06% of its conference papers across six years. That figure uses IEEE's chosen denominator; it is not a percentage of all scientific papers worldwide. The case raises questions about peer-review oversight and real author contributions, but does not establish that every IEEE conference or technical paper is fraudulent. Future controls and responsibility of individual people require separate inquiries."
+      ],
+      "facts": [
+        "Nature verified 1,417 IEEE retractions dated October 23, 2026.",
+        "IEEE announced the review publicly on October 28.",
+        "A research study flagged 2,062 papers by matching published titles with authorship-sale advertisements."
+      ],
+      "perspectives": [
+        "IEEE says it has strengthened oversight and screening for conference proceedings.",
+        "Research-integrity experts interviewed by Nature describe the action as exceptional and argue for improved oversight."
+      ],
+      "unknowns": [
+        "Individual responsibility and actual payments for each flagged title are not established by aggregate statistics.",
+        "Whether new procedures will prevent comparable incidents remains to be assessed."
+      ],
+      "questions": [
+        {
+          "question": "How do the 1,417 papers retracted on October 23 differ from the 2,062 flagged in Abalkina's study?",
+          "answer": "Nature verified 1,417 retractions in one batch dated October 23. The research had identified 2,062 papers whose titles matched authorship-sale advertisements; Nature found 1,622 of those had been retracted in total after including other actions."
+        },
+        {
+          "question": "Why do advertised authorship slots not automatically prove misconduct by each listed author?",
+          "answer": "The researchers matched published paper titles to social-media advertisements, flagging work for scrutiny rather than proving payments or individual responsibility. IEEE then applied its retraction criteria, and its notices say authorship may have been offered for sale."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Retractions were dated October 23, IEEE's statement October 28 and the independently reported audit October 30; these are separate milestones. Score limited to substantiated consequences.",
+      "tags": [
+        "IEEE",
+        "integrity",
+        "papers"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
+          "url": "https://www.nature.com/articles/d41586-026-03455-8",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Research Information",
+          "title": "IEEE retracts approximately 1,400 papers following integrity review",
+          "url": "https://www.researchinformation.info/news/ieee-retracts-approximately-1400-papers-following-integrity-review/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Abalkina et al.",
+          "title": "Study on papers linked to authorship-sale advertisements (preprint)",
+          "url": "https://doi.org/10.48550/arXiv.2604.22458",
+          "publishedAt": "2026-04-01",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/ieee-retracts-1417-papers-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph: IEEE retracts 1,417 conference papers after study links titles to authorship sales",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/ieee-retracts-1417-papers-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "prenatal-neuron-selection-oct28",
+      "rank": 4,
+      "category": "society",
+      "title": "Study finds widespread chromosome changes in 25.9% of sampled fetal cortical neurons",
+      "dek": "The proportion falls to roughly 6.2% in postnatal samples; the finding supports cell selection, not a prenatal test or a measurement of every baby's brain.",
+      "summary": "In a Nature paper published on October 28, 2026, Diane Shao and colleagues analyzed DNA from 2,357 human cortical neurons obtained from donated postmortem tissue. An average 25.9% of sampled fetal neurons carried extensive chromosome copy-number changes, compared with about 6.2% after birth in one analysis. Nature News and The Korea Herald reported the distinction between measured data and interpretation. Researchers infer selective removal of abnormal neurons around birth; they did not follow identical living neurons through development.",
+      "body": [
+        "The human cerebral cortex develops by producing large numbers of neurons and remodeling their connections. Research coordinated by teams at Harvard Medical School, Boston Children's Hospital and collaborating institutions, published on October 28, 2026, examined how often neurons have extensive copy-number variants, or CNVs, affecting segments of chromosomes. The researchers used postmortem brain material from fetuses at 14–25 weeks of gestation through much older donors. They did not perform brain biopsies on living children.",
+        "The team sequenced 2,357 individual neurons. Its first lower-depth but broader method assessed 1,526 cells from 16 donors; a second sequencing approach examined a further 831 neurons from 12 donors. The average prevalence of widespread CNVs was 25.9% prenatally and about 6.2% after birth, with variation between fetal samples of 12.7–46%. The Korea Herald and Nature News explain that this does not mean one-quarter of every fetal brain is diseased: it is a sample-level mean using specific genomic criteria and donated tissue.",
+        "Copy-number variants are duplications or losses of DNA segments. When many genes are affected, cellular function may be disrupted. In neurons with heavier abnormalities, the researchers also found changes in gene-expression signals related to synapses and programmed cell death. These associations support the hypothesis that developing brain circuits preferentially remove some genetically compromised neurons. However, the evidence compares samples from people of different ages rather than filming the fate of the same cells over time.",
+        "The authors suggest this selection may help stabilize the postnatal brain and could guide future questions about neurodevelopmental disorders. It does not establish that the process causes or prevents autism, epilepsy or other conditions, nor does it introduce a clinical test or treatment. Nature interviewed independent neurologist Christos Proukakis, who interpreted the pattern as consistent with survival of cells with more intact genomes. Further research must identify the precise elimination pathways and test how generalizable the findings are across populations and tissues."
+      ],
+      "facts": [
+        "Among 2,357 neurons studied, fetal samples averaged 25.9% with extensive CNVs, versus about 6.2% in postnatal samples.",
+        "Two sequencing methods used 1,526 and 831 neurons, as described in the October 28 research.",
+        "The material came from postmortem donations, not diagnostic procedures in living children."
+      ],
+      "perspectives": [
+        "The research team interprets the CNV decline as consistent with preferential elimination of genetically altered cells during maturation.",
+        "Neurologist Christos Proukakis, interviewed by Nature News, suggests that surviving neurons may be those with more intact genomes."
+      ],
+      "unknowns": [
+        "The specific trigger for elimination of each affected neuron was not observed directly.",
+        "Clinical causal relationships to particular neurodevelopmental diagnoses remain unestablished."
+      ],
+      "questions": [
+        {
+          "question": "Why did the team use two sequencing methods on the 2,357 neurons?",
+          "answer": "Researchers profiled a large collection with lower-depth sequencing, then assessed another 831 neurons with a more detailed approach. Seeing a decline in abnormalities across distinct methods reduces the possibility that the result is an artifact of one technical procedure."
+        },
+        {
+          "question": "What can the drop from 25.9% to 6.2% of neurons with widespread CNVs tell us?",
+          "answer": "The difference between prenatal and postnatal tissue is compatible with selection reducing the frequency of genetically abnormal cells around birth. But the samples are from different people: the study did not directly follow each neuron's fate or demonstrate individual clinical effects."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "new genomic evidence relevant to brain maturation and cell selection, without an immediate diagnostic or therapeutic application.",
+      "tags": [
+        "neurons",
+        "genomics",
+        "development"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature (original peer-reviewed paper)",
+          "title": "Perinatal elimination of genetically aberrant human cortical neurons",
+          "url": "https://www.nature.com/articles/s41586-026-11190-3",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        },
+        {
+          "outlet": "Nature News (Miryam Naddaf?)",
+          "title": "The brain liquidates billions of mutant neurons around the time we’re born",
+          "url": "https://www.nature.com/articles/d41586-026-03444-x",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Korea Herald / Herald Business",
+          "title": "One in four fetal brain cells carries major genetic defects — most vanish by birth",
+          "url": "https://biz.heraldcorp.com/article/10920483",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Harvard Medical School",
+          "title": "Abnormal Neurons Are Surprisingly Common in the Developing Brain",
+          "url": "https://hms.harvard.edu/news/abnormal-neurons-are-surprisingly-common-developing-brain-study-finds",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/prenatal-neuron-selection-oct28.svg",
+        "alt": "Original editorial illustration, not a photograph: Study finds widespread chromosome changes in 25.9% of sampled fetal cortical neurons",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/prenatal-neuron-selection-oct28.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "planetary-sunshade-survey-oct28",
+      "rank": 5,
+      "category": "climate",
+      "title": "Space sunshade study examines six designs, with a speculative 20–40-year construction horizon",
+      "dek": "The Planetary Sunshade Institute's survey is not a ready-to-deploy system; it depends on launch capacity, lunar industry and research into climate side effects.",
+      "summary": "The Planetary Sunshade Institute presented an assessment of six possible architectures for blocking a small portion of sunlight before it reaches Earth. Nature News covered the report on October 28, 2026, and Der Standard published a separate examination the following day. Proponents estimate that construction might be feasible in 20–40 years if heavy-lift launch and lunar materials industries develop sufficiently. Projected cooling is theoretical; no sunshade has been deployed, and cost, safety and impacts on rainfall remain unresolved.",
+      "body": [
+        "The idea explored by the Planetary Sunshade Institute involves structures or particles positioned in space along the Sun–Earth direction to intercept a limited share of incoming sunlight. Its October 2026 «Space Reflector Baseline Survey», discussed by two newsrooms on October 28 and 29, considers six architectures, including reflective sails and hypothetical controllable dust clouds. PSI is an organization advocating research into these concepts: its feasibility estimates are the proponents' analysis, not an international decision to build anything.",
+        "The preferred region is near the Sun–Earth Lagrange point 1, facing the Sun, where competing forces could help a shade remain in a useful configuration. The purely gravitational L1 point is around 1.5 million kilometres from Earth; Der Standard explains that accounting for the pressure sunlight exerts on sails moves one proposed equilibrium towards the Sun, roughly 2.36 million kilometres from Earth. One discussed design involves about 5,000 *heliogyro* spacecraft and an estimated order of 70 million tonnes of material. None of these proposed structures currently exists.",
+        "Under exploratory models, intercepting around one percent of incoming sunlight might lower average global temperature by approximately one degree Celsius in certain circumstances. That is a modeled possibility, not cooling observed on Earth. An alternative controllable dust cloud could, PSI says, require up to 600 times less mass than sail-based concepts, but PSI explicitly notes that engineering to control such a cloud is at an early stage. Blocking sunlight also does not remove atmospheric carbon dioxide or establish that rainfall and monsoons would remain unaffected in every region.",
+        "Proponents suggest an optimistic 20–40-year timeline, combining development of lunar industrial capacity and a lengthy subsequent construction phase. The estimate depends on infrastructure, transportation and materials supplies that are not available at the necessary scale today; the report provides no credible total project cost. Der Standard also surveys scientific objections involving potential regional side effects and the enormous governance challenges of any planetary-scale intervention. The report broadens debate about theoretical engineering possibilities but does not eliminate the need to cut emissions or provide an operational climate solution."
+      ],
+      "facts": [
+        "PSI publicly describes a six-architecture assessment and gives its own conditional 20–40-year timeline dependent on heavy-lift launches and lunar extraction.",
+        "Nature News discussed the subject on October 28 and Der Standard separately on October 29.",
+        "PSI characterizes dust-cloud control as preliminary and reports no operating planetary sunshade."
+      ],
+      "perspectives": [
+        "PSI argues that existing physical principles combined with future lunar manufacturing and launch systems might eventually allow solar shading in space.",
+        "Der Standard contrasts the proponents' optimistic timeline with scientific skepticism, possible rainfall changes and unresolved cost and governance obstacles."
+      ],
+      "unknowns": [
+        "The final masses, realistic timetable and total cost have not been determined by a funded deployment programme.",
+        "Regional effects on rainfall, monsoons and ecosystems and international rules for managing or stopping a shade remain unresolved."
+      ],
+      "questions": [
+        {
+          "question": "Why does PSI favour a position near Lagrange point 1 rather than low Earth orbit?",
+          "answer": "A shade near the Sun–Earth line could more continuously intercept part of the sunlight reaching the planet, whereas a low-orbit object casts transient shadows as it moves rapidly. Radiation pressure on sails also shifts the proposed equilibrium compared with the purely gravitational L1 point."
+        },
+        {
+          "question": "What would a modeled one-percent reduction in sunlight show, and what would it not show?",
+          "answer": "In the scenarios discussed, shading of that order could contribute to roughly 1 °C of lower global mean temperature. This is not a cooling effect already measured, does not remove CO₂ and does not establish that rainfall or regional impacts would remain unchanged."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "interdisciplinary exploration that could inform future engineering research and climate-governance debates, but the intervention remains speculative, faces enormous technical and political obstacles and has produced no measured global cooling.",
+      "tags": [
+        "geoengineering",
+        "climate",
+        "orbit"
+      ],
+      "sources": [
+        {
+          "outlet": "Planetary Sunshade Institute",
+          "title": "Space Reflector Baseline Survey",
+          "url": "https://planetarysunshade.org/publications/",
+          "publishedAt": "2026-10",
+          "role": "official"
+        },
+        {
+          "outlet": "Nature News",
+          "title": "Could a giant sunshade in space ‘solve global warming’? Scientists are taking the idea seriously",
+          "url": "https://www.nature.com/articles/d41586-026-03415-2",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Der Standard",
+          "title": "Wie ein gigantischer Weltraumschirm gegen den Klimawandel funktionieren könnte",
+          "url": "https://www.derstandard.de/story/3000000346460/wie-ein-gigantischer-weltraumschirm-gegen-den-klimawandel-funktionieren-koennte",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/planetary-sunshade-survey-oct28.svg",
+        "alt": "Original editorial illustration, not a photograph: Space sunshade study examines six designs, with a speculative 20–40-year construction horizon",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/planetary-sunshade-survey-oct28.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

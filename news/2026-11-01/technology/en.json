@@ -1,0 +1,413 @@
+{
+  "date": "2026-11-01",
+  "language": "en",
+  "section": "technology",
+  "publishedAt": "2026-11-01T08:48:00+01:00",
+  "editorialNote": "UNPUBLISHED CANDIDATE: source and Q&A checks pending.",
+  "articles": [
+    {
+      "id": "ai-training-signal-oct30",
+      "rank": 1,
+      "category": "technology",
+      "title": "Four AI companies back a shared robots.txt training preference, but it remains a draft",
+      "dek": "OpenAI, Google, Microsoft and Anthropic plan staggered support for a common website signal. The October 30 IETF Internet-Draft is not an adopted standard and does not itself prevent crawling.",
+      "summary": "On October 30, 2026, OpenAI, Google, Microsoft and Anthropic said they would support a shared mechanism for websites to express preferences about using their pages to train generative AI models. Kevin Kelley's individual Internet-Draft describes a policy token in robots.txt, but it is not an IETF-approved standard. Adoption dates differ by provider, and the signal concerns training use rather than access to a website itself.",
+      "body": [
+        "On October 30, four major AI developers announced support for a common way to express training preferences. The aim is to let publishers, organizations and website operators communicate one choice to multiple providers rather than maintain separate instructions for each. The mechanism is set out in *Machine-Readable Training Preference Signal*, an individual Internet-Draft by Kevin Kelley filed with the IETF on October 30. The Verge and Thurrott covered the announcements, while the companies' own statements establish the scope and differences of their commitments.",
+        "The proposal uses existing robots.txt syntax. A group containing `User-Agent: __usage_ai-training` followed by `Disallow: /` expresses a preference against using the site's pages to change the learned parameters of generative AI models; `Allow` rules can make path-specific exceptions. The draft treats this separately from instructions addressed to individual crawlers. A general `User-Agent: *` group does not automatically count as a training preference, and a site without the new policy token has not expressed that particular preference.",
+        "The key distinction is between use and access. The technical document explicitly says the token is not a directive that blocks crawling. Site operators who want to restrict bots from fetching pages must continue to use the appropriate crawler-specific rules. The signal cannot undo training that has already happened, is not automatically a legally enforceable ban and may coexist with private agreements. Microsoft has also announced a separate preference for *grounding*, meaning the use of external material to support AI-generated answers; grounding and model training are different activities.",
+        "The providers have not announced a single activation date. Anthropic says it has begun implementing support; OpenAI refers to the coming months, Google to 2027, and Microsoft to February 1, 2027. These are company commitments, not independent proof that every service already honors the token. The IETF datatracker explicitly says the individual draft has no formal standing as an approved standard and may change. The potential gain for publishers is simpler expression of preferences, but practical effectiveness will depend on implementation details, exceptions and the ability to check compliance."
+      ],
+      "facts": [
+        "Kevin Kelley's Internet-Draft is dated October 30, 2026, and is not an IETF-approved standard.",
+        "The `__usage_ai-training` token expresses path-based preferences in robots.txt about generative-model training.",
+        "The four providers have stated different implementation timelines; the token is not itself a crawling prohibition."
+      ],
+      "perspectives": [
+        "OpenAI describes the voluntary shared signal as a way to simplify website preferences while keeping existing controls.",
+        "Microsoft explicitly separates training from grounding and plans separate publisher choices.",
+        "The Verge places the announcement in the wider dispute over AI companies' collection of publisher content."
+      ],
+      "unknowns": [
+        "Complete adoption by all providers and operational compliance across their services have not been independently established.",
+        "The draft's wording and precedence among proprietary rules, the common token and private agreements may still change."
+      ],
+      "questions": [
+        {
+          "question": "What does Kevin Kelley's proposed `__usage_ai-training` token mean in robots.txt?",
+          "answer": "With `Disallow: /`, it states a website's preference against using its pages to change the learned parameters of generative AI models; `Allow` rules can create exceptions for particular paths. It is a content-use preference, not an instruction preventing crawlers from visiting the site."
+        },
+        {
+          "question": "Why does the shared signal not replace OpenAI, Google and Microsoft's existing crawler controls?",
+          "answer": "The new group concerns training, while provider-specific bot instructions still govern access and other content uses. Support will also start at different times, and Microsoft distinguishes grounding from training, so publishers must retain existing controls for the activities they want to restrict."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "a potentially meaningful international simplification for website publishers, but voluntary and staggered implementation without a final standard or demonstrated universal compliance.",
+      "tags": [
+        "AI",
+        "training",
+        "web"
+      ],
+      "sources": [
+        {
+          "outlet": "IETF Datatracker",
+          "title": "Machine-Readable Training Preference Signal",
+          "url": "https://datatracker.ietf.org/doc/draft-kelley-aipref-training-preference-signal/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "OpenAI",
+          "title": "Making it easier for websites to express AI training preferences",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Google Search Central",
+          "title": "Supporting a shared AI training control for websites",
+          "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Microsoft Bing",
+          "title": "Your content, your choice: clearer preferences for training and grounding",
+          "url": "https://blogs.bing.com/search/2026/10/your-content-your-choice-clearer-preferences-for-training-and-grounding/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "The Verge",
+          "title": "The biggest names in AI are backing a new way to opt out of scraping",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Thurrott",
+          "title": "Anthropic, Google, Microsoft, and OpenAI Agree to Let Sites Opt Out of AI Training",
+          "url": "https://www.thurrott.com/a-i/343407/anthropic-google-microsoft-and-openai-agree-to-let-sites-opt-out-of-ai-training",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/ai-training-signal-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph: Four AI companies back a shared robots.txt training preference, but it remains a draft",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/ai-training-signal-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "google-orbital-tpu-suncatcher-oct30",
+      "rank": 2,
+      "category": "technology",
+      "title": "Google runs AI inference on an orbital TPU in first Project Suncatcher demonstration",
+      "dek": "A satellite launched on October 1 sent a short Gemma 4-generated response; reliability and power are the next tests.",
+      "summary": "On October 30, 2026, Google announced that the first Project Suncatcher prototype satellite had executed an inference using the open Gemma 4 model on an orbital Tensor Processing Unit and transmitted the response to a ground station. TechCrunch separately described the mission and the experimental programme. This was not the satellite launch, which took place on October 1, or the opening of a commercial-scale space data centre.",
+      "body": [
+        "On October 30, 2026, Google announced that the first Project Suncatcher prototype satellite had executed an inference using the open Gemma 4 model on an orbital Tensor Processing Unit and transmitted the response to a ground station. TechCrunch separately described the mission and the experimental programme. This was not the satellite launch, which took place on October 1, or the opening of a commercial-scale space data centre.",
+        "According to Google's technical update, operators uploaded a prompt during a pass above Svalbard and the device sent back a short poem. This demonstrates that the hardware completed that particular inference-and-communications task, not that it can run arbitrary computing workloads continuously. The platform carries four TPUs and produces up to one kilowatt of power, TechCrunch reports.",
+        "Energy management remains a substantial limitation. Its power budget does not allow the active TPU to run without interruption, and TechCrunch describes operating windows of roughly twenty minutes. Thermal stress, radiation exposure, links and end-to-end economics still require evaluation against terrestrial computing. Google's announcement outlines future tests rather than establishing long-term reliability.",
+        "The next stated goal is to connect two satellites in 2027, which remains an engineering plan. Using solar power in orbit has to contend with heat rejection, launch mass, communications latency and availability. No net climate or economic advantage has yet been demonstrated: the verified advance is a limited inference performed in space."
+      ],
+      "facts": [
+        "Google said on October 30 that the Suncatcher prototype launched on October 1 had generated a Gemma 4 response on an orbital TPU during a Svalbard ground-station pass.",
+        "TechCrunch reports four TPUs, up to one kilowatt of satellite power and only one TPU able to run for roughly twenty minutes at a time.",
+        "Google plans thermal and radiation tests and a two-satellite experiment in 2027; these are future tests."
+      ],
+      "perspectives": [
+        "Google describes the experiment as an early feasibility check for orbital AI compute, not an available service.",
+        "TechCrunch points to power, communications and launch constraints as obstacles to scaling."
+      ],
+      "unknowns": [
+        "Long-term TPU reliability and errors under prolonged radiation and thermal stress have not been publicly measured.",
+        "No overall cost, energy or emissions advantage over terrestrial data centres has been demonstrated."
+      ],
+      "questions": [
+        {
+          "question": "What did the Suncatcher Gemma 4 test actually demonstrate?",
+          "answer": "The satellite received a prompt, ran onboard TPU inference and returned the output to Earth during a ground-station pass. It did not demonstrate continuous compute availability or a commercial service."
+        },
+        {
+          "question": "Why do four onboard TPUs not make this a functioning orbital data centre?",
+          "answer": "Power is limited to about one kilowatt and active TPU operation must be managed in short windows. Radiation resilience, heat removal and links remain under test; one generated answer does not measure large-scale operations."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "A satellite launched on October 1 sent a short Gemma 4-generated response; reliability and power are the next tests. The 2.5/5 rating reflects demonstrated technological consequences, not popularity.",
+      "tags": [
+        "Google",
+        "orbit",
+        "AI"
+      ],
+      "sources": [
+        {
+          "outlet": "Google",
+          "title": "We've received our first response from the Project Suncatcher prototype satellite",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "TechCrunch",
+          "title": "Google's first data center satellite is online and writing poetry",
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Verge",
+          "title": "Google’s satellite AI server transmits its first response to Earth",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "publishedAt": "2026-10-30T18:21:00Z",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/google-orbital-tpu-suncatcher-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph: Google runs AI inference on an orbital TPU in first Project Suncatcher demonstration",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/google-orbital-tpu-suncatcher-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "uk-cma-meta-terms-investigation-oct30",
+      "rank": 3,
+      "category": "technology",
+      "title": "UK competition watchdog investigates Meta terms covering publishers' website content",
+      "dek": "Regulators will examine whether content use for products including AI imposes unfair conditions; no violation has been established.",
+      "summary": "On October 30, 2026, Britain's Competition and Markets Authority opened an investigation into commercial terms that Meta planned to impose on publishers and businesses using its platforms. Reuters independently reported the decision and the company's response. The probe is under the Competition Act 1998; opening it is not a finding of liability, a permanent prohibition or proof of market abuse.",
+      "body": [
+        "On October 30, 2026, Britain's Competition and Markets Authority opened an investigation into commercial terms that Meta planned to impose on publishers and businesses using its platforms. Reuters independently reported the decision and the company's response. The probe is under the Competition Act 1998; opening it is not a finding of liability, a permanent prohibition or proof of market abuse.",
+        "The CMA says the proposed clauses could let Meta collect content from publishers' websites and use it to build products and services, including AI features, without a meaningful choice for the businesses creating that material. The regulator must assess whether Meta is dominant in the relevant British market, and only then whether the conditions are abusive.",
+        "Meta disputes that the inquiry is warranted and says it has already committed not to implement the changes without consulting publishers and other stakeholders. The regulator provides an important chronology: changes initially planned for October 30 were postponed to November 20 and then paused on October 28. It would therefore be incorrect to say the disputed provisions have already taken effect.",
+        "The case could affect bargaining power, remuneration for content and competition between platforms and news publishers, but the authority must gather evidence and hear the parties. The CMA has separately sought information on Meta One, a different subscription-related matter which should not be conflated with the new probe."
+      ],
+      "facts": [
+        "On October 30 the UK CMA announced a Competition Act 1998 investigation into Meta's proposed commercial terms.",
+        "The scrutinized clauses could allow Meta to use content from publishers' websites to build products and services including AI systems.",
+        "According to the CMA's chronology, the October 30 implementation was postponed to November 20 and paused by Meta on October 28."
+      ],
+      "perspectives": [
+        "The CMA is investigating whether Meta holds a dominant position and whether the clauses, if so, constitute abuse.",
+        "Meta disputes the grounds for the investigation and says it paused implementation pending consultation."
+      ],
+      "unknowns": [
+        "The authority has not established dominance in a relevant market or found an abuse.",
+        "The investigation's result, timing and any revised contractual text remain undetermined."
+      ],
+      "questions": [
+        {
+          "question": "What two legal questions must the CMA resolve about Meta's terms?",
+          "answer": "It must establish whether Meta has a dominant position in a relevant UK market and, if so, whether the clauses governing collection and use of publisher content amount to an abuse under competition law."
+        },
+        {
+          "question": "Had Meta's proposed content terms already gone live on October 30?",
+          "answer": "No. The CMA says implementation was moved to November 20 and Meta paused the changes on October 28 pending consultation. The investigation establishes neither a violation nor activation of the clauses."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Regulators will examine whether content use for products including AI imposes unfair conditions; no violation has been established. The 3/5 rating reflects demonstrated technological consequences, not popularity.",
+      "tags": [
+        "Meta",
+        "publishers",
+        "competition"
+      ],
+      "sources": [
+        {
+          "outlet": "UK Competition and Markets Authority",
+          "title": "CMA opens investigation into Meta's commercial terms",
+          "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "UK's CMA opens investigation into Meta's terms for publishers and advertisers",
+          "url": "https://www.reuters.com/world/europe/uks-cma-opens-investigation-into-metas-terms-publishers-advertisers-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AI.info",
+          "title": "The Daily Friday 30 October 2026",
+          "url": "https://ai.info/daily/2026-10-31",
+          "publishedAt": "2026-10-31",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/uk-cma-meta-terms-investigation-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph: UK competition watchdog investigates Meta terms covering publishers' website content",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/uk-cma-meta-terms-investigation-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "cursor-claude-extension-backdoor-oct30",
+      "rank": 4,
+      "category": "technology",
+      "title": "Malicious Claude Code extension on Cursor carried SSH backdoor; up to 5,000 users exposed",
+      "dek": "Version 2.1.313 was available for about 11 hours on October 29; downloading it does not by itself establish infection or credential theft.",
+      "summary": "On October 30, 2026, BleepingComputer and Ars Technica independently examined a software supply-chain attack involving developer extensions. Cursor's editor marketplace had served a modified copy of Anthropic's Claude Code extension on October 29, identified as version 2.1.313. Cursor said at most 5,000 users could have been affected and that Anthropic did not create the malicious build.",
+      "body": [
+        "On October 30, 2026, BleepingComputer and Ars Technica independently examined a software supply-chain attack involving developer extensions. Cursor's editor marketplace had served a modified copy of Anthropic's Claude Code extension on October 29, identified as version 2.1.313. Cursor said at most 5,000 users could have been affected and that Anthropic did not create the malicious build.",
+        "Cursor put the exposure window at approximately 2:27 a.m. to 1:35 p.m. Pacific time. Attackers inserted a JavaScript loader that attempted to install a persistent SSH key and create a tunnel to a remote server under their control. The code also attempted to transmit host information, usernames and names of potentially sensitive environment variables; those names are not the same as the plaintext secrets themselves.",
+        "Ars Technica reports that investigators still do not know how the attackers managed to distribute code under a verified account. BleepingComputer distinguishes Cursor's marketplace from the Microsoft VS Code and Open VSX registries, which were not shown to have served the same altered package. Version 2.1.314 was released, and Cursor removed the malicious extension, temporarily suspended its marketplace and helped disable the attacker's server.",
+        "Developers who installed version 2.1.313 during the affected window should follow Cursor's remediation guidance, check for an SSH key named 'svc-telemetry', and consider isolating affected machines and rotating exposed credentials. The estimate of at most 5,000 potentially exposed users is not a confirmed count of compromised devices; forensic work would be needed to establish successful unauthorized access."
+      ],
+      "facts": [
+        "According to BleepingComputer and Ars Technica, Cursor's marketplace served an altered Claude Code extension version 2.1.313 on October 29.",
+        "The added code attempted to install a persistent SSH key, start a tunnel and transmit machine metadata to a remote server.",
+        "Cursor reported up to 5,000 potentially affected users, removed the malicious package and released version 2.1.314."
+      ],
+      "perspectives": [
+        "Cursor says Anthropic did not create the altered package and has asked affected users to inspect their systems.",
+        "Security analysts covered by Ars Technica and BleepingComputer describe a software-extension supply-chain compromise."
+      ],
+      "unknowns": [
+        "How the attackers distributed altered code under a verified marketplace identity has not been fully explained.",
+        "The number of actually compromised machines or stolen secrets is not established by the potential download count."
+      ],
+      "questions": [
+        {
+          "question": "Why does Claude Code extension version 2.1.313 on Cursor matter?",
+          "answer": "That particular package carried the injected malicious loader and was served by Cursor's marketplace between 2:27 a.m. and 1:35 p.m. PT on October 29. Version 2.1.314 followed it; the incident cannot be attributed to every Claude Code installation."
+        },
+        {
+          "question": "What distinguishes a malicious SSH key from proven theft of credentials?",
+          "answer": "The key could enable remote access if the SSH service and tunnel function; the script also attempted to collect host metadata. But finding a file or downloading the package does not prove attackers gained access or copied passwords."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Version 2.1.313 was available for about 11 hours on October 29; downloading it does not by itself establish infection or credential theft. The 3/5 rating reflects demonstrated technological consequences, not popularity.",
+      "tags": [
+        "Cursor",
+        "extensions",
+        "security"
+      ],
+      "sources": [
+        {
+          "outlet": "BleepingComputer",
+          "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+          "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RH-ISAC",
+          "title": "Claude Code Extension Trojanized on Cursor Marketplace with SSH Backdoor",
+          "url": "https://rhisac.org/general-blog/claude-code-extension-trojanized-on-cursor-marketplace-with-ssh-backdoor-add-a-tag/",
+          "publishedAt": "2026-10-30",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/cursor-claude-extension-backdoor-oct30.svg",
+        "alt": "Original editorial illustration, not a photograph: Malicious Claude Code extension on Cursor carried SSH backdoor; up to 5,000 users exposed",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/cursor-claude-extension-backdoor-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "binance-reserves-replenished-oct31",
+      "rank": 5,
+      "category": "technology",
+      "title": "Binance says it has replaced 90% of stolen assets, not recovered 90% of the original tokens",
+      "dek": "Following the October 29 attack, the company reports purchases funded by its reserves and a new reserve snapshot; withdrawals remain suspended.",
+      "summary": "On October 31, 2026, Binance updated customers about the cryptoasset theft first reported two days earlier and already covered by O's previous edition. Reuters and CoinDesk describe a new corporate statement: the platform had replaced about 90% of the missing assets' value, roughly $6 billion against estimated losses exceeding $6.3 billion, using its own resources. The fresh development is the claimed state of reserve replenishment, not the initial theft.",
+      "body": [
+        "On October 31, 2026, Binance updated customers about the cryptoasset theft first reported two days earlier and already covered by O's previous edition. Reuters and CoinDesk describe a new corporate statement: the platform had replaced about 90% of the missing assets' value, roughly $6 billion against estimated losses exceeding $6.3 billion, using its own resources. The fresh development is the claimed state of reserve replenishment, not the initial theft.",
+        "The accounting distinction matters: Binance describes buying replacement tokens through exchanges and over-the-counter trades, not the forensic return of 90% of the original stolen tokens. Meanwhile, industry partners are seeking to freeze around $3 billion of assets linked to the incident. Freezing funds, replacing reserves and recovering stolen coins are three different measures, which should not be added together as though they were all client refunds.",
+        "Binance says ten assets including BTC, ETH, USDT and BNB are backed at least one-to-one following a new reserve snapshot at 00:00 UTC on October 31. The full cryptographic proof is not expected until November 3, so the reported coverage ratio is currently primarily the company's claim. The exchange planned to resume withdrawals on November 1, but Reuters reported they remained suspended at the time of its update.",
+        "Reuters also reports that the FBI attributed the attack to North Korea-linked TraderTraitor. This is an investigative attribution to be reported as the authorities' assessment, not a criminal conviction; a complete technical reconstruction of the intrusion is still needed. Less liquid tokens may be harder for Binance to buy in the required amounts, helping explain why replacing the remaining 10% may take longer."
+      ],
+      "facts": [
+        "On October 31 Binance said it had replenished about 90% of the missing assets' value using its own funds after the October 29 hack.",
+        "Replacing value does not mean investigators recovered 90% of the original stolen tokens.",
+        "Binance announced an October 31 reserves snapshot and cryptographic verification scheduled for November 3; Reuters said withdrawals remained suspended at the time."
+      ],
+      "perspectives": [
+        "Binance says it is restoring customer backing through replacement purchases while cooperating in asset freezes.",
+        "Reuters and CoinDesk distinguish corporate-funded replenishment from frozen assets and actual client returns."
+      ],
+      "unknowns": [
+        "The final number and value of original stolen tokens recovered from the attackers have not been confirmed.",
+        "The planned November 3 proof-of-reserves checks and the actual resumption of withdrawals had not taken place at the time described."
+      ],
+      "questions": [
+        {
+          "question": "What does Binance's October 31 claim of 90% mean?",
+          "answer": "It is the share of the stolen assets' value that Binance says it has replenished by buying replacement tokens with company funds. It does not measure the proportion of original stolen coins found, frozen or returned by the attackers."
+        },
+        {
+          "question": "Why is Binance's new reserves snapshot not yet a complete cryptographic proof?",
+          "answer": "The snapshot records claimed balances at a point in time, but Binance scheduled the generation of zero-knowledge verification for November 3 so users can check at least 1:1 backing. The immediate figure remains attributable to the company."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Following the October 29 attack, the company reports purchases funded by its reserves and a new reserve snapshot; withdrawals remain suspended. The 3.5/5 rating reflects demonstrated technological consequences, not popularity.",
+      "tags": [
+        "Binance",
+        "reserves",
+        "crypto"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Binance says it has covered $6 billion of $6.3 billion stolen in hack",
+          "url": "https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CoinDesk",
+          "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+          "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Binance",
+          "title": "Security Incident Asset Replenishment Update: Approximately 90%",
+          "url": "https://www.binance.com/en/square/post/383244799724069",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/binance-reserves-replenished-oct31.svg",
+        "alt": "Original editorial illustration, not a photograph: Binance says it has replaced 90% of stolen assets, not recovered 90% of the original tokens",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/binance-reserves-replenished-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-31",
+          "section": "technology",
+          "id": "technology-binance-hack-oct30"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "date": "2026-11-01",
+  "language": "en",
+  "section": "italy",
+  "publishedAt": "2026-11-01T08:48:00+01:00",
+  "editorialNote": "UNPUBLISHED DRAFT: editorial and technical audits pending.",
+  "articles": [
+    {
+      "id": "italy-school-budget-bilingual",
+      "rank": 1,
+      "category": "society",
+      "title": "Italy's 2027 budget bill proposes 6,974 fewer school staffing positions",
+      "dek": "The planned reduction for the 2027–28 school year comprises 4,925 teaching-establishment positions and 2,049 administrative, technical and support positions. Unions and opposition parties want changes.",
+      "summary": "On October 31, 2026, publication of Italy's draft 2027 budget legislation prompted debate over a proposed reduction of 6,974 positions in state-school staffing establishments from the 2027–28 school year. A technical report cited by ANSA, Sky TG24 and Open estimates savings of €83.9 million in 2027 and €251.7 million annually from 2028. This is a legislative proposal, not a reduction already in force or evidence that 6,974 people have been dismissed.",
+      "body": [
+        "Article 66 of Italy's draft 2027 budget, as reported on October 31, would reduce the schools' teaching establishment by 4,925 positions and administrative, technical and auxiliary staffing by another 2,049, for a combined 6,974. The change is intended to begin in the 2027–28 school year. ANSA, Sky TG24 and Open independently described the same breakdown, attributing it to the bill and its technical report. The figure refers to positions in authorized staffing levels, not a verified count of employees already dismissed.",
+        "The technical report estimates savings of €83.9 million in 2027 and €251.7 million a year from 2028. The difference reflects the school-year start date and how the projected budget effects fall across calendar years. These are forecasts, not money already saved: Parliament has yet to complete consideration of the legislation, and the amounts depend on its final wording and implementation. The staffing proposal is separate from other budget measures, including school-building energy efficiency and funding arrangements for early-childhood services.",
+        "Publication of the bill triggered objections from opposition politicians and trade unions. CISL general secretary Daniela Fumarola called for the staffing measure to be withdrawn and for talks with the government, arguing that schools need investment and staff. Representatives of the Democratic Party and Five Star Movement criticized the proposal in the context of pressure on school services and student protests. Those are attributed political and union assessments; they do not themselves measure the eventual impact in every school.",
+        "Actual consequences would depend on how any revised staffing totals were allocated across regions, school levels, subjects and support functions. A national reduction does not necessarily affect every school in the same way: enrolment, educational needs and local staffing conditions matter. Assessing the change will require the enacted law, implementation guidance and school-level allocation data. As of October 31, the documented development is a contested proposal in a budget bill, not a completed administrative change."
+      ],
+      "facts": [
+        "The draft budget proposes 4,925 fewer positions in the teaching establishment and 2,049 fewer administrative, technical and support positions, according to reporting on October 31.",
+        "The intended start is the 2027–28 school year.",
+        "The technical report projects €83.9 million of savings in 2027 and €251.7 million annually from 2028."
+      ],
+      "perspectives": [
+        "CISL general secretary Daniela Fumarola wants the staffing reduction withdrawn and talks opened.",
+        "Democratic Party and Five Star Movement politicians argue that the proposal would weaken school services.",
+        "The financial projections come from the government's technical report, not an independent assessment of educational outcomes."
+      ],
+      "unknowns": [
+        "The final wording of Article 66 after parliamentary consideration is not yet known.",
+        "Final school-by-school allocations and measured effects on learning outcomes are unavailable."
+      ],
+      "questions": [
+        {
+          "question": "What makes up the 6,974 positions in Article 66 of Italy's 2027 budget bill?",
+          "answer": "The total combines 4,925 positions in the teaching establishment and 2,049 administrative, technical and auxiliary positions. These are proposed staffing-establishment changes for 2027–28, not a list of 6,974 dismissals that have already taken place."
+        },
+        {
+          "question": "Why do the projected school-staffing savings rise from €83.9 million in 2027 to €251.7 million from 2028?",
+          "answer": "The proposed changes would start with the 2027–28 school year rather than at the beginning of the financial year, so they would affect only part of 2027 but a full year from 2028. The amounts are still technical-report projections subject to the legislative process."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "a proposed nationwide change to state-school staffing with potential service consequences, but neither the final law nor its local distribution is settled.",
+      "tags": [
+        "schools",
+        "staffing",
+        "budget"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Manovra, per l'istruzione -7.000 posti, si rivede il fondo sugli asilo nido",
+          "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_288a80c7-5d31-4a62-8ccf-5fea05f53bf7.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Manovra 2027, tagli scuola: 7mila docenti e Ata in meno",
+          "url": "https://tg24.sky.it/economia/2026/10/31/manovra-2027-scuola-tagli-docenti-ata-polemiche",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Open",
+          "title": "Il governo taglia ancora sulla scuola",
+          "url": "https://www.open.online/2026/10/31/scuola-tagli-docenti-legge-bilancio-2027/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-school-budget-bilingual.svg",
+        "alt": "Original editorial illustration, not a photo: Italy's 2027 budget bill proposes 6,974 fewer school staffing positions",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-school-budget-bilingual.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "pensions-indexation-2027-bill-oct31",
+      "rank": 2,
+      "category": "economy",
+      "title": "Italy's budget bill would limit full pension inflation adjustment to €2,447 a month, saving an estimated €14.2bn",
+      "dek": "The technical report's ten-year estimate is gross; pensions above four times the INPS minimum would receive less indexation, subject to parliamentary approval.",
+      "summary": "On October 31, 2026, reporting on the technical annex to Italy's 2027 budget bill detailed an estimated €14.2 billion in gross savings, or €8.5 billion after tax effects, from restricting pension indexation over ten years. The proposed rules would grant full inflation adjustment only to pensions up to four times the INPS minimum, or €2,447.40 gross per month. Above that level, indexation percentages would decline by pension band, reaching 32% at the highest levels. ANSA, la Repubblica and Sky TG24 examined the bill and estimates. Parliament has not enacted the measure.",
+      "body": [
+        "The draft 2027 Budget Law submitted to Italy's Chamber of Deputies after examination by the State General Accounting Department contains revised rules for adjusting pensions to inflation. The technical report discussed on October 31 sets out estimated gross spending savings of €14.2 billion over ten years. These are projections conditional on parliamentary approval and future prices, not savings already realized or an immediate reduction in money paid to pensioners. Lawmakers must still debate the measure and may amend it before enactment.",
+        "Pension indexation normally raises benefits to compensate for price increases, fully or in part. Under the bill, the full adjustment would apply only to benefits no higher than four times the INPS minimum: at the reported minimum of €611.85, that means €2,447.40 gross per month. Above the threshold, Italy would revert to a banded method resembling the 2023 system. Pensions between four and five times the minimum would receive 85% of the price adjustment; the rates then fall to 53%, 47%, 37% and finally 32% for pensions above ten times the minimum. As la Repubblica explains, the band percentage would apply to the pension as a whole rather than only the income above a threshold, affecting individual calculations.",
+        "The government technical annex projects about €1.476 billion a year in lower gross pension spending during 2027–2029, but €885 million annually after tax effects. Over 2027–2036, the cumulative estimates are €14.2 billion gross and €8.5 billion net, with annual effects gradually diminishing after 2030. The gross/net difference reflects the tax revenue that the state would no longer collect when taxable pension increases are smaller; it is not a separate benefit returned to pensioners. Calculations rely on assumed inflation, reported by la Repubblica as 2.8%, and actual outcomes would vary with prices and final legislation.",
+        "Lower indexation does not automatically mean that nominal pensions already being received today will be cut: rather, future increases would be smaller than under full adjustment, creating a potential real purchasing-power loss that can compound. Unions and opposition parties argue that pensions would bear part of the fiscal cost of other government choices; the government presents the measure within a wider budget package including a one-year income-tax change. Assessing the impact requires pension-by-pension calculations rather than applying one hypothetical loss to everyone. At the close of the reporting window this was a legislative proposal and an official estimate, not an implemented policy."
+      ],
+      "facts": [
+        "ANSA reported October 31 technical projections of €14.2 billion gross and €8.5 billion net savings across 2027–2036.",
+        "The draft would retain full indexation only up to €2,447.40 gross monthly, four times the €611.85 INPS minimum.",
+        "For higher pensions, the proposed rates decline by band to 32% above ten times the minimum; the bill is not yet law."
+      ],
+      "perspectives": [
+        "The government's technical report quantifies lower spending compared with the reference indexation scenario.",
+        "Unions and opposition groups criticize the potential effect on purchasing power; Sky TG24 and la Repubblica provide separate analyses of thresholds and individual examples."
+      ],
+      "unknowns": [
+        "Final statutory language after parliamentary amendments and detailed implementation rules for 2027.",
+        "Actual inflation inputs and how the resulting losses will be distributed across individual pension categories."
+      ],
+      "questions": [
+        {
+          "question": "How would a pension above €2,447.40 gross be indexed under Italy's proposed 2027 budget?",
+          "answer": "The draft would reserve full inflation adjustment for benefits up to four times the INPS minimum. A pension between four and five times the minimum would get 85% of the inflation adjustment; higher bands would receive progressively less, down to 32% for pensions above ten times the minimum. These proposed rules are not yet in force."
+        },
+        {
+          "question": "Why does the technical report project €14.2bn in pension savings but only €8.5bn net?",
+          "answer": "The €14.2 billion is the projected reduction in gross pension spending over 2027–2036. The €8.5 billion net estimate accounts for tax effects: smaller pension increases would also mean lower income-tax receipts for the state. Both figures describe possible future savings, not money already saved."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "a proposal potentially affecting the purchasing power of many Italian pensioners and public finances for years, but still subject to legislative changes and uncertain inflation assumptions.",
+      "tags": [
+        "pensions",
+        "inflation",
+        "budget"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Dalla stretta su rivalutazione delle pensioni risparmi lordi per 14,2 miliardi in 10 anni",
+          "url": "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/31/da-stretta-su-rivalutazione-pensioni-risparmi-lordi-per-142-miliardi-in-10-anni_d71a6df3-8a83-44c3-ad0e-dab6af4e2a99.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Pensioni, torna la stretta sulla rivalutazione. Stangata da 14 miliardi in dieci anni",
+          "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/31/news/pensioni_manovra_2027_stretta_rivalutazione_inflazione-425689339/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Manovra 2027, stretta su rivalutazione pensioni e cedolare solo su nuovi contratti",
+          "url": "https://tg24.sky.it/economia/2026/10/30/manovra-2027-pensioni-irpef-novita",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/pensions-indexation-2027-bill-oct31.svg",
+        "alt": "Original editorial illustration, not a photo: Italy's budget bill would limit full pension inflation adjustment to €2,447 a month, saving an estimated €14.2bn",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/pensions-indexation-2027-bill-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-medical-device-payback-oct31",
+      "rank": 3,
+      "category": "economy",
+      "title": "Medical-device companies challenge Italy's 2027 budget payback rules and warn of litigation",
+      "dek": "Article 73 of the draft addresses regional spending overruns for 2019–2023; the €12.5bn figure is an industry estimate, not a judicially established debt.",
+      "summary": "On October 31, 2026, Fabio Faltoni, the head of Confindustria Dispositivi Medici, announced protests and legal action against the payback provisions in Italy's proposed 2027 Budget Law. ANSA and LaPresse reported separately on the industry's response. The dispute concerns a mechanism that requires suppliers to contribute when regional public-health spending exceeds specified caps. The proposed changes are part of a bill, not a budget measure definitively enacted by Parliament.",
+      "body": [
+        "On October 31, 2026, Fabio Faltoni, the head of Confindustria Dispositivi Medici, announced protests and legal action against the payback provisions in Italy's proposed 2027 Budget Law. ANSA and LaPresse reported separately on the industry's response. The dispute concerns a mechanism that requires suppliers to contribute when regional public-health spending exceeds specified caps. The proposed changes are part of a bill, not a budget measure definitively enacted by Parliament.",
+        "According to the trade groups, Article 73 would certify sums for financial years 2019–2023, with the first payment deadline stated as July 30, 2027. Companies also object to including the pandemic years and to the medical-device expenditure ceiling, which Conflavoro PMI Sanità says would rise to 4.7% only from 2027. The groups argue that this adjustment would not retrospectively alter spending overruns; determining each supplier's liability would require the final law and regional records.",
+        "Faltoni estimates an industry-wide burden of €12.5 billion for 2019–2029, according to figures produced by Confindustria Dispositivi Medici. This is neither money already collected by the government nor an independently audited liability. Conflavoro PMI Sanità says the bill proposes a state contribution of €350 million annually during 2028–2031, €1.4 billion in all, but that it would not eliminate the obligations facing suppliers.",
+        "The companies argue the mechanism could reduce investment, employment and the availability of technologies in hospitals. That is a projected risk asserted by affected businesses, not an already measured decrease in patient access. Faltoni refers to ongoing litigation and questions referred to European courts, but their legal scope requires checking the judicial records. ANSA and LaPresse describe industry mobilization and possible consequences, not an approved parliamentary amendment resolving the dispute."
+      ],
+      "facts": [
+        "On October 31 ANSA and LaPresse reported the industry's announcement of litigation and protests.",
+        "The €12.5 billion estimate for 2019–2029 is attributed to the trade association.",
+        "The relevant provisions remain part of a draft bill."
+      ],
+      "perspectives": [
+        "Confindustria Dispositivi Medici calls the provision unsustainable and asks Parliament to amend it.",
+        "Conflavoro PMI Sanità argues that proposed state support would not exempt smaller suppliers."
+      ],
+      "unknowns": [
+        "The final wording of Article 73 after any parliamentary amendments is not yet settled.",
+        "The precise amount payable by each company depends on regional records and legal proceedings."
+      ],
+      "questions": [
+        {
+          "question": "What does the payback mechanism contested by medical-device suppliers cover?",
+          "answer": "It is a system in which suppliers contribute to the portion of regional expenditure on devices above specified caps. Article 73 of the draft budget addresses recovery for years 2019–2023; it does not mean every company has already paid the requested amounts."
+        },
+        {
+          "question": "Where does the disputed €12.5 billion figure come from?",
+          "answer": "It is Confindustria Dispositivi Medici's cumulative estimate for 2019–2029, cited by its president Fabio Faltoni, not a court-certified liability. Trade groups seek amendments because the proposed state contribution would not eliminate payback demands."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Article 73 of the draft addresses regional spending overruns for 2019–2023; the €12.5bn figure is an industry estimate, not a judicially established debt. The score considers sourced developments rather than speculative risks.",
+      "tags": [
+        "payback",
+        "devices",
+        "healthcare"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Manovra: Confindustria dispositivi medici, azioni legali e proteste su payback",
+          "url": "https://www.ansa.it/amp/sito/notizie/economia/pmi/2026/10/31/manovra-confindustria-dispositivi-medici-azioni-legali-e-proteste-su-payback_795f9d4e-2f98-4bfe-9748-eda281d22cb8.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "LaPresse",
+          "title": "Payback per i dispositivi medici, la stangata da 12,5 mld e l'ira delle imprese",
+          "url": "https://www.lapresse.it/salute/sanita/2026/10/31/payback-per-i-dispositivi-medici-la-stangata-da-125-mld-e-lira-delle-imprese/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-medical-device-payback-oct31.svg",
+        "alt": "Original editorial illustration, not a photo: Medical-device companies challenge Italy's 2027 budget payback rules and warn of litigation",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-medical-device-payback-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-daycare-funding-formula-oct31",
+      "rank": 4,
+      "category": "society",
+      "title": "Italy's budget bill proposes reallocating nursery funding as birth rates fall",
+      "dek": "The draft sets a 33% nursery coverage goal for each municipality, without showing it has already been achieved locally.",
+      "summary": "On October 31, 2026, reporting by ANSA and LaPresse on Italy's draft 2027 Budget Law described a proposal to change the allocation of nursery-school funding. Article 121 refers to the declining number of children under three and suggests that some resources previously budgeted might be surplus to what is needed to reach a target level of service. It is a proposed change in funding allocation, not a decision already taken to close existing nurseries.",
+      "body": [
+        "On October 31, 2026, reporting by ANSA and LaPresse on Italy's draft 2027 Budget Law described a proposal to change the allocation of nursery-school funding. Article 121 refers to the declining number of children under three and suggests that some resources previously budgeted might be surplus to what is needed to reach a target level of service. It is a proposed change in funding allocation, not a decision already taken to close existing nurseries.",
+        "The stated goal is for each municipality to provide nursery places amounting to 33% of its children in the relevant age group. The draft links the number of places needing funding to local demographics: fewer children can mean a lower estimated cost to reach a specified coverage percentage. That does not automatically mean communities with shortages need fewer services, or that the amount available to reallocate can be determined without knowing where places are located.",
+        "LaPresse describes reallocation of resources deemed surplus rather than an across-the-board funding cut for every local authority. ANSA places the measure alongside controversy over school staffing reductions, but those provisions address different services and budgets. Waiting lists, travel distances and the difference between licensed places and genuinely accessible services make a simple national percentage an incomplete measure of access.",
+        "Critics argue that many municipalities, particularly those with weaker infrastructure, have yet to reach 33% coverage, while the government's proposal rests on changes in demographics and estimated spending. The bill is not yet law, and final distribution would require municipal data, administrative decisions and any parliamentary amendments. The development is a proposed formula, not already observed improvements in nursery access."
+      ],
+      "facts": [
+        "Article 121 of the bill addresses nursery resources in light of fewer young children.",
+        "The 33% rate is a service target for each municipality.",
+        "ANSA and LaPresse reported the measure on October 31, 2026."
+      ],
+      "perspectives": [
+        "The government proposal argues that demographic trends may leave some funds surplus to estimated needs.",
+        "Opposition figures dispute the idea that lower birth rates remove disparities in access."
+      ],
+      "unknowns": [
+        "Final allocations for each municipality are not established in the reporting.",
+        "The outcome of parliamentary amendments remains unsettled."
+      ],
+      "questions": [
+        {
+          "question": "How does falling birth rate affect Article 121's nursery-funding calculations?",
+          "answer": "The draft relates the places to be funded to each local population of children under three and a 33% coverage target. When the number of children falls, estimated costs to reach that percentage may decline, without guaranteeing actual places in underserved areas."
+        },
+        {
+          "question": "Why is the budget's 33% figure not coverage already achieved in every municipality?",
+          "answer": "It is a service target used for allocation, not certification that enough places are available. Local inequalities, waiting lists and where places are located require municipal checks, and the bill has not yet been passed."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The draft sets a 33% nursery coverage goal for each municipality, without showing it has already been achieved locally. Score limited to substantiated consequences.",
+      "tags": [
+        "daycare",
+        "councils",
+        "budget"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Manovra, per l'istruzione -7.000 posti, si rivede il fondo sugli asili nido",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_288a80c7-5d31-4a62-8ccf-5fea05f53bf7.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "LaPresse",
+          "title": "Manovra 2027, oltre 1,3 mld per le missioni militari all’estero. Rivisto il riparto dei fondi per gli asili nido",
+          "url": "https://www.lapresse.it/economia/2026/10/31/manovra-2027-oltre-13-mld-per-le-missioni-militari-allestero-rivisto-il-riparto-dei-fondi-per-gli-asili-nido/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-daycare-funding-formula-oct31.svg",
+        "alt": "Original editorial illustration, not a photo: Italy's budget bill proposes reallocating nursery funding as birth rates fall",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-daycare-funding-formula-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "italy-foreign-missions-funding-oct31",
+      "rank": 5,
+      "category": "politics",
+      "title": "Italy's draft budget adds €1.32bn for international missions across 2027–2028",
+      "dek": "Article 95 proposes €520m for 2027 and €803.58m for 2028; these are proposed additions, not money already spent.",
+      "summary": "In the draft 2027 Budget Law submitted to Italy's Chamber of Deputies, ANSA and LaPresse identify additional resources for Italian participation in international missions. On October 31, 2026, LaPresse cited Article 95, proposing €520 million in 2027 and €803,579,339 in 2028. The precise two-year sum is €1,323,579,339, commonly rounded in headlines to more than €1.3 billion.",
+      "body": [
+        "In the draft 2027 Budget Law submitted to Italy's Chamber of Deputies, ANSA and LaPresse identify additional resources for Italian participation in international missions. On October 31, 2026, LaPresse cited Article 95, proposing €520 million in 2027 and €803,579,339 in 2028. The precise two-year sum is €1,323,579,339, commonly rounded in headlines to more than €1.3 billion.",
+        "The bill cites developments in the international geopolitical situation. The fund supports missions abroad, where specific authorizations, annual allocations and parliamentary oversight matter as much as the headline appropriation. The existence of a budget entry does not automatically identify which operations, deployments or locations will receive each share, and it does not mean new troops had already deployed in 2026.",
+        "Article 95 also includes additional sums for ratification of the Global Combat Air Programme convention, a planned future fighter project with Britain and Japan: €32,338,720 for 2027 and €15,563,360 for 2028, according to LaPresse. Those amounts are separate from the international-missions fund and should not be conflated without explaining their different purposes. Article 94 separately proposes a military infrastructure fund of €17 million in 2027 and €87 million in 2028.",
+        "Parliamentary debate may change the figures and their conditions. The government regards the appropriations as a way to sustain international commitments, but operational decisions would still require the relevant procedures. Assessing fiscal priorities calls for comparison with the total defence budget, existing commitments and other spending categories. The figures establish a multi-year funding proposal, not new missions individually authorized already."
+      ],
+      "facts": [
+        "LaPresse reports €520m in 2027 and €803,579,339 in 2028 for the missions fund.",
+        "The draft separately addresses GCAP and military infrastructure costs.",
+        "The figures are proposed spending under parliamentary scrutiny."
+      ],
+      "perspectives": [
+        "The draft invokes geopolitical developments to justify the resources.",
+        "Parliament can amend the text and decide the final appropriations."
+      ],
+      "unknowns": [
+        "This budget article does not specify the final allocation to each overseas operation.",
+        "The parliamentary outcome and final appropriations are not yet known."
+      ],
+      "questions": [
+        {
+          "question": "How does the draft budget reach more than €1.3 billion for international missions?",
+          "answer": "Article 95 proposes €520 million for 2027 plus €803,579,339 for 2028, totalling €1,323,579,339. They are additional proposed appropriations for future financial years, not money already spent on deployments."
+        },
+        {
+          "question": "Is funding for the GCAP fighter included in the €1.32bn missions total?",
+          "answer": "No. The GCAP amounts in the bill are separate costs related to the aircraft programme with the UK and Japan. Overseas missions funding should not be conflated with weapons development or military infrastructure appropriations."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Article 95 proposes €520m for 2027 and €803.58m for 2028; these are proposed additions, not money already spent. Score limited to substantiated consequences.",
+      "tags": [
+        "missions",
+        "defense",
+        "budget"
+      ],
+      "sources": [
+        {
+          "outlet": "LaPresse",
+          "title": "Manovra 2027, oltre 1,3 mld per le missioni militari all’estero",
+          "url": "https://www.lapresse.it/economia/2026/10/31/manovra-2027-oltre-13-mld-per-le-missioni-militari-allestero-rivisto-il-riparto-dei-fondi-per-gli-asili-nido/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Manovra, per l'istruzione -7.000 posti, si rivede il fondo sugli asili nido",
+          "url": "https://videoembed.ansa.it/sito/notizie/economia/2026/10/31/manovra-si-rivede-il-riparto-dei-fondi-per-gli-asili-nido-per_288a80c7-5d31-4a62-8ccf-5fea05f53bf7.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/italy-foreign-missions-funding-oct31.svg",
+        "alt": "Original editorial illustration, not a photo: Italy's draft budget adds €1.32bn for international missions across 2027–2028",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/italy-foreign-missions-funding-oct31.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

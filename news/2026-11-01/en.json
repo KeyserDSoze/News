@@ -1,0 +1,767 @@
+{
+  "date": "2026-11-01",
+  "language": "en",
+  "section": "world",
+  "publishedAt": "2026-11-01T08:48:00+01:00",
+  "editorialNote": "UNPUBLISHED CANDIDATE — editorial and technical checks pending.",
+  "articles": [
+    {
+      "id": "oleshky-civilian-return-oct31",
+      "rank": 1,
+      "category": "world",
+      "title": "Oleshky evacuees cross into Ukraine after a local ceasefire",
+      "dek": "On October 31, residents of the occupied town reached Chernihiv region via Russia and Belarus. Authorities have not released a complete count of those who returned.",
+      "summary": "On Saturday, October 31, 2026, evacuees from Russian-occupied Oleshky crossed into Ukrainian-held territory after travelling through Crimea, Russia and Belarus. A six-day local ceasefire made mine clearance and humanitarian deliveries possible. Reuters and the Associated Press independently reported the arrival of families and elderly residents at the border. A definitive count of evacuees has not been made public.",
+      "body": [
+        "On October 31, buses carrying people from Oleshky arrived at the Belarus–Ukraine border in Chernihiv region. Reuters and Associated Press reporters described exhausted residents, some using wheelchairs or requiring medical assistance, being welcomed by relatives, volunteers and emergency workers. To leave the town near the front line, residents had first travelled by bus through Crimea to Russia, then flown to Belarus before taking buses to the Ukrainian border. The new development on October 31 was their actual arrival, not the earlier announcement that an evacuation would take place.",
+        "The operation followed a local ceasefire that began on Tuesday, October 27, and was scheduled to last until Sunday, November 1. According to the parties, the arrangement involved mediation by US first lady Melania Trump and intervention by the pope. It allowed crews to clear mines from some roads and bring food and medicine into the town. On October 29, Russian and Ukrainian human-rights representatives had already announced that route demining was complete. O's October 30 edition covered that earlier stage; the two developments should remain clearly dated and distinguished.",
+        "The accounts collected by Reuters and AP describe severe deprivation. Residents spoke of food shortages dating back to spring, dangerous drone activity and mined roads. Reuters interviewed an elderly man who said he had lost 20 kilograms over the previous year and a woman who said she had resorted to eating grass and squash. These are firsthand accounts, not population-wide measurements. Reuters gave an estimate of around 1,700 people in Oleshky before the evacuation, while AP cited roughly 2,000; neither estimate should be silently converted into an exact count.",
+        "Human-rights representatives from both countries said they intended to cooperate on further humanitarian missions. Some residents chose to remain in Oleshky and others went to Russian-controlled areas. Ukrainian President Volodymyr Zelenskyy thanked the mediators, but the Kremlin described the local truce as an isolated case that could not automatically be extended to the wider peace process. Fighting and drone attacks continued elsewhere. The evacuation therefore marks a significant but geographically limited humanitarian development, not a nationwide ceasefire."
+      ],
+      "facts": [
+        "Reuters and AP independently reported evacuees crossing the Belarus–Ukraine border on October 31, 2026.",
+        "The route ran through Crimea, Russia and Belarus; the local ceasefire began on October 27.",
+        "Authorities did not provide an exact total of people who returned to Ukrainian-held territory."
+      ],
+      "perspectives": [
+        "Ukrainian ombudsman Dmytro Lubinets described the mission as the outcome of difficult negotiations and called for further operations.",
+        "Russian commissioner Yana Lantratova said conditions remained difficult for residents who stayed and indicated willingness to cooperate.",
+        "The Kremlin portrayed the truce as an isolated arrangement rather than evidence of a wider peace breakthrough."
+      ],
+      "unknowns": [
+        "A complete destination-by-destination breakdown of evacuees is unavailable.",
+        "It is not established when further missions could safely take place after November 1."
+      ],
+      "questions": [
+        {
+          "question": "Why did Oleshky residents travel through Belarus to reach Ukraine?",
+          "answer": "Oleshky lies near an active front line, with mined routes and the risk of drone attacks. The agreed humanitarian route took residents by bus through Crimea and Russia, then by air to Belarus and onward by bus to the Chernihiv border crossing, where assistance was waiting."
+        },
+        {
+          "question": "What did the six-day Oleshky ceasefire enable, and what did it not cover?",
+          "answer": "It provided a local window for clearing routes, delivering aid and evacuating some civilians. It did not halt fighting across Ukraine or amount to a general peace agreement, a limitation also reflected in the Kremlin's description of the arrangement."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "a major humanitarian evacuation for an isolated civilian population and an uncommon instance of coordination between warring sides, but with geographically limited consequences and no broader ceasefire.",
+      "tags": [
+        "Ukraine",
+        "evacuations",
+        "ceasefire"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
+          "url": "https://www.reuters.com/world/europe/three-planes-carrying-residents-evacuated-oleshky-arrive-belarus-news-agency-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+          "url": "https://apnews.com/article/russia-ukraine-war-oleshky-evacuation-5cbc7d2a5b8ac34b15c914338fd5a9f3",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Russia, Ukraine say Oleshky demining operations complete",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/29/russia-ukraine-say-oleshky-demining-operations-complete-humanitarian-operation-to-proceed",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/oleshky-civilian-return-oct31.svg",
+        "alt": "Original illustration, not a photograph: Oleshky evacuees cross into Ukraine after a local ceasefire",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/oleshky-civilian-return-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-30",
+          "section": "world",
+          "id": "oleshky-demining-humanitarian-oct29"
+        }
+      ]
+    },
+    {
+      "id": "france-protests-third-weekend-oct31",
+      "rank": 2,
+      "category": "politics",
+      "title": "France sees third Saturday of protests: government counts 320,000, clashes follow marches",
+      "dek": "The official turnout estimate is lower than in the preceding two weeks; most rallies are peaceful, but violence breaks out near the end of some marches.",
+      "summary": "France held another wave of demonstrations on October 31, 2026, over living costs, education and the state of public services. The Interior Ministry estimated a nationwide turnout of 320,000, compared with 410,000 on October 24 and 550,000 on October 17; organizers provided higher estimates. Most gatherings were peaceful, though clashes and arrests followed in several cities. Youth demonstrations also took place elsewhere in Europe, with distinct national demands.",
+      "body": [
+        "On Saturday, October 31, students, workers, trade unions and other groups took to streets around France for the third consecutive weekend. The Associated Press, whose correspondents reported from Paris and Germany, and the Guardian's Europe correspondent describe large rallies united by concerns including dilapidated school buildings, housing costs, wages and public services. They were not a single organization with one policy platform: the groups marched together while retaining different demands.",
+        "France's Interior Ministry estimated a turnout of 320,000 nationwide. This is an official estimate, not an independently verified count of every participant: the government's corresponding figures were 410,000 for October 24 and 550,000 for October 17. Organizers reported larger numbers, and no shared methodology resolves the gap. About 70,000 police and gendarmes were deployed nationally. In Paris, the main march was routed around the edge of the city rather than through central shopping and government districts.",
+        "Reporting distinguishes broadly peaceful demonstrations from the actions of smaller groups. Near the end of marches in several cities, objects and fireworks were thrown at officers, who used tear gas and other crowd-control equipment. AP reported more than 560 arrests nationally by Saturday night; the count was updated as the day progressed and does not characterize all the demonstrators. The Guardian reported clashes in Paris and elsewhere, alongside overnight restrictions in particular Paris neighborhoods. The evidence for individual offences and assessments of police conduct must be examined separately from crowd totals.",
+        "France's events coincided with youth-led protests in Germany and housing demonstrations in Portugal. In Berlin, the «Gen Z regelt» network called for more investment in public services and opposed the reintroduction of conscription; some German cities also experienced disorder. This overlap in social concerns does not prove the existence of a single international organization or centrally directed campaign. French groups have announced further actions, including a national strike for November 5, but their future scale and outcome cannot be treated as established facts."
+      ],
+      "facts": [
+        "October 31 marked a third consecutive Saturday of large French protests.",
+        "The French government estimated 320,000 participants and mobilized around 70,000 security personnel.",
+        "AP reported more than 560 arrests by Saturday night, an evolving tally."
+      ],
+      "perspectives": [
+        "Interior Minister Laurent Nuñez warned of a high risk of disorder while distinguishing peaceful marches from violent incidents.",
+        "Students and unions denounced education conditions, the cost of living and public-service shortfalls; organizers challenged official turnout estimates."
+      ],
+      "unknowns": [
+        "A common independent headcount reconciling government and organizers' turnout figures is unavailable.",
+        "The detailed circumstances and legal outcomes of individual arrests and disputed police actions are not established."
+      ],
+      "questions": [
+        {
+          "question": "What exactly does the figure of 320,000 people at France's October 31 protests represent?",
+          "answer": "It is the Interior Ministry's nationwide estimate of turnout, produced by authorities using their counting approach and comparable with their figures from the two previous Saturdays. It is not a person-by-person census and differs from organizers' higher estimates."
+        },
+        {
+          "question": "Why was the main Paris march moved away from the city centre?",
+          "answer": "Authorities rerouted demonstrators away from major central retail and institutional areas, deploying 70,000 security personnel nationwide after disorder in earlier weeks. The route change altered where the crowd marched but did not prevent clashes toward the end of the day."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "extensive nationwide mobilization over education and living standards with political and public-order consequences, although the official turnout series shows a decline and no concrete policy outcome has yet followed.",
+      "tags": [
+        "France",
+        "protests",
+        "education"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press; Tom Nouvian and Kirsten Grieshaber; *A third weekend of protests in France as youth-led rallies sweep Europe*; 2026-10-31; `reporting`:",
+          "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+          "url": "https://apnews.com/article/protests-europe-youth-france-germany-spain-362a7cb69871ab21bd894290dad639f5",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian; Jon Henley; *Police clash with masked rioters after largely peaceful protests across France*; first published 2026-10-31 19:23 CET",
+          "title": "Police clash with masked rioters after largely peaceful protests across France",
+          "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/france-protests-third-weekend-oct31.svg",
+        "alt": "Original illustration, not a photograph: France sees third Saturday of protests: government counts 320,000, clashes follow marches",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/france-protests-third-weekend-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "south-korea-oct-exports-nov1",
+      "rank": 3,
+      "category": "economy",
+      "title": "South Korea's October exports hit $115.28 billion, up 93.7% as chips surge",
+      "dek": "The annual increase is unusually steep, but the timing of the Chuseok holiday affects comparisons with 2025; a $1 trillion annual total remains a projection.",
+      "summary": "South Korea's trade ministry released preliminary October 2026 figures on November 1: exports amounted to $115.28 billion, up 93.7% from a year earlier. Semiconductor exports reached $56.44 billion, a 259.4% jump. Reuters and Yonhap reported that extra working days compared with October 2025 helped inflate the year-on-year comparison. The monthly trade surplus stood at $42.5 billion. An annual total exceeding $1 trillion remains a government projection rather than a completed milestone.",
+      "body": [
+        "On Sunday, November 1, 2026, Seoul released preliminary data for trade in October. The Ministry of Trade, Industry and Resources reported overseas sales of $115.28 billion, up 93.7% from October 2025. Reuters said the annual growth rate was the strongest since January 1974. The monthly value was extremely high but should not be called an absolute all-time high: South Korea had exported about $121.1 billion in September, making October the second-highest month in the figures discussed by Korean outlets.",
+        "Semiconductors were the chief contributor. Chip exports rose 259.4% to $56.44 billion in a market boosted by investment in artificial-intelligence infrastructure. Reuters also reported a 496.6% increase in computer exports associated with demand for AI servers. These figures measure the dollar value of shipments, not the number of chips installed, and do not establish that every domestic industry expanded by a similar proportion. Product mix, global selling prices and demand all influence reported trade values.",
+        "Calendar differences matter in the annual comparison. In 2025, the Chuseok holiday reduced the number of working days in October; in 2026, its timing left more working days in the month. A 93.7% increase in exports therefore does not by itself mean that underlying productivity almost doubled within a year. Reuters and Korean reporting describe both stronger electronics demand and this statistical base effect; neither gives a defensible precise decomposition of the increase among them.",
+        "Imports rose 36% to $72.78 billion, leaving a $42.5 billion monthly trade surplus, down from September's $49.97 billion according to Reuters. Cumulative exports from January through October reached roughly $930 billion. The ministry expects that, if current momentum is sustained, annual exports could exceed $1 trillion in November. That is a forecast exposed to chip prices, worldwide orders and disruptions to trade rather than an amount already achieved at the time of reporting."
+      ],
+      "facts": [
+        "South Korea published preliminary October trade data on November 1: exports up 93.7% year-on-year to $115.28 billion.",
+        "Chip exports rose 259.4% to $56.44 billion; imports rose 36% to $72.78 billion and the trade surplus was $42.5 billion.",
+        "A greater number of working days than in October 2025 affected the comparison."
+      ],
+      "perspectives": [
+        "The trade ministry sees the current pace as supporting a possible $1 trillion annual export tally in November.",
+        "Reuters identifies global AI infrastructure spending as a driver while noting the holiday-calendar effect."
+      ],
+      "unknowns": [
+        "The precise shares of the 93.7% increase due to prices, volumes, product mix and calendar differences are not established by these sources.",
+        "The expected timing of the $1 trillion milestone cannot be verified before actual shipments are counted."
+      ],
+      "questions": [
+        {
+          "question": "Why does South Korea's 93.7% October export increase not mean its production almost doubled?",
+          "answer": "The statistic compares dollar exports with October 2025 rather than measuring physical production. More working days after the Chuseok holiday shifted between months, alongside changes in semiconductor prices and demand, boosted the comparison and must be considered in interpreting it."
+        },
+        {
+          "question": "How large was the semiconductor share of South Korea's October exports?",
+          "answer": "Chip shipments were worth $56.44 billion out of $115.28 billion in total exports, almost 49% of the month's value. They increased 259.4% from a year earlier amid global spending on computing infrastructure for AI."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "one of South Korea's largest-ever monthly export tallies and strong global chip demand have cross-border economic implications, but the extraordinary annual comparison includes a calendar effect and does not prove that growth at the same rate will persist.",
+      "tags": [
+        "Korea",
+        "trade",
+        "semiconductors"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters; *South Korea exports nearly double in October on AI investment boom*; 2026-11-01 00:39 UTC; `reporting`:",
+          "title": "South Korea exports nearly double in October on AI investment boom",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Yonhap News Agency; Choi Kyong-ae; *S. Korea's monthly exports hit US$115.3 bln in Oct. on record chip sales*; 2026-11-01 09:12 KST; `reporting`:",
+          "title": "S. Korea's monthly exports hit US$115.3 bln in Oct. on record chip sales",
+          "url": "https://en.yna.co.kr/view/AEN20261101000900320",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Seoul Economic Daily; Lee Jung-hoon; *Korea's October Exports Surge 93.7% as $1 Trillion Year Nears*; 2026-11-01 09:16 KST; `reporting`:",
+          "title": "Korea's October Exports Surge 93.7% as $1 Trillion Year Nears",
+          "url": "https://en.sedaily.com/finance/2026/11/01/koreas-october-exports-surge-937-percent-as-1-trillion-year",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/south-korea-oct-exports-nov1.svg",
+        "alt": "Original illustration, not a photograph: South Korea's October exports hit $115.28 billion, up 93.7% as chips surge",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/south-korea-oct-exports-nov1.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "bangladesh-garment-wage-board-oct31",
+      "rank": 4,
+      "category": "economy",
+      "title": "Bangladesh promises garment wage board after factory protests over pay",
+      "dek": "The October 31 pledge follows factory stoppages; workers seek a monthly minimum of 30,000 taka, up from 12,500.",
+      "summary": "Bangladesh's government said on October 31, 2026, that it would establish a wage board for garment workers the next day. The announcement followed demonstrations in industrial areas around Dhaka and factory production interruptions. Workers are demanding a minimum monthly wage of 30,000 taka, more than twice the current 12,500. Reuters and The Business Standard independently documented the protests and ministerial statements. Neither the formal appointment of the board nor a new wage level was established as completed in the October 31 reporting.",
+      "body": [
+        "On Saturday, October 31, garment workers protested in industrial districts in and around Dhaka, Gazipur and Savar, demanding higher pay to offset rising prices for food, transport, housing and care. The Business Standard reported locally on road disruptions and temporary shutdowns, including in the Ashulia industrial area. Reuters independently described factory stoppages and concern about supply interruptions in an industry central to Bangladesh's export economy. Factory closure figures vary depending on location, time and whether temporary holidays are included in the tally.",
+        "After consultations with worker and industry representatives, Labour and Employment Minister Ariful Haque Chowdhury said on October 31 that the government intended to form a wage board on Sunday, November 1, to review the garment sector's minimum pay. According to The Business Standard, he said the manufacturers' associations BGMEA and BKMEA had accepted the formation of the board and urged workers to return to work. Agreement to start such a process is not an agreement on a new minimum wage, nor does it establish that a new rule has already entered into force.",
+        "Workers are asking for a minimum of 30,000 taka per month rather than the current 12,500: the requested rise is 17,500 taka, or 140% of the existing level, not a wage increase already delivered. Reuters places the dispute in an industry employing around four million people and accounting for more than 80% of national export earnings. Those figures describe the scale of the sector; they do not specify how many workers took part in demonstrations or the eventual cost to employers of meeting the full demand.",
+        "The announcement could open negotiations over employment, real wages and the competitiveness of garment suppliers. Worker representatives emphasize lost purchasing power and the need to adjust pay, while manufacturers and the government also want factories to reopen and production to stabilize. Any board would have to negotiate a future minimum, for which no completed outcome was publicly established at the close of October 31. It would be inaccurate to anticipate an end to the unrest or to say that the proposed 30,000-taka wage has been adopted."
+      ],
+      "facts": [
+        "Labour Minister Ariful Haque Chowdhury announced on October 31 that a wage board would be set up on November 1.",
+        "Workers seek a monthly minimum of 30,000 taka compared with the current 12,500.",
+        "Reuters and The Business Standard reported protests and production interruptions near Dhaka."
+      ],
+      "perspectives": [
+        "The minister said BGMEA and BKMEA backed the formation of a board and called for a return to work.",
+        "Worker representatives cited the rising cost of essentials and housing to support the 30,000-taka demand."
+      ],
+      "unknowns": [
+        "The formal establishment and final membership of the proposed wage board are not documented in the materials reviewed.",
+        "Final factory shutdown totals and the duration of disruptions differ across reports and remain unsettled."
+      ],
+      "questions": [
+        {
+          "question": "What would the wage board promised for Bangladesh's garment sector actually do?",
+          "answer": "It would be a body tasked with reviewing the sector's minimum wages, which the labour minister promised to establish on November 1 following talks with workers and industry groups. Its creation would start a negotiation; the announcement does not put a pay rise into workers' wages."
+        },
+        {
+          "question": "How much higher is garment workers' 30,000-taka demand than the current minimum?",
+          "answer": "Reuters reports an existing monthly minimum of 12,500 taka. The demand would add 17,500 taka, a 140% increase over that baseline, with implications for an export-focused sector; the final negotiated figure has not been determined."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "negotiations could affect millions of workers and international clothing supply chains, but the latest verifiable action is a pledge to begin wage talks rather than a completed agreement.",
+      "tags": [
+        "Bangladesh",
+        "wages",
+        "garments"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters; *Bangladesh to form wage board after garment protests shut factories*; original dated Dhaka 2026-11-01",
+          "title": "Bangladesh to form wage board after garment protests shut factories",
+          "url": "https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Business Standard (Bangladesh); *Garment wage board to be formed tomorrow",
+          "title": "Garment wage board to be formed tomorrow, no reason for agitation: Minister",
+          "url": "https://www.tbsnews.net/economy/rmg/garment-wage-board-be-formed-tomorrow-no-reason-agitation-minister-1588881",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Business Standard; *Govt to form wage board today as RMG unrest spreads*; 2026-11-01 00:45 local; same newsroom for independent-source counting:",
+          "title": "Govt to form wage board today as RMG unrest spreads",
+          "url": "https://www.tbsnews.net/economy/rmg/govt-form-wage-board-today-rmg-unrest-spreads-1588981",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/bangladesh-garment-wage-board-oct31.svg",
+        "alt": "Original illustration, not a photograph: Bangladesh promises garment wage board after factory protests over pay",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/bangladesh-garment-wage-board-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "quad-economic-security-atlanta-oct31",
+      "rank": 5,
+      "category": "politics",
+      "title": "Quad ministers in Atlanta focus on supply chains, critical minerals and maritime cooperation",
+      "dek": "The United States, India, Japan and Australia issue a joint statement on October 31; planned initiatives are not completed agreements.",
+      "summary": "Foreign ministers from the United States, India, Japan and Australia met in Atlanta on October 31 and issued a Quad statement on Indo-Pacific cooperation. They emphasized supply chains, critical minerals, technology and maritime security. The statement establishes shared priorities, not proof that new industrial facilities or supply agreements are already operating.",
+      "body": [
+        "On October 31, 2026, on the sidelines of the G20 foreign ministers' meeting in Atlanta, US Secretary of State Marco Rubio met India's Subrahmanyam Jaishankar, Japan's Toshimitsu Motegi and Australia's Penny Wong. Japan's foreign ministry confirms the participants, timing and publication of a joint statement. It was the Quad's third ministerial meeting this year, following gatherings in May and July: a diplomatic consultation rather than a newly formed military alliance or treaty.",
+        "The joint statement emphasizes resilient supply chains, critical minerals, emerging technology and maritime cooperation across the Indo-Pacific. Reuters and The New Indian Express report that the governments want to coordinate industrial capacity and infrastructure. Concern about economic coercion is understood against the backdrop of competition with Beijing, but statements should not be rewritten as explicit accusations against China unless the original ministers actually made them.",
+        "The ministers refer to progress on existing initiatives, not to newly constructed mining facilities or quantified achievements that have already materialized. Concentrated mineral supply chains matter for electronics, batteries and defence; diversifying them can take years of permits, investment and industrial processing. The Quad event must also be distinguished from the wider, more divided G20 meeting, which failed to issue a consensus communique. Four countries' agreement is not an agreement of all G20 states.",
+        "The Quad also discussed the prospect of a leaders' meeting in the following weeks, according to The New Indian Express. The official language sets out shared priorities, while spending, timetables, project locations and effects on non-member countries remain to be assessed. The evidence establishes four governments' strategic coordination, not that they have already achieved independence from concentrated mineral suppliers."
+      ],
+      "facts": [
+        "Marco Rubio, S. Jaishankar, Toshimitsu Motegi and Penny Wong attended the October 31 Quad meeting in Atlanta.",
+        "Japan's foreign ministry published the joint statement on supply-chain, technology and maritime-security priorities.",
+        "The meeting took place alongside the G20 and its conclusions are separate from those of the wider group."
+      ],
+      "perspectives": [
+        "The four governments argue that diversified suppliers and maritime cooperation can improve Indo-Pacific resilience.",
+        "Reuters places the reference to economic coercion in the context of China policy, while the exact wording of the joint statement must be preserved."
+      ],
+      "unknowns": [
+        "The timetable, cost and locations of possible new industrial investments are not quantified in the statement.",
+        "An actual reduction in dependence on concentrated suppliers can only be measured after relevant projects become operational."
+      ],
+      "questions": [
+        {
+          "question": "Which four countries issued the Quad statement in Atlanta on October 31?",
+          "answer": "The United States, India, Japan and Australia issued a ministerial statement about supply chains, critical minerals and maritime cooperation at their third Quad meeting of 2026. The statement commits them to cooperation but does not create a new organization."
+        },
+        {
+          "question": "Why does Quad cooperation on critical minerals not mean supplies are already diversified?",
+          "answer": "Diversifying mining, refining and components requires industrial projects, permits and investment. The declaration identifies policy priorities and initiatives; it does not establish that new capacity is operating or reliance on concentrated suppliers has ended."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Quad coordination on critical-mineral supplies spans four influential economies and Indo-Pacific trade security, but no newly operating production capacity has yet been demonstrated.",
+      "tags": [
+        "Quad",
+        "minerals",
+        "supplychains"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Rubio to host Indo-Pacific Quad meeting as G20 talks wrap up",
+          "url": "https://www.reuters.com/world/china/rubio-host-meeting-indo-pacific-quad-wrap-up-g20-gathering-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "title": "Delivering results for people in Indo-Pacific: Rubio hosts Quad foreign ministers",
+          "url": "https://www.newindianexpress.com/world/2026/Oct/31/delivering-results-for-people-in-indo-pacific-rubio-hosts-quad-foreign-ministers",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ministry of Foreign Affairs of Japan",
+          "title": "Japan-Australia-India-U.S. Quad Foreign Ministers Meeting",
+          "url": "https://www.mofa.go.jp/fp/nsp/pageite_000001_00006.html",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/quad-economic-security-atlanta-oct31.svg",
+        "alt": "Original illustration, not a photograph: Quad ministers in Atlanta focus on supply chains, critical minerals and maritime cooperation",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/quad-economic-security-atlanta-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "g20-atlanta-no-consensus-oct31",
+      "rank": 6,
+      "category": "politics",
+      "title": "G20 foreign ministers leave Atlanta without joint communique; chair issues statement",
+      "dek": "After two days of talks, divisions over Ukraine and security prevent a shared text; the chair's statement is not a consensus document.",
+      "summary": "G20 foreign ministers concluded their Atlanta meeting on October 31 without a joint communique. Disagreements, especially over the war in Ukraine, led the US chair to publish its own statement instead. That document summarizes discussions but is not an agreement endorsed by every participating government.",
+      "body": [
+        "On October 31, 2026, G20 foreign ministers concluded their Atlanta meeting without agreeing a joint communique. Associated Press reported the divisions that marked the October 30–31 sessions and the decision to publish a statement by the US chair instead. The text, available through the University of Toronto's G20 Research Group, lists topics discussed but is not presented as a set of decisions unanimously endorsed by the participants.",
+        "The agenda included energy security, the vulnerability of trade routes and geopolitical tensions involving the Black Sea and the Strait of Hormuz. Russia's war against Ukraine created an overt clash of positions among delegations. AP reported that some European diplomats objected to Russian Foreign Minister Sergei Lavrov's participation and that the traditional Friday group photograph was cancelled. Disputes over participation and invitations added to the divisions.",
+        "A joint communique requires wording acceptable to the participants, whereas a chair's statement reflects the meeting as summarized by the host country. That distinction is substantive: references to energy or supply chains in the final document do not automatically become formal G20 commitments. US Secretary of State Marco Rubio acknowledged publicly that universally accepted solutions to the major conflicts were not in reach.",
+        "The lack of a shared text does not mean every diplomatic contact was pointless: bilateral meetings took place, as did a separate Quad meeting with its own agenda. But the absence of consensus constrains the group's ability to present one collective position on security challenges. The available reporting does not support claims that Atlanta yielded a peace agreement, a settlement over Hormuz access or a common implementation timetable."
+      ],
+      "facts": [
+        "The G20 foreign ministers' Atlanta meeting ended on October 31, 2026, without a common communique.",
+        "The US presidency issued its own final document, archived by the G20 Research Group.",
+        "AP described disputes over Russia's participation and the cancellation of a traditional group photograph."
+      ],
+      "perspectives": [
+        "The US chair's statement emphasizes energy security, trade routes and geopolitical tensions discussed at the meeting.",
+        "Delegations retained conflicting views on the war against Ukraine, blocking an agreed formulation."
+      ],
+      "unknowns": [
+        "No shared timetable has been documented for future security agreements on the subjects discussed in Atlanta.",
+        "The practical outcomes of bilateral contacts are not specified in the chair's final statement."
+      ],
+      "questions": [
+        {
+          "question": "Why did Atlanta end with a chair's statement rather than a G20 communique?",
+          "answer": "Delegations could not approve common language, particularly on geopolitical disputes. The US presidency therefore published its own account of the discussions, which does not express the consent of every G20 member."
+        },
+        {
+          "question": "What common obligations on trade routes does Atlanta's final document establish?",
+          "answer": "It identifies energy security, trade routes and supply chains as subjects of discussion but sets no shared obligations, deadlines or implementation mechanism. Discussing an issue is different from adopting a binding measure on behalf of every member."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Failure to agree a joint statement limits the G20's ability to articulate a common position on conflicts, energy and trade routes, although bilateral talks still occurred.",
+      "tags": [
+        "G20",
+        "diplomacy",
+        "Atlanta"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+          "url": "https://www.local10.com/news/world/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issues/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
+          "url": "https://www.reuters.com/world/us-sees-growing-interest-limited-ceasefire-black-sea-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "G20 Research Group",
+          "title": "G20 Chair's Statement, G20 Foreign Ministers' Meeting, Atlanta",
+          "url": "https://g20.utoronto.ca/2026/261031-foreign.html",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/g20-atlanta-no-consensus-oct31.svg",
+        "alt": "Original illustration, not a photograph: G20 foreign ministers leave Atlanta without joint communique; chair issues statement",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/g20-atlanta-no-consensus-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "novaya-gazeta-shutdown-oct30",
+      "rank": 7,
+      "category": "society",
+      "title": "Novaya Gazeta says it will shut Russian operations on November 9 after years of pressure",
+      "dek": "Editors cite restrictions, loss of offices and funding; the separate Novaya Gazeta Europe will continue abroad.",
+      "summary": "On October 30, Russian investigative newspaper Novaya Gazeta announced it would end its remaining domestic operations on November 9, citing official restrictions and obstacles to continued reporting. Reuters and other outlets distinguished the planned shutdown in Russia from the separate organization Novaya Gazeta Europe, which continues working abroad.",
+      "body": [
+        "On October 30, 2026, Russian investigative newspaper Novaya Gazeta announced that it would switch off its servers and leave its remaining Russian office on November 9. Reuters, AFP and RaiNews reported the announcement against the backdrop of tightening restrictions on independent media. The stated closure date is November 9: the final shutdown should not be described as having already happened on the day of the announcement.",
+        "The editorial team said an official campaign made continued work impossible: its website was blocked, its print license withdrawn, equipment affected by enforcement action, and journalists subjected to searches and legal proceedings. Some of these are documented administrative and judicial actions, while the newsroom's account of the cumulative political motivation remains attributed to it. Russia's 'foreign agent' label is a domestic legal designation, not independently proven evidence that the outlet was directed by a foreign government.",
+        "Founded in 1993, Novaya Gazeta became known for investigations into corruption and conflict-related abuses, including the work of journalist Anna Politkovskaya, who was murdered in 2006. Co-founder Dmitry Muratov received the Nobel Peace Prize in 2021. After Russia's full-scale invasion of Ukraine in 2022 and new censorship laws, the newspaper suspended printing at home but kept some online operations.",
+        "The foreign-based Novaya Gazeta Europe project, established by some former staff, is a distinct organization and has not announced a November 9 closure. That distinction matters: the end of operations within Russia does not mean every publication with a related name disappears. The announced shutdown further narrows the space for domestic investigative reporting, though the sources do not allow a precise count of how many readers will switch to other outlets."
+      ],
+      "facts": [
+        "On October 30 Novaya Gazeta set November 9, 2026, as the intended date to shut servers and end its remaining Russian operations.",
+        "Founded in 1993, the newspaper was co-founded by 2021 Nobel Peace Prize winner Dmitry Muratov.",
+        "Novaya Gazeta Europe is a separate foreign-based publication not covered by the Russian shutdown announcement."
+      ],
+      "perspectives": [
+        "Novaya Gazeta's editors blame restrictions imposed by the Russian authorities and the loss of conditions needed to work.",
+        "International newsrooms describe the development as another contraction of the space for independent reporting inside Russia."
+      ],
+      "unknowns": [
+        "The completion of the server shutdown planned for November 9 cannot yet be verified.",
+        "The precise effect of this closure on Russian readers' access to independent reporting has not been measured."
+      ],
+      "questions": [
+        {
+          "question": "For what date did Novaya Gazeta schedule the end of its Russian operations?",
+          "answer": "The decision was announced on October 30, but editors set November 9 as the date to leave the office and switch off the servers supporting their remaining Russian work. Announcing a shutdown and completing it are different events."
+        },
+        {
+          "question": "How does the Russian closure relate to the work of Novaya Gazeta Europe?",
+          "answer": "Novaya Gazeta Europe is a separate foreign-based publication established by former staff after restrictions in Russia intensified. The announcement concerns the remaining domestic operations, not the end of the European project."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The planned end of a longstanding investigative newsroom's remaining domestic operations narrows independent journalism in Russia; the separate Novaya Gazeta Europe continues abroad.",
+      "tags": [
+        "Russia",
+        "press",
+        "censorship"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Russian independent newspaper Novaya Gazeta says it is shutting down after coordinated campaign",
+          "url": "https://www.reuters.com/business/media-telecom/russian-investigative-newspaper-novaya-gazeta-says-it-is-shutting-down-after-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Independent Russian newspaper Novaya Gazeta shuts under Kremlin pressure",
+          "url": "https://www.afp.com/en/independent-russian-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Novaya Gazeta chiude in Russia: Noi uccisi dalle autorità e dai servizi",
+          "url": "https://www.rainews.it/articoli/2026/10/novaya-gazeta-chiude-in-russia-noi-uccisi-dalle-autorita-e-dai-servizi-anna-politkovskaya-6f42d14f-9c66-48c7-b268-7fb4ad3007da.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/novaya-gazeta-shutdown-oct30.svg",
+        "alt": "Original illustration, not a photograph: Novaya Gazeta says it will shut Russian operations on November 9 after years of pressure",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/novaya-gazeta-shutdown-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "iran-response-warning-oct31",
+      "rank": 8,
+      "category": "politics",
+      "title": "Iran's Khamenei orders military preparations for responses without geographic limits amid talks",
+      "dek": "The directive comes amid confrontation with the US and Israel; it proves neither planned strikes nor a deal to reopen Hormuz.",
+      "summary": "On October 31, Iranian Supreme Leader Mojtaba Khamenei, according to state agency IRNA, instructed military chiefs to prepare immediate responses to possible US or Israeli threats without geographic limits. AP also reported indirect talks on a possible Hormuz arrangement. These were threats and proposals, not confirmation that new attacks had taken place or a maritime deal was in force.",
+      "body": [
+        "On Saturday, October 31, 2026, official messaging from Iranian Supreme Leader Mojtaba Khamenei described a meeting with military chiefs and an instruction to prepare an immediate response to possible US or Israeli attacks, without geographical limits. Associated Press and a separate analysis from the Institute for the Study of War reported the statement. Its wording is a conditional threat and preparation directive, not evidence that a new attack or retaliation has already taken place.",
+        "The confrontation forms part of the 2026 conflict and disputes over Gulf shipping routes, particularly the Strait of Hormuz. Passage through those waters matters to global energy trade and civilian shipping. ISW/CTP's assessment refers to vessel incidents reported by the British UKMTO on October 28 and 30. Claims about perpetrators and details of those incidents must remain separate from Khamenei's speech and from assessments of who was likely responsible.",
+        "Indirect diplomacy has continued through regional mediators. AP reports that Foreign Minister Abbas Araghchi described a proposal to reopen the strait fully within two days, while other Iranian officials made direct talks with Washington conditional on Tehran's demands being met. Speaking about a possible arrangement does not establish that a deal has been reached or normal shipping flows restored.",
+        "ISW analysts interpret the threat to expand target lists as a deterrent effort intended to raise the expected cost of outside strikes. That is an assessment, not proof of Iran's ultimate intentions. The sources do not establish whether or when the United States or Israel will launch new raids or whether the Qatar-mediated contacts will yield a compromise. Potential consequences for civilians, ships and energy markets are serious, but military forecasts must not be stated as settled events."
+      ],
+      "facts": [
+        "State news agency IRNA, cited by AP, reported Khamenei's instructions to military commanders on October 31, 2026.",
+        "The leader spoke about responses to possible US and Israeli threats and an updated list of targets.",
+        "Foreign Minister Araghchi described mediated discussions about a Hormuz proposal without an implemented deal having been established."
+      ],
+      "perspectives": [
+        "Iranian officials frame military preparations as deterrence against potential external attacks.",
+        "The Institute for the Study of War interprets a geographically broader target list as a deterrent message; that is analysis, not evidence of future decisions."
+      ],
+      "unknowns": [
+        "No military operation triggered by the leader's reported instructions has been verified as having occurred at the meeting.",
+        "No operational agreement to fully reopen the Strait of Hormuz within two days has been established."
+      ],
+      "questions": [
+        {
+          "question": "What did Khamenei order Iranian commanders to do on October 31?",
+          "answer": "According to official messaging reported by AP and ISW, he instructed them to prepare immediate responses to possible US and Israeli threats and broaden target lists without geographical limits. This concerns preparation and deterrence, not confirmation of retaliation already carried out."
+        },
+        {
+          "question": "Why is Iran's Hormuz proposal not the same as the strait being reopened?",
+          "answer": "Araghchi described a proposal under discussion with mediators, while other officials set conditions for talks with Washington. Without an implemented agreement and actual shipping data, the stated 48-hour objective cannot be reported as navigation already restored."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Explicit military threats in a region central to energy trade raise escalation risks, but Iran's preparation order does not establish that new attacks have been decided or launched.",
+      "tags": [
+        "Iran",
+        "Hormuz",
+        "diplomacy"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Iran's leader says response to attack would have no geographic limits",
+          "url": "https://apnews.com/article/15c0556b92c8c23beb9b8854b4c124f4",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters and AFP via Arab News",
+          "title": "Iran's Mojtaba Khamenei orders military response without geographic limits",
+          "url": "https://www.arabnews.com/middle-east/irans-mojtaba-khamenei-orders-military-response-without-geographic-limits-to-new-threats-3009105",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Institute for the Study of War / Critical Threats Project",
+          "title": "Iran Update October 31 2026",
+          "url": "https://understandingwar.org/research/middle-east/iran-update-october-31-2026/",
+          "publishedAt": "2026-10-31",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/iran-response-warning-oct31.svg",
+        "alt": "Original illustration, not a photograph: Iran's Khamenei orders military preparations for responses without geographic limits amid talks",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/iran-response-warning-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-erdogan-zelensky-blacksea-oct31",
+      "rank": 9,
+      "category": "politics",
+      "title": "Erdoğan and Zelensky agree to work on safer Black Sea grain corridor after Istanbul talks",
+      "dek": "The October 31 understanding concerns further diplomatic work; without Russian participation it is not a completed maritime ceasefire.",
+      "summary": "On Saturday, October 31, 2026, Ukrainian President Volodymyr Zelensky met Turkish President Recep Tayyip Erdoğan at the presidential Dolmabahçe office in Istanbul. Hürriyet Daily News covered their joint news conference and Türkiye's Anadolu Agency independently reported Zelensky's remarks. The two leaders agreed to work on the security of a Black Sea grain corridor. This is an understanding to continue diplomatic work, not a completed reopening agreed by all parties.",
+      "body": [
+        "On Saturday, October 31, 2026, Ukrainian President Volodymyr Zelensky met Turkish President Recep Tayyip Erdoğan at the presidential Dolmabahçe office in Istanbul. Hürriyet Daily News covered their joint news conference and Türkiye's Anadolu Agency independently reported Zelensky's remarks. The two leaders agreed to work on the security of a Black Sea grain corridor. This is an understanding to continue diplomatic work, not a completed reopening agreed by all parties.",
+        "Erdoğan condemned attacks on civilian shipping and said Türkiye would continue speaking with the parties, including Russia, to restore safe maritime passage. Zelensky linked the effort to the ability to export agricultural goods without threats to ships and crews. The previous 2022–2023 grain corridor negotiated with Türkiye and United Nations involvement offers historical context, but does not establish that the geopolitical and security arrangements are identical in 2026.",
+        "The talks take place amid Russia's war against Ukraine and wider concern over food and energy shipping routes. Threats to maritime traffic include mines, drones and attacks on infrastructure; responsibility for particular incidents requires separately verified evidence. Reuters reported on October 31 that interest in a limited Black Sea truce was discussed around the G20, making clear that it would not end the wider conflict and that Russia had not agreed to it.",
+        "Türkiye proposes further consultations on maritime security and wider peace diplomacy, while Zelensky has discussed additional negotiating formats. The sources do not document a signed Moscow–Kyiv instrument already banning attacks on ships, or up-to-date numbers of vessels protected. The new development is the Istanbul understanding to pursue a safer corridor: a political step rather than an implemented result."
+      ],
+      "facts": [
+        "Zelensky and Erdoğan met and held a joint news conference in Istanbul on October 31, 2026.",
+        "Anadolu and Hürriyet report an understanding to work on corridor security.",
+        "The leaders did not announce a maritime ceasefire approved by Moscow."
+      ],
+      "perspectives": [
+        "Erdoğan argues safer maritime traffic could help peace efforts.",
+        "Zelensky wants an agricultural export route that can function safely."
+      ],
+      "unknowns": [
+        "Russian acceptance of a maritime truce has not been established.",
+        "Common monitoring arrangements and counts of ships protected by a future deal are not available."
+      ],
+      "questions": [
+        {
+          "question": "What did Erdoğan and Zelensky agree about the grain corridor on October 31?",
+          "answer": "They agreed to work together to keep the Black Sea route operating safely. Erdoğan pledged to consult the parties, including Russia; no maritime ceasefire already signed by Moscow was presented."
+        },
+        {
+          "question": "Why is a Turkish–Ukrainian understanding insufficient to protect every commercial ship?",
+          "answer": "Safety depends on armed parties respecting shared rules and on assessing risks from mines and attacks. Without an operational arrangement involving Russia, diplomatic support from Türkiye and Ukraine cannot remove those dangers by itself."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Potential coordination on Black Sea navigation matters for food exports and crew safety, but without Russian agreement it has not produced an operational maritime ceasefire.",
+      "tags": [
+        "Ukraine",
+        "Turkey",
+        "BlackSea"
+      ],
+      "sources": [
+        {
+          "outlet": "Hürriyet Daily News",
+          "title": "Erdoğan, Zelensky meet on war and Black Sea security",
+          "url": "https://www.hurriyetdailynews.com/erdogan-zelensky-meet-on-war-and-black-sea-security-228843",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "Zelenskyy says he agreed with President Erdogan to work on Black Sea grain corridor",
+          "url": "https://www.aa.com.tr/en/turkiye/zelenskyy-says-he-agreed-with-president-erdogan-to-work-on-black-sea-grain-corridor/4107545",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
+          "url": "https://www.reuters.com/world/us-sees-growing-interest-limited-ceasefire-black-sea-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Office of Turkish Presidency",
+          "title": "Joint press conference after meeting Erdoğan and Zelensky",
+          "url": "https://www.akparti.org.tr/en/agenda-news/president-recep-tayyip-erdogan-and-president-volodymyr-zelenskyy-of-ukraine-held-a-joint-press-conference-following-their-meeting-31-10-26-20-00-00/",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/world-erdogan-zelensky-blacksea-oct31.svg",
+        "alt": "Original illustration, not a photograph: Erdoğan and Zelensky agree to work on safer Black Sea grain corridor after Istanbul talks",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/world-erdogan-zelensky-blacksea-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "drc-ebola-5000-deaths-oct31",
+      "rank": 10,
+      "category": "society",
+      "title": "Congo Ebola report records 5,026 deaths among 10,351 cases as of October 29",
+      "dek": "News agencies highlighted the milestone on October 31, but the Bundibugyo outbreak remains difficult to contain in conflict-affected areas.",
+      "summary": "The Democratic Republic of Congo's October 29, 2026 health situation report recorded 10,351 cases and 5,026 deaths in the Bundibugyo Ebola outbreak that began in May. Associated Press reported in depth from the affected area when the total passed 5,000, and Germany's dpa independently reported the health authority's new death total on October 31. The cumulative figures do not mean those deaths all happened on October 31.",
+      "body": [
+        "The Democratic Republic of Congo has recorded more than 5,000 deaths attributed to the 2026 Bundibugyo Ebola outbreak. An archive of Congolese national public-health situation reports shows that daily bulletin No. 168, dated October 29, recorded 10,351 cases and 5,026 deaths. The preceding October 28 bulletin had 10,274 cases and 4,992 deaths. The five-thousand threshold is thus a change in the epidemiological record, reported by AP and dpa on October 31; it should not be portrayed as a one-day death toll.",
+        "Associated Press gathered testimony in eastern Congo and describes an outbreak declared in May, concentrated particularly in Ituri and North Kivu provinces and affecting numerous health zones. The virus causes severe haemorrhagic disease, but deaths divided by recorded cases on one reporting date are not automatically an individual's eventual risk of death: diagnosis, reporting delays, access to treatment and case definitions all shape the observed figure.",
+        "Geographical spread and contact tracing have been disrupted by insecurity, threats to health workers, distrust of authorities and staff shortages. AP reports that a substantial proportion of new cases were not already linked to known monitored contact chains, making it harder to interrupt transmission. This is an assessment of the prevailing epidemiological situation, not evidence that all possible contacts or transmission chains are impossible to identify.",
+        "The wider regional picture includes cases reported by AP in Kenya, Nigeria and Uganda, which must be understood with each country's dated case definitions. Official bulletins remain necessary to separate confirmed cases, recoveries and newly reported deaths. No specifically approved treatment for this viral variant is established in the materials reviewed, while clinical support and infection prevention remain central. The cumulative toll establishes a severe public-health and humanitarian emergency, not a reliable prediction of future infections."
+      ],
+      "facts": [
+        "INSP daily bulletin No. 168, October 29, lists 10,351 cases and 5,026 deaths, against 10,274 and 4,992 the day before.",
+        "AP and dpa independently reported the 5,000-death milestone on October 31.",
+        "The outbreak is caused by Bundibugyo ebolavirus rather than other Ebola virus variants."
+      ],
+      "perspectives": [
+        "Health workers and experts interviewed by AP identify insecurity and gaps in tracing as barriers to containment.",
+        "Congolese public-health authorities publish the cumulative total in daily situation bulletins."
+      ],
+      "unknowns": [
+        "Subsequent cases or reclassifications after the October 29 report are not reflected in that count.",
+        "These figures alone cannot predict the outbreak's length or establish every route of transmission."
+      ],
+      "questions": [
+        {
+          "question": "What does the figure of 5,026 deaths in Congo's Bundibugyo outbreak actually count?",
+          "answer": "It is the cumulative number attributed to the outbreak in the October 29, 2026 official health report, compared with 4,992 on October 28. These are not 5,026 deaths occurring on a single day."
+        },
+        {
+          "question": "Why do cases outside known contact chains hinder the Ebola response in Ituri and North Kivu?",
+          "answer": "Contact tracing helps teams identify people exposed to patients and monitor or isolate them promptly. When cases appear without recognized links, transmission may have continued before responders locate the affected contacts, particularly where insecurity limits access."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "over five thousand documented deaths and geographically dispersed transmission amid serious constraints on disease control.",
+      "tags": [
+        "Ebola",
+        "Congo",
+        "outbreak"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+          "url": "https://apnews.com/article/cb7e79534ec9f3ab3c8f3bd03b3e1ad0",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "dpa via WELT",
+          "title": "Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000",
+          "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/eilmeldungen/article6ae578154db6c62483ec2d2a/zahl-der-ebola-toten-im-kongo-steigt-auf-mehr-als-5-000.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Institut National de Santé Publique (DR Congo)",
+          "title": "Rapport de Situation n°168/MVE-BDBV/29/10/2026",
+          "url": "https://ebola-tracker.org/reports/SITREP_MVE_168.pdf",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/drc-ebola-5000-deaths-oct31.svg",
+        "alt": "Original illustration, not a photograph: Congo Ebola report records 5,026 deaths among 10,351 cases as of October 29",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/drc-ebola-5000-deaths-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

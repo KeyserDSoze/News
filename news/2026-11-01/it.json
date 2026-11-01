@@ -1,0 +1,767 @@
+{
+  "date": "2026-11-01",
+  "language": "it",
+  "section": "world",
+  "publishedAt": "2026-11-01T08:48:00+01:00",
+  "editorialNote": "EDIZIONE CANDIDATA NON PUBBLICABILE — verifica editoriale e tecnica pendente.",
+  "articles": [
+    {
+      "id": "oleshky-civilian-return-oct31",
+      "rank": 1,
+      "category": "world",
+      "title": "Oleshky, i civili evacuati attraversano il confine ucraino dopo la tregua locale",
+      "dek": "Il 31 ottobre gli abitanti della città occupata hanno raggiunto la regione di Černihiv passando per Russia e Bielorussia. Il numero complessivo dei rientri non è stato comunicato.",
+      "summary": "Sabato 31 ottobre 2026 residenti evacuati dalla città ucraina di Oleshky, sotto occupazione russa, sono entrati in territorio controllato da Kiev al termine di un percorso attraverso Crimea, Russia e Bielorussia. La missione è stata resa possibile da una tregua locale di sei giorni, accompagnata da sminamento e consegne di aiuti. Reuters e Associated Press hanno documentato l'arrivo di famiglie e persone anziane al confine; non è disponibile un conteggio ufficiale completo degli evacuati.",
+      "body": [
+        "Il 31 ottobre gli autobus con residenti di Oleshky hanno raggiunto il confine tra Bielorussia e Ucraina nella regione di Černihiv. Reporter di Reuters e Associated Press hanno raccontato l'arrivo di persone stremate, alcune in carrozzina o bisognose di cure, accolte da familiari, volontari e personale sanitario. Per lasciare una città che si trova a pochi chilometri dalla linea del fronte, i civili erano stati trasportati in autobus attraverso la Crimea fino alla Russia, poi in aereo verso la Bielorussia e infine in autobus verso il confine ucraino. La notizia nuova del 31 ottobre è il rientro effettivo, non il precedente annuncio della missione.",
+        "L'operazione ha seguito una tregua locale iniziata martedì 27 ottobre e destinata a concludersi domenica 1 novembre. Il cessate il fuoco, favorito secondo le parti da una mediazione cui ha partecipato la first lady statunitense Melania Trump e da un intervento del papa, ha permesso di liberare alcune strade dalle mine e portare alimenti e medicinali. Il 29 ottobre i rappresentanti russi e ucraini per i diritti umani avevano già annunciato la conclusione dello sminamento: quel passaggio era stato raccontato nell'edizione O del 30 ottobre e non va presentato come nuovo.",
+        "Le testimonianze raccolte da Reuters e AP descrivono una grave crisi materiale. Residenti hanno parlato di mancanza di cibo dalla primavera, difficoltà a muoversi per i droni e pericolo delle mine. Reuters ha intervistato un uomo anziano che ha riferito di aver perso venti chilogrammi nell'ultimo anno e una donna che ha raccontato di essersi nutrita anche di erbe e zucca. Si tratta di testimonianze dirette, non di una misura statistica delle condizioni di ogni abitante. Reuters riporta una stima di circa 1.700 residenti presenti prima dell'evacuazione, mentre AP cita circa 2.000: le stime non devono essere fuse in un numero preciso.",
+        "I rappresentanti per i diritti umani dei due Paesi hanno annunciato l'intenzione di proseguire con missioni umanitarie. Alcuni residenti hanno scelto di restare a Oleshky e altri di dirigersi verso territori sotto controllo russo. Il presidente ucraino Volodymyr Zelensky ha ringraziato i mediatori, ma il Cremlino ha indicato che la tregua locale non è automaticamente trasferibile ai negoziati di pace generali. Gli scontri e gli attacchi con droni sono continuati su altri fronti: l'evacuazione è un risultato umanitario circoscritto, non un cessate il fuoco nazionale."
+      ],
+      "facts": [
+        "Reuters e AP documentano l'arrivo di evacuati al confine ucraino-bielorusso il 31 ottobre 2026.",
+        "La missione ha previsto il passaggio attraverso Crimea, Russia e Bielorussia; il cessate il fuoco locale è iniziato il 27 ottobre.",
+        "Le autorità non hanno pubblicato il numero esatto di persone entrate in territorio controllato da Kiev."
+      ],
+      "perspectives": [
+        "L'ombudsman ucraino Dmytro Lubinets descrive la missione come risultato di negoziati complessi e chiede ulteriori operazioni.",
+        "La commissaria russa Yana Lantratova afferma che le condizioni di vita restano difficili per chi è rimasto e si dichiara disponibile a cooperare.",
+        "Il Cremlino qualifica la tregua come caso isolato, non prova di progresso nel negoziato complessivo."
+      ],
+      "unknowns": [
+        "Il numero complessivo degli evacuati, suddiviso per destinazione, non è stato pubblicato.",
+        "Non è dimostrato se e quando le missioni annunciate potranno proseguire in sicurezza dopo il 1 novembre."
+      ],
+      "questions": [
+        {
+          "question": "Perché gli abitanti di Oleshky hanno raggiunto l'Ucraina passando per la Bielorussia?",
+          "answer": "La città occupata si trova presso una linea del fronte con strade minate e sottoposte a rischio di attacchi. Il percorso concordato della missione ha quindi previsto autobus attraverso Crimea e Russia, un trasferimento aereo in Bielorussia e un ultimo tratto fino al confine della regione di Černihiv, dove i civili sono stati accolti."
+        },
+        {
+          "question": "Che cosa ha consentito concretamente la tregua di sei giorni a Oleshky, e quale limite ha avuto?",
+          "answer": "Ha creato una finestra locale per sminare percorsi, consegnare aiuti ed evacuare una parte dei residenti. Non ha interrotto i combattimenti nel resto dell'Ucraina né ha costituito un accordo di pace generale, come evidenziato anche dalla cautela del Cremlino."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "evacuazione umanitaria importante per una popolazione civile rimasta isolata e raro coordinamento tra parti in guerra, ma conseguenze territorialmente circoscritte e senza tregua generale.",
+      "tags": [
+        "Ucraina",
+        "evacuazioni",
+        "tregua"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
+          "url": "https://www.reuters.com/world/europe/three-planes-carrying-residents-evacuated-oleshky-arrive-belarus-news-agency-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+          "url": "https://apnews.com/article/russia-ukraine-war-oleshky-evacuation-5cbc7d2a5b8ac34b15c914338fd5a9f3",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Russia, Ukraine say Oleshky demining operations complete",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/29/russia-ukraine-say-oleshky-demining-operations-complete-humanitarian-operation-to-proceed",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/oleshky-civilian-return-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: Oleshky, i civili evacuati attraversano il confine ucraino dopo la tregua locale",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/oleshky-civilian-return-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      },
+      "related": [
+        {
+          "date": "2026-10-30",
+          "section": "world",
+          "id": "oleshky-demining-humanitarian-oct29"
+        }
+      ]
+    },
+    {
+      "id": "france-protests-third-weekend-oct31",
+      "rank": 2,
+      "category": "politics",
+      "title": "Francia, terzo sabato di proteste: 320 mila partecipanti secondo il governo, scontri a fine cortei",
+      "dek": "La stima ufficiale è inferiore ai due sabati precedenti; la maggioranza dei cortei è pacifica, ma gruppi marginali si scontrano con la polizia in diverse città.",
+      "summary": "Il 31 ottobre 2026 si sono svolte in Francia nuove manifestazioni contro il costo della vita, i problemi della scuola e la carenza di servizi pubblici. Il ministero dell’Interno ha stimato 320 mila presenze, contro 410 mila il 24 ottobre e 550 mila il 17; gli organizzatori rivendicano numeri più alti. La maggior parte degli eventi è stata pacifica, ma a fine giornata sono avvenuti scontri e arresti. La protesta ha avuto eco in altre città europee, con programmi e condizioni nazionali differenti.",
+      "body": [
+        "Sabato 31 ottobre 2026 studenti, lavoratori, sindacati e altri gruppi hanno manifestato in varie città francesi per la terza settimana consecutiva. Associated Press, con cronisti a Parigi e in Germania, e il Guardian, attraverso il suo corrispondente europeo, descrivono cortei di dimensioni importanti, con rivendicazioni che vanno dagli edifici scolastici degradati al costo degli alloggi, dai salari ai servizi pubblici. Non si tratta di un singolo movimento con una piattaforma identica per tutti: i diversi partecipanti si sono uniti nella giornata di mobilitazione, conservando priorità proprie.",
+        "Il ministero dell'Interno francese ha stimato 320.000 manifestanti nell'intero Paese. È una rilevazione delle autorità, non il conteggio certificato di ciascuna persona: il governo aveva comunicato 410.000 persone il 24 ottobre e 550.000 il 17. Le organizzazioni promotrici hanno diffuso stime più alte, senza che esista una misura condivisa che concili le metodologie. Circa 70.000 agenti sono stati mobilitati sul territorio nazionale e, a Parigi, la marcia principale è stata indirizzata verso i viali periferici per ridurre rischi per i luoghi centrali.",
+        "Le cronache distinguono la partecipazione pacifica dalla violenza di piccoli gruppi: a conclusione di alcune manifestazioni sono stati lanciati oggetti o fuochi d'artificio contro gli agenti, che hanno impiegato anche gas lacrimogeni. AP riporta oltre 560 arresti a livello nazionale entro la sera del 31 ottobre; è un bilancio aggiornato nel tempo e non una descrizione di tutti i presenti. Il Guardian riferisce di violenze a Parigi e in altre città e ricorda le limitazioni notturne disposte in specifiche zone della capitale. La valutazione delle condotte individuali e dell'uso della forza richiede esami separati dai numeri dei cortei.",
+        "Le mobilitazioni francesi si sono svolte in parallelo a raduni giovanili in Germania, mentre in Portogallo si è manifestato per l'accessibilità degli alloggi. A Berlino la rete «Gen Z regelt» ha chiesto più investimenti pubblici e si è opposta al ritorno della leva obbligatoria; in alcune città tedesche si sono verificati disordini. La concomitanza europea mostra una sovrapposizione di preoccupazioni sociali ma non dimostra un'unica organizzazione o una strategia coordinata fra Paesi. In Francia sono già state annunciate ulteriori iniziative, tra cui uno sciopero nazionale per il 5 novembre, il cui svolgimento non può essere dato per certo in anticipo."
+      ],
+      "facts": [
+        "Le manifestazioni del 31 ottobre sono state la terza mobilitazione nazionale francese in tre sabati consecutivi.",
+        "Il ministero dell'Interno ha stimato 320.000 partecipanti e circa 70.000 addetti alla sicurezza.",
+        "AP ha riferito di oltre 560 arresti entro la sera, mentre il bilancio evolveva durante le ore."
+      ],
+      "perspectives": [
+        "Il ministro Laurent Nuñez ha descritto un alto rischio di disordini, distinguendo manifestazioni pacifiche da episodi di violenza.",
+        "Studenti e sindacati criticano carenze scolastiche, costo della vita e condizioni dei servizi; le organizzazioni contestano le stime governative di affluenza."
+      ],
+      "unknowns": [
+        "Non esiste un conteggio indipendente uniforme che risolva la divergenza tra le stime di partecipazione.",
+        "Restano da accertare, per ogni episodio, responsabilità individuali ed eventuali contestazioni alle misure di polizia."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa misura la cifra di 320 mila persone alle proteste francesi del 31 ottobre?",
+          "answer": "È la stima nazionale dell'affluenza comunicata dal ministero dell'Interno, calcolata dalle autorità e confrontabile con le loro stime dei due sabati precedenti. Non è una certificazione individuale delle presenze né coincide con la valutazione più alta degli organizzatori."
+        },
+        {
+          "question": "Perché il corteo principale di Parigi si è svolto verso l'esterno della città?",
+          "answer": "Le autorità avevano deviato i percorsi lontano dalle principali aree commerciali e istituzionali del centro, mobilitando 70 mila operatori a livello nazionale dopo gli scontri delle settimane precedenti. La scelta ha modificato il tracciato, ma non ha impedito disordini alla conclusione della giornata."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "ampia mobilitazione nazionale su istruzione e condizioni di vita, con implicazioni politiche e di ordine pubblico; affluenza in calo secondo la serie ufficiale e risultati di policy non ancora concreti.",
+      "tags": [
+        "Francia",
+        "proteste",
+        "istruzione"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press; Tom Nouvian and Kirsten Grieshaber; *A third weekend of protests in France as youth-led rallies sweep Europe*; 2026-10-31; `reporting`:",
+          "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+          "url": "https://apnews.com/article/protests-europe-youth-france-germany-spain-362a7cb69871ab21bd894290dad639f5",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian; Jon Henley; *Police clash with masked rioters after largely peaceful protests across France*; first published 2026-10-31 19:23 CET",
+          "title": "Police clash with masked rioters after largely peaceful protests across France",
+          "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/france-protests-third-weekend-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: Francia, terzo sabato di proteste: 320 mila partecipanti secondo il governo, scontri a fine cortei",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/france-protests-third-weekend-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "south-korea-oct-exports-nov1",
+      "rank": 3,
+      "category": "economy",
+      "title": "Corea del Sud, esportazioni di ottobre a 115,28 miliardi di dollari: +93,7%, trainano i chip",
+      "dek": "La variazione annua è eccezionale, ma il diverso calendario del Chuseok contribuisce al confronto con il 2025; il traguardo del trilione annuo resta una previsione.",
+      "summary": "Il ministero sudcoreano del Commercio ha diffuso il 1° novembre i dati preliminari sulle esportazioni di ottobre 2026: 115,28 miliardi di dollari, il 93,7% in più rispetto allo stesso mese dell'anno precedente. I semiconduttori hanno raggiunto 56,44 miliardi, con un incremento del 259,4%. Reuters e Yonhap riportano anche l'effetto dei maggiori giorni lavorativi rispetto a ottobre 2025. L'avanzo commerciale del mese è stato pari a 42,5 miliardi di dollari; raggiungere un trilione di esportazioni nell'intero 2026 è un obiettivo atteso, non ancora un risultato.",
+      "body": [
+        "Domenica 1° novembre 2026 il governo di Seul ha comunicato i dati provvisori del commercio con l'estero relativi a ottobre. Secondo il ministero del Commercio, le vendite all'estero hanno raggiunto 115,28 miliardi di dollari, crescendo del 93,7% rispetto a ottobre 2025. Reuters riporta che si tratta della maggiore crescita percentuale annua dal gennaio 1974. La cifra mensile è eccezionalmente elevata ma non va descritta come massimo storico assoluto, poiché settembre 2026 aveva totalizzato circa 121,1 miliardi: è il secondo maggiore livello mensile segnalato nella ricostruzione sudcoreana.",
+        "I semiconduttori sono il componente principale dell'aumento. Il loro export ha raggiunto 56,44 miliardi di dollari, +259,4% su base annua, in un mercato sostenuto dalla domanda di infrastrutture per l'intelligenza artificiale. Reuters segnala inoltre un aumento del 496,6% delle esportazioni di computer, in particolare per i server. Questi sono valori delle esportazioni, non misure dirette del numero di chip installati né una prova che ogni settore economico cresca allo stesso ritmo: domanda, prezzi di vendita e composizione dei prodotti incidono insieme sul valore monetario.",
+        "Il confronto annuale contiene un effetto calendario importante. Nel 2025 le festività del Chuseok avevano ridotto i giorni lavorativi in ottobre; nel 2026 sono cadute in un periodo diverso, lasciando più giornate utili per produrre e spedire. Perciò un aumento del 93,7% del valore esportato non equivale a un raddoppio della produttività sottostante in dodici mesi. Reuters e la stampa coreana riportano entrambi i fattori, domanda di elettronica e calendario, senza attribuire una quota esatta dell'aumento a ciascuno.",
+        "Le importazioni sono salite del 36% a 72,78 miliardi di dollari e il saldo commerciale di ottobre è rimasto positivo per 42,5 miliardi, pur sotto il surplus di settembre, pari a 49,97 miliardi secondo Reuters. Il totale esportato fra gennaio e ottobre è arrivato a circa 930 miliardi. Il ministero prevede che, mantenendo il ritmo attuale, il Paese possa superare un trilione entro novembre. È una previsione esposta a oscillazioni dei prezzi dei chip, della domanda mondiale e dei flussi commerciali, non un livello già raggiunto al momento della pubblicazione."
+      ],
+      "facts": [
+        "Il ministero sudcoreano ha diffuso il 1 novembre 2026 dati preliminari per ottobre: esportazioni +93,7% a 115,28 miliardi di USD.",
+        "Semiconduttori +259,4% a 56,44 miliardi; importazioni +36% a 72,78 miliardi e surplus commerciale di 42,5 miliardi.",
+        "Il confronto annuale risente di un maggior numero di giorni lavorativi rispetto all'ottobre precedente."
+      ],
+      "perspectives": [
+        "Il ministero sudcoreano giudica il ritmo delle esportazioni compatibile con il superamento di 1.000 miliardi di dollari annui già in novembre.",
+        "Reuters attribuisce la crescita alla domanda di investimenti AI, ma osserva che il calendario festivo amplifica la variazione percentuale."
+      ],
+      "unknowns": [
+        "La parte precisa del +93,7% spiegata da prezzi, volumi, composizione e calendario non è quantificata in queste fonti.",
+        "Non è possibile confermare anticipatamente se il traguardo di un trilione sarà effettivamente raggiunto nel mese di novembre."
+      ],
+      "questions": [
+        {
+          "question": "Perché l'aumento del 93,7% delle esportazioni coreane di ottobre non rappresenta da solo un raddoppio della produzione?",
+          "answer": "L'indicatore è il valore in dollari venduto all'estero confrontato con ottobre 2025, non un indice fisico della produzione. I giorni lavorativi extra dovuti al diverso calendario del Chuseok, insieme a prezzi e domanda dei semiconduttori, hanno ampliato il dato e vanno considerati nella lettura."
+        },
+        {
+          "question": "Quanto hanno pesato i semiconduttori sul totale esportato dalla Corea del Sud a ottobre?",
+          "answer": "Le vendite di chip sono state 56,44 miliardi su 115,28 miliardi di dollari di esportazioni complessive, quasi il 49% del valore mensile. Sono cresciute del 259,4% rispetto al 2025, in un contesto di investimenti globali nei centri di calcolo per l'AI."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "i dati sul secondo maggior valore mensile esportato e sulla domanda mondiale di chip segnalano effetti economici transfrontalieri, ma l'eccezionale confronto percentuale contiene un effetto calendario e non prova crescita durevole della stessa entità.",
+      "tags": [
+        "Corea",
+        "commercio",
+        "semiconduttori"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters; *South Korea exports nearly double in October on AI investment boom*; 2026-11-01 00:39 UTC; `reporting`:",
+          "title": "South Korea exports nearly double in October on AI investment boom",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Yonhap News Agency; Choi Kyong-ae; *S. Korea's monthly exports hit US$115.3 bln in Oct. on record chip sales*; 2026-11-01 09:12 KST; `reporting`:",
+          "title": "S. Korea's monthly exports hit US$115.3 bln in Oct. on record chip sales",
+          "url": "https://en.yna.co.kr/view/AEN20261101000900320",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Seoul Economic Daily; Lee Jung-hoon; *Korea's October Exports Surge 93.7% as $1 Trillion Year Nears*; 2026-11-01 09:16 KST; `reporting`:",
+          "title": "Korea's October Exports Surge 93.7% as $1 Trillion Year Nears",
+          "url": "https://en.sedaily.com/finance/2026/11/01/koreas-october-exports-surge-937-percent-as-1-trillion-year",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/south-korea-oct-exports-nov1.svg",
+        "alt": "Illustrazione originale, non fotografia: Corea del Sud, esportazioni di ottobre a 115,28 miliardi di dollari: +93,7%, trainano i chip",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/south-korea-oct-exports-nov1.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "bangladesh-garment-wage-board-oct31",
+      "rank": 4,
+      "category": "economy",
+      "title": "Bangladesh, dopo le proteste dei tessili il governo annuncia un comitato per rivedere i salari",
+      "dek": "L'annuncio del 31 ottobre segue fermate in diverse fabbriche; i lavoratori chiedono 30 mila taka al mese contro l'attuale minimo di 12.500.",
+      "summary": "Il 31 ottobre 2026 il governo del Bangladesh ha annunciato che avrebbe istituito il giorno seguente un comitato salariale per l'industria dell'abbigliamento. La decisione arriva dopo manifestazioni di lavoratori nei poli industriali attorno a Dhaka e sospensioni della produzione. I sindacati chiedono un minimo di 30.000 taka mensili, più del doppio dei 12.500 attuali. Reuters e The Business Standard riportano dichiarazioni del ministero e proteste; l'istituzione formale del comitato e il futuro livello degli stipendi non risultano ancora decisioni effettivamente applicate nel resoconto del 31 ottobre.",
+      "body": [
+        "Sabato 31 ottobre 2026 lavoratori del settore dell'abbigliamento hanno protestato in diverse aree industriali del Bangladesh, fra Dhaka, Gazipur e Savar, chiedendo salari più alti per compensare il costo di alimenti, trasporti, alloggi e assistenza. The Business Standard ha inviato reporter sul territorio e descritto blocchi e chiusure temporanee in zone produttive tra cui Ashulia. Reuters conferma che le manifestazioni hanno fermato attività di fabbrica e creato preoccupazione per le forniture di un settore essenziale per l'export nazionale. I dati sulle fabbriche temporaneamente inattive variano a seconda di luogo, ora e definizione di chiusura.",
+        "Al termine di consultazioni con rappresentanti del lavoro e dell'industria, il ministro del Lavoro Ariful Haque Chowdhury ha detto il 31 ottobre che il governo avrebbe costituito domenica 1 novembre un «wage board», organismo incaricato di discutere una nuova paga minima. Secondo The Business Standard, il ministro ha riferito che le associazioni dei produttori BGMEA e BKMEA erano d'accordo sulla creazione del comitato e ha invitato i lavoratori a rientrare nelle fabbriche. La disponibilità a istituire un tavolo non costituisce ancora un'intesa sul nuovo salario o l'entrata in vigore di una legge.",
+        "La richiesta dei manifestanti è di 30.000 taka mensili, rispetto ai 12.500 in vigore: significa una maggiorazione domandata di 17.500 taka, cioè il 140% del livello attuale, non un aumento già ottenuto. Reuters colloca la vertenza in una filiera che impiega circa quattro milioni di addetti e produce più dell'80% degli introiti delle esportazioni nazionali. Questi numeri descrivono la dimensione economica del comparto, non quante persone abbiano aderito ai cortei né il costo fiscale o aziendale che comporterebbe accogliere la richiesta per tutti.",
+        "L'annuncio apre una possibile trattativa su occupazione, competitività dei fornitori e tenuta dei salari reali. Organizzazioni dei lavoratori sottolineano la perdita di potere d'acquisto e l'urgenza di aggiornare le retribuzioni; imprese ed esecutivo puntano anche a riaprire le fabbriche e stabilizzare la produzione. Il comitato dovrà eventualmente decidere un nuovo minimo sulla base di negoziati che, al termine della giornata del 31 ottobre, non hanno un esito pubblicato. Non è corretto anticipare la soluzione degli scioperi o rappresentare come approvata la richiesta di 30.000 taka."
+      ],
+      "facts": [
+        "Il ministro Ariful Haque Chowdhury ha annunciato il 31 ottobre la prevista formazione di un wage board per domenica 1 novembre.",
+        "I manifestanti chiedono un minimo di 30.000 taka al mese contro 12.500 in vigore, cifra più che doppia.",
+        "Proteste e sospensioni di attività sono state riportate da Reuters e The Business Standard nelle aree industriali vicino a Dhaka."
+      ],
+      "perspectives": [
+        "Il ministro sostiene che BGMEA e BKMEA abbiano accettato l'istituzione del comitato e chiede il ritorno al lavoro.",
+        "Rappresentanti dei lavoratori motivano la richiesta di 30.000 taka con i rincari di beni essenziali e abitazioni."
+      ],
+      "unknowns": [
+        "Non è ancora documentata nel materiale esaminato l'istituzione formale del comitato e la composizione dei suoi membri.",
+        "Il numero definitivo delle fabbriche chiuse e la durata delle interruzioni di produzione non sono uniformi tra le fonti."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa dovrebbe fare il wage board annunciato dal Bangladesh per il settore dell'abbigliamento?",
+          "answer": "È un comitato di revisione delle retribuzioni minime, che il ministro ha promesso di costituire il 1 novembre dopo le consultazioni con sindacati e associazioni industriali. Dovrebbe negoziare un nuovo minimo; il suo annuncio non equivale a un aumento già in busta paga."
+        },
+        {
+          "question": "Di quanto supera il minimo attuale la richiesta dei lavoratori tessili di 30.000 taka?",
+          "answer": "Il livello in vigore riportato da Reuters è 12.500 taka al mese. La richiesta di 30.000 aggiungerebbe 17.500 taka, pari al 140% in più rispetto al minimo corrente, e avrebbe effetti per una filiera orientata in larga parte all'export; l'importo negoziato non è stato ancora stabilito."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "un negoziato potenzialmente rilevante per milioni di addetti e per le catene di fornitura internazionali, ma per ora esiste un annuncio di apertura del confronto, non un accordo salariale.",
+      "tags": [
+        "Bangladesh",
+        "salari",
+        "tessile"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters; *Bangladesh to form wage board after garment protests shut factories*; original dated Dhaka 2026-11-01",
+          "title": "Bangladesh to form wage board after garment protests shut factories",
+          "url": "https://www.investing.com/news/commodities-news/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-4989374",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Business Standard (Bangladesh); *Garment wage board to be formed tomorrow",
+          "title": "Garment wage board to be formed tomorrow, no reason for agitation: Minister",
+          "url": "https://www.tbsnews.net/economy/rmg/garment-wage-board-be-formed-tomorrow-no-reason-agitation-minister-1588881",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Business Standard; *Govt to form wage board today as RMG unrest spreads*; 2026-11-01 00:45 local; same newsroom for independent-source counting:",
+          "title": "Govt to form wage board today as RMG unrest spreads",
+          "url": "https://www.tbsnews.net/economy/rmg/govt-form-wage-board-today-rmg-unrest-spreads-1588981",
+          "publishedAt": "2026-11-01",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/bangladesh-garment-wage-board-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: Bangladesh, dopo le proteste dei tessili il governo annuncia un comitato per rivedere i salari",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/bangladesh-garment-wage-board-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "quad-economic-security-atlanta-oct31",
+      "rank": 5,
+      "category": "politics",
+      "title": "Quad, ad Atlanta i quattro ministri coordinano filiere, minerali critici e sicurezza marittima",
+      "dek": "Stati Uniti, India, Giappone e Australia diffondono una nota comune il 31 ottobre; obiettivi e progetti non equivalgono ad accordi già attuati.",
+      "summary": "I ministri degli Esteri di Stati Uniti, India, Giappone e Australia si sono incontrati ad Atlanta il 31 ottobre e hanno diffuso una dichiarazione sulla cooperazione nell’Indo-Pacifico. Al centro ci sono filiere di approvvigionamento, minerali critici, tecnologie e sicurezza marittima. La dichiarazione indica priorità di collaborazione, senza dimostrare che nuovi impianti o accordi industriali siano già operativi.",
+      "body": [
+        "Il 31 ottobre 2026, a margine della riunione dei ministri degli Esteri del G20 ad Atlanta, il segretario di Stato statunitense Marco Rubio ha incontrato l'indiano Subrahmanyam Jaishankar, il giapponese Toshimitsu Motegi e l'australiana Penny Wong. Il ministero degli Esteri del Giappone conferma orario, partecipanti e pubblicazione di un comunicato congiunto. È stato il terzo incontro ministeriale del Quad dell'anno, dopo maggio e luglio: una riunione diplomatica, non un trattato o un'alleanza militare appena costituita.",
+        "Il testo comune mette al centro resilienza delle catene di approvvigionamento, minerali strategici, tecnologie emergenti e collaborazione nella sicurezza marittima dell'Indo-Pacifico. Reuters e New Indian Express riportano la volontà di coordinare capacità industriali e infrastrutture. L'appello a ridurre la coercizione economica riflette il contesto di concorrenza con Pechino; tuttavia non va sostituito alla formulazione effettiva del comunicato attribuendo agli Stati partecipanti accuse che il testo non rivolge esplicitamente alla Cina.",
+        "I ministeri descrivono passi su iniziative in corso, non l'immediata costruzione di nuovi impianti minerari né risultati quantitativi già raggiunti. La dipendenza da fornitori concentrati è importante per elettronica, batterie e difesa: ampliare le fonti può richiedere anni di permessi, investimenti e lavorazione industriale. L'incontro è distinto dalle discussioni più ampie e controverse del G20, terminate senza comunicato consensuale; non si può dedurre che l'accordo dei quattro rappresenti l'intero G20.",
+        "Il Quad discute anche la prospettiva di una riunione dei leader nelle settimane successive, secondo il resoconto di New Indian Express. Le dichiarazioni ufficiali esprimono una direzione politica condivisa, ma restano da misurare costi, tempi, localizzazione degli investimenti e conseguenze per i Paesi non membri. Le fonti disponibili descrivono un coordinamento strategico fra quattro governi, senza dimostrare che sia stata già raggiunta l'autonomia sulle materie prime critiche."
+      ],
+      "facts": [
+        "Il 31 ottobre Marco Rubio, S. Jaishankar, Toshimitsu Motegi e Penny Wong hanno partecipato a una riunione ministeriale del Quad ad Atlanta.",
+        "Il ministero degli Esteri giapponese ha pubblicato la dichiarazione congiunta sulle priorità di filiera, tecnologia e sicurezza marittima.",
+        "L'incontro si è svolto a margine del G20 ed è distinto dalle conclusioni del gruppo più ampio."
+      ],
+      "perspectives": [
+        "I quattro governi ritengono che la diversificazione dei fornitori e la cooperazione marittima rafforzino la resilienza dell'Indo-Pacifico.",
+        "Reuters colloca il riferimento alla coercizione economica nel confronto con la Cina; il comunicato va citato nella sua formulazione effettiva."
+      ],
+      "unknowns": [
+        "Il calendario, i costi e i luoghi degli eventuali nuovi investimenti industriali derivanti dall'intesa non sono quantificati nel comunicato.",
+        "L'effettiva riduzione della dipendenza da fornitori concentrati deve ancora essere misurata dopo la realizzazione dei progetti."
+      ],
+      "questions": [
+        {
+          "question": "Quali quattro Paesi hanno concordato la nota Quad ad Atlanta il 31 ottobre?",
+          "answer": "Stati Uniti, India, Giappone e Australia hanno diffuso una dichiarazione ministeriale sulle filiere, sui minerali critici e sulla collaborazione marittima dopo il terzo incontro del Quad del 2026. La nota impegna a cooperare, ma non istituisce una nuova organizzazione."
+        },
+        {
+          "question": "Perché la collaborazione Quad sui minerali critici non significa filiere già diversificate?",
+          "answer": "Diversificare estrazione, raffinazione e componenti richiede progetti industriali, permessi e capitale. La dichiarazione indica priorità politiche e iniziative, non certifica che nuove capacità produttive siano operative o che la dipendenza da fornitori concentrati sia terminata."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Il coordinamento Quad sulle filiere e sui minerali critici riguarda quattro economie influenti e la sicurezza commerciale dell'Indo-Pacifico, ma non documenta ancora nuove capacità produttive operative.",
+      "tags": [
+        "Quad",
+        "minerali",
+        "forniture"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Rubio to host Indo-Pacific Quad meeting as G20 talks wrap up",
+          "url": "https://www.reuters.com/world/china/rubio-host-meeting-indo-pacific-quad-wrap-up-g20-gathering-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The New Indian Express",
+          "title": "Delivering results for people in Indo-Pacific: Rubio hosts Quad foreign ministers",
+          "url": "https://www.newindianexpress.com/world/2026/Oct/31/delivering-results-for-people-in-indo-pacific-rubio-hosts-quad-foreign-ministers",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ministry of Foreign Affairs of Japan",
+          "title": "Japan-Australia-India-U.S. Quad Foreign Ministers Meeting",
+          "url": "https://www.mofa.go.jp/fp/nsp/pageite_000001_00006.html",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/quad-economic-security-atlanta-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: Quad, ad Atlanta i quattro ministri coordinano filiere, minerali critici e sicurezza marittima",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/quad-economic-security-atlanta-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "g20-atlanta-no-consensus-oct31",
+      "rank": 6,
+      "category": "politics",
+      "title": "G20 Esteri, ad Atlanta nessun comunicato comune: diffusa soltanto la dichiarazione della presidenza",
+      "dek": "Dopo due giorni di incontri, le divergenze su Ucraina e sicurezza impediscono un testo condiviso; la dichiarazione della presidenza non richiede il consenso di tutti.",
+      "summary": "La riunione dei ministri degli Esteri G20 ad Atlanta si è conclusa il 31 ottobre senza un comunicato congiunto. Le divisioni, soprattutto sulla guerra in Ucraina, hanno portato la presidenza statunitense a diffondere una dichiarazione propria. Quel testo riassume le discussioni, ma non costituisce un accordo sottoscritto da tutti i governi partecipanti.",
+      "body": [
+        "Il 31 ottobre 2026 i ministri degli Esteri del G20 hanno concluso la riunione di Atlanta senza concordare un comunicato congiunto. Associated Press ha riferito delle divisioni emerse durante gli incontri del 30 e del 31 ottobre e della scelta di pubblicare una dichiarazione della presidenza statunitense. Il testo, disponibile nell'archivio G20 Research Group dell'Università di Toronto, elenca gli argomenti discussi ma non si presenta come un insieme di decisioni unanimemente approvate.",
+        "Tra i temi dell'agenda figurano sicurezza energetica, vulnerabilità delle rotte commerciali e tensioni geopolitiche nel Mar Nero e nello stretto di Hormuz. La guerra russa contro l'Ucraina ha prodotto un conflitto aperto di posizioni fra delegazioni: secondo AP alcuni diplomatici europei hanno contestato la partecipazione del ministro russo Sergei Lavrov e la tradizionale foto di gruppo del venerdì era stata cancellata. Anche la partecipazione di alcuni Paesi e inviti hanno alimentato frizioni.",
+        "Un comunicato congiunto richiede una formulazione sulla quale i partecipanti riescano ad accordarsi; la dichiarazione della presidenza è invece una ricostruzione del Paese che ospita i lavori. La differenza non è nominale: frasi che descrivono discussioni su energia e catene di approvvigionamento non diventano impegni formali del G20 soltanto perché compaiono in un documento finale. Il segretario di Stato Marco Rubio ha riconosciuto pubblicamente che non esistono soluzioni universalmente accettate ai conflitti aperti.",
+        "Il fallimento del testo condiviso non significa che ogni contatto sia stato inutile: sono avvenute riunioni bilaterali e il separato incontro dei quattro ministri Quad, con propri obiettivi. Tuttavia l'assenza di consenso indebolisce la capacità della riunione di esprimere una posizione comune sui grandi problemi di sicurezza. Le fonti non permettono di attribuire ad Atlanta un accordo sulla fine della guerra, sull'apertura dello stretto di Hormuz o su un calendario di implementazione congiunto."
+      ],
+      "facts": [
+        "La riunione G20 dei ministri degli Esteri ad Atlanta si è conclusa il 31 ottobre 2026 senza comunicato comune.",
+        "La presidenza statunitense ha pubblicato un proprio documento finale, archiviato dal G20 Research Group.",
+        "AP ha riferito delle controversie sul ruolo della Russia e sulla cancellazione della tradizionale fotografia congiunta."
+      ],
+      "perspectives": [
+        "La presidenza statunitense descrive come priorità la sicurezza energetica, le rotte commerciali e le tensioni geopolitiche emerse nei colloqui.",
+        "Le delegazioni hanno mantenuto opinioni discordanti sulla guerra contro l'Ucraina, impedendo una formulazione consensuale."
+      ],
+      "unknowns": [
+        "Non è documentato un calendario condiviso per eventuali accordi futuri sulle questioni di sicurezza discusse ad Atlanta.",
+        "I risultati pratici dei contatti bilaterali non sono specificati nella dichiarazione finale della presidenza."
+      ],
+      "questions": [
+        {
+          "question": "Perché ad Atlanta è stata pubblicata una dichiarazione della presidenza anziché un comunicato del G20?",
+          "answer": "Le delegazioni non sono riuscite ad approvare una formulazione comune, soprattutto sulle controversie geopolitiche. La presidenza statunitense ha quindi diffuso un proprio resoconto dei temi trattati, che non rappresenta il consenso di tutti i membri."
+        },
+        {
+          "question": "Quali obblighi comuni sulle rotte commerciali stabilisce il documento finale di Atlanta?",
+          "answer": "Il testo menziona sicurezza energetica, rotte e catene di fornitura come temi del confronto, ma non fissa obblighi condivisi, scadenze o meccanismi attuativi. Descrivere un argomento discusso non equivale a deliberare una misura vincolante per tutti."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "L'assenza di un comunicato comune indebolisce la capacità del G20 di esprimere una posizione condivisa su guerre, energia e rotte commerciali, pur senza impedire contatti bilaterali.",
+      "tags": [
+        "G20",
+        "diplomazia",
+        "Atlanta"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+          "url": "https://www.local10.com/news/world/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issues/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
+          "url": "https://www.reuters.com/world/us-sees-growing-interest-limited-ceasefire-black-sea-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "G20 Research Group",
+          "title": "G20 Chair's Statement, G20 Foreign Ministers' Meeting, Atlanta",
+          "url": "https://g20.utoronto.ca/2026/261031-foreign.html",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/g20-atlanta-no-consensus-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: G20 Esteri, ad Atlanta nessun comunicato comune: diffusa soltanto la dichiarazione della presidenza",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/g20-atlanta-no-consensus-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "novaya-gazeta-shutdown-oct30",
+      "rank": 7,
+      "category": "society",
+      "title": "Novaya Gazeta annuncia la chiusura delle attività russe dal 9 novembre dopo anni di pressioni",
+      "dek": "La redazione indica sequestri, limitazioni e perdita di sede e fondi; il progetto separato Novaya Gazeta Europe continuerà all'estero.",
+      "summary": "Il 30 ottobre il quotidiano investigativo russo Novaya Gazeta ha annunciato la cessazione delle residue attività in patria dal 9 novembre, citando limitazioni delle autorità e difficoltà operative. Reuters e altre redazioni hanno distinto la chiusura prevista della sede russa dall'esistenza di Novaya Gazeta Europe, organizzazione separata che continua a operare all'estero.",
+      "body": [
+        "Il 30 ottobre 2026 il quotidiano investigativo russo Novaya Gazeta ha annunciato che il 9 novembre spegnerà server e sede delle residue attività in Russia. Reuters, AFP e RaiNews hanno riportato autonomamente l'annuncio, collocandolo nell'inasprimento delle restrizioni che colpiscono i mezzi di informazione indipendenti. La cessazione operativa è prevista per il 9 novembre e non deve essere descritta come già completata il giorno dell'annuncio.",
+        "La redazione afferma che una campagna delle autorità ha impedito di proseguire: il sito è stato bloccato, la licenza cartacea revocata, le attrezzature sottoposte a interventi e i giornalisti a perquisizioni e procedimenti. Si tratta in parte di fatti amministrativi e giudiziari documentati, in parte della valutazione causale del giornale sulle motivazioni politiche della loro somma. La qualifica di 'agente straniero' assegnata dalla Russia è un'etichetta giuridica nazionale, non un fatto accertato di controllo da parte di potenze straniere.",
+        "Fondata nel 1993, Novaya Gazeta si è distinta per inchieste sulla corruzione e sugli abusi nei conflitti, incluso il lavoro di Anna Politkovskaya, assassinata nel 2006. Il suo cofondatore Dmitry Muratov ha ricevuto il Nobel per la pace nel 2021. Dopo l'invasione dell'Ucraina del 2022 e le nuove leggi sulla censura, il giornale aveva sospeso la stampa in patria ma aveva mantenuto alcune attività online.",
+        "Il progetto estero Novaya Gazeta Europe, creato da parte degli ex redattori e operativo fuori dalla Federazione Russa, è un'organizzazione distinta e non ha annunciato di chiudere per il 9 novembre. La differenza conta per non trasformare la fine delle attività russe nella scomparsa di tutte le testate con questo nome. La chiusura annunciata riduce ulteriormente lo spazio professionale per il giornalismo investigativo interno; non permette però di quantificare da sola il numero dei lettori che seguiranno altre fonti."
+      ],
+      "facts": [
+        "Il 30 ottobre Novaya Gazeta ha indicato il 9 novembre 2026 come data prevista per lo spegnimento dei server e la cessazione delle residue attività russe.",
+        "La testata, fondata nel 1993, ha avuto come cofondatore il premio Nobel per la pace 2021 Dmitry Muratov.",
+        "Novaya Gazeta Europe è una testata distinta con attività estere non interessate dall'annuncio di chiusura in Russia."
+      ],
+      "perspectives": [
+        "La direzione di Novaya Gazeta attribuisce la decisione alle pressioni delle autorità e alla perdita delle condizioni per lavorare nel Paese.",
+        "Le redazioni internazionali descrivono la vicenda come un ulteriore restringimento dello spazio per il giornalismo indipendente russo."
+      ],
+      "unknowns": [
+        "Non è ancora verificato il completamento dello spegnimento dei server annunciato per il 9 novembre.",
+        "Non sono quantificati gli effetti di questa chiusura sull'accesso dei lettori russi all'informazione indipendente."
+      ],
+      "questions": [
+        {
+          "question": "Per quale data Novaya Gazeta ha programmato la cessazione delle attività russe?",
+          "answer": "La decisione è stata comunicata il 30 ottobre, ma la redazione ha indicato il 9 novembre come data per abbandonare la sede e spegnere i server delle ultime operazioni in Russia. Annuncio e completamento della chiusura non coincidono."
+        },
+        {
+          "question": "Qual è il rapporto tra la chiusura in Russia e l'attività di Novaya Gazeta Europe?",
+          "answer": "Novaya Gazeta Europe è un'organizzazione giornalistica estera distinta, creata da ex redattori dopo l'inasprimento delle restrizioni russe. L'annuncio riguarda le residue attività interne al Paese e non costituisce la cessazione del progetto europeo."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "La cessazione annunciata delle residue operazioni interne di una storica testata investigativa restringe il giornalismo indipendente in Russia; l'attività di Novaya Gazeta Europe prosegue separatamente.",
+      "tags": [
+        "Russia",
+        "stampa",
+        "censura"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Russian independent newspaper Novaya Gazeta says it is shutting down after coordinated campaign",
+          "url": "https://www.reuters.com/business/media-telecom/russian-investigative-newspaper-novaya-gazeta-says-it-is-shutting-down-after-2026-10-30/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "AFP",
+          "title": "Independent Russian newspaper Novaya Gazeta shuts under Kremlin pressure",
+          "url": "https://www.afp.com/en/independent-russian-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Novaya Gazeta chiude in Russia: Noi uccisi dalle autorità e dai servizi",
+          "url": "https://www.rainews.it/articoli/2026/10/novaya-gazeta-chiude-in-russia-noi-uccisi-dalle-autorita-e-dai-servizi-anna-politkovskaya-6f42d14f-9c66-48c7-b268-7fb4ad3007da.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/novaya-gazeta-shutdown-oct30.svg",
+        "alt": "Illustrazione originale, non fotografia: Novaya Gazeta annuncia la chiusura delle attività russe dal 9 novembre dopo anni di pressioni",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/novaya-gazeta-shutdown-oct30.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "iran-response-warning-oct31",
+      "rank": 8,
+      "category": "politics",
+      "title": "Iran, Khamenei ordina di preparare risposte senza limiti geografici mentre proseguono i contatti diplomatici",
+      "dek": "Le parole del leader arrivano nel confronto con Usa e Israele; non confermano attacchi decisi né un accordo per riaprire Hormuz.",
+      "summary": "Il 31 ottobre il leader supremo iraniano Mojtaba Khamenei, secondo l'agenzia ufficiale IRNA, ha ordinato ai vertici militari di preparare risposte immediate a eventuali minacce statunitensi o israeliane senza limiti geografici. AP ha documentato anche colloqui indiretti su un possibile accordo per Hormuz. Le dichiarazioni sono minacce e proposte, non attacchi già avvenuti o un'intesa marittima in vigore.",
+      "body": [
+        "Sabato 31 ottobre 2026 la comunicazione ufficiale del leader supremo iraniano Mojtaba Khamenei ha riferito di un incontro con i vertici delle forze armate e di un ordine a predisporre una risposta immediata a eventuali attacchi statunitensi o israeliani, senza limiti geografici. Associated Press e il rapporto analitico dell'Institute for the Study of War hanno descritto separatamente la dichiarazione. La formula è una minaccia condizionale e una direttiva di preparazione, non la prova che un nuovo attacco o una rappresaglia siano già avvenuti.",
+        "Le tensioni si inseriscono nel conflitto del 2026 e nelle dispute sulle rotte del Golfo, in particolare sullo stretto di Hormuz. Il controllo di quel passaggio è cruciale per il commercio internazionale di energia e per la navigazione civile. Lo studio ISW/CTP riferisce di incidenti contro navi segnalati dal centro britannico UKMTO il 28 e il 30 ottobre: attribuzioni e dettagli degli episodi devono restare distinti dalle parole del leader iraniano e dalle ipotesi sulla possibile responsabilità degli aggressori.",
+        "Parallelamente sono proseguiti contatti indiretti con mediatori regionali. AP riferisce che il ministro degli Esteri Abbas Araghchi ha parlato di una proposta per riaprire completamente lo stretto entro due giorni, ma altre figure iraniane hanno subordinato i colloqui diretti con Washington all'accettazione di richieste di Teheran. La dichiarazione su una possibile soluzione non dimostra che sia stato concluso un accordo o che il traffico marittimo abbia già ripreso il suo ritmo normale.",
+        "Analisti dell'ISW interpretano la minaccia di espandere i bersagli come un tentativo di dissuasione per aumentare i costi attesi di attacchi esterni. È un'analisi, non una prova delle intenzioni finali dei decisori iraniani. Le fonti non stabiliscono quando o se gli Stati Uniti o Israele effettueranno nuovi raid né se le consultazioni con il Qatar arriveranno a un compromesso. Le conseguenze potenziali sono importanti per civili, navi e mercati, ma le previsioni militari non vanno presentate come fatti."
+      ],
+      "facts": [
+        "L'agenzia IRNA, citata da AP, ha riferito delle istruzioni di Khamenei ai comandanti iraniani il 31 ottobre 2026.",
+        "Le parole del leader riguardavano risposte a possibili minacce statunitensi e israeliane e un elenco aggiornato di obiettivi.",
+        "Il ministro Araghchi ha descritto contatti con mediatori su una proposta per lo stretto di Hormuz, senza un accordo attuato già verificato."
+      ],
+      "perspectives": [
+        "Le autorità iraniane presentano la preparazione militare come deterrenza a potenziali attacchi esterni.",
+        "L'Institute for the Study of War interpreta la possibile espansione geografica dei bersagli come segnale dissuasivo; è un'analisi, non una prova delle decisioni future."
+      ],
+      "unknowns": [
+        "Non risulta verificato che si siano già svolte le operazioni militari minacciate dal leader nel corso della riunione descritta.",
+        "Non è accertato un accordo operativo per la riapertura completa dello stretto di Hormuz entro due giorni."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa ha ordinato Khamenei ai comandanti iraniani il 31 ottobre?",
+          "answer": "Secondo la comunicazione ufficiale riportata da AP e ISW, ha chiesto di preparare risposte immediate a potenziali minacce statunitensi e israeliane e di ampliare la lista dei bersagli senza limiti geografici. L'ordine riguarda preparazione e deterrenza, non certifica una rappresaglia già compiuta."
+        },
+        {
+          "question": "Perché la proposta iraniana su Hormuz non equivale alla riapertura dello stretto?",
+          "answer": "Araghchi ha riferito di una proposta discussa con mediatori, mentre altri esponenti iraniani hanno posto condizioni ai negoziati con Washington. In assenza di intesa attuata e dati sul traffico effettivo, non si può trattare l'obiettivo delle 48 ore come passaggio marittimo già ripristinato."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Minacce militari esplicite in un'area centrale per il commercio energetico aumentano il rischio di escalation regionale, ma l'ordine iraniano di preparazione non certifica attacchi già decisi.",
+      "tags": [
+        "Iran",
+        "Hormuz",
+        "diplomazia"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Iran's leader says response to attack would have no geographic limits",
+          "url": "https://apnews.com/article/15c0556b92c8c23beb9b8854b4c124f4",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters and AFP via Arab News",
+          "title": "Iran's Mojtaba Khamenei orders military response without geographic limits",
+          "url": "https://www.arabnews.com/middle-east/irans-mojtaba-khamenei-orders-military-response-without-geographic-limits-to-new-threats-3009105",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Institute for the Study of War / Critical Threats Project",
+          "title": "Iran Update October 31 2026",
+          "url": "https://understandingwar.org/research/middle-east/iran-update-october-31-2026/",
+          "publishedAt": "2026-10-31",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/iran-response-warning-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: Iran, Khamenei ordina di preparare risposte senza limiti geografici mentre proseguono i contatti diplomatici",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/iran-response-warning-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "world-erdogan-zelensky-blacksea-oct31",
+      "rank": 9,
+      "category": "politics",
+      "title": "Erdoğan e Zelensky a Istanbul puntano a rendere sicuro il corridoio del grano nel Mar Nero",
+      "dek": "L'intesa del 31 ottobre riguarda la prosecuzione del lavoro diplomatico: senza il coinvolgimento russo non equivale a un cessate il fuoco marittimo concluso.",
+      "summary": "Sabato 31 ottobre 2026 il presidente ucraino Volodymyr Zelensky ha incontrato il presidente turco Recep Tayyip Erdoğan nell'ufficio presidenziale di Dolmabahçe a Istanbul. Hürriyet Daily News ha riportato la conferenza stampa congiunta, mentre l'agenzia di stampa turca Anadolu ha pubblicato un resoconto autonomo delle parole di Zelensky. I leader hanno concordato di lavorare alla sicurezza del corridoio del grano nel Mar Nero; la formulazione corretta è un impegno a proseguire il lavoro, non una riapertura negoziata con tutte le parti già in vigore.",
+      "body": [
+        "Sabato 31 ottobre 2026 il presidente ucraino Volodymyr Zelensky ha incontrato il presidente turco Recep Tayyip Erdoğan nell'ufficio presidenziale di Dolmabahçe a Istanbul. Hürriyet Daily News ha riportato la conferenza stampa congiunta, mentre l'agenzia di stampa turca Anadolu ha pubblicato un resoconto autonomo delle parole di Zelensky. I leader hanno concordato di lavorare alla sicurezza del corridoio del grano nel Mar Nero; la formulazione corretta è un impegno a proseguire il lavoro, non una riapertura negoziata con tutte le parti già in vigore.",
+        "Erdoğan ha condannato gli attacchi alle navi civili nel bacino e ha detto che la Turchia continuerà a parlare con le parti, compresa la Russia, per ristabilire condizioni di navigazione sicure. Zelensky ha collegato l'iniziativa alla possibilità di esportare prodotti agricoli senza minacce alle navi e agli equipaggi. Il precedente corridoio negoziato nel 2022–2023 con il coinvolgimento turco e delle Nazioni Unite offre un contesto storico, ma non dimostra automaticamente che le condizioni del 2026 siano identiche.",
+        "I colloqui si svolgono nel quadro della guerra russa contro l'Ucraina e di preoccupazioni più ampie sulle rotte energetiche e alimentari. Il rischio per la navigazione comprende mine, droni e attacchi a infrastrutture; l'attribuzione di ogni incidente richiede fonti separate. Reuters ha riferito il 31 ottobre dell'interesse, discusso anche al G20, per una tregua limitata nel Mar Nero, chiarendo che questo progetto non porrebbe fine all'intero conflitto e che la Russia non aveva dato la propria adesione.",
+        "La Turchia propone di favorire ulteriori colloqui, anche sul piano della diplomazia di pace, e Zelensky ha prospettato nuove sessioni negoziali. Le fonti non documentano un testo firmato da Mosca e Kiev che proibisca già gli attacchi alle navi, né cifre aggiornate di navi potenzialmente protette. La notizia è l'intesa di Istanbul per lavorare alla sicurezza del corridoio: un passo politico, non il risultato operativo finale."
+      ],
+      "facts": [
+        "Zelensky ed Erdoğan hanno tenuto colloqui e una conferenza stampa il 31 ottobre 2026 a Istanbul.",
+        "Anadolu e Hürriyet riferiscono un'intesa per lavorare alla sicurezza del corridoio.",
+        "I leader non hanno presentato un cessate il fuoco marittimo approvato da Mosca."
+      ],
+      "perspectives": [
+        "Erdoğan considera la sicurezza delle navi un possibile impulso alla pace.",
+        "Zelensky sostiene il mantenimento di una rotta utilizzabile per il commercio agricolo."
+      ],
+      "unknowns": [
+        "Non esiste conferma di un'accettazione russa di una tregua marittima.",
+        "Non sono disponibili regole comuni di controllo o dati sulle navi protette da un futuro accordo."
+      ],
+      "questions": [
+        {
+          "question": "Su che cosa si sono accordati Erdoğan e Zelensky sul corridoio del grano il 31 ottobre?",
+          "answer": "Hanno dichiarato di voler collaborare per garantire il funzionamento e la sicurezza della rotta nel Mar Nero. Erdoğan ha promesso colloqui con le parti, inclusa la Russia; non è stato presentato un accordo di cessate il fuoco marittimo già sottoscritto da Mosca."
+        },
+        {
+          "question": "Perché un'intesa ucraino-turca non basta a rendere sicure tutte le navi commerciali?",
+          "answer": "La sicurezza richiede che gli attori che conducono operazioni nella zona rispettino regole condivise e che siano verificati i rischi di mine e attacchi. Senza intesa operativa anche con la Russia, il sostegno diplomatico di Turchia e Ucraina non elimina da solo il pericolo."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Un possibile coordinamento sulla navigazione nel Mar Nero interessa esportazioni alimentari e sicurezza degli equipaggi, ma senza adesione russa non configura ancora una tregua marittima operativa.",
+      "tags": [
+        "Ucraina",
+        "Turchia",
+        "MarNero"
+      ],
+      "sources": [
+        {
+          "outlet": "Hürriyet Daily News",
+          "title": "Erdoğan, Zelensky meet on war and Black Sea security",
+          "url": "https://www.hurriyetdailynews.com/erdogan-zelensky-meet-on-war-and-black-sea-security-228843",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "Zelenskyy says he agreed with President Erdogan to work on Black Sea grain corridor",
+          "url": "https://www.aa.com.tr/en/turkiye/zelenskyy-says-he-agreed-with-president-erdogan-to-work-on-black-sea-grain-corridor/4107545",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
+          "url": "https://www.reuters.com/world/us-sees-growing-interest-limited-ceasefire-black-sea-2026-10-31/",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Office of Turkish Presidency",
+          "title": "Joint press conference after meeting Erdoğan and Zelensky",
+          "url": "https://www.akparti.org.tr/en/agenda-news/president-recep-tayyip-erdogan-and-president-volodymyr-zelenskyy-of-ukraine-held-a-joint-press-conference-following-their-meeting-31-10-26-20-00-00/",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/world-erdogan-zelensky-blacksea-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: Erdoğan e Zelensky a Istanbul puntano a rendere sicuro il corridoio del grano nel Mar Nero",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/world-erdogan-zelensky-blacksea-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "drc-ebola-5000-deaths-oct31",
+      "rank": 10,
+      "category": "society",
+      "title": "Ebola in Congo, il rapporto sanitario del 29 ottobre registra 5.026 morti su 10.351 casi",
+      "dek": "Il traguardo è stato segnalato dalle agenzie il 31 ottobre; l'epidemia da virus Bundibugyo resta difficile da contenere nelle aree di conflitto.",
+      "summary": "Il rapporto sanitario della Repubblica Democratica del Congo riferito al 29 ottobre 2026 riporta 10.351 casi e 5.026 decessi nell'epidemia di Ebola da virus Bundibugyo iniziata a maggio. Associated Press ha ricostruito sul campo il superamento di cinquemila morti il 31 ottobre e l'agenzia tedesca dpa ha riferito indipendentemente il nuovo bilancio delle autorità sanitarie. I dati non significano che tutte le persone siano morte il 31 ottobre: sono il totale cumulativo fino alla data di rilevazione.",
+      "body": [
+        "La Repubblica Democratica del Congo ha superato la soglia di cinquemila decessi attribuiti all'epidemia di Ebola da virus Bundibugyo del 2026. L'archivio dei rapporti dell'istituto sanitario nazionale congolese mostra che il rapporto giornaliero n. 168, datato 29 ottobre, totalizzava 10.351 casi e 5.026 decessi. Il precedente bollettino del 28 ottobre riportava 10.274 casi e 4.992 morti: il superamento della soglia riguarda dunque l'aggiornamento epidemiologico, mentre AP e dpa lo hanno diffuso il 31 ottobre. Non si deve attribuire l'intero bilancio alle 24 ore dell'edizione.",
+        "L'inchiesta dell'Associated Press include interviste nel Congo orientale e descrive un'epidemia iniziata a maggio, concentrata soprattutto nelle province di Ituri e Nord Kivu e presente in più zone sanitarie. Il virus causa una malattia emorragica grave, ma il rapporto fra decessi e casi confermati osservati in un dato giorno non è automaticamente la probabilità finale di morire per ogni persona infettata: influiscono diagnosi, notifiche ritardate, cure ricevute e definizione dei casi.",
+        "La diffusione geografica e il lavoro di rintracciamento sono ostacolati da insicurezza, minacce agli operatori sanitari, sfiducia verso le autorità e carenze di personale. AP segnala che una parte rilevante dei nuovi positivi non era già inserita nelle catene di contatto note, rendendo più difficile interrompere la trasmissione. Si tratta di una valutazione riferita al quadro epidemiologico del momento, non della dimostrazione che tutti i contatti o i focolai siano impossibili da ricostruire.",
+        "La situazione riguarda anche i Paesi vicini, con casi segnalati da AP in Kenya, Nigeria e Uganda, da interpretare rispetto alle date e alle definizioni nazionali. I bollettini ufficiali restano necessari per distinguere casi confermati, guarigioni e nuovi decessi. Non esiste una terapia specifica approvata per questa variante virale nel materiale esaminato e gli interventi comprendono assistenza clinica e prevenzione. Il bilancio dimostra un'emergenza umanitaria e di sanità pubblica, non una previsione certa dei contagi futuri."
+      ],
+      "facts": [
+        "Il bollettino INSP n. 168, 29 ottobre 2026, riporta 10.351 casi e 5.026 morti; il giorno precedente 10.274 e 4.992.",
+        "Associated Press e dpa hanno diffuso separatamente il superamento di 5.000 decessi il 31 ottobre.",
+        "L'agente è il virus Ebola Bundibugyo, distinto da altri virus della famiglia."
+      ],
+      "perspectives": [
+        "Operatori sanitari e specialisti intervistati da AP indicano insicurezza e problemi di rintracciamento come ostacoli al contenimento.",
+        "Le autorità sanitarie congolesi registrano il bilancio cumulativo nei bollettini giornalieri."
+      ],
+      "unknowns": [
+        "Nuovi casi successivi al bollettino del 29 ottobre e loro riclassificazioni non sono inclusi in questo totale.",
+        "Le cifre non consentono di prevedere la durata del focolaio o stabilire tutti i percorsi di trasmissione."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa rappresenta la cifra di 5.026 morti nell'epidemia di Bundibugyo in Congo?",
+          "answer": "È il totale cumulativo di decessi attribuiti al focolaio nel bollettino sanitario del 29 ottobre 2026, confrontato con 4.992 il 28 ottobre. Non sono 5.026 decessi verificatisi in un solo giorno."
+        },
+        {
+          "question": "Perché i nuovi casi fuori dalle catene di contatto complicano la risposta all'Ebola in Ituri e Nord Kivu?",
+          "answer": "Il rintracciamento permette di identificare chi ha incontrato una persona infetta, isolarlo tempestivamente e monitorare sintomi. Se molti casi compaiono senza collegamenti noti, gli interventi possono arrivare quando sono già avvenute ulteriori esposizioni, specialmente in zone con insicurezza e accesso difficile."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "più di cinquemila decessi documentati e diffusione in un contesto transfrontaliero con limitazioni operative gravi.",
+      "tags": [
+        "Ebola",
+        "Congo",
+        "epidemia"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+          "url": "https://apnews.com/article/cb7e79534ec9f3ab3c8f3bd03b3e1ad0",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "dpa via WELT",
+          "title": "Zahl der Ebola-Toten im Kongo steigt auf mehr als 5.000",
+          "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/eilmeldungen/article6ae578154db6c62483ec2d2a/zahl-der-ebola-toten-im-kongo-steigt-auf-mehr-als-5-000.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Institut National de Santé Publique (RDC)",
+          "title": "Rapport de Situation n°168/MVE-BDBV/29/10/2026",
+          "url": "https://ebola-tracker.org/reports/SITREP_MVE_168.pdf",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/drc-ebola-5000-deaths-oct31.svg",
+        "alt": "Illustrazione originale, non fotografia: Ebola in Congo, il rapporto sanitario del 29 ottobre registra 5.026 morti su 10.351 casi",
+        "credit": "O / Oggettivizzatore — original editorial vector artwork",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/drc-ebola-5000-deaths-oct31.svg",
+        "license": "Original artwork by O / Oggettivizzatore; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}

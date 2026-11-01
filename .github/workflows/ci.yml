@@ -18,6 +18,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Check editorial archive before installing dependencies
+        run: |
+          node scripts/build-news.mjs --check
+          node --test tests/editorial-questions.test.mjs
       - name: Install monorepo dependencies
         run: npm install --no-audit --no-fund
       - name: Check autonomous publisher quality gates
