@@ -1,0 +1,412 @@
+{
+  "date": "2026-11-01",
+  "language": "it",
+  "section": "science",
+  "publishedAt": "2026-11-01T08:48:00+01:00",
+  "editorialNote": "BOZZA NON PUBBLICABILE: verifica contenuti, fonti indipendenti e test pendenti.",
+  "articles": [
+    {
+      "id": "ibm-nighthawk-quantum-interconnects-oct27",
+      "rank": 1,
+      "category": "technology",
+      "title": "IBM collega due processori quantistici con quattro cavi superconduttori: trasferimenti al 99%, porte al 94,75%",
+      "dek": "Il prototipo sperimentale usa due chip Nighthawk e collegamenti di 80 centimetri. L'accuratezza di trasferimento non misura la correttezza di un intero calcolo.",
+      "summary": "In uno studio preliminare illustrato da IBM il 27 ottobre 2026, due processori quantistici superconduttori Nighthawk R1 da 120 qubit ciascuno sono stati collegati tramite quattro cavi di alluminio superconduttore, lunghi circa 80 centimetri. In laboratorio la fedeltà media del trasferimento di stati è stata del 99%, mentre quella media di una porta logica a due qubit tra chip diversi è stata del 94,75%. ScienceAlert, The Quantum Insider, The Korea Herald e Phys.org hanno riferito indipendentemente sui test fra il 27 e il 31 ottobre. Il dimostratore è un passo verso sistemi modulari, non la prova che 240 qubit funzionino già come computer privo di errori.",
+      "body": [
+        "Il 27 ottobre 2026 IBM Research ha presentato i risultati preliminari di un esperimento volto a far lavorare insieme due processori quantistici superconduttori anziché ingrandire all'infinito un solo chip. Nel frigorifero a diluizione del laboratorio, i ricercatori hanno installato quattro collegamenti superconduttori, chiamati «L-couplers», tra due moduli IBM Quantum Nighthawk R1 da 120 qubit ciascuno. Ogni cavo misura circa 80 centimetri: una distanza notevole per stati quantistici che tendono a degradarsi per rumore e perdite. I connettori sono stati inseriti dopo il montaggio dei processori, un dettaglio di ingegneria importante per un'architettura modulare sostituibile.",
+        "La prova fondamentale è la qualità del trasferimento di uno stato quantistico fra un processore e l'altro. La media riportata sui quattro canali è del 99,00%, con il migliore al 99,29%. Una seconda misura riguarda una porta logica «CZ» fra qubit posti su due chip differenti: qui la fedeltà media dichiarata è del 94,75%, più bassa del dato sul semplice trasferimento. Non sono la stessa statistica: trasferire uno stato con successo non significa aver eseguito correttamente una lunga sequenza di operazioni. Il laboratorio ha dimostrato inoltre stati entangled condivisi fra moduli e l'uso contemporaneo di due collegamenti.",
+        "ScienceAlert, in un articolo autonomo di David Nield del 27 ottobre, ha descritto i vincoli di fragilità dei qubit e la ragione per cui i collegamenti sono necessari a crescere oltre un singolo chip. The Quantum Insider, con Matt Swayne, ha distinto la qualità di trasferimento dal rendimento delle operazioni a due qubit. Il 29 ottobre The Korea Herald ha ripreso con analisi originale il requisito di modularità e, il 31 ottobre, Phys.org ha pubblicato un approfondimento di Sam Jarman. Il confronto dei resoconti e dei parametri del manoscritto disponibile su arXiv restituisce un risultato sperimentale reale, ma i dettagli della robustezza del sistema e della sua replicabilità su numerosi moduli devono ancora essere dimostrati.",
+        "Il disegno richiede cavi schermati, frequenze e temperature controllate e correzione degli errori ancora da sviluppare su scala utile. IBM stessa scrive che servono migliori stabilità e riproducibilità dei collegamenti prima di farne un sistema su vasta scala: un valore medio del 94,75% per le porte remote può essere un limite importante per circuiti lunghi, nei quali gli errori si accumulano. La ricerca, resa pubblica come preprint e non ancora indicata come lavoro valutato da peer review, non dimostra alcuna «supremazia quantistica» o accelerazione su un problema reale. Definisce invece un componente ingegneristico misurabile per eventuali computer distribuiti su più chip."
+      ],
+      "facts": [
+        "IBM ha descritto il 27 ottobre un dimostratore con due Nighthawk R1, quattro cavi di 80 cm e connettori inseribili dopo il montaggio.",
+        "Fedeltà media trasferimento: 99%; migliore collegamento: 99,29%; fedeltà media delle porte CZ remote: 94,75%.",
+        "Il lavoro è presentato come studio preliminare arXiv, non come soluzione commerciale pronta o prestazione dimostrata di un computer fault-tolerant."
+      ],
+      "perspectives": [
+        "IBM considera la modularità un percorso pratico per collegare chip quantistici e realizzare futuri codici di correzione d'errore più grandi.",
+        "ScienceAlert e The Quantum Insider inquadrano i risultati come sperimentali e spiegano perché i dati del trasferimento e delle porte logiche devono essere distinti."
+      ],
+      "unknowns": [
+        "Quanto migliorino le fedeltà delle porte remote in nuove configurazioni e quante interconnessioni siano riproducibili in un sistema operativo più grande.",
+        "Quando, e se, l'approccio porterà a vantaggi misurabili su applicazioni reali con correzione degli errori."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa misurano il 99% e il 94,75% dei collegamenti fra i processori IBM Nighthawk?",
+          "answer": "Il 99% è la fedeltà media con cui uno stato quantistico viene trasferito attraverso i quattro cavi superconduttori; il 94,75% è invece la fedeltà media delle operazioni logiche CZ che coinvolgono qubit collocati su chip differenti. Una porta è un'operazione più articolata del semplice trasferimento e i due valori non sono intercambiabili."
+        },
+        {
+          "question": "Perché IBM ha scelto quattro cavi da 80 centimetri invece di costruire un solo chip più grande?",
+          "answer": "La prova esplora un'architettura modulare: collegare unità già costruite può limitare la complessità di fabbricazione e rendere sostituibili i componenti. È però necessario proteggere gli stati quantistici dai disturbi lungo i cavi; per ora i ricercatori hanno verificato una connessione di laboratorio, non una macchina scalabile senza ulteriori miglioramenti."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "una verifica pratica di interconnessioni tra processori quantistici potenzialmente utile alla futura scalabilità, ma il risultato è un preprint con prestazioni lontane dalla prova di calcolo affidabile su larga scala.",
+      "tags": [
+        "quantistica",
+        "IBM",
+        "ricerca"
+      ],
+      "sources": [
+        {
+          "outlet": "ScienceAlert",
+          "title": "Success! IBM Hits 99% Accuracy Transferring Quantum Information Between Chips",
+          "url": "https://www.sciencealert.com/bm-hits-99-accuracy-in-transferring-quantum-information-between-two-chips",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Quantum Insider",
+          "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
+          "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
+          "publishedAt": "2026-10-27",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Korea Herald",
+          "title": "IBM links quantum chips like Lego blocks, opening path to unlimited scaling",
+          "url": "https://mbiz.heraldcorp.com/article/10919478",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Phys.org",
+          "title": "Four superconducting cables link two large quantum processors into one",
+          "url": "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "IBM Research blog",
+          "title": "Modular quantum computing takes shape with l-couplers",
+          "url": "https://www.ibm.com/quantum/blog/connecting-quantum-processors-with-l-couplers",
+          "publishedAt": "2026-10-27",
+          "role": "official"
+        },
+        {
+          "outlet": "Neereja M. Sundaresan et al.",
+          "title": "Meter-scale quantum interconnects between large quantum processors",
+          "url": "https://arxiv.org/abs/2610.29986",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/ibm-nighthawk-quantum-interconnects-oct27.svg",
+        "alt": "Illustrazione originale, non fotografia: IBM collega due processori quantistici con quattro cavi superconduttori: trasferimenti al 99%, porte al 94,75%",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/ibm-nighthawk-quantum-interconnects-oct27.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "parkinsons-amchepry-first-postapproval-oct30",
+      "rank": 2,
+      "category": "society",
+      "title": "Parkinson, a Kyoto primo trapianto del prodotto AMCHEPRY dopo l'autorizzazione condizionata",
+      "dek": "L'ospedale conferma l'intervento di ottobre su una donna sulla cinquantina, già dimessa; il risultato clinico duraturo rimane da valutare.",
+      "summary": "Il 30 ottobre 2026 l'Ospedale universitario di Kyoto ha confermato di aver iniziato nel mese gli interventi con AMCHEPRY, prodotto di medicina rigenerativa destinato a persone con malattia di Parkinson. La prima paziente dopo l'autorizzazione condizionata è una donna sulla cinquantina: l'ospedale dice che è stata dimessa e che il decorso immediato è buono. L'agenzia AFP e la televisione Kansai TV hanno trattato separatamente la notizia. La data della comunicazione è il 30 ottobre; l'operazione è avvenuta in una giornata del mese non specificata dalle informazioni ospedaliere.",
+      "body": [
+        "Il 30 ottobre 2026 l'Ospedale universitario di Kyoto ha confermato di aver iniziato nel mese gli interventi con AMCHEPRY, prodotto di medicina rigenerativa destinato a persone con malattia di Parkinson. La prima paziente dopo l'autorizzazione condizionata è una donna sulla cinquantina: l'ospedale dice che è stata dimessa e che il decorso immediato è buono. L'agenzia AFP e la televisione Kansai TV hanno trattato separatamente la notizia. La data della comunicazione è il 30 ottobre; l'operazione è avvenuta in una giornata del mese non specificata dalle informazioni ospedaliere.",
+        "AMCHEPRY, denominato anche raguneprocel, consiste in precursori di neuroni produttori di dopamina differenziati da cellule staminali pluripotenti indotte provenienti da donatori. Nel Parkinson una parte dei neuroni dopaminergici degenera, contribuendo a tremori, rallentamento e problemi del movimento. La procedura introduce cellule nel cervello con l'obiettivo di recuperare una parte della funzione dopaminergica. La possibilità che i precursori maturino, si integrino e mantengano un beneficio non si deduce dal solo successo dell'impianto.",
+        "Il 6 marzo 2026 le autorità giapponesi avevano concesso al prodotto un'autorizzazione di commercializzazione condizionata e limitata nel tempo, sulla base di uno studio precedente di fase I/II su sette pazienti. AFP riporta che quattro hanno mostrato miglioramenti dei sintomi durante due anni di osservazione e che non sono emersi eventi avversi gravi nel piccolo gruppo. Numeri del genere segnalano fattibilità e possibili benefici, ma non permettono di dimostrare quanto la terapia sia efficace in una popolazione ampia né di confrontarla definitivamente con gli standard di cura.",
+        "L'Ospedale di Kyoto ribadisce che seguirà attentamente l'efficacia e la sicurezza dopo il trapianto. Secondo Kansai TV, Sumitomo Pharma prevede uno o due trattamenti nell'esercizio 2026, circa dieci nel 2027 e dieci-venti nel 2028: sono obiettivi aziendali e clinici, non pazienti già trattati. La condizione posta dall'autorità regolatoria è proprio acquisire ulteriori prove per un'eventuale approvazione definitiva; non esiste qui una dimostrazione di guarigione del Parkinson."
+      ],
+      "facts": [
+        "Kyoto University Hospital ha annunciato il 30 ottobre 2026 il primo intervento AMCHEPRY successivo all'autorizzazione condizionata.",
+        "La terapia ha ricevuto autorizzazione condizionata e a termine il 6 marzo 2026.",
+        "La prima paziente del programma, una donna di circa cinquant'anni, è stata dimessa."
+      ],
+      "perspectives": [
+        "Sumitomo Pharma considera il trapianto un passo nell'accesso alla terapia e prevede nuovi arruolamenti.",
+        "L'ospedale di Kyoto sottolinea la necessità di misurare sicurezza e risultati dopo l'operazione."
+      ],
+      "unknowns": [
+        "Beneficio motorio effettivo e durata dell'effetto nella paziente operata in ottobre non sono stati misurati pubblicamente.",
+        "L'efficacia e la sicurezza su una popolazione più ampia richiedono ulteriori dati di osservazione."
+      ],
+      "questions": [
+        {
+          "question": "Quali cellule vengono trapiantate con AMCHEPRY nel cervello dei pazienti con Parkinson?",
+          "answer": "Sono precursori di neuroni dopaminergici ottenuti da cellule staminali iPS di donatori. L'obiettivo è permettere loro di maturare e contribuire a sostituire la dopamina persa, ma la riuscita dell'intervento non basta per stabilire se la funzione motoria migliorerà nel lungo termine."
+        },
+        {
+          "question": "Perché l'autorizzazione giapponese del marzo 2026 è soltanto condizionata?",
+          "answer": "Le prove iniziali provengono da un piccolo studio su sette pazienti, quattro dei quali hanno avuto un miglioramento dei sintomi. Le autorità hanno consentito l'impiego in condizioni definite chiedendo ulteriori dati sulla sicurezza e l'efficacia prima di valutare un'autorizzazione piena."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "L'ospedale conferma l'intervento di ottobre su una donna sulla cinquantina, già dimessa; il risultato clinico duraturo rimane da valutare. Le conseguenze restano circoscritte ai fatti verificati, non ai rischi ipotizzati.",
+      "tags": [
+        "Parkinson",
+        "cellule",
+        "Giappone"
+      ],
+      "sources": [
+        {
+          "outlet": "Kyoto University Hospital",
+          "title": "Information update on allogeneic iPS-derived dopamine neuronal precursor cell transplant therapy for Parkinson's disease",
+          "url": "https://www.kuhp.kyoto-u.ac.jp/info/20261030.html",
+          "publishedAt": "2026-10-30",
+          "role": "official"
+        },
+        {
+          "outlet": "AFP via Dawn",
+          "title": "First patient undergoes pioneering stem-cell treatment for Parkinson's",
+          "url": "https://www.dawn.com/news/2040952",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Kansai Television / FNN Prime Online",
+          "title": "First post-approval transplant of iPS-derived Parkinson's product AMCHEPRY",
+          "url": "https://www.fnn.jp/articles/-/1143106?display=full",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/parkinsons-amchepry-first-postapproval-oct30.svg",
+        "alt": "Illustrazione originale, non fotografia: Parkinson, a Kyoto primo trapianto del prodotto AMCHEPRY dopo l'autorizzazione condizionata",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/parkinsons-amchepry-first-postapproval-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "ieee-retracts-1417-papers-oct30",
+      "rank": 3,
+      "category": "society",
+      "title": "IEEE ritira 1.417 lavori di conferenza: uno studio collega i titoli a inserzioni di vendita delle firme",
+      "dek": "Le ritrattazioni risultano datate 23 ottobre, l'annuncio IEEE il 28 e la verifica giornalistica il 30: le diverse date non sono intercambiabili.",
+      "summary": "Il 30 ottobre 2026 la rivista Nature ha pubblicato una verifica indipendente di una grande operazione di ritiro di lavori scientifici dagli archivi dell'IEEE. La redazione ha accertato almeno 1.417 articoli di conferenza ritirati il 23 ottobre, resi pubblici nel comunicato dell'associazione il 28 ottobre. Research Information ha riportato separatamente l'annuncio ufficiale. La notizia del periodo è l'emersione pubblica e la quantificazione verificata, non 1.417 cancellazioni eseguite per la prima volta il 30 ottobre.",
+      "body": [
+        "Il 30 ottobre 2026 la rivista Nature ha pubblicato una verifica indipendente di una grande operazione di ritiro di lavori scientifici dagli archivi dell'IEEE. La redazione ha accertato almeno 1.417 articoli di conferenza ritirati il 23 ottobre, resi pubblici nel comunicato dell'associazione il 28 ottobre. Research Information ha riportato separatamente l'annuncio ufficiale. La notizia del periodo è l'emersione pubblica e la quantificazione verificata, non 1.417 cancellazioni eseguite per la prima volta il 30 ottobre.",
+        "Il percorso è partito dallo studio di Anna Abalkina e collaboratori, pubblicato sulla rivista Accountability in Research dopo una versione preliminare di aprile. I ricercatori avevano identificato 4.407 inserzioni su più di 200 canali social che offrivano posti di autore a pagamento, trovando corrispondenze di titolo con 2.062 articoli apparsi in 366 atti di conferenze IEEE fra il 2021 e il 2026. Una corrispondenza con un annuncio costituisce un segnale che richiede indagine, non la prova che ogni persona indicata abbia pagato o mentito.",
+        "Nature ha verificato che tutti i 1.417 lavori ritirati il 23 ottobre figuravano nell'elenco identificato dai ricercatori; la nota sui ritiri sostiene che i posti di autore 'potrebbero essere stati offerti in vendita'. La stessa analisi giornalistica ha trovato che 1.622 dei 2.062 lavori segnalati risultavano ormai ritirati in totale, includendo altri interventi. IEEE dichiara di aver utilizzato nuovi strumenti di controllo, revisione e screening per individuare violazioni delle regole di pubblicazione.",
+        "L'associazione quantifica il gruppo oggetto dell'operazione in meno dello 0,06% dei suoi lavori di conferenza su sei anni, affermazione da leggere con il denominatore dichiarato da IEEE e non come una percentuale di tutti i lavori scientifici del mondo. Il caso solleva questioni di supervisione del processo di revisione e dei contributi effettivi degli autori, ma non autorizza a descrivere come fraudolenta ogni ricerca tecnica o ogni conferenza IEEE. Le misure future e le responsabilità individuali richiedono verifiche separate."
+      ],
+      "facts": [
+        "Nature ha verificato 1.417 ritiri IEEE datati 23 ottobre 2026.",
+        "IEEE ha annunciato pubblicamente la revisione il 28 ottobre.",
+        "Un lavoro scientifico ha segnalato 2.062 lavori confrontando titoli e inserzioni di vendita delle firme."
+      ],
+      "perspectives": [
+        "IEEE afferma di aver potenziato controllo e screening degli atti di conferenza.",
+        "Gli specialisti di integrità scientifica citati da Nature considerano l'operazione un caso eccezionale che richiede supervisione rafforzata."
+      ],
+      "unknowns": [
+        "Le responsabilità personali e i pagamenti effettivi associati a ciascun titolo non sono documentati dalle statistiche aggregate.",
+        "La capacità delle nuove procedure di impedire casi analoghi resta da valutare."
+      ],
+      "questions": [
+        {
+          "question": "Qual è la differenza fra i 1.417 ritiri del 23 ottobre e i 2.062 articoli segnalati dallo studio Abalkina?",
+          "answer": "1.417 sono i lavori che Nature ha verificato come ritirati in un'unica operazione datata 23 ottobre. Lo studio aveva individuato 2.062 articoli i cui titoli somigliavano a inserzioni di vendita delle firme; Nature ne ha trovati 1.622 ritirati complessivamente considerando anche interventi diversi."
+        },
+        {
+          "question": "Perché le inserzioni che vendono la firma di un articolo non provano automaticamente la colpevolezza di ogni autore?",
+          "answer": "I ricercatori hanno confrontato titoli pubblicati con annunci sui social; ciò identifica lavori da controllare, non pagamenti o responsabilità individuali. IEEE ha poi applicato i propri criteri di ritiro e le sue note parlano di firme che potrebbero essere state messe in vendita."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Le ritrattazioni risultano datate 23 ottobre, l'annuncio IEEE il 28 e la verifica giornalistica il 30: le diverse date non sono intercambiabili. Rilevanza valutata solo per effetti già verificabili.",
+      "tags": [
+        "IEEE",
+        "integrità",
+        "studi"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
+          "url": "https://www.nature.com/articles/d41586-026-03455-8",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Research Information",
+          "title": "IEEE retracts approximately 1,400 papers following integrity review",
+          "url": "https://www.researchinformation.info/news/ieee-retracts-approximately-1400-papers-following-integrity-review/",
+          "publishedAt": "2026-10-30",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Abalkina et al.",
+          "title": "Study on papers linked to authorship-sale advertisements (preprint)",
+          "url": "https://doi.org/10.48550/arXiv.2604.22458",
+          "publishedAt": "2026-04-01",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/ieee-retracts-1417-papers-oct30.svg",
+        "alt": "Illustrazione originale, non fotografia: IEEE ritira 1.417 lavori di conferenza: uno studio collega i titoli a inserzioni di vendita delle firme",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/ieee-retracts-1417-papers-oct30.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "prenatal-neuron-selection-oct28",
+      "rank": 4,
+      "category": "society",
+      "title": "Cervello in sviluppo, uno studio trova anomalie cromosomiche nel 25,9% dei neuroni fetali analizzati",
+      "dek": "La proporzione cala a circa il 6,2% nei campioni dopo la nascita; il risultato suggerisce una selezione cellulare, ma non è un test prenatale né una misura del cervello di ogni neonato.",
+      "summary": "In uno studio pubblicato su Nature il 28 ottobre 2026, Diane Shao e colleghi hanno analizzato il DNA di 2.357 neuroni della corteccia cerebrale umana, provenienti da tessuti donati dopo il decesso. Nei campioni fetali una media del 25,9% delle cellule conteneva ampie variazioni del numero di copie di tratti cromosomici, contro circa il 6,2% dopo la nascita in una delle analisi. Nature News e The Korea Herald hanno riportato il risultato distinguendo misure e interpretazioni: gli studiosi inferiscono un'eliminazione selettiva delle cellule alterate intorno alla nascita, senza aver seguito le stesse cellule nel tempo.",
+      "body": [
+        "La corteccia cerebrale umana si forma producendo moltissimi neuroni e rimodellando i collegamenti fra loro. Il lavoro coordinato da ricercatori della Harvard Medical School, Boston Children's Hospital e istituti collaboratori, pubblicato il 28 ottobre 2026, ha esplorato quanto spesso i neuroni contengano grandi variazioni del numero di copie di segmenti cromosomici, chiamate CNV. I ricercatori hanno utilizzato campioni di cervello post mortem da età fetali tra 14 e 25 settimane di gestazione fino a età avanzata; non hanno sottoposto bambini viventi a biopsie cerebrali.",
+        "Nel complesso sono stati sequenziati 2.357 neuroni singoli. Il primo metodo, meno profondo ma esteso, ha misurato 1.526 cellule provenienti da 16 donatori; un secondo metodo ha controllato ulteriori 831 neuroni da 12 donatori. La proporzione media con alterazioni diffuse è risultata del 25,9% prima della nascita e circa del 6,2% successivamente, con variabilità fra campioni fetali dal 12,7% al 46%. The Korea Herald e Nature News hanno sottolineato che la riduzione non significa che un quarto di ogni cervello fetale sia malato: si tratta di una media definita dalla tecnica di sequenziamento su tessuti donati.",
+        "Le variazioni del numero di copie comportano duplicazioni o delezioni di tratti del DNA; se interessano molti geni possono interferire con il funzionamento della cellula. Il lavoro ha trovato, nelle cellule con più anomalie, segnali alterati nell'espressione dei geni coinvolti nelle sinapsi e vie di morte programmata. Queste associazioni sostengono l'ipotesi che il cervello in sviluppo elimini più facilmente alcune cellule geneticamente compromesse mentre forma i circuiti neurali. La comparazione è però trasversale, fra donatori di età diverse: non è un filmato del destino delle medesime cellule.",
+        "Il gruppo propone che questa selezione contribuisca alla stabilità del cervello dopo la nascita e segnali possibili punti di interesse per lo studio dei disturbi del neurosviluppo. La ricerca non prova che il meccanismo causi o prevenga autismo, epilessia o altre condizioni, né offre diagnosi o terapie cliniche. Nature ha intervistato anche un neurologo esterno, Christos Proukakis, che interpreta l'evidenza come compatibile con la sopravvivenza dei neuroni aventi genomi più integri. Ulteriori ricerche dovranno distinguere i meccanismi di eliminazione e stabilire quanto le osservazioni siano generalizzabili ad altri tessuti e popolazioni."
+      ],
+      "facts": [
+        "Su 2.357 neuroni studiati, i campioni fetali presentavano una media del 25,9% di cellule con ampie CNV, contro circa il 6,2% nei campioni dopo la nascita.",
+        "Le due tecniche di sequenziamento impiegate coinvolgevano 1.526 e 831 neuroni e sono descritte nel lavoro pubblicato il 28 ottobre.",
+        "I campioni erano post mortem e non rappresentavano un intervento diagnostico su persone viventi."
+      ],
+      "perspectives": [
+        "Gli autori interpretano la riduzione delle CNV come coerente con una selezione delle cellule geneticamente alterate durante la maturazione.",
+        "Il neurologo Christos Proukakis, interpellato da Nature News, ritiene che i neuroni sopravvissuti possano essere quelli con genoma più integro."
+      ],
+      "unknowns": [
+        "Il preciso segnale che porta ogni singolo neurone ad essere eliminato non è stato osservato direttamente.",
+        "La relazione causale con diagnosi cliniche di disturbi del neurosviluppo non è stabilita."
+      ],
+      "questions": [
+        {
+          "question": "Perché i ricercatori hanno usato due diverse tecniche per sequenziare i 2.357 neuroni?",
+          "answer": "Hanno misurato molte cellule con un metodo di sequenziamento poco profondo, poi ne hanno valutate altre 831 con un approccio più dettagliato. Ottenere un calo delle anomalie con metodi diversi riduce il rischio che il risultato dipenda da un particolare procedimento tecnico."
+        },
+        {
+          "question": "Che cosa permette di dedurre il passaggio dal 25,9% al 6,2% di neuroni con CNV diffuse?",
+          "answer": "La differenza fra campioni fetali e postnatali è coerente con una selezione che riduce la frequenza di cellule geneticamente alterate intorno alla nascita. Ma i dati confrontano tessuti di persone diverse: non identificano direttamente la sorte di ogni neurone né dimostrano effetti clinici individuali."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "nuovo risultato genomico sulla maturazione del cervello, rilevante per i meccanismi di selezione cellulare, ma senza immediata applicazione diagnostica o terapeutica.",
+      "tags": [
+        "neuroni",
+        "genomica",
+        "sviluppo"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature (original peer-reviewed paper)",
+          "title": "Perinatal elimination of genetically aberrant human cortical neurons",
+          "url": "https://www.nature.com/articles/s41586-026-11190-3",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        },
+        {
+          "outlet": "Nature News (Miryam Naddaf?)",
+          "title": "The brain liquidates billions of mutant neurons around the time we’re born",
+          "url": "https://www.nature.com/articles/d41586-026-03444-x",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Korea Herald / Herald Business",
+          "title": "One in four fetal brain cells carries major genetic defects — most vanish by birth",
+          "url": "https://biz.heraldcorp.com/article/10920483",
+          "publishedAt": "2026-10-31",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Harvard Medical School",
+          "title": "Abnormal Neurons Are Surprisingly Common in the Developing Brain",
+          "url": "https://hms.harvard.edu/news/abnormal-neurons-are-surprisingly-common-developing-brain-study-finds",
+          "publishedAt": "2026-10-31",
+          "role": "official"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/prenatal-neuron-selection-oct28.svg",
+        "alt": "Illustrazione originale, non fotografia: Cervello in sviluppo, uno studio trova anomalie cromosomiche nel 25,9% dei neuroni fetali analizzati",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/prenatal-neuron-selection-oct28.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    },
+    {
+      "id": "planetary-sunshade-survey-oct28",
+      "rank": 5,
+      "category": "climate",
+      "title": "Parasole spaziale per raffreddare la Terra, un rapporto analizza sei ipotesi: tempi stimati di 20–40 anni",
+      "dek": "Lo studio del Planetary Sunshade Institute non propone un impianto già pronto: dipenderebbe da grandi lanci, industrie lunari e prove sugli effetti climatici.",
+      "summary": "Il Planetary Sunshade Institute ha presentato in ottobre 2026 una valutazione di sei possibili architetture per schermare una parte della radiazione solare diretta verso la Terra. Nature News ne ha discusso il 28 ottobre e Der Standard ha sviluppato una seconda analisi il 29. I promotori ipotizzano di poter costruire un sistema nello spazio entro 20–40 anni, a condizione di progressi nelle capacità di lancio e nell'estrazione di materiali lunari. Le stime sul raffreddamento sono scenari teorici: nessuna installazione è stata avviata e costi, sicurezza ed effetti sulle piogge restano aperti.",
+      "body": [
+        "La proposta esaminata dal Planetary Sunshade Institute riguarda strutture o particelle posizionate nello spazio lungo la direzione Sole–Terra, in modo da intercettare una parte limitata della luce prima che arrivi al pianeta. Il rapporto «Space Reflector Baseline Survey», presentato in ottobre 2026 e discusso da due redazioni nei giorni 28 e 29, prende in esame sei architetture, dalle vele riflettenti a ipotetiche nubi di polvere controllate. Il PSI è un'organizzazione che promuove lo studio di questi sistemi: le valutazioni di fattibilità sono ipotesi elaborate dai proponenti, non una decisione di costruzione presa dalla comunità internazionale.",
+        "La regione preferita è vicina al punto di Lagrange 1 del sistema Terra–Sole, sul lato rivolto al Sole, dove i rapporti tra attrazione e forze applicate possono aiutare a mantenere un sistema di schermatura in una configurazione utile. Il punto gravitazionale L1 si trova a circa 1,5 milioni di chilometri dalla Terra; Der Standard spiega che, considerando la pressione della radiazione sulle vele, una configurazione proposta sarebbe più vicina al Sole, a circa 2,36 milioni di chilometri dalla Terra. Un esempio discusso comprende circa 5.000 satelliti tipo *heliogyro* e, secondo l'analisi riportata, richiederebbe dell'ordine di 70 milioni di tonnellate di materiali. Non sono strutture esistenti.",
+        "Nel modello esplorativo, intercettare circa l'1% della luce solare incidente potrebbe contribuire a ridurre la temperatura media globale di approssimativamente un grado Celsius in determinate condizioni. Questo è un risultato modellistico, non un raffreddamento misurato. L'alternativa di una nube di polvere promette, secondo il PSI, un fabbisogno di massa fino a 600 volte inferiore alle vele, ma lo stesso istituto precisa che la tecnologia necessaria a controllarla è ancora in una fase iniziale. Soprattutto, schermare la luce non elimina l'anidride carbonica già accumulata, né dimostra di preservare precipitazioni e monsoni in ogni regione.",
+        "I promotori valutano un orizzonte ottimistico di 20–40 anni, composto da uno sviluppo preliminare di capacità industriali lunari e da una successiva lunga costruzione. La cifra dipende da infrastrutture, trasporti e disponibilità di materiali che oggi non esistono alla scala richiesta; gli autori non forniscono una stima attendibile del costo totale. Der Standard riporta anche l'obiezione di studiosi secondo cui gli effetti collaterali e la governance di un intervento planetario sarebbero enormi. Il rapporto amplia il dibattito sulle possibilità tecniche, ma non cambia la necessità di ridurre le emissioni e non offre una soluzione climatica già operativa."
+      ],
+      "facts": [
+        "Il PSI descrive sul proprio sito un esame di sei architetture e indica un orizzonte realistico da esso stimato di 20–40 anni, condizionato a lanci pesanti ed estrazione lunare.",
+        "Nature News ha pubblicato un articolo sul tema il 28 ottobre 2026 e Der Standard un'analisi distinta il 29 ottobre.",
+        "Il PSI considera i controlli sulle nubi di polvere ancora preliminari e non segnala la costruzione o il dispiegamento di un parasole operativo."
+      ],
+      "perspectives": [
+        "Il PSI ritiene che le tecnologie esistenti, integrate da future infrastrutture e materiali lunari, possano consentire un sistema di schermatura nello spazio nel giro di decenni.",
+        "Der Standard mette a confronto le stime ottimistiche dei proponenti con scetticismo scientifico, effetti potenziali sulle precipitazioni e ostacoli di costo e coordinamento internazionale."
+      ],
+      "unknowns": [
+        "Masse definitive, calendario realizzabile e costo totale di costruzione non sono determinati da un programma operativo finanziato.",
+        "Impatti regionali su piogge, monsoni, ecosistemi e criteri internazionali per controllare o interrompere la schermatura non sono stati risolti."
+      ],
+      "questions": [
+        {
+          "question": "Perché il PSI propone di posizionare il parasole vicino a Lagrange 1 invece che in una bassa orbita terrestre?",
+          "answer": "Vicino alla linea Terra–Sole, una schermatura potrebbe intercettare in modo più continuo una frazione di radiazione diretta verso il pianeta; un oggetto in orbita bassa produce invece ombre transitorie e cambia rapidamente posizione. La pressione della luce sulle vele sposta la posizione di equilibrio proposta rispetto a L1 puramente gravitazionale."
+        },
+        {
+          "question": "Che cosa dimostrerebbe, e che cosa non dimostrerebbe, la riduzione teorica dell'1% della luce solare?",
+          "answer": "Nei modelli discussi, uno schermo di quell'ordine potrebbe contribuire ad abbassare di circa 1 °C la temperatura media globale in alcuni scenari. Non è una diminuzione realmente osservata, non rimuove CO₂ e non garantisce che precipitazioni ed effetti regionali restino invariati."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "valutazione interdisciplinare potenzialmente importante per ricerca e governo della geoingegneria, ma intervento ipotetico con ostacoli tecnici, climatici e politici enormi e senza effetto reale già misurato.",
+      "tags": [
+        "geoingegneria",
+        "clima",
+        "orbita"
+      ],
+      "sources": [
+        {
+          "outlet": "Planetary Sunshade Institute",
+          "title": "Space Reflector Baseline Survey",
+          "url": "https://planetarysunshade.org/publications/",
+          "publishedAt": "2026-10",
+          "role": "official"
+        },
+        {
+          "outlet": "Nature News",
+          "title": "Could a giant sunshade in space ‘solve global warming’? Scientists are taking the idea seriously",
+          "url": "https://www.nature.com/articles/d41586-026-03415-2",
+          "publishedAt": "2026-10-28",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Der Standard",
+          "title": "Wie ein gigantischer Weltraumschirm gegen den Klimawandel funktionieren könnte",
+          "url": "https://www.derstandard.de/story/3000000346460/wie-ein-gigantischer-weltraumschirm-gegen-den-klimawandel-funktionieren-koennte",
+          "publishedAt": "2026-10-29",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-01/assets/planetary-sunshade-survey-oct28.svg",
+        "alt": "Illustrazione originale, non fotografia: Parasole spaziale per raffreddare la Terra, un rapporto analizza sei ipotesi: tempi stimati di 20–40 anni",
+        "credit": "O / Oggettivizzatore — original vector illustration",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-01/news/2026-11-01/assets/planetary-sunshade-survey-oct28.svg",
+        "license": "Original O / Oggettivizzatore art; publication on O authorized",
+        "kind": "illustration"
+      }
+    }
+  ]
+}
