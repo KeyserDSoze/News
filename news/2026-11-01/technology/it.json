@@ -116,13 +116,17 @@
         "Il progetto prevede come tappa successiva due satelliti in collegamento nel 2027, ancora un obiettivo progettuale. L'idea di utilizzare energia solare in orbita deve confrontarsi con dissipazione del calore, massa da lanciare, latenza e disponibilità delle comunicazioni. Non è dimostrato un beneficio climatico netto o economico: il nuovo fatto verificabile è un'elaborazione limitata effettuata nello spazio."
       ],
       "facts": [
-        "le misure o date esplicite dei paragrafi 1 e 2 sono verificate nelle fonti indicate; dichiarazioni industriali rimangono attribuite."
+        "Google ha dichiarato il 30 ottobre che il prototipo Suncatcher lanciato il 1° ottobre aveva prodotto una risposta Gemma 4 tramite TPU in orbita durante un passaggio alle Svalbard.",
+        "Secondo TechCrunch il satellite contiene quattro TPU, genera fino a un chilowatt di potenza e può alimentare un solo TPU attivo per circa venti minuti.",
+        "Google prevede di esaminare resistenza a calore e radiazioni e di sperimentare due satelliti collegati nel 2027: sono test futuri."
       ],
       "perspectives": [
-        "interpretazioni societarie e letture tecniche o regolatorie sono attribuite alle parti citate nel testo."
+        "Google descrive l'esperimento come una prima prova di fattibilità per l'elaborazione AI in orbita, non come un servizio disponibile.",
+        "TechCrunch osserva che i limiti energetici, di comunicazione e di lancio pongono ostacoli alla scalabilità del progetto."
       ],
       "unknowns": [
-        "i risultati attesi, le prove successive e gli esiti di indagini o test non sono disponibili alla data descritta."
+        "Affidabilità e tasso di errore dei TPU dopo un'esposizione prolungata a radiazioni e sbalzi termici non sono stati ancora misurati pubblicamente.",
+        "Non è stato dimostrato un vantaggio complessivo in termini di costi, energia o emissioni rispetto ai centri dati terrestri."
       ],
       "questions": [
         {
@@ -157,10 +161,10 @@
           "role": "reporting"
         },
         {
-          "outlet": "Tech Current",
-          "title": "Daily Brief October 31 2026",
-          "url": "https://teccurrent.com/articles/daily-brief-2026-10-31/",
-          "publishedAt": "2026-10-31",
+          "outlet": "The Verge",
+          "title": "Google’s satellite AI server transmits its first response to Earth",
+          "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "publishedAt": "2026-10-30T18:21:00Z",
           "role": "reporting"
         }
       ],
@@ -187,13 +191,17 @@
         "Il procedimento può riguardare libertà negoziale, compensazione dei contenuti e concorrenza fra piattaforme e mezzi di informazione, ma l'autorità deve acquisire prove e ascoltare le parti. La CMA ha avviato separatamente richieste di informazioni su Meta One: è un dossier diverso e non va confuso con la nuova istruttoria sui termini dei publisher."
       ],
       "facts": [
-        "le misure o date esplicite dei paragrafi 1 e 2 sono verificate nelle fonti indicate; dichiarazioni industriali rimangono attribuite."
+        "Il 30 ottobre la CMA britannica ha annunciato un'indagine ai sensi del Competition Act 1998 sui termini commerciali proposti da Meta.",
+        "Le clausole esaminate potrebbero permettere a Meta di utilizzare contenuti dei siti degli editori per prodotti e servizi, inclusi sistemi di AI.",
+        "Secondo la cronologia della CMA, i termini previsti per il 30 ottobre erano stati rinviati al 20 novembre e sospesi da Meta il 28 ottobre."
       ],
       "perspectives": [
-        "interpretazioni societarie e letture tecniche o regolatorie sono attribuite alle parti citate nel testo."
+        "La CMA indaga se Meta abbia una posizione dominante e, in tal caso, se le clausole costituiscano un abuso.",
+        "Meta contesta le ragioni dell'indagine e dichiara di aver sospeso l'attuazione in attesa di consultazioni."
       ],
       "unknowns": [
-        "i risultati attesi, le prove successive e gli esiti di indagini o test non sono disponibili alla data descritta."
+        "La presenza di una posizione dominante rilevante e di un abuso non è stata ancora accertata dall'autorità.",
+        "Tempi, esito e testo eventualmente modificato delle condizioni contrattuali non sono definiti."
       ],
       "questions": [
         {
@@ -258,13 +266,17 @@
         "Chi ha installato proprio la versione 2.1.313 nell'intervallo indicato dovrebbe seguire le istruzioni pubblicate da Cursor, cercare l'eventuale chiave SSH 'svc-telemetry' e valutare isolamento della macchina e rotazione delle credenziali accessibili. L'esistenza di fino a cinquemila utenti esposti non è il numero accertato delle postazioni effettivamente compromesse; un'analisi forense resta necessaria per identificare accessi abusivi riusciti."
       ],
       "facts": [
-        "le misure o date esplicite dei paragrafi 1 e 2 sono verificate nelle fonti indicate; dichiarazioni industriali rimangono attribuite."
+        "Secondo BleepingComputer e Ars Technica, il 29 ottobre il marketplace Cursor ha distribuito una versione alterata 2.1.313 dell'estensione Claude Code.",
+        "Il codice aggiunto tentava di installare una chiave SSH persistente, attivare un tunnel e inviare metadati del computer a un server esterno.",
+        "Cursor ha indicato fino a 5.000 potenziali utenti interessati, rimosso il pacchetto dannoso e pubblicato la versione 2.1.314."
       ],
       "perspectives": [
-        "interpretazioni societarie e letture tecniche o regolatorie sono attribuite alle parti citate nel testo."
+        "Cursor dichiara che il pacchetto non è stato prodotto da Anthropic e chiede agli utenti interessati di controllare i sistemi.",
+        "Gli analisti citati da Ars Technica e BleepingComputer descrivono un rischio di compromissione della filiera di distribuzione delle estensioni."
       ],
       "unknowns": [
-        "i risultati attesi, le prove successive e gli esiti di indagini o test non sono disponibili alla data descritta."
+        "Non è stata chiarita pienamente la modalità con cui il codice alterato è stato inserito sotto un'identità verificata nel marketplace.",
+        "Il numero di postazioni effettivamente compromesse o di segreti sottratti non coincide necessariamente con i download e non è stato accertato."
       ],
       "questions": [
         {
@@ -329,13 +341,17 @@
         "Reuters riferisce che l'FBI ha attribuito l'azione a un gruppo legato alla Corea del Nord, TraderTraitor. Tale attribuzione investigativa può essere riportata come valutazione delle autorità, non come sentenza definitiva; una ricostruzione tecnica completa del passaggio d'accesso è ancora necessaria. I compratori dei token meno liquidi potrebbero incontrare ulteriori difficoltà nel sostituirli alle quotazioni correnti, motivo per cui il 10% residuo può richiedere più tempo."
       ],
       "facts": [
-        "le misure o date esplicite dei paragrafi 1 e 2 sono verificate nelle fonti indicate; dichiarazioni industriali rimangono attribuite."
+        "Il 31 ottobre Binance ha dichiarato di aver rimpiazzato con fondi propri circa il 90% del valore degli asset mancanti dopo l'attacco del 29 ottobre.",
+        "Il reintegro dichiarato del valore non equivale al recupero forense del 90% dei token originariamente rubati.",
+        "Binance ha annunciato uno snapshot delle riserve al 31 ottobre e verifiche crittografiche successive previste per il 3 novembre; Reuters riferiva che i prelievi erano ancora sospesi."
       ],
       "perspectives": [
-        "interpretazioni societarie e letture tecniche o regolatorie sono attribuite alle parti citate nel testo."
+        "Binance afferma di voler ristabilire la copertura dei clienti acquistando token sostitutivi e collaborando ai congelamenti.",
+        "Reuters e CoinDesk distinguono la copertura con fondi aziendali dai fondi congelati e dall'eventuale restituzione ai clienti."
       ],
       "unknowns": [
-        "i risultati attesi, le prove successive e gli esiti di indagini o test non sono disponibili alla data descritta."
+        "La quantità e il valore definitivi dei token originali effettivamente recuperati dagli attaccanti non sono confermati.",
+        "La verifica completa delle riserve annunciata per il 3 novembre e la riapertura effettiva dei prelievi non sono avvenute nel momento descritto."
       ],
       "questions": [
         {
