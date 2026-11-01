@@ -10,5 +10,8 @@
     "build": "npm run build -w src/frontend",
     "test:content": "npm run test:content -w src/frontend",
     "test:e2e": "npm run test:e2e -w src/frontend"
+  },
+  "overrides": {
+    "rollup": "4.66.0"
   }
 }
