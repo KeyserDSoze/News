@@ -10,19 +10,19 @@ Letti sul branch `main`: `README.md`, `docs/EDITORIAL_POLICY.md`, `docs/CONTRIBU
 
 | Sezione | Bozze IT/EN complete in Markdown | Articoli con asset e JSON finali | Quota |
 | --- | ---: | ---: | ---: |
-| Mondo | 1 | 0 | 10 |
+| Mondo | 2 | 0 | 10 |
 | Italia | 1 | 0 | 5 |
 | Tecnologia | 0 | 0 | 5 |
 | Scienza | 0 | 0 | 5 |
-| **Totale** | **2** | **0** | **25** |
+| **Totale** | **3** | **0** | **25** |
 
-**Quattro Q&A per bozza bilingue**, cioè 2 domande italiane + 2 inglesi per articolo, **8 domande con risposta** in totale. Verifica semantica manuale dei due testi; non è stato eseguito il test automatico sul JSON di edizione, perché non esiste. Immagini non acquisite. **Nessun merge, deploy o validazione di edizione.**
+**Quattro Q&A per bozza bilingue**, cioè 2 domande italiane + 2 inglesi per articolo, **12 domande con risposta** in totale. Verifica semantica manuale dei due testi; non è stato eseguito il test automatico sul JSON di edizione, perché non esiste. Immagini non acquisite. **Nessun merge, deploy o validazione di edizione.**
 
 ## Mondo — piste e stato
 
 1. **Komyshuvakha, 2 novembre: bombe su scuola/punto aiuti e rifugio, 26 morti secondo i soccorsi ucraini.** **BOZZA IT/EN REDATTA**, nel file `world-komyshuvakha-bilingual.md`. Reuters 2/11: https://www.reuters.com/world/ukraines-zelenskiy-russian-bombing-kills-18-southeastern-zaporizhzhia-region-2026-11-02/ ; AP 2/11: https://apnews.com/article/717372f7bbf4e8a805bc918f06f9730f . Il vecchio 18 nel percorso Reuters non è il bilancio finale; distinguere 18/24/26 e i dispersi. Guardian è in larga parte agenzie, non terza conferma indipendente: https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha . **Non sovrapporre a Oleshky** (Kherson) né presentare intenzionalità come accertata.
 
-2. **Belgio, 2 novembre: Bart De Wever offre le dimissioni dopo fallimento negoziato di bilancio; re non ha ancora accettato.** Reuters 2/11: https://www.reuters.com/business/belgian-government-crisis-looms-budget-talks-collapse-de-tijd-reports-2026-11-02/ ; AP 2/11: https://apnews.com/article/d6e28f97ddcf13c3b358201c4d45cf7e . **Doppia redazione reperita, non ancora confronto integrale riga per riga né bozza.** Non dire governo già dimesso.
+2. **Belgio, 2 novembre: Bart De Wever offre le dimissioni dopo fallimento negoziato di bilancio; re non ha ancora accettato. BOZZA IT/EN REDATTA** in `world-belgium-budget-bilingual.md`. Reuters 2/11: https://www.reuters.com/business/belgian-government-crisis-looms-budget-talks-collapse-de-tijd-reports-2026-11-02/ ; AP 2/11: https://apnews.com/article/d6e28f97ddcf13c3b358201c4d45cf7e . **Doppia redazione confrontata e bozza bilingue preparata; fonte primaria Palazzo reale ancora da acquisire.** Non dire governo già dimesso.
 
 3. **Iran/USA, 2 novembre: colloqui indiretti a Doha terminati senza svolta; contatti proseguono.** Reuters 2/11: https://www.reuters.com/world/middle-east/iranians-have-left-doha-talks-draft-proposal-us-deal-being-circulated-official-2026-11-02/ . È un **aggiornamento** della trattativa del 1/11 (https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/). **Manca secondo reportage indipendente sullo specifico aggiornamento**, non pubblicare.
 
@@ -71,7 +71,7 @@ Letti sul branch `main`: `README.md`, `docs/EDITORIAL_POLICY.md`, `docs/CONTRIBU
 ## Verifiche editoriali e tecniche
 
 - **Fatti vs attribuzioni:** bilanci ucraini attribuiti, intenzionalità non accertata; dati auto misurati separati da previsioni UNRAE; previsioni di attacchi AI non confuse con incidenti.
-- **Q&A IT/EN:** 2 coppie per articolo nelle due bozze, contenuto specifico e semanticamente corrispondente; non contengono le formule vietate né duplicano `unknowns`. **Audit tecnico `scripts/editorial-questions.mjs` non eseguito sui JSON**; audit manuale non sostituisce il test.
+- **Q&A IT/EN:** 2 coppie per articolo nelle tre bozze, contenuto specifico e semanticamente corrispondente; non contengono le formule vietate né duplicano `unknowns`. **Audit tecnico `scripts/editorial-questions.mjs` non eseguito sui JSON**; audit manuale non sostituisce il test.
 - **Non creati:** otto JSON, immagini e relativi metadati di licenza, indice edizione.
 - **Non eseguiti:** `npm run test:content`, `npm run build`, `npm run test:e2e` / Playwright su questa edizione; nessuna CI di pubblicazione da dichiarare.
-- **Blocco:** 23 articoli bilingui completi ancora mancanti, fonti indipendenti incomplete per la maggioranza delle piste, nessun asset, nessuna validazione completa. **NON unire in main.**
+- **Blocco:** 22 articoli bilingui completi ancora mancanti, fonti indipendenti incomplete per la maggioranza delle piste, nessun asset, nessuna validazione completa. **NON unire in main.**
