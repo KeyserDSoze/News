@@ -19,10 +19,11 @@
   "sources": [
     {
       "outlet": "UNFCCC",
-      "title": "About COP31",
-      "url": "https://unfccc.int/cop31/about",
-      "publishedAt": "2026-11-06",
-      "role": "official"
+      "title": "COP31 Host Country Agreement enters into force",
+      "url": "https://unfccc.int/news/cop31-host-country-agreement-enters-into-force",
+      "publishedAt": "2026-10-09",
+      "role": "official",
+      "notes": "Dated primary document for host conference preparations; Reuters and Guardian (6 Nov) substantiate COP31 agenda and Nov 9–20 schedule"
     },
     {
       "outlet": "Reuters",
