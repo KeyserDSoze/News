@@ -122,5 +122,20 @@
       }
     ]
   },
-  "imageStatus": "NOT ACQUIRED — original or licensed image required before publication"
+  "imageStatus": "STAGED ORIGINAL CC0 ILLUSTRATION IN DRAFT ASSETS — NOT YET IN PRODUCTION NEWS DIRECTORY",
+  "draftImage": {
+    "src": "docs/editorial-drafts/2026-11-07/assets/california-ab1709-platform-lawsuits.svg",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-07/docs/editorial-drafts/2026-11-07/assets/california-ab1709-platform-lawsuits.svg",
+    "kind": "illustration",
+    "credit": "O / Oggettivizzatore — original AI-assisted vector artwork, 2026-11-07",
+    "license": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+    "alt_it": "Telefono stilizzato con schede di contenuto e scudo con numero 16, immagine concettuale",
+    "alt_en": "Stylised phone showing generic feed tiles and shield marked 16; conceptual illustration"
+  },
+  "audit": {
+    "independentNewsroomsVerified": true,
+    "notes": "Independent named newsrooms identified; editorial sign-off still required before issue publication.",
+    "questionsTestedWithRepositoryFunction": true,
+    "qaSemanticMatchReviewed": true
+  }
 }
