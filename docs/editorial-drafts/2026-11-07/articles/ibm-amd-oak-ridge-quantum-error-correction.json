@@ -1,0 +1,114 @@
+{
+  "id": "ibm-amd-oak-ridge-quantum-error-correction",
+  "rank": 4,
+  "section": "technology",
+  "category": "technology",
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "quantistico",
+      "supercalcolo",
+      "errori"
+    ],
+    "en": [
+      "quantum",
+      "supercomputing",
+      "errors"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "IBM",
+      "title": "Oak Ridge National Lab, IBM, and AMD Launch New Co-Design Platform for Quantum Error Correction",
+      "url": "https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab%2C-ibm%2C-and-amd-launch-new-co-design-platform-for-quantum-error-correction",
+      "publishedAt": "2026-11-05",
+      "role": "official"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "IBM, AMD and Oak Ridge National Laboratory launch quantum error correction platform",
+      "url": "https://www.reuters.com/technology/ibm-amd-oak-ridge-national-laboratory-launch-quantum-error-correction-platform-2026-11-05/",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Register",
+      "title": "Quantum error correction and AMD GPU computing at Oak Ridge",
+      "url": "https://www.theregister.com/2026/11/06/ibm_amd_quantum_error_correction/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "IBM, AMD e Oak Ridge uniscono calcolo classico e quantistico per studiare la correzione degli errori",
+    "dek": "Il banco di prova collega chip quantistici IBM al supercalcolo Umbra con GPU AMD; non è ancora un computer quantistico tollerante ai guasti.",
+    "summary": "Il 5 novembre 2026 IBM, AMD e l'Oak Ridge National Laboratory hanno annunciato un'infrastruttura congiunta per sperimentare la correzione degli errori quantistici. La piattaforma associa processori IBM, incluso Nighthawk a 120 qubit, al sistema classico Umbra con acceleratori AMD. L'obiettivo è valutare decodifica e coordinamento in tempo reale, non certificare il raggiungimento di calcolo quantistico già pienamente affidabile.",
+    "body": [
+      "IBM, il Quantum Science Center presso l'Oak Ridge National Laboratory e AMD hanno presentato il 5 novembre una piattaforma di co-progettazione per la correzione degli errori nei computer quantistici. L'annuncio ufficiale è stato esaminato da Reuters e dalla stampa tecnica nei giorni successivi. L'iniziativa utilizza processori quantistici IBM, tra cui il nuovo Nighthawk a 120 qubit fisici, insieme a Umbra, un sistema di calcolo ad alte prestazioni dotato di GPU AMD Instinct MI355X e CPU EPYC di quinta generazione. Il numero di qubit indica le unità fisiche del chip, non una quantità equivalente di qubit logici già affidabili.",
+      "Le informazioni quantistiche sono sensibili a rumore e imperfezioni fisiche, che possono corrompere i risultati durante una computazione. La correzione degli errori codifica la stessa informazione in più qubit fisici e sfrutta misure ripetute per individuare indizi di errore senza misurare direttamente lo stato logico. Un decodificatore classico interpreta rapidamente questi segnali e indica quali correzioni applicare. Qui entrano in gioco i processori AMD: eseguono i calcoli di decodifica e permettono di misurare le esigenze di tempo, memoria ed energia.",
+      "IBM ha messo a disposizione accesso a funzionalità di controllo a livello di impulsi e a misure effettuate durante l'esecuzione dei circuiti. Questo consente al gruppo di studiare l'interazione fra algoritmo, geometria dei qubit e hardware che elabora i segnali. La collaborazione rientra nella missione statunitense Quantum Genesis, che punta entro il 2028 a sistemi con 100 qubit logici capaci di compiere 100.000 operazioni 'hard' secondo la definizione del programma. Un obiettivo futuro non è un risultato già acquisito e neppure un impegno che garantisca prestazioni commerciali.",
+      "Secondo IBM, esperimenti precedenti del suo programma hanno mostrato fino a 70 qubit logici e 438 operazioni 'hard' nel sistema di tracciamento citato; tra queste misure e il traguardo del 2028 resta un ampio divario. Le capacità dimostrate su banchi di prova diversi non vanno assimilate a un unico computer universale. Reuters sottolinea l'interesse per il collegamento fra software classico e macchine quantistiche, ma il successo operativo del banco di prova andrà verificato con metriche riproducibili. La notizia è una collaborazione tecnologica concreta, non la soluzione definitiva del problema degli errori quantistici."
+    ],
+    "facts": [
+      "Il 5 novembre IBM, AMD e ORNL hanno annunciato una piattaforma di co-progettazione per la correzione degli errori quantistici.",
+      "L'infrastruttura combina hardware IBM incluso Nighthawk da 120 qubit con Umbra equipaggiato con GPU MI355X e CPU EPYC.",
+      "Il traguardo 2028 citato comprende 100 qubit logici e 100.000 operazioni hard; è una finalità di ricerca."
+    ],
+    "perspectives": [
+      "IBM e AMD sostengono che l'integrazione con il supercalcolo possa rendere più rapida la decodifica necessaria per proteggere i qubit.",
+      "I reporter distinguono il lancio della piattaforma dai risultati prestazionali ancora da dimostrare su larga scala."
+    ],
+    "unknowns": [
+      "Non sono stati pubblicati confronti indipendenti completi dei costi e dei tempi della nuova piattaforma contro tutte le alternative.",
+      "Il raggiungimento dei traguardi dichiarati per il 2028 resta un obiettivo, non un esito assicurato."
+    ],
+    "impactReason": "La correzione degli errori è uno dei principali ostacoli allo sviluppo quantistico, ma l'annuncio riguarda un'infrastruttura sperimentale e non capacità dimostrate su scala industriale.",
+    "questions": [
+      {
+        "question": "Che compito svolgono le GPU AMD nell'esperimento quantistico IBM–Oak Ridge?",
+        "answer": "Le GPU svolgono il lavoro classico del decodificatore: interpretano le misurazioni dei circuiti quantistici e calcolano rapidamente quali errori siano più probabili e quali azioni correttive usare. Non sostituiscono i qubit, ma gestiscono parte del controllo necessario a proteggerli."
+      },
+      {
+        "question": "Perché i 120 qubit del chip Nighthawk non equivalgono ai 100 qubit logici fissati come obiettivo per il 2028?",
+        "answer": "Nighthawk conta qubit fisici, singole unità esposte a errori; un qubit logico affidabile richiede di combinare più unità fisiche con protocolli di correzione. L'obiettivo del programma specifica inoltre un elevato numero di operazioni protette, capacità che il solo conteggio del chip non dimostra."
+      }
+    ]
+  },
+  "en": {
+    "title": "IBM, AMD and Oak Ridge pair classical and quantum hardware to study error correction",
+    "dek": "The research platform links IBM quantum processors to AMD-powered Umbra supercomputing; fault-tolerant quantum computing remains a target.",
+    "summary": "On November 5, 2026, IBM, AMD and Oak Ridge National Laboratory announced a shared platform to research quantum error correction. It pairs IBM processors, including the 120-physical-qubit Nighthawk, with the Umbra classical supercomputing system using AMD accelerators. The objective is to test real-time decoding and orchestration, not to claim a fully reliable quantum computer has already been achieved.",
+    "body": [
+      "IBM, Oak Ridge National Laboratory's Quantum Science Center and AMD presented a new quantum error-correction co-design platform on November 5. Reuters and specialist technology coverage examined the company's technical announcement. The platform combines IBM quantum processors, including its 120-physical-qubit Nighthawk system, with Umbra, a high-performance computing installation powered by AMD Instinct MI355X GPUs and fifth-generation EPYC CPUs. Physical-qubit counts must not be confused with equal numbers of error-corrected logical qubits.",
+      "Quantum information is sensitive to noise and imperfect operations that can spoil calculations. Quantum error correction distributes information across multiple physical qubits and repeatedly measures error indicators without directly observing the encoded logical state. A classical decoder rapidly interprets those signals to infer which corrections should be made. AMD's hardware provides that classical computation, allowing teams to compare decoding speed, memory needs and other resource costs under different protocols.",
+      "IBM is offering researchers pulse-level control and access to measurements taken while quantum circuits execute. This supports experiments on how code design, physical-qubit layout and classical computation interact. The initiative aligns with the US Quantum Genesis Mission, whose 2028 goal includes 100 logical qubits and 100,000 'hard' operations as defined by the programme. Those numbers describe an objective that has not yet been achieved rather than a guaranteed commercial product.",
+      "IBM says earlier programme experiments reached up to 70 logical qubits and 438 hard operations in the tracking framework it cites, a substantial gap from the announced 2028 target. Demonstrations on differing experimental systems should not be conflated with one general-purpose machine. Reporting identifies the integration of classical and quantum computers as the immediate technological development; independently reproducible performance measures are needed to assess the value of the new platform. The announcement does not mark a final solution to quantum computing's error problem."
+    ],
+    "facts": [
+      "IBM, AMD and ORNL launched a joint quantum-error-correction research platform on November 5.",
+      "It includes IBM Nighthawk, described as having 120 physical qubits, and AMD-powered Umbra classical hardware.",
+      "The stated 2028 programme target is 100 logical qubits and 100,000 hard operations, not a current result."
+    ],
+    "perspectives": [
+      "IBM and AMD say co-designed classical decoding could accelerate scalable error correction.",
+      "Technical coverage treats the platform launch as distinct from future demonstrations of sustained error-corrected computation."
+    ],
+    "unknowns": [
+      "Independent comparative measurements of the platform's speed and resource requirements are not yet established.",
+      "Whether the research programme will reach its 2028 targets remains unknown."
+    ],
+    "impactReason": "Error correction is central to useful quantum computers, but the announcement concerns research infrastructure rather than a validated industrial-scale capability.",
+    "questions": [
+      {
+        "question": "What role do AMD GPUs play in the IBM–Oak Ridge quantum-error-correction platform?",
+        "answer": "The GPUs run classical decoders that interpret measurements from quantum circuits, estimate likely errors and calculate corrective actions quickly. They do not replace qubits, but support the control loop required to protect quantum information."
+      },
+      {
+        "question": "Why aren't Nighthawk's 120 physical qubits equivalent to the 100 logical qubits targeted for 2028?",
+        "answer": "A physical qubit is an error-prone unit, while one reliably encoded logical qubit generally requires multiple physical qubits and correction procedures. The 2028 goal also demands many protected operations, which the chip's qubit count alone cannot establish."
+      }
+    ]
+  },
+  "status": "DRAFT — technical source links to recheck and mandatory issue validation",
+  "issueDate": "2026-11-07"
+}
