@@ -1,0 +1,755 @@
+{
+  "date": "2026-11-07",
+  "language": "en",
+  "section": "world",
+  "publishedAt": "2026-11-07T12:13:37+01:00",
+  "editorialNote": "world edition, November 7, 2026. Reporting window November 6 07:00–November 7 07:00 Europe/Rome, with material developments from the previous five days. Event dates, statements, estimates and evidence are distinguished; all covers are original illustrations, not photographs.",
+  "articles": [
+    {
+      "id": "us-october-2026-jobs-bls",
+      "rank": 1,
+      "category": "economy",
+      "title": "US payrolls rise by 165,000 in October as unemployment stands at 4.1%",
+      "dek": "The November 6 BLS report beats expectations; upward revisions to previous months coexist with pressure on households' purchasing power.",
+      "summary": "The Bureau of Labor Statistics estimated that US nonfarm payrolls rose by 165,000 in October 2026, while the unemployment rate stood at 4.1%. August and September estimates were revised upward by a combined 84,000 jobs. Average hourly wages rose 3.1% over 12 months, so resilient employment does not automatically translate into stronger real purchasing power.",
+      "body": [
+        "On November 6, 2026, at 8:30 a.m. Eastern time, the Bureau of Labor Statistics (BLS) released its October employment report. Nonfarm payrolls increased by 165,000 while unemployment stood at 4.1%, little changed in the broader recent context. The household survey counted approximately 7.1 million unemployed people. Reuters and the Associated Press compared payroll growth with a roughly 65,000-job market forecast; that forecast is an expectation collected from economists, not an official BLS outcome.",
+        "The release draws on two different surveys. The establishment survey estimates changes in paid jobs, hours and earnings, while the household survey measures people's labor-force status and underlies the unemployment rate. Their figures cannot simply be treated as interchangeable counts because their coverage and concepts differ. Professional and business services contributed 70,000 additional jobs according to BLS. Health care and transportation and warehousing also grew, while employment changed little across several other major industries.",
+        "BLS raised its combined estimates for August and September by 84,000: August increased from 133,000 to 186,000 and September from 29,000 to 60,000. These revisions reflect newly received employer responses and updated seasonal factors. The report is therefore a statistical estimate rather than a final census of every job. Average monthly payroll growth over the previous year was considerably lower than October's figure, and one strong month cannot on its own establish a sustained acceleration in hiring.",
+        "Average hourly earnings for private-sector employees rose 14 cents, or 0.4%, to $38, and were 3.1% higher year on year. AP noted that nominal pay growth can coexist with deteriorating purchasing power when prices rise faster. Economists quoted in the coverage suggested the resilient labor market could give the Federal Reserve more room to focus on inflation, but those are assessments of future policy, not an interest-rate decision already taken. BLS has scheduled the November employment report for December 4."
+      ],
+      "facts": [
+        "BLS October employment data released November 6: nonfarm payrolls +165,000 and unemployment 4.1%.",
+        "August and September payroll estimates were revised up by a combined 84,000, according to BLS.",
+        "Private-sector average hourly earnings reached $38.00, up 0.4% month on month and 3.1% over 12 months."
+      ],
+      "perspectives": [
+        "Reuters and AP cited economists' expectations of roughly 65,000 payroll additions, below the official release; the forecast is not a BLS measurement.",
+        "Economists interviewed by AP expected the report to strengthen the case for a Fed rate rise; no such decision is established by the report."
+      ],
+      "unknowns": [
+        "October's preliminary estimates may be revised in subsequent monthly reports.",
+        "A single employment release cannot establish how durable the hiring rebound will be or the net path of real household income."
+      ],
+      "questions": [
+        {
+          "question": "Why can BLS report 165,000 additional payroll jobs and 4.1% unemployment at the same time?",
+          "answer": "The 165,000 figure comes from an establishment survey measuring the change in nonfarm payroll jobs; 4.1% comes from a household survey measuring unemployed people as a share of the labor force. They are complementary measures with different coverage rather than two counts of the same population."
+        },
+        {
+          "question": "What does the 84,000-job BLS revision for August and September actually change?",
+          "answer": "Fresh employer responses and statistical adjustments increased the combined payroll gains previously estimated for those two months by 84,000. That changes the recent hiring picture, but it does not mean 84,000 jobs were added in October, and October's own estimate remains subject to revision."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The report matters internationally for jobs, consumption and potential interest-rate policy, but a single monthly release does not warrant an exceptional impact level.",
+      "tags": [
+        "employment",
+        "United-States",
+        "wages"
+      ],
+      "sources": [
+        {
+          "outlet": "U.S. Bureau of Labor Statistics",
+          "title": "The Employment Situation — October 2026",
+          "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+          "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "US continues to generate jobs, yet inflation is eroding the spending power of millions of Americans",
+          "url": "https://apnews.com/article/jobs-inflation-paycheck-salary-employment-746ee02db33d0372980f815ada33d8d3",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/us-october-2026-jobs-bls.svg",
+        "alt": "Abstract workforce, office buildings and unscaled bars; illustration rather than data chart",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/us-october-2026-jobs-bls.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "canary-islands-rescues-nov6",
+      "rank": 2,
+      "category": "society",
+      "title": "Canary Islands rescue 3,261 people in six days as officials warn of pressure on services",
+      "dek": "Early-November arrivals strain El Hierro in particular; weekly peaks must be distinguished from the longer-term trend.",
+      "summary": "Spanish maritime rescuers assisted 3,261 people along the Canary Islands route between November 1 and 6, 2026, Reuters reported. EFE separately documented more than 1,021 people brought ashore between late November 5 and November 6 and one death. Regional president Fernando Clavijo described pressure on healthcare and transport as unsustainable, although overall 2026 arrivals remain below 2024 levels.",
+      "body": [
+        "On November 6, 2026, the Canary Islands government drew attention to a sharp acceleration of maritime rescues on the Atlantic route from West Africa to the Spanish archipelago. Reuters, reporting from La Restinga, said Spanish maritime rescue services had helped 3,261 people in the first six days of November. Canary Islands president Fernando Clavijo described the recent pace as unsustainable for islands with limited healthcare and transport capacity. That is his attributed political assessment, not an independently measured failure of public services.",
+        "Spain's EFE news agency described rescue operations between Thursday evening, November 5, and Friday, November 6, involving El Hierro, Lanzarote and Gran Canaria. It reported more than 1,021 people disembarking with assistance and one death. The two outlets cover different, overlapping periods: adding 1,021 to 3,261 would count some operations twice. These totals describe rescues or assisted arrivals, not all journeys attempted or the complete number of people at sea.",
+        "El Hierro, with a population of around 11,400, faces acute logistical challenges when boats arrive together. Clavijo said regular buses had been reassigned to support migrant reception and medical personnel had come from other islands. The crossing can last many days in overcrowded craft and expose passengers to dehydration and rough conditions, requiring medical triage as well as transport. Reuters reported one body recovered after boats reached the area on November 5; that case should not be conflated with a final count of all fatalities over the period.",
+        "The wider statistical context is essential. Reuters notes that arrivals during the first ten months of 2026 were almost 61% lower than in the corresponding part of 2024, even though the latest week approached an unusually high pace. Clavijo linked the recent increase in departures partly to calmer seas, but weather alone cannot explain why people undertake hazardous migration. What is verified is a concentrated surge in rescues; how long the increase will last and its consequences for future reception capacity remain open."
+      ],
+      "facts": [
+        "Reuters reports 3,261 people rescued on the Canary route between November 1 and 6, 2026.",
+        "EFE counted more than 1,021 assisted arrivals from late November 5 into November 6 and one death, a shorter overlapping period.",
+        "Reuters says arrivals over the first ten months of 2026 were nearly 61% below the same period in 2024."
+      ],
+      "perspectives": [
+        "Regional president Clavijo characterised the pressure on El Hierro's healthcare and transport services as unsustainable.",
+        "Reuters and EFE describe hazardous crossings and distinguish a sharp short-term rise from annual totals."
+      ],
+      "unknowns": [
+        "Neither a full count of unobserved crossings nor a definitive death toll for the period can be established from these reports.",
+        "The duration of the sudden increase in arrivals is not yet known."
+      ],
+      "questions": [
+        {
+          "question": "How should Reuters' 3,261 rescues be compared with the 1,021-plus arrivals described by EFE?",
+          "answer": "Reuters' figure covers rescues across November 1–6, whereas EFE describes a subset of operations from late November 5 into November 6. The periods overlap, so adding the figures would double-count people and would still not measure every attempted crossing."
+        },
+        {
+          "question": "Why can the El Hierro surge strain services when total arrivals in 2026 are below 2024?",
+          "answer": "A yearly comparison measures a long period, while hundreds of people arriving in one night create an immediate need for buses, medical workers and reception space. On an island with around 11,400 residents, the timing of arrivals can be as important to service capacity as the annual total."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Concentrated rescues directly affect lives and the services of a small island, even though the latest figures do not establish a record annual migration total.",
+      "tags": [
+        "Canaries",
+        "migration",
+        "rescue"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Migrant surge to Spain's Canary Islands is unsustainable, authorities say",
+          "url": "https://www.reuters.com/world/migrant-surge-spains-canary-islands-is-unsustainable-authorities-say-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "EFE",
+          "title": "Desembarcan en El Hierro, Lanzarote y Gran Canaria a más de 1.021 migrantes, uno fallecido",
+          "url": "https://efe.com/canarias/2026-11-06/desembarcan-en-el-hierro-lanzarote-y-gran-canaria-a-mas-de-1-021-migrantes-uno-fallecido/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/canary-islands-rescues-nov6.svg",
+        "alt": "Barca di soccorso stilizzata sulle onde atlantiche, non fotografia dei soccorsi",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/canary-islands-rescues-nov6.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "somalia-supreme-court-term-ruling",
+      "rank": 3,
+      "category": "politics",
+      "title": "Somalia's Supreme Court says presidential term has expired and orders elections within 90 days",
+      "dek": "The November 5 ruling rejects an automatic term extension, deepening a separation-of-powers crisis without immediately resolving succession.",
+      "summary": "Somalia's Supreme Court ruled on November 5, 2026, that changes to the length of presidential and parliamentary terms do not automatically extend the mandates of officials already in office. It gave political actors 30 days to agree on an electoral framework and 90 days to hold elections. The president's office had not accepted the decision when newsrooms reported the dispute on November 6.",
+      "body": [
+        "Somalia's Supreme Court issued a constitutional ruling on November 5 challenging the continued mandates of the country's elected institutions. The Somali outlet Garowe Online reported that the judges placed parliament's original expiry date on April 14, 2026 and President Hassan Sheikh Mohamud's on May 15. The Associated Press independently described the central legal holding: amendments adopted earlier this year do not, in the court's view, automatically give incumbent officials additional time in office.",
+        "The ruling calls for a political agreement on election arrangements within 30 days and elections themselves within 90 days. It also distinguishes routine caretaker administration from broader political decisions. The judgment does not fully determine who would exercise every presidential function if the institutions failed to cooperate. Nor does a judicial deadline by itself guarantee that a national election can be organised without agreement among regional authorities and adequate security.",
+        "The decision followed a confrontation between the presidency and senior judges. Mohamud had sought to dismiss Chief Justice Baashe Yusuf Ahmed, an action that the court rejected as invalid and harmful to judicial independence. AP also notes the recent closure of a United Nations political mission that previously helped rival factions negotiate. Earlier armed clashes in Mogadishu and the continuing threat from al-Shabaab heighten the risks of prolonged institutional paralysis.",
+        "The presidency has advocated direct elections, while opposition figures and regional administrations object to parts of the current process and timing. As of the November 6 reporting, the presidency had not delivered a definitive response to AP about compliance with the judgment. The court's asserted legal authority therefore needs to be distinguished from its practical enforceability, which depends on political and security cooperation. A concrete next development would be agreement on a credible electoral framework."
+      ],
+      "facts": [
+        "The Supreme Court ruled on November 5 that constitutional term extensions do not automatically apply to current officeholders.",
+        "Judges ordered an election framework agreement within 30 days and elections within 90 days.",
+        "Garowe Online reported original expiry dates of April 14 for parliament and May 15 for the presidency."
+      ],
+      "perspectives": [
+        "The justices defended the original mandates and limited caretaker activity to routine administration.",
+        "The presidency promotes direct elections, while opposition and regional leaders contest the process and its legitimacy."
+      ],
+      "unknowns": [
+        "The president's acceptance of the ruling was not established when the November 6 reports appeared.",
+        "The logistics, security and enforceability of an election within 90 days remain unsettled."
+      ],
+      "questions": [
+        {
+          "question": "Why did Somalia's Supreme Court refuse to apply the 2026 term extension automatically to the president?",
+          "answer": "As reported by local coverage of the judgment, extending a term requires clarity about whether amendments also cover officials already serving. Without such a provision, the court treated the original expiry dates as controlling and restricted the institutions' authority to caretaker functions."
+        },
+        {
+          "question": "What is the distinction between the court's 30-day and 90-day deadlines?",
+          "answer": "Political leaders have 30 days to agree on how elections should be organised. The 90-day deadline is for holding the elections themselves, a further stage requiring practical arrangements, security and cooperation across the country."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "A dispute over the legitimacy of state leadership and the election timetable has major implications in a country facing armed insecurity.",
+      "tags": [
+        "Somalia",
+        "elections",
+        "judiciary"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Somalia's top court rules president's term extension is unlawful, deepening power struggle",
+          "url": "https://apnews.com/article/0beacddf6ba0ef748fc99be4b45e0051",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Garowe Online",
+          "title": "Somalia: Supreme Court rules president, parliament terms expired, orders elections within 90 days",
+          "url": "https://www.garoweonline.com/index.php/en/news/somalia/somalia-supreme-court-rules-president-parliament-terms-expired-orders-elections-within-90-days",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Africanews / AFP",
+          "title": "Political chaos in Somalia after court ruling against president's term extension",
+          "url": "https://www.africanews.com/2026/11/07/political-chaos-in-somalia-after-court-ruling-against-presidents-term-extension/",
+          "publishedAt": "2026-11-07",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/somalia-supreme-court-term-ruling.svg",
+        "alt": "Urna elettorale e bilancia della giustizia, illustrazione non documentaria",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/somalia-supreme-court-term-ruling.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "miller-replaces-wiles-white-house",
+      "rank": 4,
+      "category": "politics",
+      "title": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+      "dek": "Announced November 6 and effective November 9, the transition follows Republicans' loss of Congress, though Trump denies the election caused the change.",
+      "summary": "US President Donald Trump announced on November 6, 2026 that Stephen Miller would become White House chief of staff on Monday, November 9, succeeding Susie Wiles, who is moving to the president's political operation. The announcement follows Republican losses in the midterms; the timing does not itself establish what motivated the personnel change.",
+      "body": [
+        "On November 6, President Donald Trump selected Stephen Miller, previously deputy chief of staff for policy, as the next White House chief of staff. The White House confirmed the choice, and Reuters, the Associated Press and CBS News reported it independently. The appointment takes effect on November 9, so the operational handover had not yet occurred in the reporting window. Susie Wiles, who had led the staff through the first part of Trump's second term, is moving to the president's political organisation.",
+        "The announcement came days after the November 3 midterm elections delivered Democratic control of both chambers of Congress. This institutional shift makes passing legislation without negotiation with the opposition harder and may increase pressure on executive methods. Reuters interprets Miller's promotion as a signal of continuity or a more confrontational approach to domestic policy. That is a newsroom assessment, not evidence that the incoming chief of staff has already issued new policies.",
+        "Miller has worked closely with Trump for years and is associated with restrictive immigration policies and expansive interpretations of executive authority. A chief of staff manages personnel coordination, presidential access and administrative priorities, but cannot independently pass laws or replace courts and Congress. The appointment is consequential for how an administration functions even when its formal policy platform stays unchanged.",
+        "Trump said the choice was not a reaction to the electoral outcome and praised Wiles's service. Democratic lawmakers criticised the promotion and signalled stronger oversight, while presidential allies welcomed it. These are attributed political positions. The impact on immigration measures, congressional relations and staffing decisions can only be assessed after the transition and subsequent actions."
+      ],
+      "facts": [
+        "Trump announced Miller's appointment on November 6, effective November 9.",
+        "The White House said Wiles would move to Trump's political operation.",
+        "Democrats won congressional majorities in the November 3 elections, context distinct from the unproven motivation for the staffing change."
+      ],
+      "perspectives": [
+        "Trump denies that election results drove the replacement and praises Wiles.",
+        "Reuters and AP assess strategic implications; Democratic critics and Trump allies express competing political opinions."
+      ],
+      "unknowns": [
+        "Practical staffing and policy changes are not observable before Miller assumes his role.",
+        "The full internal reasons for Wiles's departure have not been independently established."
+      ],
+      "questions": [
+        {
+          "question": "What will Miller control as White House chief of staff beginning November 9?",
+          "answer": "The chief of staff coordinates White House personnel, sets priorities for internal decision-making and manages access to the president. Miller's policy background will influence that role, but the position does not confer independent power to enact laws or override Congress."
+        },
+        {
+          "question": "Why could Miller's promotion affect relations with Congress after November 3?",
+          "answer": "New Democratic majorities can obstruct legislation and investigate executive decisions. A senior aide associated with aggressive immigration policies may shape how the administration responds through executive action, but those are possible consequences rather than steps already taken."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "The White House's operational leadership matters for policymaking in a global power following a change in congressional control, but no new legislation has resulted yet.",
+      "tags": [
+        "White-House",
+        "United-States",
+        "government"
+      ],
+      "sources": [
+        {
+          "outlet": "White House",
+          "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+          "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+          "url": "https://www.reuters.com/world/us/trump-says-stephen-miller-become-chief-staff-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat",
+          "url": "https://apnews.com/article/95690fe076f6bb8cfe2bf77435a1910d",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CBS News",
+          "title": "Stephen Miller to replace Susie Wiles as White House chief of staff, Trump says",
+          "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/miller-replaces-wiles-white-house.svg",
+        "alt": "Edificio istituzionale e cartellina di incarico, senza ritratti",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/miller-replaces-wiles-white-house.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "europe-friday-bomb-threats-flights-media",
+      "rank": 5,
+      "category": "society",
+      "title": "Another wave of bomb threats disrupts European flights and broadcasters on November 6",
+      "dek": "AP cites eleven aviation threats that day, while the Guardian counts at least 18 affected flights using a different measure; no devices were found.",
+      "summary": "On November 6, 2026, renewed bomb warnings prompted checks and diversions of flights across Europe, as well as evacuations at some broadcasters. AP reported eleven threats to flights that day, while the Guardian counted at least eighteen affected air services. Authorities found no explosives in the reported searches and had not conclusively identified who issued the warnings.",
+      "body": [
+        "Friday, November 6 brought another wave of bomb warnings affecting European aviation after earlier incidents during the week. The Associated Press gathered updates from national transport and security agencies, while the Guardian reconstructed developments through reporting across several countries. Flights involving Prague, Sofia, Paris and Rome were subjected to searches, diversions or fighter escorts. No explosives were found in the inspections described and no injuries had been reported within the period covered.",
+        "The reported numbers do not count exactly the same thing. European transport commissioner Apostolos Tzitzikostas cited eleven threats on Friday, fourteen on Thursday and seven on Tuesday according to AP. The Guardian counted at least eighteen Friday flights affected operationally, which may involve different consequences from individual warnings. Adding these figures as if each were a unique aircraft or evacuated passenger would be misleading without case-by-case reconciliation.",
+        "Threats also reached news organisations, including Ireland's public broadcaster RTÉ, where premises were briefly evacuated, and media outlets in Britain and Bulgaria. Air operators have to treat warnings as possible dangers until checks show otherwise, even when a wave of threats is suspected to be fraudulent. Diversions, security escorts and inspections can impose genuine disruption and costs even if a bomb is not present.",
+        "Officials and commentators have suggested a coordinated or hybrid campaign, but neither perpetrators nor state direction had been proven by investigators. Spain's foreign minister Albares raised the prospect of a common pattern while urging further investigation; the Guardian reported no conclusive attribution. The verified November 6 news concerns transport and newsroom disruption, not the truth of unverified claims about those responsible."
+      ],
+      "facts": [
+        "AP reports eleven bomb threats to flights on November 6, while the Guardian records at least eighteen affected flights using a different count.",
+        "No explosive devices were found in the reported security searches.",
+        "Broadcasting organisations including RTÉ also received threats and temporarily disrupted operations."
+      ],
+      "perspectives": [
+        "Albares and other officials suggest coordination could be involved, without established attribution.",
+        "Aviation authorities argue each potential threat requires a safety response even when it may be a hoax."
+      ],
+      "unknowns": [
+        "The individuals or organisations responsible have not been conclusively identified.",
+        "Whether the incidents across separate days were centrally coordinated is unproven."
+      ],
+      "questions": [
+        {
+          "question": "Why does AP report eleven threats but the Guardian at least eighteen affected flights on November 6?",
+          "answer": "AP cites the European transport commissioner's number of reported threats, whereas the Guardian counts air services affected by their consequences. These are different units, and one warning can lead to several operational responses, so the numbers must not be treated as interchangeable."
+        },
+        {
+          "question": "How can an unfounded bomb warning disrupt a flight when no device is found?",
+          "answer": "Airlines and security authorities must first check the plane and protect passengers, sometimes ordering escorts, diversions, searches or temporary evacuations. The delays and costs are real consequences even if investigators ultimately find no bomb."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The warnings disrupted transport and media services across several states without confirmed explosive devices or injuries.",
+      "tags": [
+        "aviation",
+        "security",
+        "Europe"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "European flights and broadcasters are targeted with another wave of bomb threats",
+          "url": "https://apnews.com/article/31e26bfeb744b9ce8b81b73dbac6a4b8",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+          "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/europe-friday-bomb-threats-flights-media.svg",
+        "alt": "Aereo stilizzato e scudo di verifica della sicurezza",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/europe-friday-bomb-threats-flights-media.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "fincen-mexc-crypto-transfer-order",
+      "rank": 6,
+      "category": "economy",
+      "title": "FinCEN issues order barring US bank transfers involving cryptocurrency exchange MEXC Global",
+      "dek": "The US Treasury alleges at least $16 billion in illicit transactions; the restriction takes effect after official Federal Register publication.",
+      "summary": "On November 6, 2026 the US Treasury's Financial Crimes Enforcement Network announced an order prohibiting US financial institutions from processing transfers involving cryptocurrency exchange MEXC Global. The agency alleges the exchange facilitated at least $16 billion in illicit transactions from 2021 to 2026. The figure is a government allegation, not a final court conviction.",
+      "body": [
+        "On November 6, the US Treasury's Financial Crimes Enforcement Network (FinCEN) announced an order targeting cryptocurrency exchange MEXC Global. It prohibits US financial institutions from sending or receiving fund transfers involving the exchange, cutting off an important connection to the American financial system. Reuters and specialist publication The Block covered the measure and distinguished it from separate sanctions announced the same day against eight Canadian money-services businesses.",
+        "Treasury alleges that between May 2021 and May 2026, MEXC Global facilitated at least $16 billion in transfers associated with sanctions evasion, cybercrime and actors linked to Iran, North Korea and Russia. It says approximately $1 billion involved direct transfers with more than forty Iranian crypto exchanges. These figures reflect the agency's investigation and claims, not a judicial determination that every identified transfer has been conclusively proven criminal.",
+        "FinCEN issued the order under section 9714(a) of the Combating Russian Money Laundering Act. The restriction applies to US banks and other covered intermediaries; it is not a worldwide technical shutdown of internet access or automatic seizure of every global MEXC customer's cryptocurrency. Treasury says it becomes effective thirty days after publication in the Federal Register, so the date of the November 6 announcement must be separated from the legal compliance date.",
+        "Treasury argues the measure reduces sanctioned organisations' ability to move funds through the US financial system. The reports do not establish how every customer will be affected or what workarounds will emerge. The order could change access to dollar counterparties, while its actual effect on the exchange's liquidity and compliance remains to be measured. It also raises wider questions about whether anti-money-laundering supervision in digital-asset markets is effective."
+      ],
+      "facts": [
+        "FinCEN announced a ban on US institutional fund transfers involving MEXC Global on November 6.",
+        "Treasury's $16 billion figure for 2021–26 is the agency's alleged illicit volume, not a judicial judgment.",
+        "The order is to take effect thirty days after Federal Register publication."
+      ],
+      "perspectives": [
+        "US Treasury officials describe the measure as a response to sanctions evasion and financial crime.",
+        "The order focuses on US intermediaries, while its broader impact on global users is not established."
+      ],
+      "unknowns": [
+        "The total volume of transfers actually disrupted once the order takes effect has not been measured.",
+        "The reviewed sources provide no final judicial findings on every transaction alleged by Treasury."
+      ],
+      "questions": [
+        {
+          "question": "Who is directly bound by FinCEN's order concerning MEXC Global?",
+          "answer": "US financial institutions are prohibited from processing fund transfers that involve the exchange. The order does not mean the agency has seized every customer's wallet or disabled the platform for all countries."
+        },
+        {
+          "question": "What does Treasury's allegation of at least $16 billion connected to MEXC measure?",
+          "answer": "It is the minimum transaction volume FinCEN says was linked to illicit schemes between May 2021 and May 2026, based on its analysis. It is not a sum of criminal proceeds recovered by authorities or the amount of a final criminal sentence."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The order matters for dollar access and compliance in crypto markets, but its actual economic effects are unmeasured.",
+      "tags": [
+        "cryptocurrency",
+        "sanctions",
+        "finance"
+      ],
+      "sources": [
+        {
+          "outlet": "US Treasury",
+          "title": "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
+          "url": "https://home.treasury.gov/news/press-releases/sb0685/",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+          "url": "https://www.reuters.com/world/middle-east/us-treasury-sanctions-canadian-money-services-firms-over-iran-related-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Block",
+          "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+          "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/fincen-mexc-crypto-transfer-order.svg",
+        "alt": "Rete digitale di trasferimenti e simbolo di blocco del flusso",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/fincen-mexc-crypto-transfer-order.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "bank-of-england-nov5-rate-rise",
+      "rank": 7,
+      "category": "economy",
+      "title": "Bank of England lifts interest rate to 4% in an eight-to-one vote",
+      "dek": "The November 5 quarter-point rise responds to energy costs and 3.5% inflation, with the central bank warning of wider price pressures.",
+      "summary": "On November 5, 2026, the Bank of England's monetary policy committee raised Bank Rate to 4%, a quarter-point increase approved eight votes to one. The bank reported inflation at 3.5% and projected roughly 5% by mid-2027 amid energy-price increases linked to conflict in the Middle East. The latter figure is a conditional forecast, not recorded inflation.",
+      "body": [
+        "The UK's central bank increased its policy rate from 3.75% to 4% on November 5, 2026. Eight members of the Monetary Policy Committee supported the move and one opposed it. The Bank of England published the decision and individual policy statements, covered independently by Reuters and the Guardian. This is a rate decision that took effect on November 5, rather than a prediction about what the committee may do at a later meeting.",
+        "The bank's stated concern is inflation, currently 3.5% against a 2% target. Its assessment links higher energy costs to supply and transport disruption caused by the conflict in the Middle East. The projection of inflation approaching 5% by mid-2027 depends on future energy prices and economic demand. It should not be presented as a measured outcome or an unavoidable event.",
+        "Higher policy rates tend to make borrowing more expensive and can restrain consumption, reducing some upward pressure on prices over time. How fast the changes reach mortgages, business loans or savings depends on contract structures and decisions by lenders. Governor Andrew Bailey argued that policy must prevent energy price shocks from spreading across the economy, not that higher rates can immediately reduce every household expense.",
+        "The dissenting vote shows members differ about the trade-off between inflation and growth. Reuters reported that some policymakers saw a possible case for further increases if inflation pressures do not ease, but those conditional opinions are not binding future decisions. The bank lists its next rate decision for December 17. What is established now is the change in credit conditions, which should be distinguished from projections about their future path."
+      ],
+      "facts": [
+        "Bank Rate rose by 0.25 percentage points to 4% on November 5, 2026.",
+        "The committee voted eight to one for the decision.",
+        "The bank reported 3.5% inflation and projected around 5% by mid-2027 as a forecast."
+      ],
+      "perspectives": [
+        "Governor Bailey argues higher energy costs could spread into broader inflation.",
+        "Committee members differ on whether subsequent rate increases will be necessary if price pressures persist."
+      ],
+      "unknowns": [
+        "Actual energy prices and mid-2027 inflation cannot yet be known.",
+        "Effects on individual borrowers vary with contracts and cannot be calculated from the headline rate alone."
+      ],
+      "questions": [
+        {
+          "question": "What exactly does the eight-to-one Bank of England vote for a 4% Bank Rate mean?",
+          "answer": "Eight of the nine Monetary Policy Committee members supported a 25-basis-point increase from 3.75% to 4%, while one opposed it. The tally describes the November 5 decision and does not predetermine how members will vote next time."
+        },
+        {
+          "question": "Why can more expensive energy lead the Bank of England to raise borrowing costs?",
+          "answer": "Energy prices affect fuel, household bills and business costs, and those increases can spread into other prices. Higher rates aim to reduce demand and prevent inflation becoming persistent, while also increasing financing costs for households and firms."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The rate change affects UK credit conditions and responds to global energy disruptions, but is one monetary decision rather than a historic economic transformation.",
+      "tags": [
+        "Britain",
+        "inflation",
+        "rates"
+      ],
+      "sources": [
+        {
+          "outlet": "Bank of England",
+          "title": "Interest rates and Bank Rate: our latest decision",
+          "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
+          "publishedAt": "2026-11-05",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Bank of England policymakers set out views on rates outlook",
+          "url": "https://live.euronext.com/en/financial-news/bank-england-policymakers-set-out-views-rates-outlook-0",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Bank of England interest rate decision, pound, inflation and oil",
+          "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/bank-of-england-nov5-rate-rise.svg",
+        "alt": "Banca centrale stilizzata e quadrante per costo del denaro",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/bank-of-england-nov5-rate-rise.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "ukraine-zelensky-written-postwar-guarantees",
+      "rank": 8,
+      "category": "politics",
+      "title": "Zelenskyy presses allies for written postwar security guarantees ahead of further talks",
+      "dek": "The demand follows November 4–5 consultations in Brussels; trilateral talks in Abu Dhabi are planned, not already completed.",
+      "summary": "On November 6, 2026 Ukrainian President Volodymyr Zelenskyy reiterated his demand for written allied commitments detailing the response to any future Russian attack after a possible peace agreement. The request follows two days of Brussels discussions about security and reconstruction. Three-way talks in Abu Dhabi were expected the following week, but no signed settlement had been reached.",
+      "body": [
+        "In an interview aired late on November 5 and reported on November 6, Ukrainian President Volodymyr Zelenskyy called for detailed written guarantees from Western partners. The central question is how the United States and European allies would respond if Russia launched another attack after the current war ended. The Associated Press documented his demand and consultations in Brussels, while Reuters reported the Kremlin's views of future European security discussions.",
+        "Meetings in Brussels on November 4–5 involved representatives from Ukraine, the United States, European states, EU institutions and financial organisations. They discussed postwar security, rebuilding and financial support for 2027. Multilateral consultations are not a signed treaty: credible guarantees would have to specify the kind of assistance, the triggering conditions and who would be obliged to act. Those mechanisms had not been finalised in the reviewed material.",
+        "Kremlin spokesman Dmitry Peskov said on November 6 that Moscow had received no concrete European proposals and believed European countries would eventually have to join talks about security arrangements. This is the Kremlin's attributed claim, not proof that Europe has been excluded from all negotiations. Trump referred to the possibility of a broad deal affecting Europe, without producing a signed text. AP said Ukraine, Russia and the United States were due to meet in Abu Dhabi the following week.",
+        "Diplomacy continues alongside attacks affecting civilians and critical infrastructure. AP reported strikes on energy facilities and an increasing death toll from the November 2 attack on a humanitarian centre in Komyshuvakha. Those casualty numbers were still being updated and are not the focus of this report. The concrete November 6 development is the call for enforceable commitments if a settlement is reached, rather than a ceasefire already achieved."
+      ],
+      "facts": [
+        "Zelenskyy called for specific written guarantees in comments aired November 5 and reported November 6.",
+        "Brussels hosted talks on reconstruction and security guarantees November 4–5.",
+        "Abu Dhabi trilateral talks were scheduled for the following week, with no peace accord signed during the covered period."
+      ],
+      "perspectives": [
+        "Zelenskyy considers generic promises inadequate to deter another Russian invasion.",
+        "Peskov argues that European governments have yet to present a shared concrete position, a claim attributable to Moscow."
+      ],
+      "unknowns": [
+        "Allies have not published an agreed mechanism for responding to renewed aggression.",
+        "The outcome and final participation in future negotiations cannot be assumed."
+      ],
+      "questions": [
+        {
+          "question": "What would written guarantees provide beyond the general allied promises Zelenskyy objects to?",
+          "answer": "They would specify military and political assistance, which partners would provide it, and under what conditions a new Russian attack would trigger a response. Brussels discussions addressed these arrangements without producing a binding treaty."
+        },
+        {
+          "question": "Why don't planned talks in Abu Dhabi amount to an agreement securing Ukraine?",
+          "answer": "A scheduled meeting provides an opportunity for delegations to discuss proposals but does not itself create binding guarantees, a ceasefire or an implementation timetable. Kiev's requested commitments had not been finalised by November 6."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Future security guarantees and reconstruction could shape the course of a major European war, but no binding agreement has yet been reached.",
+      "tags": [
+        "Ukraine",
+        "negotiations",
+        "security"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees",
+          "url": "https://apnews.com/article/713268db3dac59bff6ad6c831c72cdb6",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Kremlin accuses Europe of struggling to decide who will speak for it at future Ukraine security talks",
+          "url": "https://www.investing.com/news/world-news/kremlin-accuses-europe-of-struggling-to-decide-who-will-speak-foritat-future-ukraine-security-talks-5007079",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Ukraine war briefing: Zelenskyy says Russia has damaged every power plant as he seeks Latin American help",
+          "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/ukraine-zelensky-written-postwar-guarantees.svg",
+        "alt": "Documento e scudo di garanzia, nessun accordo reale raffigurato",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/ukraine-zelensky-written-postwar-guarantees.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "cop31-antalya-agenda-before-opening",
+      "rank": 9,
+      "category": "climate",
+      "title": "COP31 opens in Antalya on November 9 with fossil fuels and climate finance on the agenda",
+      "dek": "Negotiations have not begun yet; Turkey's presidency and Australia's negotiation chair face conflicting energy priorities.",
+      "summary": "Ahead of COP31 in Antalya, scheduled for November 9–20, 2026, Reuters and the Guardian on November 6 highlighted fossil-fuel reductions, clean electrification and financing for vulnerable countries as central issues. Turkey hosts and presides over the conference, while Australia leads negotiations. No final COP31 agreement existed on this edition's date.",
+      "body": [
+        "The United Nations' thirty-first climate conference is scheduled for November 9–20 at Antalya in Türkiye. On November 6 Reuters and the Guardian examined expected proposals and disagreements, but the official opening was still in the future relative to the November 7 edition. The world leaders' summit is planned for November 11 and 12. The dates and location come from the UN Framework Convention on Climate Change, making it essential to distinguish a programme from decisions that might later be negotiated.",
+        "The event has an unusual division of responsibilities: Turkish minister Murat Kurum is the COP president, while Australian minister Chris Bowen chairs negotiations. The Guardian traces the arrangement to a dispute over hosting rights. The two countries have substantial links to coal, one as a consumer and the other as an exporter, while many negotiating partners want a faster transition away from fossil fuels. Their stated ambitions do not mean governments have already agreed a global phaseout schedule.",
+        "Finance discussions address funding for emissions reductions, adaptation to climate harms and support for lower-income countries. Reuters draws on UN figures showing that adaptation funding from developed countries reached $28.2 billion in 2024, compared with estimated needs of roughly $305 billion annually in developing countries. These measures have differing scopes, but together illustrate a financing gap rather than a single contractually due payment of the same size.",
+        "Ideas circulated ahead of the summit include a goal of supplying 35% of final energy demand through electricity by 2035, according to the Guardian. This is a proposed target, not an agreed outcome as of November 7. Talks will also examine methane, efficiency, grid development and support for workers during the energy transition. Final language and figures depend on negotiations yet to begin; the public interest lies in the stated priorities and the gap between aspiration and implementation."
+      ],
+      "facts": [
+        "UNFCCC schedules COP31 in Antalya for November 9–20, with a leaders' summit November 11–12.",
+        "Turkish minister Murat Kurum is the designated COP president and Australia's Chris Bowen chairs negotiations.",
+        "Reuters cites 2024 adaptation funding of $28.2 billion and estimated annual developing-country adaptation needs of $305 billion."
+      ],
+      "perspectives": [
+        "Reuters focuses on the difficulty of converting fossil-fuel promises into action and finance.",
+        "The Guardian examines the tension between the two leading countries' coal interests and the clean-electricity agenda."
+      ],
+      "unknowns": [
+        "There can be no final COP31 deal before negotiations begin after the edition date.",
+        "Pre-summit proposals such as the electrification goal may change or fail to be adopted."
+      ],
+      "questions": [
+        {
+          "question": "How are responsibilities divided between Turkey and Australia at COP31 in Antalya?",
+          "answer": "Turkey hosts the summit and minister Murat Kurum is its formal president, while Australian minister Chris Bowen leads the negotiating process. The compromise does not give either state authority to impose an outcome unilaterally on all participating parties."
+        },
+        {
+          "question": "Why does the $28.2 billion adaptation funding figure for 2024 fall short of the $305 billion estimate?",
+          "answer": "The first number measures finance attributed to developed countries during a past year, while the second estimates developing nations' annual adaptation needs. They indicate a large resource gap under different measures, not a completed COP31 financial settlement."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "UN climate negotiations are global in scope, but the present story concerns preparations and existing gaps, not an agreement that has yet to be reached.",
+      "tags": [
+        "COP31",
+        "climate",
+        "finance"
+      ],
+      "sources": [
+        {
+          "outlet": "UNFCCC",
+          "title": "COP31 Host Country Agreement enters into force",
+          "url": "https://unfccc.int/news/cop31-host-country-agreement-enters-into-force",
+          "publishedAt": "2026-10-09",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Fossil fuel cuts and finance top COP31 agenda",
+          "url": "https://www.reuters.com/sustainability/fossil-fuel-cuts-finance-top-cop31-agenda-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Cop31 will expose the conflicts and contradictions of the world's fossil fuel reliance",
+          "url": "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance",
+          "publishedAt": "2026-11-06",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/cop31-antalya-agenda-before-opening.svg",
+        "alt": "Globo e foglia per conferenza sul clima, non fotografia del vertice",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/cop31-antalya-agenda-before-opening.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "us-stocks-nov6-rebound-weekly-loss",
+      "rank": 10,
+      "category": "economy",
+      "title": "Wall Street ends the week lower despite a November 6 Nasdaq rebound",
+      "dek": "The Nasdaq rose 1.1% on Friday but lost 3.4% across the week as technology-share volatility continued after the US midterms.",
+      "summary": "US markets finished November 6, 2026 mixed: the Nasdaq rose 1.1% and the S&P 500 gained 0.3%, while the Dow slipped 0.5%, according to closing figures reported by AP and Reuters. For the full week, the Nasdaq fell 3.4% and the S&P 500 lost 2.7%. Proposed reasons for the price swings reflect market interpretations rather than established single-cause explanations.",
+      "body": [
+        "Friday's November 6 trading session on Wall Street interrupted, at least temporarily, a sharp selloff in technology shares. The Associated Press recorded the Nasdaq Composite closing at 24,579.42, up 1.1%, and the S&P 500 at 7,376.86, up 0.3%. The Dow Jones Industrial Average was down 0.5%, ending at 51,285.73. Reuters' own market-close coverage also documented a rebound among AI-related shares and mixed broader market performance.",
+        "The full week's numbers remained negative despite the final session. AP reported a 3.4% weekly decline in the Nasdaq, 2.7% in the S&P 500 and 0.9% in the Dow. These are index price changes, not estimates of cash flows into or out of investment funds and not the realised loss of every saver. Calculating an individual's result would require information about holdings, purchase dates and trading costs. A daily quote must be kept distinct from the outcome of an investment strategy.",
+        "The trading followed a week marked by the November 3 US midterm elections, a steep technology selloff on Thursday November 5, and a stronger-than-expected employment report on November 6. Reuters described traders' concerns about potentially tougher AI regulation under a Democratic-led Congress and changes in Treasury yields. These are attributed market explanations. A price movement by itself cannot prove that one political event or data release caused it.",
+        "Semiconductor manufacturers and other companies tied to AI recovered part of their recent losses, but Reuters noted the Nasdaq had suffered a fourth straight negative week. The contrast between Thursday's selloff and Friday's rebound illustrates why a single session cannot be called a lasting reversal. Market prices influence investors and the cost of capital, but the short-term recovery does not establish an improvement in future technology-company profits."
+      ],
+      "facts": [
+        "At the November 6 close the Nasdaq gained 1.1%, the S&P 500 0.3% and the Dow fell 0.5%.",
+        "Weekly losses were 3.4% for the Nasdaq, 2.7% for the S&P 500 and 0.9% for the Dow.",
+        "Reuters reported a rebound in semiconductor shares while the Nasdaq still registered its fourth negative week in a row."
+      ],
+      "perspectives": [
+        "Market participants quoted by Reuters point to potential AI regulation after elections and bond yields as factors in volatility.",
+        "One rebound session does not substantiate a claim that the earlier downtrend has definitively ended."
+      ],
+      "unknowns": [
+        "No exclusive causal explanation for the index movements is established.",
+        "The durability of the bounce and its implication for future returns are not known from these closes."
+      ],
+      "questions": [
+        {
+          "question": "How could the Nasdaq rise 1.1% on November 6 but fall 3.4% for the week?",
+          "answer": "The 1.1% compares Friday's close with Thursday's, whereas the -3.4% compares Friday November 6 with the previous Friday October 30. A one-day rebound can reduce but not fully offset steeper losses accumulated earlier in the week."
+        },
+        {
+          "question": "Why isn't concern about future AI regulation a proven cause of the index selloff?",
+          "answer": "Reuters cites traders considering new Democratic congressional majorities and possible rules alongside interest rates and valuations. Index prices combine many trades and expectations, so the observations cannot isolate one causal driver."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Global markets and investment decisions are affected by price changes, but the episode is a weekly fluctuation without a proven structural shift.",
+      "tags": [
+        "Wall-Street",
+        "markets",
+        "technology"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "How major US stock indexes fared Friday 11/6/2026",
+          "url": "https://apnews.com/article/806f71d95105bc7efbc760b194dd8cad",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US STOCKS-Nasdaq rebounds but posts fourth straight weekly decline",
+          "url": "https://www.fidelity.com/news/article/us-markets/202611061602RTRSNEWSCOMBINED_L6N46N1AI_1",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/us-stocks-nov6-rebound-weekly-loss.svg",
+        "alt": "Barre finanziarie stilizzate senza quotazioni reali",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/us-stocks-nov6-rebound-weekly-loss.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    }
+  ]
+}
