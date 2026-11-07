@@ -1,0 +1,121 @@
+{
+  "id": "google-education-search-ai-clarification",
+  "rank": 5,
+  "section": "technology",
+  "category": "technology",
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "Google",
+      "scuola",
+      "ricerca"
+    ],
+    "en": [
+      "Google",
+      "schools",
+      "search"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Google",
+      "title": "Google for Education: more choice and controls for responsible AI for learning",
+      "url": "https://blog.google/outreach-initiatives/education/responsible-ai-for-learning-schools-2026/",
+      "publishedAt": "2026-11-03",
+      "role": "official"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Google will cut off search access for students at schools that reject AI",
+      "url": "https://apnews.com/article/7ba4219e505db1c11d672f6eefe7155a",
+      "publishedAt": "2026-11-04",
+      "role": "reporting"
+    },
+    {
+      "outlet": "TechCrunch",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "publishedAt": "2026-11-04",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Ars Technica",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Google chiarisce i controlli AI per le scuole: Gemini disattivabile, Search resta integrato con l'AI",
+    "dek": "Dopo le proteste del 3–4 novembre, la società distingue le app di Gemini dalla ricerca: le scuole possono scegliere singoli servizi, ma non una Search priva di AI.",
+    "summary": "Google ha chiarito il 5 novembre 2026 che le scuole K–12 potranno attivare Search e mantenere disabilitate le app Gemini, dopo le critiche alla politica annunciata il 3 novembre. Search continuerà però a incorporare funzioni AI. La scelta completamente senza intelligenza artificiale implica rinunciare a Google Search per gli account studenteschi gestiti: non è una modifica retroattiva a tutte le ricerche Internet.",
+    "body": [
+      "Il 3 novembre Google ha annunciato nuovi controlli per gli amministratori delle scuole statunitensi K–12 che utilizzano i suoi servizi educativi. Gli strumenti interessati comprendono Gemini, Gemini Notebook, funzioni in Classroom e il motore Search, che vengono presentati come elementi attivabili dalle scuole. Associated Press e TechCrunch hanno riportato le reazioni di insegnanti, gruppi di tutela dei minori e politici: la comunicazione iniziale sembrava imporre una scelta fra usare l'AI e perdere l'accesso alla ricerca Google agli studenti.",
+      "In una chiarificazione riportata da Ars Technica il 5 novembre, Google ha precisato che i singoli servizi possono essere abilitati separatamente. Un istituto può lasciare disattivate le app Gemini e mantenere Search per gli account degli studenti. La distinzione è operativa: non comporta che l'uso di Gemini chatbot sia obbligatorio per chi usa Search. Tuttavia il motore include già risposte sintetiche automatiche e una modalità di ricerca conversazionale e non viene proposta per le scuole una versione priva di ogni funzione di AI.",
+      "Google presenta una modalità 'Guided Learning' che dovrebbe accompagnare gli studenti nel ragionamento senza fornire semplicemente risposte pronte. Si tratta di un obiettivo progettuale e commerciale dichiarato dall'azienda, non di una dimostrazione indipendente che gli allievi imparino di più o che il sistema non possa essere usato per copiare. Critici citati da AP e TechCrunch osservano che la dipendenza delle scuole dalle piattaforme Google può rendere difficile scegliere alternative, specialmente dove i Chromebook e Classroom sono già diffusi.",
+      "Il nodo concreto riguarda la possibilità per una scuola di consentire una ricerca tradizionale senza prodotti generativi. La società permette di spegnere le app di conversazione dedicate ma integra l'AI nelle caratteristiche standard del motore. Le impostazioni verranno introdotte nei mesi successivi e i dettagli applicativi possono variare secondo le modalità di gestione. La notizia del 5 novembre è una chiarificazione documentata della configurazione prevista, non la chiusura già operativa del motore per tutte le scuole."
+    ],
+    "facts": [
+      "Google ha annunciato la politica il 3 novembre; il 5 novembre ha chiarito che Gemini e Search possono essere abilitati separatamente.",
+      "Le funzioni di intelligenza artificiale integrate in Search rimangono associate alla ricerca Google per le scuole che la scelgono.",
+      "Gli amministratori delle scuole avranno più controlli; l'implementazione completa è futura rispetto all'edizione."
+    ],
+    "perspectives": [
+      "Google afferma che le nuove scelte rispondono alla richiesta delle scuole di maggiore controllo sull'AI.",
+      "Critici citati da AP e TechCrunch sostengono che un motore di ricerca senza AI dovrebbe restare disponibile e che la dipendenza dagli strumenti Google limita la libertà di scelta."
+    ],
+    "unknowns": [
+      "Non è stato dimostrato il beneficio educativo netto di Guided Learning con valutazioni indipendenti su larga scala.",
+      "L'implementazione dettagliata e le scelte effettive di scuole e distretti non sono ancora note."
+    ],
+    "impactReason": "La modifica incide sulle impostazioni di prodotti molto diffusi in ambito scolastico, ma gli effetti pedagogici reali saranno verificabili solo dopo l'adozione.",
+    "questions": [
+      {
+        "question": "Una scuola può attivare Google Search e tenere disattivata l'app Gemini dopo il chiarimento del 5 novembre?",
+        "answer": "Sì. Google ha precisato che gli amministratori potranno abilitare Search separatamente da Gemini e dagli altri strumenti dedicati. Questa separazione non elimina però le funzioni di AI già incorporate nei risultati e nelle modalità della ricerca Google."
+      },
+      {
+        "question": "Che differenza c'è fra disattivare i chatbot e avere una ricerca Google senza AI in classe?",
+        "answer": "Disattivare Gemini impedisce agli account gestiti di usare quella specifica app, mentre Search continua a mostrare funzionalità basate sull'AI. Le scuole che non vogliono alcuna funzione AI non ricevono, secondo il piano annunciato, una versione del motore tradizionale indipendente dalle funzioni generative."
+      }
+    ]
+  },
+  "en": {
+    "title": "Google clarifies school AI settings: Gemini can be disabled while Search retains built-in AI",
+    "dek": "After early-November criticism, the company distinguishes optional Gemini apps from Search, but offers no AI-free version of its search engine to schools.",
+    "summary": "On November 5, 2026, Google clarified that K–12 schools will be able to enable Search while keeping dedicated Gemini apps disabled, following criticism of the policy announced on November 3. Search itself will still contain AI features. Institutions seeking to exclude every Google AI function would also have to disable Google Search for managed student accounts; this is not a general ban on web searches for everyone.",
+    "body": [
+      "Google announced new administrative controls for US K–12 schools using its education services on November 3. The affected products include Gemini, Gemini Notebook, Classroom features and Google Search, which schools will be able to switch on under the planned approach. Associated Press and TechCrunch reported criticism from educators, child advocates and politicians: the initial explanation suggested schools would have to choose between allowing AI and retaining Google Search for student accounts.",
+      "A company clarification reported by Ars Technica on November 5 stated that administrators can enable the individual services separately. A school may leave dedicated Gemini applications disabled while retaining Search for students. This matters: using Search does not automatically require students to use a separate Gemini chatbot. However, Google Search itself already includes generated summaries and conversational search modes, and Google has not offered schools a version free of all those AI features.",
+      "Google also described a 'Guided Learning' version intended to help pupils work through problems rather than immediately supply full answers. That is a product-design promise, not an independent demonstration of improved learning outcomes or an assurance students will never use it to shortcut homework. Critics interviewed by AP and TechCrunch argued that reliance on Google services, including Chromebooks and Classroom, may make switching away difficult for schools that want traditional web search.",
+      "The practical policy question is whether a school can provide ordinary search without generative features. The company allows teachers and administrators to block dedicated chat apps but keeps AI in its standard search product. The controls are expected to roll out over coming months, so actual implementation and adoption remain to be observed. The November 5 news is a clarification of planned settings, not evidence that all schools have already lost access to Google Search."
+    ],
+    "facts": [
+      "Google announced the education setting changes November 3 and clarified on November 5 that Gemini apps and Search can be enabled separately.",
+      "Search retains its AI functions if enabled; the company is not offering schools a fully AI-free search mode.",
+      "The administrative controls are planned for a future rollout rather than fully implemented by November 7."
+    ],
+    "perspectives": [
+      "Google says the settings respond to schools seeking more control over AI exposure.",
+      "Critics quoted by AP and TechCrunch want traditional AI-free search available and argue that school dependence on Google reduces practical choice."
+    ],
+    "unknowns": [
+      "Independent large-scale learning evaluations have not established the net benefit of Guided Learning.",
+      "Detailed rollout and real school or district choices remain to be seen."
+    ],
+    "impactReason": "Settings affect widely used school platforms but their educational consequences require evidence following deployment.",
+    "questions": [
+      {
+        "question": "Can a school enable Google Search while leaving the Gemini app disabled after the November 5 clarification?",
+        "answer": "Yes. Google said administrators could turn on Search independently of Gemini and its other dedicated AI applications. However, that choice does not remove the AI features already integrated into Google's search results and modes."
+      },
+      {
+        "question": "How does disabling chatbots differ from providing AI-free Google Search in a classroom?",
+        "answer": "Disabling Gemini blocks the dedicated app for managed accounts, while Google Search still uses AI-powered summaries and other features. Under the announced plan, schools excluding every AI function are not offered a separate traditional Google search mode without generative features."
+      }
+    ]
+  },
+  "status": "DRAFT — confirm exact Google official source URL",
+  "issueDate": "2026-11-07"
+}
