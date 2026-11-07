@@ -19,8 +19,8 @@
   "sources": [
     {
       "outlet": "Google",
-      "title": "Google for Education: more choice and controls for responsible AI for learning",
-      "url": "https://blog.google/outreach-initiatives/education/responsible-ai-for-learning-schools-2026/",
+      "title": "Responsible AI for schools with Guided Learning",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
       "publishedAt": "2026-11-03",
       "role": "official"
     },
@@ -116,6 +116,6 @@
       }
     ]
   },
-  "status": "DRAFT — confirm exact Google official source URL",
+  "status": "DRAFT – primary source canonical URL verified, not yet approved for publishing",
   "issueDate": "2026-11-07"
 }
