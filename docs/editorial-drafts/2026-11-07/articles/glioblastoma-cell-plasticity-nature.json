@@ -130,5 +130,20 @@
       }
     ]
   },
-  "imageStatus": "NOT ACQUIRED — need original or licensed illustration before any publication"
+  "imageStatus": "STAGED ORIGINAL CC0 ILLUSTRATION IN DRAFT ASSETS — NOT YET IN PRODUCTION NEWS DIRECTORY",
+  "draftImage": {
+    "src": "docs/editorial-drafts/2026-11-07/assets/glioblastoma-cell-plasticity-nature.svg",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-07/docs/editorial-drafts/2026-11-07/assets/glioblastoma-cell-plasticity-nature.svg",
+    "kind": "illustration",
+    "credit": "O / Oggettivizzatore — original AI-assisted vector artwork, 2026-11-07",
+    "license": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+    "alt_it": "Schema astratto di cellule e transizioni ramificate, non immagine medica o microscopica",
+    "alt_en": "Abstract cells and branching transitions; not medical imaging or microscopy"
+  },
+  "audit": {
+    "independentNewsroomsVerified": false,
+    "notes": "Publisher independence still insufficient: institutional/press-release derivatives must not be counted as separate independent original reportage.",
+    "questionsTestedWithRepositoryFunction": true,
+    "qaSemanticMatchReviewed": true
+  }
 }
