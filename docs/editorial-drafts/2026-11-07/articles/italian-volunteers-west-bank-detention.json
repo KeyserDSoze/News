@@ -1,0 +1,115 @@
+{
+  "id": "italian-volunteers-west-bank-detention",
+  "rank": 5,
+  "category": "politics",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "Cisgiordania",
+      "consolato",
+      "volontari"
+    ],
+    "en": [
+      "West-Bank",
+      "consular",
+      "volunteers"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Ministero degli Affari Esteri",
+      "title": "La Farnesina presta assistenza agli attivisti italiani fermati in Cisgiordania per il loro rilascio",
+      "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/11/la-farnesina-presta-assistenza-agli-attivisti-italiani-fermati-in-cisgiordania-per-il-loro-rilascio/",
+      "publishedAt": "2026-11-06",
+      "role": "official"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Attivisti fermati in Cisgiordania, ci sono anche sei italiani",
+      "url": "https://videoembed.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Il Fatto Quotidiano",
+      "title": "Israele arresta la consigliera di Avs Giorgia Lombardi insieme ad altri 13 volontari in Cisgiordania",
+      "url": "https://www.ilfattoquotidiano.it/2026/11/06/cisgiordania-attivisti-italiani-arrestati-notizie/8563438/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Cisgiordania, fermati volontari italiani durante la raccolta delle olive: la Farnesina chiede il rilascio",
+    "dek": "Il ministero parla di quattro attivisti e due giornalisti italiani, ma precisa che l'identificazione è ancora in verifica.",
+    "summary": "Il 6 novembre 2026 le autorità israeliane hanno fermato volontari internazionali presso Kafr Ni'ma, in Cisgiordania, mentre sostenevano la raccolta delle olive dei contadini palestinesi. La Farnesina ha riferito di quattro attivisti e due giornalisti italiani presumibilmente coinvolti, sottolineando che numero e identità andavano verificati. Ambasciata e consolato hanno chiesto chiarimenti e assistenza consolare.",
+    "body": [
+      "Un gruppo di volontari internazionali è stato fermato il 6 novembre dalle autorità israeliane vicino al villaggio palestinese di Kafr Ni'ma, non lontano da Ramallah. Il ministero degli Esteri italiano ha confermato l'intervento diplomatico e ha precisato che tra i fermati potrebbero esserci quattro attivisti e due giornalisti italiani, una ricostruzione ancora soggetta a verifica. ANSA e Il Fatto Quotidiano hanno riferito l'episodio nel corso della stessa giornata. Non è corretto trasformare una stima iniziale in un elenco definitivo di connazionali detenuti.",
+      "Secondo la Farnesina, il gruppo partecipava ad attività di sostegno ai coltivatori palestinesi impegnati nella raccolta delle olive. Il deputato Angelo Bonelli ha denunciato che i volontari sarebbero stati aggrediti e che la polizia avrebbe fermato chi aiutava i contadini anziché i presunti aggressori. Le ricostruzioni sulle violenze e sulle responsabilità appartengono alla dichiarazione di Bonelli, non a un accertamento giudiziario indipendente. Le autorità israeliane non hanno fornito nel materiale consultato una motivazione esaustiva dei singoli fermi.",
+      "Il ministero ha fatto sapere che l'ambasciata d'Italia a Tel Aviv e il consolato generale a Gerusalemme erano intervenuti presso le autorità israeliane per ottenere l'immediato rilascio, chiarire le circostanze e garantire assistenza. Il gruppo risultava presso la stazione di polizia di Modi'in Illit e per il 7 novembre era previsto il trasferimento verso un centro presso l'aeroporto Ben Gurion in vista delle procedure di espulsione. Una procedura annunciata per il giorno successivo non equivale a espulsione già eseguita.",
+      "L'episodio si inserisce nelle tensioni della raccolta delle olive in Cisgiordania, attività agricola centrale per le comunità locali e talvolta accompagnata da controversie sull'accesso ai campi e sulla sicurezza. Il governo italiano, attraverso Antonio Tajani, ha chiesto la rapida liberazione degli interessati. La ricostruzione utile ai cittadini distingue arresto o fermo, accertamento delle generalità e protezione consolare, che sono fasi diverse. Restano necessari aggiornamenti diretti sulle condizioni dei coinvolti e sulle ragioni formali adottate dalle autorità."
+    ],
+    "facts": [
+      "Il 6 novembre la Farnesina ha confermato fermi di volontari internazionali presso Kafr Ni'ma e l'intervento consolare italiano.",
+      "Il ministero ha indicato provvisoriamente quattro attivisti e due giornalisti italiani, con verifica ancora in corso.",
+      "Era previsto per il 7 novembre il trasferimento presso un centro a Ben Gurion in vista di procedure di espulsione."
+    ],
+    "perspectives": [
+      "Bonelli attribuisce l'accaduto a violenze di coloni e contesta la condotta delle forze israeliane; sono sue accuse, non risultati di un'indagine indipendente.",
+      "Tajani e la Farnesina chiedono la liberazione e l'assistenza ai cittadini italiani."
+    ],
+    "unknowns": [
+      "Il numero esatto e l'identità di tutti gli italiani fermati richiedono conferma definitiva.",
+      "L'esito delle eventuali procedure di espulsione e i motivi formali individuali dei fermi non erano ancora pubblici nella finestra osservata."
+    ],
+    "impactReason": "La vicenda comporta conseguenze concrete per la libertà e l'assistenza consolare di cittadini italiani, oltre a riflettere tensioni su un'attività agricola palestinese.",
+    "questions": [
+      {
+        "question": "Quale numero di italiani indicava la Farnesina il 6 novembre nel caso di Kafr Ni'ma?",
+        "answer": "La nota parla, in termini provvisori, di quattro attivisti e due giornalisti italiani fra diversi volontari internazionali, precisando che numero esatto e identità erano in fase di accertamento. La cifra non va trattata come conteggio consolare definitivamente concluso."
+      },
+      {
+        "question": "Che cosa hanno fatto ambasciata e consolato italiani dopo i fermi in Cisgiordania?",
+        "answer": "Hanno chiesto alle autorità israeliane il rilascio immediato degli interessati, chiarimenti sulle circostanze e accesso all'assistenza consolare. La Farnesina prevedeva un trasferimento il giorno seguente in vista dell'espulsione, ma una previsione non costituisce conferma di rimpatrio."
+      }
+    ]
+  },
+  "en": {
+    "title": "Italian volunteers detained during West Bank olive harvest; foreign ministry seeks release",
+    "dek": "Rome cited four activists and two journalists as possibly involved, while warning that identities still required verification.",
+    "summary": "On November 6, 2026, Israeli authorities detained international volunteers near Kafr Ni'ma in the West Bank while they were supporting Palestinian farmers harvesting olives. Italy's foreign ministry reported that four activists and two Italian journalists might be among them, stressing that identities and numbers were still being checked. Italian diplomatic offices requested explanations and consular access.",
+    "body": [
+      "On November 6, Israeli authorities detained international volunteers near the Palestinian village of Kafr Ni'ma, close to Ramallah. Italy's Foreign Ministry confirmed diplomatic involvement and said the people detained might include four Italian activists and two journalists, subject to further verification. ANSA and Il Fatto Quotidiano covered the incident that day. A provisional count should not be turned into a definitive list of detained citizens before consular checks are complete.",
+      "According to the ministry, the group had been helping Palestinian farmers during the olive harvest. Italian lawmaker Angelo Bonelli alleged that volunteers were attacked and that Israeli police detained those helping farmers rather than the suspected assailants. Allegations about violent conduct and individual responsibility remain Bonelli's claims, not independently established judicial findings. The reviewed material did not include a comprehensive official Israeli explanation of each person's detention.",
+      "The ministry said Italy's embassy in Tel Aviv and consulate-general in Jerusalem contacted Israeli authorities to request immediate release, clarification and consular assistance. The group was understood to be at the Modi'in Illit police station. A transfer to a holding facility at Ben Gurion airport was planned for November 7 ahead of possible deportation proceedings. A plan for the following day must not be described as a completed deportation.",
+      "The incident took place amid tensions surrounding olive harvesting in the West Bank, a vital agricultural activity for local communities that has been affected by disputes over access to land and safety. Italian Foreign Minister Antonio Tajani called for a swift release. For public understanding it matters to distinguish temporary detention, verification of identities and consular protection, which are different procedural steps. Direct updates are still needed on the volunteers' situation and the formal grounds applied by authorities."
+    ],
+    "facts": [
+      "Italy's Foreign Ministry confirmed on November 6 that international volunteers had been detained near Kafr Ni'ma and that it was providing consular support.",
+      "It provisionally listed four Italian activists and two journalists, with identities and the final count still under review.",
+      "A transfer near Ben Gurion airport ahead of possible deportation proceedings was planned for November 7."
+    ],
+    "perspectives": [
+      "Lawmaker Bonelli alleged settler violence and challenged the authorities' handling of the incident; these are his allegations, not independently adjudicated findings.",
+      "Foreign Minister Tajani and Italian diplomatic officials sought release and consular protection."
+    ],
+    "unknowns": [
+      "The final number and identities of every detained Italian had not been confirmed by the ministry.",
+      "The outcomes of planned deportation procedures and the specific legal grounds for each detention were not established within the reporting window."
+    ],
+    "impactReason": "The detentions have direct implications for Italian citizens' liberty and consular assistance and form part of broader tensions over a Palestinian agricultural activity.",
+    "questions": [
+      {
+        "question": "What number of Italians did the ministry provisionally give for the Kafr Ni'ma detentions on November 6?",
+        "answer": "The statement provisionally identified four activists and two journalists among the international volunteers and explicitly said the final number and identities still required checking. It was not presented as a completed consular register."
+      },
+      {
+        "question": "How did Italy's embassy and consulate respond to the West Bank detentions?",
+        "answer": "They sought immediate release, explanations of the circumstances and consular access for those involved. A move to a holding centre ahead of deportation was expected the next day, but that expectation was not evidence that anyone had already been repatriated."
+      }
+    ]
+  },
+  "status": "DRAFT NOT FOR PUBLICATION",
+  "section": "italy",
+  "issueDate": "2026-11-07",
+  "imageStatus": "pending original CC0 vector"
+}
