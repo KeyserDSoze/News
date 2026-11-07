@@ -1,0 +1,107 @@
+{
+  "id": "europe-friday-bomb-threats-flights-media",
+  "rank": 5,
+  "category": "society",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "aviazione",
+      "sicurezza",
+      "Europa"
+    ],
+    "en": [
+      "aviation",
+      "security",
+      "Europe"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Associated Press",
+      "title": "European flights and broadcasters are targeted with another wave of bomb threats",
+      "url": "https://apnews.com/article/31e26bfeb744b9ce8b81b73dbac6a4b8",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Nuove minacce bomba su voli e redazioni europee: nessun ordigno trovato il 6 novembre",
+    "dek": "AP riporta undici allarmi aerei nella giornata; il Guardian censisce almeno 18 voli coinvolti, con criteri di conteggio differenti.",
+    "summary": "Il 6 novembre 2026 nuove segnalazioni di bombe hanno causato controlli e deviazioni di voli in più paesi europei, e allarmi hanno interessato anche alcune emittenti. Associated Press riferisce undici minacce contro voli quel giorno, mentre il Guardian conta almeno diciotto collegamenti aerei interessati. Le autorità non hanno trovato ordigni e non hanno identificato con certezza chi abbia inviato le minacce.",
+    "body": [
+      "Venerdì 6 novembre è proseguita la serie di falsi allarmi bomba che aveva interessato l'aviazione europea nei giorni precedenti. Associated Press ha raccolto le comunicazioni delle autorità di trasporto e sicurezza di più Stati; il Guardian ha ricostruito gli episodi in tempo reale con corrispondenti in vari paesi. Voli diretti o provenienti da Praga, Sofia, Parigi e Roma sono stati sottoposti a controlli, deviazioni o accompagnamenti militari. Le ispezioni riferite non hanno trovato esplosivi e non risultavano feriti nella finestra considerata.",
+      "I numeri non sono perfettamente sovrapponibili. Il commissario europeo ai Trasporti Apostolos Tzitzikostas ha parlato, secondo AP, di undici minacce venerdì, contro quattordici giovedì e sette martedì. Il Guardian ha documentato almeno diciotto voli toccati dagli allarmi di venerdì, un conteggio che può includere collegamenti soggetti a conseguenze operative differenti. Sommare le cifre come voli unici o passeggeri evacuati produrrebbe una misura ingannevole senza confrontare casi e definizioni.",
+      "La giornata ha visto anche minacce rivolte a strutture dell'informazione, fra cui l'emittente pubblica irlandese RTÉ, che ha evacuato temporaneamente alcuni locali, e redazioni nel Regno Unito e in Bulgaria. Le autorità devono considerare ogni avviso credibile fino alle verifiche, anche se molti si rivelano falsi. L'impatto economico e operativo può quindi essere reale pur in assenza di una bomba: deviazioni, scorte e controlli impegnano aeroporti, polizie e compagnie.",
+      "Diverse persone e gruppi hanno avanzato interpretazioni su una possibile campagna coordinata o forma di pressione ibrida, ma l'identità dei responsabili e l'eventuale regia statale non sono state provate. Il ministro degli Esteri spagnolo Albares ha ipotizzato una matrice comune e ha chiesto indagini; il Guardian riporta che gli investigatori non avevano stabilito collegamenti certi. La notizia è la perturbazione documentata del 6 novembre, non l'accertamento delle accuse attribuite a soggetti sconosciuti."
+    ],
+    "facts": [
+      "AP riferisce undici minacce contro voli il 6 novembre; il Guardian almeno 18 voli interessati in un conteggio operativo diverso.",
+      "Non sono stati trovati ordigni nelle ispezioni descritte dalle autorità.",
+      "Allarmi hanno interessato anche redazioni come RTÉ in Irlanda e altri media europei."
+    ],
+    "perspectives": [
+      "Albares e altri politici ipotizzano una campagna coordinata; la possibile matrice resta un'ipotesi.",
+      "Le autorità aeronautiche ritengono necessari controlli anche per segnalazioni sospettate di essere falsi allarmi."
+    ],
+    "unknowns": [
+      "Non sono noti con certezza mittenti e motivazioni degli avvisi.",
+      "La relazione fra gli episodi di giorni differenti non è stata accertata in modo conclusivo."
+    ],
+    "impactReason": "Le minacce hanno comportato interruzioni di trasporti e servizi di informazione in più Stati senza feriti o esplosivi confermati.",
+    "questions": [
+      {
+        "question": "Perché AP parla di undici minacce mentre il Guardian indica almeno diciotto voli interessati il 6 novembre?",
+        "answer": "Le fonti utilizzano categorie differenti: undici segnalazioni riferite dal commissario europeo e almeno diciotto collegamenti aerei coinvolti nelle conseguenze degli allarmi secondo il Guardian. Una singola segnalazione può incidere su più operazioni, quindi non vanno trattate come due conteggi identici."
+      },
+      {
+        "question": "Come può una minaccia falsa interrompere un volo anche quando non si trova alcun ordigno?",
+        "answer": "Le compagnie e le autorità devono controllare l'aeromobile e la sicurezza dei passeggeri prima di escludere il pericolo; ciò può comportare scorta, atterraggio alternativo, ispezione ed evacuazione temporanea. Il costo e il ritardo sono conseguenze reali di un avviso poi risultato infondato."
+      }
+    ]
+  },
+  "en": {
+    "title": "Another wave of bomb threats disrupts European flights and broadcasters on November 6",
+    "dek": "AP cites eleven aviation threats that day, while the Guardian counts at least 18 affected flights using a different measure; no devices were found.",
+    "summary": "On November 6, 2026, renewed bomb warnings prompted checks and diversions of flights across Europe, as well as evacuations at some broadcasters. AP reported eleven threats to flights that day, while the Guardian counted at least eighteen affected air services. Authorities found no explosives in the reported searches and had not conclusively identified who issued the warnings.",
+    "body": [
+      "Friday, November 6 brought another wave of bomb warnings affecting European aviation after earlier incidents during the week. The Associated Press gathered updates from national transport and security agencies, while the Guardian reconstructed developments through reporting across several countries. Flights involving Prague, Sofia, Paris and Rome were subjected to searches, diversions or fighter escorts. No explosives were found in the inspections described and no injuries had been reported within the period covered.",
+      "The reported numbers do not count exactly the same thing. European transport commissioner Apostolos Tzitzikostas cited eleven threats on Friday, fourteen on Thursday and seven on Tuesday according to AP. The Guardian counted at least eighteen Friday flights affected operationally, which may involve different consequences from individual warnings. Adding these figures as if each were a unique aircraft or evacuated passenger would be misleading without case-by-case reconciliation.",
+      "Threats also reached news organisations, including Ireland's public broadcaster RTÉ, where premises were briefly evacuated, and media outlets in Britain and Bulgaria. Air operators have to treat warnings as possible dangers until checks show otherwise, even when a wave of threats is suspected to be fraudulent. Diversions, security escorts and inspections can impose genuine disruption and costs even if a bomb is not present.",
+      "Officials and commentators have suggested a coordinated or hybrid campaign, but neither perpetrators nor state direction had been proven by investigators. Spain's foreign minister Albares raised the prospect of a common pattern while urging further investigation; the Guardian reported no conclusive attribution. The verified November 6 news concerns transport and newsroom disruption, not the truth of unverified claims about those responsible."
+    ],
+    "facts": [
+      "AP reports eleven bomb threats to flights on November 6, while the Guardian records at least eighteen affected flights using a different count.",
+      "No explosive devices were found in the reported security searches.",
+      "Broadcasting organisations including RTÉ also received threats and temporarily disrupted operations."
+    ],
+    "perspectives": [
+      "Albares and other officials suggest coordination could be involved, without established attribution.",
+      "Aviation authorities argue each potential threat requires a safety response even when it may be a hoax."
+    ],
+    "unknowns": [
+      "The individuals or organisations responsible have not been conclusively identified.",
+      "Whether the incidents across separate days were centrally coordinated is unproven."
+    ],
+    "impactReason": "The warnings disrupted transport and media services across several states without confirmed explosive devices or injuries.",
+    "questions": [
+      {
+        "question": "Why does AP report eleven threats but the Guardian at least eighteen affected flights on November 6?",
+        "answer": "AP cites the European transport commissioner's number of reported threats, whereas the Guardian counts air services affected by their consequences. These are different units, and one warning can lead to several operational responses, so the numbers must not be treated as interchangeable."
+      },
+      {
+        "question": "How can an unfounded bomb warning disrupt a flight when no device is found?",
+        "answer": "Airlines and security authorities must first check the plane and protect passengers, sometimes ordering escorts, diversions, searches or temporary evacuations. The delays and costs are real consequences even if investigators ultimately find no bomb."
+      }
+    ]
+  },
+  "issueDate": "2026-11-07",
+  "section": "world",
+  "status": "DRAFT — no publication before full editorial and CI gates"
+}
