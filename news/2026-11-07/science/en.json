@@ -1,0 +1,438 @@
+{
+  "date": "2026-11-07",
+  "language": "en",
+  "section": "science",
+  "publishedAt": "2026-11-07T12:13:37+01:00",
+  "editorialNote": "science edition, November 7, 2026. Reporting window November 6 07:00–November 7 07:00 Europe/Rome, with material developments from the previous five days. Event dates, statements, estimates and evidence are distinguished; all covers are original illustrations, not photographs.",
+  "articles": [
+    {
+      "id": "glioblastoma-cell-plasticity-nature",
+      "rank": 1,
+      "category": "society",
+      "title": "Two Nature studies map recurring cell-state pathways in glioblastoma",
+      "dek": "A multi-omic atlas of twelve tumours and experimental models identifies spatial trajectories and a possible role for the MYT1L regulator.",
+      "summary": "Two Nature papers published on November 4, 2026 report an atlas analysing more than one million cells from twelve glioblastomas. Distinct tumour cell states showed repeated spatial patterns, while MYT1L limited cells' ability to switch identity in experimental models. These are fundamental and preclinical findings, not a treatment proven effective in patients.",
+      "body": [
+        "Two research papers published in Nature on November 4, 2026 examine glioblastoma, an aggressive brain cancer in which cells with strikingly different characteristics coexist in the same tissue. An international collaboration including the Wellcome Sanger Institute, EMBL and DKFZ analysed material from twelve primary tumours. The resulting atlas combines transcriptomic, chromatin-accessibility, genetic and spatial data from more than one million cell nuclei. ANSA covered the work on November 6, but the original publication date remains November 4.",
+        "The first paper describes a recurring trajectory between cell states. Development-like characteristics appear in some tumour regions, followed by programmes resembling responses to tissue injury and then, in other areas, states associated with low oxygen availability. The tumours remain heterogeneous, and individual differences are not eliminated. Rather, the researchers found shared patterns in where cell states appear and how some transitions are organised across the sampled tumours. They compared multiple tissue regions and examined patient-derived organoid models.",
+        "The companion paper uses a computational method called scDORI to infer gene-regulatory networks controlling which programmes are switched on or off during changes of cell state. Experiments identified the transcription factor MYT1L as an important suppressor of alternative programmes, stabilising a less plastic neuronal-like cell identity. In models derived from patient samples and in mice, increased MYT1L activity was associated with slower tumour growth and invasion. Loss of MYT1L allowed cells to resume more adaptable, aggressive features.",
+        "The potential significance is a new way to investigate treatment resistance that does not depend on DNA mutations alone, but also on reversible cell programmes and the surrounding microenvironment. Observations from twelve tumours and preclinical models do not establish whether targeting MYT1L would be safe or clinically effective in people. The authors have made an atlas available for further investigation and described possible targets for future experiments. Larger studies and independent verification are needed before generalising the results to the wider patient population."
+      ],
+      "facts": [
+        "Two Nature papers were published on November 4, 2026 using twelve primary glioblastomas and more than one million profiled cells or nuclei.",
+        "The first paper identifies recurring spatial cell-state trajectories, with additional investigation using patient-derived organoid models.",
+        "The companion paper implicates MYT1L in restricting plasticity and reports mouse experiments on tumour growth and invasion."
+      ],
+      "perspectives": [
+        "The investigators propose that recurring trajectories could help develop future approaches targeting several tumour cell states.",
+        "DKFZ investigators point to MYT1L as a possible regulatory target, while the evidence described remains preclinical rather than demonstrating benefits in patients."
+      ],
+      "unknowns": [
+        "Whether the pathways generalise beyond the twelve sampled tumours and to the full patient population needs further confirmation.",
+        "The clinical effectiveness and safety of therapies altering MYT1L or the reported state transitions have not been established."
+      ],
+      "questions": [
+        {
+          "question": "How did the researchers trace glioblastoma cell trajectories across different tumour regions?",
+          "answer": "They compared samples from several regions of twelve tumours, combining RNA, chromatin and DNA profiles with each cell's position in the tissue. This linked development-like, injury-response and low-oxygen states into recurring pathways that were also explored in patient-derived organoid models."
+        },
+        {
+          "question": "Why is MYT1L of interest in the glioblastoma plasticity study?",
+          "answer": "MYT1L represses alternative genetic programmes and helps maintain certain cancer cells in a state less able to change identity. Increasing its activity in experimental models reduced tumour growth and invasion in mice, suggesting a mechanism worth testing rather than a clinical benefit already shown in people."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The papers supply experimental evidence and a public research resource that may advance cancer biology, but the small patient cohort and absence of human treatment results limit the current impact.",
+      "tags": [
+        "glioblastoma",
+        "genomics",
+        "plasticity"
+      ],
+      "sources": [
+        {
+          "outlet": "Nature",
+          "title": "A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity",
+          "url": "https://www.nature.com/articles/s41586-026-11234-8",
+          "publishedAt": "2026-11-04",
+          "role": "official"
+        },
+        {
+          "outlet": "Nature",
+          "title": "Decoding the regulatory programs governing glioblastoma plasticity",
+          "url": "https://www.nature.com/articles/s41586-026-11177-0",
+          "publishedAt": "2026-11-04",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Regole prevedibili anche per il tumore più aggressivo del cervello",
+          "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/11/06/regole-prevedibili-anche-per-il-tumore-piu-aggressivo-del-cervello_6f5dccc1-6669-48d6-b67e-5291427ecd0c.html",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Cancer Research UK",
+          "title": "Scientists uncover the rules of glioblastoma",
+          "url": "https://news.cancerresearchuk.org/2026/11/04/scientists-uncover-the-rules-of-glioblastoma/",
+          "publishedAt": "2026-11-04",
+          "role": "official"
+        },
+        {
+          "outlet": "Wellcome Sanger Institute",
+          "title": "Uncovering rules for aggressive brain tumours could lead to better treatments",
+          "url": "https://www.sanger.ac.uk/news_item/uncovering-rules-for-aggressive-brain-tumours-could-lead-to-better-treatments/",
+          "publishedAt": "2026-11-04",
+          "role": "official"
+        },
+        {
+          "outlet": "Tom's Hardware Italia",
+          "title": "Uno dei tumori cerebrali più difficili nasconde uno schema preciso",
+          "url": "https://www.tomshw.it/scienze/le-cellule-del-glioblastoma-cambiano-a-tappe-si-potranno-fermare",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/glioblastoma-cell-plasticity-nature.svg",
+        "alt": "Abstract cells and branching transitions; not medical imaging or microscopy",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/glioblastoma-cell-plasticity-nature.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "hera-didymos-closeup-nov5",
+      "rank": 2,
+      "category": "technology",
+      "title": "Hera reveals a different side of Didymos in first close-up image",
+      "dek": "ESA's November 5 release shows the larger asteroid's surface while Dimorphos remains mostly in shadow; the scientific investigation of DART's impact is still ahead.",
+      "summary": "On November 5, 2026, ESA released a close-up view of Didymos taken by the Hera spacecraft. Surface details of the larger asteroid are visible, while smaller Dimorphos, struck by DART in September 2022, lies largely in shadow. Hera's mission is to understand how the system responded to that earlier impact, not to announce that its effects have already been fully measured.",
+      "body": [
+        "On November 5, 2026, the European Space Agency released a new image of the Didymos-Dimorphos asteroid pair acquired by its Hera spacecraft during the approach to the target. Didymos is about 780 metres across, while its roughly 151-metre moonlet Dimorphos is only partly visible because it lies in shadow. ESA's detailed technical account and the Italian Space Agency's report give a camera distance of 60 kilometres. A separate ESA media listing gives 600 kilometres; this metadata discrepancy needs to be resolved before a definitive publication states a single unqualified figure.",
+        "The context is NASA's DART experiment. On September 26, 2022, a spacecraft deliberately struck Dimorphos, shortening the time it takes to orbit Didymos by about 33 minutes. That previously established measurement demonstrated that a kinetic impact can change a small body's motion. Hera does not repeat the collision. Instead it visits the system to measure its physical properties, structure and changes, which are needed to make techniques of this kind more predictable if a threatening asteroid is discovered in the future.",
+        "Scientists can see the familiar equatorial ridge on the newly imaged side of Didymos, as well as numerous boulders, craters and possible grooves. Principal investigator Patrick Michel noted that this is the opposite side from the face seen by DART's camera before impact. ESA scientist Michael Kueppers suggested that some features might be linked to material ejected from Dimorphos and deposited on the larger asteroid. A single image, however, cannot establish when the surface features formed or what produced them.",
+        "ESA and the Italian Space Agency said more detailed images of both asteroids were planned for November 25, a date still in the future for this edition. Later measurements, including other Hera instruments and associated small spacecraft, are intended to help compare composition, geometry and impact effects. The November 5 image is therefore a documented milestone in Hera's approach and a new look at the system, not the conclusion of the crash-site investigation or a photograph of an asteroid currently heading for Earth."
+      ],
+      "facts": [
+        "ESA released a new close-up of Didymos on November 5, 2026, with Dimorphos largely hidden in shadow.",
+        "DART hit Dimorphos on September 26, 2022, shortening its orbit around Didymos by about 33 minutes.",
+        "ESA's detailed mission report and ASI give a 60-km camera distance, while another ESA listing says 600 km; the numerical discrepancy needs resolution."
+      ],
+      "perspectives": [
+        "Mission scientists suggest some of Didymos's newly visible features may reflect debris ejected by the DART impact; this remains a hypothesis.",
+        "Space.com and EarthSky describe the scientific interest of the image, but much of their November 5–6 coverage relies on ESA material rather than independent original observation."
+      ],
+      "unknowns": [
+        "ESA's conflicting 60/600-km descriptions should be formally reconciled before using one number unqualified in a public edition.",
+        "Identifying the origin of the visible Didymos surface features and the final physical condition of Dimorphos requires further observations."
+      ],
+      "questions": [
+        {
+          "question": "How does Hera's role differ from DART's 2022 impact on Dimorphos?",
+          "answer": "DART struck Dimorphos and shortened its orbital period around Didymos by about 33 minutes. Hera arrives later to examine the dimensions, surface and structure of both asteroids, helping determine how the target's properties influenced the kinetic-impact result."
+        },
+        {
+          "question": "Why can't the possible grooves on Didymos immediately be attributed to debris from DART?",
+          "answer": "The photograph shows surface features without establishing when they formed. Material ejected from Dimorphos might have crossed the gap and landed on Didymos, as ESA scientist Michael Kueppers suggests, but later mapping and comparisons are needed to distinguish that explanation from older terrain."
+        }
+      ],
+      "impact": 2,
+      "impactReason": "The image supports ESA's planetary-defence investigation and prepares more precise measurements, but does not itself constitute a new demonstration of asteroid deflection.",
+      "tags": [
+        "Hera",
+        "asteroids",
+        "space"
+      ],
+      "sources": [
+        {
+          "outlet": "European Space Agency",
+          "title": "Hera's first close-up view of Didymos asteroids",
+          "url": "https://www.esa.int/hu/articles/about-us/directorates/operations/space-safety/hera/hera-s-first-close-up-view-of-didymos-asteroids",
+          "publishedAt": "2026-11-05",
+          "role": "official"
+        },
+        {
+          "outlet": "Agenzia Spaziale Italiana",
+          "title": "Hera osserva Didymos a distanza ravvicinata",
+          "url": "https://www.asi.it/2026/11/hera-osserva-didymos-a-distanza-ravvicinata/",
+          "publishedAt": "2026-11-05",
+          "role": "official"
+        },
+        {
+          "outlet": "Space.com",
+          "title": "Hera probe gets 1st good luck at asteroid system clobbered by NASA's DART mission",
+          "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "EarthSky",
+          "title": "Hera mission begins asteroid defense investigation: 1st close-up views!",
+          "url": "https://earthsky.org/space/hera-mission-dart-asteroid-impact/",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ciel & Espace",
+          "title": "Première image de l’astéroïde binaire Didymos par Hera !",
+          "url": "https://www.cieletespace.fr/article/premiere-image-de-l-asteroide-binaire-didymos-par-hera",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/hera-didymos-closeup-nov5.svg",
+        "alt": "Conceptual probe and two asteroids, not an ESA mission photograph",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/hera-didymos-closeup-nov5.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "epilepsy-chemogenetics-ne-jm-three-patients",
+      "rank": 3,
+      "category": "society",
+      "title": "Experimental chemogenetic treatment cuts seizures by 92.6% in three epilepsy patients",
+      "dek": "Early NEJM results published November 4 use a gene-delivered receptor controlled by low-dose clozapine; the sample cannot establish general clinical efficacy.",
+      "summary": "A November 4, 2026 New England Journal of Medicine clinical report describes three adults with medication-resistant epilepsy treated with a viral-vector gene delivery procedure and low-dose clozapine. Mean seizure frequency fell by 92.6%, and reported adverse events were grade 1 or 2. These are preliminary results involving three people, not proven therapy for all patients.",
+      "body": [
+        "A team led by Yang Dai at Beijing's Xuanwu Hospital reported early findings in the New England Journal of Medicine on November 4 from a technique combining local gene delivery with drug-controlled neuronal activity. Three adults whose epilepsy had resisted at least two antiseizure drugs received targeted treatment in part of the hippocampus associated with their seizures. Nature News assessed the mechanism and interviewed outside specialists, and ANSA reported the outcome on November 6. The original paper date is November 4.",
+        "The researchers used an AAV9 viral vector to place a gene into targeted excitatory neurons. The gene makes those cells produce an engineered receptor responsive to a particular medication. About two weeks later, patients began receiving regular low doses of clozapine. When the drug activates the newly expressed receptors, neuronal firing in the target area is reduced. This is called chemogenetics because a genetic change introduces a control mechanism that can be adjusted chemically; it does not simply repair every possible underlying cause of epilepsy.",
+        "The short clinical report records a mean reduction of 92.6% in seizure frequency. Nature and ANSA describe changes from 4.5 to 0.5 episodes per month for two participants and from four to zero for the third over the early observation period. The reported adverse events were grade 1 or 2, with no serious ones described in the initial sample. These are before-and-after observations in three people, not a randomised comparison, and cannot fully separate the procedure's effects from other influences.",
+        "Neurologist Matthew Walker, who was not part of the study, told Nature that the large reduction was encouraging but raised concerns about the tiny sample and longer-term exposure to clozapine, a drug associated with adverse effects at higher doses. Larger trials, longer follow-up and rigorous safety assessments are needed. The immediate advance is an initial demonstration of targeted neuronal control in humans, not proof of permanent cure or regulatory authorisation for routine treatment."
+      ],
+      "facts": [
+        "NEJM published the three-patient refractory-epilepsy report online on November 4, 2026.",
+        "Treatment combined hippocampal AAV9 gene delivery with low-dose clozapine; mean seizure reduction was 92.6%.",
+        "Reported adverse events were grade 1 or 2 in an uncontrolled early sample."
+      ],
+      "perspectives": [
+        "The investigators propose targeted chemogenetic modulation as a direction for further therapeutic studies.",
+        "Nature's outside expert Matthew Walker highlighted the small sample and questions about long-term drug exposure."
+      ],
+      "unknowns": [
+        "The duration of benefit and variability in a broader population have not been established.",
+        "Long-term safety and comparative effectiveness require controlled clinical studies."
+      ],
+      "questions": [
+        {
+          "question": "How does the chemogenetic therapy in the NEJM report control activity in targeted neurons?",
+          "answer": "An AAV9 vector delivers a gene making target neurons express an engineered receptor. Low-dose clozapine then activates that receptor to reduce the excitation driving seizures. The medication acts as a regulator of a control mechanism installed through gene delivery."
+        },
+        {
+          "question": "Why can't a 92.6% average seizure reduction predict results for everyone with epilepsy?",
+          "answer": "The estimate comes from just three adults with a particular form of epilepsy, comparing initial outcomes with their own earlier seizure frequency rather than a randomised control group. It cannot establish long-term durability, rare harms or efficacy across different epilepsy syndromes."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "The early human proof of concept is potentially valuable, but a three-person, uncontrolled report does not demonstrate established clinical impact.",
+      "tags": [
+        "epilepsy",
+        "chemogenetics",
+        "trial"
+      ],
+      "sources": [
+        {
+          "outlet": "New England Journal of Medicine",
+          "title": "Chemogenetic Neuromodulation for Refractory Epilepsy",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2606815",
+          "publishedAt": "2026-11-04",
+          "role": "official"
+        },
+        {
+          "outlet": "Nature News",
+          "title": "Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains",
+          "url": "https://www.nature.com/articles/d41586-026-03566-2",
+          "publishedAt": "2026-11-04",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Epilessia resistente, con terapia genica crisi quasi azzerate per 3 pazienti",
+          "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/epilessia-resistente-con-terapia-genica-crisi-quasi-azzerate-per-3-pazienti_75008910-94b9-4ab0-91ac-9118838d87ca.html",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/epilepsy-chemogenetics-ne-jm-three-patients.svg",
+        "alt": "Neurone stilizzato e circuito di regolazione chimica, non scansione clinica",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/epilepsy-chemogenetics-ne-jm-three-patients.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "aratasaurus-mineralized-heme-signatures",
+      "rank": 4,
+      "category": "society",
+      "title": "Mineralised structures in Brazilian dinosaur fossil carry chemical signatures linked to blood",
+      "dek": "Analyses of 115-million-year-old bone find heme-related compounds inside vessel canals, but interpretation of the cell-like structures is contested.",
+      "summary": "A study published online in PNAS on November 2, 2026 reports mineralised structures and heme-related chemical signatures in vascular channels of Aratasaurus museunacionali bones from Brazil, around 115 million years old. Reuters and Live Science examined the evidence and reported expert reservations about some cell identifications. Researchers did not recover liquid blood, dinosaur DNA or an organism that could be recreated.",
+      "body": [
+        "Researchers led by Curtin University geochemist Kliti Grice investigated the bones of Aratasaurus museunacionali excavated in Brazil's Ceará state. The study appeared online in the Proceedings of the National Academy of Sciences on November 2 and examined channels that once held blood vessels. The team described mineralised ellipsoid-shaped structures alongside molecular signals associated with heme, an iron-containing part of haemoglobin. Reuters and Live Science distinguished these direct observations from the researchers' interpretation of the structures.",
+        "The work combined electron microscopy, Raman spectroscopy and liquid chromatography-mass spectrometry. Bone extracts contained heme-derived compounds whereas the surrounding mineral matrix showed different molecular signatures. The spatial association of the chemical findings with the observed structures is one argument for their biological origin. Manganese mineralisation may have helped stabilise traces over geological time, but that proposed preservation mechanism does not imply that original cells survived intact.",
+        "The authors interpret the ellipsoid structures as possible fossil red blood cells, but outside specialists quoted by Live Science question whether their shapes resemble those of reptilian red cells. A heme-related chemical signature provides evidence more specific than an image that happens to look cellular, although contamination and alteration during fossilisation remain important considerations. The study therefore offers converging clues, rather than fresh dinosaur blood or proof that similar material survives in every fossil.",
+        "The animal lived about 115 million years ago; that is not when the research was published. Several science outlets reported on the early-November paper during the following days. The experiments did not identify dinosaur DNA or intact proteins from which an extinct animal could be reconstructed. The scientific importance lies in methods for investigating very old biochemical traces and in learning how burial and mineralisation can transform them."
+      ],
+      "facts": [
+        "The PNAS article was published online November 2 and concerns approximately 115-million-year-old Aratasaurus museunacionali bones.",
+        "Authors detected heme-related compounds and mineralised ellipsoid structures in vascular canals.",
+        "Neither intact blood nor dinosaur DNA was reported, and some outside experts question the morphological identification."
+      ],
+      "perspectives": [
+        "The investigators argue that microscopy and chemical data together strongly support a blood-derived origin.",
+        "Specialists quoted by Live Science challenge aspects of the proposed red-cell identification."
+      ],
+      "unknowns": [
+        "The biological identity of every observed ellipsoid microstructure remains debated.",
+        "How widely the proposed preservation mechanism occurs across fossil deposits is not established."
+      ],
+      "questions": [
+        {
+          "question": "Why do heme-related molecules in Aratasaurus matter beyond the shapes seen under a microscope?",
+          "answer": "Mass-spectrometric detection of compounds linked to heme adds a chemical signature associated with blood. Their location alongside ellipsoid microstructures, and the different signals from surrounding rock, support a more specific biological hypothesis than visual resemblance alone."
+        },
+        {
+          "question": "How does manganese mineralisation differ from the preservation of intact dinosaur blood cells?",
+          "answer": "Mineralisation can retain shapes and traces of compounds while substantially transforming the original material. The specimens contain mineralised structures and altered biochemical signatures, not living cells, fresh blood or recovered dinosaur DNA."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "The chemical evidence could expand molecular palaeontology, but the finding concerns particular specimens and parts of the interpretation remain contested.",
+      "tags": [
+        "Aratasaurus",
+        "fossils",
+        "heme"
+      ],
+      "sources": [
+        {
+          "outlet": "PNAS",
+          "title": "Heme signatures in mineralized red blood cells within vascular canals of a 115-million-year-old dinosaur bone",
+          "url": "https://doi.org/10.1073/pnas.2614248123",
+          "publishedAt": "2026-11-02",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Evidence of red blood cells seen in dinosaur fossil from Brazil",
+          "url": "https://www.reuters.com/science/evidence-red-blood-cells-seen-dinosaur-fossil-brazil-2026-11-02/",
+          "publishedAt": "2026-11-02",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Live Science",
+          "title": "Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims",
+          "url": "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims",
+          "publishedAt": "2026-11-02",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Science News",
+          "title": "This may be the best evidence yet that dinosaur blood can fossilize",
+          "url": "https://www.sciencenews.org/article/evidence-dinosaur-blood-fossilize",
+          "publishedAt": "2026-11-07",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/aratasaurus-mineralized-heme-signatures.svg",
+        "alt": "Osso fossile e struttura molecolare illustrati, non un reperto fotografato",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/aratasaurus-mineralized-heme-signatures.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    },
+    {
+      "id": "us-measles-cdc-nov6-update",
+      "rank": 5,
+      "category": "society",
+      "title": "US measles cases reach 5,182 in 2026 under the CDC's November 6 update",
+      "dek": "The national figure crosses 5,000 while federal counts of measles-associated deaths differ from those reported by several states.",
+      "summary": "The US CDC reported 5,182 confirmed measles cases for 2026 in its November 6 update, an increase of 330 since its previous bulletin. It listed 562 hospitalisations, 43 outbreaks and four federally recorded measles-associated deaths. Individual states have reported additional deaths under different recording procedures; the figures must not be treated as identical counts.",
+      "body": [
+        "On November 6, the US Centers for Disease Control and Prevention updated its measles surveillance tally to 5,182 confirmed cases as of November 5, up from 4,852 in the previous update. Reuters reported that the number surpassed any annual total recorded by the agency in the past 35 years. These are confirmed cases reported across 2026, not infections all acquired or diagnosed on November 6. The cutoff date for the surveillance data and the publication date of the bulletin are different.",
+        "CDC statistics list 562 hospitalisations, around 11% of cases, and 43 outbreaks for the year. About 96% of cases were in people known to be unvaccinated or whose vaccination status was unknown. Because those categories are combined, the number cannot by itself reveal the exact fraction of infected people who received no vaccine. Measles spreads efficiently through the air, while high two-dose immunisation coverage helps prevent sustained outbreaks. The data describe public health surveillance, not a clinical experiment.",
+        "Another important distinction concerns deaths. CDC reports four measles-associated deaths in its national record, while Pennsylvania, Wisconsin and New York have announced higher combined figures through state health channels. Reuters explained that the federal count now relies on National Center for Health Statistics mortality records that may be finalised on a different timetable. AP separately reported deaths announced in New York and Wisconsin. It would be misleading to combine the lists without checking whether cases overlap or use the same definitions.",
+        "The situation also matters because an expert commission convened by the Pan American Health Organization is expected to assess whether the United States retains its measles-elimination status, achieved in 2000. Elimination means that endemic transmission has not been sustained, not that imported cases or limited outbreaks can never occur. Any change in status requires a formal expert determination rather than automatically following from a high case count. Surveillance totals and death records may continue to be revised."
+      ],
+      "facts": [
+        "CDC's November 6 bulletin listed 5,182 confirmed 2026 measles cases, 330 more than the preceding update.",
+        "CDC reported 562 hospitalisations and 43 outbreaks, with 96% of cases unvaccinated or vaccination status unknown.",
+        "The federal count listed four associated deaths, fewer than some state announcements using different recording systems."
+      ],
+      "perspectives": [
+        "Reuters and AP highlighted vaccination gaps and differences in death reporting.",
+        "Public health officials in New York and Wisconsin, quoted by AP, stressed the importance of immunisation."
+      ],
+      "unknowns": [
+        "Federal and state death counts have not been reconciled in real time and may change.",
+        "Any decision about elimination status awaits the relevant expert body's formal assessment."
+      ],
+      "questions": [
+        {
+          "question": "Why doesn't the CDC's 96% measles figure tell us the exact share of patients who were unvaccinated?",
+          "answer": "The CDC combines cases with a confirmed lack of vaccination and cases for which vaccination status is unknown. Without separating those categories, the percentage cannot precisely describe how many infected people received no vaccine."
+        },
+        {
+          "question": "Why can the CDC report fewer measles-associated deaths than Pennsylvania, New York and Wisconsin?",
+          "answer": "The federal tally relies on national death-certificate data with its own verification timetable, while states may announce health investigations more quickly. Differing definitions and reporting lags mean the totals must be kept distinct until they can be reconciled."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "High confirmed case counts, hospitalisations and outbreaks affect public health across multiple states, although surveillance figures remain provisional.",
+      "tags": [
+        "measles",
+        "vaccination",
+        "epidemiology"
+      ],
+      "sources": [
+        {
+          "outlet": "US Centers for Disease Control and Prevention",
+          "title": "Measles Cases and Outbreaks — updated November 6, 2026",
+          "url": "https://www.cdc.gov/measles/data-research/index.html",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US measles cases climb above 5,000 for first time since 1991",
+          "url": "https://www.reuters.com/legal/litigation/us-measles-cases-rise-5182-cdc-says-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Child dies of measles in New York's first such death in 30 years",
+          "url": "https://apnews.com/article/4032239653c89f9f454e0ec630852930",
+          "publishedAt": "2026-11-03",
+          "role": "reporting"
+        },
+        {
+          "outlet": "STAT",
+          "title": "Child dies of measles in Wisconsin, first such death since 1990",
+          "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/us-measles-cdc-nov6-update.svg",
+        "alt": "Particelle virali simboliche e scudo sanitario, non immagine medica",
+        "credit": "O / Objectivizer — original vector illustration, November 7, 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/us-measles-cdc-nov6-update.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Original editorial illustration; not a photograph of the event."
+      }
+    }
+  ]
+}
