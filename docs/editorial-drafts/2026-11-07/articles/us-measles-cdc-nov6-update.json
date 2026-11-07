@@ -38,11 +38,12 @@
       "role": "reporting"
     },
     {
-      "outlet": "Associated Press",
+      "outlet": "STAT",
       "title": "Child dies of measles in Wisconsin, first such death since 1990",
       "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/",
       "publishedAt": "2026-11-05",
-      "role": "reporting"
+      "role": "reporting",
+      "notes": "Verify original authorship before counting as additional newsroom; reporting credits may show AP."
     }
   ],
   "it": {
