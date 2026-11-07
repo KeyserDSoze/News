@@ -50,6 +50,14 @@
       "publishedAt": "2026-11-05",
       "role": "reporting",
       "notes": "Kelly Kizer Whitt, Deborah Byrd; ulteriore editore, ma testo del 5/11 deriva essenzialmente dal materiale ESA; indipendenza sostanziale da verificare"
+    },
+    {
+      "outlet": "Ciel & Espace",
+      "title": "Première image de l’astéroïde binaire Didymos par Hera !",
+      "url": "https://www.cieletespace.fr/article/premiere-image-de-l-asteroide-binaire-didymos-par-hera",
+      "publishedAt": "2026-11-05",
+      "role": "reporting",
+      "notes": "David Fossé, original French editorial explanation, independent from Space.com; relies on ESA image as primary material, not a copied newswire"
     }
   ],
   "it": {
@@ -133,8 +141,8 @@
     "alt_en": "Conceptual probe and two asteroids, not an ESA mission photograph"
   },
   "audit": {
-    "independentNewsroomsVerified": false,
-    "notes": "Publisher independence still insufficient: institutional/press-release derivatives must not be counted as separate independent original reportage.",
+    "independentNewsroomsVerified": true,
+    "notes": "Ciel & Espace (David Fossé) and Space.com (Robert Lea) are distinct original editorials based on the ESA primary; ESA's separate 600-km metadata listing conflicts with ESA/ASI/Ciel 60-km descriptions and is explicitly flagged in body.",
     "questionsTestedWithRepositoryFunction": true,
     "qaSemanticMatchReviewed": true
   }
