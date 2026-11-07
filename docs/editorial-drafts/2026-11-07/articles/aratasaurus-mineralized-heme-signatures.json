@@ -1,0 +1,122 @@
+{
+  "id": "aratasaurus-mineralized-heme-signatures",
+  "rank": 4,
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "Aratasaurus",
+      "fossili",
+      "eme"
+    ],
+    "en": [
+      "Aratasaurus",
+      "fossils",
+      "heme"
+    ]
+  },
+  "category": "society",
+  "sources": [
+    {
+      "outlet": "PNAS",
+      "title": "Heme signatures in mineralized red blood cells within vascular canals of a 115-million-year-old dinosaur bone",
+      "url": "https://doi.org/10.1073/pnas.2614248123",
+      "publishedAt": "2026-11-02",
+      "role": "official"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "Evidence of red blood cells seen in dinosaur fossil from Brazil",
+      "url": "https://www.reuters.com/science/evidence-red-blood-cells-seen-dinosaur-fossil-brazil-2026-11-02/",
+      "publishedAt": "2026-11-02",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Live Science",
+      "title": "Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims",
+      "url": "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims",
+      "publishedAt": "2026-11-02",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Science News",
+      "title": "This may be the best evidence yet that dinosaur blood can fossilize",
+      "url": "https://www.sciencenews.org/article/evidence-dinosaur-blood-fossilize",
+      "publishedAt": "2026-11-07",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Nel femore di un dinosauro brasiliano tracce mineralizzate compatibili con globuli rossi",
+    "dek": "Analisi chimiche di un fossile vecchio 115 milioni di anni trovano segnali dell'eme in strutture ellissoidali; restano controversie sull'interpretazione.",
+    "summary": "Uno studio apparso online su PNAS il 2 novembre 2026 descrive strutture mineralizzate e segnali chimici dell'eme nei canali vascolari delle ossa di Aratasaurus museunacionali, un dinosauro brasiliano vissuto circa 115 milioni di anni fa. Reuters e Live Science hanno confrontato i risultati con specialisti, alcuni scettici sull'identificazione delle cellule. Non è stato trovato sangue liquido, DNA o un organismo da ricostruire.",
+    "body": [
+      "Ricercatori guidati dalla geochimica Kliti Grice della Curtin University hanno analizzato ossa di un Aratasaurus museunacionali scoperto nello stato brasiliano del Ceará. Il lavoro, pubblicato online il 2 novembre su Proceedings of the National Academy of Sciences, si concentra su canali che ospitavano vasi sanguigni in vita. Gli studiosi descrivono strutture mineralizzate dalla forma ellissoidale, insieme a segnali molecolari associati all'eme, la parte di emoglobina che contiene ferro. I reportage di Reuters e Live Science distinguono l'osservazione dalla conclusione interpretativa.",
+      "Lo studio combina microscopia elettronica, spettroscopia Raman e cromatografia liquida con spettrometria di massa. In campioni di osso sono state trovate sostanze derivate dall'eme, mentre la matrice rocciosa vicina mostra segnali chimici differenti. L'associazione spaziale tra composti ed elementi e strutture visibili è uno degli argomenti con cui gli autori sostengono l'origine biologica. Il manganese può aver contribuito alla mineralizzazione e alla stabilizzazione di tracce; questa ipotesi geochimica non significa conservazione intatta delle cellule originali.",
+      "Le strutture sono state interpretate dagli autori come possibili globuli rossi fossilizzati, ma alcuni esperti interpellati da Live Science contestano la corrispondenza delle forme con gli eritrociti dei rettili. La presenza di molecole derivate dall'eme è un segnale più specifico di una semplice somiglianza al microscopio, pur richiedendo controlli su contaminazione e trasformazioni diagenetiche. Il risultato è pertanto una convergenza di indizi, non l'isolamento di sangue fresco o una garanzia che ogni fossile conservi materiale analogo.",
+      "Il reperto risale a circa 115 milioni di anni fa, non alla data dell'articolo: quest'ultima corrisponde a quando il lavoro è stato reso pubblico. La notizia è stata ripresa da più testate nei giorni successivi. Nessuno degli esperimenti riportati identifica DNA di dinosauro o proteine integre capaci di ricostruire l'organismo. Il contributo scientifico è ampliare il modo in cui si cercano tracce biomolecolari nei fossili, chiarendo contestualmente quanto i campioni possano essere modificati durante l'interramento."
+    ],
+    "facts": [
+      "PNAS ha pubblicato online il 2 novembre un'analisi di ossa fossili di Aratasaurus museunacionali di circa 115 milioni di anni fa.",
+      "Gli autori rilevano composti derivati dall'eme e strutture ellissoidali mineralizzate in canali vascolari.",
+      "Non sono segnalati sangue intatto o DNA di dinosauro; altri esperti contestano parte dell'identificazione morfologica."
+    ],
+    "perspectives": [
+      "Gli autori interpretano la convergenza di dati chimici e microscopici come forte evidenza di origine ematica.",
+      "Specialisti citati da Live Science sollevano dubbi sulle dimensioni e forme delle presunte cellule."
+    ],
+    "unknowns": [
+      "Non è completamente risolta l'identità biologica di tutte le strutture ellissoidali osservate.",
+      "La generalizzabilità del meccanismo di conservazione ad altri siti fossiliferi rimane da studiare."
+    ],
+    "impactReason": "Le tracce chimiche potrebbero cambiare le indagini sui fossili antichi, ma sono limitate a campioni specifici e l'interpretazione non è unanimemente accettata.",
+    "questions": [
+      {
+        "question": "Perché i segnali dell'eme nell'Aratasaurus contano più della sola forma delle strutture fossili?",
+        "answer": "Molecole derivate dall'eme, individuate con analisi spettrometriche, sono una traccia chimica associata al sangue. La loro presenza nello stesso ambiente microscopico delle strutture ellissoidali e la differenza rispetto alla roccia circostante rendono più articolata l'ipotesi biologica rispetto alla sola somiglianza visiva."
+      },
+      {
+        "question": "In che senso la mineralizzazione al manganese limita l'idea che siano stati recuperati globuli rossi intatti?",
+        "answer": "Il processo può preservare forma e tracce di alcuni composti trasformando radicalmente il materiale originale. Le strutture osservate sono mineralizzate e i segnali molecolari sono prodotti di conservazione e alterazione, non cellule funzionanti, sangue fresco o DNA identificato."
+      }
+    ]
+  },
+  "en": {
+    "title": "Mineralised structures in Brazilian dinosaur fossil carry chemical signatures linked to blood",
+    "dek": "Analyses of 115-million-year-old bone find heme-related compounds inside vessel canals, but interpretation of the cell-like structures is contested.",
+    "summary": "A study published online in PNAS on November 2, 2026 reports mineralised structures and heme-related chemical signatures in vascular channels of Aratasaurus museunacionali bones from Brazil, around 115 million years old. Reuters and Live Science examined the evidence and reported expert reservations about some cell identifications. Researchers did not recover liquid blood, dinosaur DNA or an organism that could be recreated.",
+    "body": [
+      "Researchers led by Curtin University geochemist Kliti Grice investigated the bones of Aratasaurus museunacionali excavated in Brazil's Ceará state. The study appeared online in the Proceedings of the National Academy of Sciences on November 2 and examined channels that once held blood vessels. The team described mineralised ellipsoid-shaped structures alongside molecular signals associated with heme, an iron-containing part of haemoglobin. Reuters and Live Science distinguished these direct observations from the researchers' interpretation of the structures.",
+      "The work combined electron microscopy, Raman spectroscopy and liquid chromatography-mass spectrometry. Bone extracts contained heme-derived compounds whereas the surrounding mineral matrix showed different molecular signatures. The spatial association of the chemical findings with the observed structures is one argument for their biological origin. Manganese mineralisation may have helped stabilise traces over geological time, but that proposed preservation mechanism does not imply that original cells survived intact.",
+      "The authors interpret the ellipsoid structures as possible fossil red blood cells, but outside specialists quoted by Live Science question whether their shapes resemble those of reptilian red cells. A heme-related chemical signature provides evidence more specific than an image that happens to look cellular, although contamination and alteration during fossilisation remain important considerations. The study therefore offers converging clues, rather than fresh dinosaur blood or proof that similar material survives in every fossil.",
+      "The animal lived about 115 million years ago; that is not when the research was published. Several science outlets reported on the early-November paper during the following days. The experiments did not identify dinosaur DNA or intact proteins from which an extinct animal could be reconstructed. The scientific importance lies in methods for investigating very old biochemical traces and in learning how burial and mineralisation can transform them."
+    ],
+    "facts": [
+      "The PNAS article was published online November 2 and concerns approximately 115-million-year-old Aratasaurus museunacionali bones.",
+      "Authors detected heme-related compounds and mineralised ellipsoid structures in vascular canals.",
+      "Neither intact blood nor dinosaur DNA was reported, and some outside experts question the morphological identification."
+    ],
+    "perspectives": [
+      "The investigators argue that microscopy and chemical data together strongly support a blood-derived origin.",
+      "Specialists quoted by Live Science challenge aspects of the proposed red-cell identification."
+    ],
+    "unknowns": [
+      "The biological identity of every observed ellipsoid microstructure remains debated.",
+      "How widely the proposed preservation mechanism occurs across fossil deposits is not established."
+    ],
+    "impactReason": "The chemical evidence could expand molecular palaeontology, but the finding concerns particular specimens and parts of the interpretation remain contested.",
+    "questions": [
+      {
+        "question": "Why do heme-related molecules in Aratasaurus matter beyond the shapes seen under a microscope?",
+        "answer": "Mass-spectrometric detection of compounds linked to heme adds a chemical signature associated with blood. Their location alongside ellipsoid microstructures, and the different signals from surrounding rock, support a more specific biological hypothesis than visual resemblance alone."
+      },
+      {
+        "question": "How does manganese mineralisation differ from the preservation of intact dinosaur blood cells?",
+        "answer": "Mineralisation can retain shapes and traces of compounds while substantially transforming the original material. The specimens contain mineralised structures and altered biochemical signatures, not living cells, fresh blood or recovered dinosaur DNA."
+      }
+    ]
+  },
+  "issueDate": "2026-11-07",
+  "section": "science",
+  "status": "DRAFT NOT FOR PUBLICATION until full 25 verified and CI",
+  "imageStatus": "original illustration pending"
+}

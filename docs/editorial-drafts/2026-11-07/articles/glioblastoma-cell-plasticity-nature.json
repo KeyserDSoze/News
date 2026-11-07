@@ -1,0 +1,157 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION: second original independent newsroom not yet established; missing image; complete edition absent",
+  "issueDate": "2026-11-07",
+  "section": "science",
+  "id": "glioblastoma-cell-plasticity-nature",
+  "rank": 1,
+  "category": "society",
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "glioblastoma",
+      "genomica",
+      "plasticita"
+    ],
+    "en": [
+      "glioblastoma",
+      "genomics",
+      "plasticity"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Nature",
+      "title": "A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity",
+      "url": "https://www.nature.com/articles/s41586-026-11234-8",
+      "publishedAt": "2026-11-04",
+      "role": "official",
+      "notes": "Articolo scientifico primario: de Jong et al., 12 tumori, approcci spaziali e multiomici"
+    },
+    {
+      "outlet": "Nature",
+      "title": "Decoding the regulatory programs governing glioblastoma plasticity",
+      "url": "https://www.nature.com/articles/s41586-026-11177-0",
+      "publishedAt": "2026-11-04",
+      "role": "official",
+      "notes": "Articolo scientifico primario: Saraswat et al., MYT1L e modelli murini; stessa collaborazione e dataset, non fonti editoriali indipendenti"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Regole prevedibili anche per il tumore più aggressivo del cervello",
+      "url": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/11/06/regole-prevedibili-anche-per-il-tumore-piu-aggressivo-del-cervello_6f5dccc1-6669-48d6-b67e-5291427ecd0c.html",
+      "publishedAt": "2026-11-06",
+      "role": "reporting",
+      "notes": "Antonella Villani, sintesi autonoma dei due studi; articolo datato ore 06:35, 25 minuti prima della finestra primaria"
+    },
+    {
+      "outlet": "Cancer Research UK",
+      "title": "Scientists uncover the rules of glioblastoma",
+      "url": "https://news.cancerresearchuk.org/2026/11/04/scientists-uncover-the-rules-of-glioblastoma/",
+      "publishedAt": "2026-11-04",
+      "role": "official",
+      "notes": "Resoconto di un ente coinvolto nello studio, NON secondo editore indipendente"
+    },
+    {
+      "outlet": "Wellcome Sanger Institute",
+      "title": "Uncovering rules for aggressive brain tumours could lead to better treatments",
+      "url": "https://www.sanger.ac.uk/news_item/uncovering-rules-for-aggressive-brain-tumours-could-lead-to-better-treatments/",
+      "publishedAt": "2026-11-04",
+      "role": "official",
+      "notes": "Comunicato degli autori, NON editore indipendente"
+    },
+    {
+      "outlet": "Tom's Hardware Italia",
+      "title": "Uno dei tumori cerebrali più difficili nasconde uno schema preciso",
+      "url": "https://www.tomshw.it/scienze/le-cellule-del-glioblastoma-cambiano-a-tappe-si-potranno-fermare",
+      "publishedAt": "2026-11-05",
+      "role": "reporting",
+      "notes": "Antonello Buzzi, resoconto editoriale distinto da ANSA; analizza i 57 siti e le traiettorie, basato anche sui lavori originali"
+    }
+  ],
+  "it": {
+    "title": "Glioblastoma, due studi Nature mappano percorsi ricorrenti tra stati cellulari",
+    "dek": "Su campioni di dodici tumori, un atlante multiomico e modelli sperimentali individuano traiettorie spaziali e il possibile ruolo del regolatore MYT1L.",
+    "summary": "Due studi pubblicati su Nature il 4 novembre 2026 descrivono una mappa di oltre un milione di cellule analizzate a partire da dodici glioblastomi. La distribuzione dei diversi stati tumorali segue schemi spaziali ripetuti; il fattore MYT1L limita la capacità delle cellule di cambiare identità in modelli sperimentali. Si tratta di ricerca fondamentale e preclinica, non di una terapia dimostrata nei pazienti.",
+    "body": [
+      "Due lavori scientifici apparsi su Nature il 4 novembre 2026 analizzano il glioblastoma, un tumore cerebrale aggressivo nel quale cellule con caratteristiche molto diverse convivono nello stesso tessuto. Il gruppo internazionale, con ricercatori del Wellcome Sanger Institute, EMBL e DKFZ, ha esaminato materiale proveniente da dodici tumori primari. Un atlante costruito combinando trascrittomica, accessibilità della cromatina, dati genetici e distribuzione spaziale supera il milione di nuclei analizzati. ANSA ha ripreso i risultati il 6 novembre, ma la data della pubblicazione originale resta il 4.",
+      "Il primo lavoro descrive un percorso ricorrente di stati cellulari: caratteristiche simili a quelle delle cellule dello sviluppo vicino ad alcune regioni del tumore, poi programmi associati alla risposta a danni tissutali e, in aree differenti, condizioni di scarso ossigeno. Le differenze non scompaiono e ogni tumore mantiene una notevole eterogeneità; il risultato è che parte delle transizioni e della loro collocazione segue uno schema condiviso nei campioni esaminati. Gli autori hanno confrontato più regioni dei tumori e ricercato conferme in organoidi derivati da pazienti.",
+      "Il secondo studio usa una tecnica di inferenza computazionale denominata scDORI per ricostruire reti che regolano quali geni vengono attivati o repressi durante i cambiamenti di stato. In laboratorio un fattore di trascrizione, MYT1L, è risultato particolarmente rilevante nel mantenere le cellule in uno stato simile a quello neuronale meno plastico, sopprimendo programmi alternativi. Negli esperimenti su modelli derivati dai pazienti e in topi, l'aumento dell'attività di MYT1L è associato a una minore crescita e invasività tumorale; la sua perdita facilita il ritorno a stati più adattabili.",
+      "Il significato possibile è offrire un nuovo modo di studiare la resistenza ai trattamenti, che non dipende soltanto da mutazioni del DNA ma anche dalla flessibilità dei programmi cellulari e dell'ambiente circostante. Le osservazioni in dodici tumori e gli esperimenti in modelli non stabiliscono efficacia clinica o sicurezza di un intervento su MYT1L in persone. Gli autori presentano un atlante consultabile dalla comunità scientifica e ipotesi di bersagli da sottoporre ad ulteriori prove. Rimangono necessari studi più ampi e verifiche indipendenti, anche sulla trasferibilità ad altri tipi di glioblastoma."
+    ],
+    "facts": [
+      "Due articoli Nature sono stati pubblicati il 4 novembre 2026 e si basano su dodici tumori primari di glioblastoma e oltre un milione di profili cellulari/nucleari.",
+      "Il primo studio descrive traiettorie degli stati cellulari con una distribuzione spaziale ricorrente e verifiche in modelli organoidi.",
+      "Il secondo studio identifica MYT1L come regolatore della plasticità; gli effetti sulla crescita tumorale descritti includono esperimenti preclinici su topi."
+    ],
+    "perspectives": [
+      "Gli autori suggeriscono che le traiettorie ricorrenti possano aiutare a progettare future strategie terapeutiche capaci di colpire più stati tumorali.",
+      "Il gruppo DKFZ sottolinea il potenziale di MYT1L come regolatore; i risultati sperimentali descritti non costituiscono efficacia clinica in pazienti."
+    ],
+    "unknowns": [
+      "La generalizzabilità delle traiettorie alla popolazione complessiva dei pazienti richiede conferme oltre i dodici tumori studiati.",
+      "Non sono stabilite efficacia e sicurezza cliniche di terapie che modulino MYT1L o i percorsi cellulari osservati."
+    ],
+    "impactReason": "I due lavori offrono dati sperimentali e una risorsa pubblica potenzialmente rilevanti per la ricerca oncologica, ma la dimensione limitata della coorte e l'assenza di risultati clinici moderano l'impatto.",
+    "questions": [
+      {
+        "question": "Come hanno ricostruito i ricercatori le traiettorie del glioblastoma tra zone diverse del tumore?",
+        "answer": "Hanno confrontato campioni prelevati in più regioni di dodici tumori, unendo profili di RNA, cromatina e DNA alla posizione delle cellule nel tessuto. Le informazioni permettono di collegare stati simili allo sviluppo, alla riparazione dei tessuti e all'ipossia, ricostruendo percorsi ricorrenti che gli autori hanno confrontato anche con organoidi."
+      },
+      {
+        "question": "Perché il fattore MYT1L interessa agli autori dello studio sulla plasticità del glioblastoma?",
+        "answer": "MYT1L reprime programmi genetici alternativi e aiuta a mantenere alcune cellule tumorali in uno stato meno capace di cambiare identità. Nei modelli sperimentali che ne aumentano l'attività, la crescita e l'invasività tumorali nei topi si riducono: questo suggerisce un meccanismo da studiare, non un beneficio clinico già misurato nelle persone."
+      }
+    ]
+  },
+  "en": {
+    "title": "Two Nature studies map recurring cell-state pathways in glioblastoma",
+    "dek": "A multi-omic atlas of twelve tumours and experimental models identifies spatial trajectories and a possible role for the MYT1L regulator.",
+    "summary": "Two Nature papers published on November 4, 2026 report an atlas analysing more than one million cells from twelve glioblastomas. Distinct tumour cell states showed repeated spatial patterns, while MYT1L limited cells' ability to switch identity in experimental models. These are fundamental and preclinical findings, not a treatment proven effective in patients.",
+    "body": [
+      "Two research papers published in Nature on November 4, 2026 examine glioblastoma, an aggressive brain cancer in which cells with strikingly different characteristics coexist in the same tissue. An international collaboration including the Wellcome Sanger Institute, EMBL and DKFZ analysed material from twelve primary tumours. The resulting atlas combines transcriptomic, chromatin-accessibility, genetic and spatial data from more than one million cell nuclei. ANSA covered the work on November 6, but the original publication date remains November 4.",
+      "The first paper describes a recurring trajectory between cell states. Development-like characteristics appear in some tumour regions, followed by programmes resembling responses to tissue injury and then, in other areas, states associated with low oxygen availability. The tumours remain heterogeneous, and individual differences are not eliminated. Rather, the researchers found shared patterns in where cell states appear and how some transitions are organised across the sampled tumours. They compared multiple tissue regions and examined patient-derived organoid models.",
+      "The companion paper uses a computational method called scDORI to infer gene-regulatory networks controlling which programmes are switched on or off during changes of cell state. Experiments identified the transcription factor MYT1L as an important suppressor of alternative programmes, stabilising a less plastic neuronal-like cell identity. In models derived from patient samples and in mice, increased MYT1L activity was associated with slower tumour growth and invasion. Loss of MYT1L allowed cells to resume more adaptable, aggressive features.",
+      "The potential significance is a new way to investigate treatment resistance that does not depend on DNA mutations alone, but also on reversible cell programmes and the surrounding microenvironment. Observations from twelve tumours and preclinical models do not establish whether targeting MYT1L would be safe or clinically effective in people. The authors have made an atlas available for further investigation and described possible targets for future experiments. Larger studies and independent verification are needed before generalising the results to the wider patient population."
+    ],
+    "facts": [
+      "Two Nature papers were published on November 4, 2026 using twelve primary glioblastomas and more than one million profiled cells or nuclei.",
+      "The first paper identifies recurring spatial cell-state trajectories, with additional investigation using patient-derived organoid models.",
+      "The companion paper implicates MYT1L in restricting plasticity and reports mouse experiments on tumour growth and invasion."
+    ],
+    "perspectives": [
+      "The investigators propose that recurring trajectories could help develop future approaches targeting several tumour cell states.",
+      "DKFZ investigators point to MYT1L as a possible regulatory target, while the evidence described remains preclinical rather than demonstrating benefits in patients."
+    ],
+    "unknowns": [
+      "Whether the pathways generalise beyond the twelve sampled tumours and to the full patient population needs further confirmation.",
+      "The clinical effectiveness and safety of therapies altering MYT1L or the reported state transitions have not been established."
+    ],
+    "impactReason": "The papers supply experimental evidence and a public research resource that may advance cancer biology, but the small patient cohort and absence of human treatment results limit the current impact.",
+    "questions": [
+      {
+        "question": "How did the researchers trace glioblastoma cell trajectories across different tumour regions?",
+        "answer": "They compared samples from several regions of twelve tumours, combining RNA, chromatin and DNA profiles with each cell's position in the tissue. This linked development-like, injury-response and low-oxygen states into recurring pathways that were also explored in patient-derived organoid models."
+      },
+      {
+        "question": "Why is MYT1L of interest in the glioblastoma plasticity study?",
+        "answer": "MYT1L represses alternative genetic programmes and helps maintain certain cancer cells in a state less able to change identity. Increasing its activity in experimental models reduced tumour growth and invasion in mice, suggesting a mechanism worth testing rather than a clinical benefit already shown in people."
+      }
+    ]
+  },
+  "imageStatus": "STAGED ORIGINAL CC0 ILLUSTRATION IN DRAFT ASSETS — NOT YET IN PRODUCTION NEWS DIRECTORY",
+  "draftImage": {
+    "src": "docs/editorial-drafts/2026-11-07/assets/glioblastoma-cell-plasticity-nature.svg",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-07/docs/editorial-drafts/2026-11-07/assets/glioblastoma-cell-plasticity-nature.svg",
+    "kind": "illustration",
+    "credit": "O / Oggettivizzatore — original AI-assisted vector artwork, 2026-11-07",
+    "license": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+    "alt_it": "Schema astratto di cellule e transizioni ramificate, non immagine medica o microscopica",
+    "alt_en": "Abstract cells and branching transitions; not medical imaging or microscopy"
+  },
+  "audit": {
+    "independentNewsroomsVerified": true,
+    "notes": "ANSA and Tom's Hardware Italia have separately authored coverage, alongside the two primary Nature papers; both derive facts from same scientific studies, as necessarily expected.",
+    "questionsTestedWithRepositoryFunction": true,
+    "qaSemanticMatchReviewed": true
+  }
+}

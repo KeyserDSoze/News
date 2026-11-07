@@ -1,0 +1,755 @@
+{
+  "date": "2026-11-07",
+  "language": "it",
+  "section": "world",
+  "publishedAt": "2026-11-07T12:13:37+01:00",
+  "editorialNote": "Edizione world del 7 novembre 2026. Finestra 6 novembre ore 07:00–7 novembre ore 07:00 Europe/Rome; sviluppi dei cinque giorni precedenti se documentati. Distinte cronologie di eventi, dichiarazioni, stime e prove; tutte le immagini sono illustrazioni originali e non fotografie.",
+  "articles": [
+    {
+      "id": "us-october-2026-jobs-bls",
+      "rank": 1,
+      "category": "economy",
+      "title": "Stati Uniti, 165 mila occupati in più a ottobre: la disoccupazione è al 4,1%",
+      "dek": "Il rapporto BLS pubblicato il 6 novembre supera le attese; le revisioni al rialzo dei mesi precedenti non cancellano la pressione dei prezzi sul potere d’acquisto.",
+      "summary": "Il Bureau of Labor Statistics ha rilevato 165.000 nuovi posti di lavoro non agricoli negli Stati Uniti a ottobre 2026 e un tasso di disoccupazione del 4,1%. Le stime precedenti per agosto e settembre sono state aumentate di 84.000 unità complessive. Salari orari medi +3,1% in un anno: la tenuta dell'occupazione non implica automaticamente un miglioramento del reddito reale.",
+      "body": [
+        "Il 6 novembre 2026 alle 8:30 della costa orientale statunitense, il Bureau of Labor Statistics (BLS) ha diffuso i dati sul lavoro di ottobre. Gli occupati nei settori non agricoli sono aumentati di 165.000, mentre il tasso di disoccupazione si è attestato al 4,1%, sostanzialmente stabile nella prospettiva degli ultimi mesi. Il numero dei disoccupati nella rilevazione sulle famiglie è stato circa 7,1 milioni. Reuters e Associated Press hanno confrontato il dato con una previsione di mercato di circa 65.000 posti: un valore di consenso, non un risultato ufficiale.",
+        "Il rapporto combina due indagini differenti. L'indagine sulle imprese stima le variazioni dei posti di lavoro dipendente, le ore e le paghe; quella sulle famiglie rileva lo stato occupazionale delle persone e permette di calcolare il tasso di disoccupazione. Non si possono trattare le due grandezze come conteggi perfettamente equivalenti: osservano popolazioni e concetti diversi. Nel comparto dei servizi professionali e alle imprese il BLS registra 70.000 posti aggiuntivi; aumentano anche sanità e trasporto-magazzinaggio, mentre diversi altri settori cambiano poco.",
+        "Il BLS ha corretto verso l'alto le stime di agosto e settembre per 84.000 posti complessivi: agosto passa da 133.000 a 186.000, settembre da 29.000 a 60.000. Le revisioni dipendono dall'arrivo di nuove risposte delle imprese e da aggiornamenti dei fattori stagionali. Per questo il rapporto non deve essere interpretato come un censimento definitivo dell'occupazione. La media dell'ultimo anno rimane sensibilmente inferiore al dato di ottobre; un mese forte non dimostra, da solo, un'accelerazione duratura.",
+        "Le retribuzioni orarie medie nel settore privato sono aumentate di 14 centesimi, lo 0,4%, fino a 38 dollari, con una crescita annua del 3,1%. AP sottolinea che l'aumento nominale può convivere con difficoltà nel potere d'acquisto quando i prezzi salgono più rapidamente. Alcuni economisti citati dalle redazioni ritengono che la tenuta dell'occupazione possa lasciare più spazio alla Federal Reserve per contrastare l'inflazione; si tratta di interpretazioni sulle decisioni future, non di un rialzo dei tassi già deliberato. Il prossimo rapporto BLS è previsto per il 4 dicembre."
+      ],
+      "facts": [
+        "BLS, dati ottobre diffusi 6/11: occupazione non agricola +165.000 e disoccupazione 4,1%.",
+        "Le stime di agosto e settembre sono state riviste complessivamente di +84.000, secondo il BLS.",
+        "Salario orario medio privato: 38,00 dollari, +0,4% sul mese e +3,1% su 12 mesi."
+      ],
+      "perspectives": [
+        "Reuters e AP riportano una previsione di circa 65.000 nuovi posti, inferiore al dato pubblicato; si tratta di aspettative di economisti, non della metodologia BLS.",
+        "Economisti interpellati da AP ritengono più probabile una stretta della Fed dopo il rapporto; la banca centrale non ha annunciato qui alcuna decisione sui tassi."
+      ],
+      "unknowns": [
+        "Le stime provvisorie di ottobre potranno essere modificate nei rapporti successivi.",
+        "La durata della ripresa delle assunzioni e l'effetto netto sui redditi reali non sono determinabili dal solo rapporto mensile."
+      ],
+      "questions": [
+        {
+          "question": "Perché il BLS può registrare 165.000 nuovi posti e una disoccupazione del 4,1% nello stesso rapporto?",
+          "answer": "I 165.000 posti derivano dall'indagine sulle imprese e misurano la variazione dell'occupazione dipendente non agricola; il 4,1% deriva dall'indagine sulle famiglie e misura la quota di disoccupati nella forza lavoro. Sono indicatori complementari, ma non misurano esattamente la stessa popolazione."
+        },
+        {
+          "question": "Che cosa cambia quando il BLS rivede agosto e settembre di 84.000 posti?",
+          "answer": "I nuovi dati ricevuti dalle imprese e gli aggiustamenti statistici aumentano di 84.000 la somma delle assunzioni già stimate per quei due mesi. La revisione modifica il quadro della crescita recente, ma non equivale a 84.000 posti aggiunti in ottobre e non garantisce che il dato di ottobre sia definitivo."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Rilevanza macroeconomica globale per lavoro, consumi e possibili decisioni sui tassi; un rapporto mensile non giustifica livelli d'impatto eccezionali.",
+      "tags": [
+        "occupazione",
+        "Stati-Uniti",
+        "salari"
+      ],
+      "sources": [
+        {
+          "outlet": "U.S. Bureau of Labor Statistics",
+          "title": "The Employment Situation — October 2026",
+          "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+          "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "US continues to generate jobs, yet inflation is eroding the spending power of millions of Americans",
+          "url": "https://apnews.com/article/jobs-inflation-paycheck-salary-employment-746ee02db33d0372980f815ada33d8d3",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/us-october-2026-jobs-bls.svg",
+        "alt": "Lavoratori e palazzi stilizzati con barre prive di scala, illustrazione e non grafico statistico",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/us-october-2026-jobs-bls.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "canary-islands-rescues-nov6",
+      "rank": 2,
+      "category": "society",
+      "title": "Canarie, 3.261 persone soccorse in sei giorni: le autorità segnalano servizi sotto pressione",
+      "dek": "L'accelerazione degli sbarchi di inizio novembre colpisce soprattutto El Hierro; il confronto con il 2024 richiede di distinguere settimana e anno.",
+      "summary": "I servizi di salvataggio spagnoli hanno soccorso 3.261 persone lungo la rotta delle Canarie dal 1° al 6 novembre 2026, secondo il bilancio riportato da Reuters. EFE documenta oltre 1.021 persone arrivate tra la sera del 5 e il 6 novembre e una persona deceduta. Il presidente regionale Fernando Clavijo descrive la pressione su sanità e trasporti come insostenibile; il dato complessivo del 2026 resta inferiore al 2024.",
+      "body": [
+        "Il 6 novembre 2026 il governo regionale delle Canarie ha richiamato l'attenzione su un'accelerazione dei soccorsi lungo la rotta atlantica che collega l'Africa occidentale all'arcipelago spagnolo. Reuters, presente a La Restinga, riferisce che nei primi sei giorni di novembre Salvamento Marítimo ha soccorso 3.261 persone. Il presidente delle Canarie Fernando Clavijo ha definito il ritmo recente difficile da sostenere per un territorio insulare con capacità sanitarie e logistiche limitate. Questa è una valutazione politica attribuita, non una misurazione tecnica di collasso dei servizi.",
+        "L'agenzia spagnola EFE ha ricostruito le operazioni svolte tra la serata di giovedì 5 e venerdì 6 novembre a El Hierro, Lanzarote e Gran Canaria, riferendo oltre 1.021 persone trasportate a terra e un decesso. Le due redazioni descrivono finestre temporali diverse: non si devono aggiungere 1.021 a 3.261 come fossero gruppi distinti, perché le operazioni del 5 e 6 rientrano nel totale dei primi sei giorni. I numeri indicano soccorsi o sbarchi assistiti, non il conteggio di tutti i tentativi di traversata.",
+        "L'isola di El Hierro, con circa 11.400 abitanti, ha un ruolo centrale nell'accoglienza temporanea. Clavijo afferma che mezzi di trasporto sono stati deviati dalle attività ordinarie e personale sanitario è stato richiamato da altre isole. La traversata può durare molti giorni in imbarcazioni sovraffollate e con scarsa possibilità di comunicare; gli interventi d'emergenza coinvolgono quindi salute, protezione civile e accertamento delle identità. Reuters segnala un corpo recuperato dopo l'arrivo di due imbarcazioni la sera del 5 novembre, non necessariamente tutte le vittime della settimana.",
+        "Il contesto statistico impedisce una lettura sensazionalistica: Reuters osserva che gli arrivi dei primi dieci mesi del 2026 erano quasi il 61% inferiori a quelli del corrispondente periodo del 2024, nonostante l'impennata dell'ultima settimana. Le condizioni marine più favorevoli in autunno sono indicate da Clavijo come un possibile fattore dell'aumento delle partenze, ma non esauriscono le ragioni dei viaggi. Il punto verificato è l'elevata concentrazione di salvataggi all'inizio di novembre, mentre la durata dell'accelerazione resta da osservare."
+      ],
+      "facts": [
+        "Reuters quantifica 3.261 persone soccorse dal 1° al 6 novembre 2026 lungo la rotta delle Canarie.",
+        "EFE registra oltre 1.021 arrivi assistiti dalla sera del 5 novembre e almeno un decesso: dato incluso in una finestra più breve.",
+        "Reuters riporta che gli arrivi nei primi dieci mesi del 2026 erano inferiori di quasi il 61% allo stesso periodo del 2024."
+      ],
+      "perspectives": [
+        "Clavijo giudica insostenibile la pressione su trasporti e sanità di El Hierro, secondo Reuters.",
+        "Le redazioni sottolineano la mortalità della rotta e la differenza fra picco settimanale e tendenza annuale."
+      ],
+      "unknowns": [
+        "Il numero di imbarcazioni non intercettate e le vittime complessive della traversata nello stesso intervallo non sono accertabili con questi dati.",
+        "Non è noto se l'intensità dei soccorsi persisterà nelle settimane successive."
+      ],
+      "questions": [
+        {
+          "question": "Come vanno letti i 3.261 soccorsi Reuters rispetto agli oltre 1.021 sbarchi documentati da EFE?",
+          "answer": "Il primo numero riguarda i soccorsi complessivi dal 1° al 6 novembre; il secondo riguarda una parte delle operazioni tra la sera del 5 e il 6. Le due finestre si sovrappongono, perciò sommarle produrrebbe un doppio conteggio e non darebbe il numero dei tentativi di traversata."
+        },
+        {
+          "question": "Perché Clavijo considera grave il picco a El Hierro anche se gli arrivi annui sono sotto il 2024?",
+          "answer": "Un confronto annuo misura una tendenza estesa, mentre centinaia di persone soccorse in una sola notte richiedono immediatamente autobus, personale medico e spazi di assistenza. Su un'isola di circa 11.400 abitanti, la distribuzione nel tempo degli arrivi conta per la capacità dei servizi quanto il totale annuale."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "I soccorsi concentrati in pochi giorni incidono direttamente su vite umane e servizi di un'isola piccola, pur senza configurare un record annuale verificato.",
+      "tags": [
+        "Canarie",
+        "migrazione",
+        "soccorsi"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Migrant surge to Spain's Canary Islands is unsustainable, authorities say",
+          "url": "https://www.reuters.com/world/migrant-surge-spains-canary-islands-is-unsustainable-authorities-say-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "EFE",
+          "title": "Desembarcan en El Hierro, Lanzarote y Gran Canaria a más de 1.021 migrantes, uno fallecido",
+          "url": "https://efe.com/canarias/2026-11-06/desembarcan-en-el-hierro-lanzarote-y-gran-canaria-a-mas-de-1-021-migrantes-uno-fallecido/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/canary-islands-rescues-nov6.svg",
+        "alt": "Barca di soccorso stilizzata sulle onde atlantiche, non fotografia dei soccorsi",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/canary-islands-rescues-nov6.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "somalia-supreme-court-term-ruling",
+      "rank": 3,
+      "category": "politics",
+      "title": "Somalia, la Corte suprema dichiara scaduto il mandato presidenziale e chiede elezioni entro 90 giorni",
+      "dek": "La sentenza del 5 novembre respinge la proroga automatica; si apre un conflitto tra poteri dello Stato senza soluzione di successione immediata.",
+      "summary": "In Somalia la Corte suprema ha stabilito il 5 novembre 2026 che l'estensione del mandato del presidente Hassan Sheikh Mohamud e del Parlamento non si applica automaticamente agli organi già eletti. Ha dato 30 giorni alle forze politiche per concordare le regole del voto e 90 giorni per svolgerlo. Il governo non aveva ancora accettato il verdetto quando le redazioni hanno riferito la crisi il 6 novembre.",
+      "body": [
+        "La Corte suprema somala ha pronunciato il 5 novembre una decisione costituzionale che contesta la prosecuzione dei mandati delle attuali istituzioni. Secondo il resoconto della testata somala Garowe Online, la Corte colloca la scadenza del Parlamento al 14 aprile 2026 e quella del presidente Hassan Sheikh Mohamud al 15 maggio. Associated Press conferma il punto centrale: le riforme approvate durante l'anno non possono, secondo il collegio giudicante, prorogare automaticamente il mandato dei titolari in carica.",
+        "Il dispositivo prescrive un accordo fra le forze politiche su un quadro elettorale entro 30 giorni e lo svolgimento delle elezioni entro 90. Distingue inoltre le attività amministrative ordinarie del governo provvisorio da decisioni di carattere politico più ampio. La sentenza non chiarisce da sola chi assumerebbe tutte le funzioni della presidenza se gli organi non collaborassero; né l'ordine dei giudici significa che un voto nazionale complesso possa organizzarsi senza un'intesa sui territori e sulla sicurezza.",
+        "La decisione si inserisce in una contrapposizione tra il presidente e i vertici della magistratura. Il presidente aveva tentato di rimuovere il capo della Corte Baashe Yusuf Ahmed, ma i giudici hanno respinto la validità della decisione e denunciato una lesione dell'indipendenza giudiziaria. Associated Press ricorda che la missione politica delle Nazioni Unite che favoriva il dialogo fra gruppi rivali si è appena chiusa. I precedenti scontri armati a Mogadiscio e la minaccia persistente di al-Shabaab aggravano le conseguenze di un'eventuale paralisi istituzionale.",
+        "L'esecutivo sostiene l'obiettivo di passare al voto diretto, mentre opposizioni e amministrazioni regionali contestano modalità e tempi scelti dall'attuale leadership. Il 6 novembre la presidenza non aveva risposto in modo definitivo alle domande poste da AP sul verdetto. Va quindi distinta la forza giuridica affermata dalla Corte dalla possibilità pratica di attuarlo, che dipenderà dal comportamento di presidenza, Parlamento, opposizione e autorità locali. Il prossimo sviluppo verificabile sarà l'eventuale accordo sulle regole elettorali."
+      ],
+      "facts": [
+        "La Corte suprema ha deciso il 5 novembre 2026 che l'estensione dei mandati non si applica automaticamente agli organi in carica.",
+        "Il verdetto richiede un accordo sulle regole del voto entro 30 giorni ed elezioni entro 90.",
+        "Garowe Online riporta scadenza parlamentare il 14 aprile e presidenziale il 15 maggio 2026."
+      ],
+      "perspectives": [
+        "I giudici rivendicano la validità del mandato originario e la limitazione del governo alle funzioni ordinarie.",
+        "La presidenza sostiene una transizione al suffragio diretto; opposizioni e governi regionali contestano l'iter e la sua legittimità."
+      ],
+      "unknowns": [
+        "L'esecutivo non aveva ancora espresso accettazione del dispositivo al momento dei reportage del 6 novembre.",
+        "Mancano garanzie operative su tempi e sicurezza di un voto nazionale entro 90 giorni."
+      ],
+      "questions": [
+        {
+          "question": "Perché la Corte somala non ha applicato automaticamente alla presidenza la proroga costituzionale del 2026?",
+          "answer": "Secondo il ragionamento riportato dalla stampa locale, le modifiche della durata del mandato devono specificare se valgono anche per chi è già in carica. Senza questa previsione, la Corte ha ritenuto valide le date originarie di scadenza e limitato il potere degli organi al normale disbrigo degli affari."
+        },
+        {
+          "question": "Che differenza c'è tra il termine di 30 giorni e quello di 90 imposto dalla Corte suprema?",
+          "answer": "I primi 30 giorni sono destinati a raggiungere un accordo politico sulle regole e sul quadro delle elezioni. Il termine di 90 giorni riguarda invece lo svolgimento del voto: è una seconda fase che richiede organizzazione, sicurezza e intesa fra autorità centrali e regionali."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Il conflitto di legittimità investe la guida dello Stato e l'organizzazione delle elezioni in un paese già esposto ad attacchi e instabilità.",
+      "tags": [
+        "Somalia",
+        "elezioni",
+        "giustizia"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Somalia's top court rules president's term extension is unlawful, deepening power struggle",
+          "url": "https://apnews.com/article/0beacddf6ba0ef748fc99be4b45e0051",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Garowe Online",
+          "title": "Somalia: Supreme Court rules president, parliament terms expired, orders elections within 90 days",
+          "url": "https://www.garoweonline.com/index.php/en/news/somalia/somalia-supreme-court-rules-president-parliament-terms-expired-orders-elections-within-90-days",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Africanews / AFP",
+          "title": "Political chaos in Somalia after court ruling against president's term extension",
+          "url": "https://www.africanews.com/2026/11/07/political-chaos-in-somalia-after-court-ruling-against-presidents-term-extension/",
+          "publishedAt": "2026-11-07",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/somalia-supreme-court-term-ruling.svg",
+        "alt": "Urna elettorale e bilancia della giustizia, illustrazione non documentaria",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/somalia-supreme-court-term-ruling.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "miller-replaces-wiles-white-house",
+      "rank": 4,
+      "category": "politics",
+      "title": "Trump nomina Stephen Miller capo di gabinetto, al posto di Susie Wiles",
+      "dek": "L'avvicendamento annunciato il 6 novembre sarà operativo il 9; segue la perdita del Congresso da parte dei repubblicani, ma Trump nega un nesso diretto.",
+      "summary": "Il presidente statunitense Donald Trump ha annunciato il 6 novembre 2026 che Stephen Miller diventerà capo di gabinetto della Casa Bianca lunedì 9 novembre, sostituendo Susie Wiles, destinata all'organizzazione politica del presidente. L'annuncio arriva dopo le elezioni di metà mandato perse dai repubblicani; la coincidenza cronologica non prova da sola le motivazioni del cambiamento.",
+      "body": [
+        "Il 6 novembre il presidente Donald Trump ha scelto Stephen Miller, fino ad allora vicecapo di gabinetto per le politiche pubbliche, come nuovo capo di gabinetto della Casa Bianca. La decisione è stata confermata nel comunicato ufficiale e da reportage autonomi di Reuters, Associated Press e CBS News. L'incarico avrà effetto dal 9 novembre, dunque nella finestra esaminata il passaggio operativo non era ancora avvenuto. Susie Wiles, che ha diretto lo staff dall'inizio del secondo mandato, passerà a un ruolo nell'organizzazione politica legata al presidente.",
+        "La nomina segue di pochi giorni il voto del 3 novembre, in cui i democratici hanno conquistato il controllo di entrambe le Camere del Congresso. Questa modifica istituzionale rende più difficile approvare leggi senza un negoziato con l'opposizione e può accrescere il ricorso agli strumenti esecutivi. Reuters interpreta la scelta di Miller come segnale di continuità o rafforzamento dell'approccio conflittuale sui dossier interni. È un'analisi del giornale, non una legge o un provvedimento già adottato dal nuovo capo dello staff.",
+        "Miller è un collaboratore di lunga data di Trump ed è associato alle politiche restrittive sull'immigrazione e a una lettura ampia dei poteri presidenziali. Il capo di gabinetto coordina il personale, stabilisce accesso al presidente e organizza le priorità amministrative, ma non può da solo emanare norme né sostituirsi al Congresso o ai tribunali. Per questo la nomina è importante per il funzionamento del governo anche quando non cambia formalmente il programma politico.",
+        "Trump ha dichiarato che la sostituzione non dipende dal risultato delle elezioni e ha elogiato il lavoro di Wiles. Esponenti democratici hanno criticato la scelta e annunciato una vigilanza più intensa su decisioni e procedure dell'amministrazione; gli alleati repubblicani l'hanno accolta favorevolmente. Le dichiarazioni sono posizioni attribuite. L'effettivo effetto su immigrazione, rapporti con il Congresso e organizzazione dei funzionari si potrà misurare soltanto dopo il passaggio di consegne."
+      ],
+      "facts": [
+        "Il 6 novembre Trump ha annunciato la scelta di Miller come capo di gabinetto con effetto dal 9 novembre.",
+        "Susie Wiles è destinata all'organizzazione politica del presidente, secondo la Casa Bianca.",
+        "Il Congresso eletto il 3 novembre avrà maggioranze democratiche, elemento di contesto verificato e distinto dalle motivazioni personali della nomina."
+      ],
+      "perspectives": [
+        "Trump afferma che il cambio non è una reazione alle elezioni e ringrazia Wiles.",
+        "Reuters e AP descrivono la nomina come potenzialmente decisiva per la strategia esecutiva; democratici e alleati del presidente ne danno valutazioni contrapposte."
+      ],
+      "unknowns": [
+        "I cambiamenti operativi su personale e priorità non sono ancora osservabili prima del 9 novembre.",
+        "Non sono dimostrate pubblicamente le ragioni interne complete delle dimissioni di Wiles."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa cambia nel lavoro della Casa Bianca con Miller capo di gabinetto dal 9 novembre?",
+          "answer": "Il capo di gabinetto coordina lo staff, organizza le decisioni e gestisce priorità e accesso al presidente. Miller porterà in quella posizione una lunga esperienza nella definizione della linea politica, ma non può approvare da solo leggi o disporre poteri che spettano al Congresso."
+        },
+        {
+          "question": "Perché la nomina di Miller potrebbe pesare sui rapporti con il Congresso dopo le elezioni del 3 novembre?",
+          "answer": "Le nuove maggioranze democratiche possono bloccare proposte legislative e avviare controlli sull'amministrazione. Un collaboratore vicino alla linea dura sull'immigrazione può orientare la strategia esecutiva per rispondere a questi vincoli; questa è una conseguenza possibile, non un accordo o uno scontro già avvenuto."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "La guida operativa della Casa Bianca incide sull'attuazione delle politiche di una potenza globale dopo un cambio di maggioranza parlamentare, pur senza nuove leggi già adottate.",
+      "tags": [
+        "Casa-Bianca",
+        "Stati-Uniti",
+        "governo"
+      ],
+      "sources": [
+        {
+          "outlet": "White House",
+          "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+          "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+          "url": "https://www.reuters.com/world/us/trump-says-stephen-miller-become-chief-staff-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat",
+          "url": "https://apnews.com/article/95690fe076f6bb8cfe2bf77435a1910d",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "CBS News",
+          "title": "Stephen Miller to replace Susie Wiles as White House chief of staff, Trump says",
+          "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/miller-replaces-wiles-white-house.svg",
+        "alt": "Edificio istituzionale e cartellina di incarico, senza ritratti",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/miller-replaces-wiles-white-house.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "europe-friday-bomb-threats-flights-media",
+      "rank": 5,
+      "category": "society",
+      "title": "Nuove minacce bomba su voli e redazioni europee: nessun ordigno trovato il 6 novembre",
+      "dek": "AP riporta undici allarmi aerei nella giornata; il Guardian censisce almeno 18 voli coinvolti, con criteri di conteggio differenti.",
+      "summary": "Il 6 novembre 2026 nuove segnalazioni di bombe hanno causato controlli e deviazioni di voli in più paesi europei, e allarmi hanno interessato anche alcune emittenti. Associated Press riferisce undici minacce contro voli quel giorno, mentre il Guardian conta almeno diciotto collegamenti aerei interessati. Le autorità non hanno trovato ordigni e non hanno identificato con certezza chi abbia inviato le minacce.",
+      "body": [
+        "Venerdì 6 novembre è proseguita la serie di falsi allarmi bomba che aveva interessato l'aviazione europea nei giorni precedenti. Associated Press ha raccolto le comunicazioni delle autorità di trasporto e sicurezza di più Stati; il Guardian ha ricostruito gli episodi in tempo reale con corrispondenti in vari paesi. Voli diretti o provenienti da Praga, Sofia, Parigi e Roma sono stati sottoposti a controlli, deviazioni o accompagnamenti militari. Le ispezioni riferite non hanno trovato esplosivi e non risultavano feriti nella finestra considerata.",
+        "I numeri non sono perfettamente sovrapponibili. Il commissario europeo ai Trasporti Apostolos Tzitzikostas ha parlato, secondo AP, di undici minacce venerdì, contro quattordici giovedì e sette martedì. Il Guardian ha documentato almeno diciotto voli toccati dagli allarmi di venerdì, un conteggio che può includere collegamenti soggetti a conseguenze operative differenti. Sommare le cifre come voli unici o passeggeri evacuati produrrebbe una misura ingannevole senza confrontare casi e definizioni.",
+        "La giornata ha visto anche minacce rivolte a strutture dell'informazione, fra cui l'emittente pubblica irlandese RTÉ, che ha evacuato temporaneamente alcuni locali, e redazioni nel Regno Unito e in Bulgaria. Le autorità devono considerare ogni avviso credibile fino alle verifiche, anche se molti si rivelano falsi. L'impatto economico e operativo può quindi essere reale pur in assenza di una bomba: deviazioni, scorte e controlli impegnano aeroporti, polizie e compagnie.",
+        "Diverse persone e gruppi hanno avanzato interpretazioni su una possibile campagna coordinata o forma di pressione ibrida, ma l'identità dei responsabili e l'eventuale regia statale non sono state provate. Il ministro degli Esteri spagnolo Albares ha ipotizzato una matrice comune e ha chiesto indagini; il Guardian riporta che gli investigatori non avevano stabilito collegamenti certi. La notizia è la perturbazione documentata del 6 novembre, non l'accertamento delle accuse attribuite a soggetti sconosciuti."
+      ],
+      "facts": [
+        "AP riferisce undici minacce contro voli il 6 novembre; il Guardian almeno 18 voli interessati in un conteggio operativo diverso.",
+        "Non sono stati trovati ordigni nelle ispezioni descritte dalle autorità.",
+        "Allarmi hanno interessato anche redazioni come RTÉ in Irlanda e altri media europei."
+      ],
+      "perspectives": [
+        "Albares e altri politici ipotizzano una campagna coordinata; la possibile matrice resta un'ipotesi.",
+        "Le autorità aeronautiche ritengono necessari controlli anche per segnalazioni sospettate di essere falsi allarmi."
+      ],
+      "unknowns": [
+        "Non sono noti con certezza mittenti e motivazioni degli avvisi.",
+        "La relazione fra gli episodi di giorni differenti non è stata accertata in modo conclusivo."
+      ],
+      "questions": [
+        {
+          "question": "Perché AP parla di undici minacce mentre il Guardian indica almeno diciotto voli interessati il 6 novembre?",
+          "answer": "Le fonti utilizzano categorie differenti: undici segnalazioni riferite dal commissario europeo e almeno diciotto collegamenti aerei coinvolti nelle conseguenze degli allarmi secondo il Guardian. Una singola segnalazione può incidere su più operazioni, quindi non vanno trattate come due conteggi identici."
+        },
+        {
+          "question": "Come può una minaccia falsa interrompere un volo anche quando non si trova alcun ordigno?",
+          "answer": "Le compagnie e le autorità devono controllare l'aeromobile e la sicurezza dei passeggeri prima di escludere il pericolo; ciò può comportare scorta, atterraggio alternativo, ispezione ed evacuazione temporanea. Il costo e il ritardo sono conseguenze reali di un avviso poi risultato infondato."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Le minacce hanno comportato interruzioni di trasporti e servizi di informazione in più Stati senza feriti o esplosivi confermati.",
+      "tags": [
+        "aviazione",
+        "sicurezza",
+        "Europa"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "European flights and broadcasters are targeted with another wave of bomb threats",
+          "url": "https://apnews.com/article/31e26bfeb744b9ce8b81b73dbac6a4b8",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+          "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/europe-friday-bomb-threats-flights-media.svg",
+        "alt": "Aereo stilizzato e scudo di verifica della sicurezza",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/europe-friday-bomb-threats-flights-media.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "fincen-mexc-crypto-transfer-order",
+      "rank": 6,
+      "category": "economy",
+      "title": "FinCEN ordina il blocco dei trasferimenti bancari USA collegati a MEXC Global",
+      "dek": "Il Tesoro statunitense sostiene che l'exchange abbia facilitato almeno 16 miliardi di dollari di transazioni illecite; l'ordine entra in vigore dopo la pubblicazione ufficiale.",
+      "summary": "Il 6 novembre 2026 la FinCEN del Tesoro americano ha emesso un ordine che vieta agli istituti finanziari statunitensi di processare trasferimenti da o verso l'exchange di criptovalute MEXC Global. L'autorità allega transazioni illecite per almeno 16 miliardi di dollari fra il 2021 e il 2026. La cifra è una contestazione dell'amministrazione, non una condanna definitiva emessa da un giudice.",
+      "body": [
+        "Il 6 novembre il Financial Crimes Enforcement Network (FinCEN), agenzia del Dipartimento del Tesoro statunitense, ha annunciato un ordine contro la piattaforma di scambio di criptovalute MEXC Global. Il divieto colpisce i trasferimenti di fondi elaborati da istituti finanziari soggetti alle norme USA, impedendo loro di inviare o ricevere denaro attraverso operazioni che coinvolgano la piattaforma. Reuters e la testata specializzata The Block hanno riportato la misura, distinguendola dalle sanzioni decise nello stesso giorno contro otto operatori finanziari canadesi.",
+        "Il Tesoro afferma che fra maggio 2021 e maggio 2026 MEXC Global abbia facilitato almeno 16 miliardi di dollari in trasferimenti legati ad aggiramento di sanzioni, attività informatiche criminali e attori connessi a Iran, Corea del Nord e Russia. Aggiunge che circa un miliardo avrebbe riguardato operazioni dirette con oltre quaranta exchange iraniani. Si tratta di risultati di un'indagine e di allegazioni dell'autorità, non di prove giudiziarie che tutti i trasferimenti del periodo siano stati già accertati come reati.",
+        "L'ordine è emanato ai sensi della sezione 9714(a) del Combating Russian Money Laundering Act. La misura stabilisce un divieto per banche e altri intermediari statunitensi, non un blocco tecnico universale di Internet né il sequestro automatico delle criptovalute di tutti i clienti di MEXC nel mondo. Secondo il comunicato del Tesoro, il divieto diventerà efficace trenta giorni dopo la pubblicazione nel Federal Register. È dunque necessario distinguere la decisione annunciata il 6 novembre dal giorno in cui gli intermediari saranno tenuti a rispettarla.",
+        "Il Dipartimento ritiene che l'azione riduca la capacità di organizzazioni sanzionate di spostare fondi attraverso il sistema statunitense. Non è possibile inferire dai dati citati la sorte di ogni trasferimento o il comportamento futuro dei clienti. Un singolo ordine può modificare l'accesso alle controparti in dollari, mentre resta da verificare l'impatto effettivo su liquidità e conformità dell'exchange. La misura solleva anche interrogativi generali sull'efficacia della supervisione antiriciclaggio nei mercati degli asset digitali."
+      ],
+      "facts": [
+        "Il 6 novembre FinCEN ha annunciato un ordine che vieta ai soggetti finanziari USA trasferimenti da e verso MEXC Global.",
+        "La cifra di almeno 16 miliardi di dollari nel 2021–26 è una conclusione contestata del Tesoro, non una sentenza.",
+        "Il Tesoro indica entrata in vigore 30 giorni dopo pubblicazione nel Federal Register."
+      ],
+      "perspectives": [
+        "Il Tesoro qualifica la misura come difesa contro sanzioni aggirate e criminalità finanziaria.",
+        "La misura colpisce gli intermediari USA; gli effetti su utenti globali e alternative di pagamento non sono stabiliti dalle fonti."
+      ],
+      "unknowns": [
+        "Il volume di trasferimenti effettivamente interrotto dopo la data di efficacia non è noto.",
+        "Non sono disponibili in queste fonti esiti giudiziari definitivi su tutte le operazioni qualificate dal Tesoro."
+      ],
+      "questions": [
+        {
+          "question": "A chi si rivolge tecnicamente l'ordine FinCEN contro MEXC Global?",
+          "answer": "Si rivolge agli istituti finanziari statunitensi, ai quali vieta i trasferimenti di fondi che coinvolgono la piattaforma. Non significa che l'autorità abbia già confiscato ogni portafoglio degli utenti o spento il servizio per tutti i paesi."
+        },
+        {
+          "question": "Come va interpretata la cifra di 16 miliardi di dollari attribuita dal Tesoro a MEXC?",
+          "answer": "È il minimo che FinCEN ritiene collegato a schemi illeciti nel periodo maggio 2021–maggio 2026 sulla base della propria analisi. Misura il volume di trasferimenti contestati, non profitti illeciti già recuperati o l'ammontare di una condanna penale definitiva."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "La decisione ha rilievo per compliance e canali in dollari del mercato crittografico, ma le conseguenze economiche vanno ancora misurate.",
+      "tags": [
+        "criptovalute",
+        "sanzioni",
+        "finanza"
+      ],
+      "sources": [
+        {
+          "outlet": "US Treasury",
+          "title": "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
+          "url": "https://home.treasury.gov/news/press-releases/sb0685/",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+          "url": "https://www.reuters.com/world/middle-east/us-treasury-sanctions-canadian-money-services-firms-over-iran-related-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Block",
+          "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+          "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/fincen-mexc-crypto-transfer-order.svg",
+        "alt": "Rete digitale di trasferimenti e simbolo di blocco del flusso",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/fincen-mexc-crypto-transfer-order.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "bank-of-england-nov5-rate-rise",
+      "rank": 7,
+      "category": "economy",
+      "title": "Banca d'Inghilterra, tasso al 4% dopo il rialzo di 25 punti base deciso 8 a 1",
+      "dek": "La decisione del 5 novembre risponde ai rincari energetici e a inflazione del 3,5%; la banca teme il trasferimento dei costi alle altre merci.",
+      "summary": "Il comitato di politica monetaria della Bank of England il 5 novembre 2026 ha portato il Bank Rate al 4%, aumentando di un quarto di punto con voto 8–1. La banca riferisce inflazione al 3,5% e prevede circa 5% entro metà 2027, in uno scenario di rincari energetici associati al conflitto in Medio Oriente. La previsione è condizionata, non un tasso già registrato.",
+      "body": [
+        "La banca centrale britannica ha deciso il 5 novembre 2026 un incremento del tasso ufficiale dal 3,75% al 4%. Otto membri del comitato di politica monetaria hanno sostenuto il rialzo e uno ha votato contro. La decisione e le dichiarazioni individuali sono pubblicate dalla Bank of England e sono state esaminate da Reuters e Guardian. È un provvedimento effettivamente preso il 5 novembre, non un'ipotesi su ciò che potrebbe accadere nel prossimo incontro.",
+        "Il motivo dichiarato è l'inflazione, che la banca quantifica al 3,5% contro un obiettivo del 2%. L'aumento dei costi dell'energia è collegato, nel quadro della banca, alle interruzioni degli approvvigionamenti causate dal conflitto in Medio Oriente. La stima di un aumento fino a circa il 5% a metà 2027 riguarda uno scenario di previsione ed è esposta a sviluppi dei prezzi dell'energia e della domanda. Non si tratta di un risultato certo.",
+        "Un tasso ufficiale più elevato tende a rendere più oneroso il credito e può contenere la spesa privata, riducendo nel tempo la pressione sui prezzi. Il trasferimento sui mutui, sui prestiti e sui depositi dipende tuttavia dalla struttura dei contratti e dalle decisioni degli intermediari. Il governatore Andrew Bailey ha sottolineato la necessità di contrastare la propagazione dei rincari dell'energia, senza promettere che ogni voce di spesa domestica diminuirà immediatamente.",
+        "La divisione del voto mostra che i membri non concordano sul bilanciamento fra inflazione e crescita economica. Reuters riporta che molti ritengono possibili ulteriori aumenti se la pressione sui prezzi persiste, ma tali dichiarazioni non equivalgono a decisioni future vincolanti. La prossima data pubblicata dall'istituto è il 17 dicembre. Il contenuto pubblico rilevante è il costo del credito già modificato e la necessità di separare la decisione corrente dalle traiettorie ipotizzate."
+      ],
+      "facts": [
+        "Il 5 novembre 2026 la Bank of England ha aumentato il Bank Rate di 0,25 punti percentuali al 4%.",
+        "La votazione del comitato è stata 8 a 1 a favore.",
+        "Inflazione attuale 3,5% e previsione intorno al 5% a metà 2027 sono dati e proiezioni della banca centrale."
+      ],
+      "perspectives": [
+        "Bailey attribuisce al rincaro dell'energia una pressione che potrebbe propagarsi ai prezzi nazionali.",
+        "Membri del comitato divergono sul bisogno di ulteriori rialzi: sono orientamenti condizionati ai dati futuri."
+      ],
+      "unknowns": [
+        "L'evoluzione dei prezzi dell'energia e l'inflazione effettiva di metà 2027 non sono note.",
+        "L'effetto sui singoli contratti di credito varia e non è ricavabile automaticamente dal tasso ufficiale."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa significa il voto 8–1 con cui la Bank of England ha portato il Bank Rate al 4%?",
+          "answer": "Otto dei nove membri del Monetary Policy Committee hanno approvato un aumento di 25 punti base dal 3,75% al 4%, mentre uno ha preferito un'altra decisione. Il voto riguarda il provvedimento del 5 novembre, non autorizza a dare per scontato un ulteriore aumento."
+        },
+        {
+          "question": "Perché un rincaro del petrolio può spingere la Bank of England a rialzare il costo del credito?",
+          "answer": "L'energia più cara aumenta carburanti, bollette e costi delle imprese, che possono trasferirsi ai prezzi di altri beni e servizi. Rialzare i tassi mira a limitare la domanda e la persistenza dell'inflazione, ma comporta anche un costo per chi si finanzia."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Il rialzo colpisce il costo del credito dell'economia britannica e riflette shock energetici globali, ma resta una singola decisione monetaria.",
+      "tags": [
+        "Regno-Unito",
+        "inflazione",
+        "tassi"
+      ],
+      "sources": [
+        {
+          "outlet": "Bank of England",
+          "title": "Interest rates and Bank Rate: our latest decision",
+          "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
+          "publishedAt": "2026-11-05",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Bank of England policymakers set out views on rates outlook",
+          "url": "https://live.euronext.com/en/financial-news/bank-england-policymakers-set-out-views-rates-outlook-0",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Bank of England interest rate decision, pound, inflation and oil",
+          "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/bank-of-england-nov5-rate-rise.svg",
+        "alt": "Banca centrale stilizzata e quadrante per costo del denaro",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/bank-of-england-nov5-rate-rise.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "ukraine-zelensky-written-postwar-guarantees",
+      "rank": 8,
+      "category": "politics",
+      "title": "Zelensky chiede garanzie scritte per la sicurezza ucraina prima di nuovi colloqui",
+      "dek": "La richiesta segue gli incontri del 4–5 novembre a Bruxelles; negoziati con Russia e Stati Uniti sono programmati ad Abu Dhabi, non ancora conclusi.",
+      "summary": "Il 6 novembre 2026 il presidente Volodymyr Zelensky ha ribadito la necessità di impegni scritti degli alleati sulla risposta a eventuali nuove aggressioni russe dopo un accordo di pace. La richiesta segue due giornate di colloqui sulla sicurezza e la ricostruzione a Bruxelles. Incontri trilaterali ad Abu Dhabi erano attesi per la settimana successiva, ma non risultava alcuna intesa firmata.",
+      "body": [
+        "Il presidente ucraino Volodymyr Zelensky ha insistito, in un'intervista diffusa nella serata del 5 novembre e ripresa dalla stampa il 6, sul bisogno di garanzie scritte e dettagliate da parte degli alleati. La domanda è come Stati Uniti e partner europei reagirebbero a una nuova aggressione russa dopo un'eventuale cessazione della guerra. Associated Press ha documentato la richiesta e il ciclo di consultazioni di Bruxelles, mentre Reuters ha raccolto la posizione del Cremlino su un futuro assetto di sicurezza europeo.",
+        "Le consultazioni del 4 e 5 novembre a Bruxelles hanno riunito rappresentanti dell'Ucraina, degli Stati Uniti, di paesi europei, dell'Unione europea e di istituzioni finanziarie. I temi comprendevano sicurezza del dopoguerra, ricostruzione e sostegno economico per il 2027. Un confronto multilaterale non equivale a un trattato: le garanzie richieste dovrebbero indicare sia la natura del sostegno sia quando e da chi verrebbe attivato. Le modalità non erano ancora definite nei testi consultati.",
+        "Il portavoce del Cremlino Dmitry Peskov ha affermato il 6 novembre che Mosca non aveva ricevuto proposte europee concrete e che in futuro il continente avrebbe comunque dovuto partecipare a discussioni sulla sicurezza. È una dichiarazione di parte, non la conferma che l'Europa sia stata esclusa da ogni tavolo. Trump ha accennato a un possibile accordo ampio con implicazioni europee, ma senza mostrare un testo o un calendario concordato di firma. Secondo AP erano previsti nuovi colloqui con Ucraina, Russia e Stati Uniti ad Abu Dhabi nella settimana successiva.",
+        "La diplomazia continua mentre la guerra produce conseguenze immediate sui civili e sulle infrastrutture. AP riferisce attacchi a impianti elettrici e un aumento del bilancio di vittime in un bombardamento russo del 2 novembre su un centro umanitario a Komyshuvakha. Le cifre sono soggette ad aggiornamenti e non costituiscono il tema primario di questo articolo. Il significato della notizia del 6 novembre è la richiesta di stabilire risposte verificabili a future violazioni della pace, non un cessate il fuoco già raggiunto."
+      ],
+      "facts": [
+        "Zelensky ha chiesto impegni scritti e specifici degli alleati in un'intervista diffusa il 5 novembre e ripresa il 6.",
+        "Bruxelles ha ospitato il 4–5 novembre consultazioni su garanzie e ricostruzione.",
+        "Colloqui trilaterali a Abu Dhabi erano previsti per la settimana seguente, senza accordo di pace firmato nella finestra."
+      ],
+      "perspectives": [
+        "Zelensky ritiene insufficienti promesse generiche per impedire una nuova aggressione.",
+        "Peskov sostiene che i partner europei non abbiano ancora presentato una posizione concreta condivisa; non è un fatto accertato da fonti neutrali."
+      ],
+      "unknowns": [
+        "Non esiste ancora un meccanismo di risposta concordato e pubblicato dagli alleati.",
+        "Esito e partecipazione definitiva ai colloqui futuri non possono essere anticipati."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa chiede in più Zelensky con garanzie scritte anziché dichiarazioni generiche?",
+          "answer": "Chiede una descrizione concreta di quali aiuti militari e politici verrebbero forniti, da chi e con quali condizioni se la Russia attaccasse nuovamente dopo la pace. Le discussioni di Bruxelles riguardano quel meccanismo, non un trattato già firmato."
+        },
+        {
+          "question": "Perché gli incontri programmati ad Abu Dhabi non equivalgono a un accordo per la sicurezza dell'Ucraina?",
+          "answer": "Un appuntamento negoziale può riunire delegazioni per discutere proposte, ma non determina da solo impegni vincolanti, cessate il fuoco o tempi di attuazione. Al 6 novembre i garanti e le condizioni richieste da Kiev non erano stati formalizzati."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Garanzie di sicurezza e ricostruzione incidono sul futuro di un conflitto europeo di vasta portata, ma mancano ancora impegni firmati.",
+      "tags": [
+        "Ucraina",
+        "negoziati",
+        "sicurezza"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Ukrainian President Zelenskyy presses Western allies for clear postwar security guarantees",
+          "url": "https://apnews.com/article/713268db3dac59bff6ad6c831c72cdb6",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Kremlin accuses Europe of struggling to decide who will speak for it at future Ukraine security talks",
+          "url": "https://www.investing.com/news/world-news/kremlin-accuses-europe-of-struggling-to-decide-who-will-speak-foritat-future-ukraine-security-talks-5007079",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Ukraine war briefing: Zelenskyy says Russia has damaged every power plant as he seeks Latin American help",
+          "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/ukraine-zelensky-written-postwar-guarantees.svg",
+        "alt": "Documento e scudo di garanzia, nessun accordo reale raffigurato",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/ukraine-zelensky-written-postwar-guarantees.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "cop31-antalya-agenda-before-opening",
+      "rank": 9,
+      "category": "climate",
+      "title": "COP31 al via il 9 novembre ad Antalya: riduzione dei fossili e finanza climatica al centro delle attese",
+      "dek": "I negoziati non sono ancora iniziati; la presidenza turca e la guida australiana del tavolo dovranno conciliare priorità energetiche divergenti.",
+      "summary": "Alla vigilia della COP31, in programma ad Antalya dal 9 al 20 novembre 2026, Reuters e Guardian il 6 novembre hanno delineato le questioni principali: uscita dalle fonti fossili, sviluppo dell'elettricità pulita e aiuti ai paesi vulnerabili. La Turchia ospita e presiede la conferenza, mentre l'Australia guida i negoziati. Nessuna intesa finale della COP31 esiste alla data dell'edizione.",
+      "body": [
+        "La trentunesima conferenza sul clima delle Nazioni Unite è programmata al centro congressi di Antalya, in Turchia, dal 9 al 20 novembre 2026. Il 6 novembre Reuters e Guardian hanno esaminato le proposte e i contrasti attesi, ma l'apertura ufficiale è ancora futura rispetto al 7 novembre. Il vertice dei capi di Stato è fissato all'11 e 12 novembre. Date e sedi sono confermate dall'UNFCCC, la convenzione delle Nazioni Unite sul clima, e servono a distinguere i programmi dalle decisioni che potranno essere prese.",
+        "L'organizzazione prevede un assetto insolito: il ministro turco Murat Kurum presiede la COP, mentre il ministro australiano Chris Bowen guida il lavoro negoziale. Il Guardian spiega che l'intesa nasce da una disputa sulle candidature per ospitare la conferenza. Le due economie hanno rapporti significativi con il carbone, come consumatore e come esportatore, e dovranno negoziare con Stati che chiedono riduzioni più rapide dei combustibili fossili. Le dichiarazioni di impegno non implicano che sia già stato concordato un calendario globale di eliminazione.",
+        "Il capitolo finanziario riguarda risorse per mitigazione, adattamento ai danni del clima e sostegno ai paesi a reddito più basso. Reuters richiama dati ONU in base ai quali i finanziamenti per l'adattamento provenienti dai paesi sviluppati hanno raggiunto 28,2 miliardi di dollari nel 2024, contro una stima di fabbisogni annui di circa 305 miliardi nei paesi in via di sviluppo. Sono grandezze calcolate con perimetri differenti, che illustrano un divario, non un debito individuale immediatamente esigibile di un identico importo.",
+        "Tra le idee preparatorie figura l'obiettivo discusso di arrivare al 35% della domanda finale di energia soddisfatta dall'elettricità entro il 2035, secondo il Guardian. Non è un risultato negoziale approvato alla data del 7 novembre. Parte delle discussioni riguarderà anche metano, efficienza, reti e protezione dei lavoratori nella transizione. I negoziati futuri potrebbero modificare testi e cifre; l'interesse pubblico attuale sta nelle priorità e nel contrasto fra ambizioni annunciate e possibilità concrete di attuazione."
+      ],
+      "facts": [
+        "COP31 è prevista dal 9 al 20 novembre ad Antalya e il vertice dei leader dall'11 al 12, secondo UNFCCC.",
+        "Il presidente designato è Murat Kurum; Chris Bowen dell'Australia presiede i negoziati.",
+        "Reuters richiama 28,2 miliardi di dollari di finanziamenti adattamento del 2024 e fabbisogni annui stimati di 305 miliardi."
+      ],
+      "perspectives": [
+        "Reuters sottolinea la difficoltà nel trasformare impegni sulla riduzione dei fossili in finanziamenti e politiche.",
+        "Il Guardian evidenzia le tensioni fra la dipendenza dal carbone dei due paesi guida e gli obiettivi di elettrificazione."
+      ],
+      "unknowns": [
+        "Non sono noti accordi finali della COP31, che inizierà dopo la data dell'edizione.",
+        "Le proposte preparatorie, compreso il 35% di elettrificazione, potrebbero non essere adottate nella formulazione attuale."
+      ],
+      "questions": [
+        {
+          "question": "Come si dividono i ruoli fra Turchia e Australia durante la COP31 di Antalya?",
+          "answer": "La Turchia ospita la conferenza e il suo ministro Murat Kurum ne è presidente formale; l'australiano Chris Bowen presiede la conduzione dei negoziati. La divisione è frutto di un compromesso organizzativo e non assegna automaticamente a uno dei due paesi la facoltà di decidere l'esito per tutti."
+        },
+        {
+          "question": "Perché i 28,2 miliardi di fondi adattamento del 2024 non coprono i 305 miliardi indicati per i paesi in sviluppo?",
+          "answer": "Il primo dato misura flussi finanziari attribuiti ai paesi sviluppati in un anno passato, mentre il secondo è una stima del fabbisogno annuale futuro di adattamento. Il confronto evidenzia un grande divario di risorse disponibili rispetto alle necessità, ma non equivale a un bilancio contrattuale chiuso della COP31."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Le trattative ONU sul clima hanno portata globale, ma l'articolo riguarda preparativi e divari preesistenti, non un accordo ancora inesistente.",
+      "tags": [
+        "COP31",
+        "clima",
+        "finanza"
+      ],
+      "sources": [
+        {
+          "outlet": "UNFCCC",
+          "title": "COP31 Host Country Agreement enters into force",
+          "url": "https://unfccc.int/news/cop31-host-country-agreement-enters-into-force",
+          "publishedAt": "2026-10-09",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Fossil fuel cuts and finance top COP31 agenda",
+          "url": "https://www.reuters.com/sustainability/fossil-fuel-cuts-finance-top-cop31-agenda-2026-11-06/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Cop31 will expose the conflicts and contradictions of the world's fossil fuel reliance",
+          "url": "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance",
+          "publishedAt": "2026-11-06",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/cop31-antalya-agenda-before-opening.svg",
+        "alt": "Globo e foglia per conferenza sul clima, non fotografia del vertice",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/cop31-antalya-agenda-before-opening.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "us-stocks-nov6-rebound-weekly-loss",
+      "rank": 10,
+      "category": "economy",
+      "title": "Wall Street chiude la settimana in calo nonostante il rimbalzo del Nasdaq del 6 novembre",
+      "dek": "Il Nasdaq sale dell'1,1% venerdì ma perde il 3,4% nella settimana; la volatilità segue risultati elettorali e timori sui titoli AI.",
+      "summary": "Il 6 novembre 2026 la Borsa statunitense ha registrato una seduta mista: il Nasdaq ha guadagnato l'1,1% e lo S&P 500 lo 0,3%, mentre il Dow Jones è sceso dello 0,5%, secondo i dati di chiusura AP e Reuters. La settimana rimane negativa, con il Nasdaq a -3,4% e lo S&P 500 a -2,7%. Le spiegazioni sulla causa dei movimenti sono ipotesi degli analisti, non relazioni causali accertate.",
+      "body": [
+        "La sessione di venerdì 6 novembre a Wall Street ha interrotto almeno temporaneamente una forte vendita dei titoli tecnologici. L'Associated Press ha registrato la chiusura del Nasdaq Composite a 24.579,42 punti, in aumento dell'1,1%, e dello S&P 500 a 7.376,86 punti, in rialzo dello 0,3%. Il Dow Jones Industrial Average è invece arretrato dello 0,5% a 51.285,73 punti. Reuters, in un proprio resoconto delle contrattazioni di chiusura, conferma il rimbalzo dei titoli AI e il segno misto degli indici.",
+        "Il quadro settimanale rimane negativo nonostante la seduta conclusiva: AP riporta Nasdaq -3,4%, S&P 500 -2,7% e Dow -0,9% dal venerdì precedente. Si tratta di variazioni di prezzo degli indici, non di flussi di denaro dai fondi e nemmeno di perdite monetarie direttamente incassate da ogni risparmiatore. I dati di mercato sono misure delle quotazioni; per calcolare il risultato di un investimento individuale servirebbero date di acquisto, commissioni e composizione del portafoglio.",
+        "Le contrattazioni sono avvenute dopo una settimana segnata dalle elezioni statunitensi del 3 novembre, dalla brusca correzione di giovedì 5 e dal rapporto sul lavoro più forte delle attese pubblicato il 6. Reuters collega i timori di alcuni operatori alla prospettiva di una regolazione più severa dell'AI da parte del nuovo Congresso a maggioranza democratica e ai rendimenti del debito pubblico. Sono attribuzioni e interpretazioni di mercato: il movimento di un indice non dimostra da solo che una sola decisione o un unico fatto ne sia la causa.",
+        "Le azioni dei produttori di semiconduttori e di altre società legate all'intelligenza artificiale hanno recuperato una parte dei ribassi recenti, ma Reuters ricorda che il Nasdaq ha registrato la quarta settimana consecutiva negativa. Il cambiamento fra giovedì e venerdì rende particolarmente rischioso presentare la seduta come inversione duratura. I movimenti di prezzo saranno rilevanti per famiglie, imprese e investitori, ma non sono di per sé prove di un miglioramento della redditività futura del comparto tecnologico."
+      ],
+      "facts": [
+        "Alla chiusura del 6 novembre Nasdaq +1,1%, S&P 500 +0,3%, Dow -0,5% secondo AP.",
+        "Nella settimana Nasdaq -3,4%, S&P 500 -2,7%, Dow -0,9%.",
+        "Reuters segnala il recupero dei semiconduttori e la quarta settimana consecutiva negativa del Nasdaq."
+      ],
+      "perspectives": [
+        "Analisti citati da Reuters collegano parte della volatilità a aspettative sulle regole AI dopo le elezioni e ai rendimenti obbligazionari.",
+        "La lettura della seduta come recupero stabile non è dimostrata dalla variazione di un solo giorno."
+      ],
+      "unknowns": [
+        "Non è possibile attribuire in modo esclusivo il movimento degli indici a una singola notizia.",
+        "La durata del recupero e l'effetto su rendimenti futuri non sono determinabili dalle chiusure settimanali."
+      ],
+      "questions": [
+        {
+          "question": "Come può il Nasdaq guadagnare l'1,1% il 6 novembre e perdere il 3,4% nell'intera settimana?",
+          "answer": "Il guadagno dell'1,1% confronta la chiusura di venerdì con quella di giovedì; il -3,4% confronta invece venerdì 6 con venerdì 30 ottobre. Un recupero in una sola seduta può attenuare, ma non cancellare, cali più pronunciati nei giorni precedenti."
+        },
+        {
+          "question": "Perché i timori di regolazione dell'AI non sono la causa accertata del calo degli indici?",
+          "answer": "Reuters riferisce l'interpretazione di operatori che considerano le nuove maggioranze democratiche e le prospettive di regole più severe, insieme a tassi e valutazioni azionarie. I prezzi aggregano molti scambi e aspettative, quindi non isolano un singolo fattore causale."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "Le quotazioni influenzano investitori e costo del capitale su scala internazionale, ma l'articolo riguarda volatilità settimanale senza cambiamento strutturale provato.",
+      "tags": [
+        "Wall-Street",
+        "mercati",
+        "tecnologia"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "How major US stock indexes fared Friday 11/6/2026",
+          "url": "https://apnews.com/article/806f71d95105bc7efbc760b194dd8cad",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "US STOCKS-Nasdaq rebounds but posts fourth straight weekly decline",
+          "url": "https://www.fidelity.com/news/article/us-markets/202611061602RTRSNEWSCOMBINED_L6N46N1AI_1",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/us-stocks-nov6-rebound-weekly-loss.svg",
+        "alt": "Barre finanziarie stilizzate senza quotazioni reali",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/us-stocks-nov6-rebound-weekly-loss.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    }
+  ]
+}

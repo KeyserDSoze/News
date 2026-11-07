@@ -1,0 +1,115 @@
+{
+  "id": "somalia-supreme-court-term-ruling",
+  "section": "world",
+  "rank": 3,
+  "category": "politics",
+  "impact": 3.5,
+  "tags": {
+    "it": [
+      "Somalia",
+      "elezioni",
+      "giustizia"
+    ],
+    "en": [
+      "Somalia",
+      "elections",
+      "judiciary"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Associated Press",
+      "title": "Somalia's top court rules president's term extension is unlawful, deepening power struggle",
+      "url": "https://apnews.com/article/0beacddf6ba0ef748fc99be4b45e0051",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Garowe Online",
+      "title": "Somalia: Supreme Court rules president, parliament terms expired, orders elections within 90 days",
+      "url": "https://www.garoweonline.com/index.php/en/news/somalia/somalia-supreme-court-rules-president-parliament-terms-expired-orders-elections-within-90-days",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Africanews / AFP",
+      "title": "Political chaos in Somalia after court ruling against president's term extension",
+      "url": "https://www.africanews.com/2026/11/07/political-chaos-in-somalia-after-court-ruling-against-presidents-term-extension/",
+      "publishedAt": "2026-11-07",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Somalia, la Corte suprema dichiara scaduto il mandato presidenziale e chiede elezioni entro 90 giorni",
+    "dek": "La sentenza del 5 novembre respinge la proroga automatica; si apre un conflitto tra poteri dello Stato senza soluzione di successione immediata.",
+    "summary": "In Somalia la Corte suprema ha stabilito il 5 novembre 2026 che l'estensione del mandato del presidente Hassan Sheikh Mohamud e del Parlamento non si applica automaticamente agli organi già eletti. Ha dato 30 giorni alle forze politiche per concordare le regole del voto e 90 giorni per svolgerlo. Il governo non aveva ancora accettato il verdetto quando le redazioni hanno riferito la crisi il 6 novembre.",
+    "body": [
+      "La Corte suprema somala ha pronunciato il 5 novembre una decisione costituzionale che contesta la prosecuzione dei mandati delle attuali istituzioni. Secondo il resoconto della testata somala Garowe Online, la Corte colloca la scadenza del Parlamento al 14 aprile 2026 e quella del presidente Hassan Sheikh Mohamud al 15 maggio. Associated Press conferma il punto centrale: le riforme approvate durante l'anno non possono, secondo il collegio giudicante, prorogare automaticamente il mandato dei titolari in carica.",
+      "Il dispositivo prescrive un accordo fra le forze politiche su un quadro elettorale entro 30 giorni e lo svolgimento delle elezioni entro 90. Distingue inoltre le attività amministrative ordinarie del governo provvisorio da decisioni di carattere politico più ampio. La sentenza non chiarisce da sola chi assumerebbe tutte le funzioni della presidenza se gli organi non collaborassero; né l'ordine dei giudici significa che un voto nazionale complesso possa organizzarsi senza un'intesa sui territori e sulla sicurezza.",
+      "La decisione si inserisce in una contrapposizione tra il presidente e i vertici della magistratura. Il presidente aveva tentato di rimuovere il capo della Corte Baashe Yusuf Ahmed, ma i giudici hanno respinto la validità della decisione e denunciato una lesione dell'indipendenza giudiziaria. Associated Press ricorda che la missione politica delle Nazioni Unite che favoriva il dialogo fra gruppi rivali si è appena chiusa. I precedenti scontri armati a Mogadiscio e la minaccia persistente di al-Shabaab aggravano le conseguenze di un'eventuale paralisi istituzionale.",
+      "L'esecutivo sostiene l'obiettivo di passare al voto diretto, mentre opposizioni e amministrazioni regionali contestano modalità e tempi scelti dall'attuale leadership. Il 6 novembre la presidenza non aveva risposto in modo definitivo alle domande poste da AP sul verdetto. Va quindi distinta la forza giuridica affermata dalla Corte dalla possibilità pratica di attuarlo, che dipenderà dal comportamento di presidenza, Parlamento, opposizione e autorità locali. Il prossimo sviluppo verificabile sarà l'eventuale accordo sulle regole elettorali."
+    ],
+    "facts": [
+      "La Corte suprema ha deciso il 5 novembre 2026 che l'estensione dei mandati non si applica automaticamente agli organi in carica.",
+      "Il verdetto richiede un accordo sulle regole del voto entro 30 giorni ed elezioni entro 90.",
+      "Garowe Online riporta scadenza parlamentare il 14 aprile e presidenziale il 15 maggio 2026."
+    ],
+    "perspectives": [
+      "I giudici rivendicano la validità del mandato originario e la limitazione del governo alle funzioni ordinarie.",
+      "La presidenza sostiene una transizione al suffragio diretto; opposizioni e governi regionali contestano l'iter e la sua legittimità."
+    ],
+    "unknowns": [
+      "L'esecutivo non aveva ancora espresso accettazione del dispositivo al momento dei reportage del 6 novembre.",
+      "Mancano garanzie operative su tempi e sicurezza di un voto nazionale entro 90 giorni."
+    ],
+    "impactReason": "Il conflitto di legittimità investe la guida dello Stato e l'organizzazione delle elezioni in un paese già esposto ad attacchi e instabilità.",
+    "questions": [
+      {
+        "question": "Perché la Corte somala non ha applicato automaticamente alla presidenza la proroga costituzionale del 2026?",
+        "answer": "Secondo il ragionamento riportato dalla stampa locale, le modifiche della durata del mandato devono specificare se valgono anche per chi è già in carica. Senza questa previsione, la Corte ha ritenuto valide le date originarie di scadenza e limitato il potere degli organi al normale disbrigo degli affari."
+      },
+      {
+        "question": "Che differenza c'è tra il termine di 30 giorni e quello di 90 imposto dalla Corte suprema?",
+        "answer": "I primi 30 giorni sono destinati a raggiungere un accordo politico sulle regole e sul quadro delle elezioni. Il termine di 90 giorni riguarda invece lo svolgimento del voto: è una seconda fase che richiede organizzazione, sicurezza e intesa fra autorità centrali e regionali."
+      }
+    ]
+  },
+  "en": {
+    "title": "Somalia's Supreme Court says presidential term has expired and orders elections within 90 days",
+    "dek": "The November 5 ruling rejects an automatic term extension, deepening a separation-of-powers crisis without immediately resolving succession.",
+    "summary": "Somalia's Supreme Court ruled on November 5, 2026, that changes to the length of presidential and parliamentary terms do not automatically extend the mandates of officials already in office. It gave political actors 30 days to agree on an electoral framework and 90 days to hold elections. The president's office had not accepted the decision when newsrooms reported the dispute on November 6.",
+    "body": [
+      "Somalia's Supreme Court issued a constitutional ruling on November 5 challenging the continued mandates of the country's elected institutions. The Somali outlet Garowe Online reported that the judges placed parliament's original expiry date on April 14, 2026 and President Hassan Sheikh Mohamud's on May 15. The Associated Press independently described the central legal holding: amendments adopted earlier this year do not, in the court's view, automatically give incumbent officials additional time in office.",
+      "The ruling calls for a political agreement on election arrangements within 30 days and elections themselves within 90 days. It also distinguishes routine caretaker administration from broader political decisions. The judgment does not fully determine who would exercise every presidential function if the institutions failed to cooperate. Nor does a judicial deadline by itself guarantee that a national election can be organised without agreement among regional authorities and adequate security.",
+      "The decision followed a confrontation between the presidency and senior judges. Mohamud had sought to dismiss Chief Justice Baashe Yusuf Ahmed, an action that the court rejected as invalid and harmful to judicial independence. AP also notes the recent closure of a United Nations political mission that previously helped rival factions negotiate. Earlier armed clashes in Mogadishu and the continuing threat from al-Shabaab heighten the risks of prolonged institutional paralysis.",
+      "The presidency has advocated direct elections, while opposition figures and regional administrations object to parts of the current process and timing. As of the November 6 reporting, the presidency had not delivered a definitive response to AP about compliance with the judgment. The court's asserted legal authority therefore needs to be distinguished from its practical enforceability, which depends on political and security cooperation. A concrete next development would be agreement on a credible electoral framework."
+    ],
+    "facts": [
+      "The Supreme Court ruled on November 5 that constitutional term extensions do not automatically apply to current officeholders.",
+      "Judges ordered an election framework agreement within 30 days and elections within 90 days.",
+      "Garowe Online reported original expiry dates of April 14 for parliament and May 15 for the presidency."
+    ],
+    "perspectives": [
+      "The justices defended the original mandates and limited caretaker activity to routine administration.",
+      "The presidency promotes direct elections, while opposition and regional leaders contest the process and its legitimacy."
+    ],
+    "unknowns": [
+      "The president's acceptance of the ruling was not established when the November 6 reports appeared.",
+      "The logistics, security and enforceability of an election within 90 days remain unsettled."
+    ],
+    "impactReason": "A dispute over the legitimacy of state leadership and the election timetable has major implications in a country facing armed insecurity.",
+    "questions": [
+      {
+        "question": "Why did Somalia's Supreme Court refuse to apply the 2026 term extension automatically to the president?",
+        "answer": "As reported by local coverage of the judgment, extending a term requires clarity about whether amendments also cover officials already serving. Without such a provision, the court treated the original expiry dates as controlling and restricted the institutions' authority to caretaker functions."
+      },
+      {
+        "question": "What is the distinction between the court's 30-day and 90-day deadlines?",
+        "answer": "Political leaders have 30 days to agree on how elections should be organised. The 90-day deadline is for holding the elections themselves, a further stage requiring practical arrangements, security and cooperation across the country."
+      }
+    ]
+  },
+  "status": "DRAFT — independent-source review pending final editorial gate; not publishable without full edition",
+  "issueDate": "2026-11-07",
+  "imageStatus": "Original illustrated vector pending"
+}

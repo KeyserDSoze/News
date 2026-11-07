@@ -1,0 +1,121 @@
+{
+  "id": "miller-replaces-wiles-white-house",
+  "rank": 4,
+  "category": "politics",
+  "impact": 3.5,
+  "tags": {
+    "it": [
+      "Casa-Bianca",
+      "Stati-Uniti",
+      "governo"
+    ],
+    "en": [
+      "White-House",
+      "United-States",
+      "government"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "White House",
+      "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+      "publishedAt": "2026-11-06",
+      "role": "official"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+      "url": "https://www.reuters.com/world/us/trump-says-stephen-miller-become-chief-staff-2026-11-06/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat",
+      "url": "https://apnews.com/article/95690fe076f6bb8cfe2bf77435a1910d",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "CBS News",
+      "title": "Stephen Miller to replace Susie Wiles as White House chief of staff, Trump says",
+      "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Trump nomina Stephen Miller capo di gabinetto, al posto di Susie Wiles",
+    "dek": "L'avvicendamento annunciato il 6 novembre sarà operativo il 9; segue la perdita del Congresso da parte dei repubblicani, ma Trump nega un nesso diretto.",
+    "summary": "Il presidente statunitense Donald Trump ha annunciato il 6 novembre 2026 che Stephen Miller diventerà capo di gabinetto della Casa Bianca lunedì 9 novembre, sostituendo Susie Wiles, destinata all'organizzazione politica del presidente. L'annuncio arriva dopo le elezioni di metà mandato perse dai repubblicani; la coincidenza cronologica non prova da sola le motivazioni del cambiamento.",
+    "body": [
+      "Il 6 novembre il presidente Donald Trump ha scelto Stephen Miller, fino ad allora vicecapo di gabinetto per le politiche pubbliche, come nuovo capo di gabinetto della Casa Bianca. La decisione è stata confermata nel comunicato ufficiale e da reportage autonomi di Reuters, Associated Press e CBS News. L'incarico avrà effetto dal 9 novembre, dunque nella finestra esaminata il passaggio operativo non era ancora avvenuto. Susie Wiles, che ha diretto lo staff dall'inizio del secondo mandato, passerà a un ruolo nell'organizzazione politica legata al presidente.",
+      "La nomina segue di pochi giorni il voto del 3 novembre, in cui i democratici hanno conquistato il controllo di entrambe le Camere del Congresso. Questa modifica istituzionale rende più difficile approvare leggi senza un negoziato con l'opposizione e può accrescere il ricorso agli strumenti esecutivi. Reuters interpreta la scelta di Miller come segnale di continuità o rafforzamento dell'approccio conflittuale sui dossier interni. È un'analisi del giornale, non una legge o un provvedimento già adottato dal nuovo capo dello staff.",
+      "Miller è un collaboratore di lunga data di Trump ed è associato alle politiche restrittive sull'immigrazione e a una lettura ampia dei poteri presidenziali. Il capo di gabinetto coordina il personale, stabilisce accesso al presidente e organizza le priorità amministrative, ma non può da solo emanare norme né sostituirsi al Congresso o ai tribunali. Per questo la nomina è importante per il funzionamento del governo anche quando non cambia formalmente il programma politico.",
+      "Trump ha dichiarato che la sostituzione non dipende dal risultato delle elezioni e ha elogiato il lavoro di Wiles. Esponenti democratici hanno criticato la scelta e annunciato una vigilanza più intensa su decisioni e procedure dell'amministrazione; gli alleati repubblicani l'hanno accolta favorevolmente. Le dichiarazioni sono posizioni attribuite. L'effettivo effetto su immigrazione, rapporti con il Congresso e organizzazione dei funzionari si potrà misurare soltanto dopo il passaggio di consegne."
+    ],
+    "facts": [
+      "Il 6 novembre Trump ha annunciato la scelta di Miller come capo di gabinetto con effetto dal 9 novembre.",
+      "Susie Wiles è destinata all'organizzazione politica del presidente, secondo la Casa Bianca.",
+      "Il Congresso eletto il 3 novembre avrà maggioranze democratiche, elemento di contesto verificato e distinto dalle motivazioni personali della nomina."
+    ],
+    "perspectives": [
+      "Trump afferma che il cambio non è una reazione alle elezioni e ringrazia Wiles.",
+      "Reuters e AP descrivono la nomina come potenzialmente decisiva per la strategia esecutiva; democratici e alleati del presidente ne danno valutazioni contrapposte."
+    ],
+    "unknowns": [
+      "I cambiamenti operativi su personale e priorità non sono ancora osservabili prima del 9 novembre.",
+      "Non sono dimostrate pubblicamente le ragioni interne complete delle dimissioni di Wiles."
+    ],
+    "impactReason": "La guida operativa della Casa Bianca incide sull'attuazione delle politiche di una potenza globale dopo un cambio di maggioranza parlamentare, pur senza nuove leggi già adottate.",
+    "questions": [
+      {
+        "question": "Che cosa cambia nel lavoro della Casa Bianca con Miller capo di gabinetto dal 9 novembre?",
+        "answer": "Il capo di gabinetto coordina lo staff, organizza le decisioni e gestisce priorità e accesso al presidente. Miller porterà in quella posizione una lunga esperienza nella definizione della linea politica, ma non può approvare da solo leggi o disporre poteri che spettano al Congresso."
+      },
+      {
+        "question": "Perché la nomina di Miller potrebbe pesare sui rapporti con il Congresso dopo le elezioni del 3 novembre?",
+        "answer": "Le nuove maggioranze democratiche possono bloccare proposte legislative e avviare controlli sull'amministrazione. Un collaboratore vicino alla linea dura sull'immigrazione può orientare la strategia esecutiva per rispondere a questi vincoli; questa è una conseguenza possibile, non un accordo o uno scontro già avvenuto."
+      }
+    ]
+  },
+  "en": {
+    "title": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+    "dek": "Announced November 6 and effective November 9, the transition follows Republicans' loss of Congress, though Trump denies the election caused the change.",
+    "summary": "US President Donald Trump announced on November 6, 2026 that Stephen Miller would become White House chief of staff on Monday, November 9, succeeding Susie Wiles, who is moving to the president's political operation. The announcement follows Republican losses in the midterms; the timing does not itself establish what motivated the personnel change.",
+    "body": [
+      "On November 6, President Donald Trump selected Stephen Miller, previously deputy chief of staff for policy, as the next White House chief of staff. The White House confirmed the choice, and Reuters, the Associated Press and CBS News reported it independently. The appointment takes effect on November 9, so the operational handover had not yet occurred in the reporting window. Susie Wiles, who had led the staff through the first part of Trump's second term, is moving to the president's political organisation.",
+      "The announcement came days after the November 3 midterm elections delivered Democratic control of both chambers of Congress. This institutional shift makes passing legislation without negotiation with the opposition harder and may increase pressure on executive methods. Reuters interprets Miller's promotion as a signal of continuity or a more confrontational approach to domestic policy. That is a newsroom assessment, not evidence that the incoming chief of staff has already issued new policies.",
+      "Miller has worked closely with Trump for years and is associated with restrictive immigration policies and expansive interpretations of executive authority. A chief of staff manages personnel coordination, presidential access and administrative priorities, but cannot independently pass laws or replace courts and Congress. The appointment is consequential for how an administration functions even when its formal policy platform stays unchanged.",
+      "Trump said the choice was not a reaction to the electoral outcome and praised Wiles's service. Democratic lawmakers criticised the promotion and signalled stronger oversight, while presidential allies welcomed it. These are attributed political positions. The impact on immigration measures, congressional relations and staffing decisions can only be assessed after the transition and subsequent actions."
+    ],
+    "facts": [
+      "Trump announced Miller's appointment on November 6, effective November 9.",
+      "The White House said Wiles would move to Trump's political operation.",
+      "Democrats won congressional majorities in the November 3 elections, context distinct from the unproven motivation for the staffing change."
+    ],
+    "perspectives": [
+      "Trump denies that election results drove the replacement and praises Wiles.",
+      "Reuters and AP assess strategic implications; Democratic critics and Trump allies express competing political opinions."
+    ],
+    "unknowns": [
+      "Practical staffing and policy changes are not observable before Miller assumes his role.",
+      "The full internal reasons for Wiles's departure have not been independently established."
+    ],
+    "impactReason": "The White House's operational leadership matters for policymaking in a global power following a change in congressional control, but no new legislation has resulted yet.",
+    "questions": [
+      {
+        "question": "What will Miller control as White House chief of staff beginning November 9?",
+        "answer": "The chief of staff coordinates White House personnel, sets priorities for internal decision-making and manages access to the president. Miller's policy background will influence that role, but the position does not confer independent power to enact laws or override Congress."
+      },
+      {
+        "question": "Why could Miller's promotion affect relations with Congress after November 3?",
+        "answer": "New Democratic majorities can obstruct legislation and investigate executive decisions. A senior aide associated with aggressive immigration policies may shape how the administration responds through executive action, but those are possible consequences rather than steps already taken."
+      }
+    ]
+  },
+  "issueDate": "2026-11-07",
+  "section": "world",
+  "status": "DRAFT — no publication before full editorial and CI gates"
+}

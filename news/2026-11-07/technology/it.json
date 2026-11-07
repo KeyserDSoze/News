@@ -1,0 +1,403 @@
+{
+  "date": "2026-11-07",
+  "language": "it",
+  "section": "technology",
+  "publishedAt": "2026-11-07T12:13:37+01:00",
+  "editorialNote": "Edizione technology del 7 novembre 2026. Finestra 6 novembre ore 07:00–7 novembre ore 07:00 Europe/Rome; sviluppi dei cinque giorni precedenti se documentati. Distinte cronologie di eventi, dichiarazioni, stime e prove; tutte le immagini sono illustrazioni originali e non fotografie.",
+  "articles": [
+    {
+      "id": "california-ab1709-platform-lawsuits",
+      "rank": 1,
+      "category": "technology",
+      "title": "Google, Meta e TikTok impugnano la legge californiana sulle funzioni social per gli under 16",
+      "dek": "Tre ricorsi distinti mettono alla prova i limiti costituzionali delle restrizioni ai feed personalizzati; la norma è prevista dal 1° gennaio 2027.",
+      "summary": "Google, Meta e TikTok hanno presentato ricorsi distinti contro la legge californiana AB 1709, firmata il 10 settembre 2026. Il testo limita ai minori di 16 anni alcune funzioni progettate per prolungare l'uso delle piattaforme, tra cui scroll continuo, raccomandazioni personalizzate e autoplay. Le aziende invocano libertà di espressione e altre tutele federali: la controversia giudiziaria non equivale alla sospensione della norma.",
+      "body": [
+        "Il 5 novembre 2026 Reuters e Associated Press hanno dato notizia di tre azioni giudiziarie separate presentate da Google, Meta e TikTok contro la California. I ricorsi riguardano l'Assembly Bill 1709, una legge firmata dal governatore Gavin Newsom il 10 settembre e programmata per entrare in vigore il 1° gennaio 2027. Le aziende contestano le condizioni imposte alla presentazione dei contenuti sulle piattaforme frequentate dai minori. Il fatto verificato è l'avvio del contenzioso, non una vittoria delle aziende o una sospensione già concessa da un giudice.",
+        "La legge definisce alcune funzioni come potenzialmente in grado di incentivare l'uso compulsivo: feed personalizzati, scorrimento senza fine, riproduzione automatica e notifiche sono tra gli esempi elencati. Per i servizi coperti, il testo vieta di offrire tali caratteristiche a utenti sotto i 16 anni e prevede meccanismi di verifica delle fasce d'età. Il documento legislativo individua anche un organismo consultivo per la sicurezza digitale. Non si tratta di un divieto generale di ogni forma di comunicazione online per tutti gli adolescenti.",
+        "Secondo i ricorsi riportati da Reuters, le aziende sostengono che la California interferisca con le loro scelte editoriali su come ordinare e mostrare contenuti, invocando il Primo emendamento alla Costituzione e la sezione 230 del Communications Decency Act. Google afferma che regole troppo ampie potrebbero ostacolare anche i sistemi che propongono video adatti all'età; Meta richiama la propria autonomia di organizzazione dei post; TikTok contesta il divieto motivato dalla valutazione pubblica dei contenuti. Sono argomenti delle parti in causa, non conclusioni giudiziarie.",
+        "L'ufficio del procuratore generale Rob Bonta ha dichiarato a Reuters che esaminerà i ricorsi e difenderà la legislazione destinata a tutelare i minori. L'obiettivo dichiarato dal governo statale è ridurre l'esposizione dei bambini a funzioni che favoriscano un uso prolungato dei social; i critici, compresa l'Electronic Frontier Foundation, temono conseguenze su privacy e libertà di parola. Il nodo concreto è se le restrizioni di progettazione e l'identificazione dell'età siano compatibili con le protezioni costituzionali. La data di efficacia prevista resta il 1° gennaio 2027, salvo provvedimenti del tribunale."
+      ],
+      "facts": [
+        "Reuters e AP riportano ricorsi distinti di Google, Meta e TikTok contro l'AB 1709, descritti il 5 novembre.",
+        "La California ha approvato la AB 1709 il 10 settembre 2026; la data di efficacia prevista è il 1° gennaio 2027.",
+        "La norma prende di mira funzioni di coinvolgimento dei minori di 16 anni come autoplay e scorrimento continuo, nei termini previsti dalla legge."
+      ],
+      "perspectives": [
+        "Google, Meta e TikTok sostengono che la legge interferisca con la libertà di espressione e con le scelte di presentazione dei contenuti: sono tesi processuali da valutare.",
+        "L'ufficio del procuratore generale della California dichiara che difenderà la legge per la protezione dei minori; EFF teme ripercussioni su privacy e parola."
+      ],
+      "unknowns": [
+        "Non è noto se e con quali limiti i giudici concederanno misure cautelari prima dell'entrata in vigore.",
+        "L'effetto netto della legge sulla salute mentale dei minori e sulla privacy dipenderà anche dalle modalità applicative e non è dimostrato da questi ricorsi."
+      ],
+      "questions": [
+        {
+          "question": "Quali funzioni delle piattaforme prende di mira la legge AB 1709 per gli utenti sotto i 16 anni?",
+          "answer": "La legge riguarda funzioni considerate idonee a prolungare l'uso compulsivo dei servizi coperti, tra cui feed che apprendono dalle preferenze, scroll infinito, autoplay e alcune notifiche. Interviene sul modo in cui il servizio è progettato e offerto ai minori, non sulla possibilità generale di comunicare online."
+        },
+        {
+          "question": "Perché nei ricorsi di Google, Meta e TikTok compare il Primo emendamento?",
+          "answer": "Le aziende affermano che scegliere, ordinare e raccomandare post o video sia una forma di attività editoriale protetta e che la California imponga loro un diverso modo di presentare i contenuti. Il tribunale dovrà valutare questa tesi alla luce dell'interesse pubblico alla tutela dei minori; il deposito del ricorso non ne prova la fondatezza."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "La controversia può ridefinire il design dei social negli Stati Uniti e i sistemi di verifica dell'età, ma l'esito giudiziario e l'effettiva applicazione sono ancora incerti.",
+      "tags": [
+        "California",
+        "minori",
+        "piattaforme"
+      ],
+      "sources": [
+        {
+          "outlet": "Reuters",
+          "title": "Google, Meta, TikTok sue to block California youth social media law",
+          "url": "https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Google, Meta and TikTok sue California over law designed to protect children from social media harms",
+          "url": "https://apnews.com/article/589c0eabeabced2e07b8f9138ee2df79",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "California Governor's Office",
+          "title": "Governor Newsom signs the strongest child safety chatbot and social media laws in the nation",
+          "url": "https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/",
+          "publishedAt": "2026-09-10",
+          "role": "official"
+        },
+        {
+          "outlet": "Digital Democracy / CalMatters",
+          "title": "AB 1709: Covered platforms: age restriction: e-Safety Advisory Commission",
+          "url": "https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1709",
+          "publishedAt": "2026-09-10",
+          "role": "analysis"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/california-ab1709-platform-lawsuits.svg",
+        "alt": "Telefono stilizzato con schede di contenuto e scudo con numero 16, immagine concettuale",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/california-ab1709-platform-lawsuits.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "amsterdam-microsoft-data-centre-protest",
+      "rank": 2,
+      "category": "technology",
+      "title": "Amsterdam, protesta nel cantiere di un data center Microsoft: 150–200 fermati secondo la polizia",
+      "dek": "L'azione nel sito di Westpoort distingue i manifestanti entrati nel cantiere dal corteo esterno; energia, acqua e uso dei servizi sono al centro delle contestazioni.",
+      "summary": "Il 6 novembre 2026 alcuni attivisti hanno oltrepassato le recinzioni del cantiere di un data center a Westpoort, Amsterdam, dove è previsto un impianto legato a Microsoft. La polizia olandese ha stimato fra 150 e 200 i fermati per sospetta violazione di proprietà. La protesta si inserisce in mobilitazioni europee contro nuovi data center, ma le iniziative non appartengono tutte allo stesso gruppo.",
+      "body": [
+        "Venerdì 6 novembre centinaia di persone hanno partecipato a proteste nell'area industriale di Amsterdam-West contro un data center in costruzione destinato a Microsoft. Secondo i resoconti originali di AP, Guardian e NOS, una parte degli attivisti ha superato le barriere del cantiere, mentre altri hanno manifestato all'esterno. Alcuni hanno scalato una gru e acceso fumogeni. La polizia ha parlato di 150–200 persone fermate con l'ipotesi di violazione di proprietà: il dato è una stima iniziale e non implica condanne.",
+        "Il Guardian distingue l'azione diretta promossa da Geef Tegengas dalla manifestazione del circuito Stop Dirty Data Centres, i cui rappresentanti hanno affermato di non aver coordinato l'ingresso nel cantiere. Questa distinzione è importante: accomunare indiscriminatamente tutti i partecipanti ad atti contestati alla polizia darebbe un'immagine imprecisa del movimento. NOS riferisce di materiale sospettato di essere stato sottratto e di danni sul sito; l'accertamento delle responsabilità individuali spetta alle autorità giudiziarie.",
+        "Le rivendicazioni riguardano il consumo di elettricità e acqua delle infrastrutture digitali e la trasparenza delle procedure autorizzative. Alcuni attivisti contestano anche l'uso dei servizi cloud da parte di istituzioni militari e forze di sicurezza. Si tratta di posizioni politiche espresse dai manifestanti, non di una prova dell'uso specifico dell'impianto ancora in costruzione. Microsoft ha dichiarato di rispettare il diritto alla protesta pacifica, ma di non approvare azioni illegali o pericolose; il proprietario Pure Data Centres ha richiamato i rischi di sicurezza del cantiere.",
+        "Il caso mostra il conflitto locale che accompagna l'espansione dei data center per l'intelligenza artificiale, pur senza provare che il singolo progetto fosse destinato esclusivamente ad AI. Nei giorni del 6 e 7 novembre erano previste iniziative anche in altre città europee, con differenti organizzatori. Non sono ancora definiti né l'esito delle contestazioni penali né eventuali modifiche al progetto. Il dato tecnico da approfondire è la capacità energetica effettivamente autorizzata, distinta dalle stime generiche sul settore."
+      ],
+      "facts": [
+        "Il 6 novembre attivisti hanno occupato parte di un cantiere per data center Microsoft a Westpoort, Amsterdam.",
+        "La polizia olandese ha stimato 150–200 fermati per sospetta violazione di proprietà, secondo NOS, AP e Guardian.",
+        "Il Guardian distingue azione diretta Geef Tegengas e protesta esterna Stop Dirty Data Centres."
+      ],
+      "perspectives": [
+        "Gli attivisti contestano consumo di risorse, impatto climatico e utilizzi dei servizi tecnologici; le accuse specifiche restano attribuite.",
+        "Microsoft e Pure Data Centres difendono la sicurezza del sito e distinguono protesta pacifica da ingresso illecito."
+      ],
+      "unknowns": [
+        "Il numero definitivo dei fermati e gli esiti giudiziari delle ipotesi di reato non sono ancora accertati.",
+        "Le misure operative concrete sui consumi idrici ed energetici del singolo impianto non emergono in forma indipendentemente verificata dai resoconti."
+      ],
+      "questions": [
+        {
+          "question": "Perché le proteste nel cantiere Microsoft di Amsterdam non possono essere attribuite tutte a Geef Tegengas?",
+          "answer": "Il Guardian identifica l'ingresso nel cantiere come iniziativa di Geef Tegengas e un presidio esterno legato a Stop Dirty Data Centres, che ha dichiarato di non aver organizzato l'azione diretta. Stessa area e critiche convergenti non significano identità degli organizzatori o delle condotte."
+        },
+        {
+          "question": "Che cosa significa il numero di 150–200 persone indicato dalla polizia olandese?",
+          "answer": "È una stima iniziale dei fermati durante l'operazione nel cantiere, nell'ambito di sospetti di violazione di proprietà. Non è un dato definitivo su manifestanti totali, persone rinviate a giudizio o colpevolezza: sono categorie distinte."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "L'episodio rende visibili i conflitti di territorio e governance legati all'infrastruttura digitale europea, senza produrre ancora un cambiamento normativo generale.",
+      "tags": [
+        "datacenter",
+        "Amsterdam",
+        "energia"
+      ],
+      "sources": [
+        {
+          "outlet": "Associated Press",
+          "title": "Protesters break into Microsoft data center site in Amsterdam as Europe's backlash spreads",
+          "url": "https://apnews.com/article/b4f3f9f368697bb37416bcb4fabdd67c",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Guardian",
+          "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+          "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "NOS",
+          "title": "Zeker 150 demonstranten opgepakt bij protest tegen datacenter in Amsterdam",
+          "url": "https://nos.nl/artikel/2638349-zeker-150-demonstranten-opgepakt-bij-protest-tegen-datacenter-in-amsterdam",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/amsterdam-microsoft-data-centre-protest.svg",
+        "alt": "Facciata stilizzata di centro dati e cartello di protesta",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/amsterdam-microsoft-data-centre-protest.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "metr-anthropic-ai-rd-acceleration-study",
+      "rank": 3,
+      "category": "technology",
+      "title": "METR misura nei modelli Anthropic un'accelerazione di circa 1,9 volte nei benchmark",
+      "dek": "La valutazione indipendente usa anche dati interni: attribuisce parte del fenomeno all'AI che assiste i ricercatori, ma con incertezza elevata.",
+      "summary": "Un rapporto pubblicato il 5 novembre 2026 dall'organizzazione METR stima che la crescita di capacità misurate nei benchmark dei modelli Anthropic sia aumentata a circa 1,9 volte il ritmo storico. L'intervallo di confidenza riportato è 1,5–2,8; la spiegazione secondo cui l'AI contribuisce ad accelerare la propria ricerca rimane un'inferenza, non una prova sperimentale di causalità.",
+      "body": [
+        "Il 5 novembre l'organizzazione indipendente di valutazione METR ha pubblicato una ricerca sull'uso dell'intelligenza artificiale nella ricerca e sviluppo di Anthropic. Il gruppo ha avuto accesso a punteggi di modelli ancora riservati, a metriche di addestramento e a interviste con il personale, confrontando periodi precedenti e successivi a ottobre 2025. Reuters e Associated Press hanno riferito la conclusione centrale: il progresso misurato nei compiti di benchmark definiti dal rapporto appare più rapido di quello del periodo storico usato come riferimento.",
+        "La stima quantitativa è circa 1,9 volte la velocità precedente, con intervallo di confidenza 95% di 1,5–2,8 volte. Il numero riguarda una serie di benchmark delle capacità, non significa che ogni risposta dell'AI sia diventata due volte migliore né che il tempo di ogni progetto di ricerca si sia dimezzato. METR riferisce che l'aumento non coincide con un'accelerazione del ritmo di crescita della potenza computazionale impiegata nell'addestramento. Per questo esplora soprattutto software, algoritmi e aiuto dell'AI ai ricercatori.",
+        "Interviste e indagini interne indicano che gli ingegneri usano regolarmente gli assistenti AI per programmare, analizzare esperimenti e automatizzare parti della ricerca. METR ritiene probabile che questa pratica spieghi una parte maggioritaria dell'aumento della velocità, ma avverte che altri fattori hanno contribuito e che i dati disponibili non isolano un esperimento controllato. Le impressioni degli addetti sui guadagni di produttività non hanno la stessa forza probatoria delle misurazioni dei benchmark.",
+        "La valutazione non descrive un laboratorio interamente autonomo: i sistemi attuali ancora non contribuiscono in modo indipendente alle decisioni più importanti dell'addestramento. Gli autori temono tuttavia che un circuito fra migliori assistenti e ricerca più rapida possa diventare più significativo nel tempo. È uno scenario di rischio esplicitamente attribuito, non una previsione inevitabile. I risultati dipendono da dati in parte non pubblici di un singolo laboratorio e richiederanno repliche e accesso indipendente per stabilire quanto siano generalizzabili."
+      ],
+      "facts": [
+        "METR stima un fattore 1,9 nell'accelerazione dei benchmark Anthropic, con intervallo 95% di 1,5–2,8.",
+        "Il rapporto usa dati interni non ancora pubblicati, interviste e misure di capacità in due periodi.",
+        "METR non rileva come causa un'accelerazione della crescita del compute di addestramento e descrive il ruolo causale dell'AI come probabile, non definitivo."
+      ],
+      "perspectives": [
+        "METR attribuisce verosimilmente all'AI assistiva una parte maggioritaria della maggiore velocità di ricerca, pur riconoscendo fattori confondenti.",
+        "Esperti citati dai reportage discutono implicazioni per la sicurezza e il monitoraggio dei sistemi futuri, senza dimostrare che il miglioramento diventi autonomo e incontrollabile."
+      ],
+      "unknowns": [
+        "L'entità causale del contributo degli strumenti AI non è isolata da un esperimento randomizzato.",
+        "Accesso parziale a dati riservati e un unico laboratorio limitano replicabilità e generalizzazione."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa misura il fattore 1,9 pubblicato da METR su Anthropic?",
+          "answer": "Confronta la velocità con cui miglioravano specifici punteggi di capacità nel periodo successivo a ottobre 2025 rispetto alla tendenza precedente; non misura una crescita di 1,9 volte di tutte le prestazioni né il tempo necessario per ogni esperimento."
+        },
+        {
+          "question": "Perché METR considera plausibile l'effetto dell'AI sulla ricerca senza dichiararlo dimostrato?",
+          "answer": "Le interviste descrivono un uso diffuso di AI per codice e analisi e i dati non mostrano una crescita più veloce del compute di addestramento; tuttavia algoritmi, processi e altre modifiche potrebbero spiegare una parte del risultato senza un confronto controllato."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "L'ipotesi quantitativa di un circolo tra ricerca AI e strumenti AI è rilevante per settore e sicurezza, ma il campione e le incertezze impediscono un giudizio storico.",
+      "tags": [
+        "Anthropic",
+        "benchmark",
+        "ricerca"
+      ],
+      "sources": [
+        {
+          "outlet": "METR",
+          "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+          "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+          "publishedAt": "2026-11-05",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
+          "url": "https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05/",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "AI models are helping build better AI. The pace is raising new questions",
+          "url": "https://apnews.com/article/9cf8c590ffc1abdb489179bdccc69c23",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/metr-anthropic-ai-rd-acceleration-study.svg",
+        "alt": "Circuiti e linea di progresso senza dati statistici, illustrazione AI",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/metr-anthropic-ai-rd-acceleration-study.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "ibm-amd-oak-ridge-quantum-error-correction",
+      "rank": 4,
+      "category": "technology",
+      "title": "IBM, AMD e Oak Ridge uniscono calcolo classico e quantistico per studiare la correzione degli errori",
+      "dek": "Il banco di prova collega chip quantistici IBM al supercalcolo Umbra con GPU AMD; non è ancora un computer quantistico tollerante ai guasti.",
+      "summary": "Il 5 novembre 2026 IBM, AMD e l'Oak Ridge National Laboratory hanno annunciato un'infrastruttura congiunta per sperimentare la correzione degli errori quantistici. La piattaforma associa processori IBM, incluso Nighthawk a 120 qubit, al sistema classico Umbra con acceleratori AMD. L'obiettivo è valutare decodifica e coordinamento in tempo reale, non certificare il raggiungimento di calcolo quantistico già pienamente affidabile.",
+      "body": [
+        "IBM, il Quantum Science Center presso l'Oak Ridge National Laboratory e AMD hanno presentato il 5 novembre una piattaforma di co-progettazione per la correzione degli errori nei computer quantistici. L'annuncio ufficiale è stato esaminato da Reuters e dalla stampa tecnica nei giorni successivi. L'iniziativa utilizza processori quantistici IBM, tra cui il nuovo Nighthawk a 120 qubit fisici, insieme a Umbra, un sistema di calcolo ad alte prestazioni dotato di GPU AMD Instinct MI355X e CPU EPYC di quinta generazione. Il numero di qubit indica le unità fisiche del chip, non una quantità equivalente di qubit logici già affidabili.",
+        "Le informazioni quantistiche sono sensibili a rumore e imperfezioni fisiche, che possono corrompere i risultati durante una computazione. La correzione degli errori codifica la stessa informazione in più qubit fisici e sfrutta misure ripetute per individuare indizi di errore senza misurare direttamente lo stato logico. Un decodificatore classico interpreta rapidamente questi segnali e indica quali correzioni applicare. Qui entrano in gioco i processori AMD: eseguono i calcoli di decodifica e permettono di misurare le esigenze di tempo, memoria ed energia.",
+        "IBM ha messo a disposizione accesso a funzionalità di controllo a livello di impulsi e a misure effettuate durante l'esecuzione dei circuiti. Questo consente al gruppo di studiare l'interazione fra algoritmo, geometria dei qubit e hardware che elabora i segnali. La collaborazione rientra nella missione statunitense Quantum Genesis, che punta entro il 2028 a sistemi con 100 qubit logici capaci di compiere 100.000 operazioni 'hard' secondo la definizione del programma. Un obiettivo futuro non è un risultato già acquisito e neppure un impegno che garantisca prestazioni commerciali.",
+        "Secondo IBM, esperimenti precedenti del suo programma hanno mostrato fino a 70 qubit logici e 438 operazioni 'hard' nel sistema di tracciamento citato; tra queste misure e il traguardo del 2028 resta un ampio divario. Le capacità dimostrate su banchi di prova diversi non vanno assimilate a un unico computer universale. Reuters sottolinea l'interesse per il collegamento fra software classico e macchine quantistiche, ma il successo operativo del banco di prova andrà verificato con metriche riproducibili. La notizia è una collaborazione tecnologica concreta, non la soluzione definitiva del problema degli errori quantistici."
+      ],
+      "facts": [
+        "Il 5 novembre IBM, AMD e ORNL hanno annunciato una piattaforma di co-progettazione per la correzione degli errori quantistici.",
+        "L'infrastruttura combina hardware IBM incluso Nighthawk da 120 qubit con Umbra equipaggiato con GPU MI355X e CPU EPYC.",
+        "Il traguardo 2028 citato comprende 100 qubit logici e 100.000 operazioni hard; è una finalità di ricerca."
+      ],
+      "perspectives": [
+        "IBM e AMD sostengono che l'integrazione con il supercalcolo possa rendere più rapida la decodifica necessaria per proteggere i qubit.",
+        "I reporter distinguono il lancio della piattaforma dai risultati prestazionali ancora da dimostrare su larga scala."
+      ],
+      "unknowns": [
+        "Non sono stati pubblicati confronti indipendenti completi dei costi e dei tempi della nuova piattaforma contro tutte le alternative.",
+        "Il raggiungimento dei traguardi dichiarati per il 2028 resta un obiettivo, non un esito assicurato."
+      ],
+      "questions": [
+        {
+          "question": "Che compito svolgono le GPU AMD nell'esperimento quantistico IBM–Oak Ridge?",
+          "answer": "Le GPU svolgono il lavoro classico del decodificatore: interpretano le misurazioni dei circuiti quantistici e calcolano rapidamente quali errori siano più probabili e quali azioni correttive usare. Non sostituiscono i qubit, ma gestiscono parte del controllo necessario a proteggerli."
+        },
+        {
+          "question": "Perché i 120 qubit del chip Nighthawk non equivalgono ai 100 qubit logici fissati come obiettivo per il 2028?",
+          "answer": "Nighthawk conta qubit fisici, singole unità esposte a errori; un qubit logico affidabile richiede di combinare più unità fisiche con protocolli di correzione. L'obiettivo del programma specifica inoltre un elevato numero di operazioni protette, capacità che il solo conteggio del chip non dimostra."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "La correzione degli errori è uno dei principali ostacoli allo sviluppo quantistico, ma l'annuncio riguarda un'infrastruttura sperimentale e non capacità dimostrate su scala industriale.",
+      "tags": [
+        "quantistico",
+        "supercalcolo",
+        "errori"
+      ],
+      "sources": [
+        {
+          "outlet": "IBM",
+          "title": "Oak Ridge National Lab, IBM, and AMD Launch New Co-Design Platform for Quantum Error Correction",
+          "url": "https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab%2C-ibm%2C-and-amd-launch-new-co-design-platform-for-quantum-error-correction",
+          "publishedAt": "2026-11-05",
+          "role": "official"
+        },
+        {
+          "outlet": "Reuters",
+          "title": "IBM, AMD and Oak Ridge National Laboratory launch quantum error correction platform",
+          "url": "https://www.reuters.com/technology/ibm-amd-oak-ridge-national-laboratory-launch-quantum-error-correction-platform-2026-11-05/",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "The Register",
+          "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
+          "url": "https://assets.theregister.com/2026/11/06/202614/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/ibm-amd-oak-ridge-quantum-error-correction.svg",
+        "alt": "Rete di qubit collegata a un chip, schema simbolico di computer ibrido",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/ibm-amd-oak-ridge-quantum-error-correction.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "google-education-search-ai-clarification",
+      "rank": 5,
+      "category": "technology",
+      "title": "Google chiarisce i controlli AI per le scuole: Gemini disattivabile, Search resta integrato con l'AI",
+      "dek": "Dopo le proteste del 3–4 novembre, la società distingue le app di Gemini dalla ricerca: le scuole possono scegliere singoli servizi, ma non una Search priva di AI.",
+      "summary": "Google ha chiarito il 5 novembre 2026 che le scuole K–12 potranno attivare Search e mantenere disabilitate le app Gemini, dopo le critiche alla politica annunciata il 3 novembre. Search continuerà però a incorporare funzioni AI. La scelta completamente senza intelligenza artificiale implica rinunciare a Google Search per gli account studenteschi gestiti: non è una modifica retroattiva a tutte le ricerche Internet.",
+      "body": [
+        "Il 3 novembre Google ha annunciato nuovi controlli per gli amministratori delle scuole statunitensi K–12 che utilizzano i suoi servizi educativi. Gli strumenti interessati comprendono Gemini, Gemini Notebook, funzioni in Classroom e il motore Search, che vengono presentati come elementi attivabili dalle scuole. Associated Press e TechCrunch hanno riportato le reazioni di insegnanti, gruppi di tutela dei minori e politici: la comunicazione iniziale sembrava imporre una scelta fra usare l'AI e perdere l'accesso alla ricerca Google agli studenti.",
+        "In una chiarificazione riportata da Ars Technica il 5 novembre, Google ha precisato che i singoli servizi possono essere abilitati separatamente. Un istituto può lasciare disattivate le app Gemini e mantenere Search per gli account degli studenti. La distinzione è operativa: non comporta che l'uso di Gemini chatbot sia obbligatorio per chi usa Search. Tuttavia il motore include già risposte sintetiche automatiche e una modalità di ricerca conversazionale e non viene proposta per le scuole una versione priva di ogni funzione di AI.",
+        "Google presenta una modalità 'Guided Learning' che dovrebbe accompagnare gli studenti nel ragionamento senza fornire semplicemente risposte pronte. Si tratta di un obiettivo progettuale e commerciale dichiarato dall'azienda, non di una dimostrazione indipendente che gli allievi imparino di più o che il sistema non possa essere usato per copiare. Critici citati da AP e TechCrunch osservano che la dipendenza delle scuole dalle piattaforme Google può rendere difficile scegliere alternative, specialmente dove i Chromebook e Classroom sono già diffusi.",
+        "Il nodo concreto riguarda la possibilità per una scuola di consentire una ricerca tradizionale senza prodotti generativi. La società permette di spegnere le app di conversazione dedicate ma integra l'AI nelle caratteristiche standard del motore. Le impostazioni verranno introdotte nei mesi successivi e i dettagli applicativi possono variare secondo le modalità di gestione. La notizia del 5 novembre è una chiarificazione documentata della configurazione prevista, non la chiusura già operativa del motore per tutte le scuole."
+      ],
+      "facts": [
+        "Google ha annunciato la politica il 3 novembre; il 5 novembre ha chiarito che Gemini e Search possono essere abilitati separatamente.",
+        "Le funzioni di intelligenza artificiale integrate in Search rimangono associate alla ricerca Google per le scuole che la scelgono.",
+        "Gli amministratori delle scuole avranno più controlli; l'implementazione completa è futura rispetto all'edizione."
+      ],
+      "perspectives": [
+        "Google afferma che le nuove scelte rispondono alla richiesta delle scuole di maggiore controllo sull'AI.",
+        "Critici citati da AP e TechCrunch sostengono che un motore di ricerca senza AI dovrebbe restare disponibile e che la dipendenza dagli strumenti Google limita la libertà di scelta."
+      ],
+      "unknowns": [
+        "Non è stato dimostrato il beneficio educativo netto di Guided Learning con valutazioni indipendenti su larga scala.",
+        "L'implementazione dettagliata e le scelte effettive di scuole e distretti non sono ancora note."
+      ],
+      "questions": [
+        {
+          "question": "Una scuola può attivare Google Search e tenere disattivata l'app Gemini dopo il chiarimento del 5 novembre?",
+          "answer": "Sì. Google ha precisato che gli amministratori potranno abilitare Search separatamente da Gemini e dagli altri strumenti dedicati. Questa separazione non elimina però le funzioni di AI già incorporate nei risultati e nelle modalità della ricerca Google."
+        },
+        {
+          "question": "Che differenza c'è fra disattivare i chatbot e avere una ricerca Google senza AI in classe?",
+          "answer": "Disattivare Gemini impedisce agli account gestiti di usare quella specifica app, mentre Search continua a mostrare funzionalità basate sull'AI. Le scuole che non vogliono alcuna funzione AI non ricevono, secondo il piano annunciato, una versione del motore tradizionale indipendente dalle funzioni generative."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "La modifica incide sulle impostazioni di prodotti molto diffusi in ambito scolastico, ma gli effetti pedagogici reali saranno verificabili solo dopo l'adozione.",
+      "tags": [
+        "Google",
+        "scuola",
+        "ricerca"
+      ],
+      "sources": [
+        {
+          "outlet": "Google",
+          "title": "Responsible AI for schools with Guided Learning",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+          "publishedAt": "2026-11-03",
+          "role": "official"
+        },
+        {
+          "outlet": "Associated Press",
+          "title": "Google will cut off search access for students at schools that reject AI",
+          "url": "https://apnews.com/article/7ba4219e505db1c11d672f6eefe7155a",
+          "publishedAt": "2026-11-04",
+          "role": "reporting"
+        },
+        {
+          "outlet": "TechCrunch",
+          "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+          "publishedAt": "2026-11-04",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Ars Technica",
+          "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+          "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/google-education-search-ai-clarification.svg",
+        "alt": "Libro scolastico e lente digitale per il tema ricerca e AI",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/google-education-search-ai-clarification.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    }
+  ]
+}

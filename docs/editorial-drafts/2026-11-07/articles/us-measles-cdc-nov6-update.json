@@ -1,0 +1,123 @@
+{
+  "id": "us-measles-cdc-nov6-update",
+  "rank": 5,
+  "impact": 3.5,
+  "tags": {
+    "it": [
+      "morbillo",
+      "vaccinazioni",
+      "epidemiologia"
+    ],
+    "en": [
+      "measles",
+      "vaccination",
+      "epidemiology"
+    ]
+  },
+  "category": "society",
+  "sources": [
+    {
+      "outlet": "US Centers for Disease Control and Prevention",
+      "title": "Measles Cases and Outbreaks — updated November 6, 2026",
+      "url": "https://www.cdc.gov/measles/data-research/index.html",
+      "publishedAt": "2026-11-06",
+      "role": "official"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "US measles cases climb above 5,000 for first time since 1991",
+      "url": "https://www.reuters.com/legal/litigation/us-measles-cases-rise-5182-cdc-says-2026-11-06/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Child dies of measles in New York's first such death in 30 years",
+      "url": "https://apnews.com/article/4032239653c89f9f454e0ec630852930",
+      "publishedAt": "2026-11-03",
+      "role": "reporting"
+    },
+    {
+      "outlet": "STAT",
+      "title": "Child dies of measles in Wisconsin, first such death since 1990",
+      "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/",
+      "publishedAt": "2026-11-05",
+      "role": "reporting",
+      "notes": "Verify original authorship before counting as additional newsroom; reporting credits may show AP."
+    }
+  ],
+  "it": {
+    "title": "Morbillo negli Stati Uniti, 5.182 casi confermati nel 2026 secondo l'aggiornamento CDC",
+    "dek": "Il dato del 6 novembre supera quota cinquemila; il conteggio federale dei decessi differisce da quello comunicato da alcuni Stati.",
+    "summary": "Il CDC statunitense ha aggiornato il 6 novembre 2026 a 5.182 i casi confermati di morbillo segnalati dall'inizio dell'anno, 330 in più rispetto al precedente bollettino. I ricoveri riferiti sono 562, gli focolai 43 e il conteggio federale dei decessi associati è quattro. Altri decessi risultano in comunicazioni dei singoli Stati: le diverse procedure di registrazione non vanno confuse.",
+    "body": [
+      "Il 6 novembre i Centers for Disease Control and Prevention statunitensi hanno pubblicato un nuovo bilancio di sorveglianza del morbillo: 5.182 casi confermati al 5 novembre, contro 4.852 nel bollettino precedente. Reuters ha ricostruito la crescita, che supera il massimo annuale segnalato dalla stessa agenzia sanitaria negli ultimi 35 anni. Il numero riguarda notifiche confermate accumulate nel corso del 2026 e non nuovi contagi avvenuti tutti il 6 novembre. La data di rilevazione e quella del bollettino sono distinte.",
+      "Secondo i dati CDC, 562 persone sono state ricoverate, circa l'11% dei casi, e 43 focolai sono stati segnalati nel corso dell'anno. Il 96% dei casi presenta stato vaccinale non vaccinato oppure ignoto: l'aggregazione di queste due categorie impedisce di calcolare da sola la quota esatta di persone mai immunizzate. Il morbillo si trasmette molto facilmente per via aerea, e livelli elevati di copertura con due dosi di vaccino riducono la possibilità di focolai persistenti. I dati descrivono una crisi di sanità pubblica, non un esperimento clinico.",
+      "Un'altra distinzione riguarda i decessi. Il CDC elenca quattro morti associate al morbillo nel proprio sistema, mentre Pennsylvania, Wisconsin e New York hanno segnalato numeri più alti nei registri sanitari statali. Reuters spiega che il conteggio nazionale ha adottato dati di mortalità del National Center for Health Statistics che possono essere consolidati con tempi differenti. AP ha riferito in modo autonomo i decessi annunciati negli Stati di New York e Wisconsin: non si devono sommare senza verifica i diversi elenchi come fossero necessariamente eventi mancanti uno nell'altro.",
+      "Il rapporto è rilevante anche perché gli esperti dell'Organizzazione panamericana della sanità stanno valutando la persistenza dello status di eliminazione del morbillo negli Stati Uniti, acquisito nel 2000. Eliminazione significa assenza di trasmissione endemica sostenuta, non l'impossibilità di casi importati o focolai limitati. Qualunque decisione dell'organismo regionale richiede la sua valutazione formale; il numero elevato dei contagi non costituisce automaticamente il suo verdetto. I dati puntuali continueranno a cambiare."
+    ],
+    "facts": [
+      "Il bollettino CDC del 6 novembre elenca 5.182 casi confermati nel 2026, 330 più del 30 ottobre.",
+      "Il CDC registra 562 ricoveri, 43 focolai e il 96% di casi in persone non vaccinate o con stato ignoto.",
+      "Il CDC segnala quattro decessi associati, meno di alcune comunicazioni statali che usano procedure diverse."
+    ],
+    "perspectives": [
+      "Reuters e AP mettono in evidenza i problemi di copertura vaccinale e tempi di registrazione delle morti.",
+      "I funzionari sanitari di New York e Wisconsin, citati da AP, richiamano l'importanza della vaccinazione."
+    ],
+    "unknowns": [
+      "I conteggi dei decessi federali e statali non sono riconciliati in tempo reale e potranno cambiare.",
+      "L'eventuale revisione dello status di eliminazione richiede un giudizio formale, non ancora pubblicato nella finestra osservata."
+    ],
+    "impactReason": "Un numero elevato di casi confermati, ricoveri e focolai in più Stati implica conseguenze dirette per la sanità pubblica, ma resta soggetto a aggiornamenti di sorveglianza.",
+    "questions": [
+      {
+        "question": "Perché il 96% dei casi CDC di morbillo non equivale alla percentuale esatta di pazienti non vaccinati?",
+        "answer": "L'agenzia raggruppa in un'unica categoria le persone che risultano non vaccinate e quelle per cui lo stato vaccinale non è noto. Senza separare quei due gruppi non si può sapere quanti, fra tutti i casi, non abbiano effettivamente ricevuto il vaccino."
+      },
+      {
+        "question": "Perché le morti associate al morbillo riportate dal CDC possono essere meno di quelle annunciate da Pennsylvania, New York e Wisconsin?",
+        "answer": "Il conteggio federale utilizza un circuito nazionale di certificazione delle cause di morte con tempi di consolidamento propri, mentre gli Stati comunicano anche notifiche sanitarie più immediate. Le differenze di definizione e aggiornamento impongono di mantenere distinti i totali finché non siano riconciliati."
+      }
+    ]
+  },
+  "en": {
+    "title": "US measles cases reach 5,182 in 2026 under the CDC's November 6 update",
+    "dek": "The national figure crosses 5,000 while federal counts of measles-associated deaths differ from those reported by several states.",
+    "summary": "The US CDC reported 5,182 confirmed measles cases for 2026 in its November 6 update, an increase of 330 since its previous bulletin. It listed 562 hospitalisations, 43 outbreaks and four federally recorded measles-associated deaths. Individual states have reported additional deaths under different recording procedures; the figures must not be treated as identical counts.",
+    "body": [
+      "On November 6, the US Centers for Disease Control and Prevention updated its measles surveillance tally to 5,182 confirmed cases as of November 5, up from 4,852 in the previous update. Reuters reported that the number surpassed any annual total recorded by the agency in the past 35 years. These are confirmed cases reported across 2026, not infections all acquired or diagnosed on November 6. The cutoff date for the surveillance data and the publication date of the bulletin are different.",
+      "CDC statistics list 562 hospitalisations, around 11% of cases, and 43 outbreaks for the year. About 96% of cases were in people known to be unvaccinated or whose vaccination status was unknown. Because those categories are combined, the number cannot by itself reveal the exact fraction of infected people who received no vaccine. Measles spreads efficiently through the air, while high two-dose immunisation coverage helps prevent sustained outbreaks. The data describe public health surveillance, not a clinical experiment.",
+      "Another important distinction concerns deaths. CDC reports four measles-associated deaths in its national record, while Pennsylvania, Wisconsin and New York have announced higher combined figures through state health channels. Reuters explained that the federal count now relies on National Center for Health Statistics mortality records that may be finalised on a different timetable. AP separately reported deaths announced in New York and Wisconsin. It would be misleading to combine the lists without checking whether cases overlap or use the same definitions.",
+      "The situation also matters because an expert commission convened by the Pan American Health Organization is expected to assess whether the United States retains its measles-elimination status, achieved in 2000. Elimination means that endemic transmission has not been sustained, not that imported cases or limited outbreaks can never occur. Any change in status requires a formal expert determination rather than automatically following from a high case count. Surveillance totals and death records may continue to be revised."
+    ],
+    "facts": [
+      "CDC's November 6 bulletin listed 5,182 confirmed 2026 measles cases, 330 more than the preceding update.",
+      "CDC reported 562 hospitalisations and 43 outbreaks, with 96% of cases unvaccinated or vaccination status unknown.",
+      "The federal count listed four associated deaths, fewer than some state announcements using different recording systems."
+    ],
+    "perspectives": [
+      "Reuters and AP highlighted vaccination gaps and differences in death reporting.",
+      "Public health officials in New York and Wisconsin, quoted by AP, stressed the importance of immunisation."
+    ],
+    "unknowns": [
+      "Federal and state death counts have not been reconciled in real time and may change.",
+      "Any decision about elimination status awaits the relevant expert body's formal assessment."
+    ],
+    "impactReason": "High confirmed case counts, hospitalisations and outbreaks affect public health across multiple states, although surveillance figures remain provisional.",
+    "questions": [
+      {
+        "question": "Why doesn't the CDC's 96% measles figure tell us the exact share of patients who were unvaccinated?",
+        "answer": "The CDC combines cases with a confirmed lack of vaccination and cases for which vaccination status is unknown. Without separating those categories, the percentage cannot precisely describe how many infected people received no vaccine."
+      },
+      {
+        "question": "Why can the CDC report fewer measles-associated deaths than Pennsylvania, New York and Wisconsin?",
+        "answer": "The federal tally relies on national death-certificate data with its own verification timetable, while states may announce health investigations more quickly. Differing definitions and reporting lags mean the totals must be kept distinct until they can be reconciled."
+      }
+    ]
+  },
+  "issueDate": "2026-11-07",
+  "section": "science",
+  "status": "DRAFT NOT FOR PUBLICATION until full 25 verified and CI",
+  "imageStatus": "original illustration pending"
+}

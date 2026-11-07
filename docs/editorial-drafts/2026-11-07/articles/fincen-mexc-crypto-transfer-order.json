@@ -1,0 +1,114 @@
+{
+  "id": "fincen-mexc-crypto-transfer-order",
+  "rank": 6,
+  "category": "economy",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "criptovalute",
+      "sanzioni",
+      "finanza"
+    ],
+    "en": [
+      "cryptocurrency",
+      "sanctions",
+      "finance"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "US Treasury",
+      "title": "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
+      "url": "https://home.treasury.gov/news/press-releases/sb0685/",
+      "publishedAt": "2026-11-06",
+      "role": "official"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+      "url": "https://www.reuters.com/world/middle-east/us-treasury-sanctions-canadian-money-services-firms-over-iran-related-2026-11-06/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Block",
+      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "FinCEN ordina il blocco dei trasferimenti bancari USA collegati a MEXC Global",
+    "dek": "Il Tesoro statunitense sostiene che l'exchange abbia facilitato almeno 16 miliardi di dollari di transazioni illecite; l'ordine entra in vigore dopo la pubblicazione ufficiale.",
+    "summary": "Il 6 novembre 2026 la FinCEN del Tesoro americano ha emesso un ordine che vieta agli istituti finanziari statunitensi di processare trasferimenti da o verso l'exchange di criptovalute MEXC Global. L'autorità allega transazioni illecite per almeno 16 miliardi di dollari fra il 2021 e il 2026. La cifra è una contestazione dell'amministrazione, non una condanna definitiva emessa da un giudice.",
+    "body": [
+      "Il 6 novembre il Financial Crimes Enforcement Network (FinCEN), agenzia del Dipartimento del Tesoro statunitense, ha annunciato un ordine contro la piattaforma di scambio di criptovalute MEXC Global. Il divieto colpisce i trasferimenti di fondi elaborati da istituti finanziari soggetti alle norme USA, impedendo loro di inviare o ricevere denaro attraverso operazioni che coinvolgano la piattaforma. Reuters e la testata specializzata The Block hanno riportato la misura, distinguendola dalle sanzioni decise nello stesso giorno contro otto operatori finanziari canadesi.",
+      "Il Tesoro afferma che fra maggio 2021 e maggio 2026 MEXC Global abbia facilitato almeno 16 miliardi di dollari in trasferimenti legati ad aggiramento di sanzioni, attività informatiche criminali e attori connessi a Iran, Corea del Nord e Russia. Aggiunge che circa un miliardo avrebbe riguardato operazioni dirette con oltre quaranta exchange iraniani. Si tratta di risultati di un'indagine e di allegazioni dell'autorità, non di prove giudiziarie che tutti i trasferimenti del periodo siano stati già accertati come reati.",
+      "L'ordine è emanato ai sensi della sezione 9714(a) del Combating Russian Money Laundering Act. La misura stabilisce un divieto per banche e altri intermediari statunitensi, non un blocco tecnico universale di Internet né il sequestro automatico delle criptovalute di tutti i clienti di MEXC nel mondo. Secondo il comunicato del Tesoro, il divieto diventerà efficace trenta giorni dopo la pubblicazione nel Federal Register. È dunque necessario distinguere la decisione annunciata il 6 novembre dal giorno in cui gli intermediari saranno tenuti a rispettarla.",
+      "Il Dipartimento ritiene che l'azione riduca la capacità di organizzazioni sanzionate di spostare fondi attraverso il sistema statunitense. Non è possibile inferire dai dati citati la sorte di ogni trasferimento o il comportamento futuro dei clienti. Un singolo ordine può modificare l'accesso alle controparti in dollari, mentre resta da verificare l'impatto effettivo su liquidità e conformità dell'exchange. La misura solleva anche interrogativi generali sull'efficacia della supervisione antiriciclaggio nei mercati degli asset digitali."
+    ],
+    "facts": [
+      "Il 6 novembre FinCEN ha annunciato un ordine che vieta ai soggetti finanziari USA trasferimenti da e verso MEXC Global.",
+      "La cifra di almeno 16 miliardi di dollari nel 2021–26 è una conclusione contestata del Tesoro, non una sentenza.",
+      "Il Tesoro indica entrata in vigore 30 giorni dopo pubblicazione nel Federal Register."
+    ],
+    "perspectives": [
+      "Il Tesoro qualifica la misura come difesa contro sanzioni aggirate e criminalità finanziaria.",
+      "La misura colpisce gli intermediari USA; gli effetti su utenti globali e alternative di pagamento non sono stabiliti dalle fonti."
+    ],
+    "unknowns": [
+      "Il volume di trasferimenti effettivamente interrotto dopo la data di efficacia non è noto.",
+      "Non sono disponibili in queste fonti esiti giudiziari definitivi su tutte le operazioni qualificate dal Tesoro."
+    ],
+    "impactReason": "La decisione ha rilievo per compliance e canali in dollari del mercato crittografico, ma le conseguenze economiche vanno ancora misurate.",
+    "questions": [
+      {
+        "question": "A chi si rivolge tecnicamente l'ordine FinCEN contro MEXC Global?",
+        "answer": "Si rivolge agli istituti finanziari statunitensi, ai quali vieta i trasferimenti di fondi che coinvolgono la piattaforma. Non significa che l'autorità abbia già confiscato ogni portafoglio degli utenti o spento il servizio per tutti i paesi."
+      },
+      {
+        "question": "Come va interpretata la cifra di 16 miliardi di dollari attribuita dal Tesoro a MEXC?",
+        "answer": "È il minimo che FinCEN ritiene collegato a schemi illeciti nel periodo maggio 2021–maggio 2026 sulla base della propria analisi. Misura il volume di trasferimenti contestati, non profitti illeciti già recuperati o l'ammontare di una condanna penale definitiva."
+      }
+    ]
+  },
+  "en": {
+    "title": "FinCEN issues order barring US bank transfers involving cryptocurrency exchange MEXC Global",
+    "dek": "The US Treasury alleges at least $16 billion in illicit transactions; the restriction takes effect after official Federal Register publication.",
+    "summary": "On November 6, 2026 the US Treasury's Financial Crimes Enforcement Network announced an order prohibiting US financial institutions from processing transfers involving cryptocurrency exchange MEXC Global. The agency alleges the exchange facilitated at least $16 billion in illicit transactions from 2021 to 2026. The figure is a government allegation, not a final court conviction.",
+    "body": [
+      "On November 6, the US Treasury's Financial Crimes Enforcement Network (FinCEN) announced an order targeting cryptocurrency exchange MEXC Global. It prohibits US financial institutions from sending or receiving fund transfers involving the exchange, cutting off an important connection to the American financial system. Reuters and specialist publication The Block covered the measure and distinguished it from separate sanctions announced the same day against eight Canadian money-services businesses.",
+      "Treasury alleges that between May 2021 and May 2026, MEXC Global facilitated at least $16 billion in transfers associated with sanctions evasion, cybercrime and actors linked to Iran, North Korea and Russia. It says approximately $1 billion involved direct transfers with more than forty Iranian crypto exchanges. These figures reflect the agency's investigation and claims, not a judicial determination that every identified transfer has been conclusively proven criminal.",
+      "FinCEN issued the order under section 9714(a) of the Combating Russian Money Laundering Act. The restriction applies to US banks and other covered intermediaries; it is not a worldwide technical shutdown of internet access or automatic seizure of every global MEXC customer's cryptocurrency. Treasury says it becomes effective thirty days after publication in the Federal Register, so the date of the November 6 announcement must be separated from the legal compliance date.",
+      "Treasury argues the measure reduces sanctioned organisations' ability to move funds through the US financial system. The reports do not establish how every customer will be affected or what workarounds will emerge. The order could change access to dollar counterparties, while its actual effect on the exchange's liquidity and compliance remains to be measured. It also raises wider questions about whether anti-money-laundering supervision in digital-asset markets is effective."
+    ],
+    "facts": [
+      "FinCEN announced a ban on US institutional fund transfers involving MEXC Global on November 6.",
+      "Treasury's $16 billion figure for 2021–26 is the agency's alleged illicit volume, not a judicial judgment.",
+      "The order is to take effect thirty days after Federal Register publication."
+    ],
+    "perspectives": [
+      "US Treasury officials describe the measure as a response to sanctions evasion and financial crime.",
+      "The order focuses on US intermediaries, while its broader impact on global users is not established."
+    ],
+    "unknowns": [
+      "The total volume of transfers actually disrupted once the order takes effect has not been measured.",
+      "The reviewed sources provide no final judicial findings on every transaction alleged by Treasury."
+    ],
+    "impactReason": "The order matters for dollar access and compliance in crypto markets, but its actual economic effects are unmeasured.",
+    "questions": [
+      {
+        "question": "Who is directly bound by FinCEN's order concerning MEXC Global?",
+        "answer": "US financial institutions are prohibited from processing fund transfers that involve the exchange. The order does not mean the agency has seized every customer's wallet or disabled the platform for all countries."
+      },
+      {
+        "question": "What does Treasury's allegation of at least $16 billion connected to MEXC measure?",
+        "answer": "It is the minimum transaction volume FinCEN says was linked to illicit schemes between May 2021 and May 2026, based on its analysis. It is not a sum of criminal proceeds recovered by authorities or the amount of a final criminal sentence."
+      }
+    ]
+  },
+  "issueDate": "2026-11-07",
+  "section": "world",
+  "status": "DRAFT — no publication before full editorial and CI gates"
+}

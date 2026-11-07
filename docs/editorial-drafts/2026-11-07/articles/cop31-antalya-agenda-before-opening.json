@@ -1,0 +1,115 @@
+{
+  "id": "cop31-antalya-agenda-before-opening",
+  "rank": 9,
+  "section": "world",
+  "category": "climate",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "COP31",
+      "clima",
+      "finanza"
+    ],
+    "en": [
+      "COP31",
+      "climate",
+      "finance"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "UNFCCC",
+      "title": "COP31 Host Country Agreement enters into force",
+      "url": "https://unfccc.int/news/cop31-host-country-agreement-enters-into-force",
+      "publishedAt": "2026-10-09",
+      "role": "official",
+      "notes": "Dated primary document for host conference preparations; Reuters and Guardian (6 Nov) substantiate COP31 agenda and Nov 9–20 schedule"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "Fossil fuel cuts and finance top COP31 agenda",
+      "url": "https://www.reuters.com/sustainability/fossil-fuel-cuts-finance-top-cop31-agenda-2026-11-06/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Cop31 will expose the conflicts and contradictions of the world's fossil fuel reliance",
+      "url": "https://www.theguardian.com/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance",
+      "publishedAt": "2026-11-06",
+      "role": "analysis"
+    }
+  ],
+  "it": {
+    "title": "COP31 al via il 9 novembre ad Antalya: riduzione dei fossili e finanza climatica al centro delle attese",
+    "dek": "I negoziati non sono ancora iniziati; la presidenza turca e la guida australiana del tavolo dovranno conciliare priorità energetiche divergenti.",
+    "summary": "Alla vigilia della COP31, in programma ad Antalya dal 9 al 20 novembre 2026, Reuters e Guardian il 6 novembre hanno delineato le questioni principali: uscita dalle fonti fossili, sviluppo dell'elettricità pulita e aiuti ai paesi vulnerabili. La Turchia ospita e presiede la conferenza, mentre l'Australia guida i negoziati. Nessuna intesa finale della COP31 esiste alla data dell'edizione.",
+    "body": [
+      "La trentunesima conferenza sul clima delle Nazioni Unite è programmata al centro congressi di Antalya, in Turchia, dal 9 al 20 novembre 2026. Il 6 novembre Reuters e Guardian hanno esaminato le proposte e i contrasti attesi, ma l'apertura ufficiale è ancora futura rispetto al 7 novembre. Il vertice dei capi di Stato è fissato all'11 e 12 novembre. Date e sedi sono confermate dall'UNFCCC, la convenzione delle Nazioni Unite sul clima, e servono a distinguere i programmi dalle decisioni che potranno essere prese.",
+      "L'organizzazione prevede un assetto insolito: il ministro turco Murat Kurum presiede la COP, mentre il ministro australiano Chris Bowen guida il lavoro negoziale. Il Guardian spiega che l'intesa nasce da una disputa sulle candidature per ospitare la conferenza. Le due economie hanno rapporti significativi con il carbone, come consumatore e come esportatore, e dovranno negoziare con Stati che chiedono riduzioni più rapide dei combustibili fossili. Le dichiarazioni di impegno non implicano che sia già stato concordato un calendario globale di eliminazione.",
+      "Il capitolo finanziario riguarda risorse per mitigazione, adattamento ai danni del clima e sostegno ai paesi a reddito più basso. Reuters richiama dati ONU in base ai quali i finanziamenti per l'adattamento provenienti dai paesi sviluppati hanno raggiunto 28,2 miliardi di dollari nel 2024, contro una stima di fabbisogni annui di circa 305 miliardi nei paesi in via di sviluppo. Sono grandezze calcolate con perimetri differenti, che illustrano un divario, non un debito individuale immediatamente esigibile di un identico importo.",
+      "Tra le idee preparatorie figura l'obiettivo discusso di arrivare al 35% della domanda finale di energia soddisfatta dall'elettricità entro il 2035, secondo il Guardian. Non è un risultato negoziale approvato alla data del 7 novembre. Parte delle discussioni riguarderà anche metano, efficienza, reti e protezione dei lavoratori nella transizione. I negoziati futuri potrebbero modificare testi e cifre; l'interesse pubblico attuale sta nelle priorità e nel contrasto fra ambizioni annunciate e possibilità concrete di attuazione."
+    ],
+    "facts": [
+      "COP31 è prevista dal 9 al 20 novembre ad Antalya e il vertice dei leader dall'11 al 12, secondo UNFCCC.",
+      "Il presidente designato è Murat Kurum; Chris Bowen dell'Australia presiede i negoziati.",
+      "Reuters richiama 28,2 miliardi di dollari di finanziamenti adattamento del 2024 e fabbisogni annui stimati di 305 miliardi."
+    ],
+    "perspectives": [
+      "Reuters sottolinea la difficoltà nel trasformare impegni sulla riduzione dei fossili in finanziamenti e politiche.",
+      "Il Guardian evidenzia le tensioni fra la dipendenza dal carbone dei due paesi guida e gli obiettivi di elettrificazione."
+    ],
+    "unknowns": [
+      "Non sono noti accordi finali della COP31, che inizierà dopo la data dell'edizione.",
+      "Le proposte preparatorie, compreso il 35% di elettrificazione, potrebbero non essere adottate nella formulazione attuale."
+    ],
+    "impactReason": "Le trattative ONU sul clima hanno portata globale, ma l'articolo riguarda preparativi e divari preesistenti, non un accordo ancora inesistente.",
+    "questions": [
+      {
+        "question": "Come si dividono i ruoli fra Turchia e Australia durante la COP31 di Antalya?",
+        "answer": "La Turchia ospita la conferenza e il suo ministro Murat Kurum ne è presidente formale; l'australiano Chris Bowen presiede la conduzione dei negoziati. La divisione è frutto di un compromesso organizzativo e non assegna automaticamente a uno dei due paesi la facoltà di decidere l'esito per tutti."
+      },
+      {
+        "question": "Perché i 28,2 miliardi di fondi adattamento del 2024 non coprono i 305 miliardi indicati per i paesi in sviluppo?",
+        "answer": "Il primo dato misura flussi finanziari attribuiti ai paesi sviluppati in un anno passato, mentre il secondo è una stima del fabbisogno annuale futuro di adattamento. Il confronto evidenzia un grande divario di risorse disponibili rispetto alle necessità, ma non equivale a un bilancio contrattuale chiuso della COP31."
+      }
+    ]
+  },
+  "en": {
+    "title": "COP31 opens in Antalya on November 9 with fossil fuels and climate finance on the agenda",
+    "dek": "Negotiations have not begun yet; Turkey's presidency and Australia's negotiation chair face conflicting energy priorities.",
+    "summary": "Ahead of COP31 in Antalya, scheduled for November 9–20, 2026, Reuters and the Guardian on November 6 highlighted fossil-fuel reductions, clean electrification and financing for vulnerable countries as central issues. Turkey hosts and presides over the conference, while Australia leads negotiations. No final COP31 agreement existed on this edition's date.",
+    "body": [
+      "The United Nations' thirty-first climate conference is scheduled for November 9–20 at Antalya in Türkiye. On November 6 Reuters and the Guardian examined expected proposals and disagreements, but the official opening was still in the future relative to the November 7 edition. The world leaders' summit is planned for November 11 and 12. The dates and location come from the UN Framework Convention on Climate Change, making it essential to distinguish a programme from decisions that might later be negotiated.",
+      "The event has an unusual division of responsibilities: Turkish minister Murat Kurum is the COP president, while Australian minister Chris Bowen chairs negotiations. The Guardian traces the arrangement to a dispute over hosting rights. The two countries have substantial links to coal, one as a consumer and the other as an exporter, while many negotiating partners want a faster transition away from fossil fuels. Their stated ambitions do not mean governments have already agreed a global phaseout schedule.",
+      "Finance discussions address funding for emissions reductions, adaptation to climate harms and support for lower-income countries. Reuters draws on UN figures showing that adaptation funding from developed countries reached $28.2 billion in 2024, compared with estimated needs of roughly $305 billion annually in developing countries. These measures have differing scopes, but together illustrate a financing gap rather than a single contractually due payment of the same size.",
+      "Ideas circulated ahead of the summit include a goal of supplying 35% of final energy demand through electricity by 2035, according to the Guardian. This is a proposed target, not an agreed outcome as of November 7. Talks will also examine methane, efficiency, grid development and support for workers during the energy transition. Final language and figures depend on negotiations yet to begin; the public interest lies in the stated priorities and the gap between aspiration and implementation."
+    ],
+    "facts": [
+      "UNFCCC schedules COP31 in Antalya for November 9–20, with a leaders' summit November 11–12.",
+      "Turkish minister Murat Kurum is the designated COP president and Australia's Chris Bowen chairs negotiations.",
+      "Reuters cites 2024 adaptation funding of $28.2 billion and estimated annual developing-country adaptation needs of $305 billion."
+    ],
+    "perspectives": [
+      "Reuters focuses on the difficulty of converting fossil-fuel promises into action and finance.",
+      "The Guardian examines the tension between the two leading countries' coal interests and the clean-electricity agenda."
+    ],
+    "unknowns": [
+      "There can be no final COP31 deal before negotiations begin after the edition date.",
+      "Pre-summit proposals such as the electrification goal may change or fail to be adopted."
+    ],
+    "impactReason": "UN climate negotiations are global in scope, but the present story concerns preparations and existing gaps, not an agreement that has yet to be reached.",
+    "questions": [
+      {
+        "question": "How are responsibilities divided between Turkey and Australia at COP31 in Antalya?",
+        "answer": "Turkey hosts the summit and minister Murat Kurum is its formal president, while Australian minister Chris Bowen leads the negotiating process. The compromise does not give either state authority to impose an outcome unilaterally on all participating parties."
+      },
+      {
+        "question": "Why does the $28.2 billion adaptation funding figure for 2024 fall short of the $305 billion estimate?",
+        "answer": "The first number measures finance attributed to developed countries during a past year, while the second estimates developing nations' annual adaptation needs. They indicate a large resource gap under different measures, not a completed COP31 financial settlement."
+      }
+    ]
+  },
+  "status": "DRAFT NOT PUBLISHED",
+  "issueDate": "2026-11-07"
+}

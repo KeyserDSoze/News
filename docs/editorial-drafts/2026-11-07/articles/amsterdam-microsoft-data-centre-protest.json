@@ -1,0 +1,115 @@
+{
+  "id": "amsterdam-microsoft-data-centre-protest",
+  "section": "technology",
+  "rank": 2,
+  "category": "technology",
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "datacenter",
+      "Amsterdam",
+      "energia"
+    ],
+    "en": [
+      "datacenters",
+      "Amsterdam",
+      "energy"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Associated Press",
+      "title": "Protesters break into Microsoft data center site in Amsterdam as Europe's backlash spreads",
+      "url": "https://apnews.com/article/b4f3f9f368697bb37416bcb4fabdd67c",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "NOS",
+      "title": "Zeker 150 demonstranten opgepakt bij protest tegen datacenter in Amsterdam",
+      "url": "https://nos.nl/artikel/2638349-zeker-150-demonstranten-opgepakt-bij-protest-tegen-datacenter-in-amsterdam",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Amsterdam, protesta nel cantiere di un data center Microsoft: 150–200 fermati secondo la polizia",
+    "dek": "L'azione nel sito di Westpoort distingue i manifestanti entrati nel cantiere dal corteo esterno; energia, acqua e uso dei servizi sono al centro delle contestazioni.",
+    "summary": "Il 6 novembre 2026 alcuni attivisti hanno oltrepassato le recinzioni del cantiere di un data center a Westpoort, Amsterdam, dove è previsto un impianto legato a Microsoft. La polizia olandese ha stimato fra 150 e 200 i fermati per sospetta violazione di proprietà. La protesta si inserisce in mobilitazioni europee contro nuovi data center, ma le iniziative non appartengono tutte allo stesso gruppo.",
+    "body": [
+      "Venerdì 6 novembre centinaia di persone hanno partecipato a proteste nell'area industriale di Amsterdam-West contro un data center in costruzione destinato a Microsoft. Secondo i resoconti originali di AP, Guardian e NOS, una parte degli attivisti ha superato le barriere del cantiere, mentre altri hanno manifestato all'esterno. Alcuni hanno scalato una gru e acceso fumogeni. La polizia ha parlato di 150–200 persone fermate con l'ipotesi di violazione di proprietà: il dato è una stima iniziale e non implica condanne.",
+      "Il Guardian distingue l'azione diretta promossa da Geef Tegengas dalla manifestazione del circuito Stop Dirty Data Centres, i cui rappresentanti hanno affermato di non aver coordinato l'ingresso nel cantiere. Questa distinzione è importante: accomunare indiscriminatamente tutti i partecipanti ad atti contestati alla polizia darebbe un'immagine imprecisa del movimento. NOS riferisce di materiale sospettato di essere stato sottratto e di danni sul sito; l'accertamento delle responsabilità individuali spetta alle autorità giudiziarie.",
+      "Le rivendicazioni riguardano il consumo di elettricità e acqua delle infrastrutture digitali e la trasparenza delle procedure autorizzative. Alcuni attivisti contestano anche l'uso dei servizi cloud da parte di istituzioni militari e forze di sicurezza. Si tratta di posizioni politiche espresse dai manifestanti, non di una prova dell'uso specifico dell'impianto ancora in costruzione. Microsoft ha dichiarato di rispettare il diritto alla protesta pacifica, ma di non approvare azioni illegali o pericolose; il proprietario Pure Data Centres ha richiamato i rischi di sicurezza del cantiere.",
+      "Il caso mostra il conflitto locale che accompagna l'espansione dei data center per l'intelligenza artificiale, pur senza provare che il singolo progetto fosse destinato esclusivamente ad AI. Nei giorni del 6 e 7 novembre erano previste iniziative anche in altre città europee, con differenti organizzatori. Non sono ancora definiti né l'esito delle contestazioni penali né eventuali modifiche al progetto. Il dato tecnico da approfondire è la capacità energetica effettivamente autorizzata, distinta dalle stime generiche sul settore."
+    ],
+    "facts": [
+      "Il 6 novembre attivisti hanno occupato parte di un cantiere per data center Microsoft a Westpoort, Amsterdam.",
+      "La polizia olandese ha stimato 150–200 fermati per sospetta violazione di proprietà, secondo NOS, AP e Guardian.",
+      "Il Guardian distingue azione diretta Geef Tegengas e protesta esterna Stop Dirty Data Centres."
+    ],
+    "perspectives": [
+      "Gli attivisti contestano consumo di risorse, impatto climatico e utilizzi dei servizi tecnologici; le accuse specifiche restano attribuite.",
+      "Microsoft e Pure Data Centres difendono la sicurezza del sito e distinguono protesta pacifica da ingresso illecito."
+    ],
+    "unknowns": [
+      "Il numero definitivo dei fermati e gli esiti giudiziari delle ipotesi di reato non sono ancora accertati.",
+      "Le misure operative concrete sui consumi idrici ed energetici del singolo impianto non emergono in forma indipendentemente verificata dai resoconti."
+    ],
+    "impactReason": "L'episodio rende visibili i conflitti di territorio e governance legati all'infrastruttura digitale europea, senza produrre ancora un cambiamento normativo generale.",
+    "questions": [
+      {
+        "question": "Perché le proteste nel cantiere Microsoft di Amsterdam non possono essere attribuite tutte a Geef Tegengas?",
+        "answer": "Il Guardian identifica l'ingresso nel cantiere come iniziativa di Geef Tegengas e un presidio esterno legato a Stop Dirty Data Centres, che ha dichiarato di non aver organizzato l'azione diretta. Stessa area e critiche convergenti non significano identità degli organizzatori o delle condotte."
+      },
+      {
+        "question": "Che cosa significa il numero di 150–200 persone indicato dalla polizia olandese?",
+        "answer": "È una stima iniziale dei fermati durante l'operazione nel cantiere, nell'ambito di sospetti di violazione di proprietà. Non è un dato definitivo su manifestanti totali, persone rinviate a giudizio o colpevolezza: sono categorie distinte."
+      }
+    ]
+  },
+  "en": {
+    "title": "Amsterdam police detain an estimated 150–200 at Microsoft data-centre construction protest",
+    "dek": "The Westpoort occupation involved a separate direct-action group from the peaceful demonstration outside; energy, water and service uses are under scrutiny.",
+    "summary": "On November 6, 2026, activists entered a data-centre construction site in Amsterdam's Westpoort district where Microsoft is to use the facility. Dutch police estimated that 150–200 people were detained on suspicion of trespass. The incident coincided with wider European protests against new data centres, though the actions were not all organised by the same group.",
+    "body": [
+      "On Friday, November 6, demonstrators gathered in Amsterdam-West to protest against a data centre being constructed for Microsoft. Original reporting by AP, the Guardian and Dutch broadcaster NOS describes some activists breaking through the perimeter while others demonstrated outside. Some occupiers climbed a crane and used flares. Police estimated that 150 to 200 people were detained on suspicion of trespassing. This is an initial police estimate, not a count of people convicted of any offence.",
+      "The Guardian distinguished the direct action by Geef Tegengas from the demonstration connected to the Stop Dirty Data Centres coalition. Representatives of the latter said they had neither planned nor promoted the entry into the site. The distinction matters because grouping all attendees together would improperly assign disputed actions to people who remained outside. NOS reported suspected theft and damage at the site, matters that require investigation and individual legal assessment.",
+      "Protesters raised concerns about electricity and water consumption at expanding digital infrastructure sites and about whether approval procedures allow meaningful public scrutiny. Some also challenged technology companies' cloud services for military or law-enforcement institutions. Those are activists' attributed positions, not proof that the unfinished facility has been used for any specific activity. Microsoft said it supported peaceful expression but rejected unlawful or unsafe behaviour, while site owner Pure Data Centres emphasised construction-site safety.",
+      "The event illustrates how the rapid construction of digital infrastructure and capacity for AI is creating local conflicts, although it does not establish that this particular site would serve AI workloads exclusively. Other actions were planned across European cities on November 6–7 by different groups. The outcome of police investigations and any effect on project approvals remain unresolved. Assessing the project's actual authorised energy and water use would require technical permit information, not industry-wide estimates."
+    ],
+    "facts": [
+      "Activists entered a Microsoft-linked data-centre building site in Amsterdam on November 6.",
+      "Dutch police estimated 150–200 detentions on suspicion of trespassing, reported by NOS, AP and the Guardian.",
+      "The Guardian distinguished the Geef Tegengas site occupation from the Stop Dirty Data Centres protest outside."
+    ],
+    "perspectives": [
+      "Campaigners object to resource consumption, climate impacts and technology service uses; their specific allegations are attributed.",
+      "Microsoft and site owner Pure Data Centres distinguished peaceful protest from conduct they regarded as unlawful and dangerous."
+    ],
+    "unknowns": [
+      "The final tally of detentions and any court findings are not established by the initial police reports.",
+      "Independently confirmed operating power and water requirements for the particular site were not available from the reviewed coverage."
+    ],
+    "impactReason": "The episode highlights local conflicts over European digital infrastructure without yet constituting a wider policy change.",
+    "questions": [
+      {
+        "question": "Why should the entire Microsoft-site protest in Amsterdam not be attributed to Geef Tegengas?",
+        "answer": "The Guardian distinguishes Geef Tegengas activists who entered the site from a Stop Dirty Data Centres demonstration outside. The latter coalition said it had not organised the direct action. Sharing a location and some environmental concerns does not mean the groups coordinated all activities."
+      },
+      {
+        "question": "What does the Dutch police estimate of 150–200 people actually count?",
+        "answer": "It is an initial estimate of people detained during the construction-site operation on suspicion of trespassing. It is not a final tally of protesters, criminal charges, or convictions; those are separate measures."
+      }
+    ]
+  },
+  "status": "DRAFT — independent-source review pending final editorial gate; not publishable without full edition",
+  "issueDate": "2026-11-07",
+  "imageStatus": "Original illustrated vector pending"
+}

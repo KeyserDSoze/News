@@ -1,0 +1,114 @@
+{
+  "id": "bank-of-england-nov5-rate-rise",
+  "rank": 7,
+  "section": "world",
+  "category": "economy",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "Regno-Unito",
+      "inflazione",
+      "tassi"
+    ],
+    "en": [
+      "Britain",
+      "inflation",
+      "rates"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Bank of England",
+      "title": "Interest rates and Bank Rate: our latest decision",
+      "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate",
+      "publishedAt": "2026-11-05",
+      "role": "official"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "Bank of England policymakers set out views on rates outlook",
+      "url": "https://live.euronext.com/en/financial-news/bank-england-policymakers-set-out-views-rates-outlook-0",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Bank of England interest rate decision, pound, inflation and oil",
+      "url": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Banca d'Inghilterra, tasso al 4% dopo il rialzo di 25 punti base deciso 8 a 1",
+    "dek": "La decisione del 5 novembre risponde ai rincari energetici e a inflazione del 3,5%; la banca teme il trasferimento dei costi alle altre merci.",
+    "summary": "Il comitato di politica monetaria della Bank of England il 5 novembre 2026 ha portato il Bank Rate al 4%, aumentando di un quarto di punto con voto 8–1. La banca riferisce inflazione al 3,5% e prevede circa 5% entro metà 2027, in uno scenario di rincari energetici associati al conflitto in Medio Oriente. La previsione è condizionata, non un tasso già registrato.",
+    "body": [
+      "La banca centrale britannica ha deciso il 5 novembre 2026 un incremento del tasso ufficiale dal 3,75% al 4%. Otto membri del comitato di politica monetaria hanno sostenuto il rialzo e uno ha votato contro. La decisione e le dichiarazioni individuali sono pubblicate dalla Bank of England e sono state esaminate da Reuters e Guardian. È un provvedimento effettivamente preso il 5 novembre, non un'ipotesi su ciò che potrebbe accadere nel prossimo incontro.",
+      "Il motivo dichiarato è l'inflazione, che la banca quantifica al 3,5% contro un obiettivo del 2%. L'aumento dei costi dell'energia è collegato, nel quadro della banca, alle interruzioni degli approvvigionamenti causate dal conflitto in Medio Oriente. La stima di un aumento fino a circa il 5% a metà 2027 riguarda uno scenario di previsione ed è esposta a sviluppi dei prezzi dell'energia e della domanda. Non si tratta di un risultato certo.",
+      "Un tasso ufficiale più elevato tende a rendere più oneroso il credito e può contenere la spesa privata, riducendo nel tempo la pressione sui prezzi. Il trasferimento sui mutui, sui prestiti e sui depositi dipende tuttavia dalla struttura dei contratti e dalle decisioni degli intermediari. Il governatore Andrew Bailey ha sottolineato la necessità di contrastare la propagazione dei rincari dell'energia, senza promettere che ogni voce di spesa domestica diminuirà immediatamente.",
+      "La divisione del voto mostra che i membri non concordano sul bilanciamento fra inflazione e crescita economica. Reuters riporta che molti ritengono possibili ulteriori aumenti se la pressione sui prezzi persiste, ma tali dichiarazioni non equivalgono a decisioni future vincolanti. La prossima data pubblicata dall'istituto è il 17 dicembre. Il contenuto pubblico rilevante è il costo del credito già modificato e la necessità di separare la decisione corrente dalle traiettorie ipotizzate."
+    ],
+    "facts": [
+      "Il 5 novembre 2026 la Bank of England ha aumentato il Bank Rate di 0,25 punti percentuali al 4%.",
+      "La votazione del comitato è stata 8 a 1 a favore.",
+      "Inflazione attuale 3,5% e previsione intorno al 5% a metà 2027 sono dati e proiezioni della banca centrale."
+    ],
+    "perspectives": [
+      "Bailey attribuisce al rincaro dell'energia una pressione che potrebbe propagarsi ai prezzi nazionali.",
+      "Membri del comitato divergono sul bisogno di ulteriori rialzi: sono orientamenti condizionati ai dati futuri."
+    ],
+    "unknowns": [
+      "L'evoluzione dei prezzi dell'energia e l'inflazione effettiva di metà 2027 non sono note.",
+      "L'effetto sui singoli contratti di credito varia e non è ricavabile automaticamente dal tasso ufficiale."
+    ],
+    "impactReason": "Il rialzo colpisce il costo del credito dell'economia britannica e riflette shock energetici globali, ma resta una singola decisione monetaria.",
+    "questions": [
+      {
+        "question": "Che cosa significa il voto 8–1 con cui la Bank of England ha portato il Bank Rate al 4%?",
+        "answer": "Otto dei nove membri del Monetary Policy Committee hanno approvato un aumento di 25 punti base dal 3,75% al 4%, mentre uno ha preferito un'altra decisione. Il voto riguarda il provvedimento del 5 novembre, non autorizza a dare per scontato un ulteriore aumento."
+      },
+      {
+        "question": "Perché un rincaro del petrolio può spingere la Bank of England a rialzare il costo del credito?",
+        "answer": "L'energia più cara aumenta carburanti, bollette e costi delle imprese, che possono trasferirsi ai prezzi di altri beni e servizi. Rialzare i tassi mira a limitare la domanda e la persistenza dell'inflazione, ma comporta anche un costo per chi si finanzia."
+      }
+    ]
+  },
+  "en": {
+    "title": "Bank of England lifts interest rate to 4% in an eight-to-one vote",
+    "dek": "The November 5 quarter-point rise responds to energy costs and 3.5% inflation, with the central bank warning of wider price pressures.",
+    "summary": "On November 5, 2026, the Bank of England's monetary policy committee raised Bank Rate to 4%, a quarter-point increase approved eight votes to one. The bank reported inflation at 3.5% and projected roughly 5% by mid-2027 amid energy-price increases linked to conflict in the Middle East. The latter figure is a conditional forecast, not recorded inflation.",
+    "body": [
+      "The UK's central bank increased its policy rate from 3.75% to 4% on November 5, 2026. Eight members of the Monetary Policy Committee supported the move and one opposed it. The Bank of England published the decision and individual policy statements, covered independently by Reuters and the Guardian. This is a rate decision that took effect on November 5, rather than a prediction about what the committee may do at a later meeting.",
+      "The bank's stated concern is inflation, currently 3.5% against a 2% target. Its assessment links higher energy costs to supply and transport disruption caused by the conflict in the Middle East. The projection of inflation approaching 5% by mid-2027 depends on future energy prices and economic demand. It should not be presented as a measured outcome or an unavoidable event.",
+      "Higher policy rates tend to make borrowing more expensive and can restrain consumption, reducing some upward pressure on prices over time. How fast the changes reach mortgages, business loans or savings depends on contract structures and decisions by lenders. Governor Andrew Bailey argued that policy must prevent energy price shocks from spreading across the economy, not that higher rates can immediately reduce every household expense.",
+      "The dissenting vote shows members differ about the trade-off between inflation and growth. Reuters reported that some policymakers saw a possible case for further increases if inflation pressures do not ease, but those conditional opinions are not binding future decisions. The bank lists its next rate decision for December 17. What is established now is the change in credit conditions, which should be distinguished from projections about their future path."
+    ],
+    "facts": [
+      "Bank Rate rose by 0.25 percentage points to 4% on November 5, 2026.",
+      "The committee voted eight to one for the decision.",
+      "The bank reported 3.5% inflation and projected around 5% by mid-2027 as a forecast."
+    ],
+    "perspectives": [
+      "Governor Bailey argues higher energy costs could spread into broader inflation.",
+      "Committee members differ on whether subsequent rate increases will be necessary if price pressures persist."
+    ],
+    "unknowns": [
+      "Actual energy prices and mid-2027 inflation cannot yet be known.",
+      "Effects on individual borrowers vary with contracts and cannot be calculated from the headline rate alone."
+    ],
+    "impactReason": "The rate change affects UK credit conditions and responds to global energy disruptions, but is one monetary decision rather than a historic economic transformation.",
+    "questions": [
+      {
+        "question": "What exactly does the eight-to-one Bank of England vote for a 4% Bank Rate mean?",
+        "answer": "Eight of the nine Monetary Policy Committee members supported a 25-basis-point increase from 3.75% to 4%, while one opposed it. The tally describes the November 5 decision and does not predetermine how members will vote next time."
+      },
+      {
+        "question": "Why can more expensive energy lead the Bank of England to raise borrowing costs?",
+        "answer": "Energy prices affect fuel, household bills and business costs, and those increases can spread into other prices. Higher rates aim to reduce demand and prevent inflation becoming persistent, while also increasing financing costs for households and firms."
+      }
+    ]
+  },
+  "status": "DRAFT NOT PUBLISHED",
+  "issueDate": "2026-11-07"
+}

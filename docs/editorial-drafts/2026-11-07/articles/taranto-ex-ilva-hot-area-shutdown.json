@@ -1,0 +1,131 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION: missing licensed original cover and complete edition",
+  "issueDate": "2026-11-07",
+  "section": "italy",
+  "id": "taranto-ex-ilva-hot-area-shutdown",
+  "rank": 1,
+  "category": "economy",
+  "impact": 3.5,
+  "tags": {
+    "it": [
+      "Taranto",
+      "siderurgia",
+      "lavoro"
+    ],
+    "en": [
+      "Taranto",
+      "steelmaking",
+      "employment"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "ANSA",
+      "title": "Ex Ilva, spenta l'area a caldo. Tavolo sulla cigs aggiornato al 10 novembre",
+      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/ex-ilva-spenta-larea-a-caldo.-tavolo-sulla-cigs-aggiornato-al-10-novembre_ff5c4603-24e6-416c-9a44-ddcb5ec4c51c.html",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Sky TG24",
+      "title": "Ex Ilva, spenti impianti area a caldo. Cgil: Incontro su cassa integrazione negativo",
+      "url": "https://tg24.sky.it/economia/2026/11/06/ex-ilva-taranto-spegnimento-altiforni-reazioni",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "RaiNews",
+      "title": "Taranto, iniziato lo spegnimento degli altiforni dell’ex Ilva. Sindacati: il Governo dia risposte",
+      "url": "https://www.rainews.it/articoli/2026/11/ex-ilva-al-via-lo-spegnimento-degli-altiforni-confindustria-su-cordata-decisione-non-ancora-presa-71d30d00-acef-425c-8f54-ef72aed9d780.html",
+      "publishedAt": "2026-11-03",
+      "role": "reporting",
+      "notes": "Antefatto dello spegnimento, 3 novembre; non usare come prova autonoma del completamento del 6"
+    }
+  ],
+  "it": {
+    "title": "Ex Ilva di Taranto, spenta tutta l'area a caldo; il confronto sul lavoro slitta al 10 novembre",
+    "dek": "Il direttore generale di Acciaierie d'Italia conferma il fermo degli impianti dopo i provvedimenti giudiziari; resta senza intesa la discussione sulla cassa integrazione.",
+    "summary": "Il 6 novembre 2026 Maurizio Saitta, direttore generale di Acciaierie d'Italia in amministrazione straordinaria, ha comunicato ai sindacati lo spegnimento degli impianti dell'area a caldo dell'ex Ilva di Taranto. Dopo il provvedimento giudiziario confermato dalla Cassazione, il governo e le organizzazioni sindacali non hanno raggiunto un accordo sulla cassa integrazione: nuovo confronto fissato al 10 novembre.",
+    "body": [
+      "Il 6 novembre 2026 il direttore generale di Acciaierie d'Italia in amministrazione straordinaria, Maurizio Saitta, ha riferito durante l'incontro al ministero del Lavoro che tutti gli impianti dell'area a caldo dell'ex Ilva di Taranto erano ormai spenti. ANSA e Sky TG24 riportano la comunicazione e la collocano al termine di uno spegnimento avviato il 3 novembre. Il fermo dell'area che comprende gli altiforni non equivale, senza ulteriori verifiche, alla cessazione di ogni attività in tutti i reparti e in ogni impianto del gruppo.",
+      "La sequenza segue un procedimento giudiziario avviato da cittadini che lamentavano rischi sanitari legati all'area a caldo. Una decisione dei giudici di Milano aveva disposto l'arresto degli impianti in mancanza di misure su amianto ed emissioni entro termini stabiliti; la Corte di Cassazione ha poi respinto i ricorsi dei soggetti in amministrazione straordinaria. Il tema sanitario e quello industriale vanno raccontati separatamente: la pronuncia riguarda prescrizioni e funzionamento degli impianti, non costituisce una prova nuova di responsabilità individuali in procedimenti penali ancora distinti.",
+      "Nella stessa giornata le parti hanno discusso al ministero del Lavoro l'estensione della cassa integrazione straordinaria. La richiesta aziendale, comunicata in ottobre, riguarda fino a 8.622 lavoratori: è un massimale della procedura, non il numero certo di persone che perderanno il lavoro o saranno collocate in cassa in ogni momento. Secondo le sigle Fim, Fiom e Uilm citate da ANSA e Sky TG24, il tavolo si è chiuso senza intesa perché rimangono interrogativi sulle modalità della tutela. Il confronto è stato aggiornato al 10 novembre.",
+      "La crisi industriale è aggravata dall'incertezza sulla proprietà futura e sulla riconversione verso processi meno inquinanti. Il termine per le offerte vincolanti è indicato dalle redazioni per l'8 novembre, una scadenza successiva alla finestra dell'edizione; non si può presentare come acquisita alcuna offerta definitiva. I sindacati invocano sostegni occupazionali e risorse per la decarbonizzazione, mentre l'esecutivo considera strategica la produzione siderurgica. Il dato immediato del 6 novembre è il fermo dichiarato dell'area a caldo e la mancanza di una soluzione negoziale sul lavoro."
+    ],
+    "facts": [
+      "Il 6 novembre Saitta ha comunicato ai sindacati il fermo completo degli impianti dell'area a caldo di Taranto.",
+      "Le operazioni erano iniziate il 3 novembre dopo la decisione della Cassazione che ha respinto i ricorsi sul fermo.",
+      "La discussione sulla CIGS richiesta per un massimo di 8.622 lavoratori è stata rinviata al 10 novembre, senza intesa."
+    ],
+    "perspectives": [
+      "I sindacati Fim, Fiom e Uilm sostengono che permangono dubbi sui criteri e sulle tutele della cassa integrazione; la loro valutazione dell'incontro è negativa.",
+      "Le organizzazioni sindacali chiedono investimenti pubblici e un percorso credibile di decarbonizzazione; non risulta da queste fonti che tali risorse siano state definitivamente stanziate."
+    ],
+    "unknowns": [
+      "Non è determinato il numero di persone effettivamente collocate in CIGS né per quanto tempo.",
+      "Non è stabilito dalle fonti consultate l'esito della gara in corso e il programma operativo di riavvio o riconversione."
+    ],
+    "impactReason": "Fermo di una parte produttiva centrale del maggior polo siderurgico italiano, con possibili ripercussioni su migliaia di lavoratori e sul risanamento ambientale; il futuro societario è aperto.",
+    "questions": [
+      {
+        "question": "Che cosa significa, in concreto, lo spegnimento dell'area a caldo dell'ex Ilva comunicato da Saitta?",
+        "answer": "Riguarda la fermata degli impianti del ciclo siderurgico primario a Taranto, compresi gli altiforni, comunicata il 6 novembre dopo le procedure iniziate il 3. Non autorizza a concludere che ogni lavorazione in ogni reparto e ogni stabilimento del gruppo sia cessata."
+      },
+      {
+        "question": "Perché il numero di 8.622 lavoratori nella procedura CIGS non coincide con 8.622 licenziamenti?",
+        "answer": "È il massimo di lavoratori indicato nella richiesta aziendale di cassa integrazione straordinaria, uno strumento di sospensione o riduzione temporanea dell'attività con sostegno al reddito. Il 6 novembre non era stato raggiunto un accordo sulle modalità: né il numero effettivo di beneficiari né i licenziamenti possono essere dedotti dal solo tetto."
+      }
+    ]
+  },
+  "en": {
+    "title": "Former Ilva steelworks shuts down Taranto hot-production area as talks on workers' support stall",
+    "dek": "Acciaierie d'Italia's chief executive reports the shutdown after court rulings; talks on temporary income support will resume on November 10.",
+    "summary": "On November 6, 2026, Maurizio Saitta, general manager of state-administered Acciaierie d'Italia, told unions that the hot-production facilities at the former Ilva steelworks in Taranto had been shut down. Following a court order upheld by Italy's Court of Cassation, the government and unions did not reach agreement on wage-support arrangements. Discussions are due to continue on November 10.",
+    "body": [
+      "On November 6, 2026, Maurizio Saitta, general manager of Acciaierie d'Italia under extraordinary administration, told a meeting at Italy's Labour Ministry that all facilities in the former Ilva plant's hot-production area in Taranto had been shut down. ANSA and Sky TG24 reported the statement and traced the shutdown process back to November 3. The closure of the area containing the blast furnaces should not be conflated with a verified halt to every operation at every other department or site in the group.",
+      "The sequence follows legal action by residents who had raised health concerns associated with the hot-production area. A Milan court had ordered production there to stop unless specified asbestos-removal and emissions safeguards were implemented within a defined period. Italy's Court of Cassation subsequently rejected appeals brought by the companies under extraordinary administration. The health and industrial questions must be distinguished: the operational order is not itself a fresh finding of individual criminal guilt in separate proceedings.",
+      "On the same day, the parties discussed an extension of the extraordinary wage-support scheme known as CIGS. The company's request, submitted in October, covers up to 8,622 workers. That is a maximum for the proposed scheme, not a verified count of redundancies or even a final count of workers to be placed on reduced hours. According to the Fim, Fiom and Uilm unions cited by ANSA and Sky TG24, the meeting ended without an agreement because the arrangements still raised unresolved questions. Talks were rescheduled for November 10.",
+      "The industrial uncertainty is compounded by an unresolved search for new owners and possible conversion to less-polluting steel production. The outlets cited November 8 as the deadline for binding bids; that deadline had not yet passed within this issue's reporting window, so no successful bid can be assumed. Unions argue for employment protection and resources for decarbonisation, while the government considers domestic steel strategically important. The established November 6 development is the reported hot-area shutdown and the absence of a labour agreement."
+    ],
+    "facts": [
+      "On November 6 Saitta said the Taranto plant's hot-production area was fully shut down.",
+      "The shutdown process began on November 3 after the Court of Cassation rejected appeals against the order.",
+      "Talks on an extraordinary wage-support proposal affecting up to 8,622 workers were deferred until November 10 without agreement."
+    ],
+    "perspectives": [
+      "Unions Fim, Fiom and Uilm say important questions remain about the criteria and protection offered by the proposed wage-support scheme; they characterised the meeting negatively.",
+      "Labour organisations call for public investment and a credible decarbonisation programme; the sources do not establish that the requested funding has been definitively approved."
+    ],
+    "unknowns": [
+      "The number of workers ultimately placed on CIGS and the duration of any arrangements have not been established.",
+      "The outcome of the sale process and the operating plan for a restart or conversion are not established by the reviewed sources."
+    ],
+    "impactReason": "A major production shutdown at a nationally important steel plant with potential consequences for thousands of workers and for environmental remediation, while the company's future is unsettled.",
+    "questions": [
+      {
+        "question": "What exactly does Saitta's announcement that the former Ilva hot-production area is shut down mean?",
+        "answer": "It concerns the closure of the primary steelmaking facilities in Taranto, including blast furnaces, announced on November 6 after the shutdown began on November 3. It does not establish that every department or every plant operated by the group has stopped all activity."
+      },
+      {
+        "question": "Why does the CIGS figure of 8,622 workers not mean 8,622 redundancies?",
+        "answer": "It is the maximum workforce covered by a proposed extraordinary wage-support scheme, which can temporarily reduce or suspend working hours while providing income support. With no agreement reached on November 6, the eventual number affected and any redundancies cannot be inferred from that ceiling."
+      }
+    ]
+  },
+  "imageStatus": "STAGED ORIGINAL CC0 ILLUSTRATION IN DRAFT ASSETS — NOT YET IN PRODUCTION NEWS DIRECTORY",
+  "draftImage": {
+    "src": "docs/editorial-drafts/2026-11-07/assets/taranto-ex-ilva-hot-area-shutdown.svg",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-07/docs/editorial-drafts/2026-11-07/assets/taranto-ex-ilva-hot-area-shutdown.svg",
+    "kind": "illustration",
+    "credit": "O / Oggettivizzatore — original AI-assisted vector artwork, 2026-11-07",
+    "license": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+    "alt_it": "Sagome illustrative di un'acciaieria con altiforni e laminatoi, non fotografia dello stabilimento di Taranto",
+    "alt_en": "Symbolic steel plant buildings and furnaces; not a photograph of the Taranto facility"
+  },
+  "audit": {
+    "independentNewsroomsVerified": true,
+    "notes": "Independent named newsrooms identified; editorial sign-off still required before issue publication.",
+    "questionsTestedWithRepositoryFunction": true,
+    "qaSemanticMatchReviewed": true
+  }
+}

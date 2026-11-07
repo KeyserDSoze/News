@@ -1,0 +1,390 @@
+{
+  "date": "2026-11-07",
+  "language": "it",
+  "section": "italy",
+  "publishedAt": "2026-11-07T12:13:37+01:00",
+  "editorialNote": "Edizione italy del 7 novembre 2026. Finestra 6 novembre ore 07:00–7 novembre ore 07:00 Europe/Rome; sviluppi dei cinque giorni precedenti se documentati. Distinte cronologie di eventi, dichiarazioni, stime e prove; tutte le immagini sono illustrazioni originali e non fotografie.",
+  "articles": [
+    {
+      "id": "taranto-ex-ilva-hot-area-shutdown",
+      "rank": 1,
+      "category": "economy",
+      "title": "Ex Ilva di Taranto, spenta tutta l'area a caldo; il confronto sul lavoro slitta al 10 novembre",
+      "dek": "Il direttore generale di Acciaierie d'Italia conferma il fermo degli impianti dopo i provvedimenti giudiziari; resta senza intesa la discussione sulla cassa integrazione.",
+      "summary": "Il 6 novembre 2026 Maurizio Saitta, direttore generale di Acciaierie d'Italia in amministrazione straordinaria, ha comunicato ai sindacati lo spegnimento degli impianti dell'area a caldo dell'ex Ilva di Taranto. Dopo il provvedimento giudiziario confermato dalla Cassazione, il governo e le organizzazioni sindacali non hanno raggiunto un accordo sulla cassa integrazione: nuovo confronto fissato al 10 novembre.",
+      "body": [
+        "Il 6 novembre 2026 il direttore generale di Acciaierie d'Italia in amministrazione straordinaria, Maurizio Saitta, ha riferito durante l'incontro al ministero del Lavoro che tutti gli impianti dell'area a caldo dell'ex Ilva di Taranto erano ormai spenti. ANSA e Sky TG24 riportano la comunicazione e la collocano al termine di uno spegnimento avviato il 3 novembre. Il fermo dell'area che comprende gli altiforni non equivale, senza ulteriori verifiche, alla cessazione di ogni attività in tutti i reparti e in ogni impianto del gruppo.",
+        "La sequenza segue un procedimento giudiziario avviato da cittadini che lamentavano rischi sanitari legati all'area a caldo. Una decisione dei giudici di Milano aveva disposto l'arresto degli impianti in mancanza di misure su amianto ed emissioni entro termini stabiliti; la Corte di Cassazione ha poi respinto i ricorsi dei soggetti in amministrazione straordinaria. Il tema sanitario e quello industriale vanno raccontati separatamente: la pronuncia riguarda prescrizioni e funzionamento degli impianti, non costituisce una prova nuova di responsabilità individuali in procedimenti penali ancora distinti.",
+        "Nella stessa giornata le parti hanno discusso al ministero del Lavoro l'estensione della cassa integrazione straordinaria. La richiesta aziendale, comunicata in ottobre, riguarda fino a 8.622 lavoratori: è un massimale della procedura, non il numero certo di persone che perderanno il lavoro o saranno collocate in cassa in ogni momento. Secondo le sigle Fim, Fiom e Uilm citate da ANSA e Sky TG24, il tavolo si è chiuso senza intesa perché rimangono interrogativi sulle modalità della tutela. Il confronto è stato aggiornato al 10 novembre.",
+        "La crisi industriale è aggravata dall'incertezza sulla proprietà futura e sulla riconversione verso processi meno inquinanti. Il termine per le offerte vincolanti è indicato dalle redazioni per l'8 novembre, una scadenza successiva alla finestra dell'edizione; non si può presentare come acquisita alcuna offerta definitiva. I sindacati invocano sostegni occupazionali e risorse per la decarbonizzazione, mentre l'esecutivo considera strategica la produzione siderurgica. Il dato immediato del 6 novembre è il fermo dichiarato dell'area a caldo e la mancanza di una soluzione negoziale sul lavoro."
+      ],
+      "facts": [
+        "Il 6 novembre Saitta ha comunicato ai sindacati il fermo completo degli impianti dell'area a caldo di Taranto.",
+        "Le operazioni erano iniziate il 3 novembre dopo la decisione della Cassazione che ha respinto i ricorsi sul fermo.",
+        "La discussione sulla CIGS richiesta per un massimo di 8.622 lavoratori è stata rinviata al 10 novembre, senza intesa."
+      ],
+      "perspectives": [
+        "I sindacati Fim, Fiom e Uilm sostengono che permangono dubbi sui criteri e sulle tutele della cassa integrazione; la loro valutazione dell'incontro è negativa.",
+        "Le organizzazioni sindacali chiedono investimenti pubblici e un percorso credibile di decarbonizzazione; non risulta da queste fonti che tali risorse siano state definitivamente stanziate."
+      ],
+      "unknowns": [
+        "Non è determinato il numero di persone effettivamente collocate in CIGS né per quanto tempo.",
+        "Non è stabilito dalle fonti consultate l'esito della gara in corso e il programma operativo di riavvio o riconversione."
+      ],
+      "questions": [
+        {
+          "question": "Che cosa significa, in concreto, lo spegnimento dell'area a caldo dell'ex Ilva comunicato da Saitta?",
+          "answer": "Riguarda la fermata degli impianti del ciclo siderurgico primario a Taranto, compresi gli altiforni, comunicata il 6 novembre dopo le procedure iniziate il 3. Non autorizza a concludere che ogni lavorazione in ogni reparto e ogni stabilimento del gruppo sia cessata."
+        },
+        {
+          "question": "Perché il numero di 8.622 lavoratori nella procedura CIGS non coincide con 8.622 licenziamenti?",
+          "answer": "È il massimo di lavoratori indicato nella richiesta aziendale di cassa integrazione straordinaria, uno strumento di sospensione o riduzione temporanea dell'attività con sostegno al reddito. Il 6 novembre non era stato raggiunto un accordo sulle modalità: né il numero effettivo di beneficiari né i licenziamenti possono essere dedotti dal solo tetto."
+        }
+      ],
+      "impact": 3.5,
+      "impactReason": "Fermo di una parte produttiva centrale del maggior polo siderurgico italiano, con possibili ripercussioni su migliaia di lavoratori e sul risanamento ambientale; il futuro societario è aperto.",
+      "tags": [
+        "Taranto",
+        "siderurgia",
+        "lavoro"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Ex Ilva, spenta l'area a caldo. Tavolo sulla cigs aggiornato al 10 novembre",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/ex-ilva-spenta-larea-a-caldo.-tavolo-sulla-cigs-aggiornato-al-10-novembre_ff5c4603-24e6-416c-9a44-ddcb5ec4c51c.html",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Ex Ilva, spenti impianti area a caldo. Cgil: Incontro su cassa integrazione negativo",
+          "url": "https://tg24.sky.it/economia/2026/11/06/ex-ilva-taranto-spegnimento-altiforni-reazioni",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Taranto, iniziato lo spegnimento degli altiforni dell’ex Ilva. Sindacati: il Governo dia risposte",
+          "url": "https://www.rainews.it/articoli/2026/11/ex-ilva-al-via-lo-spegnimento-degli-altiforni-confindustria-su-cordata-decisione-non-ancora-presa-71d30d00-acef-425c-8f54-ef72aed9d780.html",
+          "publishedAt": "2026-11-03",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/taranto-ex-ilva-hot-area-shutdown.svg",
+        "alt": "Sagome illustrative di un'acciaieria con altiforni e laminatoi, non fotografia dello stabilimento di Taranto",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/taranto-ex-ilva-hot-area-shutdown.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "altieri-withdraws-anac-nomination",
+      "rank": 2,
+      "category": "politics",
+      "title": "Altieri ritira la disponibilità alla presidenza ANAC dopo i rilievi sulle incompatibilità",
+      "dek": "La designazione avviata dal governo dura circa un giorno: le opposizioni contestano i precedenti incarichi politici; la Lega sostiene che uno di essi fu revocato.",
+      "summary": "Nella tarda serata del 6 novembre 2026 Trifone 'Nuccio' Altieri ha rinunciato alla candidatura alla presidenza dell'Autorità nazionale anticorruzione, avviata il giorno prima dal governo. Le opposizioni avevano sollevato obiezioni sull'indipendenza e su un incarico annunciato dalla Lega nel 2024. Altieri afferma di ritirarsi per opportunità politica e istituzionale; il caso non equivale a un accertamento giudiziario di incompatibilità.",
+      "body": [
+        "Tra il 5 e il 6 novembre 2026 si è sviluppata una controversia attorno alla designazione di Trifone 'Nuccio' Altieri alla presidenza dell'Autorità nazionale anticorruzione (ANAC). Il Consiglio dei ministri aveva avviato l'iter per la nomina; nella tarda serata di venerdì 6 novembre Altieri ha annunciato di ritirare la propria disponibilità. ANSA ha riferito la decisione in serata e la Repubblica ha ricostruito, nell'edizione del 7 novembre, i rilievi sollevati nel dibattito politico. La designazione non era ancora diventata una nomina operativa definitiva.",
+        "La controversia riguarda requisiti di indipendenza previsti dalla disciplina sull'Autorità. La Repubblica richiama l'articolo 13, comma 3, del decreto legislativo 150 del 2009, che limita la scelta di persone che ricoprano o abbiano ricoperto di recente incarichi elettivi o di partito. La Lega aveva annunciato nel settembre 2024 Altieri come responsabile del dipartimento Difesa. Secondo fonti del partito citate da Sky TG24, tuttavia, Altieri non avrebbe mai concretamente svolto quell'incarico e ne sarebbe stata dichiarata la revoca; il punto è contestato e non può essere risolto con un'affermazione unilaterale.",
+        "I partiti di opposizione hanno chiesto a Giorgia Meloni il ritiro della proposta e ricordato la necessità di un ampio consenso parlamentare per l'incarico. Il governo ha replicato, secondo ANSA, che aveva valutato inesistenti i profili di incompatibilità e aveva informato preventivamente i principali partiti di opposizione senza ricevere obiezioni. Queste sono posizioni politiche attribuite; la loro divergenza non dimostra che un organo competente abbia riconosciuto o escluso con decisione finale un impedimento di legge.",
+        "Nella dichiarazione di rinuncia, Altieri ha rivendicato la propria idoneità professionale ma ha motivato il passo indietro con ragioni di opportunità politica, istituzionale e personale. Secondo Sky TG24, Giuseppe Busia continua a guidare l'Autorità fino alla formalizzazione di un successore. Il caso mette in evidenza un problema di governance: l'organismo che vigila su trasparenza e appalti deve essere indipendente tanto nella sostanza quanto nella percezione pubblica. Il successivo iter e il nome del futuro presidente non risultavano definiti entro la finestra dell'edizione."
+      ],
+      "facts": [
+        "Altieri ha ritirato la propria disponibilità alla presidenza ANAC la sera del 6 novembre 2026.",
+        "Il governo aveva avviato la procedura di designazione il 5 novembre, senza un insediamento definitivo.",
+        "Le opposizioni hanno contestato un incarico di partito annunciato nel settembre 2024; la Lega sostiene che non sia stato effettivamente assunto."
+      ],
+      "perspectives": [
+        "Altieri sostiene di possedere le competenze e di rinunciare per opportunità politica, istituzionale e personale.",
+        "Le opposizioni ritengono problematica l'indipendenza della candidatura; fonti di governo affermano che i requisiti erano stati verificati e non vi fossero incompatibilità.",
+        "Fonti della Lega dicono che la posizione al dipartimento Difesa non fu mai ricoperta e fu revocata; il resoconto di la Repubblica considera la vicenda normativa ancora controversa."
+      ],
+      "unknowns": [
+        "Non è stata accertata nel materiale consultato una decisione giudiziaria definitiva sull'interpretazione dell'incarico di partito ai fini dell'incompatibilità.",
+        "Il nuovo candidato e il calendario della procedura successiva non erano ancora definiti nella finestra esaminata."
+      ],
+      "questions": [
+        {
+          "question": "Qual è il collegamento tra l'incarico di Altieri annunciato dalla Lega nel 2024 e il requisito per guidare l'ANAC?",
+          "answer": "La norma citata nella controversia limita la scelta di persone che abbiano ricoperto incarichi politici negli ultimi tre anni. La Lega annunciò nel 2024 un ruolo nazionale per Altieri, ma sostiene che la nomina non divenne effettiva e fu revocata. La questione riguarda dunque la qualificazione giuridica di quell'incarico, non la sola appartenenza a un partito."
+        },
+        {
+          "question": "Il ritiro di Altieri modifica già la guida operativa dell'Autorità anticorruzione?",
+          "answer": "Il governo aveva avviato una designazione, non completato l'insediamento di un nuovo presidente. Con la rinuncia del 6 novembre la procedura per quella candidatura si interrompe e, secondo Sky TG24, Giuseppe Busia resta alla guida fino alla formalizzazione di un successore."
+        }
+      ],
+      "impact": 2.5,
+      "impactReason": "La rinuncia incide sulla selezione del vertice di un'autorità di controllo essenziale per gli appalti pubblici e solleva questioni sull'indipendenza delle nomine, senza determinare ancora cambiamenti operativi consolidati.",
+      "tags": [
+        "ANAC",
+        "nomine",
+        "trasparenza"
+      ],
+      "sources": [
+        {
+          "outlet": "la Repubblica",
+          "title": "Scontro sul leghista Altieri all’Anac: 'Incompatibile per legge'. E lui è costretto a ritirarsi",
+          "url": "https://www.repubblica.it/politica/2026/11/07/news/altieri_ritiro_presidente_anac_lega_incompatibile_per_legge-425705869/",
+          "publishedAt": "2026-11-07",
+          "role": "reporting"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
+          "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Sky TG24",
+          "title": "Nomina presidente Anac, il leghista Altieri dopo polemiche: Ritiro la mia disponibilità",
+          "url": "https://tg24.sky.it/politica/2026/11/06/anac-altieri-polemiche-nomina-meloni-opposizioni",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/altieri-withdraws-anac-nomination.svg",
+        "alt": "Edificio istituzionale stilizzato con bilancia, non rappresenta una persona reale",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/altieri-withdraws-anac-nomination.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "saman-abbas-cassation-reasons",
+      "rank": 3,
+      "category": "society",
+      "title": "Caso Saman Abbas, pubblicate le motivazioni della Cassazione: piano premeditato, nessuna attenuante culturale",
+      "dek": "I giudici spiegano le condanne già definitive di luglio: la libertà personale della vittima non poteva essere sacrificata a un preteso onore familiare.",
+      "summary": "Il 6 novembre 2026 sono state rese note le motivazioni della Corte di Cassazione sull'omicidio di Saman Abbas a Novellara nel 2021. La Corte descrive un progetto precedente alla notte del delitto e respinge l'idea che tradizioni familiari o religiose possano giustificare o attenuare la violazione dei diritti fondamentali. Le condanne erano diventate definitive in luglio; la novità è il testo delle motivazioni.",
+      "body": [
+        "Le motivazioni rese note il 6 novembre 2026 chiariscono perché la Cassazione, il 15 luglio, aveva confermato le condanne definitive per l'omicidio di Saman Abbas. La diciottenne era scomparsa tra il 30 aprile e il 1° maggio 2021 a Novellara, in provincia di Reggio Emilia, dopo aver cercato di sottrarsi al controllo della famiglia sulla propria vita. ANSA, la Repubblica e Adnkronos hanno esaminato il documento. L'evento nuovo di novembre è il deposito e la divulgazione delle ragioni del giudizio, non un nuovo processo né una nuova morte.",
+        "La Corte definisce il delitto premeditato e non la conseguenza improvvisa di una lite. La Repubblica cita elementi valutati dai giudici: l'acquisto anticipato dei biglietti per il Pakistan, comunicazioni tra familiari e la preparazione della fossa. Nel ragionamento della sentenza questi indizi convergono a descrivere un piano la cui esecuzione sarebbe stata subordinata alla decisione della giovane di lasciare definitivamente la casa. È una ricostruzione giudiziaria definitivamente confermata, da presentare con il necessario contesto processuale.",
+        "Le condanne definitive comprendono l'ergastolo per i genitori Shabbar Abbas e Nazia Shaheen e per i cugini Ijaz Ikram e Noman Ul Haq; allo zio Danish Hasnain sono stati inflitti 22 anni. I giudici respingono anche la possibilità di considerare il richiamo all'onore o alla tradizione come un elemento che cancelli la gravità del movente. ANSA precisa che la sentenza richiama l'inviolabilità della vita e dell'autodeterminazione, e osserva come il delitto d'onore sia penalmente sanzionato anche nell'ordinamento pakistano dal 2016.",
+        "L'accertamento riguarda le responsabilità di persone specifiche per un crimine specifico: non deve essere esteso alla generalità delle famiglie pakistane, delle comunità musulmane o dei migranti. Associazioni e comunità si erano costituite parti civili, segnalando anche la distanza tra l'omicidio e i propri principi. Il valore pubblico della motivazione è spiegare perché premeditazione e violazione della libertà della persona sono centrali nella qualificazione giuridica. Non si tratta di un giudizio sulla legittimità di un'intera cultura."
+      ],
+      "facts": [
+        "Le motivazioni della Cassazione rese note il 6 novembre spiegano le condanne definitive confermate il 15 luglio 2026.",
+        "Quattro familiari sono condannati all'ergastolo; lo zio Danish Hasnain a 22 anni.",
+        "La Corte qualifica l'omicidio come premeditato e respinge giustificazioni fondate su tradizioni religiose o familiari."
+      ],
+      "perspectives": [
+        "I giudici ritengono che indizi convergenti dimostrino un progetto elaborato prima del delitto.",
+        "Le comunità musulmane costituite parti civili hanno sottolineato l'incompatibilità delle condotte con i propri precetti, secondo ANSA."
+      ],
+      "unknowns": [
+        "Le motivazioni riguardano il caso giudicato e non misurano l'incidenza generale di crimini simili.",
+        "Eventuali ulteriori conseguenze civili o sociali successive alla sentenza non sono quantificabili dalle sole motivazioni."
+      ],
+      "questions": [
+        {
+          "question": "Quali elementi hanno portato la Cassazione a qualificare l'omicidio di Saman Abbas come premeditato?",
+          "answer": "I giudici hanno valutato insieme preparativi anteriori alla notte del delitto, tra cui lo scavo della fossa, biglietti aerei acquistati in anticipo e comunicazioni tra imputati. La convergenza di questi elementi sostiene un progetto precedente, invece di una decisione improvvisa."
+        },
+        {
+          "question": "Perché la Corte respinge il riferimento all'onore familiare come attenuante per l'omicidio di Saman?",
+          "answer": "La tutela costituzionale della vita e dell'autodeterminazione non può essere ridotta da consuetudini familiari o religiose. La Corte ha valutato il movente come elemento di particolare gravità del reato, ricordando anche che l'omicidio d'onore è punito nell'ordinamento del Pakistan."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "Le motivazioni definitive hanno rilievo per il diritto all'autodeterminazione e per la corretta applicazione delle aggravanti; l'impatto è nazionale e giuridico.",
+      "tags": [
+        "Cassazione",
+        "Saman-Abbas",
+        "diritti"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "La Cassazione, 'Saman uccisa dal clan perché voleva una vita diversa'",
+          "url": "https://www.ansa.it/emiliaromagna/notizie/2026/11/06/la-cassazione-saman-uccisa-dal-clan-perche-voleva-una-vita-diversa_5c5bd968-68c9-4ffa-a81e-aebb6b86aa9e.html",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Saman Abbas, la Cassazione: 'Fu omicidio freddamente premeditato, avevano già scavato la sua fossa'",
+          "url": "https://bologna.repubblica.it/cronaca/2026/11/06/news/saman_abbas_cassazione_motivazione_sentenza_omicidio_freddamente_premeditato-425705189/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Adnkronos",
+          "title": "Omicidio Saman, Cassazione: 'Non è stato atto d'impeto ma premeditato'",
+          "url": "https://www.adnkronos.com/cronaca/omicidio-saman-sentenza-cassazione-motivazioni_YYF1wLaLg5gR9WMpWNGiB",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/saman-abbas-cassation-reasons.svg",
+        "alt": "Martelletto giudiziario e testo di una sentenza stilizzati, senza persone",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/saman-abbas-cassation-reasons.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "veneto-assisted-dying-law-challenge",
+      "rank": 4,
+      "category": "politics",
+      "title": "Fine vita, il governo impugna la legge veneta sulle procedure di assistenza al suicidio",
+      "dek": "La decisione del 5 novembre porta il conflitto di competenze verso la Corte costituzionale; Salvini non partecipa al voto, Calderoli si oppone.",
+      "summary": "Il Consiglio dei ministri ha deliberato il 5 novembre 2026 di impugnare la legge del Veneto che definisce tempi e procedure regionali per l'assistenza sanitaria al suicidio medicalmente assistito. Nella maggioranza emergono posizioni diverse: Roberto Calderoli è contrario all'impugnazione e Matteo Salvini non partecipa al voto. Il ricorso non costituisce ancora una decisione della Corte costituzionale sulla validità della norma.",
+      "body": [
+        "Il 5 novembre il governo italiano ha deciso di contestare davanti alla Corte costituzionale la legge approvata dal Consiglio regionale veneto sul fine vita. La norma stabilisce procedure e tempi con cui il sistema sanitario regionale deve gestire richieste di suicidio medicalmente assistito nelle condizioni definite dalla giurisprudenza costituzionale. ANSA e la Repubblica descrivono la scelta del Consiglio dei ministri come un'impugnazione della legge regionale, non come un intervento che modifica da solo i requisiti sanitari nazionali o una sentenza già pronunciata.",
+        "La decisione riflette il conflitto fra competenze statali e regionali. Il ministro per gli Affari regionali Roberto Calderoli ha sostenuto che la normativa veneta riguardasse l'organizzazione amministrativa di un'attività sanitaria già disciplinata dalle sentenze della Consulta. Forza Italia, attraverso il ministro Antonio Tajani, ha invece insistito sulla necessità di una legge del Parlamento per evitare disposizioni locali disomogenee. Le posizioni indicano una controversia sulle attribuzioni legislative oltre che differenze politiche sul tema.",
+        "Secondo i reportage, Matteo Salvini non ha preso parte alla discussione e alla votazione del Consiglio dei ministri, mentre Calderoli ha votato contro l'impugnazione. L'ex governatore Luca Zaia e il presidente veneto Alberto Stefani hanno difeso il testo regionale; Stefani ritiene che la sua struttura e gli emendamenti a tutela della vita lo rendano conforme ai limiti costituzionali. È una loro valutazione giuridica, non un esito predeterminato del giudizio. Il Veneto è significativo perché si tratta di una Regione guidata dal centrodestra.",
+        "Il percorso davanti alla Corte può chiarire quanto una Regione possa regolare gli aspetti procedurali in assenza di una legge nazionale esaustiva. Restano distinti il diritto di ottenere una valutazione clinica secondo i criteri della Consulta e le modalità amministrative con cui si svolge la verifica. Il comunicato di impugnazione non dimostra che tutte le procedure siano cessate né indica la data della decisione giudiziaria. La novità del 5 novembre è il contenzioso avviato dall'esecutivo."
+      ],
+      "facts": [
+        "Il Consiglio dei ministri ha deciso il 5 novembre 2026 di impugnare la legge veneta sul fine vita.",
+        "Salvini non ha partecipato al voto; Calderoli ha espresso dissenso dall'impugnazione secondo ANSA e Repubblica.",
+        "Zaia e Stefani hanno difeso la norma regionale, mentre Tajani ha richiesto una disciplina parlamentare nazionale."
+      ],
+      "perspectives": [
+        "Per Calderoli la legge ha natura procedurale e si conforma alla giurisprudenza esistente.",
+        "Per la componente di governo rappresentata da Tajani servono regole omogenee definite dal Parlamento; il presidente Stefani si aspetta il superamento del vaglio costituzionale."
+      ],
+      "unknowns": [
+        "L'esito del giudizio della Corte costituzionale e le sue motivazioni future non sono noti.",
+        "La concreta applicazione delle procedure in attesa del giudizio non è quantificata nei reportage."
+      ],
+      "questions": [
+        {
+          "question": "Qual è la questione di competenza sollevata dal ricorso del governo contro la legge veneta sul fine vita?",
+          "answer": "Il nodo è se il Veneto possa disciplinare tempi e procedure amministrative del servizio sanitario per richieste di suicidio assistito sulla base delle sentenze della Consulta, oppure se tali disposizioni richiedano un intervento legislativo nazionale. Il ricorso chiede una verifica costituzionale, non decide già la questione."
+        },
+        {
+          "question": "Perché il dissenso di Calderoli e l'assenza di Salvini nel Cdm sono rilevanti per questa impugnazione?",
+          "answer": "Entrambi appartengono alla Lega, che governa anche il Veneto, ma le loro scelte mostrano che la decisione non è stata condivisa da tutti i membri della maggioranza. Calderoli difende la natura organizzativa della legge; la decisione collegiale di impugnare è comunque stata adottata."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "La controversia interessa le competenze Stato-Regioni in una materia di diritti e assistenza sanitaria, con effetti possibili anche oltre il Veneto.",
+      "tags": [
+        "Veneto",
+        "fine-vita",
+        "Consulta"
+      ],
+      "sources": [
+        {
+          "outlet": "ANSA",
+          "title": "Il governo impugna la legge del Veneto sul fine vita, Salvini non vota in Cdm",
+          "url": "https://www.ansa.it/veneto/notizie/2026/11/05/il-governo-impugna-la-legge-del-veneto-sul-fine-vita-salvini-non_621da2df-3922-4646-b784-9c792b34c41a.html",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "la Repubblica",
+          "title": "Fine vita, il governo impugna la legge del Veneto. Calderoli contrario, Salvini diserta",
+          "url": "https://www.repubblica.it/politica/2026/11/05/news/fine_vita_governo_impugna_legge_del_veneto_calderoli_contrario_salvini_diserta-425702223/",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        },
+        {
+          "outlet": "RaiNews",
+          "title": "Fine vita, il CdM impugna legge Veneto",
+          "url": "https://www.rainews.it/articoli/ultimora/fine-vita-il-cdm-impugna-legge-veneto-29b0b2d4-5573-446c-a32c-90d0456e3f49.html",
+          "publishedAt": "2026-11-05",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/veneto-assisted-dying-law-challenge.svg",
+        "alt": "Scudo con cuore e edificio istituzionale per il dibattito sul fine vita",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/veneto-assisted-dying-law-challenge.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    },
+    {
+      "id": "italian-volunteers-west-bank-detention",
+      "rank": 5,
+      "category": "politics",
+      "title": "Cisgiordania, fermati volontari italiani durante la raccolta delle olive: la Farnesina chiede il rilascio",
+      "dek": "Il ministero parla di quattro attivisti e due giornalisti italiani, ma precisa che l'identificazione è ancora in verifica.",
+      "summary": "Il 6 novembre 2026 le autorità israeliane hanno fermato volontari internazionali presso Kafr Ni'ma, in Cisgiordania, mentre sostenevano la raccolta delle olive dei contadini palestinesi. La Farnesina ha riferito di quattro attivisti e due giornalisti italiani presumibilmente coinvolti, sottolineando che numero e identità andavano verificati. Ambasciata e consolato hanno chiesto chiarimenti e assistenza consolare.",
+      "body": [
+        "Un gruppo di volontari internazionali è stato fermato il 6 novembre dalle autorità israeliane vicino al villaggio palestinese di Kafr Ni'ma, non lontano da Ramallah. Il ministero degli Esteri italiano ha confermato l'intervento diplomatico e ha precisato che tra i fermati potrebbero esserci quattro attivisti e due giornalisti italiani, una ricostruzione ancora soggetta a verifica. ANSA e Il Fatto Quotidiano hanno riferito l'episodio nel corso della stessa giornata. Non è corretto trasformare una stima iniziale in un elenco definitivo di connazionali detenuti.",
+        "Secondo la Farnesina, il gruppo partecipava ad attività di sostegno ai coltivatori palestinesi impegnati nella raccolta delle olive. Il deputato Angelo Bonelli ha denunciato che i volontari sarebbero stati aggrediti e che la polizia avrebbe fermato chi aiutava i contadini anziché i presunti aggressori. Le ricostruzioni sulle violenze e sulle responsabilità appartengono alla dichiarazione di Bonelli, non a un accertamento giudiziario indipendente. Le autorità israeliane non hanno fornito nel materiale consultato una motivazione esaustiva dei singoli fermi.",
+        "Il ministero ha fatto sapere che l'ambasciata d'Italia a Tel Aviv e il consolato generale a Gerusalemme erano intervenuti presso le autorità israeliane per ottenere l'immediato rilascio, chiarire le circostanze e garantire assistenza. Il gruppo risultava presso la stazione di polizia di Modi'in Illit e per il 7 novembre era previsto il trasferimento verso un centro presso l'aeroporto Ben Gurion in vista delle procedure di espulsione. Una procedura annunciata per il giorno successivo non equivale a espulsione già eseguita.",
+        "L'episodio si inserisce nelle tensioni della raccolta delle olive in Cisgiordania, attività agricola centrale per le comunità locali e talvolta accompagnata da controversie sull'accesso ai campi e sulla sicurezza. Il governo italiano, attraverso Antonio Tajani, ha chiesto la rapida liberazione degli interessati. La ricostruzione utile ai cittadini distingue arresto o fermo, accertamento delle generalità e protezione consolare, che sono fasi diverse. Restano necessari aggiornamenti diretti sulle condizioni dei coinvolti e sulle ragioni formali adottate dalle autorità."
+      ],
+      "facts": [
+        "Il 6 novembre la Farnesina ha confermato fermi di volontari internazionali presso Kafr Ni'ma e l'intervento consolare italiano.",
+        "Il ministero ha indicato provvisoriamente quattro attivisti e due giornalisti italiani, con verifica ancora in corso.",
+        "Era previsto per il 7 novembre il trasferimento presso un centro a Ben Gurion in vista di procedure di espulsione."
+      ],
+      "perspectives": [
+        "Bonelli attribuisce l'accaduto a violenze di coloni e contesta la condotta delle forze israeliane; sono sue accuse, non risultati di un'indagine indipendente.",
+        "Tajani e la Farnesina chiedono la liberazione e l'assistenza ai cittadini italiani."
+      ],
+      "unknowns": [
+        "Il numero esatto e l'identità di tutti gli italiani fermati richiedono conferma definitiva.",
+        "L'esito delle eventuali procedure di espulsione e i motivi formali individuali dei fermi non erano ancora pubblici nella finestra osservata."
+      ],
+      "questions": [
+        {
+          "question": "Quale numero di italiani indicava la Farnesina il 6 novembre nel caso di Kafr Ni'ma?",
+          "answer": "La nota parla, in termini provvisori, di quattro attivisti e due giornalisti italiani fra diversi volontari internazionali, precisando che numero esatto e identità erano in fase di accertamento. La cifra non va trattata come conteggio consolare definitivamente concluso."
+        },
+        {
+          "question": "Che cosa hanno fatto ambasciata e consolato italiani dopo i fermi in Cisgiordania?",
+          "answer": "Hanno chiesto alle autorità israeliane il rilascio immediato degli interessati, chiarimenti sulle circostanze e accesso all'assistenza consolare. La Farnesina prevedeva un trasferimento il giorno seguente in vista dell'espulsione, ma una previsione non costituisce conferma di rimpatrio."
+        }
+      ],
+      "impact": 3,
+      "impactReason": "La vicenda comporta conseguenze concrete per la libertà e l'assistenza consolare di cittadini italiani, oltre a riflettere tensioni su un'attività agricola palestinese.",
+      "tags": [
+        "Cisgiordania",
+        "consolato",
+        "volontari"
+      ],
+      "sources": [
+        {
+          "outlet": "Ministero degli Affari Esteri",
+          "title": "La Farnesina presta assistenza agli attivisti italiani fermati in Cisgiordania per il loro rilascio",
+          "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/11/la-farnesina-presta-assistenza-agli-attivisti-italiani-fermati-in-cisgiordania-per-il-loro-rilascio/",
+          "publishedAt": "2026-11-06",
+          "role": "official"
+        },
+        {
+          "outlet": "ANSA",
+          "title": "Attivisti fermati in Cisgiordania, ci sono anche sei italiani",
+          "url": "https://videoembed.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        },
+        {
+          "outlet": "Il Fatto Quotidiano",
+          "title": "Israele arresta la consigliera di Avs Giorgia Lombardi insieme ad altri 13 volontari in Cisgiordania",
+          "url": "https://www.ilfattoquotidiano.it/2026/11/06/cisgiordania-attivisti-italiani-arrestati-notizie/8563438/",
+          "publishedAt": "2026-11-06",
+          "role": "reporting"
+        }
+      ],
+      "image": {
+        "src": "news/2026-11-07/assets/italian-volunteers-west-bank-detention.svg",
+        "alt": "Ramo di ulivo sopra mani aperte, immagine concettuale della raccolta",
+        "credit": "O / Oggettivizzatore — illustrazione vettoriale originale, 7 novembre 2026",
+        "sourceUrl": "https://github.com/KeyserDSoze/News/blob/main/news/2026-11-07/assets/italian-volunteers-west-bank-detention.svg",
+        "license": "CC0-1.0",
+        "kind": "illustration",
+        "caption": "Illustrazione editoriale originale; non una fotografia dell'evento."
+      }
+    }
+  ]
+}

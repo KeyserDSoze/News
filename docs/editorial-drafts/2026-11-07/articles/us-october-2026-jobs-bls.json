@@ -1,0 +1,133 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION: missing licensed original cover and complete edition",
+  "issueDate": "2026-11-07",
+  "section": "world",
+  "id": "us-october-2026-jobs-bls",
+  "rank": 1,
+  "category": "economy",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "occupazione",
+      "Stati-Uniti",
+      "salari"
+    ],
+    "en": [
+      "employment",
+      "United-States",
+      "wages"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "U.S. Bureau of Labor Statistics",
+      "title": "The Employment Situation — October 2026",
+      "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+      "publishedAt": "2026-11-06",
+      "role": "official",
+      "notes": "Statistiche primarie; pubblicate 6 novembre alle 08:30 ET; survey imprese e famiglie"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+      "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting",
+      "notes": "Lucia Mutikani; reportage e commento di analisti"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "US continues to generate jobs, yet inflation is eroding the spending power of millions of Americans",
+      "url": "https://apnews.com/article/jobs-inflation-paycheck-salary-employment-746ee02db33d0372980f815ada33d8d3",
+      "publishedAt": "2026-11-06",
+      "role": "reporting",
+      "notes": "Paul Wiseman; lavoro redazionale indipendente da Reuters"
+    }
+  ],
+  "it": {
+    "title": "Stati Uniti, 165 mila occupati in più a ottobre: la disoccupazione è al 4,1%",
+    "dek": "Il rapporto BLS pubblicato il 6 novembre supera le attese; le revisioni al rialzo dei mesi precedenti non cancellano la pressione dei prezzi sul potere d’acquisto.",
+    "summary": "Il Bureau of Labor Statistics ha rilevato 165.000 nuovi posti di lavoro non agricoli negli Stati Uniti a ottobre 2026 e un tasso di disoccupazione del 4,1%. Le stime precedenti per agosto e settembre sono state aumentate di 84.000 unità complessive. Salari orari medi +3,1% in un anno: la tenuta dell'occupazione non implica automaticamente un miglioramento del reddito reale.",
+    "body": [
+      "Il 6 novembre 2026 alle 8:30 della costa orientale statunitense, il Bureau of Labor Statistics (BLS) ha diffuso i dati sul lavoro di ottobre. Gli occupati nei settori non agricoli sono aumentati di 165.000, mentre il tasso di disoccupazione si è attestato al 4,1%, sostanzialmente stabile nella prospettiva degli ultimi mesi. Il numero dei disoccupati nella rilevazione sulle famiglie è stato circa 7,1 milioni. Reuters e Associated Press hanno confrontato il dato con una previsione di mercato di circa 65.000 posti: un valore di consenso, non un risultato ufficiale.",
+      "Il rapporto combina due indagini differenti. L'indagine sulle imprese stima le variazioni dei posti di lavoro dipendente, le ore e le paghe; quella sulle famiglie rileva lo stato occupazionale delle persone e permette di calcolare il tasso di disoccupazione. Non si possono trattare le due grandezze come conteggi perfettamente equivalenti: osservano popolazioni e concetti diversi. Nel comparto dei servizi professionali e alle imprese il BLS registra 70.000 posti aggiuntivi; aumentano anche sanità e trasporto-magazzinaggio, mentre diversi altri settori cambiano poco.",
+      "Il BLS ha corretto verso l'alto le stime di agosto e settembre per 84.000 posti complessivi: agosto passa da 133.000 a 186.000, settembre da 29.000 a 60.000. Le revisioni dipendono dall'arrivo di nuove risposte delle imprese e da aggiornamenti dei fattori stagionali. Per questo il rapporto non deve essere interpretato come un censimento definitivo dell'occupazione. La media dell'ultimo anno rimane sensibilmente inferiore al dato di ottobre; un mese forte non dimostra, da solo, un'accelerazione duratura.",
+      "Le retribuzioni orarie medie nel settore privato sono aumentate di 14 centesimi, lo 0,4%, fino a 38 dollari, con una crescita annua del 3,1%. AP sottolinea che l'aumento nominale può convivere con difficoltà nel potere d'acquisto quando i prezzi salgono più rapidamente. Alcuni economisti citati dalle redazioni ritengono che la tenuta dell'occupazione possa lasciare più spazio alla Federal Reserve per contrastare l'inflazione; si tratta di interpretazioni sulle decisioni future, non di un rialzo dei tassi già deliberato. Il prossimo rapporto BLS è previsto per il 4 dicembre."
+    ],
+    "facts": [
+      "BLS, dati ottobre diffusi 6/11: occupazione non agricola +165.000 e disoccupazione 4,1%.",
+      "Le stime di agosto e settembre sono state riviste complessivamente di +84.000, secondo il BLS.",
+      "Salario orario medio privato: 38,00 dollari, +0,4% sul mese e +3,1% su 12 mesi."
+    ],
+    "perspectives": [
+      "Reuters e AP riportano una previsione di circa 65.000 nuovi posti, inferiore al dato pubblicato; si tratta di aspettative di economisti, non della metodologia BLS.",
+      "Economisti interpellati da AP ritengono più probabile una stretta della Fed dopo il rapporto; la banca centrale non ha annunciato qui alcuna decisione sui tassi."
+    ],
+    "unknowns": [
+      "Le stime provvisorie di ottobre potranno essere modificate nei rapporti successivi.",
+      "La durata della ripresa delle assunzioni e l'effetto netto sui redditi reali non sono determinabili dal solo rapporto mensile."
+    ],
+    "impactReason": "Rilevanza macroeconomica globale per lavoro, consumi e possibili decisioni sui tassi; un rapporto mensile non giustifica livelli d'impatto eccezionali.",
+    "questions": [
+      {
+        "question": "Perché il BLS può registrare 165.000 nuovi posti e una disoccupazione del 4,1% nello stesso rapporto?",
+        "answer": "I 165.000 posti derivano dall'indagine sulle imprese e misurano la variazione dell'occupazione dipendente non agricola; il 4,1% deriva dall'indagine sulle famiglie e misura la quota di disoccupati nella forza lavoro. Sono indicatori complementari, ma non misurano esattamente la stessa popolazione."
+      },
+      {
+        "question": "Che cosa cambia quando il BLS rivede agosto e settembre di 84.000 posti?",
+        "answer": "I nuovi dati ricevuti dalle imprese e gli aggiustamenti statistici aumentano di 84.000 la somma delle assunzioni già stimate per quei due mesi. La revisione modifica il quadro della crescita recente, ma non equivale a 84.000 posti aggiunti in ottobre e non garantisce che il dato di ottobre sia definitivo."
+      }
+    ]
+  },
+  "en": {
+    "title": "US payrolls rise by 165,000 in October as unemployment stands at 4.1%",
+    "dek": "The November 6 BLS report beats expectations; upward revisions to previous months coexist with pressure on households' purchasing power.",
+    "summary": "The Bureau of Labor Statistics estimated that US nonfarm payrolls rose by 165,000 in October 2026, while the unemployment rate stood at 4.1%. August and September estimates were revised upward by a combined 84,000 jobs. Average hourly wages rose 3.1% over 12 months, so resilient employment does not automatically translate into stronger real purchasing power.",
+    "body": [
+      "On November 6, 2026, at 8:30 a.m. Eastern time, the Bureau of Labor Statistics (BLS) released its October employment report. Nonfarm payrolls increased by 165,000 while unemployment stood at 4.1%, little changed in the broader recent context. The household survey counted approximately 7.1 million unemployed people. Reuters and the Associated Press compared payroll growth with a roughly 65,000-job market forecast; that forecast is an expectation collected from economists, not an official BLS outcome.",
+      "The release draws on two different surveys. The establishment survey estimates changes in paid jobs, hours and earnings, while the household survey measures people's labor-force status and underlies the unemployment rate. Their figures cannot simply be treated as interchangeable counts because their coverage and concepts differ. Professional and business services contributed 70,000 additional jobs according to BLS. Health care and transportation and warehousing also grew, while employment changed little across several other major industries.",
+      "BLS raised its combined estimates for August and September by 84,000: August increased from 133,000 to 186,000 and September from 29,000 to 60,000. These revisions reflect newly received employer responses and updated seasonal factors. The report is therefore a statistical estimate rather than a final census of every job. Average monthly payroll growth over the previous year was considerably lower than October's figure, and one strong month cannot on its own establish a sustained acceleration in hiring.",
+      "Average hourly earnings for private-sector employees rose 14 cents, or 0.4%, to $38, and were 3.1% higher year on year. AP noted that nominal pay growth can coexist with deteriorating purchasing power when prices rise faster. Economists quoted in the coverage suggested the resilient labor market could give the Federal Reserve more room to focus on inflation, but those are assessments of future policy, not an interest-rate decision already taken. BLS has scheduled the November employment report for December 4."
+    ],
+    "facts": [
+      "BLS October employment data released November 6: nonfarm payrolls +165,000 and unemployment 4.1%.",
+      "August and September payroll estimates were revised up by a combined 84,000, according to BLS.",
+      "Private-sector average hourly earnings reached $38.00, up 0.4% month on month and 3.1% over 12 months."
+    ],
+    "perspectives": [
+      "Reuters and AP cited economists' expectations of roughly 65,000 payroll additions, below the official release; the forecast is not a BLS measurement.",
+      "Economists interviewed by AP expected the report to strengthen the case for a Fed rate rise; no such decision is established by the report."
+    ],
+    "unknowns": [
+      "October's preliminary estimates may be revised in subsequent monthly reports.",
+      "A single employment release cannot establish how durable the hiring rebound will be or the net path of real household income."
+    ],
+    "impactReason": "The report matters internationally for jobs, consumption and potential interest-rate policy, but a single monthly release does not warrant an exceptional impact level.",
+    "questions": [
+      {
+        "question": "Why can BLS report 165,000 additional payroll jobs and 4.1% unemployment at the same time?",
+        "answer": "The 165,000 figure comes from an establishment survey measuring the change in nonfarm payroll jobs; 4.1% comes from a household survey measuring unemployed people as a share of the labor force. They are complementary measures with different coverage rather than two counts of the same population."
+      },
+      {
+        "question": "What does the 84,000-job BLS revision for August and September actually change?",
+        "answer": "Fresh employer responses and statistical adjustments increased the combined payroll gains previously estimated for those two months by 84,000. That changes the recent hiring picture, but it does not mean 84,000 jobs were added in October, and October's own estimate remains subject to revision."
+      }
+    ]
+  },
+  "imageStatus": "STAGED ORIGINAL CC0 ILLUSTRATION IN DRAFT ASSETS — NOT YET IN PRODUCTION NEWS DIRECTORY",
+  "draftImage": {
+    "src": "docs/editorial-drafts/2026-11-07/assets/us-october-2026-jobs-bls.svg",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-07/docs/editorial-drafts/2026-11-07/assets/us-october-2026-jobs-bls.svg",
+    "kind": "illustration",
+    "credit": "O / Oggettivizzatore — original AI-assisted vector artwork, 2026-11-07",
+    "license": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+    "alt_it": "Lavoratori e palazzi stilizzati con barre prive di scala, illustrazione e non grafico statistico",
+    "alt_en": "Abstract workforce, office buildings and unscaled bars; illustration rather than data chart"
+  },
+  "audit": {
+    "independentNewsroomsVerified": true,
+    "notes": "Independent named newsrooms identified; editorial sign-off still required before issue publication.",
+    "questionsTestedWithRepositoryFunction": true,
+    "qaSemanticMatchReviewed": true
+  }
+}

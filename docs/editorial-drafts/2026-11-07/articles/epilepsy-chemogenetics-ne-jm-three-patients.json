@@ -1,0 +1,115 @@
+{
+  "id": "epilepsy-chemogenetics-ne-jm-three-patients",
+  "rank": 3,
+  "impact": 3,
+  "tags": {
+    "it": [
+      "epilessia",
+      "chemogenetica",
+      "sperimentazione"
+    ],
+    "en": [
+      "epilepsy",
+      "chemogenetics",
+      "trial"
+    ]
+  },
+  "category": "society",
+  "sources": [
+    {
+      "outlet": "New England Journal of Medicine",
+      "title": "Chemogenetic Neuromodulation for Refractory Epilepsy",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMc2606815",
+      "publishedAt": "2026-11-04",
+      "role": "official"
+    },
+    {
+      "outlet": "Nature News",
+      "title": "Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains",
+      "url": "https://www.nature.com/articles/d41586-026-03566-2",
+      "publishedAt": "2026-11-04",
+      "role": "reporting"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Epilessia resistente, con terapia genica crisi quasi azzerate per 3 pazienti",
+      "url": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/11/06/epilessia-resistente-con-terapia-genica-crisi-quasi-azzerate-per-3-pazienti_75008910-94b9-4ab0-91ac-9118838d87ca.html",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Epilessia resistente, terapia chemogenetica riduce le crisi del 92,6% in tre pazienti",
+    "dek": "Primi dati pubblicati nel NEJM il 4 novembre: un gene consegna un recettore attivabile da basse dosi di clozapina; il campione è troppo piccolo per conclusioni cliniche generali.",
+    "summary": "Una comunicazione clinica pubblicata nel New England Journal of Medicine il 4 novembre 2026 descrive tre adulti con epilessia resistente trattati mediante vettore virale nel cervello e clozapina a basse dosi. La frequenza media delle crisi è diminuita del 92,6%; gli eventi avversi riferiti erano di grado 1 o 2. Sono risultati preliminari su tre persone, non una terapia comprovata per tutti i pazienti.",
+    "body": [
+      "Un gruppo diretto da Yang Dai dello Xuanwu Hospital di Pechino ha descritto il 4 novembre sul New England Journal of Medicine i primi dati di una tecnica che unisce terapia genica e controllo farmacologico dell'attività dei neuroni. Tre adulti con epilessia resistente ad almeno due farmaci hanno ricevuto una somministrazione locale in una parte dell'ippocampo interessata da crisi. Nature News ha approfondito la metodologia con pareri di specialisti esterni, mentre ANSA ha riferito i risultati il 6 novembre. La data iniziale dello studio è il 4 novembre.",
+      "La procedura usa un vettore virale AAV9 per portare nelle cellule nervose eccitatorie un gene che produce un recettore artificiale sensibile a un farmaco. Circa due settimane dopo, ai pazienti sono state somministrate dosi basse e regolari di clozapina. Il medicinale attiva il recettore progettato, riducendo l'eccitabilità dei neuroni bersaglio: i ricercatori chiamano il sistema chemogenetica perché il gene installa un meccanismo che può essere regolato chimicamente. Non è un intervento che elimini o corregga direttamente ogni causa genetica dell'epilessia.",
+      "La lettera clinica riporta una diminuzione media della frequenza delle crisi del 92,6%. Nature e ANSA riportano diminuzioni da 4,5 a 0,5 episodi mensili per due partecipanti, e da 4 a zero per il terzo nel breve periodo osservato. Sono stati registrati eventi avversi di grado 1 o 2 e non emergono effetti gravi nei dati pubblicati. Il confronto è prima-dopo sui tre pazienti, senza un gruppo di controllo randomizzato, e non consente di distinguere pienamente l'effetto della procedura da altre variabili.",
+      "Il neurologo Matthew Walker, intervistato da Nature e non coinvolto nello studio, giudica notevole la riduzione ma richiama il campione limitatissimo e i rischi dell'esposizione prolungata a clozapina, farmaco noto per effetti avversi a dosi elevate. Servono studi con più persone, follow-up lungo e misure rigorose di sicurezza e beneficio. La novità riguarda la fattibilità sperimentale del controllo mirato dei neuroni, non una dimostrazione di guarigione permanente o un'eventuale approvazione regolatoria."
+    ],
+    "facts": [
+      "Il NEJM ha pubblicato online il 4 novembre 2026 dati di tre pazienti con epilessia refrattaria.",
+      "Il trattamento ha combinato vettore AAV9 nell'ippocampo e clozapina a basso dosaggio; riduzione media delle crisi del 92,6%.",
+      "Gli eventi avversi descritti erano di grado 1–2; campione senza controllo randomizzato."
+    ],
+    "perspectives": [
+      "Gli autori considerano la modulazione chemogenetica un possibile percorso terapeutico da sperimentare.",
+      "Matthew Walker, citato da Nature News, segnala limiti del campione e interrogativi sull'uso prolungato della clozapina."
+    ],
+    "unknowns": [
+      "Non è nota la durata del beneficio oltre l'osservazione iniziale né la sua variabilità in una popolazione ampia.",
+      "Efficacia comparativa e sicurezza a lungo termine necessitano studi clinici controllati."
+    ],
+    "impactReason": "Una diminuzione notevole in uno studio umano preliminare offre una prova di concetto, ma soltanto tre partecipanti impediscono di attribuire impatto clinico consolidato.",
+    "questions": [
+      {
+        "question": "Come viene regolata l'attività neuronale dalla terapia chemogenetica descritta sul NEJM?",
+        "answer": "Il vettore AAV9 fa esprimere in neuroni bersaglio un recettore progettato per rispondere alla clozapina; dosi basse del farmaco attivano poi il recettore e riducono l'eccitazione che alimenta le crisi. Il farmaco funziona quindi come regolatore di un circuito introdotto attraverso il gene."
+      },
+      {
+        "question": "Perché il calo medio del 92,6% nelle crisi non permette una stima attendibile per tutti i pazienti con epilessia?",
+        "answer": "La percentuale deriva da soli tre adulti con una specifica forma di epilessia e da osservazioni iniziali prima-dopo, senza un gruppo placebo o di confronto randomizzato. Non misura in modo robusto durata, effetti rari o risultati in altri sottotipi di malattia."
+      }
+    ]
+  },
+  "en": {
+    "title": "Experimental chemogenetic treatment cuts seizures by 92.6% in three epilepsy patients",
+    "dek": "Early NEJM results published November 4 use a gene-delivered receptor controlled by low-dose clozapine; the sample cannot establish general clinical efficacy.",
+    "summary": "A November 4, 2026 New England Journal of Medicine clinical report describes three adults with medication-resistant epilepsy treated with a viral-vector gene delivery procedure and low-dose clozapine. Mean seizure frequency fell by 92.6%, and reported adverse events were grade 1 or 2. These are preliminary results involving three people, not proven therapy for all patients.",
+    "body": [
+      "A team led by Yang Dai at Beijing's Xuanwu Hospital reported early findings in the New England Journal of Medicine on November 4 from a technique combining local gene delivery with drug-controlled neuronal activity. Three adults whose epilepsy had resisted at least two antiseizure drugs received targeted treatment in part of the hippocampus associated with their seizures. Nature News assessed the mechanism and interviewed outside specialists, and ANSA reported the outcome on November 6. The original paper date is November 4.",
+      "The researchers used an AAV9 viral vector to place a gene into targeted excitatory neurons. The gene makes those cells produce an engineered receptor responsive to a particular medication. About two weeks later, patients began receiving regular low doses of clozapine. When the drug activates the newly expressed receptors, neuronal firing in the target area is reduced. This is called chemogenetics because a genetic change introduces a control mechanism that can be adjusted chemically; it does not simply repair every possible underlying cause of epilepsy.",
+      "The short clinical report records a mean reduction of 92.6% in seizure frequency. Nature and ANSA describe changes from 4.5 to 0.5 episodes per month for two participants and from four to zero for the third over the early observation period. The reported adverse events were grade 1 or 2, with no serious ones described in the initial sample. These are before-and-after observations in three people, not a randomised comparison, and cannot fully separate the procedure's effects from other influences.",
+      "Neurologist Matthew Walker, who was not part of the study, told Nature that the large reduction was encouraging but raised concerns about the tiny sample and longer-term exposure to clozapine, a drug associated with adverse effects at higher doses. Larger trials, longer follow-up and rigorous safety assessments are needed. The immediate advance is an initial demonstration of targeted neuronal control in humans, not proof of permanent cure or regulatory authorisation for routine treatment."
+    ],
+    "facts": [
+      "NEJM published the three-patient refractory-epilepsy report online on November 4, 2026.",
+      "Treatment combined hippocampal AAV9 gene delivery with low-dose clozapine; mean seizure reduction was 92.6%.",
+      "Reported adverse events were grade 1 or 2 in an uncontrolled early sample."
+    ],
+    "perspectives": [
+      "The investigators propose targeted chemogenetic modulation as a direction for further therapeutic studies.",
+      "Nature's outside expert Matthew Walker highlighted the small sample and questions about long-term drug exposure."
+    ],
+    "unknowns": [
+      "The duration of benefit and variability in a broader population have not been established.",
+      "Long-term safety and comparative effectiveness require controlled clinical studies."
+    ],
+    "impactReason": "The early human proof of concept is potentially valuable, but a three-person, uncontrolled report does not demonstrate established clinical impact.",
+    "questions": [
+      {
+        "question": "How does the chemogenetic therapy in the NEJM report control activity in targeted neurons?",
+        "answer": "An AAV9 vector delivers a gene making target neurons express an engineered receptor. Low-dose clozapine then activates that receptor to reduce the excitation driving seizures. The medication acts as a regulator of a control mechanism installed through gene delivery."
+      },
+      {
+        "question": "Why can't a 92.6% average seizure reduction predict results for everyone with epilepsy?",
+        "answer": "The estimate comes from just three adults with a particular form of epilepsy, comparing initial outcomes with their own earlier seizure frequency rather than a randomised control group. It cannot establish long-term durability, rare harms or efficacy across different epilepsy syndromes."
+      }
+    ]
+  },
+  "issueDate": "2026-11-07",
+  "section": "science",
+  "status": "DRAFT NOT FOR PUBLICATION until full 25 verified and CI",
+  "imageStatus": "original illustration pending"
+}

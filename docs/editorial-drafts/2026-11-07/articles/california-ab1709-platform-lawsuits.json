@@ -1,0 +1,141 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION: missing licensed original cover and complete edition",
+  "issueDate": "2026-11-07",
+  "section": "technology",
+  "id": "california-ab1709-platform-lawsuits",
+  "rank": 1,
+  "category": "technology",
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "California",
+      "minori",
+      "piattaforme"
+    ],
+    "en": [
+      "California",
+      "minors",
+      "platforms"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Google, Meta, TikTok sue to block California youth social media law",
+      "url": "https://www.reuters.com/world/us/google-meta-tiktok-sue-block-california-youth-social-media-law-2026-11-05/",
+      "publishedAt": "2026-11-05",
+      "role": "reporting",
+      "notes": "Jonathan Stempel; azioni legali e dichiarazioni del procuratore"
+    },
+    {
+      "outlet": "Associated Press",
+      "title": "Google, Meta and TikTok sue California over law designed to protect children from social media harms",
+      "url": "https://apnews.com/article/589c0eabeabced2e07b8f9138ee2df79",
+      "publishedAt": "2026-11-05",
+      "role": "reporting",
+      "notes": "Barbara Ortutay; ripubblicazione autorizzata del reportage AP, non una terza fonte"
+    },
+    {
+      "outlet": "California Governor's Office",
+      "title": "Governor Newsom signs the strongest child safety chatbot and social media laws in the nation",
+      "url": "https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/",
+      "publishedAt": "2026-09-10",
+      "role": "official",
+      "notes": "Fonte primaria sulla firma: non è fonte indipendente delle cause"
+    },
+    {
+      "outlet": "Digital Democracy / CalMatters",
+      "title": "AB 1709: Covered platforms: age restriction: e-Safety Advisory Commission",
+      "url": "https://calmatters.digitaldemocracy.org/bills/ca_202520260ab1709",
+      "publishedAt": "2026-09-10",
+      "role": "analysis",
+      "notes": "Testo e cronologia legislativa; versione chaptered del 10 settembre"
+    }
+  ],
+  "it": {
+    "title": "Google, Meta e TikTok impugnano la legge californiana sulle funzioni social per gli under 16",
+    "dek": "Tre ricorsi distinti mettono alla prova i limiti costituzionali delle restrizioni ai feed personalizzati; la norma è prevista dal 1° gennaio 2027.",
+    "summary": "Google, Meta e TikTok hanno presentato ricorsi distinti contro la legge californiana AB 1709, firmata il 10 settembre 2026. Il testo limita ai minori di 16 anni alcune funzioni progettate per prolungare l'uso delle piattaforme, tra cui scroll continuo, raccomandazioni personalizzate e autoplay. Le aziende invocano libertà di espressione e altre tutele federali: la controversia giudiziaria non equivale alla sospensione della norma.",
+    "body": [
+      "Il 5 novembre 2026 Reuters e Associated Press hanno dato notizia di tre azioni giudiziarie separate presentate da Google, Meta e TikTok contro la California. I ricorsi riguardano l'Assembly Bill 1709, una legge firmata dal governatore Gavin Newsom il 10 settembre e programmata per entrare in vigore il 1° gennaio 2027. Le aziende contestano le condizioni imposte alla presentazione dei contenuti sulle piattaforme frequentate dai minori. Il fatto verificato è l'avvio del contenzioso, non una vittoria delle aziende o una sospensione già concessa da un giudice.",
+      "La legge definisce alcune funzioni come potenzialmente in grado di incentivare l'uso compulsivo: feed personalizzati, scorrimento senza fine, riproduzione automatica e notifiche sono tra gli esempi elencati. Per i servizi coperti, il testo vieta di offrire tali caratteristiche a utenti sotto i 16 anni e prevede meccanismi di verifica delle fasce d'età. Il documento legislativo individua anche un organismo consultivo per la sicurezza digitale. Non si tratta di un divieto generale di ogni forma di comunicazione online per tutti gli adolescenti.",
+      "Secondo i ricorsi riportati da Reuters, le aziende sostengono che la California interferisca con le loro scelte editoriali su come ordinare e mostrare contenuti, invocando il Primo emendamento alla Costituzione e la sezione 230 del Communications Decency Act. Google afferma che regole troppo ampie potrebbero ostacolare anche i sistemi che propongono video adatti all'età; Meta richiama la propria autonomia di organizzazione dei post; TikTok contesta il divieto motivato dalla valutazione pubblica dei contenuti. Sono argomenti delle parti in causa, non conclusioni giudiziarie.",
+      "L'ufficio del procuratore generale Rob Bonta ha dichiarato a Reuters che esaminerà i ricorsi e difenderà la legislazione destinata a tutelare i minori. L'obiettivo dichiarato dal governo statale è ridurre l'esposizione dei bambini a funzioni che favoriscano un uso prolungato dei social; i critici, compresa l'Electronic Frontier Foundation, temono conseguenze su privacy e libertà di parola. Il nodo concreto è se le restrizioni di progettazione e l'identificazione dell'età siano compatibili con le protezioni costituzionali. La data di efficacia prevista resta il 1° gennaio 2027, salvo provvedimenti del tribunale."
+    ],
+    "facts": [
+      "Reuters e AP riportano ricorsi distinti di Google, Meta e TikTok contro l'AB 1709, descritti il 5 novembre.",
+      "La California ha approvato la AB 1709 il 10 settembre 2026; la data di efficacia prevista è il 1° gennaio 2027.",
+      "La norma prende di mira funzioni di coinvolgimento dei minori di 16 anni come autoplay e scorrimento continuo, nei termini previsti dalla legge."
+    ],
+    "perspectives": [
+      "Google, Meta e TikTok sostengono che la legge interferisca con la libertà di espressione e con le scelte di presentazione dei contenuti: sono tesi processuali da valutare.",
+      "L'ufficio del procuratore generale della California dichiara che difenderà la legge per la protezione dei minori; EFF teme ripercussioni su privacy e parola."
+    ],
+    "unknowns": [
+      "Non è noto se e con quali limiti i giudici concederanno misure cautelari prima dell'entrata in vigore.",
+      "L'effetto netto della legge sulla salute mentale dei minori e sulla privacy dipenderà anche dalle modalità applicative e non è dimostrato da questi ricorsi."
+    ],
+    "impactReason": "La controversia può ridefinire il design dei social negli Stati Uniti e i sistemi di verifica dell'età, ma l'esito giudiziario e l'effettiva applicazione sono ancora incerti.",
+    "questions": [
+      {
+        "question": "Quali funzioni delle piattaforme prende di mira la legge AB 1709 per gli utenti sotto i 16 anni?",
+        "answer": "La legge riguarda funzioni considerate idonee a prolungare l'uso compulsivo dei servizi coperti, tra cui feed che apprendono dalle preferenze, scroll infinito, autoplay e alcune notifiche. Interviene sul modo in cui il servizio è progettato e offerto ai minori, non sulla possibilità generale di comunicare online."
+      },
+      {
+        "question": "Perché nei ricorsi di Google, Meta e TikTok compare il Primo emendamento?",
+        "answer": "Le aziende affermano che scegliere, ordinare e raccomandare post o video sia una forma di attività editoriale protetta e che la California imponga loro un diverso modo di presentare i contenuti. Il tribunale dovrà valutare questa tesi alla luce dell'interesse pubblico alla tutela dei minori; il deposito del ricorso non ne prova la fondatezza."
+      }
+    ]
+  },
+  "en": {
+    "title": "Google, Meta and TikTok challenge California's under-16 social media design law",
+    "dek": "Three separate lawsuits test the constitutional limits of restrictions on personalised feeds; the law is scheduled to take effect on January 1, 2027.",
+    "summary": "Google, Meta and TikTok have brought separate challenges to California's AB 1709, signed into law on September 10, 2026. It restricts certain engagement-maximising features for users under 16, including infinite scrolling, personalised recommendations and autoplay. The companies raise free-speech and federal-law objections; filing a lawsuit does not itself suspend the statute.",
+    "body": [
+      "On November 5, 2026, Reuters and the Associated Press reported that Google, Meta and TikTok had filed separate lawsuits against California. The cases challenge Assembly Bill 1709, which Governor Gavin Newsom signed on September 10 and which is scheduled to take effect on January 1, 2027. The companies contest limits on how content can be presented on platforms used by children. What has been established is the start of litigation, not a company victory or a court order already suspending the law.",
+      "The legislation identifies design features that may encourage compulsive use. Personalised feeds, endless scrolling, autoplay and notifications are among the examples it sets out. Covered platforms must not provide prohibited addictive features to users under 16, while age-assurance mechanisms are also part of the state's approach. The bill establishes a digital safety advisory body. It is not a general prohibition on every kind of online communication for all teenagers.",
+      "According to the pleadings described by Reuters, the companies argue that California is interfering with their editorial choices about arranging and displaying speech. They invoke the US Constitution's First Amendment and Section 230 of the Communications Decency Act. Google says broad restrictions could also disrupt tools for recommending age-appropriate videos; Meta emphasises its judgments about organising posts; TikTok challenges limits justified by the state's assessment of content. These are the litigants' legal positions, not findings that judges have accepted.",
+      "Attorney General Rob Bonta's office told Reuters that it was reviewing the cases and intended to defend child-safety legislation. California's stated aim is to reduce children's exposure to design features encouraging prolonged social media use. Critics, including the Electronic Frontier Foundation, warn of possible consequences for privacy and freedom of expression. The immediate question is whether design restrictions and age identification can be reconciled with constitutional protections. January 1, 2027 remains the scheduled start date unless a court intervenes."
+    ],
+    "facts": [
+      "Reuters and AP reported separate Google, Meta and TikTok lawsuits challenging AB 1709 on November 5.",
+      "California enacted AB 1709 on September 10, 2026 and scheduled it to take effect on January 1, 2027.",
+      "The legislation addresses engagement-promoting features for under-16 users, such as autoplay and endless scrolling, subject to its statutory definitions."
+    ],
+    "perspectives": [
+      "Google, Meta and TikTok argue that the law interferes with free expression and content-curation decisions; these are claims to be tested in court.",
+      "California's attorney general's office says it will defend the child-protection law, while EFF has raised privacy and speech concerns."
+    ],
+    "unknowns": [
+      "It is not yet known whether judges will order a stay before the law's scheduled effective date, or on which provisions.",
+      "The net effects on minors' mental health and privacy depend on implementation and cannot be proven by the lawsuits alone."
+    ],
+    "impactReason": "The dispute may reshape US social media design and age-assurance practices, but the court outcome and real-world enforcement remain open.",
+    "questions": [
+      {
+        "question": "Which platform features does California's AB 1709 target for users under 16?",
+        "answer": "The law addresses engagement-maximising features on covered services, including feeds shaped by user preferences, endless scrolling, autoplay and some notifications. It regulates how these services are designed and offered to children, rather than generally banning all online communication by teenagers."
+      },
+      {
+        "question": "Why do Google, Meta and TikTok invoke the First Amendment in their lawsuits?",
+        "answer": "They contend that selecting, arranging and recommending posts or videos is protected editorial activity and that California is dictating alternative ways to present speech. Courts must weigh that claim against the state's child-protection aims; filing the cases does not demonstrate that the companies' interpretation will prevail."
+      }
+    ]
+  },
+  "imageStatus": "STAGED ORIGINAL CC0 ILLUSTRATION IN DRAFT ASSETS — NOT YET IN PRODUCTION NEWS DIRECTORY",
+  "draftImage": {
+    "src": "docs/editorial-drafts/2026-11-07/assets/california-ab1709-platform-lawsuits.svg",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-07/docs/editorial-drafts/2026-11-07/assets/california-ab1709-platform-lawsuits.svg",
+    "kind": "illustration",
+    "credit": "O / Oggettivizzatore — original AI-assisted vector artwork, 2026-11-07",
+    "license": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+    "alt_it": "Telefono stilizzato con schede di contenuto e scudo con numero 16, immagine concettuale",
+    "alt_en": "Stylised phone showing generic feed tiles and shield marked 16; conceptual illustration"
+  },
+  "audit": {
+    "independentNewsroomsVerified": true,
+    "notes": "Independent named newsrooms identified; editorial sign-off still required before issue publication.",
+    "questionsTestedWithRepositoryFunction": true,
+    "qaSemanticMatchReviewed": true
+  }
+}

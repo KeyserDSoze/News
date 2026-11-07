@@ -1,0 +1,135 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION: missing licensed original cover and complete edition",
+  "issueDate": "2026-11-07",
+  "section": "italy",
+  "id": "altieri-withdraws-anac-nomination",
+  "rank": 2,
+  "category": "politics",
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "ANAC",
+      "nomine",
+      "trasparenza"
+    ],
+    "en": [
+      "ANAC",
+      "appointments",
+      "integrity"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "la Repubblica",
+      "title": "Scontro sul leghista Altieri all’Anac: 'Incompatibile per legge'. E lui è costretto a ritirarsi",
+      "url": "https://www.repubblica.it/politica/2026/11/07/news/altieri_ritiro_presidente_anac_lega_incompatibile_per_legge-425705869/",
+      "publishedAt": "2026-11-07",
+      "role": "reporting",
+      "notes": "Giuliano Foschini e Antonio Fraschilla; indagine originale su incarico di partito e norme"
+    },
+    {
+      "outlet": "ANSA",
+      "title": "Scontro tra opposizioni e governo sulla nomina alla presidenza dell'Anac, il leghista Altieri si ritira",
+      "url": "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+      "publishedAt": "2026-11-06",
+      "role": "reporting",
+      "notes": "Paolo Cappelleri; aggiornamento delle 23:11"
+    },
+    {
+      "outlet": "Sky TG24",
+      "title": "Nomina presidente Anac, il leghista Altieri dopo polemiche: Ritiro la mia disponibilità",
+      "url": "https://tg24.sky.it/politica/2026/11/06/anac-altieri-polemiche-nomina-meloni-opposizioni",
+      "publishedAt": "2026-11-06",
+      "role": "reporting",
+      "notes": "Riscontro cronologia e dichiarazioni; alcuni materiali sono attribuiti ANSA, non contarli come fonte indipendente in aggiunta"
+    }
+  ],
+  "it": {
+    "title": "Altieri ritira la disponibilità alla presidenza ANAC dopo i rilievi sulle incompatibilità",
+    "dek": "La designazione avviata dal governo dura circa un giorno: le opposizioni contestano i precedenti incarichi politici; la Lega sostiene che uno di essi fu revocato.",
+    "summary": "Nella tarda serata del 6 novembre 2026 Trifone 'Nuccio' Altieri ha rinunciato alla candidatura alla presidenza dell'Autorità nazionale anticorruzione, avviata il giorno prima dal governo. Le opposizioni avevano sollevato obiezioni sull'indipendenza e su un incarico annunciato dalla Lega nel 2024. Altieri afferma di ritirarsi per opportunità politica e istituzionale; il caso non equivale a un accertamento giudiziario di incompatibilità.",
+    "body": [
+      "Tra il 5 e il 6 novembre 2026 si è sviluppata una controversia attorno alla designazione di Trifone 'Nuccio' Altieri alla presidenza dell'Autorità nazionale anticorruzione (ANAC). Il Consiglio dei ministri aveva avviato l'iter per la nomina; nella tarda serata di venerdì 6 novembre Altieri ha annunciato di ritirare la propria disponibilità. ANSA ha riferito la decisione in serata e la Repubblica ha ricostruito, nell'edizione del 7 novembre, i rilievi sollevati nel dibattito politico. La designazione non era ancora diventata una nomina operativa definitiva.",
+      "La controversia riguarda requisiti di indipendenza previsti dalla disciplina sull'Autorità. La Repubblica richiama l'articolo 13, comma 3, del decreto legislativo 150 del 2009, che limita la scelta di persone che ricoprano o abbiano ricoperto di recente incarichi elettivi o di partito. La Lega aveva annunciato nel settembre 2024 Altieri come responsabile del dipartimento Difesa. Secondo fonti del partito citate da Sky TG24, tuttavia, Altieri non avrebbe mai concretamente svolto quell'incarico e ne sarebbe stata dichiarata la revoca; il punto è contestato e non può essere risolto con un'affermazione unilaterale.",
+      "I partiti di opposizione hanno chiesto a Giorgia Meloni il ritiro della proposta e ricordato la necessità di un ampio consenso parlamentare per l'incarico. Il governo ha replicato, secondo ANSA, che aveva valutato inesistenti i profili di incompatibilità e aveva informato preventivamente i principali partiti di opposizione senza ricevere obiezioni. Queste sono posizioni politiche attribuite; la loro divergenza non dimostra che un organo competente abbia riconosciuto o escluso con decisione finale un impedimento di legge.",
+      "Nella dichiarazione di rinuncia, Altieri ha rivendicato la propria idoneità professionale ma ha motivato il passo indietro con ragioni di opportunità politica, istituzionale e personale. Secondo Sky TG24, Giuseppe Busia continua a guidare l'Autorità fino alla formalizzazione di un successore. Il caso mette in evidenza un problema di governance: l'organismo che vigila su trasparenza e appalti deve essere indipendente tanto nella sostanza quanto nella percezione pubblica. Il successivo iter e il nome del futuro presidente non risultavano definiti entro la finestra dell'edizione."
+    ],
+    "facts": [
+      "Altieri ha ritirato la propria disponibilità alla presidenza ANAC la sera del 6 novembre 2026.",
+      "Il governo aveva avviato la procedura di designazione il 5 novembre, senza un insediamento definitivo.",
+      "Le opposizioni hanno contestato un incarico di partito annunciato nel settembre 2024; la Lega sostiene che non sia stato effettivamente assunto."
+    ],
+    "perspectives": [
+      "Altieri sostiene di possedere le competenze e di rinunciare per opportunità politica, istituzionale e personale.",
+      "Le opposizioni ritengono problematica l'indipendenza della candidatura; fonti di governo affermano che i requisiti erano stati verificati e non vi fossero incompatibilità.",
+      "Fonti della Lega dicono che la posizione al dipartimento Difesa non fu mai ricoperta e fu revocata; il resoconto di la Repubblica considera la vicenda normativa ancora controversa."
+    ],
+    "unknowns": [
+      "Non è stata accertata nel materiale consultato una decisione giudiziaria definitiva sull'interpretazione dell'incarico di partito ai fini dell'incompatibilità.",
+      "Il nuovo candidato e il calendario della procedura successiva non erano ancora definiti nella finestra esaminata."
+    ],
+    "impactReason": "La rinuncia incide sulla selezione del vertice di un'autorità di controllo essenziale per gli appalti pubblici e solleva questioni sull'indipendenza delle nomine, senza determinare ancora cambiamenti operativi consolidati.",
+    "questions": [
+      {
+        "question": "Qual è il collegamento tra l'incarico di Altieri annunciato dalla Lega nel 2024 e il requisito per guidare l'ANAC?",
+        "answer": "La norma citata nella controversia limita la scelta di persone che abbiano ricoperto incarichi politici negli ultimi tre anni. La Lega annunciò nel 2024 un ruolo nazionale per Altieri, ma sostiene che la nomina non divenne effettiva e fu revocata. La questione riguarda dunque la qualificazione giuridica di quell'incarico, non la sola appartenenza a un partito."
+      },
+      {
+        "question": "Il ritiro di Altieri modifica già la guida operativa dell'Autorità anticorruzione?",
+        "answer": "Il governo aveva avviato una designazione, non completato l'insediamento di un nuovo presidente. Con la rinuncia del 6 novembre la procedura per quella candidatura si interrompe e, secondo Sky TG24, Giuseppe Busia resta alla guida fino alla formalizzazione di un successore."
+      }
+    ]
+  },
+  "en": {
+    "title": "Altieri withdraws bid to lead Italy's anti-corruption authority amid eligibility dispute",
+    "dek": "The government-backed candidacy lasts about a day; opposition parties question earlier political roles while the League says one appointment was rescinded.",
+    "summary": "Late on November 6, 2026, Trifone 'Nuccio' Altieri withdrew his candidacy to chair Italy's National Anti-Corruption Authority, ANAC, a day after the government began the nomination process. Opposition parties questioned independence requirements and a party position announced in 2024. Altieri cited political and institutional appropriateness. His withdrawal is not a judicial finding that he was legally ineligible.",
+    "body": [
+      "Between November 5 and 6, 2026, a dispute arose over the Italian government's proposed appointment of Trifone 'Nuccio' Altieri to lead the National Anti-Corruption Authority (ANAC). The cabinet had started the appointment process, but late on Friday, November 6, Altieri announced that he was withdrawing his availability. ANSA reported the decision that evening, while la Repubblica examined the eligibility dispute in its November 7 coverage. No final operational appointment had been completed.",
+      "The dispute centres on statutory independence requirements. La Repubblica points to Article 13(3) of Legislative Decree 150 of 2009, which restricts appointments of people currently holding, or recently having held, elected or party offices. The League announced in September 2024 that Altieri would head its defence department. However, League sources quoted by Sky TG24 argue he never actually held that role and that the appointment was rescinded. That contested history cannot be settled by presenting only one party's account as an established finding.",
+      "Opposition parties called on Prime Minister Giorgia Meloni to withdraw the proposal and emphasised the broad parliamentary support required for the post. The government responded, according to ANSA, that it had assessed any conflicts or incompatibilities and found none, and had informed major opposition parties in advance without receiving objections. These are attributed political claims. Their disagreement does not demonstrate that an authoritative final legal determination had either confirmed or rejected the alleged incompatibility.",
+      "In his withdrawal statement, Altieri maintained that he had the professional qualifications but said considerations of political, institutional and personal appropriateness led him to step aside. Sky TG24 reported that Giuseppe Busia remained in charge of the authority pending formal appointment of a successor. The episode illustrates a governance issue: the body overseeing integrity in public procurement must command substantive and perceived independence. Neither the replacement candidate nor the timeline of a new appointment was established within the issue's reporting window."
+    ],
+    "facts": [
+      "Altieri withdrew his willingness to chair ANAC on the evening of November 6, 2026.",
+      "The government had begun nominating him on November 5, without completing a final appointment.",
+      "Opposition parties challenged his eligibility over a party role announced in September 2024; the League says the role was never actually held."
+    ],
+    "perspectives": [
+      "Altieri says he had the necessary skills and withdrew for reasons of political, institutional and personal appropriateness.",
+      "Opposition parties questioned the independence of the candidacy; government sources say they had assessed and rejected potential grounds of incompatibility.",
+      "League sources say the defence-department role was rescinded, whereas la Repubblica's reporting says the statutory implications remained disputed."
+    ],
+    "unknowns": [
+      "The reviewed materials do not establish a definitive judicial ruling on whether the announced party role qualified as a disqualifying appointment.",
+      "The identity of the next candidate and the schedule for completing a fresh appointment were not yet established."
+    ],
+    "impactReason": "The withdrawal affects selection of the leadership of Italy's public-procurement watchdog and raises independence questions, without yet producing a settled operational change.",
+    "questions": [
+      {
+        "question": "Why does the League role announced for Altieri in 2024 matter to ANAC's eligibility rules?",
+        "answer": "The provision at issue restricts appointing people who held political offices during the previous three years. The League publicly announced a national department role for Altieri in 2024, but says it never took effect and was rescinded. The issue is therefore how that position is legally classified, not merely party membership."
+      },
+      {
+        "question": "Did Altieri's withdrawal immediately change who runs Italy's anti-corruption authority?",
+        "answer": "The government had begun a nomination process, not completed the installation of a new chair. With Altieri's November 6 withdrawal, that candidacy cannot proceed as proposed and, according to Sky TG24, Giuseppe Busia remains in charge pending the formal appointment of a successor."
+      }
+    ]
+  },
+  "imageStatus": "STAGED ORIGINAL CC0 ILLUSTRATION IN DRAFT ASSETS — NOT YET IN PRODUCTION NEWS DIRECTORY",
+  "draftImage": {
+    "src": "docs/editorial-drafts/2026-11-07/assets/altieri-withdraws-anac-nomination.svg",
+    "sourceUrl": "https://github.com/KeyserDSoze/News/blob/editorial/research-2026-11-07/docs/editorial-drafts/2026-11-07/assets/altieri-withdraws-anac-nomination.svg",
+    "kind": "illustration",
+    "credit": "O / Oggettivizzatore — original AI-assisted vector artwork, 2026-11-07",
+    "license": "CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+    "alt_it": "Edificio istituzionale stilizzato con bilancia, non rappresenta una persona reale",
+    "alt_en": "Stylised institutional building and scales; no real person is depicted"
+  },
+  "audit": {
+    "independentNewsroomsVerified": true,
+    "notes": "Independent named newsrooms identified; editorial sign-off still required before issue publication.",
+    "questionsTestedWithRepositoryFunction": true,
+    "qaSemanticMatchReviewed": true
+  }
+}

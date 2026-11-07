@@ -1,0 +1,108 @@
+{
+  "status": "DRAFT — no publication until complete verified 25-story edition",
+  "issueDate": "2026-11-07",
+  "section": "world",
+  "id": "canary-islands-rescues-nov6",
+  "rank": 2,
+  "category": "society",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "Canarie",
+      "migrazione",
+      "soccorsi"
+    ],
+    "en": [
+      "Canaries",
+      "migration",
+      "rescue"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Reuters",
+      "title": "Migrant surge to Spain's Canary Islands is unsustainable, authorities say",
+      "url": "https://www.reuters.com/world/migrant-surge-spains-canary-islands-is-unsustainable-authorities-say-2026-11-06/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "EFE",
+      "title": "Desembarcan en El Hierro, Lanzarote y Gran Canaria a más de 1.021 migrantes, uno fallecido",
+      "url": "https://efe.com/canarias/2026-11-06/desembarcan-en-el-hierro-lanzarote-y-gran-canaria-a-mas-de-1-021-migrantes-uno-fallecido/",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Canarie, 3.261 persone soccorse in sei giorni: le autorità segnalano servizi sotto pressione",
+    "dek": "L'accelerazione degli sbarchi di inizio novembre colpisce soprattutto El Hierro; il confronto con il 2024 richiede di distinguere settimana e anno.",
+    "summary": "I servizi di salvataggio spagnoli hanno soccorso 3.261 persone lungo la rotta delle Canarie dal 1° al 6 novembre 2026, secondo il bilancio riportato da Reuters. EFE documenta oltre 1.021 persone arrivate tra la sera del 5 e il 6 novembre e una persona deceduta. Il presidente regionale Fernando Clavijo descrive la pressione su sanità e trasporti come insostenibile; il dato complessivo del 2026 resta inferiore al 2024.",
+    "body": [
+      "Il 6 novembre 2026 il governo regionale delle Canarie ha richiamato l'attenzione su un'accelerazione dei soccorsi lungo la rotta atlantica che collega l'Africa occidentale all'arcipelago spagnolo. Reuters, presente a La Restinga, riferisce che nei primi sei giorni di novembre Salvamento Marítimo ha soccorso 3.261 persone. Il presidente delle Canarie Fernando Clavijo ha definito il ritmo recente difficile da sostenere per un territorio insulare con capacità sanitarie e logistiche limitate. Questa è una valutazione politica attribuita, non una misurazione tecnica di collasso dei servizi.",
+      "L'agenzia spagnola EFE ha ricostruito le operazioni svolte tra la serata di giovedì 5 e venerdì 6 novembre a El Hierro, Lanzarote e Gran Canaria, riferendo oltre 1.021 persone trasportate a terra e un decesso. Le due redazioni descrivono finestre temporali diverse: non si devono aggiungere 1.021 a 3.261 come fossero gruppi distinti, perché le operazioni del 5 e 6 rientrano nel totale dei primi sei giorni. I numeri indicano soccorsi o sbarchi assistiti, non il conteggio di tutti i tentativi di traversata.",
+      "L'isola di El Hierro, con circa 11.400 abitanti, ha un ruolo centrale nell'accoglienza temporanea. Clavijo afferma che mezzi di trasporto sono stati deviati dalle attività ordinarie e personale sanitario è stato richiamato da altre isole. La traversata può durare molti giorni in imbarcazioni sovraffollate e con scarsa possibilità di comunicare; gli interventi d'emergenza coinvolgono quindi salute, protezione civile e accertamento delle identità. Reuters segnala un corpo recuperato dopo l'arrivo di due imbarcazioni la sera del 5 novembre, non necessariamente tutte le vittime della settimana.",
+      "Il contesto statistico impedisce una lettura sensazionalistica: Reuters osserva che gli arrivi dei primi dieci mesi del 2026 erano quasi il 61% inferiori a quelli del corrispondente periodo del 2024, nonostante l'impennata dell'ultima settimana. Le condizioni marine più favorevoli in autunno sono indicate da Clavijo come un possibile fattore dell'aumento delle partenze, ma non esauriscono le ragioni dei viaggi. Il punto verificato è l'elevata concentrazione di salvataggi all'inizio di novembre, mentre la durata dell'accelerazione resta da osservare."
+    ],
+    "facts": [
+      "Reuters quantifica 3.261 persone soccorse dal 1° al 6 novembre 2026 lungo la rotta delle Canarie.",
+      "EFE registra oltre 1.021 arrivi assistiti dalla sera del 5 novembre e almeno un decesso: dato incluso in una finestra più breve.",
+      "Reuters riporta che gli arrivi nei primi dieci mesi del 2026 erano inferiori di quasi il 61% allo stesso periodo del 2024."
+    ],
+    "perspectives": [
+      "Clavijo giudica insostenibile la pressione su trasporti e sanità di El Hierro, secondo Reuters.",
+      "Le redazioni sottolineano la mortalità della rotta e la differenza fra picco settimanale e tendenza annuale."
+    ],
+    "unknowns": [
+      "Il numero di imbarcazioni non intercettate e le vittime complessive della traversata nello stesso intervallo non sono accertabili con questi dati.",
+      "Non è noto se l'intensità dei soccorsi persisterà nelle settimane successive."
+    ],
+    "impactReason": "I soccorsi concentrati in pochi giorni incidono direttamente su vite umane e servizi di un'isola piccola, pur senza configurare un record annuale verificato.",
+    "questions": [
+      {
+        "question": "Come vanno letti i 3.261 soccorsi Reuters rispetto agli oltre 1.021 sbarchi documentati da EFE?",
+        "answer": "Il primo numero riguarda i soccorsi complessivi dal 1° al 6 novembre; il secondo riguarda una parte delle operazioni tra la sera del 5 e il 6. Le due finestre si sovrappongono, perciò sommarle produrrebbe un doppio conteggio e non darebbe il numero dei tentativi di traversata."
+      },
+      {
+        "question": "Perché Clavijo considera grave il picco a El Hierro anche se gli arrivi annui sono sotto il 2024?",
+        "answer": "Un confronto annuo misura una tendenza estesa, mentre centinaia di persone soccorse in una sola notte richiedono immediatamente autobus, personale medico e spazi di assistenza. Su un'isola di circa 11.400 abitanti, la distribuzione nel tempo degli arrivi conta per la capacità dei servizi quanto il totale annuale."
+      }
+    ]
+  },
+  "en": {
+    "title": "Canary Islands rescue 3,261 people in six days as officials warn of pressure on services",
+    "dek": "Early-November arrivals strain El Hierro in particular; weekly peaks must be distinguished from the longer-term trend.",
+    "summary": "Spanish maritime rescuers assisted 3,261 people along the Canary Islands route between November 1 and 6, 2026, Reuters reported. EFE separately documented more than 1,021 people brought ashore between late November 5 and November 6 and one death. Regional president Fernando Clavijo described pressure on healthcare and transport as unsustainable, although overall 2026 arrivals remain below 2024 levels.",
+    "body": [
+      "On November 6, 2026, the Canary Islands government drew attention to a sharp acceleration of maritime rescues on the Atlantic route from West Africa to the Spanish archipelago. Reuters, reporting from La Restinga, said Spanish maritime rescue services had helped 3,261 people in the first six days of November. Canary Islands president Fernando Clavijo described the recent pace as unsustainable for islands with limited healthcare and transport capacity. That is his attributed political assessment, not an independently measured failure of public services.",
+      "Spain's EFE news agency described rescue operations between Thursday evening, November 5, and Friday, November 6, involving El Hierro, Lanzarote and Gran Canaria. It reported more than 1,021 people disembarking with assistance and one death. The two outlets cover different, overlapping periods: adding 1,021 to 3,261 would count some operations twice. These totals describe rescues or assisted arrivals, not all journeys attempted or the complete number of people at sea.",
+      "El Hierro, with a population of around 11,400, faces acute logistical challenges when boats arrive together. Clavijo said regular buses had been reassigned to support migrant reception and medical personnel had come from other islands. The crossing can last many days in overcrowded craft and expose passengers to dehydration and rough conditions, requiring medical triage as well as transport. Reuters reported one body recovered after boats reached the area on November 5; that case should not be conflated with a final count of all fatalities over the period.",
+      "The wider statistical context is essential. Reuters notes that arrivals during the first ten months of 2026 were almost 61% lower than in the corresponding part of 2024, even though the latest week approached an unusually high pace. Clavijo linked the recent increase in departures partly to calmer seas, but weather alone cannot explain why people undertake hazardous migration. What is verified is a concentrated surge in rescues; how long the increase will last and its consequences for future reception capacity remain open."
+    ],
+    "facts": [
+      "Reuters reports 3,261 people rescued on the Canary route between November 1 and 6, 2026.",
+      "EFE counted more than 1,021 assisted arrivals from late November 5 into November 6 and one death, a shorter overlapping period.",
+      "Reuters says arrivals over the first ten months of 2026 were nearly 61% below the same period in 2024."
+    ],
+    "perspectives": [
+      "Regional president Clavijo characterised the pressure on El Hierro's healthcare and transport services as unsustainable.",
+      "Reuters and EFE describe hazardous crossings and distinguish a sharp short-term rise from annual totals."
+    ],
+    "unknowns": [
+      "Neither a full count of unobserved crossings nor a definitive death toll for the period can be established from these reports.",
+      "The duration of the sudden increase in arrivals is not yet known."
+    ],
+    "impactReason": "Concentrated rescues directly affect lives and the services of a small island, even though the latest figures do not establish a record annual migration total.",
+    "questions": [
+      {
+        "question": "How should Reuters' 3,261 rescues be compared with the 1,021-plus arrivals described by EFE?",
+        "answer": "Reuters' figure covers rescues across November 1–6, whereas EFE describes a subset of operations from late November 5 into November 6. The periods overlap, so adding the figures would double-count people and would still not measure every attempted crossing."
+      },
+      {
+        "question": "Why can the El Hierro surge strain services when total arrivals in 2026 are below 2024?",
+        "answer": "A yearly comparison measures a long period, while hundreds of people arriving in one night create an immediate need for buses, medical workers and reception space. On an island with around 11,400 residents, the timing of arrivals can be as important to service capacity as the annual total."
+      }
+    ]
+  },
+  "imageStatus": "Original vector illustration pending"
+}
