@@ -58,6 +58,14 @@
       "publishedAt": "2026-11-04",
       "role": "official",
       "notes": "Comunicato degli autori, NON editore indipendente"
+    },
+    {
+      "outlet": "Tom's Hardware Italia",
+      "title": "Uno dei tumori cerebrali più difficili nasconde uno schema preciso",
+      "url": "https://www.tomshw.it/scienze/le-cellule-del-glioblastoma-cambiano-a-tappe-si-potranno-fermare",
+      "publishedAt": "2026-11-05",
+      "role": "reporting",
+      "notes": "Antonello Buzzi, resoconto editoriale distinto da ANSA; analizza i 57 siti e le traiettorie, basato anche sui lavori originali"
     }
   ],
   "it": {
@@ -141,8 +149,8 @@
     "alt_en": "Abstract cells and branching transitions; not medical imaging or microscopy"
   },
   "audit": {
-    "independentNewsroomsVerified": false,
-    "notes": "Publisher independence still insufficient: institutional/press-release derivatives must not be counted as separate independent original reportage.",
+    "independentNewsroomsVerified": true,
+    "notes": "ANSA and Tom's Hardware Italia have separately authored coverage, alongside the two primary Nature papers; both derive facts from same scientific studies, as necessarily expected.",
     "questionsTestedWithRepositoryFunction": true,
     "qaSemanticMatchReviewed": true
   }
