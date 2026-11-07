@@ -1,0 +1,126 @@
+{
+  "status": "DRAFT — NOT FOR PUBLICATION: independent original reporting threshold and original licensed image not fully satisfied",
+  "issueDate": "2026-11-07",
+  "section": "science",
+  "id": "hera-didymos-closeup-nov5",
+  "rank": 2,
+  "category": "technology",
+  "impact": 2,
+  "tags": {
+    "it": [
+      "Hera",
+      "asteroidi",
+      "spazio"
+    ],
+    "en": [
+      "Hera",
+      "asteroids",
+      "space"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "European Space Agency",
+      "title": "Hera's first close-up view of Didymos asteroids",
+      "url": "https://www.esa.int/hu/articles/about-us/directorates/operations/space-safety/hera/hera-s-first-close-up-view-of-didymos-asteroids",
+      "publishedAt": "2026-11-05",
+      "role": "official",
+      "notes": "Fonte primaria descrittiva, 60 km; ESA pubblica anche scheda breve che dice 600 km: verificare discrepanza"
+    },
+    {
+      "outlet": "Agenzia Spaziale Italiana",
+      "title": "Hera osserva Didymos a distanza ravvicinata",
+      "url": "https://www.asi.it/2026/11/hera-osserva-didymos-a-distanza-ravvicinata/",
+      "publishedAt": "2026-11-05",
+      "role": "official",
+      "notes": "ASI è partecipante della missione, NON seconda redazione indipendente; conferma 60 km"
+    },
+    {
+      "outlet": "Space.com",
+      "title": "Hera probe gets 1st good luck at asteroid system clobbered by NASA's DART mission",
+      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
+      "publishedAt": "2026-11-06",
+      "role": "reporting",
+      "notes": "Robert Lea; racconto indipendente nella forma, basato su dichiarazioni e immagini ESA"
+    },
+    {
+      "outlet": "EarthSky",
+      "title": "Hera mission begins asteroid defense investigation: 1st close-up views!",
+      "url": "https://earthsky.org/space/hera-mission-dart-asteroid-impact/",
+      "publishedAt": "2026-11-05",
+      "role": "reporting",
+      "notes": "Kelly Kizer Whitt, Deborah Byrd; ulteriore editore, ma testo del 5/11 deriva essenzialmente dal materiale ESA; indipendenza sostanziale da verificare"
+    }
+  ],
+  "it": {
+    "title": "Hera mostra il lato di Didymos non ripreso da DART: prima immagine ravvicinata",
+    "dek": "L'ESA pubblica il 5 novembre una nuova osservazione dell'asteroide maggiore; Dimorphos resta in ombra e le analisi dell'impatto del 2022 sono ancora da svolgere.",
+    "summary": "Il 5 novembre 2026 l'ESA ha diffuso una vista ravvicinata di Didymos realizzata dalla sonda Hera. L'immagine mostra dettagli della superficie dell'asteroide maggiore, mentre il piccolo Dimorphos, colpito da DART nel settembre 2022, è in larga parte nascosto dall'ombra. L'obiettivo di Hera è capire come il sistema sia stato modificato dall'impatto, non annunciare già nuove misure del suo effetto.",
+    "body": [
+      "Il 5 novembre 2026 l'Agenzia spaziale europea ha pubblicato una nuova immagine della coppia di asteroidi Didymos-Dimorphos, osservata dalla sonda Hera durante l'avvicinamento al bersaglio. L'asteroide principale, Didymos, ha un diametro di circa 780 metri; il satellite naturale Dimorphos, di circa 151 metri, è visibile solo parzialmente perché in ombra. Il testo tecnico ESA e il resoconto dell'Agenzia spaziale italiana riportano 60 chilometri per la distanza di ripresa. Una scheda multimediale ESA separata indica 600 chilometri: la discrepanza del metadata deve essere chiarita prima della pubblicazione definitiva.",
+      "Il contesto è l'esperimento DART della NASA: il 26 settembre 2022 una sonda ha colpito deliberatamente Dimorphos, riducendone di circa 33 minuti il periodo di rivoluzione intorno a Didymos. Il risultato, già misurato negli anni precedenti, ha dimostrato la possibilità di modificare la traiettoria di un piccolo corpo con un impatto cinetico. Hera non ripete la collisione: raggiunge il sistema per misurarne caratteristiche fisiche, struttura e cambiamenti, essenziali per prevedere meglio l'effetto di tecniche analoghe in un eventuale scenario di difesa planetaria.",
+      "Il gruppo scientifico osserva sulla faccia ora visibile di Didymos una cresta equatoriale già nota e molti massi, crateri e possibili solchi. Il responsabile Patrick Michel ha sottolineato che è il lato opposto rispetto a quello fotografato in precedenza dalla camera di DART. Il ricercatore ESA Michael Kueppers ipotizza che una parte dei dettagli possa essere collegata ai detriti espulsi da Dimorphos e arrivati sull'asteroide maggiore, ma la sola immagine non consente di dimostrare l'origine delle strutture.",
+      "Secondo ESA e ASI, fotografie più dettagliate dei due corpi erano previste per il 25 novembre, una data futura rispetto a questa edizione. La raccolta di dati successivi, anche con altri strumenti e piccoli satelliti della missione, dovrebbe aiutare a confrontare materiale superficiale, geometria e conseguenze dell'impatto. L'immagine del 5 novembre è quindi una tappa documentata dell'avvicinamento e una nuova vista del sistema, non il risultato conclusivo dell'indagine né la fotografia di un asteroide attualmente diretto verso la Terra."
+    ],
+    "facts": [
+      "L'ESA ha diffuso una nuova vista ravvicinata di Didymos il 5 novembre 2026; Dimorphos è in larga parte nascosto dall'ombra.",
+      "DART ha colpito Dimorphos il 26 settembre 2022; la sua orbita intorno a Didymos è stata accorciata di circa 33 minuti.",
+      "Il resoconto tecnico ESA e ASI indicano una distanza di 60 km per la vista; una diversa scheda ESA riporta 600 km, da chiarire prima dell'uso finale."
+    ],
+    "perspectives": [
+      "I ricercatori della missione propongono che alcuni rilievi di Didymos possano derivare da materiale espulso durante l'impatto DART; è un'ipotesi, non una causa verificata.",
+      "Space.com ed EarthSky descrivono il valore visivo e scientifico dell'immagine, ma si basano soprattutto sulle informazioni ESA e non vanno automaticamente conteggiati come due reportage originali indipendenti."
+    ],
+    "unknowns": [
+      "Serve una verifica formale della discrepanza ESA sul dato 60/600 km prima di fissare il dettaglio numerico in un'edizione pubblica.",
+      "L'origine dei rilievi visibili su Didymos e le misure definitive della struttura di Dimorphos richiedono dati successivi."
+    ],
+    "impactReason": "La nuova immagine è utile per la missione europea di difesa planetaria e per preparare misurazioni più precise, ma non è ancora una nuova dimostrazione della tecnica di deviazione.",
+    "questions": [
+      {
+        "question": "Che ruolo ha la sonda Hera rispetto all'impatto DART del 2022 su Dimorphos?",
+        "answer": "DART ha colpito Dimorphos e ne ha accorciato il periodo orbitale intorno a Didymos di circa 33 minuti. Hera arriva successivamente per studiare dimensioni, superficie e struttura dei due asteroidi, così da chiarire come le proprietà del bersaglio abbiano contribuito all'effetto dell'impatto cinetico."
+      },
+      {
+        "question": "Perché i possibili solchi sulla superficie di Didymos non si possono attribuire subito ai detriti di DART?",
+        "answer": "L'immagine mostra caratteristiche superficiali ma non la loro data di formazione. Alcuni detriti espulsi da Dimorphos potrebbero aver attraversato lo spazio tra i corpi, come ipotizza lo scienziato ESA Michael Kueppers; occorrono mappature e confronti successivi per distinguere questa spiegazione da forme già presenti."
+      }
+    ]
+  },
+  "en": {
+    "title": "Hera reveals a different side of Didymos in first close-up image",
+    "dek": "ESA's November 5 release shows the larger asteroid's surface while Dimorphos remains mostly in shadow; the scientific investigation of DART's impact is still ahead.",
+    "summary": "On November 5, 2026, ESA released a close-up view of Didymos taken by the Hera spacecraft. Surface details of the larger asteroid are visible, while smaller Dimorphos, struck by DART in September 2022, lies largely in shadow. Hera's mission is to understand how the system responded to that earlier impact, not to announce that its effects have already been fully measured.",
+    "body": [
+      "On November 5, 2026, the European Space Agency released a new image of the Didymos-Dimorphos asteroid pair acquired by its Hera spacecraft during the approach to the target. Didymos is about 780 metres across, while its roughly 151-metre moonlet Dimorphos is only partly visible because it lies in shadow. ESA's detailed technical account and the Italian Space Agency's report give a camera distance of 60 kilometres. A separate ESA media listing gives 600 kilometres; this metadata discrepancy needs to be resolved before a definitive publication states a single unqualified figure.",
+      "The context is NASA's DART experiment. On September 26, 2022, a spacecraft deliberately struck Dimorphos, shortening the time it takes to orbit Didymos by about 33 minutes. That previously established measurement demonstrated that a kinetic impact can change a small body's motion. Hera does not repeat the collision. Instead it visits the system to measure its physical properties, structure and changes, which are needed to make techniques of this kind more predictable if a threatening asteroid is discovered in the future.",
+      "Scientists can see the familiar equatorial ridge on the newly imaged side of Didymos, as well as numerous boulders, craters and possible grooves. Principal investigator Patrick Michel noted that this is the opposite side from the face seen by DART's camera before impact. ESA scientist Michael Kueppers suggested that some features might be linked to material ejected from Dimorphos and deposited on the larger asteroid. A single image, however, cannot establish when the surface features formed or what produced them.",
+      "ESA and the Italian Space Agency said more detailed images of both asteroids were planned for November 25, a date still in the future for this edition. Later measurements, including other Hera instruments and associated small spacecraft, are intended to help compare composition, geometry and impact effects. The November 5 image is therefore a documented milestone in Hera's approach and a new look at the system, not the conclusion of the crash-site investigation or a photograph of an asteroid currently heading for Earth."
+    ],
+    "facts": [
+      "ESA released a new close-up of Didymos on November 5, 2026, with Dimorphos largely hidden in shadow.",
+      "DART hit Dimorphos on September 26, 2022, shortening its orbit around Didymos by about 33 minutes.",
+      "ESA's detailed mission report and ASI give a 60-km camera distance, while another ESA listing says 600 km; the numerical discrepancy needs resolution."
+    ],
+    "perspectives": [
+      "Mission scientists suggest some of Didymos's newly visible features may reflect debris ejected by the DART impact; this remains a hypothesis.",
+      "Space.com and EarthSky describe the scientific interest of the image, but much of their November 5–6 coverage relies on ESA material rather than independent original observation."
+    ],
+    "unknowns": [
+      "ESA's conflicting 60/600-km descriptions should be formally reconciled before using one number unqualified in a public edition.",
+      "Identifying the origin of the visible Didymos surface features and the final physical condition of Dimorphos requires further observations."
+    ],
+    "impactReason": "The image supports ESA's planetary-defence investigation and prepares more precise measurements, but does not itself constitute a new demonstration of asteroid deflection.",
+    "questions": [
+      {
+        "question": "How does Hera's role differ from DART's 2022 impact on Dimorphos?",
+        "answer": "DART struck Dimorphos and shortened its orbital period around Didymos by about 33 minutes. Hera arrives later to examine the dimensions, surface and structure of both asteroids, helping determine how the target's properties influenced the kinetic-impact result."
+      },
+      {
+        "question": "Why can't the possible grooves on Didymos immediately be attributed to debris from DART?",
+        "answer": "The photograph shows surface features without establishing when they formed. Material ejected from Dimorphos might have crossed the gap and landed on Didymos, as ESA scientist Michael Kueppers suggests, but later mapping and comparisons are needed to distinguish that explanation from older terrain."
+      }
+    ]
+  },
+  "imageStatus": "NOT ACQUIRED — need original or licensed illustration; ESA image not automatically reusable"
+}
