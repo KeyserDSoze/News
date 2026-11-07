@@ -1,0 +1,107 @@
+{
+  "id": "us-stocks-nov6-rebound-weekly-loss",
+  "rank": 10,
+  "section": "world",
+  "category": "economy",
+  "impact": 2.5,
+  "tags": {
+    "it": [
+      "Wall-Street",
+      "mercati",
+      "tecnologia"
+    ],
+    "en": [
+      "Wall-Street",
+      "markets",
+      "technology"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "Associated Press",
+      "title": "How major US stock indexes fared Friday 11/6/2026",
+      "url": "https://apnews.com/article/806f71d95105bc7efbc760b194dd8cad",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "US STOCKS-Nasdaq rebounds but posts fourth straight weekly decline",
+      "url": "https://www.fidelity.com/news/article/us-markets/202611061602RTRSNEWSCOMBINED_L6N46N1AI_1",
+      "publishedAt": "2026-11-06",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Wall Street chiude la settimana in calo nonostante il rimbalzo del Nasdaq del 6 novembre",
+    "dek": "Il Nasdaq sale dell'1,1% venerdì ma perde il 3,4% nella settimana; la volatilità segue risultati elettorali e timori sui titoli AI.",
+    "summary": "Il 6 novembre 2026 la Borsa statunitense ha registrato una seduta mista: il Nasdaq ha guadagnato l'1,1% e lo S&P 500 lo 0,3%, mentre il Dow Jones è sceso dello 0,5%, secondo i dati di chiusura AP e Reuters. La settimana rimane negativa, con il Nasdaq a -3,4% e lo S&P 500 a -2,7%. Le spiegazioni sulla causa dei movimenti sono ipotesi degli analisti, non relazioni causali accertate.",
+    "body": [
+      "La sessione di venerdì 6 novembre a Wall Street ha interrotto almeno temporaneamente una forte vendita dei titoli tecnologici. L'Associated Press ha registrato la chiusura del Nasdaq Composite a 24.579,42 punti, in aumento dell'1,1%, e dello S&P 500 a 7.376,86 punti, in rialzo dello 0,3%. Il Dow Jones Industrial Average è invece arretrato dello 0,5% a 51.285,73 punti. Reuters, in un proprio resoconto delle contrattazioni di chiusura, conferma il rimbalzo dei titoli AI e il segno misto degli indici.",
+      "Il quadro settimanale rimane negativo nonostante la seduta conclusiva: AP riporta Nasdaq -3,4%, S&P 500 -2,7% e Dow -0,9% dal venerdì precedente. Si tratta di variazioni di prezzo degli indici, non di flussi di denaro dai fondi e nemmeno di perdite monetarie direttamente incassate da ogni risparmiatore. I dati di mercato sono misure delle quotazioni; per calcolare il risultato di un investimento individuale servirebbero date di acquisto, commissioni e composizione del portafoglio.",
+      "Le contrattazioni sono avvenute dopo una settimana segnata dalle elezioni statunitensi del 3 novembre, dalla brusca correzione di giovedì 5 e dal rapporto sul lavoro più forte delle attese pubblicato il 6. Reuters collega i timori di alcuni operatori alla prospettiva di una regolazione più severa dell'AI da parte del nuovo Congresso a maggioranza democratica e ai rendimenti del debito pubblico. Sono attribuzioni e interpretazioni di mercato: il movimento di un indice non dimostra da solo che una sola decisione o un unico fatto ne sia la causa.",
+      "Le azioni dei produttori di semiconduttori e di altre società legate all'intelligenza artificiale hanno recuperato una parte dei ribassi recenti, ma Reuters ricorda che il Nasdaq ha registrato la quarta settimana consecutiva negativa. Il cambiamento fra giovedì e venerdì rende particolarmente rischioso presentare la seduta come inversione duratura. I movimenti di prezzo saranno rilevanti per famiglie, imprese e investitori, ma non sono di per sé prove di un miglioramento della redditività futura del comparto tecnologico."
+    ],
+    "facts": [
+      "Alla chiusura del 6 novembre Nasdaq +1,1%, S&P 500 +0,3%, Dow -0,5% secondo AP.",
+      "Nella settimana Nasdaq -3,4%, S&P 500 -2,7%, Dow -0,9%.",
+      "Reuters segnala il recupero dei semiconduttori e la quarta settimana consecutiva negativa del Nasdaq."
+    ],
+    "perspectives": [
+      "Analisti citati da Reuters collegano parte della volatilità a aspettative sulle regole AI dopo le elezioni e ai rendimenti obbligazionari.",
+      "La lettura della seduta come recupero stabile non è dimostrata dalla variazione di un solo giorno."
+    ],
+    "unknowns": [
+      "Non è possibile attribuire in modo esclusivo il movimento degli indici a una singola notizia.",
+      "La durata del recupero e l'effetto su rendimenti futuri non sono determinabili dalle chiusure settimanali."
+    ],
+    "impactReason": "Le quotazioni influenzano investitori e costo del capitale su scala internazionale, ma l'articolo riguarda volatilità settimanale senza cambiamento strutturale provato.",
+    "questions": [
+      {
+        "question": "Come può il Nasdaq guadagnare l'1,1% il 6 novembre e perdere il 3,4% nell'intera settimana?",
+        "answer": "Il guadagno dell'1,1% confronta la chiusura di venerdì con quella di giovedì; il -3,4% confronta invece venerdì 6 con venerdì 30 ottobre. Un recupero in una sola seduta può attenuare, ma non cancellare, cali più pronunciati nei giorni precedenti."
+      },
+      {
+        "question": "Perché i timori di regolazione dell'AI non sono la causa accertata del calo degli indici?",
+        "answer": "Reuters riferisce l'interpretazione di operatori che considerano le nuove maggioranze democratiche e le prospettive di regole più severe, insieme a tassi e valutazioni azionarie. I prezzi aggregano molti scambi e aspettative, quindi non isolano un singolo fattore causale."
+      }
+    ]
+  },
+  "en": {
+    "title": "Wall Street ends the week lower despite a November 6 Nasdaq rebound",
+    "dek": "The Nasdaq rose 1.1% on Friday but lost 3.4% across the week as technology-share volatility continued after the US midterms.",
+    "summary": "US markets finished November 6, 2026 mixed: the Nasdaq rose 1.1% and the S&P 500 gained 0.3%, while the Dow slipped 0.5%, according to closing figures reported by AP and Reuters. For the full week, the Nasdaq fell 3.4% and the S&P 500 lost 2.7%. Proposed reasons for the price swings reflect market interpretations rather than established single-cause explanations.",
+    "body": [
+      "Friday's November 6 trading session on Wall Street interrupted, at least temporarily, a sharp selloff in technology shares. The Associated Press recorded the Nasdaq Composite closing at 24,579.42, up 1.1%, and the S&P 500 at 7,376.86, up 0.3%. The Dow Jones Industrial Average was down 0.5%, ending at 51,285.73. Reuters' own market-close coverage also documented a rebound among AI-related shares and mixed broader market performance.",
+      "The full week's numbers remained negative despite the final session. AP reported a 3.4% weekly decline in the Nasdaq, 2.7% in the S&P 500 and 0.9% in the Dow. These are index price changes, not estimates of cash flows into or out of investment funds and not the realised loss of every saver. Calculating an individual's result would require information about holdings, purchase dates and trading costs. A daily quote must be kept distinct from the outcome of an investment strategy.",
+      "The trading followed a week marked by the November 3 US midterm elections, a steep technology selloff on Thursday November 5, and a stronger-than-expected employment report on November 6. Reuters described traders' concerns about potentially tougher AI regulation under a Democratic-led Congress and changes in Treasury yields. These are attributed market explanations. A price movement by itself cannot prove that one political event or data release caused it.",
+      "Semiconductor manufacturers and other companies tied to AI recovered part of their recent losses, but Reuters noted the Nasdaq had suffered a fourth straight negative week. The contrast between Thursday's selloff and Friday's rebound illustrates why a single session cannot be called a lasting reversal. Market prices influence investors and the cost of capital, but the short-term recovery does not establish an improvement in future technology-company profits."
+    ],
+    "facts": [
+      "At the November 6 close the Nasdaq gained 1.1%, the S&P 500 0.3% and the Dow fell 0.5%.",
+      "Weekly losses were 3.4% for the Nasdaq, 2.7% for the S&P 500 and 0.9% for the Dow.",
+      "Reuters reported a rebound in semiconductor shares while the Nasdaq still registered its fourth negative week in a row."
+    ],
+    "perspectives": [
+      "Market participants quoted by Reuters point to potential AI regulation after elections and bond yields as factors in volatility.",
+      "One rebound session does not substantiate a claim that the earlier downtrend has definitively ended."
+    ],
+    "unknowns": [
+      "No exclusive causal explanation for the index movements is established.",
+      "The durability of the bounce and its implication for future returns are not known from these closes."
+    ],
+    "impactReason": "Global markets and investment decisions are affected by price changes, but the episode is a weekly fluctuation without a proven structural shift.",
+    "questions": [
+      {
+        "question": "How could the Nasdaq rise 1.1% on November 6 but fall 3.4% for the week?",
+        "answer": "The 1.1% compares Friday's close with Thursday's, whereas the -3.4% compares Friday November 6 with the previous Friday October 30. A one-day rebound can reduce but not fully offset steeper losses accumulated earlier in the week."
+      },
+      {
+        "question": "Why isn't concern about future AI regulation a proven cause of the index selloff?",
+        "answer": "Reuters cites traders considering new Democratic congressional majorities and possible rules alongside interest rates and valuations. Index prices combine many trades and expectations, so the observations cannot isolate one causal driver."
+      }
+    ]
+  },
+  "status": "DRAFT NOT PUBLISHED",
+  "issueDate": "2026-11-07"
+}
