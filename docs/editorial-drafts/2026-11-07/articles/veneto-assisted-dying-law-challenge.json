@@ -1,0 +1,115 @@
+{
+  "id": "veneto-assisted-dying-law-challenge",
+  "rank": 4,
+  "category": "politics",
+  "impact": 3,
+  "tags": {
+    "it": [
+      "Veneto",
+      "fine-vita",
+      "Consulta"
+    ],
+    "en": [
+      "Veneto",
+      "end-of-life",
+      "court"
+    ]
+  },
+  "sources": [
+    {
+      "outlet": "ANSA",
+      "title": "Il governo impugna la legge del Veneto sul fine vita, Salvini non vota in Cdm",
+      "url": "https://www.ansa.it/veneto/notizie/2026/11/05/il-governo-impugna-la-legge-del-veneto-sul-fine-vita-salvini-non_621da2df-3922-4646-b784-9c792b34c41a.html",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    },
+    {
+      "outlet": "la Repubblica",
+      "title": "Fine vita, il governo impugna la legge del Veneto. Calderoli contrario, Salvini diserta",
+      "url": "https://www.repubblica.it/politica/2026/11/05/news/fine_vita_governo_impugna_legge_del_veneto_calderoli_contrario_salvini_diserta-425702223/",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    },
+    {
+      "outlet": "RaiNews",
+      "title": "Fine vita, il CdM impugna legge Veneto",
+      "url": "https://www.rainews.it/articoli/ultimora/fine-vita-il-cdm-impugna-legge-veneto-29b0b2d4-5573-446c-a32c-90d0456e3f49.html",
+      "publishedAt": "2026-11-05",
+      "role": "reporting"
+    }
+  ],
+  "it": {
+    "title": "Fine vita, il governo impugna la legge veneta sulle procedure di assistenza al suicidio",
+    "dek": "La decisione del 5 novembre porta il conflitto di competenze verso la Corte costituzionale; Salvini non partecipa al voto, Calderoli si oppone.",
+    "summary": "Il Consiglio dei ministri ha deliberato il 5 novembre 2026 di impugnare la legge del Veneto che definisce tempi e procedure regionali per l'assistenza sanitaria al suicidio medicalmente assistito. Nella maggioranza emergono posizioni diverse: Roberto Calderoli è contrario all'impugnazione e Matteo Salvini non partecipa al voto. Il ricorso non costituisce ancora una decisione della Corte costituzionale sulla validità della norma.",
+    "body": [
+      "Il 5 novembre il governo italiano ha deciso di contestare davanti alla Corte costituzionale la legge approvata dal Consiglio regionale veneto sul fine vita. La norma stabilisce procedure e tempi con cui il sistema sanitario regionale deve gestire richieste di suicidio medicalmente assistito nelle condizioni definite dalla giurisprudenza costituzionale. ANSA e la Repubblica descrivono la scelta del Consiglio dei ministri come un'impugnazione della legge regionale, non come un intervento che modifica da solo i requisiti sanitari nazionali o una sentenza già pronunciata.",
+      "La decisione riflette il conflitto fra competenze statali e regionali. Il ministro per gli Affari regionali Roberto Calderoli ha sostenuto che la normativa veneta riguardasse l'organizzazione amministrativa di un'attività sanitaria già disciplinata dalle sentenze della Consulta. Forza Italia, attraverso il ministro Antonio Tajani, ha invece insistito sulla necessità di una legge del Parlamento per evitare disposizioni locali disomogenee. Le posizioni indicano una controversia sulle attribuzioni legislative oltre che differenze politiche sul tema.",
+      "Secondo i reportage, Matteo Salvini non ha preso parte alla discussione e alla votazione del Consiglio dei ministri, mentre Calderoli ha votato contro l'impugnazione. L'ex governatore Luca Zaia e il presidente veneto Alberto Stefani hanno difeso il testo regionale; Stefani ritiene che la sua struttura e gli emendamenti a tutela della vita lo rendano conforme ai limiti costituzionali. È una loro valutazione giuridica, non un esito predeterminato del giudizio. Il Veneto è significativo perché si tratta di una Regione guidata dal centrodestra.",
+      "Il percorso davanti alla Corte può chiarire quanto una Regione possa regolare gli aspetti procedurali in assenza di una legge nazionale esaustiva. Restano distinti il diritto di ottenere una valutazione clinica secondo i criteri della Consulta e le modalità amministrative con cui si svolge la verifica. Il comunicato di impugnazione non dimostra che tutte le procedure siano cessate né indica la data della decisione giudiziaria. La novità del 5 novembre è il contenzioso avviato dall'esecutivo."
+    ],
+    "facts": [
+      "Il Consiglio dei ministri ha deciso il 5 novembre 2026 di impugnare la legge veneta sul fine vita.",
+      "Salvini non ha partecipato al voto; Calderoli ha espresso dissenso dall'impugnazione secondo ANSA e Repubblica.",
+      "Zaia e Stefani hanno difeso la norma regionale, mentre Tajani ha richiesto una disciplina parlamentare nazionale."
+    ],
+    "perspectives": [
+      "Per Calderoli la legge ha natura procedurale e si conforma alla giurisprudenza esistente.",
+      "Per la componente di governo rappresentata da Tajani servono regole omogenee definite dal Parlamento; il presidente Stefani si aspetta il superamento del vaglio costituzionale."
+    ],
+    "unknowns": [
+      "L'esito del giudizio della Corte costituzionale e le sue motivazioni future non sono noti.",
+      "La concreta applicazione delle procedure in attesa del giudizio non è quantificata nei reportage."
+    ],
+    "impactReason": "La controversia interessa le competenze Stato-Regioni in una materia di diritti e assistenza sanitaria, con effetti possibili anche oltre il Veneto.",
+    "questions": [
+      {
+        "question": "Qual è la questione di competenza sollevata dal ricorso del governo contro la legge veneta sul fine vita?",
+        "answer": "Il nodo è se il Veneto possa disciplinare tempi e procedure amministrative del servizio sanitario per richieste di suicidio assistito sulla base delle sentenze della Consulta, oppure se tali disposizioni richiedano un intervento legislativo nazionale. Il ricorso chiede una verifica costituzionale, non decide già la questione."
+      },
+      {
+        "question": "Perché il dissenso di Calderoli e l'assenza di Salvini nel Cdm sono rilevanti per questa impugnazione?",
+        "answer": "Entrambi appartengono alla Lega, che governa anche il Veneto, ma le loro scelte mostrano che la decisione non è stata condivisa da tutti i membri della maggioranza. Calderoli difende la natura organizzativa della legge; la decisione collegiale di impugnare è comunque stata adottata."
+      }
+    ]
+  },
+  "en": {
+    "title": "Italian government challenges Veneto's assisted-dying procedures law",
+    "dek": "The November 5 decision raises constitutional questions about state and regional powers; Salvini abstains from the meeting and Calderoli objects.",
+    "summary": "On November 5, 2026, Italy's cabinet decided to challenge a Veneto regional law establishing timelines and procedures for medical assistance in cases of assisted suicide. Coalition members took different positions: Roberto Calderoli opposed the challenge while Matteo Salvini did not take part in the vote. The government's challenge is not yet a Constitutional Court ruling on the statute's validity.",
+    "body": [
+      "On November 5, Italy's government decided to contest a Veneto law on end-of-life procedures before the Constitutional Court. The regional statute sets out timelines and the administrative process by which health services address requests for medically assisted suicide under the conditions specified by constitutional case law. ANSA and la Repubblica report the cabinet decision as a legal challenge to the regional statute. It is not itself a change to national clinical eligibility conditions or a judgment already delivered by the court.",
+      "The decision concerns the division of lawmaking powers between central and regional authorities. Regional Affairs Minister Roberto Calderoli argued that the Veneto law was about organising the delivery of a health service already framed by Constitutional Court decisions. Forza Italia, through minister Antonio Tajani, stressed the need for national parliamentary legislation to avoid inconsistent rules from one region to another. These positions illustrate a dispute over jurisdiction as well as differences about end-of-life policy.",
+      "According to the reports, Deputy Prime Minister Matteo Salvini did not participate in the cabinet discussion or vote, while Calderoli opposed the challenge. Former Veneto president Luca Zaia and current regional president Alberto Stefani defended the statute; Stefani argued that its design and life-protecting amendments would withstand constitutional review. That is his legal opinion, not a prediction established by the court. Veneto's centre-right government makes the disagreement within the national governing coalition particularly notable.",
+      "Judicial review could clarify how far regions may regulate procedures when national legislation does not comprehensively address the topic. A person's eligibility for clinical evaluation under constitutional case law must be distinguished from the administrative steps governing that evaluation. The cabinet's decision does not establish that every service has stopped or when a court judgment will arrive. The verified November 5 development is the launch of a legal conflict over the regional rules."
+    ],
+    "facts": [
+      "On November 5, 2026 the cabinet agreed to challenge Veneto's assisted-dying procedures law.",
+      "Salvini did not take part in the vote and Calderoli opposed the challenge, according to ANSA and la Repubblica.",
+      "Zaia and Stefani defended the regional measure, while Tajani called for uniform national legislation."
+    ],
+    "perspectives": [
+      "Calderoli says the Veneto law primarily sets administrative procedures within existing legal parameters.",
+      "Tajani's party argues for parliamentary legislation; Veneto president Stefani predicts the statute can survive court review."
+    ],
+    "unknowns": [
+      "The Constitutional Court's decision and reasoning have not yet been delivered.",
+      "Reporting does not establish a comprehensive picture of how requests will be processed while the legal dispute proceeds."
+    ],
+    "impactReason": "The case concerns national versus regional powers in a sensitive area of personal rights and healthcare, with possible implications beyond Veneto.",
+    "questions": [
+      {
+        "question": "What division-of-powers question lies behind the government's challenge to Veneto's assisted-dying law?",
+        "answer": "The dispute is whether Veneto can set administrative timelines and health-service procedures under existing Constitutional Court decisions or whether national legislation must first define the arrangements. The cabinet's legal action initiates judicial review rather than resolving that question."
+      },
+      {
+        "question": "Why do Calderoli's opposition and Salvini's absence matter to the cabinet's Veneto decision?",
+        "answer": "Both are members of the League, which also governs Veneto, yet their positions show that the government's challenge was not supported uniformly across the coalition. Calderoli defended the law as organisational, but the cabinet as a whole still adopted the legal challenge."
+      }
+    ]
+  },
+  "status": "DRAFT NOT FOR PUBLICATION",
+  "section": "italy",
+  "issueDate": "2026-11-07",
+  "imageStatus": "pending original CC0 vector"
+}
